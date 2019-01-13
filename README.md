@@ -4,7 +4,7 @@ Subtitles made by Bolshevik0.
 
 Bolshevik0制作的字幕。
 
-## 目录/TOC
+## TOC/目录
 
 1. [LICENSE/许可证](#LICENSE许可证)
 2. [name/命名](#name命名)
