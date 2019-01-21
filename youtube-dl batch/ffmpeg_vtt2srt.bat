@@ -1,5 +1,5 @@
 @echo off
-set in_format=*.vtt
+set "in_format=*.vtt"
 set out_format=.srt
 
 @echo on
