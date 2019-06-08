@@ -39,8 +39,8 @@ Dialogue: 0,0:13:01.80,0:13:04.55,1080P思源黑体中等字幕,Text,0,0,0,,{\bl
 Dialogue: 0,0:13:15.87,0:13:17.81,1080P思源中等注释位置,Text,0,0,0,,{\blur4}{\a3}河童轩
 Dialogue: 0,0:13:16.10,0:13:17.81,1080P思源中等注释位置,Text,0,0,0,,{\blur4}{\a7}Sara胡椒粉
 Dialogue: 0,0:17:07.29,0:17:11.30,1080P思源中等注释位置,Text,0,0,0,,{\blur4}河童广场
-Dialogue: 0,0:20:27.03,0:20:32.04,1080P思源黑体中等字幕,Text,0,0,0,,{\blur4}\N{\a6\fn思源宋体 SemiBold\fs60\fsp0.1}想\h\h\h\h\h\h\h\h\h\h要\h\h\h\h\h\h\h\h\h\h相\h\h\h\h\h\h\h\h\h\h连\h\h\h\h\h\h\h\h\h\h可\h\h\h\h\h\h\h\h\h\h是\h\h\h\h\h\h\h\h\h\h却\h\h\h\h\h\h\h\h\h\h又\N\N
-Dialogue: 0,0:20:27.03,0:20:32.04,1080P思源黑体中等字幕,Text,0,0,0,,{\bord0\a6\fs120\fn思源宋体 SemiBold}不\h\h能\h\h见\h\h面
+Dialogue: 0,0:20:27.03,0:20:32.04,1080P思源黑体中等字幕,Text,0,0,0,,\N{\a6\fn思源宋体 SemiBold\fs60\fsp108}想要相连可是却{\fsp0}又\N\N
+Dialogue: 0,0:20:27.03,0:20:32.04,1080P思源黑体中等字幕,Text,0,0,0,,{\bord0\a6\fs120\fn思源宋体 SemiBold\fsp50}不能见{\fsp0}面
 Dialogue: 0,0:22:53.05,0:22:55.25,1080P思源英文标准位置,Text,0,0,0,,{\fn思源宋体 SemiBold\fs50\an4\pos(480,674)\bord0}本故事纯属虚构。\N\N所有登场人物及团体均与现实无关。
 Comment: 0,0:00:10.26,0:00:13.24,1080P思源英文标准位置,,0,0,0,,{\blur4}英文对话字幕
 Dialogue: 0,0:00:10.26,0:00:13.24,1080P思源英文标准位置,Toi,0,0,0,,{\blur4}Nii-san gave up everything for me.
