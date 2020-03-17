@@ -31,6 +31,10 @@ title-uploader-upload_date-youtube_id
 标题-原上传者-上传时间-youtube视频ID
 ```
 
+Some name may be too long to be the filename so it may only have youtube_id.
+
+有些名称过长无法用于文件名，可能只有youtube视频ID。
+
 ### youtube ID usage/油管ID使用说明
 
 Add the id after the url (https://www.youtube.com/watch?v=) to browse the youtube video. If you want to download the youtube videos, you can use [youtube-dl](https://github.com/rg3/youtube-dl/releases)(commandline program), [youtube-dlg](https://github.com/MrS0m30n3/youtube-dl-gui/releases)(GUI program), [Internet download manager](https://www.internetdownloadmanager.com/)(Browser plugin needed) etc.
