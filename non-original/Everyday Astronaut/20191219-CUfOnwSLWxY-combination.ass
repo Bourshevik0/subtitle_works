@@ -5,9 +5,7 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.709
-PlayResX: 1920
-PlayResY: 1080
+YCbCr Matrix: None
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +27,8 @@ Dialogue: 0,0:04:00.52,0:04:03.11,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}�
 Dialogue: 0,0:04:41.02,0:04:49.27,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：{\fs50}www.ulalaunch.com/docs/default-source/evolution/partial-rocket-reuse-using-mid-air-recovery-2008-7874.pdf
 Dialogue: 0,0:04:51.62,0:04:57.74,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：1959-1972年美国战略侦察卫星任务，再入之后，搭载胶卷的卫星返回舱通过固定翼飞机在空中回收
 Dialogue: 0,0:06:16.91,0:06:20.27,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：Rutherford是电子火箭一二级的发动机
+Dialogue: 0,0:06:22.01,0:06:32.36,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：TEA-TAB是化学点火燃料，但是不代表不能多次点火，猎鹰9号使用的就是TEA-TAB
+Dialogue: 0,0:06:32.36,0:06:35.35,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：详见{\fs40}space.stackexchange.com/questions/13953/how-do-the-falcon-9-engines-re-ignite
 Dialogue: 0,0:06:44.86,0:06:54.56,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：kick stage是电子火箭的三级部分(可选分级)，或者说上面级，可以翻译成 {\i1}踢一脚级{\i0}
 Dialogue: 0,0:07:02.24,0:07:06.93,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：Curie(居里)是kick stage的发动机
 Dialogue: 0,0:07:32.74,0:07:39.31,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：指20191111 starlink mission av75397301 (60+4):55 或 youtu.be/pIDuv0Ta0XQ?t=3599
@@ -38,14 +38,46 @@ Dialogue: 0,0:14:15.75,0:14:17.64,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}�
 Dialogue: 0,0:16:08.99,0:16:13.89,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：关于喷注器形状，可以参考 youtu.be/aa4ATJGRqA0
 Dialogue: 0,0:16:37.07,0:16:40.49,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：RCS = Reaction control system(反推力系统)，用于调整航天器姿态的小推力反推系统
 Dialogue: 0,0:17:40.38,0:17:45.98,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：一级火箭分离时，仍有垂直向上的分速度，所以仍未到达最高点，是分离后才到达
-Dialogue: 0,0:18:00.35,0:18:08.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：对液体燃料火箭而言，失重状态下二次点火前需要防止燃料飞溅，否则燃料输送可能出现问题\N对于猎鹰9火箭而言似乎是使用防溅板来解决问题 youtu.be/mVAGoWJuDKk
+Dialogue: 0,0:18:00.35,0:18:04.47,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：对液体燃料火箭而言，失重状态下二次点火前需要防止燃料飞溅
+Dialogue: 0,0:18:04.47,0:18:08.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：否则燃料输送可能出现问题\N对于猎鹰9火箭而言似乎是使用防溅板来解决问题{\fs40}youtu.be/mVAGoWJuDKk
 Dialogue: 0,0:18:08.54,0:18:10.81,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：GNC = Guidance, Navigation and Control (应该是)
 Dialogue: 0,0:20:22.25,0:20:30.14,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：第11次飞行直播 {\fs40}youtu.be/af-PplDIkbc?t=1113 {\r}(吐槽一下av85905439来源有问题打不开然后音画还不同步)
-Dialogue: 0,0:22:05.14,0:22:10.40,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：类似欧洲版猎鹰9 RETALT(反推辅助降落技术) www.retalt.eu/project/ 但实际上和猎鹰9一样，\N估计都是亚音速段起作用的，电子不需要亚音速段的控制，因为降落伞和减速气球足够了
-Dialogue: 0,0:00:40.11,0:00:41.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}{\blur4}(Tim laughing)
-Dialogue: 0,0:03:13.63,0:03:14.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}{\blur4}(Tim laughing)
-Dialogue: 0,0:04:03.11,0:04:04.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}{\blur4}(Tim laughing)
-Comment: 0,0:00:00.50,0:00:02.95,1080P-src-hans-sans-medi-75,,0,0,0,,双语字幕
+Dialogue: 0,0:22:05.14,0:22:10.40,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：类似欧洲版猎鹰9 RETALT(反推辅助降落技术) www.retalt.eu/project/ 但实际上和猎鹰9一样，估计都是亚音速段起作用的
+Dialogue: 0,0:22:10.40,0:22:13.74,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注：电子不需要亚音速段的控制，因为降落伞和减速气球足够了
+Comment: 0,0:01:49.80,0:01:54.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}结尾
+Dialogue: 0,0:24:12.83,0:24:14.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Isn't Peter just awesome?
+Dialogue: 0,0:24:14.65,0:24:16.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thanks to the folks at Rocket Lab for giving me some time
+Dialogue: 0,0:24:16.95,0:24:18.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with Peter and letting me pick his brain.
+Dialogue: 0,0:24:18.98,0:24:20.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That stuff is just super fun to me.
+Dialogue: 0,0:24:20.78,0:24:23.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And, I owe an even bigger thanks to my Patreon supporters
+Dialogue: 0,0:24:23.56,0:24:25.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}for helping me be able to get myself
+Dialogue: 0,0:24:25.52,0:24:27.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and my camera guy, Michael, out there to be able
+Dialogue: 0,0:24:27.59,0:24:29.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to shoot this kind of awesome stuff.
+Dialogue: 0,0:24:29.03,0:24:31.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you want to help me continue to do what I do,
+Dialogue: 0,0:24:31.40,0:24:33.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}please consider becoming a Patreon supporter
+Dialogue: 0,0:24:33.18,0:24:36.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}by going to patreon.com/everydayastronaut.
+Dialogue: 0,0:24:36.39,0:24:37.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And, while you're online, be sure and check out
+Dialogue: 0,0:24:37.78,0:24:41.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}everydayastronaut.com/shop for limited edition merch.
+Dialogue: 0,0:24:41.41,0:24:44.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now, do notice the merchandise is getting awesome.
+Dialogue: 0,0:24:44.45,0:24:46.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We have, you know, they're all hand-screen printed,
+Dialogue: 0,0:24:46.79,0:24:50.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}hand-sewn on patches, custom neck labels,
+Dialogue: 0,0:24:50.06,0:24:52.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}all these really cool things, and these awesome designs
+Dialogue: 0,0:24:52.65,0:24:54.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}are limited run, so if you like something,
+Dialogue: 0,0:24:54.12,0:24:55.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you better grab it now, because there's
+Dialogue: 0,0:24:55.35,0:24:57.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a good chance it won't be there next time you click
+Dialogue: 0,0:24:57.72,0:25:00.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}on the website, and I guess you can even grab
+Dialogue: 0,0:25:00.80,0:25:03.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}what's apparently one of Elon Musk's favorite shirts,
+Dialogue: 0,0:25:03.51,0:25:06.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Full Flow Staged Combustion Cycle shirt.
+Dialogue: 0,0:25:06.12,0:25:09.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We also have that as a hoodie version as well,
+Dialogue: 0,0:25:09.74,0:25:11.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}just in time for the cold weather.
+Dialogue: 0,0:25:11.35,0:25:12.97,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So, get in there, while you can,
+Dialogue: 0,0:25:12.97,0:25:14.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and get some awesome merchandise for yourself.
+Dialogue: 0,0:25:14.54,0:25:17.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's everydayastronaut.com/shop.
+Dialogue: 0,0:25:17.20,0:25:19.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thanks everybody, that's gonna do it for me.
+Dialogue: 0,0:25:19.40,0:25:21.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I'm Tim Dodd, The Everyday Astronaut.
+Dialogue: 0,0:25:21.70,0:25:24.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Bringing space down to earth, for everyday people.
+Dialogue: 0,0:25:26.87,0:25:29.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}(upbeat music)
+Comment: 0,0:00:00.50,0:00:02.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}双语字幕
 Dialogue: 0,0:00:00.50,0:00:02.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}嗨 我是Everyday Astronaut的Tim Dodd\N{\r1080P-src-hans-sans-Bold-50\blur4}- Hi, it's me, Tim Dodd, The Everyday Astronaut.
 Dialogue: 0,0:00:02.95,0:00:05.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我在Rocket Lab的全新的发射设施\N{\r1080P-src-hans-sans-Bold-50\blur4}I am here at Rocket Labs brand new launch facility
 Dialogue: 0,0:00:05.85,0:00:06.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在Virginia的Wallops\N{\r1080P-src-hans-sans-Bold-50\blur4}in Wallops, Virginia.
@@ -62,6 +94,7 @@ Dialogue: 0,0:00:31.26,0:00:32.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:00:33.61,0:00:35.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们在上面讨论如何\N{\r1080P-src-hans-sans-Bold-50\blur4}You mind if we talk up here...
 Dialogue: 0,0:00:38.06,0:00:39.28,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在你的发射台上？\N{\r1080P-src-hans-sans-Bold-50\blur4}on your launchpad?
 Dialogue: 0,0:00:39.28,0:00:40.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没问题\N{\r1080P-src-hans-sans-Bold-50\blur4}- No!
+Dialogue: 0,0:00:40.11,0:00:41.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}(Tim laughing)
 Dialogue: 0,0:00:41.01,0:00:43.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们跟这位懂行的聊聊吧\N{\r1080P-src-hans-sans-Bold-50\blur4}- So I guess let's talk to someone that knows
 Dialogue: 0,0:00:43.11,0:00:45.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}关于火箭实验室的很多事情\N{\r1080P-src-hans-sans-Bold-50\blur4}a lot about everything Rocket Lab.
 Dialogue: 0,0:00:47.01,0:00:48.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}别掉坑里 别掉坑里\N{\r1080P-src-hans-sans-Bold-50\blur4}Don't fall in the pit, don't fall in the pit
@@ -119,8 +152,8 @@ Dialogue: 0,0:03:04.14,0:03:06.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:03:06.21,0:03:08.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}更不用说反推式再入\N{\r1080P-src-hans-sans-Bold-50\blur4}Obviously, we looked at propulsive re-entry,
 Dialogue: 0,0:03:08.42,0:03:11.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这个事情就像是你只有半张餐巾纸写字一样\N{\r1080P-src-hans-sans-Bold-50\blur4}but that was, you know, you only get half a napkin filled out
 Dialogue: 0,0:03:11.72,0:03:13.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后你会发现这行不通的\N{\r1080P-src-hans-sans-Bold-50\blur4}before you realize that's just not going to work.
-Dialogue: 0,0:03:14.54,0:03:14.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没错 团队里大家有很多不同的想法\N{\r1080P-src-hans-sans-Bold-50\blur4}And then, yeah, there was all sort of all different concepts from the team, you know,\N{\r1080P-src-hans-sans-Bold-50\blur4}(Tim laughing)
-Dialogue: 0,0:03:14.55,0:03:21.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}And then, yeah, there was all sort of all different concepts from the team, you know,\N{\r1080P-src-hans-sans-Bold-50\blur4}没错 团队里大家有很多不同的想法
+Dialogue: 0,0:03:13.63,0:03:14.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}(Tim laughing)
+Dialogue: 0,0:03:14.54,0:03:21.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没错 团队里大家有很多不同的想法\N{\r1080P-src-hans-sans-Bold-50\blur4}And then, yeah, there was all sort of all different concepts from the team, you know,
 Dialogue: 0,0:03:21.50,0:03:24.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}类似巨型无人机 或者其他很多东西\N{\r1080P-src-hans-sans-Bold-50\blur4}giant drones, and all sorts of stuff, yeah.
 Dialogue: 0,0:03:24.48,0:03:28.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 啊 对 这正是我想问的\N{\r1080P-src-hans-sans-Bold-50\blur4}- Yeah, okay, I guess we're going to pop right into that, that's actually,
 Dialogue: 0,0:03:28.66,0:03:31.74,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我和一些人做了一个播客叫 {\i1}Our Ludicrous Future(我们滑稽的未来){\i}\N{\r1080P-src-hans-sans-Bold-50\blur4}I do a podcast with some guys, it's called "Our Ludicrous Future",
@@ -136,6 +169,7 @@ Dialogue: 0,0:03:50.15,0:03:53.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 
 Dialogue: 0,0:03:53.65,0:03:57.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}使用直升机很好\N{\r1080P-src-hans-sans-Bold-50\blur4}- (laughs) I know you are. using a helicopter is great.
 Dialogue: 0,0:03:57.78,0:04:00.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 只是因为你想多飞下直升机吗？\N{\r1080P-src-hans-sans-Bold-50\blur4}- Is this just you wanting to fly a helicopter more often?
 Dialogue: 0,0:04:00.52,0:04:03.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 不 不 不 但它有一个小原子在里面\N{\r1080P-src-hans-sans-Bold-50\blur4}- No, no, no, but there's a small atom of it.
+Dialogue: 0,0:04:03.11,0:04:04.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}(Tim Laughing)
 Dialogue: 0,0:04:04.05,0:04:07.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当然不是这样 我是指用直升机捕获这件事在之前已经被很多人做过了\N{\r1080P-src-hans-sans-Bold-50\blur4}But, no, I mean, many have recaptured with a helicopter, it's been done before.
 Dialogue: 0,0:04:07.85,0:04:09.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}很多人看到这个\N{\r1080P-src-hans-sans-Bold-50\blur4}And I know a lot of people look at that and
 Dialogue: 0,0:04:09.08,0:04:12.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们就会说这些话 {\i1}这也太难搞了{\i}\N{\r1080P-src-hans-sans-Bold-50\blur4}they sort of, they say "Man that's super tricky"
@@ -186,7 +220,7 @@ Dialogue: 0,0:06:08.13,0:06:10.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:06:10.42,0:06:12.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 那么 好吧 那么问题来了\N{\r1080P-src-hans-sans-Bold-50\blur4}- So, okay, a couple questions come out of that,
 Dialogue: 0,0:06:12.82,0:06:15.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对不起 我就是要好好问清楚这里的问题\N{\r1080P-src-hans-sans-Bold-50\blur4}sorry, I'm just going to keep digging through here, because...
 Dialogue: 0,0:06:16.91,0:06:20.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你的发动机卢瑟福能二次点火吗\N{\r1080P-src-hans-sans-Bold-50\blur4}Does your engine, the Rutherford, does it actually have re-light capability?
-Dialogue: 0,0:06:22.01,0:06:28.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 因为使用的是火炬式点火器 而不是T-Tabe(?) 所以能多次点火\N{\r1080P-src-hans-sans-Bold-50\blur4}- Well, I mean, we don't use T-Tabe, we use an igniter torch, so yes it does.
+Dialogue: 0,0:06:22.01,0:06:28.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 因为使用的是火炬式点火器 而不是三乙基铝-三乙基硼烷 所以能多次点火\N{\r1080P-src-hans-sans-Bold-50\blur4}- Well, I mean, we don't use TEA-TEB, we use an igniter torch, so yes it does.
 Dialogue: 0,0:06:28.80,0:06:32.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但我们不常用它 因为还有别的事要准备\N{\r1080P-src-hans-sans-Bold-50\blur4}But, we don't actively use it, I mean there's a few things we'd need to do,
 Dialogue: 0,0:06:32.36,0:06:35.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们需要用氮或者别的东西来清洗燃烧室\N{\r1080P-src-hans-sans-Bold-50\blur4}we'd need to purge the chambers with some nitrogen and stuff,
 Dialogue: 0,0:06:35.35,0:06:38.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在发射的火箭上则完全不使用这个功能\N{\r1080P-src-hans-sans-Bold-50\blur4}but we don't actually use it on the launch vehicle,
@@ -259,7 +293,7 @@ Dialogue: 0,0:09:56.85,0:09:59.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 
 Dialogue: 0,0:09:59.21,0:10:00.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}直接入轨代价比较高 但是 -\N{\r1080P-src-hans-sans-Bold-50\blur4}Direct inject's expensive, but--
 Dialogue: 0,0:10:00.66,0:10:03.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 看到这些让人振奋人心\N{\r1080P-src-hans-sans-Bold-50\blur4}- That will be really exciting to see that.
 Dialogue: 0,0:10:03.15,0:10:04.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}想想这种尺寸的火箭\N{\r1080P-src-hans-sans-Bold-50\blur4}I mean, just thinking that a rocket this size,
-Dialogue: 0,0:10:04.89,0:10:08.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一个小火箭也能把有效载荷带到地球\N{\r1080P-src-hans-sans-Bold-50\blur4}a relatively small rocket will be able to take a payload to the moon I mean--
+Dialogue: 0,0:10:04.89,0:10:08.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一个小火箭也能把有效载荷带到月球\N{\r1080P-src-hans-sans-Bold-50\blur4}a relatively small rocket will be able to take a payload to the moon I mean--
 Dialogue: 0,0:10:08.44,0:10:14.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 这在很多方面都会振奋人心 因为它带来了很多不同的机会\N{\r1080P-src-hans-sans-Bold-50\blur4}- Yeah, and I think it's exciting on a lot of fronts, because it opens up so many different opportunities.
 Dialogue: 0,0:10:14.86,0:10:19.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}TLI很难 但我们也可以去地球同步轨道 或者日心轨道\N{\r1080P-src-hans-sans-Bold-50\blur4}You know, TLI injection is great, but we can also go to GEO we can do a heliocentric,
 Dialogue: 0,0:10:19.77,0:10:22.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是这种能力让人振奋\N{\r1080P-src-hans-sans-Bold-50\blur4}but there's all sorts of stuff you can do, which are really exciting.
@@ -535,36 +569,3 @@ Dialogue: 0,0:24:04.46,0:24:05.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 
 Dialogue: 0,0:24:05.42,0:24:07.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 这会很了不起的 谢谢你给我这么多的时间 - 谢谢你 Tim\N{\r1080P-src-hans-sans-Bold-50\blur4}- That's amazing, well thank you so much for your time - Thanks, Tim!
 Dialogue: 0,0:24:07.44,0:24:09.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 同时祝贺你建设了这么一个新的发射场\N{\r1080P-src-hans-sans-Bold-50\blur4}- and congratulations on this wonderful new launch complex!
 Dialogue: 0,0:24:09.75,0:24:12.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 谢谢你 Tim - 下次再见\N{\r1080P-src-hans-sans-Bold-50\blur4}- Thanks Tim, appreciate it. - Until next time.
-Comment: 0,0:01:49.80,0:01:54.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}结尾
-Dialogue: 0,0:24:12.83,0:24:14.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Isn't Peter just awesome?
-Dialogue: 0,0:24:14.65,0:24:16.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thanks to the folks at Rocket Lab for giving me some time
-Dialogue: 0,0:24:16.95,0:24:18.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with Peter and letting me pick his brain.
-Dialogue: 0,0:24:18.98,0:24:20.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That stuff is just super fun to me.
-Dialogue: 0,0:24:20.78,0:24:23.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And, I owe an even bigger thanks to my Patreon supporters
-Dialogue: 0,0:24:23.56,0:24:25.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}for helping me be able to get myself
-Dialogue: 0,0:24:25.52,0:24:27.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and my camera guy, Michael, out there to be able
-Dialogue: 0,0:24:27.59,0:24:29.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to shoot this kind of awesome stuff.
-Dialogue: 0,0:24:29.03,0:24:31.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you want to help me continue to do what I do,
-Dialogue: 0,0:24:31.40,0:24:33.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}please consider becoming a Patreon supporter
-Dialogue: 0,0:24:33.18,0:24:36.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}by going to patreon.com/everydayastronaut.
-Dialogue: 0,0:24:36.39,0:24:37.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And, while you're online, be sure and check out
-Dialogue: 0,0:24:37.78,0:24:41.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}everydayastronaut.com/shop for limited edition merch.
-Dialogue: 0,0:24:41.41,0:24:44.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now, do notice the merchandise is getting awesome.
-Dialogue: 0,0:24:44.45,0:24:46.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We have, you know, they're all hand-screen printed,
-Dialogue: 0,0:24:46.79,0:24:50.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}hand-sewn on patches, custom neck labels,
-Dialogue: 0,0:24:50.06,0:24:52.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}all these really cool things, and these awesome designs
-Dialogue: 0,0:24:52.65,0:24:54.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}are limited run, so if you like something,
-Dialogue: 0,0:24:54.12,0:24:55.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you better grab it now, because there's
-Dialogue: 0,0:24:55.35,0:24:57.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a good chance it won't be there next time you click
-Dialogue: 0,0:24:57.72,0:25:00.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}on the website, and I guess you can even grab
-Dialogue: 0,0:25:00.80,0:25:03.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}what's apparently one of Elon Musk's favorite shirts,
-Dialogue: 0,0:25:03.51,0:25:06.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Full Flow Staged Combustion Cycle shirt.
-Dialogue: 0,0:25:06.12,0:25:09.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We also have that as a hoodie version as well,
-Dialogue: 0,0:25:09.74,0:25:11.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}just in time for the cold weather.
-Dialogue: 0,0:25:11.35,0:25:12.97,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So, get in there, while you can,
-Dialogue: 0,0:25:12.97,0:25:14.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and get some awesome merchandise for yourself.
-Dialogue: 0,0:25:14.54,0:25:17.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's everydayastronaut.com/shop.
-Dialogue: 0,0:25:17.20,0:25:19.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thanks everybody, that's gonna do it for me.
-Dialogue: 0,0:25:19.40,0:25:21.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I'm Tim Dodd, The Everyday Astronaut.
-Dialogue: 0,0:25:21.70,0:25:24.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Bringing space down to earth, for everyday people.
-Dialogue: 0,0:25:26.87,0:25:29.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}(upbeat music)

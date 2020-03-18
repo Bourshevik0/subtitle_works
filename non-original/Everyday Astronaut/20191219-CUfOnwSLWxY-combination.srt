@@ -1,0 +1,2631 @@
+﻿1
+00:00:00,500 --> 00:00:02,950
+嗨 我是Everyday Astronaut的Tim Dodd
+- Hi, it's me, Tim Dodd, The Everyday Astronaut.
+注：Everyday Astronaut意译为每日宇航员
+翻译，压制：旋火
+视频来源：youtu.be/CUfOnwSLWxY
+原视频发布日期：20191219
+
+2
+00:00:02,950 --> 00:00:05,850
+我在Rocket Lab的全新的发射设施
+I am here at Rocket Labs brand new launch facility
+注：Rocket Lab意译为火箭实验室
+翻译，压制：旋火
+视频来源：youtu.be/CUfOnwSLWxY
+原视频发布日期：20191219
+
+3
+00:00:05,850 --> 00:00:06,780
+在Virginia的Wallops
+in Wallops, Virginia.
+
+4
+00:00:06,780 --> 00:00:09,240
+这里是大西洋中部地区太空港0C号发射台
+This is Mars Pad 0C,
+注：MARS = Mid-Atlantic Regional Spaceport
+
+5
+00:00:09,560 --> 00:00:11,550
+这座发射台将给Rocket Lab
+and this will allow Rocket Lab to launch their
+
+6
+00:00:11,550 --> 00:00:14,670
+提供从美国发射小型运载火箭<i>电子</i>的能力
+awesome little electron rocket from the United States.
+<s>运用自如</s>
+
+7
+00:00:14,670 --> 00:00:17,080
+要知道 现在他们只有一个(发射场)LC1
+You know, right now they only have launch complex one
+
+8
+00:00:17,080 --> 00:00:19,870
+LC1在新西兰 而这是LC2
+in New Zealand, this is launch complex two,
+
+9
+00:00:19,870 --> 00:00:21,770
+当然我还有很多问题想问
+and I still have a lot of questions,
+
+10
+00:00:21,770 --> 00:00:25,330
+尤其是 Rocket Lab正在研究电子火箭的可重复使用能力
+especially, Rocket Lab is working on reusability for their
+
+11
+00:00:25,330 --> 00:00:27,470
+所以我不知道会不会有人
+awesome electron rocket, so I wonder if there's anyone
+
+12
+00:00:27,470 --> 00:00:31,260
+来回答我几个问题
+that could, you know, answer a few more questions about
+
+13
+00:00:31,260 --> 00:00:32,110
+特别是关于回收使用的问题
+that whole thing.
+
+14
+00:00:33,610 --> 00:00:35,760
+我们在上面讨论如何
+You mind if we talk up here...
+
+15
+00:00:38,060 --> 00:00:39,280
+在你的发射台上？
+on your launchpad?
+
+16
+00:00:39,280 --> 00:00:40,110
+没问题
+- No!
+
+17
+00:00:40,110 --> 00:00:41,010
+(Tim laughing)
+
+18
+00:00:41,010 --> 00:00:43,110
+我们跟这位懂行的聊聊吧
+- So I guess let's talk to someone that knows
+
+19
+00:00:43,110 --> 00:00:45,240
+关于火箭实验室的很多事情
+a lot about everything Rocket Lab.
+
+20
+00:00:47,010 --> 00:00:48,310
+别掉坑里 别掉坑里
+Don't fall in the pit, don't fall in the pit
+
+21
+00:00:48,310 --> 00:00:49,990
+别掉坑里
+don't fall in the pit.
+
+22
+00:00:49,990 --> 00:00:50,820
+嘿Peter
+Hey Peter!
+
+23
+00:00:50,820 --> 00:00:51,650
+嘿Tim 你好吗？
+- Hey Tim! - How are ya?
+
+24
+00:00:51,660 --> 00:00:52,490
+很高兴再次见到你
+- Good to see you again.
+
+25
+00:00:52,490 --> 00:00:53,320
+有没有感觉屁股快冻住了
+- You freezing your butt off out here?
+
+26
+00:00:53,320 --> 00:00:54,360
+是的
+- Yes. (Tim laughs)
+
+27
+00:00:54,360 --> 00:00:56,500
+来这儿度过年末时光挺不错的
+- Well, it's a good place to end the year though!
+
+28
+00:00:56,500 --> 00:00:57,400
+快到2020年了
+We're almost 2020! - It is a wonderful
+
+29
+00:00:57,400 --> 00:00:58,330
+这地方确实不错
+place, yep.
+
+30
+00:00:58,330 --> 00:01:00,490
+而且 你们这一年的成就难以置信
+- And, you guys had an unbelievable year.
+
+31
+00:01:00,490 --> 00:01:03,160
+是啊 我们队伍2019年的成果让我感到很自豪
+- Yeah, I'm super proud of the team for 2019.
+
+32
+00:01:03,160 --> 00:01:06,720
+年末大家都会为此感到高兴
+I think we can end up this year with a smile on their face.
+
+33
+00:01:06,720 --> 00:01:09,640
+今年到头 你们一共发射了6次对吧
+- Yeah, so you ended up with six launches right?
+
+34
+00:01:09,640 --> 00:01:10,470
+对
+- Yup.
+
+35
+00:01:10,470 --> 00:01:13,690
+而且 你们现在有两个发射台正在运作
+- And, you ended up with two launchpads now online?
+
+36
+00:01:13,690 --> 00:01:14,520
+对
+- Yup.
+
+37
+00:01:14,520 --> 00:01:18,260
+而且 你们开始搞重复使用了
+- And you, ended up working on recoverability?
+
+38
+00:01:18,260 --> 00:01:22,700
+是的 当前可重复使用的工作达到了重要阶段
+- Yeah, now, we achieved a pretty decent milestone with recoverability, actually.
+
+39
+00:01:22,700 --> 00:01:24,890
+比我们预期的更好
+It was way better than we expected.
+
+40
+00:01:24,890 --> 00:01:26,900
+那我们从这里开始吧
+- As you know, that's what I want to start on,
+
+41
+00:01:26,900 --> 00:01:28,520
+这确实是让人感兴趣的话题
+'cause that's really exciting.
+
+42
+00:01:28,520 --> 00:01:33,230
+所以你以前是听之任之 <i>不知道先生</i>
+So, you're sitting back here, mister, I don't know,
+
+43
+00:01:33,230 --> 00:01:35,140
+可能不是要去尝试 可重复使用能力
+probably not gonna try, recoverability
+
+44
+00:01:35,140 --> 00:01:36,550
+(说)这里面没有利润
+doesn't have margins in it.
+
+45
+00:01:36,550 --> 00:01:38,690
+首先 跟我说说你是怎么转变看法的
+First off, tell me what kind of closed for you
+
+46
+00:01:38,690 --> 00:01:41,410
+也就是重复使用其实是有市场的
+on that concept that maybe there is room,
+
+47
+00:01:41,410 --> 00:01:42,770
+也许是值得的
+maybe it's worth it.
+
+48
+00:01:42,770 --> 00:01:44,140
+说说你的想法
+Just run me through your thought process there.
+
+49
+00:01:44,140 --> 00:01:46,770
+那么 小型运载火箭确实是非常困难的
+- So, small launch vehicles are notoriously difficult, right?
+
+50
+00:01:46,770 --> 00:01:49,800
+导致小型运载火箭的利润如此紧张
+'Cause the margin on a small launch vehicle is so tight.
+
+51
+00:01:49,800 --> 00:01:53,250
+当你的有效载荷只有150kg时
+When you've only got 150 kilograms of payload to play with,
+
+52
+00:01:53,250 --> 00:01:57,720
+再加入100kg的降落伞是很难处理的事情
+adding 100 kilograms of parachutes, it's just very difficult to trade.
+
+53
+00:01:57,720 --> 00:02:02,100
+- 那么 真正让我考虑这个事情是当我开始看数据
+- So, what really got me thinking is I started to look at the data
+
+54
+00:02:02,100 --> 00:02:05,490
+发现一级火箭的再入大气之后的生存能力是如此之好
+and started to see how well stage one was surviving.
+
+55
+00:02:05,490 --> 00:02:10,280
+我们获得了很好的上升段的测量数据
+We got good measurements during ascent of the environments, and really,
+
+56
+00:02:10,280 --> 00:02:12,940
+我开始理解这件事
+I started understanding everything that was going on.
+
+57
+00:02:12,940 --> 00:02:18,140
+当然 也是为了提高发射频率
+And then also, trying to increase launch cadence at the same time,
+
+58
+00:02:18,140 --> 00:02:20,590
+至于工厂
+and steering out into a factory
+
+59
+00:02:20,590 --> 00:02:23,080
+我之前就决定必须要把工厂扩建一倍
+where we knew we were going to have to double the size of this factory,
+
+60
+00:02:23,080 --> 00:02:25,090
+然后继续建造更多机器
+and just keep on building more and more machines,
+
+61
+00:02:25,090 --> 00:02:27,290
+让制造过程变得更加自动化
+and automating more and more and more,
+
+62
+00:02:27,290 --> 00:02:33,480
+工厂这边的事是很明确的 话说回来 火箭回收这边的数据并不夸张
+and it just sort of became obvious, well, the data doesn't say that it's insane,
+
+63
+00:02:33,480 --> 00:02:36,830
+是很困难 但还不至于打破物理法则
+it says it's difficult, but we're not breaking any laws of physics here.
+
+64
+00:02:36,830 --> 00:02:40,430
+- 如此 我在公司内部组建了一个小团队
+- So, yeah, I formed a small team within the company
+
+65
+00:02:40,430 --> 00:02:43,070
+并着手完成这个项目
+and we started to go after it.
+
+66
+00:02:43,070 --> 00:02:48,340
+- 你有像Wile E. Coyote的黑板那样的说明来简单介绍一下这个工作吗
+- Do you have, just a chalkboard full of Wile E. Coyote style, what's going to work for us?
+注：华纳的动画Wile E. Coyote and the Road Runner(威利狼与哔哔鸟)
+
+67
+00:02:48,340 --> 00:02:51,150
+-  是啊 肯定有大量的白板讨论
+- Yeah, I mean there was plenty of whiteboard sessions, that's for sure.
+
+68
+00:02:52,060 --> 00:02:56,510
+- 跟我分享一下 在你尝试这件事之前
+- Share with me, one other one, before you landed on, was there even something close,
+
+69
+00:02:56,510 --> 00:02:59,970
+是否有其他竞争者尝试做空中的回收？
+another contender before you landed on trying to do the air recovery?
+
+70
+00:02:59,970 --> 00:03:04,140
+- 是啊 考虑到最后把火箭降落到回收网里
+- Yeah, I mean we looked at landing it in a net
+注：av78382556
+
+71
+00:03:04,140 --> 00:03:06,210
+和SpaceX所做的没有什么不同呢
+not dissimilar to what SpaceX does with experience.
+
+72
+00:03:06,210 --> 00:03:08,420
+更不用说反推式再入
+Obviously, we looked at propulsive re-entry,
+
+73
+00:03:08,420 --> 00:03:11,720
+但这个事情就像是你只有半张餐巾纸写字一样
+but that was, you know, you only get half a napkin filled out
+
+74
+00:03:11,720 --> 00:03:13,630
+最后你会发现这行不通的
+before you realize that's just not going to work.
+
+75
+00:03:13,630 --> 00:03:14,540
+(Tim laughing)
+
+76
+00:03:14,540 --> 00:03:14,550
+没错 团队里大家有很多不同的想法
+And then, yeah, there was all sort of all different concepts from the team, you know,
+(Tim laughing)
+
+77
+00:03:14,550 --> 00:03:21,500
+And then, yeah, there was all sort of all different concepts from the team, you know,
+没错 团队里大家有很多不同的想法
+
+78
+00:03:21,500 --> 00:03:24,480
+类似巨型无人机 或者其他很多东西
+giant drones, and all sorts of stuff, yeah.
+
+79
+00:03:24,480 --> 00:03:28,660
+- 啊 对 这正是我想问的
+- Yeah, okay, I guess we're going to pop right into that, that's actually,
+
+80
+00:03:28,660 --> 00:03:31,740
+我和一些人做了一个播客叫 <i>Our Ludicrous Future(我们滑稽的未来)</i>
+I do a podcast with some guys, it's called "Our Ludicrous Future",
+
+81
+00:03:31,740 --> 00:03:34,510
+每周 我们会收集人们的问题
+and each week, we take people's questions of
+
+82
+00:03:34,510 --> 00:03:35,570
+<i>他们为什么不只是...</i>
+"Why don't they just..."
+
+83
+00:03:35,570 --> 00:03:36,400
+- 是啊 是啊 没错
+- Yeah, yeah, right.
+
+84
+00:03:36,400 --> 00:03:39,320
+- 这是个好问题 <i>为什么不干脆用个巨大的无人机呢</i>
+- And that was a good one, it was "Why don't they just use a giant drone,
+
+85
+00:03:39,320 --> 00:03:40,610
+<i>你们已经有电池了</i>
+you guys already have batteries,
+
+86
+00:03:40,610 --> 00:03:44,990
+<i>你有电动机 使用它的话会比操作一个直升机便宜</i>
+you have motors, and it could be cheaper than operating a helicopter,
+
+87
+00:03:44,990 --> 00:03:48,050
+<i>甚至能搞成四轴的</i>
+you could even do four of them that fly in unison",
+
+88
+00:03:48,050 --> 00:03:50,150
+为什么最后没有这么做呢？
+why didn't that end up working out?
+
+89
+00:03:50,150 --> 00:03:53,650
+- 嗯 我的意思是 我正准备我的直升机驾照 所以
+- Well, I mean, I'm trying to get my helicopter's license, so,
+
+90
+00:03:53,650 --> 00:03:57,780
+使用直升机很好
+- (laughs) I know you are. using a helicopter is great.
+
+91
+00:03:57,780 --> 00:04:00,520
+- 只是因为你想多飞下直升机吗？
+- Is this just you wanting to fly a helicopter more often?
+
+92
+00:04:00,520 --> 00:04:03,110
+- 不 不 不 但它有一个小原子在里面
+- No, no, no, but there's a small atom of it.
+注：电子和原子梗
+
+93
+00:04:03,110 --> 00:04:04,050
+(Tim Laughing)
+
+94
+00:04:04,050 --> 00:04:07,850
+当然不是这样 我是指用直升机捕获这件事在之前已经被很多人做过了
+But, no, I mean, many have recaptured with a helicopter, it's been done before.
+
+95
+00:04:07,850 --> 00:04:09,080
+很多人看到这个
+And I know a lot of people look at that and
+
+96
+00:04:09,080 --> 00:04:12,310
+他们就会说这些话 <i>这也太难搞了</i>
+they sort of, they say "Man that's super tricky"
+
+97
+00:04:12,310 --> 00:04:14,110
+和 <i>这么难的事情怎么能做成呢？</i>
+and "How are they going to pull that off?"
+
+98
+00:04:14,110 --> 00:04:17,810
+但实际上这是相对正统(理论)的做法
+but really that is, relatively academic,
+
+99
+00:04:17,810 --> 00:04:20,620
+比起让火箭再入并让其幸存要稍微正统一点
+compared to actually re-entering the stage and getting it through one bit.
+
+100
+00:04:20,620 --> 00:04:23,180
+- 好吧 你与一些公司合作
+- Right, well, do you work with the company
+
+101
+00:04:23,180 --> 00:04:27,960
+是那些位于苏格兰或英格兰那些有回收系统的公司吗？
+that was based out of, was it Scotland or England, that has the recovery system?
+
+102
+00:04:27,960 --> 00:04:28,890
+真的吗
+Really?
+
+103
+00:04:28,890 --> 00:04:29,780
+- 不 不
+- No, no.
+
+104
+00:04:29,780 --> 00:04:31,850
+- 好吧 当然 网上的那些人马上就发现了
+- Okay, 'ccause, of course, everyone on the internet immediately saw
+
+105
+00:04:31,850 --> 00:04:33,940
+你们这些人正着手研究的东西<i>没错 这个已经有人做出来了</i>
+what you guys are working on, and go "Well, this has already been done"
+
+106
+00:04:33,940 --> 00:04:38,940
+<i>一家公司的一个视频 内容是回收一个带翼伞的模型火箭</i>
+here's a video of company recovering a, it was a mock-up booster with a parafoil.
+
+107
+00:04:38,940 --> 00:04:41,020
+- 是啊 可这件事在此之前就已完成
+- Yeah, I mean it's been done.
+
+108
+00:04:41,020 --> 00:04:43,760
+洛克希德·马丁公司大概90年代就做到了
+Lockheed Martin did it, I think it was in the 90's,
+注：www.ulalaunch.com/docs/default-source/evolution/partial-rocket-reuse-using-mid-air-recovery-2008-7874.pdf
+
+109
+00:04:43,760 --> 00:04:49,270
+他们尝试回收一些再入的人造物体
+to try and recover some re-entered artifacts, so yeah.
+注：www.ulalaunch.com/docs/default-source/evolution/partial-rocket-reuse-using-mid-air-recovery-2008-7874.pdf
+
+110
+00:04:49,270 --> 00:04:51,620
+如果你追溯到更早的时期
+I mean it's in, you know, if you go back far enough
+
+111
+00:04:51,620 --> 00:04:52,750
+你看看日冕计划
+you look at the Corona missions,
+注：1959-1972年美国战略侦察卫星任务，再入之后，搭载胶卷的卫星返回舱通过固定翼飞机在空中回收
+
+112
+00:04:52,750 --> 00:04:54,670
+尽管(ULA回收的那部分)用的是直升机 但和这个也差不多
+all that was in a helicopter, it's still the same gig.
+注：1959-1972年美国战略侦察卫星任务，再入之后，搭载胶卷的卫星返回舱通过固定翼飞机在空中回收
+
+113
+00:04:54,670 --> 00:04:55,760
+- 对 没错
+- Right, same, yup.
+注：1959-1972年美国战略侦察卫星任务，再入之后，搭载胶卷的卫星返回舱通过固定翼飞机在空中回收
+
+114
+00:04:55,760 --> 00:04:57,740
+再入之后打开降落伞
+Getting through re-entry popping a chute,
+注：1959-1972年美国战略侦察卫星任务，再入之后，搭载胶卷的卫星返回舱通过固定翼飞机在空中回收
+
+115
+00:04:57,740 --> 00:04:59,050
+在它溅落之前回收它
+swooping it up before it hits the water.
+
+116
+00:04:59,050 --> 00:05:00,280
+- 是啊 这基本上一样
+- Yup, that's pretty much it.
+
+117
+00:05:00,280 --> 00:05:01,900
+- 那么 你有多少时间
+- And, how much time do you have
+
+118
+00:05:01,900 --> 00:05:05,250
+在溅落和降落伞部署之间
+between when the parachutes deploy, and before it hits the ground?
+
+119
+00:05:05,250 --> 00:05:07,890
+- 所以这就是我们用翼伞的想法 可以用风控制它
+- Yeah, so that's the idea of the parafoil is we can steer it into the wind,
+
+120
+00:05:07,890 --> 00:05:10,150
+最大程度的延长滞空时间
+and maximize the hang-time there.
+
+121
+00:05:10,150 --> 00:05:11,630
+差不多可以维持20分钟
+So, you could have up to twenty minutes.
+
+122
+00:05:11,630 --> 00:05:15,280
+- 所以这么说你可以用直升机多次尝试回收过程
+- Really? So you could have multiple attempts with the helicopter.
+
+123
+00:05:15,280 --> 00:05:19,720
+- 是啊  所以我们尝试并限制下降率最大为每秒10米
+- Yeah, yup, and so we try and limit the descent rate to a maximum of 10 meters a second
+
+124
+00:05:19,720 --> 00:05:23,860
+这么看去用钩子回收的几率很大
+so you know, you get a decent opportunity to go and scoop it.
+
+125
+00:05:23,860 --> 00:05:25,820
+- 好吧 听起来不错
+- Okay, that's pretty cool, so I guess,
+
+126
+00:05:25,820 --> 00:05:29,360
+所以近期之内真的没有无人机了吗？
+no autonomous drones in the near-time future?
+
+127
+00:05:29,360 --> 00:05:35,740
+- 不会的 以前只讨论过无人船 但现在不考虑无人机
+- No, there was talk of autonomous ships at one point, but, no, no autonomous drones at this point.
+
+128
+00:05:35,740 --> 00:05:39,570
+- 好吧 这是你对 <i>为什么不干脆用无人机</i>(的回答)
+- Okay, so that's your "Why don't they just use (laughs) drones."
+
+129
+00:05:39,570 --> 00:05:40,920
+- Peter喜欢驾驶直升机
+- Peter likes flying a helicopter.
+
+130
+00:05:40,920 --> 00:05:43,560
+- 这就是原因
+- Because Peter loves flying helicopters, that's why.
+
+131
+00:05:43,560 --> 00:05:47,880
+不过 没关系 关于反推 很多人说
+No, okay, so propulsive, that came up in a lot of discussions, people say,
+
+132
+00:05:47,880 --> 00:05:49,600
+<i>他们为什么不做反推式再入？</i>
+"Why don't they do propulsive re-entry?"
+
+133
+00:05:49,600 --> 00:05:52,220
+答案很简单 最有可能是 你不需要它
+The simple answer, most likely, is that you don't need it.
+
+134
+00:05:52,220 --> 00:05:54,910
+你的一级火箭能够扛下高温墙
+Your booster can survive, it survived the wall.
+
+135
+00:05:54,910 --> 00:05:55,790
+- 没错 它确实扛过了高温墙
+- Yeah it did survive the wall.
+
+136
+00:05:55,790 --> 00:05:57,860
+- 而且不需要反推来减速
+- Without propulsive slowdown.
+
+137
+00:05:57,860 --> 00:05:59,810
+- 而且它不仅扛下了高温墙
+- And not only did it survive the wall,
+
+138
+00:06:00,760 --> 00:06:04,550
+而且还是最差的再入弹道
+it's the worst possible descent you could imagine,
+
+139
+00:06:04,550 --> 00:06:08,130
+绝对没有加上任何减速部件
+there was absolutely no deceleration device on it whatsoever,
+
+140
+00:06:08,130 --> 00:06:10,420
+就是这么热的情况下撑了过来
+so it was just coming in screamin' hot.
+
+141
+00:06:10,420 --> 00:06:12,820
+- 那么 好吧 那么问题来了
+- So, okay, a couple questions come out of that,
+
+142
+00:06:12,820 --> 00:06:15,010
+对不起 我就是要好好问清楚这里的问题
+sorry, I'm just going to keep digging through here, because...
+
+143
+00:06:16,910 --> 00:06:20,270
+你的发动机卢瑟福能二次点火吗
+Does your engine, the Rutherford, does it actually have re-light capability?
+注：Rutherford是电子火箭一二级的发动机
+
+144
+00:06:22,010 --> 00:06:28,800
+- 因为使用的是火炬式点火器 而不是TEA-TAB 所以能多次点火
+- Well, I mean, we don't use TEA-TEB, we use an igniter torch, so yes it does.
+注：TEA-TAB是化*学点火燃料，但是不代表不能多次点火，猎鹰9号使用的就是TEA-TAB
+
+145
+00:06:28,800 --> 00:06:32,360
+但我们不常用它 因为还有别的事要准备
+But, we don't actively use it, I mean there's a few things we'd need to do,
+注：TEA-TAB是化学点火燃料，但是不代表不能多次点火，猎鹰9号使用的就是TEA-TAB
+
+146
+00:06:32,360 --> 00:06:35,350
+我们需要用氮或者别的东西来清洗燃烧室
+we'd need to purge the chambers with some nitrogen and stuff,
+注：详见space.stackexchange.com/questions/13953/how-do-the-falcon-9-engines-re-ignite
+
+147
+00:06:35,350 --> 00:06:38,050
+在发射的火箭上则完全不使用这个功能
+but we don't actually use it on the launch vehicle,
+
+148
+00:06:38,050 --> 00:06:41,150
+二次点火能力(对整个电子火箭的发射过程)而言是没有太大意义的
+but it's relatively trivial to make it relightable.
+
+149
+00:06:41,150 --> 00:06:44,030
+- 但是 你从来没遇到过需要二次点火的任务吗
+- But, you've never had missions or anything where you need a relight?
+
+150
+00:06:44,030 --> 00:06:44,860
+- 没有
+- No
+
+151
+00:06:44,860 --> 00:06:46,100
+- 这就是kick stage的工作吗
+- And that's what the kick stage is for?
+注：kick stage是电子火箭的三级部分(可选分级)，或者说上面级，可以翻译成 <i>踢一脚级</i>
+
+152
+00:06:46,100 --> 00:06:47,320
+- 是啊 kick stage很好
+- Yeah, well, the kick stage is beautiful,
+注：kick stage是电子火箭的三级部分(可选分级)，或者说上面级，可以翻译成 <i>踢一脚级</i>
+
+153
+00:06:47,320 --> 00:06:52,890
+对于圆化轨道而言 它的推进系统的大小恰到好处
+because it's a right-sized propulsion system for trying to circulize
+注：kick stage是电子火箭的三级部分(可选分级)，或者说上面级，可以翻译成 <i>踢一脚级</i>
+
+154
+00:06:52,890 --> 00:06:54,560
+而且轨道注入真的很准确
+and insert really, really accurately.
+注：kick stage是电子火箭的三级部分(可选分级)，或者说上面级，可以翻译成 <i>踢一脚级</i>
+
+155
+00:06:54,560 --> 00:06:58,590
+达到这种精度 对于一级火箭和二级火箭而言是很难的
+That's the trouble with doing kind of a second light on a stage two is that
+
+156
+00:06:58,590 --> 00:07:02,240
+哪怕只是点火几秒钟也都过度了
+you're only lit for a few seconds, and it's just a big thump.
+
+157
+00:07:02,240 --> 00:07:06,930
+但是居里却要点火20-30秒(才能达到相同的效果) 这样就能获得很高的精度
+Whereas the Curie burns for like 20 or 30 seconds and you just get exquisite accuracy.
+注：Curie(居里)是kick stage的发动机
+
+158
+00:07:06,930 --> 00:07:09,810
+- kick stage进行的是时间长 但是推力小的推进过程
+- Yeah, yeah, you have a long, it's such a low thresh,
+
+159
+00:07:09,810 --> 00:07:12,380
+换成推力大的发动机就只要很短时间
+or, you can do a tiny little bit of burn, right?
+
+160
+00:07:12,380 --> 00:07:17,170
+- 让我最满意的东西是调整轨道时做的圆化点火
+- I tell you, there is nothing more satisfying than when we would do the circularization burn on the trims,
+
+161
+00:07:17,170 --> 00:07:23,590
+在任务控制中心 能看到目标轨道和(实际)上升轨道
+is you know, in mission control, we have the couple of lines, the target line, and then the ascent line,
+
+162
+00:07:23,590 --> 00:07:29,390
+看着这两条轨道在30多秒内缓慢地靠近并重合在一起真是令人难以置信的满足
+and just watching those two lines just inch together and converge over 30 seconds is just incredibly satisfying,
+
+163
+00:07:29,390 --> 00:07:32,740
+很美丽
+they just (buzzes), and they just pop, it's just beautiful.
+
+164
+00:07:32,740 --> 00:07:35,620
+- 很精彩 最近有个SpaceX的任务
+- That is actually amazing, and there was a recent SpaceX mission where,
+注：指20191111 starlink mission av75397301 (60+4):55 或 youtu.be/pIDuv0Ta0XQ?t=3599
+
+165
+00:07:35,620 --> 00:07:39,310
+他们的上面级(二级)使用梅林引擎 过于强大
+you know they have such an overpowered upper stage with their Merlin engine
+注：指20191111 starlink mission av75397301 (60+4):55 或 youtu.be/pIDuv0Ta0XQ?t=3599
+
+166
+00:07:39,310 --> 00:07:41,740
+我觉得他们大概
+where they, I think they lit it (snaps) for like,
+
+167
+00:07:41,740 --> 00:07:44,170
+点火点了不到半秒钟
+it wasn't even, it was like a half second, or something.
+
+168
+00:07:44,170 --> 00:07:45,970
+就像爆炸一样
+They were just like (explosion imitation).
+
+169
+00:07:45,970 --> 00:07:49,220
+稍纵即逝
+It's like wow, I can't imagine the startup transience
+
+170
+00:07:49,220 --> 00:07:51,750
+就是晃动了一下
+and all that stuff, just for that one, quick, little jolt.
+
+171
+00:07:51,750 --> 00:07:53,850
+而你们呢
+And you guys are able to, with, when,
+
+172
+00:07:53,850 --> 00:07:56,830
+现在升级成了光子上面级
+now you upgraded, too, your Photon, and, do you still do,
+
+173
+00:07:56,830 --> 00:07:59,210
+光子不使用居里发动机
+do you fly Photon and Curie separate,
+
+174
+00:07:59,210 --> 00:08:00,700
+还是说从此往后上面级都叫光子了？
+or is it all just Photon now?
+
+175
+00:08:00,700 --> 00:08:02,930
+- 这里面有些争议
+- Yeah, no, so, well it's a bit of a debate really.
+
+176
+00:08:02,930 --> 00:08:06,150
+kick stage现在就是指光子
+So, the kick stage is really just a Photon now,
+
+177
+00:08:06,150 --> 00:08:07,560
+但也有不同的种类
+but we have different variants, so we have a
+
+178
+00:08:07,560 --> 00:08:10,580
+对于kick stage 我们有单组元推进剂的和双组元推进剂的
+mono-propellant kick stage and a bi-propellant kick-stage.
+
+179
+00:08:10,580 --> 00:08:13,860
+所以 你知道 对于不要求额外性能的任务
+So, you know, for missions that don't require the extra performance,
+
+180
+00:08:13,860 --> 00:08:15,820
+我们更偏向于用单组元推进剂
+we just prefer to run mono-propellant,
+
+181
+00:08:15,820 --> 00:08:19,040
+因为(对于单组元推进剂)你只需要打开一下阀门
+because, you just gotta open a valve, that's it.
+
+182
+00:08:19,040 --> 00:08:21,310
+但是 对于性能要求较高的任务 我们用双组元推进剂
+But, for higher performing missions, we run the bi-propellant.
+
+183
+00:08:21,310 --> 00:08:25,110
+- 单组元和双组元之间的比冲差异多大
+- What's the specific impulse difference between mono-prop and dual-prop?
+
+184
+00:08:25,110 --> 00:08:29,200
+- 差不多50-60秒
+- It's quite big, you know, it would be probably 50 seconds, 60 seconds, something like that,
+
+185
+00:08:29,200 --> 00:08:30,300
+确实挺大的
+so it's pretty decent.
+
+186
+00:08:30,300 --> 00:08:33,570
+- 换用双组元之后 你将获得多少dv提升呢
+- And, how much delta V does that afford you when you go to the dual-prop?
+
+187
+00:08:34,420 --> 00:08:37,130
+- 我不记得确切的数字
+- I can't remember the exact number,
+
+188
+00:08:37,130 --> 00:08:41,900
+因为这取决于推进剂储箱的组合
+because it depends on what propellant tank combination we're running as well.
+
+189
+00:08:41,900 --> 00:08:46,990
+上面级的灵活性体现在不同任务中进行不同的配置
+So, we've got quite a lot of flexibility in that upper stage to really change it up depending on missions.
+
+190
+00:08:46,990 --> 00:08:51,900
+譬如像第10次飞行中到达400km的轨道
+I mean, flight 10, we flew to a high orbit to 400 Ks,
+
+191
+00:08:51,900 --> 00:08:55,300
+释放部分卫星后 再次点火 降低轨道 然后再部署一些
+and then, we did a re-light, and lowered, and then deployed some more.
+
+192
+00:08:55,300 --> 00:08:57,240
+越来越多的这类任务
+So, you know, more and more of these missions,
+
+193
+00:08:57,240 --> 00:09:00,060
+会涉及到多次点火 变轨之类的东西
+we're finding, we do multiple re-lights, and change orbits and stuff.
+
+194
+00:09:00,060 --> 00:09:04,810
+- 是的 这对客户很有价值 可以直接部署到他们想去的轨道
+- Yeah, it's a value to the customer to be able to go directly to where they need to go,
+
+195
+00:09:04,810 --> 00:09:07,060
+他们自己不需要再做推进的工作
+they don't have to have their own propulsion and do all that stuff.
+
+196
+00:09:07,060 --> 00:09:09,100
+- 这正是专用火箭的意义所在
+- Well that's the whole point of dedicated rocket, right?
+注：专用相对拼车而言，譬如相对猎鹰9号的拼车任务SmallSat Rideshare Program
+
+197
+00:09:09,100 --> 00:09:13,260
+对于共同搭载类任务而言是做不到的
+I mean, if you can't do that, then, it's a ride share.
+注：专用相对拼车而言，譬如相对猎鹰9号的拼车任务SmallSat Rideshare Program
+
+198
+00:09:13,260 --> 00:09:14,750
+- 没错
+- Yeah, yeah, exactly.
+
+199
+00:09:14,750 --> 00:09:18,770
+那么 你们还有个任务是要去月球的吗
+So, do you guys still have a mission going out to the moon, is that correct?
+
+200
+00:09:18,770 --> 00:09:19,600
+- 是啊
+- Yeah.
+
+201
+00:09:19,600 --> 00:09:25,760
+- 那么kick stage的地月转移轨道的载荷有多少 或者它能抵达完全的地月转移轨道吗
+- Yeah, is that, so how much of that is riding on the kick stage, does the kick stage do the full TLI?
+
+202
+00:09:25,760 --> 00:09:26,590
+- 没错 光子能做到这点
+- Yeah, it's Photon.
+
+203
+00:09:26,590 --> 00:09:27,720
+- 真的吗？ - 是的 基本能达到
+- Really? - Yeah, we'll basically
+
+204
+00:09:27,720 --> 00:09:29,270
+光子上面级能到月球
+just take a Photon to the moon.
+
+205
+00:09:29,270 --> 00:09:31,350
+- 那这一脚有多少dv
+- Wow, it has that much Delta V kick?
+
+206
+00:09:31,350 --> 00:09:35,480
+- 正如我前面说的 可以配置储罐不同的储罐组合
+- Yeah, yeah, so, like I say we can configure it and change tank configurations, so,
+
+207
+00:09:35,480 --> 00:09:39,980
+光子到月球的计划 只是相当于在有效载荷平台上加了个大储罐
+you know, Photon to the moon is just basically a big tank on top of the payload deck.
+
+208
+00:09:39,980 --> 00:09:44,410
+而光子里面还集成了导航 通信 以及其他必要的东西
+You know, everything is already there, all the guidance, comms, and everything, it's just there.
+
+209
+00:09:44,410 --> 00:09:50,930
+在设计居里发动机时 就考虑到要让其能工作很长的时间
+And, you know, we architected the Curie engine in a way that it could burn for a very long time.
+
+210
+00:09:50,930 --> 00:09:53,320
+所以 -
+So, yeah, it's not--
+
+211
+00:09:53,320 --> 00:09:55,870
+- 它能带多个载荷
+- Would it take multiple, I'd assume it'd take multiple
+
+212
+00:09:55,870 --> 00:09:56,850
+- 没错
+- Yeah, yeah you want
+
+213
+00:09:56,850 --> 00:09:59,210
+- 轨道注入点火？ - 优化它
+- insertion burns? - to optimize it.
+
+214
+00:09:59,210 --> 00:10:00,660
+直接入轨代价比较高 但是 -
+Direct inject's expensive, but--
+
+215
+00:10:00,660 --> 00:10:03,150
+- 看到这些让人振奋人心
+- That will be really exciting to see that.
+
+216
+00:10:03,150 --> 00:10:04,890
+想想这种尺寸的火箭
+I mean, just thinking that a rocket this size,
+
+217
+00:10:04,890 --> 00:10:08,440
+一个小火箭也能把有效载荷带到月球
+a relatively small rocket will be able to take a payload to the moon I mean--
+
+218
+00:10:08,440 --> 00:10:14,860
+- 这在很多方面都会振奋人心 因为它带来了很多不同的机会
+- Yeah, and I think it's exciting on a lot of fronts, because it opens up so many different opportunities.
+
+219
+00:10:14,860 --> 00:10:19,770
+TLI很难 但我们也可以去地球同步轨道 或者日心轨道
+You know, TLI injection is great, but we can also go to GEO we can do a heliocentric,
+
+220
+00:10:19,770 --> 00:10:22,980
+但是这种能力让人振奋
+but there's all sorts of stuff you can do, which are really exciting.
+
+221
+00:10:22,980 --> 00:10:24,610
+- 我甚至没有想到GEO
+- I didn't even think about GEO.
+
+222
+00:10:24,630 --> 00:10:28,020
+我肯定以前没有这样的小型火箭做到过
+I'm sure there's never been a rocket this small putting anything in geostationary orbit, right?
+
+223
+00:10:28,020 --> 00:10:28,970
+- 确实没有
+- No, no I'm sure.
+
+224
+00:10:28,970 --> 00:10:30,480
+- 甚至想接近都做不到
+- I mean, not even close.
+
+225
+00:10:30,480 --> 00:10:32,460
+所以 这是相当惊人的
+So, that's pretty amazing.
+
+226
+00:10:32,460 --> 00:10:36,680
+这之中大家都想问的是
+One of the things that everyone's, you know, definitely questioning is,
+
+227
+00:10:36,680 --> 00:10:40,210
+为回收所准备的硬件
+some of the hardware that's required to do some of your recovery stuff,
+
+228
+00:10:40,210 --> 00:10:44,750
+你用双组元推进剂有(弥补回收导致的)dv不足这方面的考虑吗
+is that one of the reasons you also went dual-prop, is to make up for that delta V difference?
+
+229
+00:10:44,750 --> 00:10:49,460
+- 当然 不管是电子的哪个部分 我们都在努力提高它的性能
+- Yeah, I mean, wherever we, we're continually trying to improve the performance of electron
+
+230
+00:10:49,460 --> 00:10:55,320
+通过提高性能来减少回收的影响
+to both gain margin and also offset the changes that we're making with recovery.
+
+231
+00:10:55,320 --> 00:10:59,050
+但正如我之前说的 如果任务不需要它
+But, like I said before, if a mission doesn't require it,
+
+232
+00:10:59,050 --> 00:11:01,760
+那我们一般不会用上它 我们只用单组元推进剂
+then we generally won't put it on, we'll just run mono-propellant.
+
+233
+00:11:01,760 --> 00:11:03,090
+- 是啊 所以总体来说
+- Yeah, so overall,
+
+234
+00:11:03,090 --> 00:11:10,160
+相比于第1次飞行 你在第10次飞行的过程中做了任何电池或者发动机的优化吗
+have you done any changes to batteries or optimization of the engines between flight one and 10 now that have--
+
+235
+00:11:10,160 --> 00:11:15,500
+- 很惊人的是 很少部分的系统发生了改变
+- It's amazing really, remarkably few systems have really changed.
+
+236
+00:11:15,500 --> 00:11:20,860
+我们之前增进了对火箭各系统的了解 这样才能提高余量
+You know, we've understood the systems better, so we've been able to pull back margin,
+
+237
+00:11:20,860 --> 00:11:26,130
+但真的没有对任何一个系统进行了重新设计
+but there's been no kind of major re-architect of really any system.
+
+238
+00:11:26,130 --> 00:11:30,380
+2020年我们也会如此小幅改进
+You know, we'll continue this year, 2020 we'll continue to kind of tweak,
+
+239
+00:11:30,380 --> 00:11:32,840
+也会一直进行增强
+and make a few improvements along the way,
+
+240
+00:11:32,840 --> 00:11:37,290
+因为回收 我们会在一级上加质量
+because we will be adding a bit of mass on stage one to recover,
+
+241
+00:11:37,330 --> 00:11:41,080
+在这个简单的路线图上 给载具增加性能
+so we've got a pretty simple road map, there, to add performance to the vehicle.
+
+242
+00:11:41,080 --> 00:11:45,110
+- 方便的话 你能说下为了回收 一级加了多少质量吗
+- If you don't mind me asking, how much mass is added for first stage recoverability?
+
+243
+00:11:45,110 --> 00:11:52,760
+- 这真的取决于下降弹道和降落伞(的设计)有多成功
+- It really depends on how successful the ballistic descents are with parachutes.
+
+244
+00:11:54,400 --> 00:11:59,860
+我觉得一级应该增重不超过150kg 但你要知道这些比例
+I mean, I would imagine probably no more than 150 kgs on stage 1, but you have to remember the ratios.
+
+245
+00:11:59,860 --> 00:12:02,190
+- 那这比例大概是4比1？
+- Yes, what was it, about 4:1?
+
+246
+00:12:02,190 --> 00:12:04,600
+- 其实 对电子火箭而言很多
+- Actually, on electron it's much, much more than that.
+
+247
+00:12:04,600 --> 00:12:09,730
+因为2级做的工作更多 对1级而言比例更接近8比1
+'Cause stage 2 does so much of the work, so it's probably more like 8:1 on a stage 1.
+注：可以参考flight club提供的电子火箭速度时间曲线 flightclub.io/result/2d?id=106ddf97-8dc2-4573-a022-ad3305f89cee
+
+248
+00:12:09,730 --> 00:12:10,280
+- 真的吗
+- Really?
+
+249
+00:12:10,280 --> 00:12:13,860
+- 是的 所以在下面(一级)可以带多一些质量
+- Yeah, so we can carry a lot of mass down there.
+
+250
+00:12:13,860 --> 00:12:16,470
+- 我需要给观众解释下
+- I should also explain for those watching and listening,
+
+251
+00:12:16,470 --> 00:12:18,710
+这意味着他们可以给一级加些质量
+that means, basically, they can add a bunch of weight to the first stage
+
+252
+00:12:18,710 --> 00:12:21,120
+而不会对有效载荷带来同等质量的损失
+and it doesn't take nearly as much payload penalty as it does
+
+253
+00:12:21,130 --> 00:12:23,550
+这与上面级的质量增加不同
+if you were to stick that weight on the upper stage.
+
+254
+00:12:23,550 --> 00:12:26,240
+所以你在一级增加8kg质量
+So, you add eight kilograms to the first stage,
+
+255
+00:12:26,240 --> 00:12:29,550
+只会让有效载荷质量损失1kg
+it'll only detract about one kilogram from your payload capability.
+
+256
+00:12:29,550 --> 00:12:35,480
+那么另一个问题是 <i>以前有过什么想法吗</i>
+So, I guess, that's another question, then, is, "Has there ever been any thoughts?"
+
+257
+00:12:36,360 --> 00:12:41,330
+好吧 我先问问你上面级的比冲有多少
+Okay, I'm going to ask this first, how much specific impulse is your upper stage?
+
+258
+00:12:41,330 --> 00:12:43,160
+- 是说卢瑟福吗
+- So the Rutherford, or--
+
+259
+00:12:43,160 --> 00:12:46,320
+- 啊 是的 是搭载卢瑟福发动机的上面级(二级)
+- The Rutherford, yeah, sorry, the Rutherford upper stage.
+
+260
+00:12:46,320 --> 00:12:48,490
+- 它比冲大概有342秒(卢瑟福真空版)
+- Yeah, so, it's around about 342
+
+261
+00:12:48,490 --> 00:12:49,840
+差不多
+I think, 'round about there.
+
+262
+00:12:49,840 --> 00:12:52,230
+它是个声音很大的高性能小发动机
+It's high performance, it's a screaming, little engine.
+
+263
+00:12:52,230 --> 00:12:56,600
+是啊 大概97％ seastar(?) 效率
+Yeah, it's about 97% seastar efficient, 97, 98.
+
+264
+00:12:57,170 --> 00:12:58,570
+相当可以
+It's a screamer.
+
+265
+00:12:58,570 --> 00:13:03,440
+- 那么 有没有想过给上面级(二级)换个燃料
+- So, has there ever been any thoughts of going with a different propellant on the upper stage,
+
+266
+00:13:03,440 --> 00:13:05,840
+或者一级也行 譬如甲烷 你们想过甲烷吗
+or the first stage, like methane, have you guys looked into methane?
+
+267
+00:13:05,840 --> 00:13:08,250
+- 真没这么想过
+- Yeah, not really. I mean, I...
+
+268
+00:13:09,450 --> 00:13:11,330
+我喜欢煤油
+I love Kero.
+
+269
+00:13:11,330 --> 00:13:12,940
+这里面可以展开很多话题
+I mean I know there's a lot of talk about,
+
+270
+00:13:12,940 --> 00:13:16,120
+<i>两种低温推进剂总比一个低温一个常温好</i>
+"Well, it's easier to have two cryogenic propellants than one cryogenic and one not."
+
+271
+00:13:17,010 --> 00:13:22,080
+我不想处理第二种低温推进剂 特别是液态甲烷还容易燃烧
+Well, I prefer not to deal with another cryogenic propellant, personally, especially one that's a bit flamey.
+
+272
+00:13:22,080 --> 00:13:23,310
+如果你见过了
+I mean if you've seen...
+
+273
+00:13:25,340 --> 00:13:28,450
+SpaceX公司最近发生的一些事情
+some of the stuff from SpaceX recently,
+
+274
+00:13:28,450 --> 00:13:30,650
+甲烷肯定喜欢着火
+that methane sure likes to go on fire a lot.
+
+275
+00:13:31,600 --> 00:13:34,090
+煤油是非常不同的
+Kerosene is much different, like that.
+
+276
+00:13:34,120 --> 00:13:37,290
+虽然这之中会有一些性能提升
+So, I mean, there's probably some performance upgrades there,
+
+277
+00:13:37,340 --> 00:13:42,360
+但是煤油操作起来更方便
+but just the handleability of kerosene and just the ease of it.
+
+278
+00:13:43,580 --> 00:13:47,550
+我们努力要做的是批量生产并发射出去
+What we're trying to do here is just churn launch out,
+
+279
+00:13:47,550 --> 00:13:52,080
+增加复杂度实在不是我们想做的
+so, you know, adding systems that add complexity is not really a gig.
+
+280
+00:13:52,080 --> 00:13:56,890
+- 这就像你的名片一样 保持越简单越好
+- I was gonna say that is almost like your calling card, it's like, keep it as simple as possible.
+
+281
+00:13:56,890 --> 00:14:00,230
+每个人都希望简单 也就像懒人工程师一样
+Everyone wants to, and this is, again very much an armchair engineer thing,
+
+282
+00:14:00,230 --> 00:14:02,010
+很多航空粉丝就像
+there's very much fans of aerospace going like
+
+283
+00:14:02,010 --> 00:14:05,870
+<i>如果他们做了这项 那项增强 他们也许就能发射400kg载荷</i>
+"But, they could probably launch 400 kilograms if they switched to this, and this, and this!"
+
+284
+00:14:05,870 --> 00:14:07,660
+这就像权衡利弊的好处
+It's like, what's the trade-off benefit of that?
+
+285
+00:14:07,660 --> 00:14:12,190
+为了增加客户 有效载荷的机会等等
+Are you actually going to increase your amount of customers, payload opportunities,
+
+286
+00:14:12,270 --> 00:14:15,750
+而研发这些新的复杂的东西
+XYZ for all these new complications, all this new R&D.
+
+287
+00:14:15,750 --> 00:14:17,640
+我记得我们上次提到了气尖发动机
+I remember we spoke about aerospikes last time
+注：20181102发布的视频 youtu.be/Nj9BncsgvuQ?t=2371
+
+288
+00:14:17,640 --> 00:14:21,880
+这算是完美的例子之一
+I talked to you, and that's one of the perfect example of
+
+289
+00:14:21,880 --> 00:14:26,520
+<i>也许它可以在某些事情上有帮助 或改善某些情况 但到了最后
+"maybe it might help in some things, or improve certain situations, but by the end of the day,</i>
+
+290
+00:14:26,520 --> 00:14:28,260
+<i>即使你能让它完美运转</i>
+even if you get it working perfectly,
+
+291
+00:14:28,260 --> 00:14:31,930
+<i>你让它工作所耗费的成本花费了多少 而且长远来看这是否值得</i>
+how much did you spend to get it working, and is it worth it in the long run?"
+
+292
+00:14:31,930 --> 00:14:32,580
+- 是的
+- Yeah, that's exactly right.
+
+293
+00:14:32,580 --> 00:14:35,020
+- 你最后可能又回到了最初
+- You might end up right back on page one, you know?
+
+294
+00:14:35,020 --> 00:14:37,700
+那么 优化上面级
+Okay, so optimizing the upper stage.
+
+295
+00:14:37,700 --> 00:14:42,380
+不会通过液态甲烷或者其他低温燃料 或者改变系统的方式来实现
+So, probably not going to liquid methane or any other cryogenic fuels, or changing up systems.
+
+296
+00:14:42,380 --> 00:14:44,760
+我有两个关于上面级的问题
+I've always had a question, two questions about upper stage.
+
+297
+00:14:44,760 --> 00:14:45,650
+- 好的
+- Okay.
+
+298
+00:14:45,650 --> 00:14:47,140
+- 你同时分离两个电池
+- You ditch both batteries at the same time.
+
+299
+00:14:47,140 --> 00:14:47,970
+- 没错
+- Correct.
+
+300
+00:14:47,980 --> 00:14:49,820
+- 为什么没打算分阶段分离他们
+- Is there a reason you don't stage them;
+
+301
+00:14:49,820 --> 00:14:51,430
+一个接着一个
+one and then the other?
+
+302
+00:14:51,430 --> 00:14:55,450
+- 没错 有效载荷会因此有轻微上涨
+- Yeah, I mean the, payload gained by doing that is relatively minor,
+
+303
+00:14:55,450 --> 00:15:00,030
+但是一次分离两个的优点是你不会引入多余的扭矩
+so the beauty of staging two at once is you don't introduce any torque offsets,
+
+304
+00:15:00,030 --> 00:15:01,450
+因为它们分离时产生的力矩互相抵消了
+because they null each other out.
+
+305
+00:15:01,450 --> 00:15:02,010
+- 一个(接着一个)
+- One, right.
+
+306
+00:15:02,010 --> 00:15:04,610
+- 其中一个下来的时候 有点抖动 但是加上另外一个
+- Whereas if you poke one off, then you sort of punch one way and then the other,
+
+307
+00:15:04,620 --> 00:15:08,410
+就会发现导航系统能很顺利地解决这个问题
+and look, the guidance will deal with that no problem at all,
+
+308
+00:15:08,410 --> 00:15:10,160
+在分离两块电池时 你会发现导航系统
+you see the guidance when you punch both of them off,
+
+309
+00:15:10,160 --> 00:15:13,810
+甚至没有察觉到分离的动静 整流罩分离时也是如此
+it just doesn't even know it's there, and same with the fairings.
+
+310
+00:15:13,810 --> 00:15:18,690
+如此 这也是从一开始就降低风险的设计
+So, really that came about from day one trying to minimize risk.
+
+311
+00:15:18,690 --> 00:15:24,270
+特别是对于这么小的有效载荷而言 就不要再引入更多的风险了
+And, yeah, for just a tiny amount of payload just don't introduce more risk.
+
+312
+00:15:24,270 --> 00:15:27,520
+- 没错 又是那个<i>不要再引入更多风险</i>
+- Yeah, yup, again the whole "Don't introduce more risk."
+
+313
+00:15:27,520 --> 00:15:30,170
+二级总是有有火花从喷管中喷出
+Second stage has a bunch of sparks that always shoot out of the nozzle.
+
+314
+00:15:30,170 --> 00:15:31,490
+那个是咋回事儿啊
+What's that from again?
+
+315
+00:15:31,490 --> 00:15:34,780
+- 卢瑟福发动机效率很高
+- Yeah, so, the Rutherford engine is really high performance,
+
+316
+00:15:34,780 --> 00:15:38,170
+这件事儿挺有趣的 你常听人们说
+and what that actually is, it's quite funny, you see people talking,
+
+317
+00:15:38,170 --> 00:15:39,860
+<i>哦 他们一定有个桨式喷嘴</i>
+"Oh, they must've had a bladed nozzle"
+
+318
+00:15:39,860 --> 00:15:41,320
+<i>尽管它泛着鲜艳的红色</i>
+despite the fact that it's glowing bright red.
+
+319
+00:15:41,320 --> 00:15:44,300
+不过这其实是一些碳质沉积
+But, no, they're little soot deposits.
+
+320
+00:15:44,300 --> 00:15:47,490
+这些碳质堆积到喷注器上就像钟乳石一样
+So, the soot deposits kind of build up on the injector face like stalactites,
+
+321
+00:15:47,490 --> 00:15:50,610
+积累到一定规模 就会掉渣
+and then they get to a certain size, and then break free,
+
+322
+00:15:50,610 --> 00:15:53,420
+接着这些碳质就夹杂在尾气流中吹走了
+and then that's the carbon entrained into the exhaust plane.
+
+323
+00:15:53,420 --> 00:15:54,250
+- 真的吗？
+- Really?
+
+324
+00:15:54,260 --> 00:15:55,660
+- 是啊
+- Yeah.
+
+325
+00:15:55,660 --> 00:15:57,620
+- 这就是RP-1的碳质？
+- So that's your soot of RP-1?
+
+326
+00:15:57,620 --> 00:15:58,450
+- 对
+- Yup.
+
+327
+00:15:58,450 --> 00:16:01,050
+- 哇 而且射出来看起来像小火花一样
+- Wow, and shooting out as what looks like little sparks?
+
+328
+00:16:01,050 --> 00:16:02,060
+- 小火花 是的
+- Little sparks, yeah.
+
+329
+00:16:02,060 --> 00:16:02,890
+- 真的啊
+- Really?
+
+330
+00:16:02,890 --> 00:16:07,810
+- 是的 但是喷注器的效率还是很高的
+- Yeah, but that injector, the efficiency is, it's a good injector,
+
+331
+00:16:07,810 --> 00:16:08,990
+所以这是真的 -
+so it's really--
+
+332
+00:16:08,990 --> 00:16:13,890
+- 你们表面是怎么做的 是同轴形状的 还是
+- Are you guys doing on-face, like do you go coaxial, or what do you--
+注：关于喷注器形状，可以参考 youtu.be/aa4ATJGRqA0
+
+333
+00:16:13,890 --> 00:16:14,900
+- 这是一个很好的喷注器
+- It's a good injector.
+
+334
+00:16:14,900 --> 00:16:18,380
+- <i>这是一个很好的喷注器</i> 口风很严
+- It's a good injector, (laughs) keeping it tight.
+
+335
+00:16:18,380 --> 00:16:19,210
+好好好
+I love it.
+
+336
+00:16:19,210 --> 00:16:22,350
+好 我们已经讨论过了
+Okay, so, we've talked about that, we talked about
+
+337
+00:16:22,350 --> 00:16:27,350
+喷注器 甲烷 喷火花的发动机
+the injections, we talked about methane, sparky engines.
+
+338
+00:16:27,450 --> 00:16:30,390
+好的 回到可回收能力 我们只围绕这个话题谈
+Okay, so, back to recoverability, we're going to wrap this all around.
+
+339
+00:16:31,000 --> 00:16:35,010
+你完全没必要为可回收做任何空气动力的系统吗
+You didn't have to do any aero-systems at all for your recoverability?
+
+340
+00:16:35,010 --> 00:16:37,070
+- 没有任何空气动力的附件
+- Not any aero-appendages,
+
+341
+00:16:37,070 --> 00:16:40,490
+整个一级是靠RCS控制的
+but the whole stage was guided through RCS.
+注：RCS = Reaction control system(反推力系统)，用于调整航天器姿态的小推力反推系统
+
+342
+00:16:40,490 --> 00:16:42,070
+只需要一些RCS发动机
+So, a little Reaction Control Rocket motors.
+
+343
+00:16:42,070 --> 00:16:43,090
+- 那些RCS发动机很小很可爱
+- Little tiny, they're cute.
+
+344
+00:16:43,090 --> 00:16:44,150
+- 是的 它们是小可爱
+- Yeah, they're a little cute.
+
+345
+00:16:44,150 --> 00:16:45,390
+那些小家伙啊
+They're little guys, yeah.
+
+346
+00:16:45,390 --> 00:16:48,220
+- 但这个控制力足以指向正确的方向了吗
+- But, that's enough control authority to keep you pointed in the right direction?
+
+347
+00:16:48,220 --> 00:16:50,550
+- 是的 这很有趣
+- Yeah, so, it's really interesting,
+
+348
+00:16:50,550 --> 00:16:56,130
+对一级而言 那种超音速状态下的动态稳定性
+you know, the kind of dynamic stability of the stage and the hypersonic regime is...
+
+349
+00:16:57,220 --> 00:17:00,950
+只有在亚音速状态下 它才有翻转的力
+It's when we get into the subsonic regime, then it wants to turn itself backwards,
+
+350
+00:17:00,950 --> 00:17:03,730
+但是在超音速状态下 其实挺稳定的
+but, during the hypersonic regime, it's actually quite stable.
+
+351
+00:17:03,730 --> 00:17:05,610
+- 因为是发动机朝下 而且 -
+- Because of the engines being first, and--
+
+352
+00:17:05,610 --> 00:17:09,920
+- 因为发动机和电池都在底部 所以质量也集中在底部
+- The engines and the batteries are all at the bottom, so all the mass is down there at the bottom.
+
+353
+00:17:09,920 --> 00:17:17,830
+所以差不多在二级点火5秒以后
+So, when we... about 5 seconds after second stage ignited,
+
+354
+00:17:17,830 --> 00:17:22,890
+我们就开始一种机动 首先是翻转
+we started the kind of, maneuver, and the first maneuver was to do a flip-around,
+
+355
+00:17:22,890 --> 00:17:25,210
+然后指向再入通道的方向
+and then align with the re-entry corridor.
+
+356
+00:17:27,070 --> 00:17:29,860
+这个看起来也很好 因为我在屏幕上也能看到
+That was so good, too, because I had that on my screen as well,
+
+357
+00:17:29,860 --> 00:17:31,420
+当时我看得很仔细
+I was watching that very carefully,
+
+358
+00:17:31,420 --> 00:17:33,900
+只是看着那些比率下降
+and you know, just watching those rates come down,
+
+359
+00:17:33,900 --> 00:17:35,420
+它们都收敛到零
+and they all just converged down to zero,
+
+360
+00:17:35,420 --> 00:17:36,380
+我当时想 <i>这是好事</i>
+and I was like, "This is good!"
+
+361
+00:17:36,380 --> 00:17:39,210
+只需要坐着等 那些数值就都归零了
+So, this thing is just sitting bang on zero,
+
+362
+00:17:39,210 --> 00:17:40,380
+我想 <i>这是件好事</i>
+I thought "this is good."
+
+363
+00:17:40,380 --> 00:17:45,980
+接着一级火箭就抵达了最高点
+And then, you know, we started to reach apogee, and then you see the, you know,
+注：一级火箭分离时，仍有垂直向上的分速度，所以仍未到达最高点，是分离后才到达
+
+364
+00:17:45,980 --> 00:17:48,500
+方向矢量没问题
+the alignment vector come all good,
+
+365
+00:17:48,500 --> 00:17:50,650
+一切数值保持在正常状态
+and then it just stayed all good,
+
+366
+00:17:50,650 --> 00:17:53,810
+然后那些RCS的小发动机点火 并完成自己的工作
+and the little engines are firing away and doing their thing.
+
+367
+00:17:53,810 --> 00:17:56,750
+火箭有点滚转 但滚转是我们不太在意的那个坐标轴
+We saw a bit of roll, but roll is the least damped axis,
+
+368
+00:17:56,750 --> 00:18:00,350
+处理滚转总是很难
+so, you know, it's always hard to deal with roll.
+
+369
+00:18:00,350 --> 00:18:01,810
+- 而且 你不必让(主)发动机二次点火
+- And, you're not having to re-light engines,
+注：对液体燃料火箭而言，失重状态下二次点火前需要防止燃料飞溅
+
+370
+00:18:01,810 --> 00:18:04,470
+所以你不必担心储罐里燃料飞溅之类的事情
+so you don't have to worry about tank sloshes or anything.
+注：对液体燃料火箭而言，失重状态下二次点火前需要防止燃料飞溅
+
+371
+00:18:04,470 --> 00:18:08,540
+- (适当)滚转是有益的 特别是那种烧烤滚转 这样你就不会(把仪器)烤熟了
+- Roll is good, a bit of barbecue roll, it's good so you don't cook things up.
+注：否则燃料输送可能出现问题
+
+372
+00:18:08,540 --> 00:18:10,810
+但是 所有的功劳归导航控制团队
+But, all credit to the GNC team,
+注：GNC = Guidance, Navigation and Control (应该是)
+
+373
+00:18:10,810 --> 00:18:16,180
+他们持续几周半夜两点提交代码并进行调整
+they were committing code at 2 o'clock in the morning for weeks and weeks, and tweaking,
+
+374
+00:18:16,180 --> 00:18:20,460
+那些人实在是
+and tweaking, and tweaking, so, those guys are just.
+
+375
+00:18:20,460 --> 00:18:21,890
+你看看载具的精度
+I mean, you see the accuracy of the vehicle,
+
+376
+00:18:21,890 --> 00:18:25,020
+都要归功于他们 太不可思议了
+and it's all down to those guys, they're just incredible, incredible.
+
+377
+00:18:25,020 --> 00:18:29,300
+- 这让人吃惊 那么那些小的RCS推进器用的是什么燃料
+- That's amazing, and what do those little RCS thrusters run on? Are they just--
+
+378
+00:18:29,300 --> 00:18:29,820
+- 冷气体
+- Cold gas.
+
+379
+00:18:29,820 --> 00:18:30,580
+- 冷气体 是吗
+- Cold gas, yup?
+
+380
+00:18:30,580 --> 00:18:32,120
+而这已足够
+And that's enough to, I just,
+
+381
+00:18:32,120 --> 00:18:33,700
+它们小到难以入镜
+it's so hard to picture, they're so little.
+
+382
+00:18:33,700 --> 00:18:35,780
+- 但你只要进入了再入通道 就没事了
+- Yeah, but, if you're in the corridor, it's good.
+
+383
+00:18:35,780 --> 00:18:38,300
+只有在离开再入通道之后 (进行机动时)推力大小这些才是问题
+It's only a problem if you get out of the corridor.
+
+384
+00:18:38,300 --> 00:18:39,630
+再入通道是很狭窄的
+So, the corridor is super narrow,
+
+385
+00:18:39,630 --> 00:18:41,190
+如果你在再入通道外面
+and if you kind of get out of corridor,
+
+386
+00:18:41,190 --> 00:18:43,460
+这个时候等离子体就会回来了
+then, that's when the plasma knives come back out,
+
+387
+00:18:43,460 --> 00:18:45,620
+你只是挨着(超音速)激波的边缘走
+and you just trip a shockwave boundary,
+
+388
+00:18:45,620 --> 00:18:47,360
+贴着这个边 就成功了
+and just attach and you're done.
+
+389
+00:18:47,360 --> 00:18:50,940
+你只需紧跟在那后面
+But, if you can just sit in that nice little wake,
+
+390
+00:18:50,940 --> 00:18:54,640
+跟在巨大的钟形激波后面 那就没问题了
+with the big bell shock in front of you, then life's good.
+
+391
+00:18:55,510 --> 00:18:58,340
+- 你说的这些真令人难以置信
+- It's so unbelievable that we're talking about,
+
+392
+00:19:00,170 --> 00:19:03,050
+现在看起来这很有可能
+that's a possibility now, you're just literally sending
+
+393
+00:19:03,050 --> 00:19:05,790
+你只是把它带回来 通过大气层
+it back through the atmosphere, and it's coming in,
+
+394
+00:19:05,790 --> 00:19:07,900
+尽管回来时 有一部分的温度会达到太阳的水平
+there's parts of it that are as hot as the sun,
+
+395
+00:19:07,900 --> 00:19:08,770
+然后它们还能幸存下来
+and they're able to survive.
+
+396
+00:19:08,770 --> 00:19:14,630
+相比于之前的发射 你是不是必须得在一级(承重)结构之类的地方加了隔热板
+And, did you have to beef up heat shield around your structure and stuff like that compared to previous flights?
+
+397
+00:19:14,630 --> 00:19:18,950
+- 电子的底部(本来)就有一个很大的隔热板
+- Well I mean, the bottom of electron has quite a hefty heat shield as it is,
+
+398
+00:19:18,950 --> 00:19:20,540
+因为(底下)有多个发动机
+because of the multiple engines.
+
+399
+00:19:20,540 --> 00:19:21,990
+有很多羽流效应
+You have a lot of plume-plume interaction,
+
+400
+00:19:21,990 --> 00:19:27,370
+因此 在某些马赫数下 会有很多回流流量
+and then, because of that, you have a lot of recirculation flow, especially at certain mach numbers.
+
+401
+00:19:27,370 --> 00:19:30,210
+所以需要一个性能较好的隔热板
+So, the heat shield's pretty decent.
+
+402
+00:19:30,210 --> 00:19:32,290
+再入的时候我们确实发现隔热板有分裂的情况
+You know, on the re-entry we did see the heat shield collapse,
+
+403
+00:19:32,290 --> 00:19:36,020
+因为隔热板的设计目的并非用于承受那种动态压力
+because the heat shield was never designed for those kind of dynamic pressures.
+
+404
+00:19:36,020 --> 00:19:39,190
+但是我们仍然接收到很稳定的遥测信号
+But, you know, we were still receiving solid telemetry,
+
+405
+00:19:39,190 --> 00:19:43,570
+储罐仍在加压状态 系统仍有响应 遥测信号一直维持到坠毁
+the tanks were still pressed, systems still responding, telemetry right to impact,
+
+406
+00:19:43,680 --> 00:19:48,000
+不过确实失去了几个传感器的信号
+and yeah we lost a couple of data acquisition modules,
+
+407
+00:19:48,000 --> 00:19:50,230
+包括一些隔热板上的传感器 但也就仅此而已了
+and some sensors on the heat shield, but that was it.
+
+408
+00:19:50,230 --> 00:19:52,110
+- 哇 那么你觉得它 -
+- Wow, so you think it was--
+
+409
+00:19:52,110 --> 00:19:53,460
+- 我认为这是在良好的状态
+- I think it was in good shape.
+
+410
+00:19:53,460 --> 00:19:53,780
+- 哇
+- Wow.
+
+411
+00:19:53,780 --> 00:19:58,090
+- 所有的数据都显示 这是出奇地好
+- Yeah, yeah, all the data would show that it was in remarkably good shape.
+
+412
+00:19:58,090 --> 00:20:02,180
+- 所以你还会这样做一遍吗
+- Really, so you're going to do that again, basically the same thing?
+
+413
+00:20:02,180 --> 00:20:04,330
+- 是的 我没想到第10次飞行是如此成功
+- Well I didn't expect flight 10 to be so successful,
+
+414
+00:20:04,330 --> 00:20:09,230
+我觉得这些东西可能比较难以建模和预测
+so I figured that with all of these things, you know, it's so hard to model and predict,
+
+415
+00:20:09,230 --> 00:20:11,980
+从一些小错误中学习并借鉴
+you get a little thing wrong and then you go and learn from it.
+
+416
+00:20:11,980 --> 00:20:15,900
+所以 我跟团队说了<i>没事 我们连续做两次(实验)</i>
+So, I said to the team, "Right, let's do two in a row, and you know--"
+
+417
+00:20:15,900 --> 00:20:17,130
+- 确认所有东西
+- Confirm everything.
+
+418
+00:20:17,130 --> 00:20:18,990
+- (收集数据)是第一位的 我们会尽力的
+- Yeah first one, we'll try our best,
+
+419
+00:20:18,990 --> 00:20:22,250
+我们可能会学到很多东西 然后第二次可能就成功了
+we'll probably learn a lot, and then we'll might get the second one right.
+
+420
+00:20:22,250 --> 00:20:30,140
+第二次时我们直播可能会开久一点
+But, the second time 'round, we'll hold onto the live feed a lot longer in the second time 'round.
+注：第11次飞行直播 youtu.be/af-PplDIkbc?t=1113 (吐槽一下av85905439来源有问题打不开然后音画还不同步)
+
+421
+00:20:31,030 --> 00:20:35,060
+再入时我们是主动地关闭了相机的下行数据传输
+We actually intentionally shut the re-entry camera of the line down,
+
+422
+00:20:35,060 --> 00:20:39,010
+因为我们想保持完整的数据传输链路
+because we wanted to maintain the integrity of the data link.
+
+423
+00:20:39,010 --> 00:20:41,890
+数据是最重要的 尽管图像也很好(但要牺牲一下)
+Data is king; images are great, but data is king.
+
+424
+00:20:41,890 --> 00:20:45,950
+所以我们切换到低带宽模式 并关闭了相机
+So, we switched into a low-bandwidth mode, and shut down the camera.
+
+425
+00:20:45,950 --> 00:20:51,180
+尽管如此 在坠毁之前我们一直保持着1Mbps的速度
+But as it was, we maintained one megabit per second link all the way into impact,
+
+426
+00:20:51,180 --> 00:20:54,820
+所以下次我们可能会一直开着相机
+so we'll be able to have good camera on the way in on the next one.
+
+427
+00:20:54,820 --> 00:20:57,690
+- 哇 所以这是个好消息
+- Wow, wow, so that's great news.
+
+428
+00:20:57,690 --> 00:21:03,860
+所以 你尽量把第10次飞行做的事在第11次飞行上重复一遍
+So, as far as, so you're going to basically do repeating the thing you just did for flight 10 for flight 11,
+
+429
+00:21:03,860 --> 00:21:08,870
+那么到第12次飞行的时候你会把超音速气球和降落伞带上吗
+then, is that when you start attaching hypersonic balloons and parachutes on flight 12?
+
+430
+00:21:08,870 --> 00:21:16,770
+- 不会是第12次飞行 我们在转向下一阶段之前会做很多工作
+- Not flight 12, I expected us to have to do a lot of work before we would move to the next stage.
+
+431
+00:21:16,770 --> 00:21:21,460
+我们现在还在很初级的阶段
+I think we're all in kind of, like, a child giddy mode right now,
+
+432
+00:21:21,460 --> 00:21:25,540
+因为我们(只是)得到了需要处理的数据
+because we've got all the data we needed to proceed,
+
+433
+00:21:25,540 --> 00:21:27,930
+所以还需要另一部分的升级
+so we'll do another block upgrade,
+
+434
+00:21:27,930 --> 00:21:30,460
+还需要好几次飞行
+and that'll probably take us a few flights.
+
+435
+00:21:30,460 --> 00:21:31,290
+- 真的吗？
+- Really?
+
+436
+00:21:31,290 --> 00:21:32,940
+- 然后我们才会加上降落伞
+- And then we'll get some chutes on it.
+
+437
+00:21:32,940 --> 00:21:35,480
+- 另外 方便的话
+- Another, if you don't mind me asking,
+
+438
+00:21:35,480 --> 00:21:36,950
+还会有什么别的变化吗
+what changes are gonna happen?
+
+439
+00:21:36,950 --> 00:21:39,660
+- 下一个阶段就是加上降落伞了
+- Chutes, so we'll get some chutes on the next one.
+
+440
+00:21:39,660 --> 00:21:44,530
+对于减速装置 我们还有很多事要做
+And, you know, we'll still have more work to do with some decelerators,
+
+441
+00:21:44,530 --> 00:21:47,230
+但最想做的还是加上降落伞
+but what I really want to do is get it onto chutes,
+
+442
+00:21:47,230 --> 00:21:52,870
+能完整地回收 在海里溅落 从里面捞出来 取证并进行分析
+get it back in one piece, and in the ocean, go fish it out, and do some forensics on it.
+
+443
+00:21:52,870 --> 00:21:56,710
+只有实际物理地检查了硬件才能了解最多的东西
+That, we'll learn the most by actually physically inspecting the hardware.
+
+444
+00:21:56,710 --> 00:22:02,810
+- 当然 也可能一旦有了更多的空气动力学上的减速装置
+- Of course, yeah, so as far as maybe having more aerodynamic decelerators...
+
+445
+00:22:05,140 --> 00:22:08,800
+有人讨论过那种剥皮一样的中间级设计吗
+has there ever been any talk about having the inter-stage kind of, like, peel back
+注：类似欧洲版猎鹰9 RETALT(反推辅助降落技术) www.retalt.eu/project/ 但实际上和猎鹰9一样，估计都是亚音速段起作用的
+
+446
+00:22:08,800 --> 00:22:10,400
+像开花一样
+like some kind of flower petal or anything?
+注：类似欧洲版猎鹰9 RETALT(反推辅助降落技术) www.retalt.eu/project/ 但实际上和猎鹰9一样，估计都是亚音速段起作用的
+
+447
+00:22:10,400 --> 00:22:13,740
+- 实际上 那种东西加到级间端就是加错位置了 信不信由你
+- Yeah, actually, the inter-stage is the wrong place you want it, believe it or not.
+注：电子不需要亚音速段的控制，因为降落伞和减速气球足够了
+
+448
+00:22:13,740 --> 00:22:14,570
+- 真的吗？
+- Really?
+
+449
+00:22:14,570 --> 00:22:19,410
+- 是的 这和高超音速流体状态是有一点点不同
+- Yeah, it's not, hypersonic flow regime is a little bit different.
+
+450
+00:22:19,410 --> 00:22:22,330
+- 因为它离激波太远了
+- Is it because it ends up out so far outside of the wake it's just almost sitting,
+
+451
+00:22:22,330 --> 00:22:23,910
+起不了太多作用？
+and not doing any effect at all?
+
+452
+00:22:23,910 --> 00:22:25,820
+- 没错 (再入时)就像打孔一样
+- Exactly, because you're punching in,
+
+453
+00:22:25,820 --> 00:22:28,820
+如果你的再入通道没问题 那么激波(在后部)会比较大
+if you get your corridor right you've got a big kind of shadow,
+
+454
+00:22:28,820 --> 00:22:31,750
+所以 (减速装置放在后面)想要起作用就必须变得很大
+so, you end up having to have something something super big to be effective.
+
+455
+00:22:31,750 --> 00:22:32,520
+- 而这会很蠢
+- And that's just dumb.
+
+456
+00:22:32,520 --> 00:22:35,970
+- 所以你把级间端折叠成花瓣一样
+- So if you just, yeah, folded your inter-stage over like petals,
+
+457
+00:22:35,970 --> 00:22:38,620
+气流不会流过那里
+there's just nothing there, there's no flow there.
+
+458
+00:22:39,510 --> 00:22:40,330
+- 这讲得通
+- That makes sense,
+
+459
+00:22:40,330 --> 00:22:44,760
+所以 你可能有小的折叠型减速板 在需要时从一级结构上弹出吗
+so, you could potentially have little, small air brakes pop out of your thrust structure or something?
+
+460
+00:22:44,760 --> 00:22:46,600
+- 是有各种不同的方法
+- Yeah, there's all sorts of different regimes.
+
+461
+00:22:46,600 --> 00:22:49,350
+- 只是增加一些表面面积
+- Just expand that surface area out a little bit more.
+
+462
+00:22:49,350 --> 00:22:51,700
+- 不同的情况有不同的解决方法
+- I mean, different solutions for different courses.
+
+463
+00:22:51,700 --> 00:22:55,270
+可能更小的攻角会更有效(而不需要减速板这些)
+Maybe, if you had a shallower angle of attack, then those would be more effective.
+
+464
+00:22:55,270 --> 00:23:00,760
+但是 我们所想的是尽量确保一级火箭温度较低并且不要被风压损坏
+But, our whole concept here is to keep the stages cool and out of all the wind as possible.
+
+465
+00:23:00,760 --> 00:23:03,060
+- 所以 只要保持在你的再入通道里面
+- So, as far as your flight corridor;
+
+466
+00:23:03,060 --> 00:23:08,090
+所以你们是希望更长一点的通道 还是陡峭或者垂直往下的
+is it better for you guys to come in longer, like, steeper like that, or straight down?
+
+467
+00:23:08,090 --> 00:23:09,230
+- 这些都与攻角有关
+- It's really about angle of attack.
+
+468
+00:23:09,230 --> 00:23:11,740
+也是我们想尝试维持的参数
+That's what we want to try and maintain.
+
+469
+00:23:11,740 --> 00:23:15,000
+- 因此 我们在2020年可以期待的事情会是：
+- So, what we can look forward to in 2020 would be:
+
+470
+00:23:15,000 --> 00:23:19,460
+增加更多的可重复性使用的硬件 更多次发射
+we're going to be looking for more recovery hardware, more flights.
+
+471
+00:23:19,460 --> 00:23:20,720
+- 发射频率翻番
+- Double the flight rate.
+
+472
+00:23:20,720 --> 00:23:21,550
+- 发射频率翻番
+- Double the flight rate,
+
+473
+00:23:21,550 --> 00:23:22,380
+每月一次？ - 是啊 是啊
+once a month? - Yup, yup.
+
+474
+00:23:22,390 --> 00:23:24,170
+- 哇 从这里进行的发射
+- Wow, launches out of here.
+
+475
+00:23:24,170 --> 00:23:25,340
+- 是的 从这里进行的发射
+- Yup, launch out of here.
+
+476
+00:23:25,340 --> 00:23:26,170
+- 从这里
+- (laughs) From right here.
+
+477
+00:23:26,170 --> 00:23:27,610
+- 是啊 在这个飞行桶里
+- Yeah, in this flying bucket.
+
+478
+00:23:27,610 --> 00:23:30,250
+- 当然我们不想在发射的时候呆在这里
+- We won't want to be right here when that happens.
+
+479
+00:23:30,250 --> 00:23:32,990
+然后 2020年你们有什么期待的呢
+And then, anything else you guys are really looking forward to in 2020?
+
+480
+00:23:32,990 --> 00:23:34,460
+- 光子
+- Photon.
+
+481
+00:23:34,460 --> 00:23:37,130
+对我们而言明年是发射卫星的重要的一年
+You know, next year is a big year of the satellite, for us.
+
+482
+00:23:37,130 --> 00:23:41,770
+我很看好光子 我认为这为整个行业解决了很多问题
+You know, I'm super pumped about Photon, I think that solves a lot of problems for the industry,
+
+483
+00:23:41,770 --> 00:23:45,800
+降低了人们把东西发射入轨的门槛
+and really lowers the boundaries and barriers for people to put stuff on orbit.
+
+484
+00:23:45,800 --> 00:23:49,900
+科学 教育 商业企业
+You know, science, and education, commercial business,
+
+485
+00:23:49,900 --> 00:23:54,400
+(它能为这些领域的需求)解除烦恼
+you know, it just removes all of the fuss, that's in space.
+
+486
+00:23:55,200 --> 00:23:58,480
+明年对我们而言任务很重 (特别是)第一次的光子任务
+So, that'll be a big year for us next year, the first Photon mission.
+
+487
+00:23:58,890 --> 00:24:03,990
+也许我们也会把东西送到月球
+And, we'll see, who knows, we might even skid something to the moon.
+
+488
+00:24:03,990 --> 00:24:04,460
+- 但愿如此
+- I hope so.
+
+489
+00:24:04,460 --> 00:24:05,420
+- 我们走着瞧
+- We'll see how it goes.
+
+490
+00:24:05,420 --> 00:24:07,440
+- 这会很了不起的 谢谢你给我这么多的时间 - 谢谢你 Tim
+- That's amazing, well thank you so much for your time - Thanks, Tim!
+
+491
+00:24:07,440 --> 00:24:09,750
+- 同时祝贺你建设了这么一个新的发射场
+- and congratulations on this wonderful new launch complex!
+
+492
+00:24:09,750 --> 00:24:12,000
+- 谢谢你 Tim - 下次再见
+- Thanks Tim, appreciate it. - Until next time.
+
+493
+00:24:12,830 --> 00:24:14,650
+Isn't Peter just awesome?
+
+494
+00:24:14,650 --> 00:24:16,950
+Thanks to the folks at Rocket Lab for giving me some time
+
+495
+00:24:16,950 --> 00:24:18,980
+with Peter and letting me pick his brain.
+
+496
+00:24:18,980 --> 00:24:20,780
+That stuff is just super fun to me.
+
+497
+00:24:20,780 --> 00:24:23,560
+And, I owe an even bigger thanks to my Patreon supporters
+
+498
+00:24:23,560 --> 00:24:25,520
+for helping me be able to get myself
+
+499
+00:24:25,520 --> 00:24:27,590
+and my camera guy, Michael, out there to be able
+
+500
+00:24:27,590 --> 00:24:29,030
+to shoot this kind of awesome stuff.
+
+501
+00:24:29,030 --> 00:24:31,400
+If you want to help me continue to do what I do,
+
+502
+00:24:31,400 --> 00:24:33,180
+please consider becoming a Patreon supporter
+
+503
+00:24:33,180 --> 00:24:36,390
+by going to patreon.com/everydayastronaut.
+
+504
+00:24:36,390 --> 00:24:37,780
+And, while you're online, be sure and check out
+
+505
+00:24:37,780 --> 00:24:41,410
+everydayastronaut.com/shop for limited edition merch.
+
+506
+00:24:41,410 --> 00:24:44,450
+Now, do notice the merchandise is getting awesome.
+
+507
+00:24:44,450 --> 00:24:46,790
+We have, you know, they're all hand-screen printed,
+
+508
+00:24:46,790 --> 00:24:50,060
+hand-sewn on patches, custom neck labels,
+
+509
+00:24:50,060 --> 00:24:52,650
+all these really cool things, and these awesome designs
+
+510
+00:24:52,650 --> 00:24:54,120
+are limited run, so if you like something,
+
+511
+00:24:54,120 --> 00:24:55,350
+you better grab it now, because there's
+
+512
+00:24:55,350 --> 00:24:57,720
+a good chance it won't be there next time you click
+
+513
+00:24:57,720 --> 00:25:00,800
+on the website, and I guess you can even grab
+
+514
+00:25:00,800 --> 00:25:03,510
+what's apparently one of Elon Musk's favorite shirts,
+
+515
+00:25:03,510 --> 00:25:06,120
+the Full Flow Staged Combustion Cycle shirt.
+
+516
+00:25:06,120 --> 00:25:09,740
+We also have that as a hoodie version as well,
+
+517
+00:25:09,740 --> 00:25:11,350
+just in time for the cold weather.
+
+518
+00:25:11,350 --> 00:25:12,970
+So, get in there, while you can,
+
+519
+00:25:12,970 --> 00:25:14,540
+and get some awesome merchandise for yourself.
+
+520
+00:25:14,540 --> 00:25:17,200
+That's everydayastronaut.com/shop.
+
+521
+00:25:17,200 --> 00:25:19,400
+Thanks everybody, that's gonna do it for me.
+
+522
+00:25:19,400 --> 00:25:21,700
+I'm Tim Dodd, The Everyday Astronaut.
+
+523
+00:25:21,700 --> 00:25:24,410
+Bringing space down to earth, for everyday people.
+
+524
+00:25:26,870 --> 00:25:29,450
+(upbeat music)
+
