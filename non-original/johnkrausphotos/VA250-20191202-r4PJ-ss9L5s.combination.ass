@@ -21,9 +21,9 @@ Style: 1080P-src-hans-sans-medi-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:04.45,0:00:07.39,1080P-src-hans-sans-medi-60,,0,0,0,,注释
 Dialogue: 0,0:00:00.00,0:00:04.45,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}时间轴/翻译/压制：旋火\N视频来源：youtu.be/r4PJ-ss9L5s\N原视频发布日期：20191202\N原作者名：johnkrausphotos\NVA250发射发生在2019年11月26日\N载荷是Inmarsat-5 F5，TIBA-1
-Dialogue: 0,0:00:04.45,0:00:07.39,1080P-src-hans-sans-medi-60,,0,0,0,,奥兰多在佛罗里达州
+Dialogue: 0,0:00:04.45,0:00:07.39,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}奥兰多在佛罗里达州
 Dialogue: 0,0:00:04.45,0:00:07.39,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,360)\fad(800,800)\fs100\fscx150\fscy150\fn思源黑体 Normal}奥兰多
-Dialogue: 0,0:00:11.29,0:00:14.26,1080P-src-hans-sans-medi-60,,0,0,0,,新泽西州纽瓦克国际机场
+Dialogue: 0,0:00:11.29,0:00:14.26,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}新泽西州纽瓦克国际机场
 Dialogue: 0,0:00:11.29,0:00:14.26,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,360)\fad(800,800)\fs100\fscx150\fscy150\fn思源黑体 Normal}纽瓦克
 Dialogue: 0,0:00:16.43,0:00:20.33,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,70)\fs70\fn思源黑体 Normal}*飞去法国巴黎*
 Dialogue: 0,0:00:20.47,0:00:25.14,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,360)\fad(1200,800)\fs100\fscx150\fscy150\fn思源黑体 Normal}巴黎
@@ -36,7 +36,7 @@ Dialogue: 0,0:03:34.24,0:03:38.95,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}St
 Dialogue: 0,0:04:10.96,0:04:22.07,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\pos(960,80)\fad(300,300)\bord2\fn思源黑体 Normal\fs75}接下来几天外面下雨了。我们的相机留在了发射台(那边)，被水泡着。\N这是晚上下雨时的音频，雨声大到把我们都吵醒了！
 Dialogue: 0,0:04:22.14,0:04:34.95,1080P-src-hans-sans-medi-60,,0,0,0,,{\a2\fad(300,300)\bord2\fn思源黑体 Normal\fs75}我们利用延迟的这几天出去探索了一番……顺便补补觉。
 Dialogue: 0,0:04:35.32,0:04:49.00,1080P-src-hans-sans-medi-60,,0,0,0,,{\a2\fad(300,300)\bord2\fn思源黑体 Normal\fs75}没人能想到要等这么多次发射尝试，为了住最后四晚上，我们不得不换了家酒店……
-Dialogue: 0,0:04:50.04,0:04:52.27,1080P-src-hans-sans-medi-60,,0,0,0,,标牌上的字：欢迎来到库鲁
+Dialogue: 0,0:04:50.04,0:04:52.27,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}标牌上的字：欢迎来到库鲁
 Dialogue: 0,0:04:55.64,0:04:59.81,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,420)\fad(1200,800)\fs100\fn思源黑体 Normal\bord2}星期二：我们最后一次尝试看发射
 Dialogue: 0,0:06:09.65,0:06:12.48,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,360)\fad(700,700)\fs100\fscx150\fscy150\fn思源黑体 Normal}发射后的聚会！
 Dialogue: 0,0:06:17.69,0:06:27.30,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\pos(960,80)\fad(300,300)\bord2\fn思源黑体 Normal\fs75}这次发射完美！在聚会之后，第二天早上需要回收剩下的前方远程相机了。
@@ -89,7 +89,7 @@ Dialogue: 0,0:06:33.24,0:06:33.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:06:35.60,0:06:36.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}好极了\N{\r1080P-src-hans-sans-Bold-50\blur4}Fantastique.
 Dialogue: 0,0:06:51.56,0:06:53.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然被水泡了 但还是拍下来了\N{\r1080P-src-hans-sans-Bold-50\blur4}It's wet but it's fired.
 Dialogue: 0,0:06:54.57,0:06:55.49,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}会拍下来些东西的\N{\r1080P-src-hans-sans-Bold-50\blur4}It will be something.
-Dialogue: 0,0:06:57.33,0:06:58.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就是那个被水泡的相机\N{\r1080P-src-hans-sans-Bold-50\blur4}This is the one is wet.
+Dialogue: 0,0:06:57.33,0:06:58.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有镜头是湿的\N{\r1080P-src-hans-sans-Bold-50\blur4}Just the lens is wet.
 Dialogue: 0,0:06:58.38,0:06:59.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但还是工作了\N{\r1080P-src-hans-sans-Bold-50\blur4}But it worked.
 Dialogue: 0,0:07:08.90,0:07:09.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}来吧\N{\r1080P-src-hans-sans-Bold-50\blur4}Here we go.
 Dialogue: 0,0:07:26.66,0:07:27.43,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你拍到了什么吗\N{\r1080P-src-hans-sans-Bold-50\blur4}Did you get anything?
