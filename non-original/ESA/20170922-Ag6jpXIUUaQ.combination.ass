@@ -29,6 +29,7 @@ Dialogue: 0,0:01:28.14,0:01:30.04,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4
 Dialogue: 0,0:01:30.11,0:01:36.23,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}the Chinese are really well-prepared – it's high-level equipment, we get helicopter airlifting,
 Dialogue: 0,0:01:59.23,0:02:03.16,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}During this training I've had the opportunity to work very closely with our Chinese medical colleagues,
 Dialogue: 0,0:02:03.42,0:02:08.65,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}and I'm very, very impressed about how they have combined their traditional Chinese medicine,
+Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}So we have different ways of approaching training, which is inherited from the ISS programme,
 Dialogue: 0,0:03:10.38,0:03:14.38,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}This joint training we are doing here is a first step in a co-operation
 Dialogue: 0,0:03:14.56,0:03:21.36,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}that we all hope will lead one day in the early 2020s to a European astronaut
 Dialogue: 0,0:00:04.22,0:00:09.98,1080P-src-hans-sans-medi-esa,,0,0,0,,{\fad(820,0)\pos(800,430)\clip(400,360,1210,432)\fn思源黑体 Bold}→ ESA和中国航天员一起参与训练
@@ -53,7 +54,6 @@ Dialogue: 0,0:01:52.97,0:01:58.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:02:08.91,0:02:10.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种医药有着上千年的历史\N{\r1080P-src-hans-sans-Bold-50}{\blur4}which has thousands of years of history,
 Dialogue: 0,0:02:10.74,0:02:13.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是他们会把中医与世界上最先进的医药知识结合在一起\N{\r1080P-src-hans-sans-Bold-50}{\blur4}with the most advanced medical knowledge that we can find now in the world.
 Dialogue: 0,0:02:14.59,0:02:17.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里的培训组织得很好\N{\r1080P-src-hans-sans-Bold-50}{\blur4}Training here is very, very well organised.
-Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们有着不同的培训方法 继承自国际空间站的项目\N{\r1080P-src-hans-sans-Bold-50}{\a6\blur4\fs50\fn思源黑体 Bold}So we have different ways of approaching training, which is inherited from the ISS programme,
 Dialogue: 0,0:02:23.09,0:02:25.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但实际上这之间的差异并不大\N{\r1080P-src-hans-sans-Bold-50}{\blur4}but actually they are not that far away,
 Dialogue: 0,0:02:25.37,0:02:30.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就意味着我们在培训组织中能够找到共同语言\N{\r1080P-src-hans-sans-Bold-50}{\blur4}so it means that we find common words and common understanding in the way they also organise training,
 Dialogue: 0,0:02:31.05,0:02:35.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 对我们来说 这是一个非常好的信号 可以和中国人进一步合作\N{\r1080P-src-hans-sans-Bold-50}{\blur4}so for us it's a very good sign for further co-operation with the Chinese.
@@ -76,5 +76,6 @@ Dialogue: 0,0:01:28.14,0:01:30.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:01:30.11,0:01:36.23,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}中国人准备真的很周全 装备很高级 我们进行了直升机空运
 Dialogue: 0,0:01:59.23,0:02:03.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个培训中 我有机会与中国的医疗同事们密切合作
 Dialogue: 0,0:02:03.42,0:02:08.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}关于他们如何现代化传统中国医药 我对此非常印象深刻
+Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们有着不同的培训方法 继承自国际空间站的项目
 Dialogue: 0,0:03:10.38,0:03:14.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们在这儿做的这个合作培训是合作的第一步
 Dialogue: 0,0:03:14.56,0:03:21.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们都希望有朝一日 在2020年代初 让一个欧洲航天员
