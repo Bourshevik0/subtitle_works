@@ -22,6 +22,8 @@ Comment: 0,0:00:12.54,0:00:17.52,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}注
 Dialogue: 0,0:00:04.22,0:00:09.98,1080P-src-hans-sans-medi-esa,,0,0,0,,{\fad(820,0)\pos(800,430)\clip(400,360,1210,432)\fn思源黑体 Bold}→ ESA和中国航天员一起参与训练
 Dialogue: 0,0:00:12.54,0:00:25.20,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4\move(1930,10,1910,10,0,500)\fs45}字幕翻译/压制：旋火\N视频来源：youtu.be/Ag6jpXIUUaQ\N原视频发布日期：20170922\N原作者名：European Space Agency, ESA
 Dialogue: 0,0:00:40.26,0:00:45.98,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\pos(1650,928)\fad(100,260)\bord0\fscy120\c&HFFFFFF&\1a&H5A&}欧空局宇航员
+Dialogue: 0,0:01:28.54,0:01:31.90,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\pos(1600,928)\fad(100,0)\bord0\fscy120\c&HFFFFFF&\1a&H5A&}欧空局宇航员
+Dialogue: 0,0:03:12.86,0:03:18.58,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\pos(1650,928)\fad(100,260)\bord0\fscy120\c&HFFFFFF&\1a&H5A&}欧空局宇航员
 Dialogue: 0,0:01:59.78,0:02:05.46,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\pos(1700,928)\fad(100,260)\bord0\fscy120\c&HFFFFFF&\1a&H5A&}欧空局飞行外科医生
 Dialogue: 0,0:02:17.66,0:02:23.30,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\pos(1800,928)\fad(100,260)\bord0\fscy120\c&HFFFFFF&\1a&H5A&}欧空局培训专家
 Comment: 0,0:00:12.54,0:00:17.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}英文字幕
@@ -52,25 +54,25 @@ Dialogue: 0,0:02:08.91,0:02:10.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}wh
 Dialogue: 0,0:02:10.74,0:02:13.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with the most advanced medical knowledge that we can find now in the world.
 Dialogue: 0,0:02:14.59,0:02:17.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Training here is very, very well organised.
 Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}So we have different ways of approaching training, which is inherited from the ISS programme,
-Dialogue: 0,0:02:23.09,0:02:25.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but actually they are not that far away,
+Dialogue: 0,0:02:23.09,0:02:25.37,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}but actually they are not that far away,
 Dialogue: 0,0:02:25.37,0:02:30.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so it means that we find common words and common understanding in the way they also organise training,
 Dialogue: 0,0:02:31.05,0:02:35.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so for us it's a very good sign for further co-operation with the Chinese.
 Dialogue: 0,0:02:36.23,0:02:40.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This training exercise wasn't the first collaboration between the two space agencies.
 Dialogue: 0,0:02:41.06,0:02:47.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}In July 2016, Chinese astronaut Ye Guangfu joined ESA's caving course in Sardinia
 Dialogue: 0,0:02:48.34,0:02:52.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to experience an extreme environment as part of a multicultural crew.
-Dialogue: 0,0:02:55.14,0:02:59.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Both activities stem from the 2015 agreement to boost collaboration
-Dialogue: 0,0:02:59.27,0:03:02.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}between ESA and the China Manned Space Agency -
+Dialogue: 0,0:02:55.14,0:02:57.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Both activities stem from the 2015 agreement
+Dialogue: 0,0:02:58.03,0:03:02.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to boost collaboration between ESA and the China Manned Space Agency -
 Dialogue: 0,0:03:03.04,0:03:08.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with the ultimate goal of flying European astronauts onboard the Chinese space station from 2022.
 Dialogue: 0,0:03:10.38,0:03:14.38,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}This joint training we are doing here is a first step in a co-operation
-Dialogue: 0,0:03:14.56,0:03:21.36,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}that we all hope will lead one day in the early 2020s to a European astronaut
-Dialogue: 0,0:03:21.38,0:03:26.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}flying with the Taikonauts to the future Chinese space station,
+Dialogue: 0,0:03:14.56,0:03:18.44,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\fs50\fn思源黑体 Bold}that we all hope will lead one day in the early 2020s
+Dialogue: 0,0:03:19.54,0:03:25.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to a European astronaut flying with the Taikonauts to the future Chinese space station,
 Dialogue: 0,0:03:26.26,0:03:30.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so of course I would be thrilled if I had that opportunity.
-Dialogue: 0,0:03:32.32,0:03:34.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Organised by the Astronaut Centre of China
-Dialogue: 0,0:03:34.72,0:03:38.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}in co-operation with the Ministry of Transport's Beihai Rescue Bureau,
+Dialogue: 0,0:03:32.32,0:03:38.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Organised by the Astronaut Centre of China {\blur4}in co-operation with the Ministry of Transport's Beihai Rescue Bureau,
 Dialogue: 0,0:03:38.74,0:03:43.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}this training session has been an important step towards long-term collaboration.
 Dialogue: 0,0:03:44.46,0:03:48.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Other training opportunities and joint activities are in the pipeline –
 Dialogue: 0,0:03:48.67,0:03:54.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with the aim of helping ESA and the China Manned Space Agency to get to know one another better.
 Comment: 0,0:00:12.54,0:00:17.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}中文字幕
+Dialogue: 0,0:00:00.00,0:00:04.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}译者：大家可以在弹幕和评论中认一下镜头中出现的航天员
 Dialogue: 0,0:00:12.54,0:00:17.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是第一次 欧空局在中国组织进行航天员培训活动
 Dialogue: 0,0:00:19.49,0:00:25.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}Matthias Maurer和Samantha Cristoforetti最近和7名中国航天员在一起
 Dialogue: 0,0:00:25.21,0:00:31.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者说太空人 进行了9天的海上生存培训课程 在中国滨海城市烟台市外
@@ -81,38 +83,37 @@ Dialogue: 0,0:00:48.86,0:00:53.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:00:54.81,0:00:55.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}穿着压力服
 Dialogue: 0,0:00:55.78,0:01:00.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员进入了神舟飞船的实体模型 之后被释放到海里
 Dialogue: 0,0:01:02.76,0:01:05.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}Samantha和Matthias分别和另外两个中国航天员组队
-Dialogue: 0,0:01:06.35,0:01:09.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种配置更接近于实际情况
-Dialogue: 0,0:01:10.96,0:01:13.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在穿上绝缘且有浮力的服装后
-Dialogue: 0,0:01:13.43,0:01:16.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们演练了有船和直升机情况下的急救程序
+Dialogue: 0,0:01:06.35,0:01:09.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们之间有着相当丰富的航天经验
+Dialogue: 0,0:01:10.96,0:01:13.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在穿上绝缘且有浮力的套装后
+Dialogue: 0,0:01:13.43,0:01:16.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们演练了在有船和直升机情况下的急救程序
 Dialogue: 0,0:01:18.86,0:01:23.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}太空任务可能是充满意外的 而类似这样的培训课程
-Dialogue: 0,0:01:23.84,0:01:27.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}可以确保宇航员应对各种情况
+Dialogue: 0,0:01:23.84,0:01:27.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}可以确保宇航员有能力应对各种情况
 Dialogue: 0,0:01:28.14,0:01:30.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}到目前为止 培训给我的体验很棒
 Dialogue: 0,0:01:30.11,0:01:36.23,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}中国人准备真的很周全 装备很高级 我们进行了直升机空运
 Dialogue: 0,0:01:36.28,0:01:43.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有个巨大的使用在公海上的海上生存救援船
 Dialogue: 0,0:01:43.41,0:01:46.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以到目前为止 是很好的装备和体验
 Dialogue: 0,0:01:48.24,0:01:52.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}和Samantha还有Matthias一起在中国的还有一个欧空局的飞行外科医生
-Dialogue: 0,0:01:52.97,0:01:58.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及一个培训专家 了解了文化的细微差异
+Dialogue: 0,0:01:52.97,0:01:58.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及一个培训专家 他了解到了双方之间的文化有着细微的差异
 Dialogue: 0,0:01:59.23,0:02:03.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个培训中 我有机会与中国的医疗同事们密切合作
 Dialogue: 0,0:02:03.42,0:02:08.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}关于他们如何现代化传统中国医药 我对此非常印象深刻
 Dialogue: 0,0:02:08.91,0:02:10.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种医药有着上千年的历史
-Dialogue: 0,0:02:10.74,0:02:13.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是他们会把中医与世界上最先进的医药知识结合在一起
+Dialogue: 0,0:02:10.74,0:02:13.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是他们会把中医药与世界上最先进的医药知识结合在一起
 Dialogue: 0,0:02:14.59,0:02:17.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里的培训组织得很好
-Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们有着不同的培训方法 继承自国际空间站的项目
-Dialogue: 0,0:02:23.09,0:02:25.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但实际上这之间的差异并不大
-Dialogue: 0,0:02:25.37,0:02:30.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就意味着我们在培训组织中能够找到共同语言
+Dialogue: 0,0:02:17.18,0:02:22.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们有许多不同的继承自国际空间站项目的培训方法
+Dialogue: 0,0:02:23.09,0:02:25.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但实际上(和中国人的方法)差异并不大
+Dialogue: 0,0:02:25.37,0:02:30.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就意味着我们能够在培训安排中找到共同语言
 Dialogue: 0,0:02:31.05,0:02:35.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 对我们来说 这是一个非常好的信号 可以和中国人进一步合作
-Dialogue: 0,0:02:36.23,0:02:40.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这次培训不是两家机构的第一次合作了
+Dialogue: 0,0:02:36.23,0:02:40.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这次培训不是两家航天机构的第一次合作了
 Dialogue: 0,0:02:41.06,0:02:47.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}2016年7月 中国航天员叶光富参加了欧空局在撒丁岛的洞穴课程
 Dialogue: 0,0:02:48.34,0:02:52.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在多元文化团队的氛围中 体验极端环境
-Dialogue: 0,0:02:55.14,0:02:59.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这两项活动都源自于2015年的协议
-Dialogue: 0,0:02:59.27,0:03:02.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}来加速欧空局和中国载人航天办公室的合作
+Dialogue: 0,0:02:55.14,0:02:57.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这两项活动都源自于2015年的协议
+Dialogue: 0,0:02:58.03,0:03:02.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}来加速欧空局和中国载人航天办公室的合作
 Dialogue: 0,0:03:03.04,0:03:08.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最终目标是在2022年让欧洲航天员进入中国空间站
 Dialogue: 0,0:03:10.38,0:03:14.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们在这儿做的这个合作培训是合作的第一步
-Dialogue: 0,0:03:14.56,0:03:21.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们都希望有朝一日 在2020年代初 让一个欧洲航天员
-Dialogue: 0,0:03:21.38,0:03:26.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}能和中国航天员去未来的中国空间站
+Dialogue: 0,0:03:14.56,0:03:18.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们都希望有朝一日 在2020年代初
+Dialogue: 0,0:03:19.54,0:03:25.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}欧洲航天员能和中国航天员去未来的中国空间站
 Dialogue: 0,0:03:26.26,0:03:30.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以当然了 如果我有这样的机会 我会很激动
-Dialogue: 0,0:03:32.32,0:03:34.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由中国航天员中心组织
-Dialogue: 0,0:03:34.72,0:03:38.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及交通运输部北海救助局合作
+Dialogue: 0,0:03:32.32,0:03:38.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在中国航天员中心和交通运输部北海救助局合作组织下
 Dialogue: 0,0:03:38.74,0:03:43.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}本次培训班是实现长期合作的一个重要步骤
 Dialogue: 0,0:03:44.46,0:03:48.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其他培训机会 联合活动正在酝酿中
-Dialogue: 0,0:03:48.67,0:03:54.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}目的是帮助欧空局和中国载人航天办公室促进互相的了解
+Dialogue: 0,0:03:48.67,0:03:54.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这些都是为了促进欧空局和中国载人航天办公室之间的了解
