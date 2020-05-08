@@ -21,15 +21,14 @@ Style: shsm-7-100,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:04.40,0:00:14.40,shsm-1-50,,0,0,0,,注释
-Dialogue: 0,0:00:04.40,0:00:14.40,shsm-7-100,,0,0,0,,{\fad(1000,1000)\blur4\move(-20,10,10,10,0,500)}时间索引：\N00:11 序\N01:31 下载\N02:13 Google Speech V2语音识别使用方法\N03:25 讯飞云流式WebAPI使用方法\N04:25 py-googletrans翻译字幕使用方法
+Dialogue: 0,0:00:04.40,0:00:14.40,shsm-7-100,,0,0,0,,{\fad(1000,1000)\blur4\move(-20,10,10,10,0,500)}时间索引：\N00:15 序\N01:35 下载\N02:18 Google Speech V2语音识别使用方法\N03:30 讯飞云流式WebAPI使用方法\N04:30 py-googletrans翻译字幕使用方法
 Dialogue: 0,0:00:04.40,0:00:14.40,shsm-1-50,,0,0,0,,{\fad(1000,1000)\blur4}背景音乐：Bush Week - Nihilore 出处：{\fs40}youtu.be/VAlq59rG5-k, nihilore.bandcamp.com/album/broken-parts\N{\fs50}音乐许可：CC BY 4.0
 Dialogue: 0,0:00:26.58,0:00:29.68,shsm-5-80,,0,0,0,,{\a10\fad(800,1000)\blur4}Google Speech V2\NGoole Cloud Speech-to-Text\N讯飞开放平台语音听写流式版WebAPI\N百度短语音识别/短语音识别极速版\Npy-googletrans
 Dialogue: 0,0:00:33.75,0:00:38.75,shsm-5-80,,0,0,0,,{\a10\blur4}长语音识别可以考虑这个\Ngithub.com/wxbool/video-srt-windows
 Dialogue: 0,0:01:23.58,0:01:28.58,shsm-5-80,,0,0,0,,{\a10\fad(1000,1000)\blur4}联系方式：b站私信\N邮箱binglinggroup@outlook.com
 Dialogue: 0,0:01:32.85,0:01:33.01,shsm-7-60,,0,0,0,,{\blur4\a7}突然回忆.jpg——辐射4 NPC派普Piper Wright
 Dialogue: 0,0:01:31.32,0:01:35.81,shsm-7-60,,0,0,0,,{\blur4\move(-20,10,10,10,0,500)}大概是下一期
-Dialogue: 0,0:01:36.24,0:01:40.98,shsm-7-60,,0,0,0,,{\blur4\move(-20,10,10,10,0,500)}github.com/BingLingGroup/autosub
-Dialogue: 0,0:01:37.58,0:01:40.98,shsm-7-60,,0,0,0,,{\blur4\move(-20,10,10,10,0,500)}share.weiyun.com/5ikgeM9 密码：xey72i
+Dialogue: 0,0:01:36.24,0:01:40.98,shsm-7-60,,0,0,0,,{\blur4\move(-20,10,10,10,0,500)}github.com/BingLingGroup/autosub\Nshare.weiyun.com/5ikgeM9 密码：xey72i
 Dialogue: 0,0:02:08.61,0:02:18.21,shsm-5-100,,0,0,0,,{\fad(1000,1000)\blur4}Google Speech V2语音识别使用方法
 Dialogue: 0,0:03:03.15,0:03:12.81,shsm-5-80,,0,0,0,,{\fad(1000,1000)\blur4}类似在windows命令行中的设置\Nset https_proxy=https://127.0.0.1:1080
 Dialogue: 0,0:03:24.91,0:03:36.58,shsm-5-100,,0,0,0,,{\fad(1000,1000)\blur4}讯飞云流式WebAPI使用方法
