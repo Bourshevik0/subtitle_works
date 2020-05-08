@@ -9,6 +9,9 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Active Line: 9
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -24,7 +27,7 @@ Dialogue: 0,0:00:02.63,0:00:08.35,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,
 Comment: 0,0:00:08.72,0:00:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}中文字幕\N{\r1080P-src-hans-sans-Bold-50}{\blur4}英文字幕
 Dialogue: 0,0:00:08.72,0:00:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰9号启动\N{\r1080P-src-hans-sans-Bold-50\blur4}Falcon 9 is in startup.
 Dialogue: 0,0:00:10.58,0:00:11.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}龙飞船开始倒计时\N{\r1080P-src-hans-sans-Bold-50\blur4}Dragon is in countdown.
-Dialogue: 0,0:00:12.87,0:00:13.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}FDS(飞行动力系统)启动\N{\r1080P-src-hans-sans-Bold-50\blur4}FDS(flight dynamics system) is armed.
+Dialogue: 0,0:00:12.87,0:00:13.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}FTS(飞行终止系统)准备完毕\N{\r1080P-src-hans-sans-Bold-50\blur4}FTS(flight termination system) is armed.
 Dialogue: 0,0:00:14.44,0:00:15.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}准备发射\N{\r1080P-src-hans-sans-Bold-50\blur4}Go for launch.
 Dialogue: 0,0:00:19.75,0:00:20.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}点火\N{\r1080P-src-hans-sans-Bold-50\blur4}Ignition.
 Dialogue: 0,0:00:21.47,0:00:21.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}起飞\N{\r1080P-src-hans-sans-Bold-50\blur4}Liftoff.
@@ -34,11 +37,12 @@ Dialogue: 0,0:00:31.83,0:00:33.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:00:36.37,0:00:37.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一级火箭推力正常\N{\r1080P-src-hans-sans-Bold-50\blur4}Stage 1 propulsion is nominal.
 Dialogue: 0,0:00:40.94,0:00:42.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰9号动力 遥测信号正常\N{\r1080P-src-hans-sans-Bold-50\blur4}Falcon power and telemetry is nominal.
 Dialogue: 0,0:00:44.40,0:00:44.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一级火箭发动机关闭\N{\r1080P-src-hans-sans-Bold-50\blur4}MECO.
-Dialogue: 0,0:00:44.95,0:00:46.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}追踪和发射逃逸系统启动\N{\r1080P-src-hans-sans-Bold-50\blur4}Trail and Launch Escape initiated.
-Dialogue: 0,0:00:47.55,0:00:49.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}(超级)德拉古点火 一切良好\N{\r1080P-src-hans-sans-Bold-50\blur4}Draco firing. Everything good.
+Dialogue: 0,0:00:44.95,0:00:46.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}龙飞船逃逸系统启动\N{\r1080P-src-hans-sans-Bold-50\blur4}Dragon Launch Escape initiated.
+Dialogue: 0,0:00:47.55,0:00:49.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}(超级)天龙座发动机工作中 一切正常\N{\r1080P-src-hans-sans-Bold-50\blur4}Draco firing. Everything good.
 Dialogue: 0,0:00:51.44,0:00:52.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一级火箭节流(?)\N{\r1080P-src-hans-sans-Bold-50\blur4}Stage 1 throttle down.
 Dialogue: 0,0:01:08.16,0:01:10.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}水平速度10m/s\N{\r1080P-src-hans-sans-Bold-50\blur4}I see 10m/s horizontally.
 Dialogue: 0,0:01:28.88,0:01:30.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}好的 主降落伞释放\N{\r1080P-src-hans-sans-Bold-50\blur4}Good. Main chutes released.
+Dialogue: 0,0:01:32.54,0:01:33.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}速度正在减少\N{\r1080P-src-hans-sans-Bold-50\blur4}Velocity is decreasing.
 Dialogue: 0,0:00:16.11,0:00:19.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\k44\blur4\2c&HA1A193&\2a&H00&}3{\k58} {\k30}2{\k62} {\k23}1{\k58} {\k33}0
 Dialogue: 0,0:00:02.63,0:00:08.35,1080P-src-hans-sans-Bold-5s,,0,0,0,,{\blur4}[Music]
 Dialogue: 0,0:00:56.65,0:01:07.92,1080P-src-hans-sans-Bold-5s,,0,0,0,,{\blur4}[Music]
