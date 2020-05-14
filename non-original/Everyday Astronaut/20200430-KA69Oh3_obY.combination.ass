@@ -8,9 +8,6 @@ PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Active Line: 41
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -255,7 +252,7 @@ Dialogue: 0,0:13:00.41,0:13:02.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}SL
 Dialogue: 0,0:13:02.73,0:13:06.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而不是航天飞机使用的四段的那种\N{\r1080P-src-hans-sans-Bold-50\blur4}as opposed to the four-segment SRBs the Space Shuttle had,
 Dialogue: 0,0:13:06.04,0:13:09.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}同时也没有任何用于回收的设备 以及一个重新设计过的塞子\N{\r1080P-src-hans-sans-Bold-50\blur4}lacking any recovery hardware and featuring a redesigned plug
 Dialogue: 0,0:13:09.90,0:13:11.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}让碎屑出来\N{\r1080P-src-hans-sans-Bold-50\blur4}that keeps squirrels and stuff out of it,
-Dialogue: 0,0:13:12.16,0:13:18.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}重新设计后 碎屑不会在点火时伤害到RS-15的喷管\N{\r1080P-src-hans-sans-Bold-50\blur4}with the redesign ensuring debris won't potentially damage the nearby RS-25 nozzles on ignition.
+Dialogue: 0,0:13:12.16,0:13:18.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}重新设计后 碎屑不会在点火时伤害到RS-25的喷管\N{\r1080P-src-hans-sans-Bold-50\blur4}with the redesign ensuring debris won't potentially damage the nearby RS-25 nozzles on ignition.
 Dialogue: 0,0:13:18.33,0:13:22.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}芯一级 虽然看起来像是航天飞机的外储罐\N{\r1080P-src-hans-sans-Bold-50\blur4}The core stage, which, although it looks like a Space Shuttle's external fuel tank,
 Dialogue: 0,0:13:22.54,0:13:29.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}实际上除了颜色和8.4m直径以外 就没什么共同点了\N{\r1080P-src-hans-sans-Bold-50\blur4}there's virtually nothing in common with the external fuel tank other than its color and its 8.4-meter diameter.
 Dialogue: 0,0:13:29.66,0:13:32.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它采用了全新的铝材 AL 2219\N{\r1080P-src-hans-sans-Bold-50\blur4}It uses a new aluminum, AL 2219,
@@ -358,7 +355,7 @@ Dialogue: 0,0:19:41.35,0:19:43.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:19:43.50,0:19:45.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你好 马一龙 我是Tim Dodd\N{\r1080P-src-hans-sans-Bold-50\blur4}Hello, Elon, Tim Dodd here,
 Dialogue: 0,0:19:45.34,0:19:47.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}Spaceflight Now的每日宇航员\N{\r1080P-src-hans-sans-Bold-50\blur4}the Everyday Astronaut with Spaceflight Now.
 Dialogue: 0,0:19:47.72,0:19:53.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你说它会带着100名乘客入轨 然后在轨加注3到5次\N{\r1080P-src-hans-sans-Bold-50\blur4}You show it going into orbit with the 100 passengers and then refueling it three to five times,
-Dialogue: 0,0:19:53.31,0:19:55.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后进行火星转移轨道注入\N{\r1080P-src-hans-sans-Bold-50\blur4}and then doing your Mars injection.
+Dialogue: 0,0:19:53.31,0:19:55.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后进行火星转移轨道进入\N{\r1080P-src-hans-sans-Bold-50\blur4}and then doing your Mars injection.
 Dialogue: 0,0:19:55.11,0:19:56.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 对  - 这就是计划中的吗\N{\r1080P-src-hans-sans-Bold-50\blur4}- Right. - Is this the plan,
 Dialogue: 0,0:19:56.16,0:20:01.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者是会有一个加满燃料的IBT 或者MCT一类的东西\N{\r1080P-src-hans-sans-Bold-50\blur4}or is it to have a fully-fueled IBT, or MCT, or whatever,
 Dialogue: 0,0:20:01.01,0:20:02.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后再让乘客上去？\N{\r1080P-src-hans-sans-Bold-50\blur4}and then put passengers on board?
@@ -366,7 +363,7 @@ Dialogue: 0,0:20:02.51,0:20:05.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:20:05.88,0:20:07.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 好\N{\r1080P-src-hans-sans-Bold-50\blur4}- Yeah.
 Dialogue: 0,0:20:07.10,0:20:10.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 马一龙展示出的这个计划显得很狂暴\N{\r1080P-src-hans-sans-Bold-50\blur4}- The plans Elon showed were properly ludicrous,
 Dialogue: 0,0:20:10.14,0:20:11.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}甚至是残暴\N{\r1080P-src-hans-sans-Bold-50\blur4}maybe even plaid,
-Dialogue: 0,0:20:11.44,0:20:15.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}世上从未见过的事\N{\r1080P-src-hans-sans-Bold-50\blur4}something the world had never seen legitimately proposed.
+Dialogue: 0,0:20:11.44,0:20:15.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}世所未见的事\N{\r1080P-src-hans-sans-Bold-50\blur4}something the world had never seen legitimately proposed.
 Dialogue: 0,0:20:15.93,0:20:19.87,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一个完全可重复使用的 12米宽 122米高的火箭\N{\r1080P-src-hans-sans-Bold-50\blur4}A fully reusable, 12-meter wide, 122-meter tall rocket
 Dialogue: 0,0:20:19.87,0:20:25.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一级有着42个全流量分级燃烧循环的液氧甲烷发动机\N{\r1080P-src-hans-sans-Bold-50\blur4}with 42 full-flow staged combustion methane-powered rocket engines on its first stage,
 Dialogue: 0,0:20:25.53,0:20:29.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后二级有着六个真空引擎和三个海平面引擎\N{\r1080P-src-hans-sans-Bold-50\blur4}then six vacuum engines and three more sea level engines on the upper stage,
@@ -636,7 +633,7 @@ Dialogue: 0,0:36:58.41,0:37:03.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:37:03.46,0:37:06.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但它们近地轨道的运载能力几乎是相同的\N{\r1080P-src-hans-sans-Bold-50\blur4}but their low Earth orbit capabilities are virtually the same
 Dialogue: 0,0:37:06.56,0:37:10.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因为它的芯级差不多在入轨后分离\N{\r1080P-src-hans-sans-Bold-50\blur4}since it's the core stage that pretty much drops them off into orbit.
 Dialogue: 0,0:37:10.36,0:37:14.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是现在让我们来展示它们能送多少质量到月球\N{\r1080P-src-hans-sans-Bold-50\blur4}But now let's show how much mass they can shoot off to the moon,
-Dialogue: 0,0:37:14.42,0:37:17.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这又被称为地月转移轨道注入或TLI\N{\r1080P-src-hans-sans-Bold-50\blur4}otherwise known as a trans-lunar injection or TLI,
+Dialogue: 0,0:37:14.42,0:37:17.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这又被称为月球转移轨道进入或TLI\N{\r1080P-src-hans-sans-Bold-50\blur4}otherwise known as a trans-lunar injection or TLI,
 Dialogue: 0,0:37:17.90,0:37:20.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由于我们在这里谈论月球任务\N{\r1080P-src-hans-sans-Bold-50\blur4}since we're talking about lunar missions here anyway.
 Dialogue: 0,0:37:20.62,0:37:24.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}注意一下 这并不是一定要求火箭把载荷送入绕月轨道\N{\r1080P-src-hans-sans-Bold-50\blur4}Quick note, this isn't necessarily how much a vehicle can put into lunar orbit,
 Dialogue: 0,0:37:24.84,0:37:27.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只是有多少质量它能飞掠月球\N{\r1080P-src-hans-sans-Bold-50\blur4}just how much it could shoot off to the moon.
@@ -847,7 +844,7 @@ Dialogue: 0,0:03:42.01,0:03:53.38,1080P-src-hans-sans-medi-60,,0,0,0,,{\pos(210,
 Dialogue: 0,0:03:53.49,0:03:57.62,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}everydayastronaut.com/sls-vs-starship
 Dialogue: 0,0:04:57.86,0:05:05.57,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}b23.tv/3BV1V7411L7mS
 Dialogue: 0,0:16:23.25,0:16:27.11,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\i0}[麻麻快看，没有着陆器！]{\i1}
-Dialogue: 0,0:16:28.88,0:16:34.11,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\i0}[SLS会部署13个立方星在月球转移轨道注入后]{\i1}
+Dialogue: 0,0:16:28.88,0:16:34.11,1080P-src-hans-sans-medi-60,,0,0,0,,{\a6\blur4\i0}[SLS会部署13个立方星在月球转移轨道进入后]{\i1}
 Dialogue: 0,0:20:07.10,0:20:10.14,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}ludicrous这里双关特斯拉的狂暴模式ludicrous mode
 Dialogue: 0,0:20:10.14,0:20:15.93,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}plaid mode也是特斯拉即将推出的新模式
 Dialogue: 0,0:22:01.96,0:22:07.04,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}b23.tv/BV1ha4y1t73R\Nyoutu.be/hsul-GE4XiA
