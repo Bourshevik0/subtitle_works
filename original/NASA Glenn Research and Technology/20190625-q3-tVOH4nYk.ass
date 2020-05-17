@@ -17,18 +17,26 @@ Style: 720P-sorc-hans-sans-medi-50,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.91,0:00:18.75,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(500,500)\blur4}普拉特-惠特尼飞机公司\N可靠的发动机
+Dialogue: 0,0:00:19.25,0:00:23.05,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(640,710)\fad(500,500)\blur4}普拉特-惠特尼飞机公司
+Dialogue: 0,0:00:22.31,0:00:28.78,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(640,710)\fad(500,500)\blur4}联合航空制造公司的部门\N佛罗里达州研发中心
+Dialogue: 0,0:00:28.11,0:00:30.65,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(640,710)\fad(500,500)\blur4}出品
+Dialogue: 0,0:00:30.15,0:00:33.11,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(640,710)\fad(500,500)\blur4}RL-10火箭发动机
+Dialogue: 0,0:00:31.71,0:00:39.61,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(640,710)\fad(500,500)\blur4}正在为NASA开发
+Comment: 0,0:00:48.21,0:00:50.23,720P-sorc-hans-sans-Bold-33,,0,0,0,,英文字幕
 Dialogue: 0,0:00:48.21,0:00:50.23,720P-sorc-hans-sans-Bold-33,,0,0,0,,The RL-10 rocket engine,
+Comment: 0,0:00:48.21,0:00:50.23,720P-sorc-hans-sans-medi-50,,0,0,0,,中文字幕
 Dialogue: 0,0:00:48.21,0:00:50.23,720P-sorc-hans-sans-Bold-33,,0,0,0,,RL-10火箭引擎
 Dialogue: 0,0:00:50.31,0:00:56.25,720P-sorc-hans-sans-Bold-33,,0,0,0,,power plant for Centaur and Saturn, is the result of years of development.
 Dialogue: 0,0:00:50.31,0:00:56.25,720P-sorc-hans-sans-Bold-33,,0,0,0,,半人马上面级和土星火箭系列的动力装置 是多年研发的成果
 Dialogue: 0,0:00:56.60,0:01:03.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,The highest performance engine built in the free world uses safe, reliable, and dependable hydrogen.
-Dialogue: 0,0:00:56.60,0:01:03.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,是自由世界(冷战时期西方的统称)建造的最高性能引擎 使用安全可靠的液氢
+Dialogue: 0,0:00:56.60,0:01:03.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,是西方世界建造的最高性能引擎 使用安全可靠的液氢
 Dialogue: 0,0:01:05.91,0:01:13.45,720P-sorc-hans-sans-Bold-33,,0,0,0,,To maintain the high degree of reliability of the RL-10, vital parts are assembled under stringent laboratory conditions.
 Dialogue: 0,0:01:05.91,0:01:13.45,720P-sorc-hans-sans-Bold-33,,0,0,0,,为了维持RL-10的高可靠性 重要部件需要在严格的实验室环境中装配
 Dialogue: 0,0:01:19.61,0:01:24.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,Following a typical engine through its paces, the thrust chamber tubes are installed.
-Dialogue: 0,0:01:19.61,0:01:24.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,推力室管束安装 按照典型的引擎装配流程
+Dialogue: 0,0:01:19.61,0:01:24.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,推力室管束按照典型的引擎装配流程进行安装 
 Dialogue: 0,0:01:35.04,0:01:40.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,After the assembly is placed over a mandrel the manifolds and bands can be attached.
-Dialogue: 0,0:01:35.04,0:01:40.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,将装配体放在心轴上后，就可以将歧管和加强带安装上去。
+Dialogue: 0,0:01:35.04,0:01:40.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,将装配体放在心轴上后 就可以将歧管和加强带安装上去 
 Dialogue: 0,0:01:51.94,0:01:55.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,Silver wire is laid in for furnace brazing.
 Dialogue: 0,0:01:51.94,0:01:55.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,用于炉中钎焊的银焊丝被铺设
 Dialogue: 0,0:02:07.10,0:02:10.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,Placed in a retort, the chamber is readied for the furnace.
@@ -42,15 +50,15 @@ Dialogue: 0,0:02:39.37,0:02:43.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,用氮气�
 Dialogue: 0,0:02:54.34,0:02:58.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,The inspected sub-assembly is dried out in a special oven.
 Dialogue: 0,0:02:54.34,0:02:58.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,检验过的子组件在特殊的烘箱中烘干
 Dialogue: 0,0:03:03.58,0:03:07.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,Final chamber assembly is completed with the installation of the injector.
-Dialogue: 0,0:03:03.58,0:03:07.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,喷注器安装完成后，推力室组装完成
+Dialogue: 0,0:03:03.58,0:03:07.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,喷注器安装完成后 推力室组装完成
 Dialogue: 0,0:03:12.27,0:03:17.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,A special jig is lowered to accurately align the injector.
-Dialogue: 0,0:03:12.27,0:03:17.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,为了准确地对齐喷注器 特制的夹具被降下来
+Dialogue: 0,0:03:12.27,0:03:17.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,为了准确地对齐喷注器 特制的夹具被降了下来
 Dialogue: 0,0:03:23.37,0:03:28.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,Then the chamber goes for final machining prior to assembly of the complete engine.
-Dialogue: 0,0:03:23.37,0:03:28.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,然后在组装完整的发动机之前 推力室进行最终加工
-Dialogue: 0,0:03:38.83,0:03:43.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,On the Assembly floor all parts come together fuel lines.
-Dialogue: 0,0:03:38.83,0:03:43.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,在装配楼层 所有的来到这里 燃料管线
-Dialogue: 0,0:03:43.43,0:03:49.36,720P-sorc-hans-sans-Bold-33,,0,0,0,,Valves turbo pumps are brought from clean rooms assembled installed and inspected.
-Dialogue: 0,0:03:43.43,0:03:49.36,720P-sorc-hans-sans-Bold-33,,0,0,0,,阀门 涡轮增压泵从无尘室运来 组装 安装然后检查
+Dialogue: 0,0:03:23.37,0:03:28.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,然后在组装完整的发动机之前 对推力室进行最终加工
+Dialogue: 0,0:03:38.83,0:03:42.11,720P-sorc-hans-sans-Bold-33,,0,0,0,,On the Assembly floor, all parts come together.
+Dialogue: 0,0:03:38.83,0:03:42.11,720P-sorc-hans-sans-Bold-33,,0,0,0,,在装配楼层 所有部件汇聚集在一起
+Dialogue: 0,0:03:42.34,0:03:49.36,720P-sorc-hans-sans-Bold-33,,0,0,0,,Fuel lines, valves, turbo pumps are brought from clean rooms assembled installed and inspected.
+Dialogue: 0,0:03:42.34,0:03:49.36,720P-sorc-hans-sans-Bold-33,,0,0,0,,燃料管线 阀门 涡轮泵从无尘室运来 组装 安装然后检查
 Dialogue: 0,0:03:49.71,0:03:55.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,Multiple inspections of each component and sub assembly assures maximum reliability.
 Dialogue: 0,0:03:49.71,0:03:55.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,对每个部件和子组件进行多次检查 确保最大的可靠性
 Dialogue: 0,0:03:58.10,0:04:02.32,720P-sorc-hans-sans-Bold-33,,0,0,0,,Ready for action the completed engine must undergo the test of firing.
@@ -60,7 +68,7 @@ Dialogue: 0,0:04:02.72,0:04:06.37,720P-sorc-hans-sans-Bold-33,,0,0,0,,RL-10已�
 Dialogue: 0,0:04:09.20,0:04:13.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,The operating principle of the RL-10 can best be shown by this simple diagram.
 Dialogue: 0,0:04:09.20,0:04:13.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,这个简单的图能很好地说明RL-10的工作原理
 Dialogue: 0,0:04:14.63,0:04:22.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,Hydrogen at 37 degrees rankine minus 423 degrees Fahrenheit enters through the inlet shutoff valve.
-Dialogue: 0,0:04:14.63,0:04:22.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,液氢在37兰氏度 423华氏度 (-252.2℃) 时从进给截断阀进入
+Dialogue: 0,0:04:14.63,0:04:22.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,液氢在37兰氏度(-423华氏度)(-252.2℃)时从进给截断阀进入
 Dialogue: 0,0:04:22.22,0:04:25.55,720P-sorc-hans-sans-Bold-33,,0,0,0,,Passes through the first stage pump into the second stage pump
 Dialogue: 0,0:04:22.22,0:04:25.55,720P-sorc-hans-sans-Bold-33,,0,0,0,,通过第一级泵进入第二级泵
 Dialogue: 0,0:04:25.87,0:04:29.03,720P-sorc-hans-sans-Bold-33,,0,0,0,,where it is discharged at 1,000 pounds per square inch.
@@ -72,25 +80,25 @@ Dialogue: 0,0:04:34.44,0:04:39.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,经过转�
 Dialogue: 0,0:04:39.80,0:04:42.10,720P-sorc-hans-sans-Bold-33,,0,0,0,,and through the venturi into the turbine.
 Dialogue: 0,0:04:39.80,0:04:42.10,720P-sorc-hans-sans-Bold-33,,0,0,0,,然后通过文氏管进入涡轮
 Dialogue: 0,0:04:42.68,0:04:47.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,At this point, the hydrogen is now gas at 850 pounds per square inch
-Dialogue: 0,0:04:42.68,0:04:47.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,此时氢气已是每平方英寸850磅 (5.9MPa) 的气体了
-Dialogue: 0,0:04:47.79,0:04:52.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,and 350 degrees Rankine - 110 degrees Fahrenheit
-Dialogue: 0,0:04:47.79,0:04:52.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,温度在350兰氏度 - 110华氏度 (43.3℃)
+Dialogue: 0,0:04:42.68,0:04:47.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,此时的氢燃料已是每平方英寸850磅 (5.9MPa) 的气体了
+Dialogue: 0,0:04:47.79,0:04:52.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,and 350 degrees Rankine, minus 110 degrees Fahrenheit
+Dialogue: 0,0:04:47.79,0:04:52.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,温度在350兰氏度(-110华氏度)(-78.9℃)
 Dialogue: 0,0:04:52.66,0:04:56.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,and provides the power to drive the hydrogen and oxygen pumps.
-Dialogue: 0,0:04:52.66,0:04:56.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,提供驱动氢泵和氧泵的动力
+Dialogue: 0,0:04:52.66,0:04:56.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,膨胀后的氢燃料提供驱动氢泵和氧泵的动力
 Dialogue: 0,0:04:56.57,0:05:03.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,It then goes through the main shutoff valve into the injector and to the combustion chamber.
 Dialogue: 0,0:04:56.57,0:05:03.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,然后它通过主截断阀进入喷注器再进到燃烧室
-Dialogue: 0,0:05:03.77,0:05:09.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,Drawn in through the single stage oxygen pump oxygen flows through the inlet valve.
+Dialogue: 0,0:05:03.77,0:05:09.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,Drawn in through the single stage oxygen pump, oxygen flows through the inlet valve.
 Dialogue: 0,0:05:03.77,0:05:09.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,液氧通过单级氧泵流入进给阀
 Dialogue: 0,0:05:09.26,0:05:16.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,Directly through the mixture ratio control valve into the injector to combine with the hydrogen in the chamber.
 Dialogue: 0,0:05:09.26,0:05:16.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,直接通过混合比调节阀进入喷注器 与燃烧室内的氢气结合
-Dialogue: 0,0:05:17.17,0:05:20.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,The engine itself is as simple as the diagram to demonstrate
-Dialogue: 0,0:05:17.17,0:05:20.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,发动机本身就像图表那样简单 展示
-Dialogue: 0,0:05:20.99,0:05:26.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,hydrogen enters at this point flows through the first stage pump into the second stage pump
-Dialogue: 0,0:05:20.99,0:05:26.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,液氢在此处通过第一级泵流向第二级泵
+Dialogue: 0,0:05:17.17,0:05:19.79,720P-sorc-hans-sans-Bold-33,,0,0,0,,The engine itself is as simple as the diagram
+Dialogue: 0,0:05:17.17,0:05:19.79,720P-sorc-hans-sans-Bold-33,,0,0,0,,发动机本身就像图表那样简单
+Dialogue: 0,0:05:20.10,0:05:26.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,to demonstrate hydrogen enters at this point flows through the first stage pump into the second stage pump
+Dialogue: 0,0:05:20.10,0:05:26.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,展示液氢在此处通过第一级泵流向第二级泵
 Dialogue: 0,0:05:26.41,0:05:35.39,720P-sorc-hans-sans-Bold-33,,0,0,0,,passes through the cooling jacket manifold down through half the tubes to the turnaround manifold up the long tubes
 Dialogue: 0,0:05:26.41,0:05:35.39,720P-sorc-hans-sans-Bold-33,,0,0,0,,通过冷却歧管套 往下过束管的一半 经过转弯歧管 往上到长束管
 Dialogue: 0,0:05:35.39,0:05:37.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,collected at the exit manifold
-Dialogue: 0,0:05:35.39,0:05:37.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,集于出口歧管
+Dialogue: 0,0:05:35.39,0:05:37.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,集中于出口歧管
 Dialogue: 0,0:05:40.35,0:05:42.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,through the venturi into the turbine.
 Dialogue: 0,0:05:40.35,0:05:42.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,经过文氏管进入涡轮
 Dialogue: 0,0:05:47.24,0:05:51.33,720P-sorc-hans-sans-Bold-33,,0,0,0,,There it provides the power to drive the hydrogen and oxygen pumps.
@@ -108,7 +116,7 @@ Dialogue: 0,0:06:18.59,0:06:24.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,到达其�
 Dialogue: 0,0:06:26.79,0:06:29.15,720P-sorc-hans-sans-Bold-33,,0,0,0,,Spaced firing conditions will be simulated.
 Dialogue: 0,0:06:26.79,0:06:29.15,720P-sorc-hans-sans-Bold-33,,0,0,0,,会模拟太空点火环境
 Dialogue: 0,0:06:32.51,0:06:37.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,A steam injector system lowers the pressure to the near vacuum of space.
-Dialogue: 0,0:06:32.51,0:06:37.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,蒸汽喷射系统将压力降低到接近宇宙的真空
+Dialogue: 0,0:06:32.51,0:06:37.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,蒸汽喷射系统会将压力降低到接近宇宙的真空
 Dialogue: 0,0:06:46.92,0:06:49.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,On completion of this test firing,
 Dialogue: 0,0:06:46.92,0:06:49.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,在完成这项试点火后
 Dialogue: 0,0:06:49.13,0:06:55.10,720P-sorc-hans-sans-Bold-33,,0,0,0,,the engine will be returned to the manufacturing area for complete disassembly inspection and reassembly.
@@ -117,9 +125,11 @@ Dialogue: 0,0:07:00.13,0:07:02.70,720P-sorc-hans-sans-Bold-33,,0,0,0,,Years of e
 Dialogue: 0,0:07:00.13,0:07:02.70,720P-sorc-hans-sans-Bold-33,,0,0,0,,多年来 普惠公司
 Dialogue: 0,0:07:02.94,0:07:08.85,720P-sorc-hans-sans-Bold-33,,0,0,0,,have gone into the design and manufacture of the Pratt & Whitney aircraft RL-10 rocket engines.
 Dialogue: 0,0:07:02.94,0:07:08.85,720P-sorc-hans-sans-Bold-33,,0,0,0,,在设计和制造RL-10火箭引擎的过程中积累了丰富的经验和研发成果
+Comment: 0,0:07:16.97,0:07:22.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,注释
+Dialogue: 0,0:07:16.97,0:07:22.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\fad(500,500)\blur4\blur4\move(-20,10,10,10,0,500)}现在改名为格伦研究中心
 Dialogue: 0,0:07:16.97,0:07:22.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,The RL-10 is also undergone space condition testing at the NASA Lewis Research Center
 Dialogue: 0,0:07:16.97,0:07:22.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,RL-10还在NASA刘易斯研究中心进行了太空环境测试
 Dialogue: 0,0:07:22.92,0:07:28.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,where special viewing ports permit continual visual check of space condition firing.
 Dialogue: 0,0:07:22.92,0:07:28.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,那里的特殊观察口允许对太空环境点火进行持续的目视检查
-Dialogue: 0,0:07:35.52,0:07:42.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,Pratt & Whitney Aircraft's around-the-clock development program is helping accelerate the United States space efforts.
+Dialogue: 0,0:07:35.52,0:07:42.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\fs30}Pratt & Whitney Aircraft's around-the-clock development program is helping accelerate the United States space efforts.
 Dialogue: 0,0:07:35.52,0:07:42.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,普惠公司的全天候研发项目正帮助加快美国的航天工作
