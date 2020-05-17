@@ -16,511 +16,513 @@ Style: 720P-sorc-hans-sans-medi-50,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}英文字幕
+Dialogue: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}There was a time when a meteor flashing through the sky
+Dialogue: 0,0:00:55.42,0:00:57.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}struck man with a deep sense of wonder.
+Dialogue: 0,0:01:01.61,0:01:04.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Even today man's reaction to a meteoric display
+Dialogue: 0,0:01:04.96,0:01:09.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is likely to jam the switchboards with reports of imminent invasion from space.
+Dialogue: 0,0:01:11.58,0:01:16.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But as heirs to the knowledge, disciplines and apparatus of the Scientific Revolution,
+Dialogue: 0,0:01:17.03,0:01:21.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}we are familiar with and at least partially understand the meteoric phenomena.
+Dialogue: 0,0:01:21.93,0:01:27.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A meteoroid traveling in space outside our atmosphere remains unseen by man
+Dialogue: 0,0:01:28.33,0:01:30.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}while the molecules in space are so dispersed.
+Dialogue: 0,0:01:30.85,0:01:34.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A collision with them causes no visible effect.
+Dialogue: 0,0:01:35.57,0:01:40.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}If its trajectory traverses the Earth's atmosphere, it becomes a meteor.
+Dialogue: 0,0:01:40.22,0:01:44.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Here it begins to collide with more molecules.
+Dialogue: 0,0:01:44.96,0:01:47.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}These collisions become more and more frequent
+Dialogue: 0,0:01:48.01,0:01:53.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}as the meteor descends into the denser air of lower altitude, causing it to decelerate.
+Dialogue: 0,0:01:53.99,0:01:57.93,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Each collision worth some of the energy of motion into heat energy
+Dialogue: 0,0:01:58.23,0:02:00.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and the heat continues to increase
+Dialogue: 0,0:02:00.27,0:02:02.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}until the meteor itself becomes incandescent
+Dialogue: 0,0:02:03.15,0:02:06.35,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}scribing it's visible path through the night sky.
+Dialogue: 0,0:02:07.37,0:02:12.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Destroyed in the atmosphere by this heating, most meteors present no danger to man.
+Dialogue: 0,0:02:13.20,0:02:15.03,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Now and then one is large enough
+Dialogue: 0,0:02:15.05,0:02:17.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}to survive its passage through the atmosphere to earth.
+Dialogue: 0,0:02:18.93,0:02:23.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}It is then called a meteorite and some are very large indeed.
+Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Peter Parameter became interested in meteors early in his career.
+Dialogue: 0,0:02:29.49,0:02:31.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And once wrote a paper titled
+Dialogue: 0,0:02:31.59,0:02:33.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A thermal kinetic description of bodies
+Dialogue: 0,0:02:33.41,0:02:35.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and passage through a plastic medium of nonlinear density
+Dialogue: 0,0:02:35.85,0:02:37.33,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}at random velocities and angles
+Dialogue: 0,0:02:37.35,0:02:39.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}which could be just about summed up with this equation.
+Dialogue: 0,0:02:43.01,0:02:43.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}With this equation
+Dialogue: 0,0:02:44.00,0:02:46.82,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is fellow scientists and designers are able to explain
+Dialogue: 0,0:02:46.82,0:02:50.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the effects of atmospheric penetration on differing bodies.
+Dialogue: 0,0:02:50.13,0:02:54.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Those with different ballistic coefficients at various velocities and angles.
+Dialogue: 0,0:02:55.29,0:02:59.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For example, if two bodies of different weights enter the Earth's atmosphere
+Dialogue: 0,0:02:59.88,0:03:02.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}with the same velocity and entry angle,
+Dialogue: 0,0:03:02.34,0:03:06.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}both the heavy body and the light one will begin to heat up at the same time.
+Dialogue: 0,0:03:08.07,0:03:11.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}What impacts of air molecules slow the light body sooner.
+Dialogue: 0,0:03:13.49,0:03:17.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This deceleration of the light body occurs at higher altitudes
+Dialogue: 0,0:03:17.62,0:03:19.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}while the heavier more energetic body
+Dialogue: 0,0:03:19.65,0:03:22.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}penetrates deeper before it reaches peak deceleration.
+Dialogue: 0,0:03:23.72,0:03:26.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The total amount of heat generated by the lighter one
+Dialogue: 0,0:03:26.78,0:03:28.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is less than that generated by the heavy one
+Dialogue: 0,0:03:29.11,0:03:31.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}whose larger mass is it greater kinetic energy.
+Dialogue: 0,0:03:33.96,0:03:36.64,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Two identical bodies with the same velocity
+Dialogue: 0,0:03:36.67,0:03:41.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}entering the atmosphere at different angles also will decelerate at different rates.
+Dialogue: 0,0:03:41.75,0:03:45.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The steeper angle causes a more rapid encounter with the dense air
+Dialogue: 0,0:03:45.74,0:03:47.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}resulting in more abrupt deceleration.
+Dialogue: 0,0:03:49.16,0:03:52.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The total heat generated will be the same for both bodies
+Dialogue: 0,0:03:52.84,0:03:55.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}but peak heating will be less for the shallow entry.
+Dialogue: 0,0:03:57.24,0:04:01.42,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}With identical meteors entering at the same angle but with different velocities,
+Dialogue: 0,0:04:01.76,0:04:05.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the faster meteor under heavier bombardment by air molecules
+Dialogue: 0,0:04:05.78,0:04:10.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}will have greater deceleration generating more heat and at a higher rate.
+Dialogue: 0,0:04:13.09,0:04:16.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But Dr. Parameter is no longer merely an observer
+Dialogue: 0,0:04:16.58,0:04:19.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}interested in understanding the phenomena of meteors.
+Dialogue: 0,0:04:21.48,0:04:24.32,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A meteor is just an aimless traveler in space.
+Dialogue: 0,0:04:24.85,0:04:29.63,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Doc finds himself now involved in designs with a purpose and an aim.
+Dialogue: 0,0:04:30.81,0:04:32.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A missile has a target.
+Dialogue: 0,0:04:32.92,0:04:36.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And a spacecraft has a destination, a journey's end.
+Dialogue: 0,0:04:37.17,0:04:39.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}To these Doc applies his knowledge.
+Dialogue: 0,0:04:41.09,0:04:45.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows natural phenomena both of aimless meteor and aimed missile.
+Dialogue: 0,0:04:45.78,0:04:49.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows that as they traverse the atmosphere they heat up.
+Dialogue: 0,0:04:49.63,0:04:54.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}If the heating or deceleration of a vehicle is excessive the mission is threatened.
+Dialogue: 0,0:04:56.15,0:04:58.73,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Man cannot change the laws of nature.
+Dialogue: 0,0:04:59.10,0:05:02.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}So he must use his knowledge to work within those laws.
+Dialogue: 0,0:05:03.55,0:05:04.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter knows that
+Dialogue: 0,0:05:04.88,0:05:08.29,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the two natural enemies to successful atmospheric penetration
+Dialogue: 0,0:05:08.64,0:05:11.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}are deceleration and heat.
+Dialogue: 0,0:05:12.40,0:05:15.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He can fight these enemies on two possible fronts.
+Dialogue: 0,0:05:15.90,0:05:21.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}First on the design front by modifying the vehicle shape and size relative to its weight.
+Dialogue: 0,0:05:22.10,0:05:24.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}In other words its ballistic coefficient.
+Dialogue: 0,0:05:25.60,0:05:27.64,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And second on the program front,
+Dialogue: 0,0:05:27.82,0:05:29.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}by altering the vehicle's trajectory,
+Dialogue: 0,0:05:30.02,0:05:35.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}its velocity, its attitude and its angle of entry into the Earth's atmosphere.
+Dialogue: 0,0:05:36.90,0:05:39.84,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter is now ready to use his technology
+Dialogue: 0,0:05:39.84,0:05:43.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}to plan a successful re-entry for an ICBM warhead.
+Dialogue: 0,0:05:44.01,0:05:47.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows that of the two natural enemies, deceleration and heat.
+Dialogue: 0,0:05:48.14,0:05:50.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}High deceleration is not a problem with a warhead.
+Dialogue: 0,0:05:52.12,0:05:54.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}but too much heat could destroy it.
+Dialogue: 0,0:05:55.74,0:05:58.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He first surveys the project on the program front.
+Dialogue: 0,0:05:59.66,0:06:04.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows that the re-entry velocities and angles are essentially set by the mission.
+Dialogue: 0,0:06:05.84,0:06:09.37,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But to reduce heat load, the velocity of the re-entry vehicle
+Dialogue: 0,0:06:09.78,0:06:12.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}could theoretically be reduced by firing a retro rocket.
+Dialogue: 0,0:06:14.04,0:06:15.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}On investigation he finds that
+Dialogue: 0,0:06:15.72,0:06:19.38,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}in order to decrease for re-entry velocity sufficiently by this method,
+Dialogue: 0,0:06:19.80,0:06:22.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}a retro thrust system would be required
+Dialogue: 0,0:06:22.16,0:06:24.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}weighing many times the weight of the warhead.
+Dialogue: 0,0:06:24.93,0:06:26.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This method is out.
+Dialogue: 0,0:06:27.63,0:06:31.29,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He next considers the possibility of changing the re-entry angle.
+Dialogue: 0,0:06:31.99,0:06:35.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows that a shallow angle will lessen the peak heat load
+Dialogue: 0,0:06:35.41,0:06:38.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}by stretching the heating over a longer period of time.
+Dialogue: 0,0:06:38.92,0:06:42.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But the total heat generated will be the same either way.
+Dialogue: 0,0:06:42.64,0:06:46.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And the vehicle could absorb even more heat during this longer re-entry.
+Dialogue: 0,0:06:47.07,0:06:51.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Furthermore, a shallow re-entry angle has other serious drawbacks.
+Dialogue: 0,0:06:52.36,0:06:56.86,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}First a shallow angle impairs accuracy by deflection in the atmosphere.
+Dialogue: 0,0:06:58.47,0:07:02.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Second, it affords more time for enemy interception.
+Dialogue: 0,0:07:04.82,0:07:08.47,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A steep re-entry improves the missile's chances of avoiding interception
+Dialogue: 0,0:07:08.76,0:07:11.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and of reaching its target with minimum atmospheric deflection.
+Dialogue: 0,0:07:13.34,0:07:17.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}In this case or during the program is not the answer to the heat problem.
+Dialogue: 0,0:07:18.66,0:07:23.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter must attack the problem of heat on the design front.
+Dialogue: 0,0:07:25.16,0:07:29.47,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Logic would seem to indicate that fast travel requires a streamlined shape
+Dialogue: 0,0:07:29.48,0:07:31.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}to slice its way through the air.
+Dialogue: 0,0:07:31.52,0:07:33.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}At subsonic velocities this is true.
+Dialogue: 0,0:07:34.06,0:07:35.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But at supersonic speeds,
+Dialogue: 0,0:07:35.87,0:07:40.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}a moving vehicle displaces air molecules which bounced off, forming a shockwave.
+Dialogue: 0,0:07:41.73,0:07:46.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}As speed increases the shock wave becomes more severe and heating increases.
+Dialogue: 0,0:07:48.85,0:07:54.63,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}An ICBM will have a free-fall re-entry speed in excess of 23,000 feet per second.
+Dialogue: 0,0:07:55.14,0:08:00.42,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}At this speed, the heat of molecular collision and friction, shearing of air molecules
+Dialogue: 0,0:08:00.83,0:08:05.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is concentrated in a narrow zone along the surface of a streamlined vehicle.
+Dialogue: 0,0:08:06.49,0:08:11.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The heat generated may cause the temperature to exceed 15000 degrees Fahrenheit.
+Dialogue: 0,0:08:15.80,0:08:17.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}To combat this terrific heat,
+Dialogue: 0,0:08:17.51,0:08:22.35,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter designs instead a re-entry vehicle with a blunt frontal area.
+Dialogue: 0,0:08:28.75,0:08:32.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The blunt shape creates its shockwave somewhat ahead of the vehicle.
+Dialogue: 0,0:08:33.19,0:08:35.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This occurs because the atmospheric molecules
+Dialogue: 0,0:08:35.74,0:08:38.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}colliding with its frontal surface bounce back.
+Dialogue: 0,0:08:38.68,0:08:40.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And intercept others coming in.
+Dialogue: 0,0:08:40.94,0:08:43.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Setting up a kind of picket line in advance of the warhead.
+Dialogue: 0,0:08:44.57,0:08:48.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The peak heat is generated in this area away from the surface of the vehicle.
+Dialogue: 0,0:08:50.77,0:08:51.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Although the blunt shape
+Dialogue: 0,0:08:51.95,0:08:55.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}decreases the peak heating of the warhead to half that of a streamline shape,
+Dialogue: 0,0:08:56.30,0:08:59.39,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}it will still heat up to 7,000 degrees Fahrenheit.
+Dialogue: 0,0:08:59.88,0:09:02.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Much too hot for unprotected warhead structures.
+Dialogue: 0,0:09:04.44,0:09:05.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}To further reduce heating,
+Dialogue: 0,0:09:06.15,0:09:10.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter must find other techniques in addition to the blunt shape.
+Dialogue: 0,0:09:11.50,0:09:13.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}His first solution is the heatsink.
+Dialogue: 0,0:09:14.00,0:09:17.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Use the blunt design and add a mass of heat conducting metal
+Dialogue: 0,0:09:18.00,0:09:21.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}large enough to absorb most of the heat generated during re-entry
+Dialogue: 0,0:09:21.79,0:09:23.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}without melting before impact.
+Dialogue: 0,0:09:24.77,0:09:27.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}It works, but he is not yet satisfied.
+Dialogue: 0,0:09:27.90,0:09:31.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The weight of the heatsink displaces more than one-fourth of the payload.
+Dialogue: 0,0:09:31.84,0:09:34.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Furthermore the blunt designs slows the missile,
+Dialogue: 0,0:09:34.56,0:09:36.75,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}keeping it in the atmosphere a longer time
+Dialogue: 0,0:09:37.08,0:09:40.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}making it less accurate and easier to intercept.
+Dialogue: 0,0:09:42.44,0:09:45.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For the greatest accuracy and shortest time in the atmosphere,
+Dialogue: 0,0:09:46.31,0:09:48.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Doc knows that the streamline shape is the best
+Dialogue: 0,0:09:49.42,0:09:52.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}but the heatsink cannot absorb and distribute
+Dialogue: 0,0:09:52.30,0:09:56.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the sudden extreme heat generated during the re-entry of a streamlined vehicle.
+Dialogue: 0,0:10:01.88,0:10:02.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Doc reasons,
+Dialogue: 0,0:10:02.83,0:10:07.19,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4\i1}if the heat cannot be absorbed why not eject it as fast as it's generated?{\i0}
+Dialogue: 0,0:10:08.22,0:10:10.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The answer is ablation.
+Dialogue: 0,0:10:11.02,0:10:11.93,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4\i1}Ablation!{\i0}
+Dialogue: 0,0:10:13.00,0:10:15.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Coat the frontal surface of the streamline missile
+Dialogue: 0,0:10:15.14,0:10:18.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}with layers of a blade of material composed of fibres resins and ceramics.
+Dialogue: 0,0:10:20.67,0:10:25.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This ablative coating protects the missile from the extreme heat in several ways.
+Dialogue: 0,0:10:25.50,0:10:27.07,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}It is a poor heat conductor.
+Dialogue: 0,0:10:27.48,0:10:30.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Its surface gradually melts away taking heat with it.
+Dialogue: 0,0:10:30.99,0:10:35.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And it's vapor forms a thin insulating layer deflecting some of the heat from the surface.
+Dialogue: 0,0:10:36.97,0:10:39.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The ablative principle combats the heat problem effectively.
+Dialogue: 0,0:10:40.33,0:10:44.20,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and permits steeper re-entry angles while adding a minimum of weight.
+Dialogue: 0,0:10:44.98,0:10:47.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The streamlined missile with its increased speed
+Dialogue: 0,0:10:47.92,0:10:52.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}affords the least possibility of interception and the greatest accuracy.
+Dialogue: 0,0:10:52.59,0:10:57.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}It does produce a huge deceleration factor approaching 150 G's.
+Dialogue: 0,0:10:57.64,0:11:00.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Fortunately this poses no threat to a warhead.
+Dialogue: 0,0:11:01.70,0:11:07.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But for manned or other recovery missions, the G load is a most important factor.
+Dialogue: 0,0:11:07.88,0:11:12.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For manned re-entry this force should be held below 10 G's.
+Dialogue: 0,0:11:12.55,0:11:17.33,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A shallow re-entry angle of about 1 to 5 degrees is the simple answer.
+Dialogue: 0,0:11:18.06,0:11:20.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The shallower the angle, the less the G load.
+Dialogue: 0,0:11:21.36,0:11:24.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But this will be sustained over a longer period of time.
+Dialogue: 0,0:11:25.00,0:11:28.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This means a longer time at high speed through the friction of the atmosphere.
+Dialogue: 0,0:11:30.09,0:11:32.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Let's take a moment to see why this is not desirable.
+Dialogue: 0,0:11:33.80,0:11:34.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter.
+Dialogue: 0,0:11:35.03,0:11:35.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Thank you.
+Dialogue: 0,0:11:36.08,0:11:37.86,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A gentleman we have here a kettle of water.
+Dialogue: 0,0:11:38.16,0:11:40.32,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Heathcliff, we can use you in this experiment.
+Dialogue: 0,0:11:41.05,0:11:42.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Oh boy an experiment.
+Dialogue: 0,0:11:45.85,0:11:46.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Thank you sir.
+Dialogue: 0,0:11:47.34,0:11:49.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Now if we may have another kettle of water.
+Dialogue: 0,0:11:49.63,0:11:50.60,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And you're stand-in.
+Dialogue: 0,0:11:54.08,0:11:54.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Thank you.
+Dialogue: 0,0:11:55.45,0:11:57.25,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Now we'll proceed with the experiment.
+Dialogue: 0,0:11:57.81,0:11:58.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Experiment?
+Dialogue: 0,0:11:59.45,0:12:01.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}We'll add the same amount of fuel under each kettle.
+Dialogue: 0,0:12:02.72,0:12:05.10,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But alter the form of the fuel under one kettle.
+Dialogue: 0,0:12:09.67,0:12:11.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}To make it burn faster.
+Dialogue: 0,0:12:12.02,0:12:13.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}We ignite both at the same time.
+Dialogue: 0,0:12:17.52,0:12:19.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And compare the results.
+Dialogue: 0,0:12:19.59,0:12:20.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Splendid.
+Dialogue: 0,0:12:21.05,0:12:25.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}I'd like to point out that the fast burning fuel although reaching its intensity quickly,
+Dialogue: 0,0:12:25.59,0:12:27.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}exhausted itself quickly.
+Dialogue: 0,0:12:28.13,0:12:29.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The heat absorbed was negligible.
+Dialogue: 0,0:12:30.67,0:12:34.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The slow burning fuel on the other hand gradually increases its intensity.
+Dialogue: 0,0:12:35.33,0:12:37.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}It will generate the same total heat load
+Dialogue: 0,0:12:37.59,0:12:39.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}but over a longer period of time
+Dialogue: 0,0:12:39.70,0:12:42.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and you'll notice more heat is absorbed.
+Dialogue: 0,0:12:43.64,0:12:44.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Oh.
+Dialogue: 0,0:12:45.31,0:12:46.15,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Thank you Heathcliff.
+Dialogue: 0,0:12:47.57,0:12:49.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Thank you Dr. Parameter.
+Dialogue: 0,0:12:50.73,0:12:54.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}So although the peak heat generated in the shallow re-entry is less,
+Dialogue: 0,0:12:54.83,0:12:58.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the capsule is in the heating regime for a longer time.
+Dialogue: 0,0:12:58.49,0:13:02.38,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And without the utmost protection would absorb an intolerable amount of heat.
+Dialogue: 0,0:13:03.44,0:13:07.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For manned re-entry, Dr. Parameter overcomes the deceleration enemy
+Dialogue: 0,0:13:07.54,0:13:09.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}through program with the shallow angle.
+Dialogue: 0,0:13:10.38,0:13:12.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But he must combat heat on the design front.
+Dialogue: 0,0:13:14.40,0:13:17.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A blunt shape to cause a detached shock wave.
+Dialogue: 0,0:13:17.35,0:13:18.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A picket line against heat.
+Dialogue: 0,0:13:19.06,0:13:21.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And ablative materials for additional heat control.
+Dialogue: 0,0:13:23.53,0:13:27.65,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The doc is confident his new design will fulfill the requirements.
+Dialogue: 0,0:13:28.41,0:13:29.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Now to try it out.
+Dialogue: 0,0:13:30.32,0:13:35.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He wants low peak deceleration so the shallow re-entry path is mandatory.
+Dialogue: 0,0:13:36.15,0:13:39.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This brings him down safely if a little off target.
+Dialogue: 0,0:13:41.21,0:13:44.84,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}To achieve some control and accuracy as well as safety,
+Dialogue: 0,0:13:45.13,0:13:48.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter has been working on other design concepts
+Dialogue: 0,0:13:48.63,0:13:50.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}particularly shapes that produce lift.
+Dialogue: 0,0:13:52.32,0:13:55.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows that a ballistic missile is designed and programmed
+Dialogue: 0,0:13:55.98,0:13:58.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}to hit a particular point on the Earth's surface.
+Dialogue: 0,0:13:59.72,0:14:02.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}A manned ballistic vehicle with the same objective
+Dialogue: 0,0:14:02.52,0:14:06.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is much less accurate due to its design and long shallow penetration
+Dialogue: 0,0:14:07.48,0:14:08.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}but a lifting vehicle
+Dialogue: 0,0:14:08.90,0:14:12.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}which is capable of descending at a still more shallow angle
+Dialogue: 0,0:14:12.39,0:14:16.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and with an extremely low deceleration rate is able to change direction.
+Dialogue: 0,0:14:17.44,0:14:23.03,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This control gives it wide selectivity of landing sites within a large footprint area.
+Dialogue: 0,0:14:25.28,0:14:27.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For the shortest range within the footprint,
+Dialogue: 0,0:14:28.07,0:14:32.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the vehicle is pulled up into a maximum lift attitude at re-entry.
+Dialogue: 0,0:14:32.91,0:14:37.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}This induces maximum drag, causing a steeper, more abrupt descent.
+Dialogue: 0,0:14:38.64,0:14:40.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For the longest possible range,
+Dialogue: 0,0:14:40.80,0:14:45.34,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the vehicle must assume the attitude of maximum lift / drag ratio
+Dialogue: 0,0:14:46.28,0:14:51.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}this footprint huge at first shrinks gradually as the vehicle descends.
+Dialogue: 0,0:14:52.29,0:14:56.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter while considering the advantages of lifting vehicles
+Dialogue: 0,0:14:56.04,0:14:57.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}is also aware of their drawbacks.
+Dialogue: 0,0:14:58.43,0:15:01.85,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}First the lifting structure itself imposes weight penalties
+Dialogue: 0,0:15:01.95,0:15:04.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}which compete with the all-important matter of payload.
+Dialogue: 0,0:15:05.84,0:15:10.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Then lifting vehicles may also spend up to 20 minutes in the heat regime
+Dialogue: 0,0:15:10.44,0:15:15.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}and being more streamlined they require a still more complex heat protection system
+Dialogue: 0,0:15:15.97,0:15:18.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}competing still further with payload.
+Dialogue: 0,0:15:20.56,0:15:25.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter with his associates has studied the strategy of atmospheric penetration.
+Dialogue: 0,0:15:28.32,0:15:31.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He knows it's natural enemies, deceleration and heat.
+Dialogue: 0,0:15:32.26,0:15:35.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And has met them on the two fronts of program and design.
+Dialogue: 0,0:15:36.36,0:15:38.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He has accomplished important objectives.
+Dialogue: 0,0:15:39.73,0:15:42.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For the intercontinental ballistic missile,
+Dialogue: 0,0:15:42.88,0:15:47.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}the objectives are rapid atmospheric penetration and accuracy.
+Dialogue: 0,0:15:49.49,0:15:52.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The warheads natural enemy is sudden intense heat.
+Dialogue: 0,0:15:53.84,0:15:58.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Its program high velocity, steep re-entry.
+Dialogue: 0,0:15:59.97,0:16:04.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Its design streamlined with ablation to combat sudden heat.
+Dialogue: 0,0:16:05.35,0:16:09.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}For a manned or other recovery mission the objectives are
+Dialogue: 0,0:16:09.39,0:16:12.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}first of all safety and then control.
+Dialogue: 0,0:16:13.60,0:16:17.75,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The mission's natural enemies, high deceleration sustained Heat.
+Dialogue: 0,0:16:18.84,0:16:22.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Its program shallow re-entry for low deceleration.
+Dialogue: 0,0:16:23.50,0:16:25.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The vehicles design blunt.
+Dialogue: 0,0:16:25.81,0:16:29.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Yet with control capabilities, a maneuverable lifting shape.
+Dialogue: 0,0:16:30.84,0:16:35.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}The resulting long duration within the heat regime exacts a weight penalty.
+Dialogue: 0,0:16:35.53,0:16:38.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Because a complex heat protection system is needed.
+Dialogue: 0,0:16:41.51,0:16:43.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}There will always be problems to solve.
+Dialogue: 0,0:16:44.44,0:16:48.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Dr. Parameter has worked out successful compromises so far.
+Dialogue: 0,0:16:48.46,0:16:51.60,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But he is still puzzling, still exploring.
+Dialogue: 0,0:16:52.36,0:16:57.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He plucks his graphs, his curves and flings them boldly into space.
+Dialogue: 0,0:16:57.70,0:17:01.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}But he knows we have barely gotten our little toe into space.
+Dialogue: 0,0:17:01.74,0:17:04.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}And he constantly seeks to improve that toe hold.
+Dialogue: 0,0:17:05.14,0:17:06.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He must hold to the possible.
+Dialogue: 0,0:17:06.90,0:17:10.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Yet he constantly works along its impossible edges.
+Dialogue: 0,0:17:11.38,0:17:15.73,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}He has opened the way for man's safe re-entry into the Earth's atmosphere.
+Dialogue: 0,0:17:16.40,0:17:18.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\blur4}Journey's end for space travel.
+Comment: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}中文字幕
+Dialogue: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}曾几何时 流星划破天空
+Dialogue: 0,0:00:55.42,0:00:57.96,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}予人以惊为天人之感
+Dialogue: 0,0:01:01.61,0:01:04.94,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}即使在今天 人们对流星现象的反应可能会是
+Dialogue: 0,0:01:04.96,0:01:09.88,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}大量打入的紧急太空入侵报告 导致电话交换机堵塞
+Dialogue: 0,0:01:11.58,0:01:16.56,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是作为科学革命后 知识 学科和仪器的继承人
+Dialogue: 0,0:01:17.03,0:01:21.05,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}我们熟悉 并且至少部分理解流星现象
+Dialogue: 0,0:01:21.93,0:01:27.72,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}人们看不见在大气层外移动的流星
+Dialogue: 0,0:01:28.33,0:01:30.78,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}由于太空中分子分散得如此之远
+Dialogue: 0,0:01:30.85,0:01:34.04,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}与之碰撞不会有明显的影响
+Dialogue: 0,0:01:35.57,0:01:40.02,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}如果它的轨道穿过地球大气层 它会成为一颗流星
+Dialogue: 0,0:01:40.22,0:01:44.49,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在这里它会与更多的分子碰撞
+Dialogue: 0,0:01:44.96,0:01:47.68,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这些碰撞越来越频繁
+Dialogue: 0,0:01:48.01,0:01:53.50,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}同时流星下降到高度较低的更致密空气中 因而减速
+Dialogue: 0,0:01:53.99,0:01:57.93,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}每一次碰撞使得一些动能转化为热能
+Dialogue: 0,0:01:58.23,0:02:00.24,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}热量持续增加
+Dialogue: 0,0:02:00.27,0:02:02.69,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}直到流星本身变得耀眼
+Dialogue: 0,0:02:03.15,0:02:06.35,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在夜空中划出它显眼的轨迹
+Dialogue: 0,0:02:07.37,0:02:12.13,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}由于在大气层被热量摧毁 大多数流星不会危及人类
+Dialogue: 0,0:02:13.20,0:02:15.03,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}现在有一个足够大的流星
+Dialogue: 0,0:02:15.05,0:02:17.88,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}能穿过大气层到达地球
+Dialogue: 0,0:02:18.93,0:02:23.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}然后 它被称为陨石 有些确实很大
+Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Peter Parameter博士在他职业生涯早期对此产生了兴趣
+Dialogue: 0,0:02:29.49,0:02:31.18,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而曾经写过一篇题为
+Dialogue: 0,0:02:31.59,0:02:33.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}物体在随机速度和角度下
+Dialogue: 0,0:02:33.41,0:02:35.83,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}通过非线性密度的塑性流体
+Dialogue: 0,0:02:35.85,0:02:37.33,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}的热动力学描述
+Dialogue: 0,0:02:37.35,0:02:39.72,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}可以用这个方程来概括
+Dialogue: 0,0:02:43.01,0:02:43.99,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}有了这个公式
+Dialogue: 0,0:02:44.00,0:02:46.82,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其他科学家和设计师们能够解释
+Dialogue: 0,0:02:46.82,0:02:50.08,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}大气穿透对不同物体的影响
+Dialogue: 0,0:02:50.13,0:02:54.69,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}那些物体有着不同的弹道系数 速度还有进入角度
+Dialogue: 0,0:02:55.29,0:02:59.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}例如 如果重量不同的两个物体进入地球大气层
+Dialogue: 0,0:02:59.88,0:03:02.01,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在相同的速度和进入角下
+Dialogue: 0,0:03:02.34,0:03:06.89,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}重的和轻的物体将同时开始升温
+Dialogue: 0,0:03:08.07,0:03:11.46,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}空气分子的影响会使轻的物体变慢得更快
+Dialogue: 0,0:03:13.49,0:03:17.44,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}轻的物体在更高的高度减速
+Dialogue: 0,0:03:17.62,0:03:19.61,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而更重的物体有着更多的能量
+Dialogue: 0,0:03:19.65,0:03:22.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在它达到最大减速前穿透得更深
+Dialogue: 0,0:03:23.72,0:03:26.53,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}轻的物体产生的总热量
+Dialogue: 0,0:03:26.78,0:03:28.97,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}小于由重的那个产生的
+Dialogue: 0,0:03:29.11,0:03:31.83,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它更大的质量意味着更大的动能
+Dialogue: 0,0:03:33.96,0:03:36.64,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}以相同速度进入大气层的两个相同物体
+Dialogue: 0,0:03:36.67,0:03:41.16,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在不同的角度下也将以不同的速率减速
+Dialogue: 0,0:03:41.75,0:03:45.51,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}更陡的角度会导致与稠密空气更急促的接触
+Dialogue: 0,0:03:45.74,0:03:47.92,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}从而导致更剧烈的减速
+Dialogue: 0,0:03:49.16,0:03:52.54,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}两个物体所产生的总热量是相同的
+Dialogue: 0,0:03:52.84,0:03:55.69,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但平缓进入的峰值加热会更小
+Dialogue: 0,0:03:57.24,0:04:01.42,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}具有相同角度但以不同速度进入的相同流星
+Dialogue: 0,0:04:01.76,0:04:05.28,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}更快的流星在空气分子更重的轰击下
+Dialogue: 0,0:04:05.78,0:04:10.12,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}会有更快的减速 同时以较高的速率产生更多的热量
+Dialogue: 0,0:04:13.09,0:04:16.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是Parameter博士已不再仅仅是一个
+Dialogue: 0,0:04:16.58,0:04:19.59,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}有兴趣了解流星现象的观察者
+Dialogue: 0,0:04:21.48,0:04:24.32,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}流星只是在太空漫无目的的旅客
+Dialogue: 0,0:04:24.85,0:04:29.63,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}现在博士参与设计拥有目标的物体了
+Dialogue: 0,0:04:30.81,0:04:32.50,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}导弹有一个目标
+Dialogue: 0,0:04:32.92,0:04:36.58,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而航天器有一个目的地 一个旅程的终点
+Dialogue: 0,0:04:37.17,0:04:39.57,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在其上博士运用自己的知识
+Dialogue: 0,0:04:41.09,0:04:45.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道无目标的流星和有目标的导弹背后的自然现象
+Dialogue: 0,0:04:45.78,0:04:49.00,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道 当它们穿过大气层 它们热了起来
+Dialogue: 0,0:04:49.63,0:04:54.28,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}如果飞行器过度加热或减速 任务会受到威胁
+Dialogue: 0,0:04:56.15,0:04:58.73,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}人不能改变自然规律
+Dialogue: 0,0:04:59.10,0:05:02.52,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}所以他必须在这规律下运用自己的知识来工作
+Dialogue: 0,0:05:03.55,0:05:04.87,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士知道
+Dialogue: 0,0:05:04.88,0:05:08.29,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}成功的大气穿透有两大天敌
+Dialogue: 0,0:05:08.64,0:05:11.02,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}减速度和热量
+Dialogue: 0,0:05:12.40,0:05:15.66,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他可以在两种可能的方面对抗这些敌人
+Dialogue: 0,0:05:15.90,0:05:21.58,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}首先在设计方面根据飞行器重量更改其形状和大小
+Dialogue: 0,0:05:22.10,0:05:24.31,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}换而言之其弹道系数
+Dialogue: 0,0:05:25.60,0:05:27.64,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其次在程序方面
+Dialogue: 0,0:05:27.82,0:05:29.72,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}通过改变飞行器的弹道
+Dialogue: 0,0:05:30.02,0:05:35.22,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它的速度 它的高度和它进入地球大气层的角度
+Dialogue: 0,0:05:36.90,0:05:39.84,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士现在已经可以运用他的技术
+Dialogue: 0,0:05:39.84,0:05:43.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为洲际弹道导弹弹头设计成功的再入方案
+Dialogue: 0,0:05:44.01,0:05:47.77,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道 这两个天敌 减速度和热量
+Dialogue: 0,0:05:48.14,0:05:50.95,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}较大的减速度对于核弹头来说不是问题
+Dialogue: 0,0:05:52.12,0:05:54.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但过多的热量会破坏它
+Dialogue: 0,0:05:55.74,0:05:58.49,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他首先调查项目的程序部分
+Dialogue: 0,0:05:59.66,0:06:04.87,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道 再入速度和角度基本上由任务决定
+Dialogue: 0,0:06:05.84,0:06:09.37,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是 为了减少热负荷 再入大气层飞行器的速度
+Dialogue: 0,0:06:09.78,0:06:12.77,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}理论上可以通过反推火箭减少
+Dialogue: 0,0:06:14.04,0:06:15.71,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}经调查 他发现
+Dialogue: 0,0:06:15.72,0:06:19.38,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了充分地利用这个方法来减少再入速度
+Dialogue: 0,0:06:19.80,0:06:22.13,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}需要一个反推系统
+Dialogue: 0,0:06:22.16,0:06:24.46,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}是数倍于弹头的重量
+Dialogue: 0,0:06:24.93,0:06:26.44,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这种方法出局
+Dialogue: 0,0:06:27.63,0:06:31.29,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他接着考虑改变再入角的可能性
+Dialogue: 0,0:06:31.99,0:06:35.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道 一个小的角度将减少热负荷峰值
+Dialogue: 0,0:06:35.41,0:06:38.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}因为这会延长加热的时间
+Dialogue: 0,0:06:38.92,0:06:42.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但产生的总热量是相同
+Dialogue: 0,0:06:42.64,0:06:46.61,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}不过飞行器会在较长的再入过程中吸收更多的热量
+Dialogue: 0,0:06:47.07,0:06:51.51,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}此外 较小的再入角有其他严重缺陷
+Dialogue: 0,0:06:52.36,0:06:56.86,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}首先 较小的角度也会因为大气偏转削弱精度
+Dialogue: 0,0:06:58.47,0:07:02.21,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其次 它会给敌方拦截提供更多的时间
+Dialogue: 0,0:07:04.82,0:07:08.47,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}陡峭的再入能降低导弹被拦截的可能
+Dialogue: 0,0:07:08.76,0:07:11.83,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}并使其在最小的大气偏转下到达目标
+Dialogue: 0,0:07:13.34,0:07:17.48,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在这种程序中 热量的问题并没有被解决
+Dialogue: 0,0:07:18.66,0:07:23.00,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士必须在设计方面解决热量问题
+Dialogue: 0,0:07:25.16,0:07:29.47,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}直觉上 高速的运动需要流线型轮廓
+Dialogue: 0,0:07:29.48,0:07:31.08,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}来切割空气
+Dialogue: 0,0:07:31.52,0:07:33.69,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在亚音速的速度 这是对的
+Dialogue: 0,0:07:34.06,0:07:35.56,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但在超音速的速度
+Dialogue: 0,0:07:35.87,0:07:40.59,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}移动的飞行器使得空气分子被弹开 形成了冲击波
+Dialogue: 0,0:07:41.73,0:07:46.51,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}随着速度的增加 冲击波变得更加猛烈 加热增加
+Dialogue: 0,0:07:48.85,0:07:54.63,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}洲际弹道导弹自由落体的再入会达到7010m/s
+Dialogue: 0,0:07:55.14,0:08:00.42,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在此速度下 分子碰撞和摩擦的热量 空气分子的剪切热量
+Dialogue: 0,0:08:00.83,0:08:05.61,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}集中在流线型飞行器表面的狭窄区域
+Dialogue: 0,0:08:06.49,0:08:11.26,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}所产生的热量可能导致温度超过8316℃
+Dialogue: 0,0:08:15.80,0:08:17.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了解决这大量的热量
+Dialogue: 0,0:08:17.51,0:08:22.35,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士转而设计钝头再入飞行器
+Dialogue: 0,0:08:28.75,0:08:32.12,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}钝形使得冲击波出现在飞行器前方
+Dialogue: 0,0:08:33.19,0:08:35.74,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这是因为大气分子
+Dialogue: 0,0:08:35.74,0:08:38.48,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}撞击其表面然后反弹
+Dialogue: 0,0:08:38.68,0:08:40.71,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}然后阻挡其他分子进入
+Dialogue: 0,0:08:40.94,0:08:43.94,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在弹头前建立一种防护层
+Dialogue: 0,0:08:44.57,0:08:48.72,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}峰值热量生成在远离飞行器表面的这个位置
+Dialogue: 0,0:08:50.77,0:08:51.91,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}虽然钝形
+Dialogue: 0,0:08:51.95,0:08:55.88,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}比起流线型弹头只有一半的峰值热量
+Dialogue: 0,0:08:56.30,0:08:59.39,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它仍然会升温到3871℃
+Dialogue: 0,0:08:59.88,0:09:02.96,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}对于没有保护的弹头结构而言还是太热
+Dialogue: 0,0:09:04.44,0:09:05.74,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了进一步降低加热
+Dialogue: 0,0:09:06.15,0:09:10.06,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士必须找到钝形以外的其他技术
+Dialogue: 0,0:09:11.50,0:09:13.68,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他的第一个解决方案是散热器
+Dialogue: 0,0:09:14.00,0:09:17.76,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}运用钝形设计 并加入足够大的导热金属
+Dialogue: 0,0:09:18.00,0:09:21.78,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}以吸收大部分再入大气层时产生的热量
+Dialogue: 0,0:09:21.79,0:09:23.97,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}不会在撞击前熔化
+Dialogue: 0,0:09:24.77,0:09:27.31,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它成功了 但他并没有满意
+Dialogue: 0,0:09:27.90,0:09:31.18,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}散热器超过有效载荷质量的四分之一
+Dialogue: 0,0:09:31.84,0:09:34.26,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}此外 钝形设计使导弹减速
+Dialogue: 0,0:09:34.56,0:09:36.75,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}让它在大气层中的时间更长
+Dialogue: 0,0:09:37.08,0:09:40.21,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}使得它精度下降 更容易被拦截
+Dialogue: 0,0:09:42.44,0:09:45.92,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了达到最大精度和最短的大气内时间
+Dialogue: 0,0:09:46.31,0:09:48.89,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}博士知道 流线型是最好的
+Dialogue: 0,0:09:49.42,0:09:52.24,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是散热器不能吸收分散
+Dialogue: 0,0:09:52.30,0:09:56.97,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}飞行器再入过程中快速产生的热量
+Dialogue: 0,0:10:01.88,0:10:02.76,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}博士推想
+Dialogue: 0,0:10:02.83,0:10:07.19,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4\fs48\i1}如果不能吸收这些热量 为什么不以产生热量的速度把它排出去？{\i0}
+Dialogue: 0,0:10:08.22,0:10:10.06,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}答案是烧蚀
+Dialogue: 0,0:10:11.02,0:10:11.93,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}烧蚀！
+Dialogue: 0,0:10:13.00,0:10:15.14,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}在流线型导弹的头部覆盖薄薄的
+Dialogue: 0,0:10:15.14,0:10:18.89,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}由纤维树脂和陶瓷组成的复合材料层
+Dialogue: 0,0:10:20.67,0:10:25.01,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这种烧蚀涂层从多个方面保护导弹免于极端热量
+Dialogue: 0,0:10:25.50,0:10:27.07,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这是一种热的不良导体
+Dialogue: 0,0:10:27.48,0:10:30.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它的表面逐渐熔化 带走热量
+Dialogue: 0,0:10:30.99,0:10:35.66,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而它的蒸气形成一层薄薄的隔热层 隔开一些表面热量
+Dialogue: 0,0:10:36.97,0:10:39.99,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}烧蚀原理能够有效解决散热问题
+Dialogue: 0,0:10:40.33,0:10:44.20,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}同时在增加较小的重量下 允许更陡的再入角
+Dialogue: 0,0:10:44.98,0:10:47.69,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}流线型导弹增加的速度
+Dialogue: 0,0:10:47.92,0:10:52.04,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}使其被拦截的可能性最小且达到的精度最高
+Dialogue: 0,0:10:52.59,0:10:57.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}它确实产生接近150G的巨大减速系数
+Dialogue: 0,0:10:57.64,0:11:00.67,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}好在这种情况对弹头没有威胁
+Dialogue: 0,0:11:01.70,0:11:07.08,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但对于载人或其它返回式任务来说 G值是最重要的因素
+Dialogue: 0,0:11:07.88,0:11:12.01,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}对于载人再入而言应保持低于10个G的加速度
+Dialogue: 0,0:11:12.55,0:11:17.33,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}简单的答案是大约1至5度的浅再入角
+Dialogue: 0,0:11:18.06,0:11:20.74,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}较浅角度会有较小的加速度
+Dialogue: 0,0:11:21.36,0:11:24.18,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是 这会持续较长的一段时间
+Dialogue: 0,0:11:25.00,0:11:28.95,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这意味着需要更长的时间高速穿过大气层的摩擦
+Dialogue: 0,0:11:30.09,0:11:32.62,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}让我们来看看为什么这是不可取的
+Dialogue: 0,0:11:33.80,0:11:34.72,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士
+Dialogue: 0,0:11:35.03,0:11:35.49,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}谢谢
+Dialogue: 0,0:11:36.08,0:11:37.86,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}一位先生 我们这里有一锅水
+Dialogue: 0,0:11:38.16,0:11:40.32,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Heathcliff 我们可以在这个实验中用到你
+Dialogue: 0,0:11:41.05,0:11:42.46,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}天哪 一个实验
+Dialogue: 0,0:11:45.85,0:11:46.58,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}谢谢你 先生
+Dialogue: 0,0:11:47.34,0:11:49.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}现在 如果我们可以有另一锅水
+Dialogue: 0,0:11:49.63,0:11:50.60,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而你是替身
+Dialogue: 0,0:11:54.08,0:11:54.57,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}谢谢
+Dialogue: 0,0:11:55.45,0:11:57.25,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}现在 我们继续进行实验
+Dialogue: 0,0:11:57.81,0:11:58.91,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}实验？
+Dialogue: 0,0:11:59.45,0:12:01.74,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}我们在每个锅下添加相同的燃料
+Dialogue: 0,0:12:02.72,0:12:05.10,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但改变一个锅下燃料的形态
+Dialogue: 0,0:12:09.67,0:12:11.00,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}让它燃烧得更快
+Dialogue: 0,0:12:12.02,0:12:13.78,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}我们同时点燃这两堆燃料
+Dialogue: 0,0:12:17.52,0:12:19.30,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}并比较结果
+Dialogue: 0,0:12:19.59,0:12:20.30,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}非常好
+Dialogue: 0,0:12:21.05,0:12:25.30,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}我想指出的是 快速燃烧的燃料 虽然很快达到其强度
+Dialogue: 0,0:12:25.59,0:12:27.24,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}也很快耗尽本身
+Dialogue: 0,0:12:28.13,0:12:29.67,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}吸收的热量可以忽略不计
+Dialogue: 0,0:12:30.67,0:12:34.16,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}另一方面 缓慢燃烧的燃料逐渐增加其强度
+Dialogue: 0,0:12:35.33,0:12:37.56,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这将产生相同的总热负荷
+Dialogue: 0,0:12:37.59,0:12:39.40,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但是在一段较长的时间内
+Dialogue: 0,0:12:39.70,0:12:42.18,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}你会发现更多的热量被吸收
+Dialogue: 0,0:12:43.64,0:12:44.24,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}哦
+Dialogue: 0,0:12:45.31,0:12:46.15,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}谢谢你 Heathcliff
+Dialogue: 0,0:12:47.57,0:12:49.12,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}谢谢 Parameter博士
+Dialogue: 0,0:12:50.73,0:12:54.50,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}因此 尽管在浅再入产生的峰值热量更小
+Dialogue: 0,0:12:54.83,0:12:58.02,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}返回舱处于加热状态的时间更长
+Dialogue: 0,0:12:58.49,0:13:02.38,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而如果没对它进行最好的保护 吸收的热量将到无法承受的程度
+Dialogue: 0,0:13:03.44,0:13:07.52,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}对于载人再入 Parameter博士通过浅角度程序
+Dialogue: 0,0:13:07.54,0:13:09.91,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}克服减速问题
+Dialogue: 0,0:13:10.38,0:13:12.92,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但他必须在设计方面解决热量的问题
+Dialogue: 0,0:13:14.40,0:13:17.05,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}一方面是钝形使冲击波分离
+Dialogue: 0,0:13:17.35,0:13:18.62,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}再加上应对热量的防护层
+Dialogue: 0,0:13:19.06,0:13:21.95,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}烧蚀材料作为额外的热量控制
+Dialogue: 0,0:13:23.53,0:13:27.65,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}博士自信于他的新设计能够满足要求
+Dialogue: 0,0:13:28.41,0:13:29.58,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}现在来尝试一下
+Dialogue: 0,0:13:30.32,0:13:35.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他想要减速度的峰值较低 因此一定得要浅的再入路径
+Dialogue: 0,0:13:36.15,0:13:39.53,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这使他安全降落 即使稍微偏离目标
+Dialogue: 0,0:13:41.21,0:13:44.84,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了实现一定的可控和精度以及安全
+Dialogue: 0,0:13:45.13,0:13:48.44,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士一直致力于研究其他的设计理念
+Dialogue: 0,0:13:48.63,0:13:50.87,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}特别是产生升力的形状
+Dialogue: 0,0:13:52.32,0:13:55.95,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他知道 弹道导弹的设计和安排
+Dialogue: 0,0:13:55.98,0:13:58.76,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}是为了击中地球表面上的特定点
+Dialogue: 0,0:13:59.72,0:14:02.18,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}具有相同目标的载人弹道飞行器
+Dialogue: 0,0:14:02.52,0:14:06.48,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}由于它的设计和长距离浅再入 精度要低得多
+Dialogue: 0,0:14:07.48,0:14:08.54,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但升力飞行器
+Dialogue: 0,0:14:08.90,0:14:12.21,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}能够以更浅的角度下降
+Dialogue: 0,0:14:12.39,0:14:16.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}并具有极低的减速率 且能够改变方向
+Dialogue: 0,0:14:17.44,0:14:23.03,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这种可控能力能够宽泛地选择降落地点
+Dialogue: 0,0:14:25.28,0:14:27.54,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了降落在尽可能近的范围内
+Dialogue: 0,0:14:28.07,0:14:32.05,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}飞行器在再入过程中以最大升力姿态拉起
+Dialogue: 0,0:14:32.91,0:14:37.24,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这导致最大阻力 造成一个较陡峭 较剧烈的下降
+Dialogue: 0,0:14:38.64,0:14:40.68,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}为了尽可能远的范围
+Dialogue: 0,0:14:40.80,0:14:45.34,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}飞行器必须采取最大升阻比的姿态
+Dialogue: 0,0:14:46.28,0:14:51.14,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这个开始很大的范围随着飞行器的下降逐渐缩减
+Dialogue: 0,0:14:52.29,0:14:56.01,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士在考虑升力体飞行器优势的同时
+Dialogue: 0,0:14:56.04,0:14:57.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}也意识到它们的缺点
+Dialogue: 0,0:14:58.43,0:15:01.85,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}首先升力体结构本身增加重量
+Dialogue: 0,0:15:01.95,0:15:04.95,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这会减少有效载荷重量
+Dialogue: 0,0:15:05.84,0:15:10.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}然后升力体飞行器的受热状态可能长达20分钟
+Dialogue: 0,0:15:10.44,0:15:15.54,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而为了更加流线型 他们需要一个更复杂的热保护系统
+Dialogue: 0,0:15:15.97,0:15:18.27,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}进一步减少有效载荷质量
+Dialogue: 0,0:15:20.56,0:15:25.56,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}Parameter博士和他的同事研究了大气进入的策略
+Dialogue: 0,0:15:28.32,0:15:31.67,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他了解它的天敌 减速度和热量
+Dialogue: 0,0:15:32.26,0:15:35.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}并在程序和设计两个方面解决它们
+Dialogue: 0,0:15:36.36,0:15:38.94,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他已经完成了重要的目标
+Dialogue: 0,0:15:39.73,0:15:42.71,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}对于洲际弹道导弹
+Dialogue: 0,0:15:42.88,0:15:47.88,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}目标是快速的大气穿透和准确性
+Dialogue: 0,0:15:49.49,0:15:52.92,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}弹头的天敌是突如其来的高热
+Dialogue: 0,0:15:53.84,0:15:58.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其方案是快速 陡峭的再入
+Dialogue: 0,0:15:59.97,0:16:04.26,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其设计是通过流线型和烧蚀解决骤热
+Dialogue: 0,0:16:05.35,0:16:09.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}对于载人或其它再入式任务的目标
+Dialogue: 0,0:16:09.39,0:16:12.92,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}首先是安全 然后是可控
+Dialogue: 0,0:16:13.60,0:16:17.75,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这些任务的天敌是高减速度和持续的热量
+Dialogue: 0,0:16:18.84,0:16:22.56,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}其方案是低减速度的浅再入
+Dialogue: 0,0:16:23.50,0:16:25.40,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}这些飞行器的设计是 钝体
+Dialogue: 0,0:16:25.81,0:16:29.57,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}然而有着可控能力 一个有机动性的升力体
+Dialogue: 0,0:16:30.84,0:16:35.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}长时间处于受热状态会导致重量的损失
+Dialogue: 0,0:16:35.53,0:16:38.62,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}因为复杂的热保护系统是必要的
+Dialogue: 0,0:16:41.51,0:16:43.80,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}总会有问题需要解决
+Dialogue: 0,0:16:44.44,0:16:48.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}到目前为止Parameter博士已经摸索出成功的折衷方案
+Dialogue: 0,0:16:48.46,0:16:51.60,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但他仍在苦思 仍在探索
+Dialogue: 0,0:16:52.36,0:16:57.16,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他拨弄着图表和曲线 大胆地把它们抛入太空
+Dialogue: 0,0:16:57.70,0:17:01.41,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}但他知道 我们只是勉强把我们的小脚趾头送入宇宙
+Dialogue: 0,0:17:01.74,0:17:04.48,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}而他还在不断地寻求其上的改善
+Dialogue: 0,0:17:05.14,0:17:06.46,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他必须抓住可能性
+Dialogue: 0,0:17:06.90,0:17:10.14,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}然而他也持续为那不可能的边缘工作着
+Dialogue: 0,0:17:11.38,0:17:15.73,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}他开辟了人类安全再入地球大气层的方式
+Dialogue: 0,0:17:16.40,0:17:18.53,720P-sorc-hans-sans-medi-50,,0,0,0,,{\blur4}太空旅行的终点
 Comment: 0,0:00:52.01,0:01:02.01,720P-sorc-hans-sans-Bold-40,,0,0,0,,字幕翻译/压制：NeXT-X6，旋火\N视频来源：vimeo.com/372398237
 Comment: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-Bold-40,,0,0,0,,注释
-Dialogue: 0,0:00:00.00,0:00:09.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,500)}美国空军培训影片
-Dialogue: 0,0:00:13.86,0:00:21.07,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,500)}美国空军出品
-Dialogue: 0,0:00:23.17,0:00:28.91,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,0)}穿透大气
-Dialogue: 0,0:00:29.24,0:00:36.62,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(0,1000)}再入的基本气动力学
-Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-Bold-40,,0,0,0,,Parameter意为参数
-Dialogue: 0,0:02:37.35,0:02:43.99,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\fs30}Adams, J. C. (2003) “Atmospheric Re-Entry” Arnold Engineering Development\NCentre, Tullahoma, Tennessee, USA\NLifting trajectory with time t as the variable of integration（以时间t为积分变量的再入弹道方程）
-Dialogue: 0,0:16:05.35,0:16:12.92,720P-sorc-hans-sans-Bold-40,,0,0,0,,看起来像是双子座飞船
-Dialogue: 0,0:16:29.60,0:16:33.74,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\fad(0,500)}从左至右：水星飞船，双子座飞船，阿波罗飞船
-Comment: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,英文字幕
-Dialogue: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,There was a time when a meteor flashing through the sky
-Dialogue: 0,0:00:55.42,0:00:57.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,struck man with a deep sense of wonder.
-Dialogue: 0,0:01:01.61,0:01:04.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,Even today man's reaction to a meteoric display
-Dialogue: 0,0:01:04.96,0:01:09.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,is likely to jam the switchboards with reports of imminent invasion from space.
-Dialogue: 0,0:01:11.58,0:01:16.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,But as heirs to the knowledge, disciplines and apparatus of the Scientific Revolution,
-Dialogue: 0,0:01:17.03,0:01:21.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,we are familiar with and at least partially understand the meteoric phenomena.
-Dialogue: 0,0:01:21.93,0:01:27.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,A meteoroid traveling in space outside our atmosphere remains unseen by man
-Dialogue: 0,0:01:28.33,0:01:30.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,while the molecules in space are so dispersed.
-Dialogue: 0,0:01:30.85,0:01:34.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,A collision with them causes no visible effect.
-Dialogue: 0,0:01:35.57,0:01:40.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,If its trajectory traverses the Earth's atmosphere, it becomes a meteor.
-Dialogue: 0,0:01:40.22,0:01:44.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,Here it begins to collide with more molecules.
-Dialogue: 0,0:01:44.96,0:01:47.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,These collisions become more and more frequent
-Dialogue: 0,0:01:48.01,0:01:53.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,as the meteor descends into the denser air of lower altitude, causing it to decelerate.
-Dialogue: 0,0:01:53.99,0:01:57.93,720P-sorc-hans-sans-Bold-33,,0,0,0,,Each collision worth some of the energy of motion into heat energy
-Dialogue: 0,0:01:58.23,0:02:00.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,and the heat continues to increase
-Dialogue: 0,0:02:00.27,0:02:02.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,until the meteor itself becomes incandescent
-Dialogue: 0,0:02:03.15,0:02:06.35,720P-sorc-hans-sans-Bold-33,,0,0,0,,scribing it's visible path through the night sky.
-Dialogue: 0,0:02:07.37,0:02:12.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,Destroyed in the atmosphere by this heating, most meteors present no danger to man.
-Dialogue: 0,0:02:13.20,0:02:15.03,720P-sorc-hans-sans-Bold-33,,0,0,0,,Now and then one is large enough
-Dialogue: 0,0:02:15.05,0:02:17.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,to survive its passage through the atmosphere to earth.
-Dialogue: 0,0:02:18.93,0:02:23.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,It is then called a meteorite and some are very large indeed.
-Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Peter Parameter became interested in meteors early in his career.
-Dialogue: 0,0:02:29.49,0:02:31.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,And once wrote a paper titled
-Dialogue: 0,0:02:31.59,0:02:33.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,A thermal kinetic description of bodies
-Dialogue: 0,0:02:33.41,0:02:35.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,and passage through a plastic medium of nonlinear density
-Dialogue: 0,0:02:35.85,0:02:37.33,720P-sorc-hans-sans-Bold-33,,0,0,0,,at random velocities and angles
-Dialogue: 0,0:02:37.35,0:02:39.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,which could be just about summed up with this equation.
-Dialogue: 0,0:02:43.01,0:02:43.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,With this equation
-Dialogue: 0,0:02:44.00,0:02:46.82,720P-sorc-hans-sans-Bold-33,,0,0,0,,is fellow scientists and designers are able to explain
-Dialogue: 0,0:02:46.82,0:02:50.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,the effects of atmospheric penetration on differing bodies.
-Dialogue: 0,0:02:50.13,0:02:54.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,Those with different ballistic coefficients at various velocities and angles.
-Dialogue: 0,0:02:55.29,0:02:59.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,For example, if two bodies of different weights enter the Earth's atmosphere
-Dialogue: 0,0:02:59.88,0:03:02.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,with the same velocity and entry angle,
-Dialogue: 0,0:03:02.34,0:03:06.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,both the heavy body and the light one will begin to heat up at the same time.
-Dialogue: 0,0:03:08.07,0:03:11.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,What impacts of air molecules slow the light body sooner.
-Dialogue: 0,0:03:13.49,0:03:17.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,This deceleration of the light body occurs at higher altitudes
-Dialogue: 0,0:03:17.62,0:03:19.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,while the heavier more energetic body
-Dialogue: 0,0:03:19.65,0:03:22.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,penetrates deeper before it reaches peak deceleration.
-Dialogue: 0,0:03:23.72,0:03:26.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,The total amount of heat generated by the lighter one
-Dialogue: 0,0:03:26.78,0:03:28.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,is less than that generated by the heavy one
-Dialogue: 0,0:03:29.11,0:03:31.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,whose larger mass is it greater kinetic energy.
-Dialogue: 0,0:03:33.96,0:03:36.64,720P-sorc-hans-sans-Bold-33,,0,0,0,,Two identical bodies with the same velocity
-Dialogue: 0,0:03:36.67,0:03:41.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,entering the atmosphere at different angles also will decelerate at different rates.
-Dialogue: 0,0:03:41.75,0:03:45.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,The steeper angle causes a more rapid encounter with the dense air
-Dialogue: 0,0:03:45.74,0:03:47.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,resulting in more abrupt deceleration.
-Dialogue: 0,0:03:49.16,0:03:52.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,The total heat generated will be the same for both bodies
-Dialogue: 0,0:03:52.84,0:03:55.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,but peak heating will be less for the shallow entry.
-Dialogue: 0,0:03:57.24,0:04:01.42,720P-sorc-hans-sans-Bold-33,,0,0,0,,With identical meteors entering at the same angle but with different velocities,
-Dialogue: 0,0:04:01.76,0:04:05.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,the faster meteor under heavier bombardment by air molecules
-Dialogue: 0,0:04:05.78,0:04:10.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,will have greater deceleration generating more heat and at a higher rate.
-Dialogue: 0,0:04:13.09,0:04:16.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,But Dr. Parameter is no longer merely an observer
-Dialogue: 0,0:04:16.58,0:04:19.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,interested in understanding the phenomena of meteors.
-Dialogue: 0,0:04:21.48,0:04:24.32,720P-sorc-hans-sans-Bold-33,,0,0,0,,A meteor is just an aimless traveler in space.
-Dialogue: 0,0:04:24.85,0:04:29.63,720P-sorc-hans-sans-Bold-33,,0,0,0,,Doc finds himself now involved in designs with a purpose and an aim.
-Dialogue: 0,0:04:30.81,0:04:32.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,A missile has a target.
-Dialogue: 0,0:04:32.92,0:04:36.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,And a spacecraft has a destination, a journey's end.
-Dialogue: 0,0:04:37.17,0:04:39.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,To these Doc applies his knowledge.
-Dialogue: 0,0:04:41.09,0:04:45.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows natural phenomena both of aimless meteor and aimed missile.
-Dialogue: 0,0:04:45.78,0:04:49.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows that as they traverse the atmosphere they heat up.
-Dialogue: 0,0:04:49.63,0:04:54.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,If the heating or deceleration of a vehicle is excessive the mission is threatened.
-Dialogue: 0,0:04:56.15,0:04:58.73,720P-sorc-hans-sans-Bold-33,,0,0,0,,Man cannot change the laws of nature.
-Dialogue: 0,0:04:59.10,0:05:02.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,So he must use his knowledge to work within those laws.
-Dialogue: 0,0:05:03.55,0:05:04.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter knows that
-Dialogue: 0,0:05:04.88,0:05:08.29,720P-sorc-hans-sans-Bold-33,,0,0,0,,the two natural enemies to successful atmospheric penetration
-Dialogue: 0,0:05:08.64,0:05:11.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,are deceleration and heat.
-Dialogue: 0,0:05:12.40,0:05:15.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,He can fight these enemies on two possible fronts.
-Dialogue: 0,0:05:15.90,0:05:21.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,First on the design front by modifying the vehicle shape and size relative to its weight.
-Dialogue: 0,0:05:22.10,0:05:24.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,In other words its ballistic coefficient.
-Dialogue: 0,0:05:25.60,0:05:27.64,720P-sorc-hans-sans-Bold-33,,0,0,0,,And second on the program front,
-Dialogue: 0,0:05:27.82,0:05:29.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,by altering the vehicle's trajectory,
-Dialogue: 0,0:05:30.02,0:05:35.22,720P-sorc-hans-sans-Bold-33,,0,0,0,,its velocity, its attitude and its angle of entry into the Earth's atmosphere.
-Dialogue: 0,0:05:36.90,0:05:39.84,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter is now ready to use his technology
-Dialogue: 0,0:05:39.84,0:05:43.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,to plan a successful re-entry for an ICBM warhead.
-Dialogue: 0,0:05:44.01,0:05:47.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows that of the two natural enemies, deceleration and heat.
-Dialogue: 0,0:05:48.14,0:05:50.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,High deceleration is not a problem with a warhead.
-Dialogue: 0,0:05:52.12,0:05:54.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,but too much heat could destroy it.
-Dialogue: 0,0:05:55.74,0:05:58.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,He first surveys the project on the program front.
-Dialogue: 0,0:05:59.66,0:06:04.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows that the re-entry velocities and angles are essentially set by the mission.
-Dialogue: 0,0:06:05.84,0:06:09.37,720P-sorc-hans-sans-Bold-33,,0,0,0,,But to reduce heat load, the velocity of the re-entry vehicle
-Dialogue: 0,0:06:09.78,0:06:12.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,could theoretically be reduced by firing a retro rocket.
-Dialogue: 0,0:06:14.04,0:06:15.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,On investigation he finds that
-Dialogue: 0,0:06:15.72,0:06:19.38,720P-sorc-hans-sans-Bold-33,,0,0,0,,in order to decrease for re-entry velocity sufficiently by this method,
-Dialogue: 0,0:06:19.80,0:06:22.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,a retro thrust system would be required
-Dialogue: 0,0:06:22.16,0:06:24.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,weighing many times the weight of the warhead.
-Dialogue: 0,0:06:24.93,0:06:26.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,This method is out.
-Dialogue: 0,0:06:27.63,0:06:31.29,720P-sorc-hans-sans-Bold-33,,0,0,0,,He next considers the possibility of changing the re-entry angle.
-Dialogue: 0,0:06:31.99,0:06:35.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows that a shallow angle will lessen the peak heat load
-Dialogue: 0,0:06:35.41,0:06:38.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,by stretching the heating over a longer period of time.
-Dialogue: 0,0:06:38.92,0:06:42.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,But the total heat generated will be the same either way.
-Dialogue: 0,0:06:42.64,0:06:46.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,And the vehicle could absorb even more heat during this longer re-entry.
-Dialogue: 0,0:06:47.07,0:06:51.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,Furthermore, a shallow re-entry angle has other serious drawbacks.
-Dialogue: 0,0:06:52.36,0:06:56.86,720P-sorc-hans-sans-Bold-33,,0,0,0,,First a shallow angle impairs accuracy by deflection in the atmosphere.
-Dialogue: 0,0:06:58.47,0:07:02.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,Second, it affords more time for enemy interception.
-Dialogue: 0,0:07:04.82,0:07:08.47,720P-sorc-hans-sans-Bold-33,,0,0,0,,A steep re-entry improves the missile's chances of avoiding interception
-Dialogue: 0,0:07:08.76,0:07:11.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,and of reaching its target with minimum atmospheric deflection.
-Dialogue: 0,0:07:13.34,0:07:17.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,In this case or during the program is not the answer to the heat problem.
-Dialogue: 0,0:07:18.66,0:07:23.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter must attack the problem of heat on the design front.
-Dialogue: 0,0:07:25.16,0:07:29.47,720P-sorc-hans-sans-Bold-33,,0,0,0,,Logic would seem to indicate that fast travel requires a streamlined shape
-Dialogue: 0,0:07:29.48,0:07:31.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,to slice its way through the air.
-Dialogue: 0,0:07:31.52,0:07:33.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,At subsonic velocities this is true.
-Dialogue: 0,0:07:34.06,0:07:35.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,But at supersonic speeds,
-Dialogue: 0,0:07:35.87,0:07:40.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,a moving vehicle displaces air molecules which bounced off, forming a shockwave.
-Dialogue: 0,0:07:41.73,0:07:46.51,720P-sorc-hans-sans-Bold-33,,0,0,0,,As speed increases the shock wave becomes more severe and heating increases.
-Dialogue: 0,0:07:48.85,0:07:54.63,720P-sorc-hans-sans-Bold-33,,0,0,0,,An ICBM will have a free-fall re-entry speed in excess of 23,000 feet per second.
-Dialogue: 0,0:07:55.14,0:08:00.42,720P-sorc-hans-sans-Bold-33,,0,0,0,,At this speed, the heat of molecular collision and friction, shearing of air molecules
-Dialogue: 0,0:08:00.83,0:08:05.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,is concentrated in a narrow zone along the surface of a streamlined vehicle.
-Dialogue: 0,0:08:06.49,0:08:11.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,The heat generated may cause the temperature to exceed 15000 degrees Fahrenheit.
-Dialogue: 0,0:08:15.80,0:08:17.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,To combat this terrific heat,
-Dialogue: 0,0:08:17.51,0:08:22.35,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter designs instead a re-entry vehicle with a blunt frontal area.
-Dialogue: 0,0:08:28.75,0:08:32.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,The blunt shape creates its shockwave somewhat ahead of the vehicle.
-Dialogue: 0,0:08:33.19,0:08:35.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,This occurs because the atmospheric molecules
-Dialogue: 0,0:08:35.74,0:08:38.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,colliding with its frontal surface bounce back.
-Dialogue: 0,0:08:38.68,0:08:40.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,And intercept others coming in.
-Dialogue: 0,0:08:40.94,0:08:43.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,Setting up a kind of picket line in advance of the warhead.
-Dialogue: 0,0:08:44.57,0:08:48.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,The peak heat is generated in this area away from the surface of the vehicle.
-Dialogue: 0,0:08:50.77,0:08:51.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,Although the blunt shape
-Dialogue: 0,0:08:51.95,0:08:55.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,decreases the peak heating of the warhead to half that of a streamline shape,
-Dialogue: 0,0:08:56.30,0:08:59.39,720P-sorc-hans-sans-Bold-33,,0,0,0,,it will still heat up to 7,000 degrees Fahrenheit.
-Dialogue: 0,0:08:59.88,0:09:02.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,Much too hot for unprotected warhead structures.
-Dialogue: 0,0:09:04.44,0:09:05.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,To further reduce heating,
-Dialogue: 0,0:09:06.15,0:09:10.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter must find other techniques in addition to the blunt shape.
-Dialogue: 0,0:09:11.50,0:09:13.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,His first solution is the heatsink.
-Dialogue: 0,0:09:14.00,0:09:17.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,Use the blunt design and add a mass of heat conducting metal
-Dialogue: 0,0:09:18.00,0:09:21.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,large enough to absorb most of the heat generated during re-entry
-Dialogue: 0,0:09:21.79,0:09:23.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,without melting before impact.
-Dialogue: 0,0:09:24.77,0:09:27.31,720P-sorc-hans-sans-Bold-33,,0,0,0,,It works, but he is not yet satisfied.
-Dialogue: 0,0:09:27.90,0:09:31.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,The weight of the heatsink displaces more than one-fourth of the payload.
-Dialogue: 0,0:09:31.84,0:09:34.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,Furthermore the blunt designs slows the missile,
-Dialogue: 0,0:09:34.56,0:09:36.75,720P-sorc-hans-sans-Bold-33,,0,0,0,,keeping it in the atmosphere a longer time
-Dialogue: 0,0:09:37.08,0:09:40.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,making it less accurate and easier to intercept.
-Dialogue: 0,0:09:42.44,0:09:45.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,For the greatest accuracy and shortest time in the atmosphere,
-Dialogue: 0,0:09:46.31,0:09:48.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,Doc knows that the streamline shape is the best
-Dialogue: 0,0:09:49.42,0:09:52.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,but the heatsink cannot absorb and distribute
-Dialogue: 0,0:09:52.30,0:09:56.97,720P-sorc-hans-sans-Bold-33,,0,0,0,,the sudden extreme heat generated during the re-entry of a streamlined vehicle.
-Dialogue: 0,0:10:01.88,0:10:02.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,Doc reasons,
-Dialogue: 0,0:10:02.83,0:10:07.19,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\i1}if the heat cannot be absorbed why not eject it as fast as it's generated?{\i0}
-Dialogue: 0,0:10:08.22,0:10:10.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,The answer is ablation.
-Dialogue: 0,0:10:11.02,0:10:11.93,720P-sorc-hans-sans-Bold-33,,0,0,0,,{\i1}Ablation!{\i0}
-Dialogue: 0,0:10:13.00,0:10:15.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,Coat the frontal surface of the streamline missile
-Dialogue: 0,0:10:15.14,0:10:18.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,with layers of a blade of material composed of fibres resins and ceramics.
-Dialogue: 0,0:10:20.67,0:10:25.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,This ablative coating protects the missile from the extreme heat in several ways.
-Dialogue: 0,0:10:25.50,0:10:27.07,720P-sorc-hans-sans-Bold-33,,0,0,0,,It is a poor heat conductor.
-Dialogue: 0,0:10:27.48,0:10:30.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,Its surface gradually melts away taking heat with it.
-Dialogue: 0,0:10:30.99,0:10:35.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,And it's vapor forms a thin insulating layer deflecting some of the heat from the surface.
-Dialogue: 0,0:10:36.97,0:10:39.99,720P-sorc-hans-sans-Bold-33,,0,0,0,,The ablative principle combats the heat problem effectively.
-Dialogue: 0,0:10:40.33,0:10:44.20,720P-sorc-hans-sans-Bold-33,,0,0,0,,and permits steeper re-entry angles while adding a minimum of weight.
-Dialogue: 0,0:10:44.98,0:10:47.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,The streamlined missile with its increased speed
-Dialogue: 0,0:10:47.92,0:10:52.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,affords the least possibility of interception and the greatest accuracy.
-Dialogue: 0,0:10:52.59,0:10:57.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,It does produce a huge deceleration factor approaching 150 G's.
-Dialogue: 0,0:10:57.64,0:11:00.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,Fortunately this poses no threat to a warhead.
-Dialogue: 0,0:11:01.70,0:11:07.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,But for manned or other recovery missions, the G load is a most important factor.
-Dialogue: 0,0:11:07.88,0:11:12.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,For manned re-entry this force should be held below 10 G's.
-Dialogue: 0,0:11:12.55,0:11:17.33,720P-sorc-hans-sans-Bold-33,,0,0,0,,A shallow re-entry angle of about 1 to 5 degrees is the simple answer.
-Dialogue: 0,0:11:18.06,0:11:20.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,The shallower the angle, the less the G load.
-Dialogue: 0,0:11:21.36,0:11:24.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,But this will be sustained over a longer period of time.
-Dialogue: 0,0:11:25.00,0:11:28.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,This means a longer time at high speed through the friction of the atmosphere.
-Dialogue: 0,0:11:30.09,0:11:32.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,Let's take a moment to see why this is not desirable.
-Dialogue: 0,0:11:33.80,0:11:34.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter.
-Dialogue: 0,0:11:35.03,0:11:35.49,720P-sorc-hans-sans-Bold-33,,0,0,0,,Thank you.
-Dialogue: 0,0:11:36.08,0:11:37.86,720P-sorc-hans-sans-Bold-33,,0,0,0,,A gentleman we have here a kettle of water.
-Dialogue: 0,0:11:38.16,0:11:40.32,720P-sorc-hans-sans-Bold-33,,0,0,0,,Heathcliff, we can use you in this experiment.
-Dialogue: 0,0:11:41.05,0:11:42.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,Oh boy an experiment.
-Dialogue: 0,0:11:45.85,0:11:46.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,Thank you sir.
-Dialogue: 0,0:11:47.34,0:11:49.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,Now if we may have another kettle of water.
-Dialogue: 0,0:11:49.63,0:11:50.60,720P-sorc-hans-sans-Bold-33,,0,0,0,,And you're stand-in.
-Dialogue: 0,0:11:54.08,0:11:54.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,Thank you.
-Dialogue: 0,0:11:55.45,0:11:57.25,720P-sorc-hans-sans-Bold-33,,0,0,0,,Now we'll proceed with the experiment.
-Dialogue: 0,0:11:57.81,0:11:58.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,Experiment?
-Dialogue: 0,0:11:59.45,0:12:01.74,720P-sorc-hans-sans-Bold-33,,0,0,0,,We'll add the same amount of fuel under each kettle.
-Dialogue: 0,0:12:02.72,0:12:05.10,720P-sorc-hans-sans-Bold-33,,0,0,0,,But alter the form of the fuel under one kettle.
-Dialogue: 0,0:12:09.67,0:12:11.00,720P-sorc-hans-sans-Bold-33,,0,0,0,,To make it burn faster.
-Dialogue: 0,0:12:12.02,0:12:13.78,720P-sorc-hans-sans-Bold-33,,0,0,0,,We ignite both at the same time.
-Dialogue: 0,0:12:17.52,0:12:19.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,And compare the results.
-Dialogue: 0,0:12:19.59,0:12:20.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,Splendid.
-Dialogue: 0,0:12:21.05,0:12:25.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,I'd like to point out that the fast burning fuel although reaching its intensity quickly,
-Dialogue: 0,0:12:25.59,0:12:27.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,exhausted itself quickly.
-Dialogue: 0,0:12:28.13,0:12:29.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,The heat absorbed was negligible.
-Dialogue: 0,0:12:30.67,0:12:34.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,The slow burning fuel on the other hand gradually increases its intensity.
-Dialogue: 0,0:12:35.33,0:12:37.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,It will generate the same total heat load
-Dialogue: 0,0:12:37.59,0:12:39.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,but over a longer period of time
-Dialogue: 0,0:12:39.70,0:12:42.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,and you'll notice more heat is absorbed.
-Dialogue: 0,0:12:43.64,0:12:44.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,Oh.
-Dialogue: 0,0:12:45.31,0:12:46.15,720P-sorc-hans-sans-Bold-33,,0,0,0,,Thank you Heathcliff.
-Dialogue: 0,0:12:47.57,0:12:49.12,720P-sorc-hans-sans-Bold-33,,0,0,0,,Thank you Dr. Parameter.
-Dialogue: 0,0:12:50.73,0:12:54.50,720P-sorc-hans-sans-Bold-33,,0,0,0,,So although the peak heat generated in the shallow re-entry is less,
-Dialogue: 0,0:12:54.83,0:12:58.02,720P-sorc-hans-sans-Bold-33,,0,0,0,,the capsule is in the heating regime for a longer time.
-Dialogue: 0,0:12:58.49,0:13:02.38,720P-sorc-hans-sans-Bold-33,,0,0,0,,And without the utmost protection would absorb an intolerable amount of heat.
-Dialogue: 0,0:13:03.44,0:13:07.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,For manned re-entry, Dr. Parameter overcomes the deceleration enemy
-Dialogue: 0,0:13:07.54,0:13:09.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,through program with the shallow angle.
-Dialogue: 0,0:13:10.38,0:13:12.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,But he must combat heat on the design front.
-Dialogue: 0,0:13:14.40,0:13:17.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,A blunt shape to cause a detached shock wave.
-Dialogue: 0,0:13:17.35,0:13:18.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,A picket line against heat.
-Dialogue: 0,0:13:19.06,0:13:21.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,And ablative materials for additional heat control.
-Dialogue: 0,0:13:23.53,0:13:27.65,720P-sorc-hans-sans-Bold-33,,0,0,0,,The doc is confident his new design will fulfill the requirements.
-Dialogue: 0,0:13:28.41,0:13:29.58,720P-sorc-hans-sans-Bold-33,,0,0,0,,Now to try it out.
-Dialogue: 0,0:13:30.32,0:13:35.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,He wants low peak deceleration so the shallow re-entry path is mandatory.
-Dialogue: 0,0:13:36.15,0:13:39.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,This brings him down safely if a little off target.
-Dialogue: 0,0:13:41.21,0:13:44.84,720P-sorc-hans-sans-Bold-33,,0,0,0,,To achieve some control and accuracy as well as safety,
-Dialogue: 0,0:13:45.13,0:13:48.44,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter has been working on other design concepts
-Dialogue: 0,0:13:48.63,0:13:50.87,720P-sorc-hans-sans-Bold-33,,0,0,0,,particularly shapes that produce lift.
-Dialogue: 0,0:13:52.32,0:13:55.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows that a ballistic missile is designed and programmed
-Dialogue: 0,0:13:55.98,0:13:58.76,720P-sorc-hans-sans-Bold-33,,0,0,0,,to hit a particular point on the Earth's surface.
-Dialogue: 0,0:13:59.72,0:14:02.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,A manned ballistic vehicle with the same objective
-Dialogue: 0,0:14:02.52,0:14:06.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,is much less accurate due to its design and long shallow penetration
-Dialogue: 0,0:14:07.48,0:14:08.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,but a lifting vehicle
-Dialogue: 0,0:14:08.90,0:14:12.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,which is capable of descending at a still more shallow angle
-Dialogue: 0,0:14:12.39,0:14:16.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,and with an extremely low deceleration rate is able to change direction.
-Dialogue: 0,0:14:17.44,0:14:23.03,720P-sorc-hans-sans-Bold-33,,0,0,0,,This control gives it wide selectivity of landing sites within a large footprint area.
-Dialogue: 0,0:14:25.28,0:14:27.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,For the shortest range within the footprint,
-Dialogue: 0,0:14:28.07,0:14:32.05,720P-sorc-hans-sans-Bold-33,,0,0,0,,the vehicle is pulled up into a maximum lift attitude at re-entry.
-Dialogue: 0,0:14:32.91,0:14:37.24,720P-sorc-hans-sans-Bold-33,,0,0,0,,This induces maximum drag, causing a steeper, more abrupt descent.
-Dialogue: 0,0:14:38.64,0:14:40.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,For the longest possible range,
-Dialogue: 0,0:14:40.80,0:14:45.34,720P-sorc-hans-sans-Bold-33,,0,0,0,,the vehicle must assume the attitude of maximum lift / drag ratio
-Dialogue: 0,0:14:46.28,0:14:51.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,this footprint huge at first shrinks gradually as the vehicle descends.
-Dialogue: 0,0:14:52.29,0:14:56.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter while considering the advantages of lifting vehicles
-Dialogue: 0,0:14:56.04,0:14:57.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,is also aware of their drawbacks.
-Dialogue: 0,0:14:58.43,0:15:01.85,720P-sorc-hans-sans-Bold-33,,0,0,0,,First the lifting structure itself imposes weight penalties
-Dialogue: 0,0:15:01.95,0:15:04.95,720P-sorc-hans-sans-Bold-33,,0,0,0,,which compete with the all-important matter of payload.
-Dialogue: 0,0:15:05.84,0:15:10.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,Then lifting vehicles may also spend up to 20 minutes in the heat regime
-Dialogue: 0,0:15:10.44,0:15:15.54,720P-sorc-hans-sans-Bold-33,,0,0,0,,and being more streamlined they require a still more complex heat protection system
-Dialogue: 0,0:15:15.97,0:15:18.27,720P-sorc-hans-sans-Bold-33,,0,0,0,,competing still further with payload.
-Dialogue: 0,0:15:20.56,0:15:25.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter with his associates has studied the strategy of atmospheric penetration.
-Dialogue: 0,0:15:28.32,0:15:31.67,720P-sorc-hans-sans-Bold-33,,0,0,0,,He knows it's natural enemies, deceleration and heat.
-Dialogue: 0,0:15:32.26,0:15:35.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,And has met them on the two fronts of program and design.
-Dialogue: 0,0:15:36.36,0:15:38.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,He has accomplished important objectives.
-Dialogue: 0,0:15:39.73,0:15:42.71,720P-sorc-hans-sans-Bold-33,,0,0,0,,For the intercontinental ballistic missile,
-Dialogue: 0,0:15:42.88,0:15:47.88,720P-sorc-hans-sans-Bold-33,,0,0,0,,the objectives are rapid atmospheric penetration and accuracy.
-Dialogue: 0,0:15:49.49,0:15:52.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,The warheads natural enemy is sudden intense heat.
-Dialogue: 0,0:15:53.84,0:15:58.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,Its program high velocity, steep re-entry.
-Dialogue: 0,0:15:59.97,0:16:04.26,720P-sorc-hans-sans-Bold-33,,0,0,0,,Its design streamlined with ablation to combat sudden heat.
-Dialogue: 0,0:16:05.35,0:16:09.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,For a manned or other recovery mission the objectives are
-Dialogue: 0,0:16:09.39,0:16:12.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,first of all safety and then control.
-Dialogue: 0,0:16:13.60,0:16:17.75,720P-sorc-hans-sans-Bold-33,,0,0,0,,The mission's natural enemies, high deceleration sustained Heat.
-Dialogue: 0,0:16:18.84,0:16:22.56,720P-sorc-hans-sans-Bold-33,,0,0,0,,Its program shallow re-entry for low deceleration.
-Dialogue: 0,0:16:23.50,0:16:25.40,720P-sorc-hans-sans-Bold-33,,0,0,0,,The vehicles design blunt.
-Dialogue: 0,0:16:25.81,0:16:29.57,720P-sorc-hans-sans-Bold-33,,0,0,0,,Yet with control capabilities, a maneuverable lifting shape.
-Dialogue: 0,0:16:30.84,0:16:35.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,The resulting long duration within the heat regime exacts a weight penalty.
-Dialogue: 0,0:16:35.53,0:16:38.62,720P-sorc-hans-sans-Bold-33,,0,0,0,,Because a complex heat protection system is needed.
-Dialogue: 0,0:16:41.51,0:16:43.80,720P-sorc-hans-sans-Bold-33,,0,0,0,,There will always be problems to solve.
-Dialogue: 0,0:16:44.44,0:16:48.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,Dr. Parameter has worked out successful compromises so far.
-Dialogue: 0,0:16:48.46,0:16:51.60,720P-sorc-hans-sans-Bold-33,,0,0,0,,But he is still puzzling, still exploring.
-Dialogue: 0,0:16:52.36,0:16:57.16,720P-sorc-hans-sans-Bold-33,,0,0,0,,He plucks his graphs, his curves and flings them boldly into space.
-Dialogue: 0,0:16:57.70,0:17:01.41,720P-sorc-hans-sans-Bold-33,,0,0,0,,But he knows we have barely gotten our little toe into space.
-Dialogue: 0,0:17:01.74,0:17:04.48,720P-sorc-hans-sans-Bold-33,,0,0,0,,And he constantly seeks to improve that toe hold.
-Dialogue: 0,0:17:05.14,0:17:06.46,720P-sorc-hans-sans-Bold-33,,0,0,0,,He must hold to the possible.
-Dialogue: 0,0:17:06.90,0:17:10.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,Yet he constantly works along its impossible edges.
-Dialogue: 0,0:17:11.38,0:17:15.73,720P-sorc-hans-sans-Bold-33,,0,0,0,,He has opened the way for man's safe re-entry into the Earth's atmosphere.
-Dialogue: 0,0:17:16.40,0:17:18.53,720P-sorc-hans-sans-Bold-33,,0,0,0,,Journey's end for space travel.
-Comment: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-medi-50,,0,0,0,,中文字幕
-Dialogue: 0,0:00:52.01,0:00:55.40,720P-sorc-hans-sans-medi-50,,0,0,0,,曾几何时 流星划破天空
-Dialogue: 0,0:00:55.42,0:00:57.96,720P-sorc-hans-sans-medi-50,,0,0,0,,予人以惊为天人之感
-Dialogue: 0,0:01:01.61,0:01:04.94,720P-sorc-hans-sans-medi-50,,0,0,0,,即使在今天 人们对流星现象的反应可能会是
-Dialogue: 0,0:01:04.96,0:01:09.88,720P-sorc-hans-sans-medi-50,,0,0,0,,大量打入的紧急太空入侵报告 导致电话交换机堵塞
-Dialogue: 0,0:01:11.58,0:01:16.56,720P-sorc-hans-sans-medi-50,,0,0,0,,但是作为科学革命后知识 学科和仪器的继承人
-Dialogue: 0,0:01:17.03,0:01:21.05,720P-sorc-hans-sans-medi-50,,0,0,0,,我们熟悉 并且至少部分理解流星现象
-Dialogue: 0,0:01:21.93,0:01:27.72,720P-sorc-hans-sans-medi-50,,0,0,0,,人们看不见在大气层外移动的流星
-Dialogue: 0,0:01:28.33,0:01:30.78,720P-sorc-hans-sans-medi-50,,0,0,0,,由于太空中分子分散得如此之远
-Dialogue: 0,0:01:30.85,0:01:34.04,720P-sorc-hans-sans-medi-50,,0,0,0,,与之碰撞不会有明显的影响
-Dialogue: 0,0:01:35.57,0:01:40.02,720P-sorc-hans-sans-medi-50,,0,0,0,,如果它的轨道穿过地球大气层 它会成为一颗流星
-Dialogue: 0,0:01:40.22,0:01:44.49,720P-sorc-hans-sans-medi-50,,0,0,0,,在这里它会与更多的分子碰撞
-Dialogue: 0,0:01:44.96,0:01:47.68,720P-sorc-hans-sans-medi-50,,0,0,0,,这些碰撞越来越频繁
-Dialogue: 0,0:01:48.01,0:01:53.50,720P-sorc-hans-sans-medi-50,,0,0,0,,同时流星下降到高度较低的更致密空气中 因而减速
-Dialogue: 0,0:01:53.99,0:01:57.93,720P-sorc-hans-sans-medi-50,,0,0,0,,每一次碰撞使得一些动能转化为热能
-Dialogue: 0,0:01:58.23,0:02:00.24,720P-sorc-hans-sans-medi-50,,0,0,0,,热量持续增加
-Dialogue: 0,0:02:00.27,0:02:02.69,720P-sorc-hans-sans-medi-50,,0,0,0,,直到流星本身变得耀眼
-Dialogue: 0,0:02:03.15,0:02:06.35,720P-sorc-hans-sans-medi-50,,0,0,0,,在夜空中划出它显眼的轨迹
-Dialogue: 0,0:02:07.37,0:02:12.13,720P-sorc-hans-sans-medi-50,,0,0,0,,由于在大气层被热量摧毁 大多数流星不会危及人类
-Dialogue: 0,0:02:13.20,0:02:15.03,720P-sorc-hans-sans-medi-50,,0,0,0,,现在有一个足够大的流星
-Dialogue: 0,0:02:15.05,0:02:17.88,720P-sorc-hans-sans-medi-50,,0,0,0,,能穿过大气层到达地球
-Dialogue: 0,0:02:18.93,0:02:23.41,720P-sorc-hans-sans-medi-50,,0,0,0,,然后 它被称为陨石 有些确实很大
-Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-medi-50,,0,0,0,,Peter Parameter 博士在他职业生涯早期对此产生了兴趣
-Dialogue: 0,0:02:29.49,0:02:31.18,720P-sorc-hans-sans-medi-50,,0,0,0,,而曾经写过一篇题为
-Dialogue: 0,0:02:31.59,0:02:33.41,720P-sorc-hans-sans-medi-50,,0,0,0,,物体在随机速度和角度下
-Dialogue: 0,0:02:33.41,0:02:35.83,720P-sorc-hans-sans-medi-50,,0,0,0,,通过非线性密度的塑性流体
-Dialogue: 0,0:02:35.85,0:02:37.33,720P-sorc-hans-sans-medi-50,,0,0,0,,的热动力学描述
-Dialogue: 0,0:02:37.35,0:02:39.72,720P-sorc-hans-sans-medi-50,,0,0,0,,可以用这个方程来概括
-Dialogue: 0,0:02:43.01,0:02:43.99,720P-sorc-hans-sans-medi-50,,0,0,0,,有了这个公式
-Dialogue: 0,0:02:44.00,0:02:46.82,720P-sorc-hans-sans-medi-50,,0,0,0,,其他科学家和设计师们能够解释
-Dialogue: 0,0:02:46.82,0:02:50.08,720P-sorc-hans-sans-medi-50,,0,0,0,,大气穿透对不同物体的影响
-Dialogue: 0,0:02:50.13,0:02:54.69,720P-sorc-hans-sans-medi-50,,0,0,0,,那些物体有着不同的弹道系数 速度还有进入角度
-Dialogue: 0,0:02:55.29,0:02:59.80,720P-sorc-hans-sans-medi-50,,0,0,0,,例如 如果重量不同的两个物体进入地球大气层
-Dialogue: 0,0:02:59.88,0:03:02.01,720P-sorc-hans-sans-medi-50,,0,0,0,,在相同的速度和进入角下
-Dialogue: 0,0:03:02.34,0:03:06.89,720P-sorc-hans-sans-medi-50,,0,0,0,,重的和轻的物体将同时开始升温
-Dialogue: 0,0:03:08.07,0:03:11.46,720P-sorc-hans-sans-medi-50,,0,0,0,,空气分子的影响会使轻的物体变慢得更快
-Dialogue: 0,0:03:13.49,0:03:17.44,720P-sorc-hans-sans-medi-50,,0,0,0,,轻的物体在更高的高度减速
-Dialogue: 0,0:03:17.62,0:03:19.61,720P-sorc-hans-sans-medi-50,,0,0,0,,而更重的能量更多的物体
-Dialogue: 0,0:03:19.65,0:03:22.80,720P-sorc-hans-sans-medi-50,,0,0,0,,在它达到最大减速前穿透得更深
-Dialogue: 0,0:03:23.72,0:03:26.53,720P-sorc-hans-sans-medi-50,,0,0,0,,轻的物体产生的总热量
-Dialogue: 0,0:03:26.78,0:03:28.97,720P-sorc-hans-sans-medi-50,,0,0,0,,小于由重的那个产生的
-Dialogue: 0,0:03:29.11,0:03:31.83,720P-sorc-hans-sans-medi-50,,0,0,0,,它更大的质量意味着更大的动能
-Dialogue: 0,0:03:33.96,0:03:36.64,720P-sorc-hans-sans-medi-50,,0,0,0,,以相同速度进入大气层的两个相同物体
-Dialogue: 0,0:03:36.67,0:03:41.16,720P-sorc-hans-sans-medi-50,,0,0,0,,在不同的角度下也将以不同的速率减速
-Dialogue: 0,0:03:41.75,0:03:45.51,720P-sorc-hans-sans-medi-50,,0,0,0,,更陡的角度会导致与稠密空气更急促的接触
-Dialogue: 0,0:03:45.74,0:03:47.92,720P-sorc-hans-sans-medi-50,,0,0,0,,从而导致更剧烈的减速
-Dialogue: 0,0:03:49.16,0:03:52.54,720P-sorc-hans-sans-medi-50,,0,0,0,,两个物体所产生的总热量是相同的
-Dialogue: 0,0:03:52.84,0:03:55.69,720P-sorc-hans-sans-medi-50,,0,0,0,,但平缓进入的峰值加热会更小
-Dialogue: 0,0:03:57.24,0:04:01.42,720P-sorc-hans-sans-medi-50,,0,0,0,,具有相同角度但以不同速度进入的相同流星
-Dialogue: 0,0:04:01.76,0:04:05.28,720P-sorc-hans-sans-medi-50,,0,0,0,,更快的流星在空气分子更重的轰击下
-Dialogue: 0,0:04:05.78,0:04:10.12,720P-sorc-hans-sans-medi-50,,0,0,0,,会有更快的减速 同时以较高的速率产生更多的热量
-Dialogue: 0,0:04:13.09,0:04:16.41,720P-sorc-hans-sans-medi-50,,0,0,0,,但是Parameter博士已不再仅仅是一个
-Dialogue: 0,0:04:16.58,0:04:19.59,720P-sorc-hans-sans-medi-50,,0,0,0,,有兴趣了解流星现象的观察者
-Dialogue: 0,0:04:21.48,0:04:24.32,720P-sorc-hans-sans-medi-50,,0,0,0,,流星只是在太空漫无目的的旅客
-Dialogue: 0,0:04:24.85,0:04:29.63,720P-sorc-hans-sans-medi-50,,0,0,0,,现在博士参与设计拥有目标的物体了
-Dialogue: 0,0:04:30.81,0:04:32.50,720P-sorc-hans-sans-medi-50,,0,0,0,,导弹有一个目标
-Dialogue: 0,0:04:32.92,0:04:36.58,720P-sorc-hans-sans-medi-50,,0,0,0,,而航天器有一个目的地 一个旅程的终点
-Dialogue: 0,0:04:37.17,0:04:39.57,720P-sorc-hans-sans-medi-50,,0,0,0,,在其上博士运用自己的知识
-Dialogue: 0,0:04:41.09,0:04:45.27,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道无目标的流星和有目标的导弹背后的自然现象
-Dialogue: 0,0:04:45.78,0:04:49.00,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道 当它们穿过大气层 它们热了起来
-Dialogue: 0,0:04:49.63,0:04:54.28,720P-sorc-hans-sans-medi-50,,0,0,0,,如果飞行器过度加热或减速 任务会受到威胁
-Dialogue: 0,0:04:56.15,0:04:58.73,720P-sorc-hans-sans-medi-50,,0,0,0,,人不能改变自然规律
-Dialogue: 0,0:04:59.10,0:05:02.52,720P-sorc-hans-sans-medi-50,,0,0,0,,所以他必须在这规律下运用自己的知识来工作
-Dialogue: 0,0:05:03.55,0:05:04.87,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士知道
-Dialogue: 0,0:05:04.88,0:05:08.29,720P-sorc-hans-sans-medi-50,,0,0,0,,成功的大气穿透有两大天敌
-Dialogue: 0,0:05:08.64,0:05:11.02,720P-sorc-hans-sans-medi-50,,0,0,0,,减速和热量
-Dialogue: 0,0:05:12.40,0:05:15.66,720P-sorc-hans-sans-medi-50,,0,0,0,,他可以在两种可能的方面对抗这些敌人
-Dialogue: 0,0:05:15.90,0:05:21.58,720P-sorc-hans-sans-medi-50,,0,0,0,,首先在设计方面根据飞行器重量更改其形状和大小
-Dialogue: 0,0:05:22.10,0:05:24.31,720P-sorc-hans-sans-medi-50,,0,0,0,,换而言之其弹道系数
-Dialogue: 0,0:05:25.60,0:05:27.64,720P-sorc-hans-sans-medi-50,,0,0,0,,其次在程序方面
-Dialogue: 0,0:05:27.82,0:05:29.72,720P-sorc-hans-sans-medi-50,,0,0,0,,通过改变飞行器的弹道
-Dialogue: 0,0:05:30.02,0:05:35.22,720P-sorc-hans-sans-medi-50,,0,0,0,,它的速度 它的高度和它进入地球大气层的角度
-Dialogue: 0,0:05:36.90,0:05:39.84,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士现在已经可以运用他的技术
-Dialogue: 0,0:05:39.84,0:05:43.27,720P-sorc-hans-sans-medi-50,,0,0,0,,为洲际弹道导弹弹头设计成功的再入方案
-Dialogue: 0,0:05:44.01,0:05:47.77,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道 这两个天敌 减速和热量
-Dialogue: 0,0:05:48.14,0:05:50.95,720P-sorc-hans-sans-medi-50,,0,0,0,,较大的减速度对于核弹头来说不是问题
-Dialogue: 0,0:05:52.12,0:05:54.27,720P-sorc-hans-sans-medi-50,,0,0,0,,但过多的热量会破坏它
-Dialogue: 0,0:05:55.74,0:05:58.49,720P-sorc-hans-sans-medi-50,,0,0,0,,他首先调查项目的程序部分
-Dialogue: 0,0:05:59.66,0:06:04.87,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道 再入速度和角度基本上由任务决定
-Dialogue: 0,0:06:05.84,0:06:09.37,720P-sorc-hans-sans-medi-50,,0,0,0,,但是 为了减少热负荷 再入大气层飞行器的速度
-Dialogue: 0,0:06:09.78,0:06:12.77,720P-sorc-hans-sans-medi-50,,0,0,0,,理论上可以通过反推火箭减少
-Dialogue: 0,0:06:14.04,0:06:15.71,720P-sorc-hans-sans-medi-50,,0,0,0,,经调查 他发现
-Dialogue: 0,0:06:15.72,0:06:19.38,720P-sorc-hans-sans-medi-50,,0,0,0,,为了充分地利用这个方法来减少再入速度
-Dialogue: 0,0:06:19.80,0:06:22.13,720P-sorc-hans-sans-medi-50,,0,0,0,,需要一个反推系统
-Dialogue: 0,0:06:22.16,0:06:24.46,720P-sorc-hans-sans-medi-50,,0,0,0,,是数倍于弹头的重量
-Dialogue: 0,0:06:24.93,0:06:26.44,720P-sorc-hans-sans-medi-50,,0,0,0,,这种方法出局
-Dialogue: 0,0:06:27.63,0:06:31.29,720P-sorc-hans-sans-medi-50,,0,0,0,,他接着考虑改变再入角的可能性
-Dialogue: 0,0:06:31.99,0:06:35.09,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道 一个小的角度将减少热负荷峰值
-Dialogue: 0,0:06:35.41,0:06:38.27,720P-sorc-hans-sans-medi-50,,0,0,0,,因为这会延长加热的时间
-Dialogue: 0,0:06:38.92,0:06:42.41,720P-sorc-hans-sans-medi-50,,0,0,0,,但产生的总热量是相同
-Dialogue: 0,0:06:42.64,0:06:46.61,720P-sorc-hans-sans-medi-50,,0,0,0,,不过飞行器会在较长的再入过程中吸收更多的热量
-Dialogue: 0,0:06:47.07,0:06:51.51,720P-sorc-hans-sans-medi-50,,0,0,0,,此外 较小的再入角有其他严重缺陷
-Dialogue: 0,0:06:52.36,0:06:56.86,720P-sorc-hans-sans-medi-50,,0,0,0,,首先 较小的角度也会因为大气偏转削弱精度
-Dialogue: 0,0:06:58.47,0:07:02.21,720P-sorc-hans-sans-medi-50,,0,0,0,,其次 它会给敌方拦截提供更多的时间
-Dialogue: 0,0:07:04.82,0:07:08.47,720P-sorc-hans-sans-medi-50,,0,0,0,,陡峭的再入能降低导弹被拦截的可能
-Dialogue: 0,0:07:08.76,0:07:11.83,720P-sorc-hans-sans-medi-50,,0,0,0,,并使其在最小的大气偏转下到达目标
-Dialogue: 0,0:07:13.34,0:07:17.48,720P-sorc-hans-sans-medi-50,,0,0,0,,在这种程序中 热量的问题并没有被解决
-Dialogue: 0,0:07:18.66,0:07:23.00,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士必须在设计方面解决热量问题
-Dialogue: 0,0:07:25.16,0:07:29.47,720P-sorc-hans-sans-medi-50,,0,0,0,,直觉上 高速的运动需要流线型轮廓
-Dialogue: 0,0:07:29.48,0:07:31.08,720P-sorc-hans-sans-medi-50,,0,0,0,,来切割空气
-Dialogue: 0,0:07:31.52,0:07:33.69,720P-sorc-hans-sans-medi-50,,0,0,0,,在亚音速的速度 这是对的
-Dialogue: 0,0:07:34.06,0:07:35.56,720P-sorc-hans-sans-medi-50,,0,0,0,,但在超音速的速度
-Dialogue: 0,0:07:35.87,0:07:40.59,720P-sorc-hans-sans-medi-50,,0,0,0,,移动的飞行器使得空气分子被弹开 形成了冲击波
-Dialogue: 0,0:07:41.73,0:07:46.51,720P-sorc-hans-sans-medi-50,,0,0,0,,随着速度的增加 冲击波变得更加猛烈 加热增加
-Dialogue: 0,0:07:48.85,0:07:54.63,720P-sorc-hans-sans-medi-50,,0,0,0,,洲际弹道导弹自由落体的再入会达到7010m/s
-Dialogue: 0,0:07:55.14,0:08:00.42,720P-sorc-hans-sans-medi-50,,0,0,0,,在此速度下 分子碰撞和摩擦的热量 空气分子的剪切热量
-Dialogue: 0,0:08:00.83,0:08:05.61,720P-sorc-hans-sans-medi-50,,0,0,0,,集中在流线型飞行器表面的狭窄区域
-Dialogue: 0,0:08:06.49,0:08:11.26,720P-sorc-hans-sans-medi-50,,0,0,0,,所产生的热量可能导致温度超过8316℃
-Dialogue: 0,0:08:15.80,0:08:17.27,720P-sorc-hans-sans-medi-50,,0,0,0,,为了解决这大量的热量
-Dialogue: 0,0:08:17.51,0:08:22.35,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士转而设计钝头再入飞行器
-Dialogue: 0,0:08:28.75,0:08:32.12,720P-sorc-hans-sans-medi-50,,0,0,0,,钝形使得冲击波出现在飞行器前方
-Dialogue: 0,0:08:33.19,0:08:35.74,720P-sorc-hans-sans-medi-50,,0,0,0,,这是因为大气分子
-Dialogue: 0,0:08:35.74,0:08:38.48,720P-sorc-hans-sans-medi-50,,0,0,0,,撞击其表面然后反弹
-Dialogue: 0,0:08:38.68,0:08:40.71,720P-sorc-hans-sans-medi-50,,0,0,0,,然后阻挡其他分子进入
-Dialogue: 0,0:08:40.94,0:08:43.94,720P-sorc-hans-sans-medi-50,,0,0,0,,在弹头前建立一种防护层
-Dialogue: 0,0:08:44.57,0:08:48.72,720P-sorc-hans-sans-medi-50,,0,0,0,,峰值热量生成在远离飞行器表面的这个位置
-Dialogue: 0,0:08:50.77,0:08:51.91,720P-sorc-hans-sans-medi-50,,0,0,0,,虽然钝形
-Dialogue: 0,0:08:51.95,0:08:55.88,720P-sorc-hans-sans-medi-50,,0,0,0,,比起流线型弹头只有一半的峰值热量
-Dialogue: 0,0:08:56.30,0:08:59.39,720P-sorc-hans-sans-medi-50,,0,0,0,,它仍然会升温到3871℃
-Dialogue: 0,0:08:59.88,0:09:02.96,720P-sorc-hans-sans-medi-50,,0,0,0,,对于没有保护的弹头结构而言还是太热
-Dialogue: 0,0:09:04.44,0:09:05.74,720P-sorc-hans-sans-medi-50,,0,0,0,,为了进一步降低加热
-Dialogue: 0,0:09:06.15,0:09:10.06,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士必须找到钝形以外的其他技术
-Dialogue: 0,0:09:11.50,0:09:13.68,720P-sorc-hans-sans-medi-50,,0,0,0,,他的第一个解决方案是散热器
-Dialogue: 0,0:09:14.00,0:09:17.76,720P-sorc-hans-sans-medi-50,,0,0,0,,运用钝形设计 并加入足够大的导热金属
-Dialogue: 0,0:09:18.00,0:09:21.78,720P-sorc-hans-sans-medi-50,,0,0,0,,以吸收大部分再入大气层时产生的热量
-Dialogue: 0,0:09:21.79,0:09:23.97,720P-sorc-hans-sans-medi-50,,0,0,0,,不会在撞击前熔化
-Dialogue: 0,0:09:24.77,0:09:27.31,720P-sorc-hans-sans-medi-50,,0,0,0,,它成功了 但他并没有满意
-Dialogue: 0,0:09:27.90,0:09:31.18,720P-sorc-hans-sans-medi-50,,0,0,0,,散热器超过有效载荷质量的四分之一
-Dialogue: 0,0:09:31.84,0:09:34.26,720P-sorc-hans-sans-medi-50,,0,0,0,,此外 钝形设计使导弹减速
-Dialogue: 0,0:09:34.56,0:09:36.75,720P-sorc-hans-sans-medi-50,,0,0,0,,让它在大气层中的时间更长
-Dialogue: 0,0:09:37.08,0:09:40.21,720P-sorc-hans-sans-medi-50,,0,0,0,,使得它准确率下降 更容易被拦截
-Dialogue: 0,0:09:42.44,0:09:45.92,720P-sorc-hans-sans-medi-50,,0,0,0,,为了达到最大精度和最短的大气内时间
-Dialogue: 0,0:09:46.31,0:09:48.89,720P-sorc-hans-sans-medi-50,,0,0,0,,博士知道 流线型是最好的
-Dialogue: 0,0:09:49.42,0:09:52.24,720P-sorc-hans-sans-medi-50,,0,0,0,,但是散热器不能吸收分散
-Dialogue: 0,0:09:52.30,0:09:56.97,720P-sorc-hans-sans-medi-50,,0,0,0,,飞行器再入过程中快速产生的热量
-Dialogue: 0,0:10:01.88,0:10:02.76,720P-sorc-hans-sans-medi-50,,0,0,0,,博士推想
-Dialogue: 0,0:10:02.83,0:10:07.19,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fs48\i1}如果不能吸收这些热量 为什么不以产生热量的速度把它排出去？{\i0}
-Dialogue: 0,0:10:08.22,0:10:10.06,720P-sorc-hans-sans-medi-50,,0,0,0,,答案是烧蚀
-Dialogue: 0,0:10:11.02,0:10:11.93,720P-sorc-hans-sans-medi-50,,0,0,0,,烧蚀！
-Dialogue: 0,0:10:13.00,0:10:15.14,720P-sorc-hans-sans-medi-50,,0,0,0,,在流线型导弹的头部覆盖薄薄的
-Dialogue: 0,0:10:15.14,0:10:18.89,720P-sorc-hans-sans-medi-50,,0,0,0,,由纤维树脂和陶瓷组成的复合材料层
-Dialogue: 0,0:10:20.67,0:10:25.01,720P-sorc-hans-sans-medi-50,,0,0,0,,这种烧蚀涂层从多个方面保护导弹免于极端热量
-Dialogue: 0,0:10:25.50,0:10:27.07,720P-sorc-hans-sans-medi-50,,0,0,0,,这是一种热的不良导体
-Dialogue: 0,0:10:27.48,0:10:30.41,720P-sorc-hans-sans-medi-50,,0,0,0,,它的表面逐渐熔化 带走热量
-Dialogue: 0,0:10:30.99,0:10:35.66,720P-sorc-hans-sans-medi-50,,0,0,0,,而它的蒸气形成一层薄薄的隔热层 隔开一些表面热量
-Dialogue: 0,0:10:36.97,0:10:39.99,720P-sorc-hans-sans-medi-50,,0,0,0,,烧蚀原理能够有效解决散热问题
-Dialogue: 0,0:10:40.33,0:10:44.20,720P-sorc-hans-sans-medi-50,,0,0,0,,同时在增加较小的重量下 允许更陡的再入角
-Dialogue: 0,0:10:44.98,0:10:47.69,720P-sorc-hans-sans-medi-50,,0,0,0,,流线型导弹增加的速度
-Dialogue: 0,0:10:47.92,0:10:52.04,720P-sorc-hans-sans-medi-50,,0,0,0,,使其被拦截的可能性最小且达到的精度最高
-Dialogue: 0,0:10:52.59,0:10:57.09,720P-sorc-hans-sans-medi-50,,0,0,0,,它确实产生接近150G的巨大减速系数
-Dialogue: 0,0:10:57.64,0:11:00.67,720P-sorc-hans-sans-medi-50,,0,0,0,,好在这种情况对弹头没有威胁
-Dialogue: 0,0:11:01.70,0:11:07.08,720P-sorc-hans-sans-medi-50,,0,0,0,,但对于载人或其它返回式任务来说 G值是最重要的因素
-Dialogue: 0,0:11:07.88,0:11:12.01,720P-sorc-hans-sans-medi-50,,0,0,0,,对于载人再入而言应保持低于10个G的加速度
-Dialogue: 0,0:11:12.55,0:11:17.33,720P-sorc-hans-sans-medi-50,,0,0,0,,简单的答案是大约1至5度的浅再入角
-Dialogue: 0,0:11:18.06,0:11:20.74,720P-sorc-hans-sans-medi-50,,0,0,0,,较浅角度 较小的加速度
-Dialogue: 0,0:11:21.36,0:11:24.18,720P-sorc-hans-sans-medi-50,,0,0,0,,但是 这会持续较长的一段时间
-Dialogue: 0,0:11:25.00,0:11:28.95,720P-sorc-hans-sans-medi-50,,0,0,0,,这意味着需要更长的时间高速穿过大气层的摩擦
-Dialogue: 0,0:11:30.09,0:11:32.62,720P-sorc-hans-sans-medi-50,,0,0,0,,让我们来看看为什么这是不可取的
-Dialogue: 0,0:11:33.80,0:11:34.72,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士
-Dialogue: 0,0:11:35.03,0:11:35.49,720P-sorc-hans-sans-medi-50,,0,0,0,,谢谢
-Dialogue: 0,0:11:36.08,0:11:37.86,720P-sorc-hans-sans-medi-50,,0,0,0,,一位先生 我们这里有一锅水
-Dialogue: 0,0:11:38.16,0:11:40.32,720P-sorc-hans-sans-medi-50,,0,0,0,,Heathcliff 我们可以在这个实验中用到你
-Dialogue: 0,0:11:41.05,0:11:42.46,720P-sorc-hans-sans-medi-50,,0,0,0,,天哪 一个实验
-Dialogue: 0,0:11:45.85,0:11:46.58,720P-sorc-hans-sans-medi-50,,0,0,0,,谢谢你 先生
-Dialogue: 0,0:11:47.34,0:11:49.41,720P-sorc-hans-sans-medi-50,,0,0,0,,现在 如果我们可以有另一锅水
-Dialogue: 0,0:11:49.63,0:11:50.60,720P-sorc-hans-sans-medi-50,,0,0,0,,而你是替身
-Dialogue: 0,0:11:54.08,0:11:54.57,720P-sorc-hans-sans-medi-50,,0,0,0,,谢谢
-Dialogue: 0,0:11:55.45,0:11:57.25,720P-sorc-hans-sans-medi-50,,0,0,0,,现在 我们继续进行实验
-Dialogue: 0,0:11:57.81,0:11:58.91,720P-sorc-hans-sans-medi-50,,0,0,0,,实验？
-Dialogue: 0,0:11:59.45,0:12:01.74,720P-sorc-hans-sans-medi-50,,0,0,0,,我们在每个锅下添加相同的燃料
-Dialogue: 0,0:12:02.72,0:12:05.10,720P-sorc-hans-sans-medi-50,,0,0,0,,但改变一个锅下燃料的形态
-Dialogue: 0,0:12:09.67,0:12:11.00,720P-sorc-hans-sans-medi-50,,0,0,0,,让它燃烧得更快
-Dialogue: 0,0:12:12.02,0:12:13.78,720P-sorc-hans-sans-medi-50,,0,0,0,,我们同时点燃两个
-Dialogue: 0,0:12:17.52,0:12:19.30,720P-sorc-hans-sans-medi-50,,0,0,0,,并比较结果
-Dialogue: 0,0:12:19.59,0:12:20.30,720P-sorc-hans-sans-medi-50,,0,0,0,,非常好
-Dialogue: 0,0:12:21.05,0:12:25.30,720P-sorc-hans-sans-medi-50,,0,0,0,,我想指出的是 快速燃烧的燃料 虽然很快达到其强度
-Dialogue: 0,0:12:25.59,0:12:27.24,720P-sorc-hans-sans-medi-50,,0,0,0,,也很快耗尽本身
-Dialogue: 0,0:12:28.13,0:12:29.67,720P-sorc-hans-sans-medi-50,,0,0,0,,吸收的热量可以忽略不计
-Dialogue: 0,0:12:30.67,0:12:34.16,720P-sorc-hans-sans-medi-50,,0,0,0,,在另一方面 缓慢燃烧的燃料逐渐增加其强度
-Dialogue: 0,0:12:35.33,0:12:37.56,720P-sorc-hans-sans-medi-50,,0,0,0,,这将产生相同的总热负荷
-Dialogue: 0,0:12:37.59,0:12:39.40,720P-sorc-hans-sans-medi-50,,0,0,0,,但是在一段较长的时间内
-Dialogue: 0,0:12:39.70,0:12:42.18,720P-sorc-hans-sans-medi-50,,0,0,0,,你会发现更多的热量被吸收
-Dialogue: 0,0:12:43.64,0:12:44.24,720P-sorc-hans-sans-medi-50,,0,0,0,,哦
-Dialogue: 0,0:12:45.31,0:12:46.15,720P-sorc-hans-sans-medi-50,,0,0,0,,谢谢你 Heathcliff
-Dialogue: 0,0:12:47.57,0:12:49.12,720P-sorc-hans-sans-medi-50,,0,0,0,,谢谢 Parameter博士
-Dialogue: 0,0:12:50.73,0:12:54.50,720P-sorc-hans-sans-medi-50,,0,0,0,,因此 尽管在浅再入产生的峰值热量更小
-Dialogue: 0,0:12:54.83,0:12:58.02,720P-sorc-hans-sans-medi-50,,0,0,0,,返回舱处于加热状态的时间更长
-Dialogue: 0,0:12:58.49,0:13:02.38,720P-sorc-hans-sans-medi-50,,0,0,0,,而如果没对它进行最好的保护 吸收的热量将到无法承受的程度
-Dialogue: 0,0:13:03.44,0:13:07.52,720P-sorc-hans-sans-medi-50,,0,0,0,,对于载人再入 Parameter博士通过浅角度程序
-Dialogue: 0,0:13:07.54,0:13:09.91,720P-sorc-hans-sans-medi-50,,0,0,0,,克服减速问题
-Dialogue: 0,0:13:10.38,0:13:12.92,720P-sorc-hans-sans-medi-50,,0,0,0,,但他必须在设计方面解决热量
-Dialogue: 0,0:13:14.40,0:13:17.05,720P-sorc-hans-sans-medi-50,,0,0,0,,钝形使冲击波分离
-Dialogue: 0,0:13:17.35,0:13:18.62,720P-sorc-hans-sans-medi-50,,0,0,0,,应对热量的防护层
-Dialogue: 0,0:13:19.06,0:13:21.95,720P-sorc-hans-sans-medi-50,,0,0,0,,烧蚀材料作为额外的热量控制
-Dialogue: 0,0:13:23.53,0:13:27.65,720P-sorc-hans-sans-medi-50,,0,0,0,,博士自信于他的新设计能够满足要求
-Dialogue: 0,0:13:28.41,0:13:29.58,720P-sorc-hans-sans-medi-50,,0,0,0,,现在来尝试一下
-Dialogue: 0,0:13:30.32,0:13:35.27,720P-sorc-hans-sans-medi-50,,0,0,0,,他想要减速度的峰值较低 因此一定得要浅的再入路径
-Dialogue: 0,0:13:36.15,0:13:39.53,720P-sorc-hans-sans-medi-50,,0,0,0,,这使他安全降落 即使稍微偏离目标
-Dialogue: 0,0:13:41.21,0:13:44.84,720P-sorc-hans-sans-medi-50,,0,0,0,,为了实现一定的可控和精度以及安全
-Dialogue: 0,0:13:45.13,0:13:48.44,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士一直致力于研究其他的设计理念
-Dialogue: 0,0:13:48.63,0:13:50.87,720P-sorc-hans-sans-medi-50,,0,0,0,,特别是产生升力的形状
-Dialogue: 0,0:13:52.32,0:13:55.95,720P-sorc-hans-sans-medi-50,,0,0,0,,他知道 弹道导弹的设计和安排成
-Dialogue: 0,0:13:55.98,0:13:58.76,720P-sorc-hans-sans-medi-50,,0,0,0,,为了击中地球表面上的特定点
-Dialogue: 0,0:13:59.72,0:14:02.18,720P-sorc-hans-sans-medi-50,,0,0,0,,具有相同目标的载人弹道飞行器
-Dialogue: 0,0:14:02.52,0:14:06.48,720P-sorc-hans-sans-medi-50,,0,0,0,,由于它的设计和长距离浅再入 精度要低得多
-Dialogue: 0,0:14:07.48,0:14:08.54,720P-sorc-hans-sans-medi-50,,0,0,0,,但升力飞行器
-Dialogue: 0,0:14:08.90,0:14:12.21,720P-sorc-hans-sans-medi-50,,0,0,0,,能够以更浅的角度下降
-Dialogue: 0,0:14:12.39,0:14:16.27,720P-sorc-hans-sans-medi-50,,0,0,0,,并具有极低的减速率 且能够改变方向
-Dialogue: 0,0:14:17.44,0:14:23.03,720P-sorc-hans-sans-medi-50,,0,0,0,,这种可控能力能够宽泛地选择降落地点
-Dialogue: 0,0:14:25.28,0:14:27.54,720P-sorc-hans-sans-medi-50,,0,0,0,,为了降落在尽可能近的范围内
-Dialogue: 0,0:14:28.07,0:14:32.05,720P-sorc-hans-sans-medi-50,,0,0,0,,飞行器在再入过程中以最大升力姿态拉起
-Dialogue: 0,0:14:32.91,0:14:37.24,720P-sorc-hans-sans-medi-50,,0,0,0,,这导致最大阻力 造成一个较陡峭 较剧烈的下降
-Dialogue: 0,0:14:38.64,0:14:40.68,720P-sorc-hans-sans-medi-50,,0,0,0,,为了尽可能远的范围
-Dialogue: 0,0:14:40.80,0:14:45.34,720P-sorc-hans-sans-medi-50,,0,0,0,,飞行器必须采取最大升阻比的姿态
-Dialogue: 0,0:14:46.28,0:14:51.14,720P-sorc-hans-sans-medi-50,,0,0,0,,这个开始很大的范围随着飞行器的下降逐渐缩减
-Dialogue: 0,0:14:52.29,0:14:56.01,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士在考虑升力体飞行器优势的同时
-Dialogue: 0,0:14:56.04,0:14:57.80,720P-sorc-hans-sans-medi-50,,0,0,0,,也意识到它们的缺点
-Dialogue: 0,0:14:58.43,0:15:01.85,720P-sorc-hans-sans-medi-50,,0,0,0,,首先升力体结构本身增加重量
-Dialogue: 0,0:15:01.95,0:15:04.95,720P-sorc-hans-sans-medi-50,,0,0,0,,这会减少有效载荷重量
-Dialogue: 0,0:15:05.84,0:15:10.09,720P-sorc-hans-sans-medi-50,,0,0,0,,然后升力体飞行器的受热状态可能长达20分钟
-Dialogue: 0,0:15:10.44,0:15:15.54,720P-sorc-hans-sans-medi-50,,0,0,0,,而为了更加流线型 他们需要一个更复杂的热保护系统
-Dialogue: 0,0:15:15.97,0:15:18.27,720P-sorc-hans-sans-medi-50,,0,0,0,,进一步减少有效载荷质量
-Dialogue: 0,0:15:20.56,0:15:25.56,720P-sorc-hans-sans-medi-50,,0,0,0,,Parameter博士和他的同事研究了大气进入的策略
-Dialogue: 0,0:15:28.32,0:15:31.67,720P-sorc-hans-sans-medi-50,,0,0,0,,他了解它的天敌 减速和热量
-Dialogue: 0,0:15:32.26,0:15:35.80,720P-sorc-hans-sans-medi-50,,0,0,0,,并在程序和设计两个方面解决它们
-Dialogue: 0,0:15:36.36,0:15:38.94,720P-sorc-hans-sans-medi-50,,0,0,0,,他已经完成了重要的目标
-Dialogue: 0,0:15:39.73,0:15:42.71,720P-sorc-hans-sans-medi-50,,0,0,0,,对于洲际弹道导弹
-Dialogue: 0,0:15:42.88,0:15:47.88,720P-sorc-hans-sans-medi-50,,0,0,0,,目标是快速大气穿透和准确性
-Dialogue: 0,0:15:49.49,0:15:52.92,720P-sorc-hans-sans-medi-50,,0,0,0,,弹头的天敌是突如其来的高热
-Dialogue: 0,0:15:53.84,0:15:58.80,720P-sorc-hans-sans-medi-50,,0,0,0,,其方案是快速 陡峭的再入
-Dialogue: 0,0:15:59.97,0:16:04.26,720P-sorc-hans-sans-medi-50,,0,0,0,,其设计是通过流线型和烧蚀解决骤热
-Dialogue: 0,0:16:05.35,0:16:09.09,720P-sorc-hans-sans-medi-50,,0,0,0,,对于载人或其它再入式任务的目标
-Dialogue: 0,0:16:09.39,0:16:12.92,720P-sorc-hans-sans-medi-50,,0,0,0,,首先是安全 然后是可控
-Dialogue: 0,0:16:13.60,0:16:17.75,720P-sorc-hans-sans-medi-50,,0,0,0,,这些任务的天敌 高减速度和持续的热量
-Dialogue: 0,0:16:18.84,0:16:22.56,720P-sorc-hans-sans-medi-50,,0,0,0,,其方案是低减速度的浅再入
-Dialogue: 0,0:16:23.50,0:16:25.40,720P-sorc-hans-sans-medi-50,,0,0,0,,这些飞行器的设计是 钝体
-Dialogue: 0,0:16:25.81,0:16:29.57,720P-sorc-hans-sans-medi-50,,0,0,0,,然而有着可控能力 一个有机动性的升力体
-Dialogue: 0,0:16:30.84,0:16:35.09,720P-sorc-hans-sans-medi-50,,0,0,0,,长时间处于受热状态会导致重量的损失
-Dialogue: 0,0:16:35.53,0:16:38.62,720P-sorc-hans-sans-medi-50,,0,0,0,,因为复杂的热保护系统是必要的
-Dialogue: 0,0:16:41.51,0:16:43.80,720P-sorc-hans-sans-medi-50,,0,0,0,,总会有问题需要解决
-Dialogue: 0,0:16:44.44,0:16:48.09,720P-sorc-hans-sans-medi-50,,0,0,0,,到目前为止Parameter博士已经摸索出成功的折衷方案
-Dialogue: 0,0:16:48.46,0:16:51.60,720P-sorc-hans-sans-medi-50,,0,0,0,,但他仍然在苦思 仍在探索
-Dialogue: 0,0:16:52.36,0:16:57.16,720P-sorc-hans-sans-medi-50,,0,0,0,,他拨弄着图表和曲线 大胆地把它们抛入太空
-Dialogue: 0,0:16:57.70,0:17:01.41,720P-sorc-hans-sans-medi-50,,0,0,0,,但他知道 我们只是勉强把我们的小脚趾头送入宇宙
-Dialogue: 0,0:17:01.74,0:17:04.48,720P-sorc-hans-sans-medi-50,,0,0,0,,而他还在不断地寻求其上的改善
-Dialogue: 0,0:17:05.14,0:17:06.46,720P-sorc-hans-sans-medi-50,,0,0,0,,他必须抓住可能性
-Dialogue: 0,0:17:06.90,0:17:10.14,720P-sorc-hans-sans-medi-50,,0,0,0,,然而他也持续为那不可能的边缘工作着
-Dialogue: 0,0:17:11.38,0:17:15.73,720P-sorc-hans-sans-medi-50,,0,0,0,,他开辟了人类安全再入地球大气层的方式
-Dialogue: 0,0:17:16.40,0:17:18.53,720P-sorc-hans-sans-medi-50,,0,0,0,,太空旅行的终点
+Dialogue: 0,0:00:00.00,0:00:09.09,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,500)\blur4}美国空军培训影片
+Dialogue: 0,0:00:13.86,0:00:21.07,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,500)\blur4}美国空军出品
+Dialogue: 0,0:00:23.17,0:00:28.91,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,0)\blur4}穿透大气
+Dialogue: 0,0:00:29.24,0:00:36.62,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(0,1000)\blur4}再入的基本气动力学
+Dialogue: 0,0:02:24.97,0:02:29.20,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}Parameter意为参数
+Dialogue: 0,0:02:37.35,0:02:43.99,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\fs30}Adams, J. C. (2003) “Atmospheric Re-Entry” Arnold Engineering Development\NCentre, Tullahoma, Tennessee, USA\NLifting trajectory with time t as the variable of integration（以时间t为积分变量的再入弹道方程）
+Dialogue: 0,0:16:05.35,0:16:12.92,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}看起来像是双子座飞船
+Dialogue: 0,0:16:29.60,0:16:33.74,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\fad(0,500)\blur4}上半部从左至右：水星飞船，双子座飞船，阿波罗飞船
+Dialogue: 0,0:16:36.01,0:16:41.08,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}20分钟
+Dialogue: 0,0:17:45.21,0:18:03.49,720P-sorc-hans-sans-medi-50,,0,0,0,,{\fad(1000,500)\blur4}完了\N由航空摄影和制图服务，空军运输服务出品
