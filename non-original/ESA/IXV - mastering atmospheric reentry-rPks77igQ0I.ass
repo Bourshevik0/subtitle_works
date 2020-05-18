@@ -20,7 +20,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:04.74,0:00:09.98,720P-sorc-hans-sans-Bold-5s,,0,0,0,,{\blur4}注释
 Dialogue: 0,0:00:00.00,0:00:04.26,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}翻译，压制：旋火\N视频来源：youtu.be/rPks77igQ0I
 Dialogue: 0,0:00:27.02,0:00:32.02,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\a11\blur4}注：欧空局IXV项目经理
-Dialogue: 0,0:01:03.88,0:01:06.96,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}注：没听清
 Dialogue: 0,0:01:05.06,0:01:10.06,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\a11\blur4}注：泰雷兹阿莱尼亚宇航公司IXV项目经理
 Dialogue: 0,0:01:24.77,0:01:30.21,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4}注：Vega音译维加
 Dialogue: 0,0:01:50.28,0:01:51.81,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a11}注：欧空局IXV航电工程师
@@ -30,8 +29,8 @@ Dialogue: 0,0:00:10.65,0:00:13.07,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}La
 Dialogue: 0,0:00:13.89,0:00:16.14,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}Bringing it back is another.
 Dialogue: 0,0:00:16.79,0:00:21.79,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}Forces such as gravity and drag make atmospheric re-entry a very tricky business.
 Dialogue: 0,0:00:22.00,0:00:26.18,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}But mastering it can open a whole new world of opportunities for Europe.
-Dialogue: 0,0:00:26.20,0:00:30.10,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4\a6}Re-entry technology is as something that Europa has to master
-Dialogue: 0,0:00:30.15,0:00:35.48,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4\a6}to fulfill the ambition to bring up to completion robotic exploration mission.
+Dialogue: 0,0:00:26.20,0:00:30.10,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}Re-entry technology is as something that Europa has to master
+Dialogue: 0,0:00:30.15,0:00:35.48,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}to fulfill the ambition to bring up to completion robotic exploration mission.
 Dialogue: 0,0:00:35.48,0:00:39.35,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}So for a simple return from asteroids or from Mars
 Dialogue: 0,0:00:39.45,0:00:41.18,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}as well as for human spaceflight
 Dialogue: 0,0:00:42.12,0:00:44.63,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}if one day we'll have the ambition to
@@ -40,7 +39,8 @@ Dialogue: 0,0:00:50.06,0:00:52.53,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}Th
 Dialogue: 0,0:00:52.88,0:00:55.33,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}ESA's Intermediate eXperimental Vehicle.
 Dialogue: 0,0:00:55.87,0:00:58.91,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}A vehicle with the shape of a 5 meter long shuttle
 Dialogue: 0,0:00:58.91,0:01:03.88,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}weighing some two tons filled and covered with sensors to fulfill its task.
-Dialogue: 0,0:01:06.96,0:01:13.20,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4\a6}whose purpose is to experiment the technologies associated to the atmosphere re-entry
+Dialogue: 0,0:01:03.96,0:01:06.84,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}IXV is a technological demonstrator
+Dialogue: 0,0:01:06.96,0:01:13.20,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}whose purpose is to experiment the technologies associated to the atmosphere re-entry
 Dialogue: 0,0:01:13.24,0:01:14.61,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}which is a very challenging task.
 Dialogue: 0,0:01:14.96,0:01:17.79,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}I would say the most challenging tasks among the space business.
 Dialogue: 0,0:01:18.25,0:01:24.12,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}It is something that Europe has never done before with a lifting body with this shape.
@@ -50,8 +50,8 @@ Dialogue: 0,0:01:35.36,0:01:39.09,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}an
 Dialogue: 0,0:01:39.09,0:01:41.40,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}as it cruises to its final destination.
 Dialogue: 0,0:01:42.09,0:01:43.45,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}Launched from South America,
 Dialogue: 0,0:01:43.45,0:01:47.91,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}it will splash down in the middle of the Pacific Ocean less than two hours later.
-Dialogue: 0,0:01:50.28,0:01:51.81,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4\a6}The first objective is to measure
-Dialogue: 0,0:01:51.97,0:01:55.81,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4\a6}with the help of more than 300 pressure and temperature sensors,
+Dialogue: 0,0:01:50.28,0:01:51.81,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}The first objective is to measure
+Dialogue: 0,0:01:51.97,0:01:55.81,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\blur4\a6\fs30}with the help of more than 300 pressure and temperature sensors,
 Dialogue: 0,0:01:56.05,0:01:58.08,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}all the phenomenon that will allow us
 Dialogue: 0,0:01:58.20,0:02:02.98,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}to validate the aero thermo dynamical behavior of the vehicle in hypersonic flight.
 Dialogue: 0,0:02:06.30,0:02:07.37,720P-sorc-hans-sans-Bold-30,,0,0,0,,{\blur4}The second objective is
@@ -79,6 +79,7 @@ Dialogue: 0,0:00:50.06,0:00:52.53,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}�
 Dialogue: 0,0:00:52.88,0:00:55.33,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}欧空局的过渡试验飞行器
 Dialogue: 0,0:00:55.87,0:00:58.91,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}5米长的梭形载具
 Dialogue: 0,0:00:58.91,0:01:03.88,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}重约2吨 借助遍布表面与内部的传感器来完成其任务
+Dialogue: 0,0:01:03.96,0:01:06.84,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}IXV是一个技术演示
 Dialogue: 0,0:01:06.96,0:01:13.20,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}其目的是试验大气再入相关技术
 Dialogue: 0,0:01:13.24,0:01:14.61,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}这是一个非常具有挑战性的任务
 Dialogue: 0,0:01:14.96,0:01:17.79,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}是太空业务中最具挑战性的任务
@@ -90,7 +91,7 @@ Dialogue: 0,0:01:39.09,0:01:41.40,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}�
 Dialogue: 0,0:01:42.09,0:01:43.45,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}从南美洲发射
 Dialogue: 0,0:01:43.45,0:01:47.91,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}它会在不到两个小时后于太平洋中间溅落
 Dialogue: 0,0:01:50.28,0:01:51.81,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}第一个目标是测量
-Dialogue: 0,0:01:51.97,0:01:55.81,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}在超过300个的压力和温度传感器的帮助下 
+Dialogue: 0,0:01:51.97,0:01:55.81,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}在超过300个的压力和温度传感器的帮助下
 Dialogue: 0,0:01:56.05,0:01:58.08,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}这些现象会帮助我们
 Dialogue: 0,0:01:58.20,0:02:02.98,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}验证高超音速飞行过程中载具的空气动力学和热力学表现
 Dialogue: 0,0:02:06.30,0:02:07.37,720P-sorc-hans-sans-Bold-50,,0,0,0,,{\blur4}第二个目标是
