@@ -1,0 +1,2 @@
+ffmpeg -i "frameserver_ass.avs" -c:v libx264 -tune film -preset veryslow -crf 22 -x264-params qcomp=0.6:min-keyint=1:level=5.1:preset=veryslow:scenecut=60:aq-mode=2:aq-strength=0.7:ref=12:colormatrix=bt709 -an "output.mp4" -stats
+pause

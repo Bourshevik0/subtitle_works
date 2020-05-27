@@ -1,0 +1,1 @@
+ffmpeg -y -f lavfi -i "color=color=0x00000000:rate=60:size=1920x1080,format=rgba,subtitles=test.ass:alpha=1" -c:v png -t "00:00:05.000" dst.mov -stats

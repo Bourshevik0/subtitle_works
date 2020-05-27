@@ -1,0 +1,1 @@
+ffmpeg -y -f lavfi -i "color=color=0x008000:rate=30:size=1920x1080,format=yuv420p,subtitles=test.ass:alpha=1" -c:v libx264 -tune film -preset fast -crf 22 -x264-params qcomp=0.6:min-keyint=1:level=5.1:preset=veryslow:scenecut=60:aq-mode=2:aq-strength=0.7:ref=12:colormatrix=bt709 -t "00:00:05.000" dst.mp4 -stats
