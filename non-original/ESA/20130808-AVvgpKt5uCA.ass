@@ -9,8 +9,6 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Scroll Position: 181
-Active Line: 193
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,6 +18,9 @@ Style: 720P-sorc-hans-sans-medi-50,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:30.72,0:00:35.59,720P-sorc-hans-sans-Bold-40,,0,0,0,,注释
+Dialogue: 0,0:00:30.72,0:00:38.72,720P-sorc-hans-sans-Bold-40,,0,0,0,,{\a7\fad(500,500)\blur4\move(1290,10,1270,10,0,500)}字幕翻译/压制：NeXT-X6，旋火\N视频来源：youtu.be/AVvgpKt5uCA\N原视频发布日期：20130808\N原作者名：European Space Agency, ESA
+Comment: 0,0:00:30.72,0:00:35.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,字幕
 Dialogue: 0,0:00:30.72,0:00:35.59,720P-sorc-hans-sans-Bold-33,,0,0,0,,The Baikonour Cosmodrome located in the middle of the deserted steppes of Kazakhstan
 Dialogue: 0,0:00:30.72,0:00:35.59,720P-sorc-hans-sans-medi-50,,0,0,0,,拜科努尔航天发射场位于哈萨克斯坦荒无人烟的大草原中央
 Dialogue: 0,0:00:35.88,0:00:40.70,720P-sorc-hans-sans-Bold-33,,0,0,0,,is the Russian space launch facility used to start the journey towards the International Space Station.
@@ -57,7 +58,7 @@ Dialogue: 0,0:02:23.02,0:02:25.19,720P-sorc-hans-sans-medi-50,,0,0,0,,直径最�
 Dialogue: 0,0:02:25.80,0:02:28.92,720P-sorc-hans-sans-Bold-33,,0,0,0,,The total mass is about 310 tons.
 Dialogue: 0,0:02:25.80,0:02:28.92,720P-sorc-hans-sans-medi-50,,0,0,0,,总质量约310吨
 Dialogue: 0,0:02:29.24,0:02:32.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,It consists of 3 parts called stages.
-Dialogue: 0,0:02:29.24,0:02:32.04,720P-sorc-hans-sans-medi-50,,0,0,0,,它由3个部分组成 这些叫做火箭的级
+Dialogue: 0,0:02:29.24,0:02:32.04,720P-sorc-hans-sans-medi-50,,0,0,0,,它由3个部分组成 这些叫做火箭的分级
 Dialogue: 0,0:02:32.35,0:02:37.63,720P-sorc-hans-sans-Bold-33,,0,0,0,,A mixture of kerosene and liquid oxygen is used in order to generate the required propulsion.
 Dialogue: 0,0:02:32.35,0:02:37.63,720P-sorc-hans-sans-medi-50,,0,0,0,,它使用煤油和液氧的混合物 以产生所需的推进力
 Dialogue: 0,0:02:38.52,0:02:41.91,720P-sorc-hans-sans-Bold-33,,0,0,0,,On top of the rocket stands the Soyuz spacecraft itself,
@@ -77,7 +78,7 @@ Dialogue: 0,0:03:06.62,0:03:08.96,720P-sorc-hans-sans-medi-50,,0,0,0,,而火箭�
 Dialogue: 0,0:03:12.61,0:03:17.01,720P-sorc-hans-sans-Bold-33,,0,0,0,,Two and a half hours before lift-off, the crew finally enter the spacecraft.
 Dialogue: 0,0:03:12.61,0:03:17.01,720P-sorc-hans-sans-medi-50,,0,0,0,,起飞前两个半小时 宇航员进入飞船
 Dialogue: 0,0:03:17.14,0:03:21.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,And start preparing it for the launch in collaboration with the ground controllers.
-Dialogue: 0,0:03:17.14,0:03:21.52,720P-sorc-hans-sans-medi-50,,0,0,0,,并开始准备配合地面控制人员发射
+Dialogue: 0,0:03:17.14,0:03:21.52,720P-sorc-hans-sans-medi-50,,0,0,0,,并配合地面控制人员 开始准备发射
 Dialogue: 0,0:03:22.00,0:03:23.83,720P-sorc-hans-sans-Bold-33,,0,0,0,,They are now set for the launch.
 Dialogue: 0,0:03:22.00,0:03:23.83,720P-sorc-hans-sans-medi-50,,0,0,0,,他们现在准备好发射了
 Dialogue: 0,0:03:24.21,0:03:27.98,720P-sorc-hans-sans-Bold-33,,0,0,0,,The cosmonauts are now sitting on top of 300 tons of propellant.
@@ -85,7 +86,7 @@ Dialogue: 0,0:03:24.21,0:03:27.98,720P-sorc-hans-sans-medi-50,,0,0,0,,现在宇�
 Dialogue: 0,0:03:28.44,0:03:30.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,What happens if anything goes wrong?
 Dialogue: 0,0:03:28.44,0:03:30.68,720P-sorc-hans-sans-medi-50,,0,0,0,,如果出现问题 会发生什么？
 Dialogue: 0,0:03:33.32,0:03:37.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,The Soyuz rocket is equipped with a robust and powerful system
-Dialogue: 0,0:03:33.32,0:03:37.13,720P-sorc-hans-sans-medi-50,,0,0,0,,联盟号火箭配备了一个鲁棒且强大的系统
+Dialogue: 0,0:03:33.32,0:03:37.13,720P-sorc-hans-sans-medi-50,,0,0,0,,联盟号火箭配备了一个强大健壮的系统
 Dialogue: 0,0:03:37.14,0:03:42.77,720P-sorc-hans-sans-Bold-33,,0,0,0,,designed to save the crew in case the rocket were to start burning or explode on the launch pad.
 Dialogue: 0,0:03:37.14,0:03:42.77,720P-sorc-hans-sans-medi-50,,0,0,0,,用于在发射台上的火箭开始燃烧或爆炸时拯救宇航员
 Dialogue: 0,0:03:43.31,0:03:45.21,720P-sorc-hans-sans-Bold-33,,0,0,0,,This is the launch escape tower.
@@ -103,7 +104,7 @@ Dialogue: 0,0:04:02.77,0:04:05.12,720P-sorc-hans-sans-medi-50,,0,0,0,,该机制�
 Dialogue: 0,0:04:05.20,0:04:07.66,720P-sorc-hans-sans-Bold-33,,0,0,0,,or upon command from the ground controllers.
 Dialogue: 0,0:04:05.20,0:04:07.66,720P-sorc-hans-sans-medi-50,,0,0,0,,或根据地面控制命令触发
 Dialogue: 0,0:04:08.15,0:04:13.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,On only one occasion in the history of Russian cosmonautics was this escape system put to use.
-Dialogue: 0,0:04:08.15,0:04:13.96,720P-sorc-hans-sans-medi-50,,0,0,0,,在俄罗斯宇航史上逃生系统唯有一次投入使用
+Dialogue: 0,0:04:08.15,0:04:13.96,720P-sorc-hans-sans-medi-50,,0,0,0,,在俄罗斯航天史上 （逃逸塔）这个逃生系统唯有一次被投入使用
 Dialogue: 0,0:04:14.45,0:04:22.17,720P-sorc-hans-sans-Bold-33,,0,0,0,,In September 1983, while the rocket was ready to lift-off to bring two Soviet cosmonauts to the Salyut 7 station,
 Dialogue: 0,0:04:14.45,0:04:22.17,720P-sorc-hans-sans-medi-50,,0,0,0,,1983年9月 火箭正准备发射两位苏联宇航员到礼炮7号空间站
 Dialogue: 0,0:04:22.51,0:04:30.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,a valve failed to close just 90 seconds before final ignition causing kerosene to spill onto the pad and ignite.
@@ -131,15 +132,15 @@ Dialogue: 0,0:05:18.17,0:05:22.57,720P-sorc-hans-sans-medi-50,,0,0,0,,这一事�
 Dialogue: 0,0:05:24.91,0:05:27.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,Let's go through the launch sequence now.
 Dialogue: 0,0:05:24.91,0:05:27.30,720P-sorc-hans-sans-medi-50,,0,0,0,,现在让我们看看发射程序
 Dialogue: 0,0:05:28.56,0:05:31.44,720P-sorc-hans-sans-Bold-33,,0,0,0,, At T-0 We have lift-off.
-Dialogue: 0,0:05:28.56,0:05:31.44,720P-sorc-hans-sans-medi-50,,0,0,0,, 在T-0时我们有起飞
+Dialogue: 0,0:05:28.56,0:05:31.44,720P-sorc-hans-sans-medi-50,,0,0,0,, 在倒计时为0时 火箭起飞
 Dialogue: 0,0:05:46.48,0:05:51.69,720P-sorc-hans-sans-Bold-33,,0,0,0,,Full thrust is provided by the 4 side boosters and the central block of the rocket.
-Dialogue: 0,0:05:46.48,0:05:51.69,720P-sorc-hans-sans-medi-50,,0,0,0,,由4个侧助推器和火箭的中央芯级提供最大推力
+Dialogue: 0,0:05:46.48,0:05:51.69,720P-sorc-hans-sans-medi-50,,0,0,0,,全部推力由4个侧助推器和火箭的芯级提供
 Dialogue: 0,0:05:52.52,0:05:58.96,720P-sorc-hans-sans-Bold-33,,0,0,0,,The core block is ignited at the same time as the 4 boosters to provide an additional thrust.
 Dialogue: 0,0:05:52.52,0:05:58.96,720P-sorc-hans-sans-medi-50,,0,0,0,,芯级点火 同时4个助推器提供额外的推力
 Dialogue: 0,0:06:00.01,0:06:03.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,The rocket then initiates a manoeuvre called the pitch maneuver
 Dialogue: 0,0:06:00.01,0:06:03.61,720P-sorc-hans-sans-medi-50,,0,0,0,,然后火箭开始执行俯仰机动
 Dialogue: 0,0:06:03.67,0:06:07.13,720P-sorc-hans-sans-Bold-33,,0,0,0,,to get the proper orientation towards the desired orbit.
-Dialogue: 0,0:06:03.67,0:06:07.13,720P-sorc-hans-sans-medi-50,,0,0,0,,得到朝预定轨道的正确方向
+Dialogue: 0,0:06:03.67,0:06:07.13,720P-sorc-hans-sans-medi-50,,0,0,0,,得到朝向预定轨道的正确方向
 Dialogue: 0,0:06:08.20,0:06:13.34,720P-sorc-hans-sans-Bold-33,,0,0,0,,The acceleration on the crew members starts to slowly increase to 1.5 g.
 Dialogue: 0,0:06:08.20,0:06:13.34,720P-sorc-hans-sans-medi-50,,0,0,0,,在宇航员身上的加速度开始慢慢增加至1.5g
 Dialogue: 0,0:06:14.25,0:06:24.04,720P-sorc-hans-sans-Bold-33,,0,0,0,,45 seconds later, the rocket has already reached an altitude of 11 km and a velocity of 1,640 km/h.
@@ -150,18 +151,20 @@ Dialogue: 0,0:06:34.00,0:06:37.61,720P-sorc-hans-sans-Bold-33,,0,0,0,,The cosmon
 Dialogue: 0,0:06:34.00,0:06:37.61,720P-sorc-hans-sans-medi-50,,0,0,0,,宇航员会感受到两倍于地面上的正常体重
 Dialogue: 0,0:06:45.16,0:06:51.68,720P-sorc-hans-sans-Bold-33,,0,0,0,,Looking at the projection of the track on the ground, we can observe that the rocket has already crossed 16 km.
 Dialogue: 0,0:06:45.16,0:06:51.68,720P-sorc-hans-sans-medi-50,,0,0,0,,看着地面上的轨迹投影 我们可以观察到 火箭已经跨越16公里
+Comment: 0,0:06:53.02,0:06:58.26,720P-sorc-hans-sans-medi-50,,0,0,0,,特殊
+Dialogue: 0,0:06:53.02,0:06:58.26,720P-sorc-hans-sans-medi-50,,0,0,0,,{\pos(933,640)\bord0.1\blur4\fad(500,1000)\fn思源宋体 SemiBold}快进
 Dialogue: 0,0:07:00.15,0:07:02.36,720P-sorc-hans-sans-Bold-33,,0,0,0,,After almost two minutes into the flight,
 Dialogue: 0,0:07:00.15,0:07:02.36,720P-sorc-hans-sans-medi-50,,0,0,0,,飞行接近两分钟后
 Dialogue: 0,0:07:02.75,0:07:05.84,720P-sorc-hans-sans-Bold-33,,0,0,0,,the rocket is at an altitude of more than 40 km,
 Dialogue: 0,0:07:02.75,0:07:05.84,720P-sorc-hans-sans-medi-50,,0,0,0,,火箭位于超过40公里的高度
 Dialogue: 0,0:07:05.94,0:07:08.89,720P-sorc-hans-sans-Bold-33,,0,0,0,,high enough to get rid of the launch escape tower.
-Dialogue: 0,0:07:05.94,0:07:08.89,720P-sorc-hans-sans-medi-50,,0,0,0,,高到足以摆脱发射逃逸塔
+Dialogue: 0,0:07:05.94,0:07:08.89,720P-sorc-hans-sans-medi-50,,0,0,0,,高到足以丢弃发射逃逸塔
 Dialogue: 0,0:07:09.35,0:07:13.47,720P-sorc-hans-sans-Bold-33,,0,0,0,,A few seconds later, the four strap-on boosters stop firing,
 Dialogue: 0,0:07:09.35,0:07:13.47,720P-sorc-hans-sans-medi-50,,0,0,0,,几秒钟后 四个捆绑式助推器停止工作
 Dialogue: 0,0:07:13.54,0:07:16.08,720P-sorc-hans-sans-Bold-33,,0,0,0,,having consumed all the propellant they contained.
 Dialogue: 0,0:07:13.54,0:07:16.08,720P-sorc-hans-sans-medi-50,,0,0,0,,它们已经消耗了所有的推进剂
 Dialogue: 0,0:07:17.00,0:07:20.25,720P-sorc-hans-sans-Bold-33,,0,0,0,,Being of no use now they are jettisoned from the main core
-Dialogue: 0,0:07:17.00,0:07:20.25,720P-sorc-hans-sans-medi-50,,0,0,0,,现在没用的它们被抛弃离开芯级
+Dialogue: 0,0:07:17.00,0:07:20.25,720P-sorc-hans-sans-medi-50,,0,0,0,,现在没用的它们被抛弃 离开芯级
 Dialogue: 0,0:07:20.44,0:07:24.28,720P-sorc-hans-sans-Bold-33,,0,0,0,,which continues to fire and is now called the second stage.
 Dialogue: 0,0:07:20.44,0:07:24.28,720P-sorc-hans-sans-medi-50,,0,0,0,,而芯级将继续工作 现在被称为第二级
 Dialogue: 0,0:07:25.79,0:07:31.52,720P-sorc-hans-sans-Bold-33,,0,0,0,,In case of a severe malfunction at this point, the spacecraft can still separate from the rest of the rocket
@@ -190,16 +193,17 @@ Dialogue: 0,0:08:26.81,0:08:31.30,720P-sorc-hans-sans-Bold-33,,0,0,0,,The light 
 Dialogue: 0,0:08:26.81,0:08:31.30,720P-sorc-hans-sans-medi-50,,0,0,0,,现在来自外部的光线可以通过小窗口进入载人舱
 Dialogue: 0,0:08:45.82,0:08:48.94,720P-sorc-hans-sans-Bold-33,,0,0,0,,It's now been approximately 5 minutes since lift-off.
 Dialogue: 0,0:08:45.82,0:08:48.94,720P-sorc-hans-sans-medi-50,,0,0,0,,现在距离起飞已经约5分钟了
+Dialogue: 0,0:08:46.98,0:09:19.38,720P-sorc-hans-sans-medi-50,,0,0,0,,{\bord0.1\blur4\fad(500,1000)\fn思源宋体 SemiBold\pos(965,640)}慢动作
 Dialogue: 0,0:08:49.38,0:08:54.20,720P-sorc-hans-sans-Bold-33,,0,0,0,,Two seconds before the extinction of the second stage the third stage is ignited.
 Dialogue: 0,0:08:49.38,0:08:54.20,720P-sorc-hans-sans-medi-50,,0,0,0,,第二级关闭前两秒钟第三级被点燃
 Dialogue: 0,0:08:54.84,0:08:58.18,720P-sorc-hans-sans-Bold-33,,0,0,0,,Then the second stage separates from the rest of the rocket.
 Dialogue: 0,0:08:54.84,0:08:58.18,720P-sorc-hans-sans-medi-50,,0,0,0,,然后第二级从火箭的剩余部分分开
 Dialogue: 0,0:08:58.51,0:09:02.72,720P-sorc-hans-sans-Bold-33,,0,0,0,,The engine of the third stage will continue firing for the next 4 minutes.
-Dialogue: 0,0:08:58.51,0:09:02.72,720P-sorc-hans-sans-medi-50,,0,0,0,,第三级引擎将在接下来的4分钟继续工作
+Dialogue: 0,0:08:58.51,0:09:02.72,720P-sorc-hans-sans-medi-50,,0,0,0,,第三级引擎\N将在接下来的4分钟继续工作
 Dialogue: 0,0:09:03.73,0:09:09.06,720P-sorc-hans-sans-Bold-33,,0,0,0,,As with the 4 boosters, the second stage follows a safe trajectory down to Earth.
-Dialogue: 0,0:09:03.73,0:09:09.06,720P-sorc-hans-sans-medi-50,,0,0,0,,同之前4个助推器一样 第二级沿着安全的弹道落回地球
+Dialogue: 0,0:09:03.73,0:09:09.06,720P-sorc-hans-sans-medi-50,,0,0,0,,同之前4个助推器一样 \N第二级沿着安全的弹道落回地球
 Dialogue: 0,0:09:09.57,0:09:19.55,720P-sorc-hans-sans-Bold-33,,0,0,0,,The rocket is already at an altitude of 170 km, and travelling at a velocity of 13,250 km/h.
-Dialogue: 0,0:09:09.57,0:09:19.55,720P-sorc-hans-sans-medi-50,,0,0,0,,火箭已经在170km的高度 并以13250km/h的速度飞行
+Dialogue: 0,0:09:09.57,0:09:19.55,720P-sorc-hans-sans-medi-50,,0,0,0,,火箭已经在170km的高度 \N并以13250km/h的速度飞行
 Dialogue: 0,0:09:21.59,0:09:27.09,720P-sorc-hans-sans-Bold-33,,0,0,0,,Then the circular section that links the second stage with the third stage is jettisoned
 Dialogue: 0,0:09:21.59,0:09:27.09,720P-sorc-hans-sans-medi-50,,0,0,0,,然后连接第三级与第二级的环形段(级间段)被抛弃
 Dialogue: 0,0:09:27.14,0:09:34.14,720P-sorc-hans-sans-Bold-33,,0,0,0,,while the rocket goes on to reach the targeted orbit around 220 km above the surface of the Earth.
