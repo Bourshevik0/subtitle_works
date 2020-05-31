@@ -12,526 +12,560 @@ PlayResY: 1080
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-60,思源黑体 Medium,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
+Style: 1080P-src-hans-sans-medi-7e,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,3,134
+Style: 1080P-src-hans-sans-medi-esa,思源黑体 Medium,75,&HFFFFFFFF,&HFF000000,&H00FFFFFF,&HFF000000,0,0,0,0,100,100,0,0,1,65,0,2,412,10,10,134
+Style: 1080P-src-hans-sans-medi-5e,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,8,10,10,10,134
 Style: 1080P-src-hans-sans-medi-75,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-medi-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.62,0:00:19.72,1080P-src-hans-sans-Bold-50,,0,0,0,,I am Alexander Gerst an astronaut of the European Space Agency.
-Dialogue: 0,0:00:19.72,0:00:23.61,1080P-src-hans-sans-Bold-50,,0,0,0,,I am talking to you from the International Space Station.
-Dialogue: 0,0:00:23.61,0:00:26.03,1080P-src-hans-sans-Bold-50,,0,0,0,,My journey here aboard a Soyuz spacecraft
-Dialogue: 0,0:00:26.17,0:00:31.96,1080P-src-hans-sans-Bold-50,,0,0,0,,from lift-off in Kazakhstan to the time we docked just took over about 5 hours.
-Dialogue: 0,0:00:32.61,0:00:38.32,1080P-src-hans-sans-Bold-50,,0,0,0,,The video you are about to see contains some unique footage taken inside the capsule while it is in orbit
-Dialogue: 0,0:00:38.36,0:00:42.73,1080P-src-hans-sans-Bold-50,,0,0,0,,and explains how the Soyuz safely reaches orbit and docks to the Space Station.
-Dialogue: 0,0:00:43.40,0:00:45.70,1080P-src-hans-sans-Bold-50,,0,0,0,,Many other astronauts have taken the same journey
-Dialogue: 0,0:00:45.72,0:00:50.00,1080P-src-hans-sans-Bold-50,,0,0,0,,and some of them will also share their experience with you in this video.
-Dialogue: 0,0:00:50.00,0:00:51.36,1080P-src-hans-sans-Bold-50,,0,0,0,,Have fun watching it.
-Dialogue: 0,0:00:57.21,0:01:05.93,1080P-src-hans-sans-Bold-50,,0,0,0,,Nine minutes ago, a Soyuz spacecraft blasted into orbit from Baikonur in Kazakhstan.
-Dialogue: 0,0:01:05.93,0:01:10.13,1080P-src-hans-sans-Bold-50,,0,0,0,,It is now speeding around the Earth thirty times faster than a jumbo jet.
-Dialogue: 0,0:01:10.13,0:01:13.05,1080P-src-hans-sans-Bold-50,,0,0,0,,It has a single purpose: to catch up with,
-Dialogue: 0,0:01:13.05,0:01:22.19,1080P-src-hans-sans-Bold-50,,0,0,0,,rendezvous, and dock with the International Space Station located somewhere 400 km above the ground.
-Dialogue: 0,0:01:22.19,0:01:25.79,1080P-src-hans-sans-Bold-50,,0,0,0,,The astronauts just went through the last phase of the launch sequence
-Dialogue: 0,0:01:25.90,0:01:28.82,1080P-src-hans-sans-Bold-50,,0,0,0,,the separation of the Soyuz spacecraft from the rocket.
-Dialogue: 0,0:01:31.32,0:01:37.24,1080P-src-hans-sans-Bold-50,,0,0,0,,The finishing of the engine of the shut-down of the engine is pretty strong.
-Dialogue: 0,0:01:41.76,0:01:44.28,1080P-src-hans-sans-Bold-50,,0,0,0,,And immediately afterwards, of course, you float.
-Dialogue: 0,0:01:44.28,0:01:49.34,1080P-src-hans-sans-Bold-50,,0,0,0,,It's really a very nice feeling that you know yes, we are in space, we had a successful launch,
-Dialogue: 0,0:01:49.34,0:01:51.13,1080P-src-hans-sans-Bold-50,,0,0,0,,now we are on the way to the Space Station.
-Dialogue: 0,0:01:51.49,0:01:52.86,1080P-src-hans-sans-Bold-50,,0,0,0,,You can look outside the window,
-Dialogue: 0,0:01:52.96,0:01:56.07,1080P-src-hans-sans-Bold-50,,0,0,0,,you see this magnificent Earth for the first time from above.
-Dialogue: 0,0:01:56.14,0:01:57.36,1080P-src-hans-sans-Bold-50,,0,0,0,,It's really a great feeling.
-Dialogue: 0,0:01:57.58,0:02:05.71,1080P-src-hans-sans-Bold-50,,0,0,0,,And then just the absolute beauty of the sun coming up really quickly, illuminating, bursting into flame.
-Dialogue: 0,0:02:07.31,0:02:12.95,1080P-src-hans-sans-Bold-50,,0,0,0,,Now in their first orbits around Earth at an insertion altitude of about 220 km,
-Dialogue: 0,0:02:13.07,0:02:16.95,1080P-src-hans-sans-Bold-50,,0,0,0,,the three astronauts in the Soyuz certainly have a wonderful view.
-Dialogue: 0,0:02:19.83,0:02:20.97,1080P-src-hans-sans-Bold-50,,0,0,0,,But there is work to be done,
-Dialogue: 0,0:02:21.19,0:02:25.98,1080P-src-hans-sans-Bold-50,,0,0,0,,as they are still hundreds of kilometres away from the ISS -- their final destination.
-Dialogue: 0,0:02:31.10,0:02:34.68,1080P-src-hans-sans-Bold-50,,0,0,0,,The International Space Station began life in 1998
-Dialogue: 0,0:02:34.70,0:02:38.61,1080P-src-hans-sans-Bold-50,,0,0,0,,and has been orbiting Earth about once every 90 minutes ever since.
-Dialogue: 0,0:02:40.55,0:02:44.08,1080P-src-hans-sans-Bold-50,,0,0,0,,The orbital plane of the ISS is fairly constant,
-Dialogue: 0,0:02:44.08,0:02:47.65,1080P-src-hans-sans-Bold-50,,0,0,0,,while the Earth is always rotating.
-Dialogue: 0,0:02:47.65,0:02:51.00,1080P-src-hans-sans-Bold-50,,0,0,0,,Projecting the orbit of the ISS onto a 2D map,
-Dialogue: 0,0:02:55.80,0:03:01.79,1080P-src-hans-sans-Bold-50,,0,0,0,,The Mission Control Centres in Moscow and Houston constantly monitor the position of the ISS,
-Dialogue: 0,0:03:01.79,0:03:08.34,1080P-src-hans-sans-Bold-50,,0,0,0,,and can predict its expected location in the orbit for any given time in the future.
-Dialogue: 0,0:03:08.34,0:03:13.73,1080P-src-hans-sans-Bold-50,,0,0,0,,This is important for determining when the Soyuz spacecraft launches.
-Dialogue: 0,0:03:13.73,0:03:17.59,1080P-src-hans-sans-Bold-50,,0,0,0,,While it is technically possible to launch the Soyuz rocket at any time,
-Dialogue: 0,0:03:17.59,0:03:24.44,1080P-src-hans-sans-Bold-50,,0,0,0,,it's most efficient to do so shortly after the ISS orbit passes over the Baikonur Cosmodrome in Kazakhstan.
-Dialogue: 0,0:03:25.66,0:03:29.31,1080P-src-hans-sans-Bold-50,,0,0,0,,This shortens the amount of time to rendezvous and dock with the Station
-Dialogue: 0,0:03:29.39,0:03:32.40,1080P-src-hans-sans-Bold-50,,0,0,0,,from about two days to only six hours.
-Dialogue: 0,0:03:32.85,0:03:36.98,1080P-src-hans-sans-Bold-50,,0,0,0,,This short rendezvous trajectory has been implemented since 2013.
-Dialogue: 0,0:03:37.59,0:03:41.40,1080P-src-hans-sans-Bold-50,,0,0,0,,However, if the Soyuz rocket misses the necessary launch window
-Dialogue: 0,0:03:41.56,0:03:44.94,1080P-src-hans-sans-Bold-50,,0,0,0,,or any of the upcoming engine burns do not occur as planned,
-Dialogue: 0,0:03:45.28,0:03:50.93,1080P-src-hans-sans-Bold-50,,0,0,0,,the spacecraft has enough extra fuel to revert to a two-day long rendezvous.
-Dialogue: 0,0:03:50.93,0:03:55.90,1080P-src-hans-sans-Bold-50,,0,0,0,,This happened in March of 2014 because of an attitude control problem,
-Dialogue: 0,0:03:55.90,0:04:02.83,1080P-src-hans-sans-Bold-50,,0,0,0,,and thus, the rendezvous was replanned to the formerly used long trajectory.
-Dialogue: 0,0:04:02.83,0:04:05.76,1080P-src-hans-sans-Bold-50,,0,0,0,,You take into consideration that there are some risks,
-Dialogue: 0,0:04:05.76,0:04:07.36,1080P-src-hans-sans-Bold-50,,0,0,0,,some are worse than others,
-Dialogue: 0,0:04:08.21,0:04:13.23,1080P-src-hans-sans-Bold-50,,0,0,0,,including the possibility of transitioning from a very short docking to a long docking,
-Dialogue: 0,0:04:13.36,0:04:17.41,1080P-src-hans-sans-Bold-50,,0,0,0,,which was the standard until a year ago.
-Dialogue: 0,0:04:17.41,0:04:21.03,1080P-src-hans-sans-Bold-50,,0,0,0,,We know of the possibility; it's something that we are trained for.
-Dialogue: 0,0:04:21.03,0:04:24.64,1080P-src-hans-sans-Bold-50,,0,0,0,,We know that the spacecraft has everything that we need for those two days,
-Dialogue: 0,0:04:25.02,0:04:27.64,1080P-src-hans-sans-Bold-50,,0,0,0,,and we know how to react.
-Dialogue: 0,0:04:28.93,0:04:30.08,1080P-src-hans-sans-Bold-50,,0,0,0,,Rendezvous is defined
-Dialogue: 0,0:04:30.08,0:04:35.00,1080P-src-hans-sans-Bold-50,,0,0,0,,as the sequence of manoeuvres governing the approach of two space vehicles to one another.
-Dialogue: 0,0:04:35.46,0:04:41.06,1080P-src-hans-sans-Bold-50,,0,0,0,,In most cases one of them is the chaser, performing the manoeuvres, in this case, the Soyuz,
-Dialogue: 0,0:04:41.06,0:04:48.40,1080P-src-hans-sans-Bold-50,,0,0,0,,while the second is a passive target vehicle, in this case, the International Space Station.
-Dialogue: 0,0:04:48.40,0:04:55.41,1080P-src-hans-sans-Bold-50,,0,0,0,,Ideally, both vehicles meet up safely at an exact preselected point in space and time.
-Dialogue: 0,0:04:55.41,0:04:59.32,1080P-src-hans-sans-Bold-50,,0,0,0,,But how does the Soyuz achieve this?
-Dialogue: 0,0:04:59.32,0:05:03.24,1080P-src-hans-sans-Bold-50,,0,0,0,,Well, the Soyuz has to climb from its initial insertion altitude
-Dialogue: 0,0:05:03.24,0:05:10.36,1080P-src-hans-sans-Bold-50,,0,0,0,,up to the same altitude of the Station, and then join and stay on this orbit.
-Dialogue: 0,0:05:10.36,0:05:12.37,1080P-src-hans-sans-Bold-50,,0,0,0,,It sounds like a simple enough task,
-Dialogue: 0,0:05:12.37,0:05:17.95,1080P-src-hans-sans-Bold-50,,0,0,0,,but it cannot be done in one single manoeuvre starting from the insertion altitude.
-Dialogue: 0,0:05:17.95,0:05:22.74,1080P-src-hans-sans-Bold-50,,0,0,0,,Calculations for the final docking are based on a precise initial Soyuz altitude
-Dialogue: 0,0:05:22.83,0:05:27.70,1080P-src-hans-sans-Bold-50,,0,0,0,,and unfortunately, the exact insertion orbit altitude is not known in advance
-Dialogue: 0,0:05:27.87,0:05:31.08,1080P-src-hans-sans-Bold-50,,0,0,0,,because of some unpredictability in the rocket launch.
-Dialogue: 0,0:05:31.08,0:05:36.88,1080P-src-hans-sans-Bold-50,,0,0,0,,Therefore, two manoeuvres are used with an intermediate phasing orbit in between.
-Dialogue: 0,0:05:36.88,0:05:41.02,1080P-src-hans-sans-Bold-50,,0,0,0,,The phasing orbit is the basis for the final docking calculations.
-Dialogue: 0,0:05:41.02,0:05:45.65,1080P-src-hans-sans-Bold-50,,0,0,0,,It is reached using the first manoeuvre, called a Hohmann transfer,
-Dialogue: 0,0:05:45.65,0:05:50.96,1080P-src-hans-sans-Bold-50,,0,0,0,,named after a German scientist from the beginning of the 20th century.
-Dialogue: 0,0:05:50.96,0:05:55.27,1080P-src-hans-sans-Bold-50,,0,0,0,,During the Hohmann transfer, the Soyuz has to use its engines twice.
-Dialogue: 0,0:05:56.98,0:06:01.47,1080P-src-hans-sans-Bold-50,,0,0,0,,The first time is to leave its current insertion orbit shortly after launch
-Dialogue: 0,0:06:01.73,0:06:03.73,1080P-src-hans-sans-Bold-50,,0,0,0,,and transfer up to the phasing orbit.
-Dialogue: 0,0:06:04.01,0:06:10.48,1080P-src-hans-sans-Bold-50,,0,0,0,,The second time is to get the vehicle traveling at the right speed to stay on that orbit.
-Dialogue: 0,0:06:10.48,0:06:18.20,1080P-src-hans-sans-Bold-50,,0,0,0,,The phasing orbit is lower than the ISS orbit by about 100 km and it serves a very specific purpose.
-Dialogue: 0,0:06:18.20,0:06:26.19,1080P-src-hans-sans-Bold-50,,0,0,0,,It decreases the phasing angle, or the angle between the two spacecraft in their respective orbits.
-Dialogue: 0,0:06:26.19,0:06:30.85,1080P-src-hans-sans-Bold-50,,0,0,0,,Here we see the Soyuz orbiting in the phasing orbit, depicted in yellow,
-Dialogue: 0,0:06:30.85,0:06:36.00,1080P-src-hans-sans-Bold-50,,0,0,0,,while the ISS is orbiting in a higher orbit, depicted in green.
-Dialogue: 0,0:06:36.00,0:06:41.80,1080P-src-hans-sans-Bold-50,,0,0,0,,The third red orbit is the insertion orbit the Soyuz has already left.
-Dialogue: 0,0:06:41.80,0:06:46.61,1080P-src-hans-sans-Bold-50,,0,0,0,,Because the Soyuz is on a lower orbit it will travel faster than the Station.
-Dialogue: 0,0:06:46.61,0:06:53.43,1080P-src-hans-sans-Bold-50,,0,0,0,,Therefore, the Soyuz uses this phasing orbit to catch up with the ISS.
-Dialogue: 0,0:06:53.43,0:06:57.54,1080P-src-hans-sans-Bold-50,,0,0,0,,Depending on whether the long or short rendezvous approach is being used,
-Dialogue: 0,0:06:57.54,0:07:03.33,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soyuz will remain in this phasing orbit for close to two days, or just a few hours,
-Dialogue: 0,0:07:03.33,0:07:09.65,1080P-src-hans-sans-Bold-50,,0,0,0,,however long it takes to reach the desired phasing angle.
-Dialogue: 0,0:07:09.65,0:07:14.52,1080P-src-hans-sans-Bold-50,,0,0,0,,Meanwhile, the crew haven't just been enjoying the views and weightlessness,
-Dialogue: 0,0:07:14.52,0:07:19.17,1080P-src-hans-sans-Bold-50,,0,0,0,,they've been busy with leak checks and making sure systems are performing nominally.
-Dialogue: 0,0:07:20.17,0:07:23.36,1080P-src-hans-sans-Bold-50,,0,0,0,,Then they issue the command for docking probe extension
-Dialogue: 0,0:07:23.68,0:07:26.55,1080P-src-hans-sans-Bold-50,,0,0,0,,in advanced preparation for the final docking sequence.
-Dialogue: 0,0:07:28.78,0:07:31.89,1080P-src-hans-sans-Bold-50,,0,0,0,,As soon as the pressure integrity of the vehicle is confirmed,
-Dialogue: 0,0:07:32.10,0:07:36.53,1080P-src-hans-sans-Bold-50,,0,0,0,,the Mission Control Centre gives the go-ahead for the crew to loosen their seatbelts,
-Dialogue: 0,0:07:36.53,0:07:38.99,1080P-src-hans-sans-Bold-50,,0,0,0,,open their helmets, and take off their gloves.
-Dialogue: 0,0:07:42.56,0:07:44.35,1080P-src-hans-sans-Bold-50,,0,0,0,,Once they reach the phasing orbit,
-Dialogue: 0,0:07:44.35,0:07:47.48,1080P-src-hans-sans-Bold-50,,0,0,0,,the crew finally have some well-deserved downtime,
-Dialogue: 0,0:07:47.48,0:07:51.14,1080P-src-hans-sans-Bold-50,,0,0,0,,especially those completing the two-day long rendezvous trajectory.
-Dialogue: 0,0:07:51.99,0:07:54.85,1080P-src-hans-sans-Bold-50,,0,0,0,,There are what we call five deaf orbits.
-Dialogue: 0,0:07:54.85,0:07:59.19,1080P-src-hans-sans-Bold-50,,0,0,0,,It's five orbits in which the crew cannot have contact with the ground
-Dialogue: 0,0:07:59.19,0:08:04.16,1080P-src-hans-sans-Bold-50,,0,0,0,,because the orbit of the Soyuz is not passing over Russia,
-Dialogue: 0,0:08:04.20,0:08:07.65,1080P-src-hans-sans-Bold-50,,0,0,0,,and you only have contact with the ground when you're passing over Russia with the Soyuz.
-Dialogue: 0,0:08:07.79,0:08:09.62,1080P-src-hans-sans-Bold-50,,0,0,0,,So you are completely on yourself.
-Dialogue: 0,0:08:09.62,0:08:13.19,1080P-src-hans-sans-Bold-50,,0,0,0,,So it's actually a nice time for the crew, because you cannot be disturbed,
-Dialogue: 0,0:08:13.19,0:08:16.19,1080P-src-hans-sans-Bold-50,,0,0,0,,nobody can give you tasks, you can do whatever you want.
-Dialogue: 0,0:08:18.17,0:08:19.66,1080P-src-hans-sans-Bold-50,,0,0,0,,Luckily for the astronauts,
-Dialogue: 0,0:08:19.76,0:08:24.21,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soyuz is designed so they are not confined to their seats for the entire trip.
-Dialogue: 0,0:08:25.22,0:08:30.42,1080P-src-hans-sans-Bold-50,,0,0,0,,Though small, the spacecraft allows the astronauts to move freely between the accessible modules.
-Dialogue: 0,0:08:37.81,0:08:42.02,1080P-src-hans-sans-Bold-50,,0,0,0,,The Soyuz has three compartments: the Orbital Module,
-Dialogue: 0,0:08:42.02,0:08:45.35,1080P-src-hans-sans-Bold-50,,0,0,0,,the Descent Module, and the Instrument Compartment.
-Dialogue: 0,0:08:45.35,0:08:49.04,1080P-src-hans-sans-Bold-50,,0,0,0,,Each compartment has a different architecture, and a specific purpose.
-Dialogue: 0,0:08:50.53,0:08:53.20,1080P-src-hans-sans-Bold-50,,0,0,0,,The Orbital Module, or living compartment,
-Dialogue: 0,0:08:53.20,0:08:56.56,1080P-src-hans-sans-Bold-50,,0,0,0,,is equipped with sleeping bags, food, and a toilet.
-Dialogue: 0,0:08:59.58,0:09:01.06,1080P-src-hans-sans-Bold-50,,0,0,0,,So here we are in the Soyuz.
-Dialogue: 0,0:09:01.06,0:09:06.01,1080P-src-hans-sans-Bold-50,,0,0,0,,This is what we call the БО, the living compartment, "бытовой отсек" in Russian.
-Dialogue: 0,0:09:06.50,0:09:10.62,1080P-src-hans-sans-Bold-50,,0,0,0,,It also has a little bathroom, it's not as good as the other bathrooms
-Dialogue: 0,0:09:10.81,0:09:12.41,1080P-src-hans-sans-Bold-50,,0,0,0,,so we try not to use it too much.
-Dialogue: 0,0:09:12.41,0:09:15.29,1080P-src-hans-sans-Bold-50,,0,0,0,,It has drinking water in it if we need something to drink,
-Dialogue: 0,0:09:15.49,0:09:20.06,1080P-src-hans-sans-Bold-50,,0,0,0,,and then, of course, it's filled up with a lot of cargo for us.
-Dialogue: 0,0:09:20.06,0:09:23.85,1080P-src-hans-sans-Bold-50,,0,0,0,,The Instrument Compartment, not accessible to the astronauts,
-Dialogue: 0,0:09:23.85,0:09:26.46,1080P-src-hans-sans-Bold-50,,0,0,0,,houses the oxygen and propellant tanks,
-Dialogue: 0,0:09:26.46,0:09:29.99,1080P-src-hans-sans-Bold-50,,0,0,0,,thrusters, the on-board computer, and a number of sensors.
-Dialogue: 0,0:09:31.16,0:09:32.68,1080P-src-hans-sans-Bold-50,,0,0,0,,From the Descent Module,
-Dialogue: 0,0:09:32.87,0:09:37.55,1080P-src-hans-sans-Bold-50,,0,0,0,,the three crewmembers monitor all information about the spacecraft and the ISS
-Dialogue: 0,0:09:37.55,0:09:39.84,1080P-src-hans-sans-Bold-50,,0,0,0,,from ground data, the on-board computers,
-Dialogue: 0,0:09:40.04,0:09:44.68,1080P-src-hans-sans-Bold-50,,0,0,0,,and an optical display of the view from a periscope mounted on the outside.
-Dialogue: 0,0:09:47.31,0:09:51.07,1080P-src-hans-sans-Bold-50,,0,0,0,,For the second orbital transfer and the final rendezvous manoeuvres,
-Dialogue: 0,0:09:51.07,0:09:53.67,1080P-src-hans-sans-Bold-50,,0,0,0,,the astronauts return to their seats in this module.
-Dialogue: 0,0:09:54.81,0:10:00.61,1080P-src-hans-sans-Bold-50,,0,0,0,,The second orbital transfer brings the Soyuz from the phasing orbit up to the ISS orbit.
-Dialogue: 0,0:10:00.61,0:10:07.39,1080P-src-hans-sans-Bold-50,,0,0,0,,It's called a bielliptic transfer, and requires three engine burns instead of the Hohmann's two.
-Dialogue: 0,0:10:07.39,0:10:13.02,1080P-src-hans-sans-Bold-50,,0,0,0,,From the phasing orbit, the first two burns bring the Soyuz up to the ISS orbit.
-Dialogue: 0,0:10:13.02,0:10:18.67,1080P-src-hans-sans-Bold-50,,0,0,0,,The third burn gets the vehicle traveling at the correct speed to stay in the ISS orbit.
-Dialogue: 0,0:10:18.67,0:10:25.03,1080P-src-hans-sans-Bold-50,,0,0,0,,The burns of the bielliptic transfer are calculated based on the precise altitude of the phasing orbit.
-Dialogue: 0,0:10:25.13,0:10:29.27,1080P-src-hans-sans-Bold-50,,0,0,0,,And consequently, if the phasing orbit is too high or too low
-Dialogue: 0,0:10:29.33,0:10:32.98,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soyuz will not meet up with the ISS as expected.
-Dialogue: 0,0:10:34.77,0:10:39.30,1080P-src-hans-sans-Bold-50,,0,0,0,,The reason for using a bielliptic transfer here instead of the Hohmann's is
-Dialogue: 0,0:10:39.32,0:10:44.10,1080P-src-hans-sans-Bold-50,,0,0,0,,that the Soyuz will not only reach the correct altitude in the close vicinity of the ISS,
-Dialogue: 0,0:10:44.33,0:10:47.20,1080P-src-hans-sans-Bold-50,,0,0,0,,but also with exactly the desired speed.
-Dialogue: 0,0:10:51.15,0:10:52.77,1080P-src-hans-sans-Bold-50,,0,0,0,,Despite these precise manoeuvres,
-Dialogue: 0,0:10:53.06,0:10:55.83,1080P-src-hans-sans-Bold-50,,0,0,0,,what if the thrusters fail to slow down the Soyuz
-Dialogue: 0,0:10:55.87,0:10:59.47,1080P-src-hans-sans-Bold-50,,0,0,0,,and the vehicle travels too fast as it approaches the ISS?
-Dialogue: 0,0:10:59.63,0:11:05.15,1080P-src-hans-sans-Bold-50,,0,0,0,,This could end in disaster, with the Soyuz crashing into the Station instead of docking.
-Dialogue: 0,0:11:05.15,0:11:09.95,1080P-src-hans-sans-Bold-50,,0,0,0,,To prevent this from happening the Soyuz performs an additional side burn.
-Dialogue: 0,0:11:09.95,0:11:17.72,1080P-src-hans-sans-Bold-50,,0,0,0,,This changes its orbital plane slightly and makes a collision between the two vehicles impossible.
-Dialogue: 0,0:11:17.72,0:11:19.43,1080P-src-hans-sans-Bold-50,,0,0,0,,Throughout the rendezvous process,
-Dialogue: 0,0:11:19.59,0:11:26.50,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soyuz on-board computer continually determines the position and velocity of the Soyuz itself and of the ISS.
-Dialogue: 0,0:11:27.06,0:11:30.73,1080P-src-hans-sans-Bold-50,,0,0,0,,To do so, it uses measurements provided by the ground controllers
-Dialogue: 0,0:11:30.79,0:11:33.35,1080P-src-hans-sans-Bold-50,,0,0,0,,and a radar system called the Kurs.
-Dialogue: 0,0:11:33.99,0:11:34.86,1080P-src-hans-sans-Bold-50,,0,0,0,,In this way,
-Dialogue: 0,0:11:34.86,0:11:40.40,1080P-src-hans-sans-Bold-50,,0,0,0,,all of the burns during the rendezvous are calculated and automated by the on-board computer.
-Dialogue: 0,0:11:41.76,0:11:48.56,1080P-src-hans-sans-Bold-50,,0,0,0,,So Soyuz navigates in space and looks for the Station with a special radar system,
-Dialogue: 0,0:11:48.57,0:11:50.04,1080P-src-hans-sans-Bold-50,,0,0,0,,which is called the Kurs.
-Dialogue: 0,0:11:50.32,0:11:54.30,1080P-src-hans-sans-Bold-50,,0,0,0,,This gets turned on at 400 km from the Station.
-Dialogue: 0,0:11:54.48,0:11:55.36,1080P-src-hans-sans-Bold-50,,0,0,0,,It looks, looks, looks,
-Dialogue: 0,0:11:55.38,0:12:01.36,1080P-src-hans-sans-Bold-50,,0,0,0,,and usually it sees the Station and locks into the Station at around, more or less, 180 kilometres.
-Dialogue: 0,0:12:01.52,0:12:04.21,1080P-src-hans-sans-Bold-50,,0,0,0,,At that distance, we really don't see the Station.
-Dialogue: 0,0:12:04.21,0:12:10.31,1080P-src-hans-sans-Bold-50,,0,0,0,,It's probably -- even if you could see it, it's probably similar to any of the stars that are up there in space.
-Dialogue: 0,0:12:10.33,0:12:17.60,1080P-src-hans-sans-Bold-50,,0,0,0,,But you see on the screen the lock, the software indication that the radar locked into the Station.
-Dialogue: 0,0:12:18.15,0:12:23.05,1080P-src-hans-sans-Bold-50,,0,0,0,,The third and final burn of the pre-mentioned bielliptic transfer is very important,
-Dialogue: 0,0:12:23.08,0:12:28.64,1080P-src-hans-sans-Bold-50,,0,0,0,,because it sets the vehicle up for its near-ISS rendezvous procedures that will lead to docking.
-Dialogue: 0,0:12:29.76,0:12:30.90,1080P-src-hans-sans-Bold-50,,0,0,0,,When you do a normal burn,
-Dialogue: 0,0:12:31.91,0:12:35.98,1080P-src-hans-sans-Bold-50,,0,0,0,,the vehicle rotates to the correct attitude at two degrees per second,
-Dialogue: 0,0:12:36.12,0:12:39.27,1080P-src-hans-sans-Bold-50,,0,0,0,,and then it takes about eight minutes to start the burn.
-Dialogue: 0,0:12:39.27,0:12:41.73,1080P-src-hans-sans-Bold-50,,0,0,0,,When you're close to the Space Station and you have to brake,
-Dialogue: 0,0:12:41.73,0:12:43.50,1080P-src-hans-sans-Bold-50,,0,0,0,,of course this would not work.
-Dialogue: 0,0:12:43.50,0:12:46.90,1080P-src-hans-sans-Bold-50,,0,0,0,,So then the vehicle all of a sudden starts rotating quite fast,
-Dialogue: 0,0:12:46.90,0:12:50.09,1080P-src-hans-sans-Bold-50,,0,0,0,,three and a half degrees per second and only just after that,
-Dialogue: 0,0:12:50.09,0:12:52.90,1080P-src-hans-sans-Bold-50,,0,0,0,,50 seconds after that you already have the burn.
-Dialogue: 0,0:12:52.90,0:12:54.63,1080P-src-hans-sans-Bold-50,,0,0,0,,And once the burn is completed,
-Dialogue: 0,0:12:54.63,0:12:58.70,1080P-src-hans-sans-Bold-50,,0,0,0,,immediately the vehicle starts rotating again to the normal orientation,
-Dialogue: 0,0:12:58.70,0:13:01.56,1080P-src-hans-sans-Bold-50,,0,0,0,,and the crew has to monitor this quite intensely
-Dialogue: 0,0:13:01.84,0:13:05.61,1080P-src-hans-sans-Bold-50,,0,0,0,,and these are really high peaks of workload to see that everything is okay,
-Dialogue: 0,0:13:05.61,0:13:07.09,1080P-src-hans-sans-Bold-50,,0,0,0,,the rotation is going okay,
-Dialogue: 0,0:13:07.09,0:13:10.99,1080P-src-hans-sans-Bold-50,,0,0,0,,you know that you have the burn, the burn values were okay,
-Dialogue: 0,0:13:10.99,0:13:14.65,1080P-src-hans-sans-Bold-50,,0,0,0,,you rotate back, and then you see back the Space Station in your main display.
-Dialogue: 0,0:13:14.83,0:13:20.70,1080P-src-hans-sans-Bold-50,,0,0,0,,We could see it, first a dot a little bit brighter than the other stars in the sky,
-Dialogue: 0,0:13:20.70,0:13:22.62,1080P-src-hans-sans-Bold-50,,0,0,0,,and then little by little,
-Dialogue: 0,0:13:22.65,0:13:28.36,1080P-src-hans-sans-Bold-50,,0,0,0,,we start to see like a little spider first with all the solar arrays and everything,
-Dialogue: 0,0:13:28.36,0:13:34.58,1080P-src-hans-sans-Bold-50,,0,0,0,,and then it was apparent that there's a huge outpost right there in front of us.
-Dialogue: 0,0:13:34.97,0:13:37.25,1080P-src-hans-sans-Bold-50,,0,0,0,,During this stage, the crew commander,
-Dialogue: 0,0:13:37.42,0:13:41.98,1080P-src-hans-sans-Bold-50,,0,0,0,,sitting in the middle gives vital information and instructions to his crewmates.
-Dialogue: 0,0:13:41.98,0:13:48.89,1080P-src-hans-sans-Bold-50,,0,0,0,,Their workload has increased; many parameters need to be checked and systems activated.
-Dialogue: 0,0:13:48.89,0:13:50.18,1080P-src-hans-sans-Bold-50,,0,0,0,,Days before launch,
-Dialogue: 0,0:13:50.28,0:13:54.79,1080P-src-hans-sans-Bold-50,,0,0,0,,a team of flight dynamics experts at the Mission Control Centres in Moscow and Houston
-Dialogue: 0,0:13:54.89,0:13:58.56,1080P-src-hans-sans-Bold-50,,0,0,0,,determine the ideal position and orientation of the ISS,
-Dialogue: 0,0:13:58.75,0:14:01.47,1080P-src-hans-sans-Bold-50,,0,0,0,,based on a careful analysis of the constraints
-Dialogue: 0,0:14:01.47,0:14:05.17,1080P-src-hans-sans-Bold-50,,0,0,0,,that could affect these final stages of the rendezvous timeline.
-Dialogue: 0,0:14:05.64,0:14:09.13,1080P-src-hans-sans-Bold-50,,0,0,0,,First, there must be adequate lighting conditions at the time of docking
-Dialogue: 0,0:14:09.24,0:14:14.39,1080P-src-hans-sans-Bold-50,,0,0,0,,so that the Soyuz crew can see the ISS without being blinded or blocked by the sun.
-Dialogue: 0,0:14:15.11,0:14:18.30,1080P-src-hans-sans-Bold-50,,0,0,0,,It depends if the Station is illuminated, is in the sun,
-Dialogue: 0,0:14:18.30,0:14:21.79,1080P-src-hans-sans-Bold-50,,0,0,0,,then you can see it even if you are relatively far away.
-Dialogue: 0,0:14:21.79,0:14:26.67,1080P-src-hans-sans-Bold-50,,0,0,0,,But if the Station is not in the sun, then you cannot see it even if you are close.
-Dialogue: 0,0:14:26.67,0:14:30.89,1080P-src-hans-sans-Bold-50,,0,0,0,,Additionally, major temperature fluctuations of ISS elements,
-Dialogue: 0,0:14:30.89,0:14:36.18,1080P-src-hans-sans-Bold-50,,0,0,0,,such as the solar arrays, must be avoided to prevent structural deformation.
-Dialogue: 0,0:14:36.18,0:14:43.83,1080P-src-hans-sans-Bold-50,,0,0,0,,Finally, there must be clear communication pathways between the ground, Soyuz, and ISS.
-Dialogue: 0,0:14:43.83,0:14:48.49,1080P-src-hans-sans-Bold-50,,0,0,0,,The rendezvous is a fully automated process performed by the on-board computer.
-Dialogue: 0,0:14:49.03,0:14:52.01,1080P-src-hans-sans-Bold-50,,0,0,0,,However, the commander still takes the hand controller
-Dialogue: 0,0:14:52.09,0:14:56.19,1080P-src-hans-sans-Bold-50,,0,0,0,, just in case there is a need to perform a contingency manual docking.
-Dialogue: 0,0:14:56.60,0:14:59.92,1080P-src-hans-sans-Bold-50,,0,0,0,,If you don't see the Space Station or something happens at that moment,
-Dialogue: 0,0:15:00.13,0:15:02.25,1080P-src-hans-sans-Bold-50,,0,0,0,,then you might have to take manual control.
-Dialogue: 0,0:15:02.25,0:15:05.54,1080P-src-hans-sans-Bold-50,,0,0,0,,And so you have to remember very well, where is the Space Station now,
-Dialogue: 0,0:15:05.54,0:15:07.71,1080P-src-hans-sans-Bold-50,,0,0,0,,what are the actions that I'm going to take,
-Dialogue: 0,0:15:07.71,0:15:11.19,1080P-src-hans-sans-Bold-50,,0,0,0,,and this is really the intense moments that happen.
-Dialogue: 0,0:15:11.19,0:15:15.32,1080P-src-hans-sans-Bold-50,,0,0,0,,Manual docking requires two hand controllers to pilot the vehicle,
-Dialogue: 0,0:15:15.32,0:15:20.92,1080P-src-hans-sans-Bold-50,,0,0,0,,a left one that control translation and a right one that controls rotation.
-Dialogue: 0,0:15:20.92,0:15:24.41,1080P-src-hans-sans-Bold-50,,0,0,0,,The crew are thoroughly trained in these manual docking procedures,
-Dialogue: 0,0:15:24.41,0:15:28.46,1080P-src-hans-sans-Bold-50,,0,0,0,,even training until the very last days before launch in Baikonur.
-Dialogue: 0,0:15:30.98,0:15:32.52,1080P-src-hans-sans-Bold-50,,0,0,0,,Besides contingency docking,
-Dialogue: 0,0:15:32.69,0:15:37.52,1080P-src-hans-sans-Bold-50,,0,0,0,,the crew might also utilize their manual control training during redocking manoeuvres.
-Dialogue: 0,0:15:38.73,0:15:44.52,1080P-src-hans-sans-Bold-50,,0,0,0,,The ISS is constantly visited by manned Soyuz vehicles and other unmanned supply ships.
-Dialogue: 0,0:15:46.04,0:15:49.90,1080P-src-hans-sans-Bold-50,,0,0,0,,Sometimes it is necessary to undock an attached Soyuz
-Dialogue: 0,0:15:50.09,0:15:55.64,1080P-src-hans-sans-Bold-50,,0,0,0,,and redock it to another port on the ISS to make room for one of these new ships.
-Dialogue: 0,0:15:55.89,0:15:59.96,1080P-src-hans-sans-Bold-50,,0,0,0,,Luca Parmitano did this as part of Expedition 37.
-Dialogue: 0,0:16:00.76,0:16:07.71,1080P-src-hans-sans-Bold-50,,0,0,0,,My crew was one of the few crews able to perform a manual docking and it went very smoothly.
-Dialogue: 0,0:16:07.75,0:16:11.60,1080P-src-hans-sans-Bold-50,,0,0,0,,We were excited because it's something that we trained on for a long time and we were able to do it.
-Dialogue: 0,0:16:12.24,0:16:16.47,1080P-src-hans-sans-Bold-50,,0,0,0,,Apart from this case, a routine docking sequence is fully automated
-Dialogue: 0,0:16:16.56,0:16:21.74,1080P-src-hans-sans-Bold-50,,0,0,0,,and the crew's main task is to monitor the systems to ensure nominal procedures.
-Dialogue: 0,0:16:23.00,0:16:28.45,1080P-src-hans-sans-Bold-50,,0,0,0,,At this stage during routine docking the vehicle's relative speed continues to decrease,
-Dialogue: 0,0:16:28.45,0:16:31.32,1080P-src-hans-sans-Bold-50,,0,0,0,,as does the distance between the two.
-Dialogue: 0,0:16:31.32,0:16:34.89,1080P-src-hans-sans-Bold-50,,0,0,0,,400 metres from the Space Station, a new phase enters.
-Dialogue: 0,0:16:34.89,0:16:37.77,1080P-src-hans-sans-Bold-50,,0,0,0,,This is the phase what we call fly-around.
-Dialogue: 0,0:16:37.77,0:16:42.83,1080P-src-hans-sans-Bold-50,,0,0,0,,During this phase, the vehicle is actually not pointing at the desired docking port,
-Dialogue: 0,0:16:42.83,0:16:46.37,1080P-src-hans-sans-Bold-50,,0,0,0,,but at either one of the Station's Kurs antennas.
-Dialogue: 0,0:16:46.37,0:16:50.90,1080P-src-hans-sans-Bold-50,,0,0,0,,It's only when the vehicle reaches its 150m station keeping mode
-Dialogue: 0,0:16:51.06,0:16:55.60,1080P-src-hans-sans-Bold-50,,0,0,0,,that the orientation changes to point at the selected docking port instead.
-Dialogue: 0,0:16:55.88,0:17:00.34,1080P-src-hans-sans-Bold-50,,0,0,0,,The Soyuz then performs a second fly-around to align up with the docking port
-Dialogue: 0,0:17:00.41,0:17:03.36,1080P-src-hans-sans-Bold-50,,0,0,0,,while keeping a distance of 150 m.
-Dialogue: 0,0:17:03.72,0:17:05.63,1080P-src-hans-sans-Bold-50,,0,0,0,,Once aligned with the docking port,
-Dialogue: 0,0:17:05.73,0:17:09.91,1080P-src-hans-sans-Bold-50,,0,0,0,,the crew issues the command for the last stage: the final approach.
-Dialogue: 0,0:17:10.79,0:17:15.35,1080P-src-hans-sans-Bold-50,,0,0,0,,The Soyuz computer display uses data from Kurs to provide the astronauts
-Dialogue: 0,0:17:15.36,0:17:19.04,1080P-src-hans-sans-Bold-50,,0,0,0,,with pertinent information about the rendezvous and docking manoeuvres.
-Dialogue: 0,0:17:19.72,0:17:23.45,1080P-src-hans-sans-Bold-50,,0,0,0,,Among other read-outs, the distance from the ISS is displayed,
-Dialogue: 0,0:17:23.56,0:17:25.31,1080P-src-hans-sans-Bold-50,,0,0,0,,here showing five metres,
-Dialogue: 0,0:17:25.31,0:17:28.16,1080P-src-hans-sans-Bold-50,,0,0,0,,as is the relative velocity during the approach,
-Dialogue: 0,0:17:28.16,0:17:30.69,1080P-src-hans-sans-Bold-50,,0,0,0,,currently 10 cm/s.
-Dialogue: 0,0:17:30.69,0:17:34.40,1080P-src-hans-sans-Bold-50,,0,0,0,,This and other information is overlaid on the video feed,
-Dialogue: 0,0:17:34.40,0:17:38.35,1080P-src-hans-sans-Bold-50,,0,0,0,,used to track alignment of the target.
-Dialogue: 0,0:17:50.13,0:17:54.96,1080P-src-hans-sans-Bold-50,,0,0,0,,Contact occurs as soon as the probe touches the entrance cone of the docking hatch.
-Dialogue: 0,0:17:55.37,0:17:58.48,1080P-src-hans-sans-Bold-50,,0,0,0,,Then the thrusters give the Soyuz an extra push,
-Dialogue: 0,0:17:58.48,0:18:00.90,1080P-src-hans-sans-Bold-50,,0,0,0,,and the docking mechanism ensures capture.
-Dialogue: 0,0:18:17.44,0:18:20.68,1080P-src-hans-sans-Bold-50,,0,0,0,,I think this is where the impact was.
-Dialogue: 0,0:18:21.96,0:18:28.61,1080P-src-hans-sans-Bold-50,,0,0,0,,So I would say about four to five inches off-centre.
-Dialogue: 0,0:18:28.99,0:18:31.52,1080P-src-hans-sans-Bold-50,,0,0,0,,Pretty good after traveling for a couple million miles!
-Dialogue: 0,0:18:32.72,0:18:36.21,1080P-src-hans-sans-Bold-50,,0,0,0,,The probe retracts, and you get the two vehicles closer to each other,
-Dialogue: 0,0:18:36.46,0:18:38.62,1080P-src-hans-sans-Bold-50,,0,0,0,,and then when they are very close to each other,
-Dialogue: 0,0:18:38.62,0:18:41.71,1080P-src-hans-sans-Bold-50,,0,0,0,,less than two to three millimetres, the hooks start closing.
-Dialogue: 0,0:18:41.71,0:18:45.26,1080P-src-hans-sans-Bold-50,,0,0,0,,And it's when these hooks are fully closed that can take an enormous pressure
-Dialogue: 0,0:18:45.26,0:18:50.68,1080P-src-hans-sans-Bold-50,,0,0,0,,because they can withstand 16 tonnes of force, each of the hooks,
-Dialogue: 0,0:18:50.71,0:18:53.89,1080P-src-hans-sans-Bold-50,,0,0,0,,and you have eight hooks on the Soyuz vehicle.
-Dialogue: 0,0:18:53.89,0:18:57.89,1080P-src-hans-sans-Bold-50,,0,0,0,,This is still not enough, because there might be something inside the O-rings,
-Dialogue: 0,0:18:57.89,0:19:04.11,1080P-src-hans-sans-Bold-50,,0,0,0,,some dirt or some debris, that is not allowing for a good seal.
-Dialogue: 0,0:19:04.11,0:19:12.12,1080P-src-hans-sans-Bold-50,,0,0,0,,So there is a series of vacuum and depressurisations done in a very astute manner
-Dialogue: 0,0:19:12.43,0:19:18.94,1080P-src-hans-sans-Bold-50,,0,0,0,,that verifies that each one of these compartments is actually sealed tight.
-Dialogue: 0,0:19:19.04,0:19:26.08,1080P-src-hans-sans-Bold-50,,0,0,0,,Only at that point -- and by the way, all of this takes I would say an hour, one to two hours.
-Dialogue: 0,0:19:26.08,0:19:32.29,1080P-src-hans-sans-Bold-50,,0,0,0,,Only then when everything is proved to be fully sealed,
-Dialogue: 0,0:19:32.29,0:19:36.34,1080P-src-hans-sans-Bold-50,,0,0,0,,only then you can open the hatch of the Station, the hatch of the Soyuz,
-Dialogue: 0,0:19:36.34,0:19:38.58,1080P-src-hans-sans-Bold-50,,0,0,0,,and the crew can actually go into the Station.
-Dialogue: 0,0:19:39.28,0:19:45.58,1080P-src-hans-sans-Bold-50,,0,0,0,,And what we usually do is we knock on the hatch that goes on the side of the Space Station,
-Dialogue: 0,0:19:45.97,0:19:49.14,1080P-src-hans-sans-Bold-50,,0,0,0,,they knock back; we know that there is somebody else on the other side
-Dialogue: 0,0:19:49.59,0:19:53.84,1080P-src-hans-sans-Bold-50,,0,0,0,,And the hatches between the Soyuz spacecraft and the International Space Station
-Dialogue: 0,0:19:53.87,0:19:57.18,1080P-src-hans-sans-Bold-50,,0,0,0,,opening at 11:14 PM Central Time.
-Dialogue: 0,0:19:58.33,0:20:00.89,1080P-src-hans-sans-Bold-50,,0,0,0,,Then it's hugs and smiles for everybody.
-Dialogue: 0,0:20:05.73,0:20:09.37,1080P-src-hans-sans-Bold-50,,0,0,0,,The astronauts are now safely on-board the International Space Station,
-Dialogue: 0,0:20:09.67,0:20:12.04,1080P-src-hans-sans-Bold-50,,0,0,0,,their home for the next six months.
-Dialogue: 0,0:00:15.62,0:00:19.72,1080P-src-hans-sans-medi-75,,0,0,0,,我是Alexander Gerst ESA的宇航员
-Dialogue: 0,0:00:19.72,0:00:23.61,1080P-src-hans-sans-medi-75,,0,0,0,,我现在在国际空间站和你们说话
-Dialogue: 0,0:00:23.61,0:00:26.03,1080P-src-hans-sans-medi-75,,0,0,0,,我到这里的旅程从登上联盟号飞船开始
-Dialogue: 0,0:00:26.17,0:00:31.96,1080P-src-hans-sans-medi-75,,0,0,0,,从哈萨克斯坦起飞到对接完成差不多花了5小时
-Dialogue: 0,0:00:32.61,0:00:38.32,1080P-src-hans-sans-medi-75,,0,0,0,,接下来的视频会包含一些入轨后飞船内部拍摄的片段
-Dialogue: 0,0:00:38.36,0:00:42.73,1080P-src-hans-sans-medi-75,,0,0,0,,视频也会解释联盟号如何安全入轨以及与对接国际空间站对接
-Dialogue: 0,0:00:43.40,0:00:45.70,1080P-src-hans-sans-medi-75,,0,0,0,,其他很多宇航员也经历了相同的旅程
-Dialogue: 0,0:00:45.72,0:00:50.00,1080P-src-hans-sans-medi-75,,0,0,0,,他们也会在这个视频里分享他们的经历
-Dialogue: 0,0:00:50.00,0:00:51.36,1080P-src-hans-sans-medi-75,,0,0,0,,看得开心:)
-Dialogue: 0,0:00:57.21,0:01:05.93,1080P-src-hans-sans-medi-75,,0,0,0,,9分钟前 联盟号飞船从哈萨克斯坦的拜科努尔发射场起飞进入轨道
-Dialogue: 0,0:01:05.93,0:01:10.13,1080P-src-hans-sans-medi-75,,0,0,0,,它现在绕着地球飞行 速度是喷气飞机的30倍
-Dialogue: 0,0:01:10.13,0:01:13.05,1080P-src-hans-sans-medi-75,,0,0,0,,它只有一个目标 追上
-Dialogue: 0,0:01:13.05,0:01:22.19,1080P-src-hans-sans-medi-75,,0,0,0,,并交会对接 离地400km的国际空间站
-Dialogue: 0,0:01:22.19,0:01:25.79,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员刚刚完成了发射时序的最后一步
-Dialogue: 0,0:01:25.90,0:01:28.82,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号飞船与火箭的分离
-Dialogue: 0,0:01:31.32,0:01:37.24,1080P-src-hans-sans-medi-75,,0,0,0,,发动机关机的动静相当大
-Dialogue: 0,0:01:41.76,0:01:44.28,1080P-src-hans-sans-medi-75,,0,0,0,,之后立刻 当然了 你漂浮起来
-Dialogue: 0,0:01:44.28,0:01:49.34,1080P-src-hans-sans-medi-75,,0,0,0,,你知道 这真的是一种非常好的感觉 是的 我们在太空中 我们发射成功了
-Dialogue: 0,0:01:49.34,0:01:51.13,1080P-src-hans-sans-medi-75,,0,0,0,,现在我们在去空间站的路上
-Dialogue: 0,0:01:51.49,0:01:52.86,1080P-src-hans-sans-medi-75,,0,0,0,,你可以看看窗外
-Dialogue: 0,0:01:52.96,0:01:56.07,1080P-src-hans-sans-medi-75,,0,0,0,,你第一次从上空看见地球壮丽的景象
-Dialogue: 0,0:01:56.14,0:01:57.36,1080P-src-hans-sans-medi-75,,0,0,0,,这种感觉相当好
-Dialogue: 0,0:01:57.58,0:02:05.71,1080P-src-hans-sans-medi-75,,0,0,0,,然后 绝美的太阳很快就出现了 照亮 迸发出光辉
-Dialogue: 0,0:02:07.31,0:02:12.95,1080P-src-hans-sans-medi-75,,0,0,0,,现在 他们首次进入环地轨道 进入高度约220公里
-Dialogue: 0,0:02:13.07,0:02:16.95,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号上的三名宇航员当然有着绝妙的视野
-Dialogue: 0,0:02:19.83,0:02:20.97,1080P-src-hans-sans-medi-75,,0,0,0,,但是还有工作要做
-Dialogue: 0,0:02:21.19,0:02:25.98,1080P-src-hans-sans-medi-75,,0,0,0,,因为他们离国际空间站还有几百公里的距离---他们的最终目的地
-Dialogue: 0,0:02:31.10,0:02:34.68,1080P-src-hans-sans-medi-75,,0,0,0,,国际空间站于1998年开始运行
-Dialogue: 0,0:02:34.70,0:02:38.61,1080P-src-hans-sans-medi-75,,0,0,0,,此后大约每90分钟绕地球运行一次
-Dialogue: 0,0:02:40.55,0:02:44.08,1080P-src-hans-sans-medi-75,,0,0,0,,国际空间站的轨道平面是相当固定的
-Dialogue: 0,0:02:44.08,0:02:47.65,1080P-src-hans-sans-medi-75,,0,0,0,,而地球总是在自转
-Dialogue: 0,0:02:47.65,0:02:51.00,1080P-src-hans-sans-medi-75,,0,0,0,,把国际空间站的轨道投影到二维地图上
-Dialogue: 0,0:02:51.00,0:02:55.80,1080P-src-hans-sans-medi-75,,0,0,0,,我们可以看到一系列相交的曲线
-Dialogue: 0,0:02:55.80,0:03:01.79,1080P-src-hans-sans-medi-75,,0,0,0,,莫斯科和休斯敦的任务控制中心不断监测国际空间站的位置
-Dialogue: 0,0:03:01.79,0:03:08.34,1080P-src-hans-sans-medi-75,,0,0,0,,并能预测未来任何特定时间内国际空间站在轨道上的预期位置
-Dialogue: 0,0:03:08.34,0:03:13.73,1080P-src-hans-sans-medi-75,,0,0,0,,这对于确定联盟号航天器何时发射具有重要意义
-Dialogue: 0,0:03:13.73,0:03:17.59,1080P-src-hans-sans-medi-75,,0,0,0,,虽然在技术上可以在任何时候发射联盟号火箭
-Dialogue: 0,0:03:17.59,0:03:24.44,1080P-src-hans-sans-medi-75,,0,0,0,,但在ISS轨道经过哈萨克斯坦的拜科努尔航天发射场后不久 进行发射的效率最高
-Dialogue: 0,0:03:25.66,0:03:29.31,1080P-src-hans-sans-medi-75,,0,0,0,,这就缩短了与空间站交会对接的时间
-Dialogue: 0,0:03:29.39,0:03:32.40,1080P-src-hans-sans-medi-75,,0,0,0,,从两天左右缩短到6个小时
-Dialogue: 0,0:03:32.85,0:03:36.98,1080P-src-hans-sans-medi-75,,0,0,0,,这种短时交会轨道自2013年开始实施
-Dialogue: 0,0:03:37.59,0:03:41.40,1080P-src-hans-sans-medi-75,,0,0,0,,然而 如果联盟号火箭错过了必要的发射窗口
-Dialogue: 0,0:03:41.56,0:03:44.94,1080P-src-hans-sans-medi-75,,0,0,0,,或接下来任何的发动机点火不能按计划进行
-Dialogue: 0,0:03:45.28,0:03:50.93,1080P-src-hans-sans-medi-75,,0,0,0,,航天器有足够的多余燃料 可以恢复到两天的长时交会对接
-Dialogue: 0,0:03:50.93,0:03:55.90,1080P-src-hans-sans-medi-75,,0,0,0,,这发生在2014年3月 由于高度控制问题
-Dialogue: 0,0:03:55.90,0:04:02.83,1080P-src-hans-sans-medi-75,,0,0,0,,交会被重新规划为过去使用的长时轨道
-Dialogue: 0,0:04:02.83,0:04:05.76,1080P-src-hans-sans-medi-75,,0,0,0,,你要考虑到这有一定的风险
-Dialogue: 0,0:04:05.76,0:04:07.36,1080P-src-hans-sans-medi-75,,0,0,0,,有的风险比其他的更严重
-Dialogue: 0,0:04:08.21,0:04:13.23,1080P-src-hans-sans-medi-75,,0,0,0,,包括从快速对接过渡到长时对接的可能性。
-Dialogue: 0,0:04:13.36,0:04:17.41,1080P-src-hans-sans-medi-75,,0,0,0,,这是一年前的标准
-Dialogue: 0,0:04:17.41,0:04:21.03,1080P-src-hans-sans-medi-75,,0,0,0,,我们知道这种可能性 这是我们为之训练的东西
-Dialogue: 0,0:04:21.03,0:04:24.64,1080P-src-hans-sans-medi-75,,0,0,0,,我们知道航天器上有我们这两天所需要的一切
-Dialogue: 0,0:04:25.02,0:04:27.64,1080P-src-hans-sans-medi-75,,0,0,0,,我们也知道如何应对
-Dialogue: 0,0:04:28.93,0:04:30.08,1080P-src-hans-sans-medi-75,,0,0,0,,交会的定义是
-Dialogue: 0,0:04:30.08,0:04:35.00,1080P-src-hans-sans-medi-75,,0,0,0,,两个空间飞行器相互接近的一系列机动动作
-Dialogue: 0,0:04:35.46,0:04:41.06,1080P-src-hans-sans-medi-75,,0,0,0,,在大多数情况下 其中一个是追逐者 执行机动 在这种情况下 是联盟号
-Dialogue: 0,0:04:41.06,0:04:48.40,1080P-src-hans-sans-medi-75,,0,0,0,,而第二个是被动目标飞行器 在这种情况下是国际空间站
-Dialogue: 0,0:04:48.40,0:04:55.41,1080P-src-hans-sans-medi-75,,0,0,0,,理想情况下，两个飞行器在预选的空间和时间上准确安全地相遇
-Dialogue: 0,0:04:55.41,0:04:59.32,1080P-src-hans-sans-medi-75,,0,0,0,,但 联盟号 是如何实现的呢？
-Dialogue: 0,0:04:59.32,0:05:03.24,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号必须从最初的进入高度爬升
-Dialogue: 0,0:05:03.24,0:05:10.36,1080P-src-hans-sans-medi-75,,0,0,0,,到与空间站相同的高度 然后进入并停留在这个轨道上
-Dialogue: 0,0:05:10.36,0:05:12.37,1080P-src-hans-sans-medi-75,,0,0,0,,这听起来是一个足够简单的任务
-Dialogue: 0,0:05:12.37,0:05:17.95,1080P-src-hans-sans-medi-75,,0,0,0,,但这不可能从开始的进入高度 只用一次机动就完成
-Dialogue: 0,0:05:17.95,0:05:22.74,1080P-src-hans-sans-medi-75,,0,0,0,,最终对接的计算是基于联盟号精确的初始高度的
-Dialogue: 0,0:05:22.83,0:05:27.70,1080P-src-hans-sans-medi-75,,0,0,0,,遗憾的是 我们事先不知道确切的进入轨道高度
-Dialogue: 0,0:05:27.87,0:05:31.08,1080P-src-hans-sans-medi-75,,0,0,0,,这是由于火箭发射过程中存在一些不可预测性
-Dialogue: 0,0:05:31.08,0:05:36.88,1080P-src-hans-sans-medi-75,,0,0,0,,因此 会使用两次机动的方式 其间有一个中间调相轨道
-Dialogue: 0,0:05:36.88,0:05:41.02,1080P-src-hans-sans-medi-75,,0,0,0,,相位调整轨道是最终对接计算的基础
-Dialogue: 0,0:05:41.02,0:05:45.65,1080P-src-hans-sans-medi-75,,0,0,0,,它是用第一种机动的方式到达的 称为霍曼转移
-Dialogue: 0,0:05:45.65,0:05:50.96,1080P-src-hans-sans-medi-75,,0,0,0,,即以20世纪初一位德国科学家的名字命名的
-Dialogue: 0,0:05:50.96,0:05:55.27,1080P-src-hans-sans-medi-75,,0,0,0,,在霍曼转移过程中 联盟号要使用两次发动机
-Dialogue: 0,0:05:56.98,0:06:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,第一次是在发射后不久离开目前的进入轨道
-Dialogue: 0,0:06:01.73,0:06:03.73,1080P-src-hans-sans-medi-75,,0,0,0,,并上升转移到调相轨道上
-Dialogue: 0,0:06:04.01,0:06:10.48,1080P-src-hans-sans-medi-75,,0,0,0,,第二次是让飞行器以适当的速度飞行 使其保持在那个轨道上
-Dialogue: 0,0:06:10.48,0:06:18.20,1080P-src-hans-sans-medi-75,,0,0,0,,调相轨道比国际空间站轨道低100公里左右 它的作用非常特殊
-Dialogue: 0,0:06:18.20,0:06:26.19,1080P-src-hans-sans-medi-75,,0,0,0,,它减少了相位角 或者说两个航天器在各自轨道上的相位角
-Dialogue: 0,0:06:26.19,0:06:30.85,1080P-src-hans-sans-medi-75,,0,0,0,,这里我们看到联盟号在相位调整轨道上运行 用黄色的颜色标明
-Dialogue: 0,0:06:30.85,0:06:36.00,1080P-src-hans-sans-medi-75,,0,0,0,,而国际空间站在更高的轨道上运行 用绿色标明
-Dialogue: 0,0:06:36.00,0:06:41.80,1080P-src-hans-sans-medi-75,,0,0,0,,第三个红色轨道是联盟号已经离开的进入轨道
-Dialogue: 0,0:06:41.80,0:06:46.61,1080P-src-hans-sans-medi-75,,0,0,0,,由于联盟号在较低的轨道上 它的飞行速度会比空间站快
-Dialogue: 0,0:06:46.61,0:06:53.43,1080P-src-hans-sans-medi-75,,0,0,0,,因此 联盟号利用这个调相轨道追赶国际空间站
-Dialogue: 0,0:06:53.43,0:06:57.54,1080P-src-hans-sans-medi-75,,0,0,0,,根据使用的是长时交会还是短时交会
-Dialogue: 0,0:06:57.54,0:07:03.33,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号将在这个调相轨道上停留近两天或仅仅几个小时
-Dialogue: 0,0:07:03.33,0:07:09.65,1080P-src-hans-sans-medi-75,,0,0,0,,无论达到所需的相位角需要多长时间
-Dialogue: 0,0:07:09.65,0:07:14.52,1080P-src-hans-sans-medi-75,,0,0,0,,同一时间 宇航员还不只是享受美景和失重
-Dialogue: 0,0:07:14.52,0:07:19.17,1080P-src-hans-sans-medi-75,,0,0,0,,他们一直在忙着查漏补缺 确保系统正常运行
-Dialogue: 0,0:07:20.17,0:07:23.36,1080P-src-hans-sans-medi-75,,0,0,0,,然后他们发出对接探针伸出的命令
-Dialogue: 0,0:07:23.68,0:07:26.55,1080P-src-hans-sans-medi-75,,0,0,0,,为最后的对接程序做提前准备
-Dialogue: 0,0:07:28.78,0:07:31.89,1080P-src-hans-sans-medi-75,,0,0,0,,只要确认了飞船的气压完好
-Dialogue: 0,0:07:32.10,0:07:36.53,1080P-src-hans-sans-medi-75,,0,0,0,,任务控制中心就会发出指令 让宇航员松开安全带
-Dialogue: 0,0:07:36.53,0:07:38.99,1080P-src-hans-sans-medi-75,,0,0,0,,打开头盔 脱掉手套
-Dialogue: 0,0:07:42.56,0:07:44.35,1080P-src-hans-sans-medi-75,,0,0,0,,到达调相轨道后
-Dialogue: 0,0:07:44.35,0:07:47.48,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员们终于有了一些应得的休息时间
-Dialogue: 0,0:07:47.48,0:07:51.14,1080P-src-hans-sans-medi-75,,0,0,0,,特别是那些完成了为期两天的长时交会的人
-Dialogue: 0,0:07:51.99,0:07:54.85,1080P-src-hans-sans-medi-75,,0,0,0,,我们所说的五个耳聋轨道
-Dialogue: 0,0:07:54.85,0:07:59.19,1080P-src-hans-sans-medi-75,,0,0,0,,这是5个其上宇航员不能与地面联系的轨道
-Dialogue: 0,0:07:59.19,0:08:04.16,1080P-src-hans-sans-medi-75,,0,0,0,,这是因为联盟号飞船的轨道没有经过俄罗斯的上空
-Dialogue: 0,0:08:04.20,0:08:07.65,1080P-src-hans-sans-medi-75,,0,0,0,,只有当你与联盟号经过俄罗斯上空时 你才能与地面接触
-Dialogue: 0,0:08:07.79,0:08:09.62,1080P-src-hans-sans-medi-75,,0,0,0,,所以你只能完全靠自己
-Dialogue: 0,0:08:09.62,0:08:13.19,1080P-src-hans-sans-medi-75,,0,0,0,,所以对于宇航员来说 这其实是个很不错的时候 因为你不会被打扰
-Dialogue: 0,0:08:13.19,0:08:16.19,1080P-src-hans-sans-medi-75,,0,0,0,,没有人能给你任务 你想做什么就做什么
-Dialogue: 0,0:08:18.17,0:08:19.66,1080P-src-hans-sans-medi-75,,0,0,0,,幸运的是 对宇航员来说
-Dialogue: 0,0:08:19.76,0:08:24.21,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号的设计让他们在整个旅程中不用被限制在座位上
-Dialogue: 0,0:08:25.22,0:08:30.42,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号虽然小 但可以让宇航员在可进入的舱室之间自由移动
-Dialogue: 0,0:08:37.81,0:08:42.02,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号有三个舱段 轨道舱
-Dialogue: 0,0:08:42.02,0:08:45.35,1080P-src-hans-sans-medi-75,,0,0,0,,返回舱 以及设备舱
-Dialogue: 0,0:08:45.35,0:08:49.04,1080P-src-hans-sans-medi-75,,0,0,0,,每个舱段都有不同的结构 也有特定的用途
-Dialogue: 0,0:08:50.53,0:08:53.20,1080P-src-hans-sans-medi-75,,0,0,0,,轨道舱 也就是生活舱
-Dialogue: 0,0:08:53.20,0:08:56.56,1080P-src-hans-sans-medi-75,,0,0,0,,配有睡袋 食物和厕所
-Dialogue: 0,0:08:59.58,0:09:01.06,1080P-src-hans-sans-medi-75,,0,0,0,,现在我们在联盟号上
-Dialogue: 0,0:09:01.06,0:09:06.01,1080P-src-hans-sans-medi-75,,0,0,0,,这就是我们所说的БО 生活舱 俄语中的бытовой отсек
-Dialogue: 0,0:09:06.50,0:09:10.62,1080P-src-hans-sans-medi-75,,0,0,0,,它还有一个小浴室 只是没有其他的浴室那么好
-Dialogue: 0,0:09:10.81,0:09:12.41,1080P-src-hans-sans-medi-75,,0,0,0,,所以我们尽可能不去使用它
-Dialogue: 0,0:09:12.41,0:09:15.29,1080P-src-hans-sans-medi-75,,0,0,0,,这里面有饮用水 如果我们需要喝水的话
-Dialogue: 0,0:09:15.49,0:09:20.06,1080P-src-hans-sans-medi-75,,0,0,0,,然后当然 它为我们装了很多货物
-Dialogue: 0,0:09:20.06,0:09:23.85,1080P-src-hans-sans-medi-75,,0,0,0,,设备舱 宇航员无法进入
-Dialogue: 0,0:09:23.85,0:09:26.46,1080P-src-hans-sans-medi-75,,0,0,0,,里面有氧气罐和推进剂罐
-Dialogue: 0,0:09:26.46,0:09:29.99,1080P-src-hans-sans-medi-75,,0,0,0,,推进器 机载计算机和一些传感器
-Dialogue: 0,0:09:31.16,0:09:32.68,1080P-src-hans-sans-medi-75,,0,0,0,,从返回舱中
-Dialogue: 0,0:09:32.87,0:09:37.55,1080P-src-hans-sans-medi-75,,0,0,0,,三名宇航员监控着有关航天器和国际空间站的所有信息
-Dialogue: 0,0:09:37.55,0:09:39.84,1080P-src-hans-sans-medi-75,,0,0,0,,包括地面数据 机载计算机
-Dialogue: 0,0:09:40.04,0:09:44.68,1080P-src-hans-sans-medi-75,,0,0,0,,以及一个安装在外部的潜望镜的光学视角
-Dialogue: 0,0:09:47.31,0:09:51.07,1080P-src-hans-sans-medi-75,,0,0,0,,在第二次轨道转移和最后的交会对接中
-Dialogue: 0,0:09:51.07,0:09:53.67,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员返回到这个舱内的座位上
-Dialogue: 0,0:09:54.81,0:10:00.61,1080P-src-hans-sans-medi-75,,0,0,0,,第二次轨道转移将联盟号从调相轨道上升到国际空间站轨道
-Dialogue: 0,0:10:00.61,0:10:07.39,1080P-src-hans-sans-medi-75,,0,0,0,,这就是双椭圆转移 需要三次发动机点火 而不是霍曼转移的两次
-Dialogue: 0,0:10:07.39,0:10:13.02,1080P-src-hans-sans-medi-75,,0,0,0,,从调相轨道出发 前两次点火将联盟号送上国际空间站轨道
-Dialogue: 0,0:10:13.02,0:10:18.67,1080P-src-hans-sans-medi-75,,0,0,0,,第三次点火使飞行器以正确的速度 在国际空间站轨道上停留
-Dialogue: 0,0:10:18.67,0:10:25.03,1080P-src-hans-sans-medi-75,,0,0,0,,双椭圆转移的点火是根据调相轨道的精确高度来计算的
-Dialogue: 0,0:10:25.13,0:10:29.27,1080P-src-hans-sans-medi-75,,0,0,0,,因此 如果调相轨道过高或过低的话
-Dialogue: 0,0:10:29.33,0:10:32.98,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号不会像预期的那样与国际空间站交会
-Dialogue: 0,0:10:34.77,0:10:39.30,1080P-src-hans-sans-medi-75,,0,0,0,,这里用双椭圆转移而不是霍曼转移的原因是
-Dialogue: 0,0:10:39.32,0:10:44.10,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号不仅可以在国际空间站附近达到正确的高度
-Dialogue: 0,0:10:44.33,0:10:47.20,1080P-src-hans-sans-medi-75,,0,0,0,,还能以准确的速度到达国际空间站
-Dialogue: 0,0:10:51.15,0:10:52.77,1080P-src-hans-sans-medi-75,,0,0,0,,尽管有这些精确的机动
-Dialogue: 0,0:10:53.06,0:10:55.83,1080P-src-hans-sans-medi-75,,0,0,0,,但如果推进器未能使联盟号减速
-Dialogue: 0,0:10:55.87,0:10:59.47,1080P-src-hans-sans-medi-75,,0,0,0,,而它在接近国际空间站时飞行速度过快怎么办？
-Dialogue: 0,0:10:59.63,0:11:05.15,1080P-src-hans-sans-medi-75,,0,0,0,,这可能是个灾难性的结局 联盟号不是对接 而是撞上了空间站
-Dialogue: 0,0:11:05.15,0:11:09.95,1080P-src-hans-sans-medi-75,,0,0,0,,为了防止这种情况的发生 联盟号进行了一次额外的侧向点火
-Dialogue: 0,0:11:09.95,0:11:17.72,1080P-src-hans-sans-medi-75,,0,0,0,,这样一来 它的轨道平面稍有变化 两飞行器之间就不可能发生碰撞
-Dialogue: 0,0:11:17.72,0:11:19.43,1080P-src-hans-sans-medi-75,,0,0,0,,在整个交会对接过程中
-Dialogue: 0,0:11:19.59,0:11:26.50,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号机载计算机不断确定联盟号本身和国际空间站的位置和速度
-Dialogue: 0,0:11:27.06,0:11:30.73,1080P-src-hans-sans-medi-75,,0,0,0,,为此 它使用地面测控提供的测量结果
-Dialogue: 0,0:11:30.79,0:11:33.35,1080P-src-hans-sans-medi-75,,0,0,0,,和一个叫Kurs的雷达系统
-Dialogue: 0,0:11:33.99,0:11:34.86,1080P-src-hans-sans-medi-75,,0,0,0,,这样一来
-Dialogue: 0,0:11:34.86,0:11:40.40,1080P-src-hans-sans-medi-75,,0,0,0,,交会期间的所有点火都由机载计算机计算并自动完成
-Dialogue: 0,0:11:41.76,0:11:48.56,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号使用特殊的雷达系统在太空中导航并寻找空间站
-Dialogue: 0,0:11:48.57,0:11:50.04,1080P-src-hans-sans-medi-75,,0,0,0,,这个系统叫做Kurs
-Dialogue: 0,0:11:50.32,0:11:54.30,1080P-src-hans-sans-medi-75,,0,0,0,,这在离空间站400km的地方就会被打开
-Dialogue: 0,0:11:54.48,0:11:55.36,1080P-src-hans-sans-medi-75,,0,0,0,,它找啊找啊找
-Dialogue: 0,0:11:55.38,0:12:01.36,1080P-src-hans-sans-medi-75,,0,0,0,,一般情况下 会在180公里左右看见并锁定空间站
-Dialogue: 0,0:12:01.52,0:12:04.21,1080P-src-hans-sans-medi-75,,0,0,0,,在这个距离 我们事实上看不到空间站
-Dialogue: 0,0:12:04.21,0:12:10.31,1080P-src-hans-sans-medi-75,,0,0,0,,它可能 -- 即使你能看到它 它可能和太空中的任何一颗恒星都很相似
-Dialogue: 0,0:12:10.33,0:12:17.60,1080P-src-hans-sans-medi-75,,0,0,0,,但你在屏幕上看到 那个锁定标志 软件显示雷达锁定了空间站
-Dialogue: 0,0:12:18.15,0:12:23.05,1080P-src-hans-sans-medi-75,,0,0,0,,前面提到的双椭圆转移的第三次也是最后一次点火是非常重要的
-Dialogue: 0,0:12:23.08,0:12:28.64,1080P-src-hans-sans-medi-75,,0,0,0,,因为它为飞行器对接前的近ISS交会程序做好了准备
-Dialogue: 0,0:12:29.76,0:12:30.90,1080P-src-hans-sans-medi-75,,0,0,0,,当你正常点火时
-Dialogue: 0,0:12:31.91,0:12:35.98,1080P-src-hans-sans-medi-75,,0,0,0,,飞行器以每秒两度的速度旋转到正确的姿态
-Dialogue: 0,0:12:36.12,0:12:39.27,1080P-src-hans-sans-medi-75,,0,0,0,,然后大约8分钟后开始点火
-Dialogue: 0,0:12:39.27,0:12:41.73,1080P-src-hans-sans-medi-75,,0,0,0,,当你接近空间站时 你必须要减速
-Dialogue: 0,0:12:41.73,0:12:43.50,1080P-src-hans-sans-medi-75,,0,0,0,,当然这样是不行的
-Dialogue: 0,0:12:43.50,0:12:46.90,1080P-src-hans-sans-medi-75,,0,0,0,,所以飞行器突然间开始快速旋转
-Dialogue: 0,0:12:46.90,0:12:50.09,1080P-src-hans-sans-medi-75,,0,0,0,,一秒三度半 紧接着
-Dialogue: 0,0:12:50.09,0:12:52.90,1080P-src-hans-sans-medi-75,,0,0,0,,50秒之后 你就已经开始点火
-Dialogue: 0,0:12:52.90,0:12:54.63,1080P-src-hans-sans-medi-75,,0,0,0,,而一旦点火完成后
-Dialogue: 0,0:12:54.63,0:12:58.70,1080P-src-hans-sans-medi-75,,0,0,0,,飞行器立即又开始向正常方向旋转
-Dialogue: 0,0:12:58.70,0:13:01.56,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员必须对此进行相当严格的监控
-Dialogue: 0,0:13:01.84,0:13:05.61,1080P-src-hans-sans-medi-75,,0,0,0,,去看一切是否正常真的是工作量的高峰
-Dialogue: 0,0:13:05.61,0:13:07.09,1080P-src-hans-sans-medi-75,,0,0,0,,旋转还算顺利
-Dialogue: 0,0:13:07.09,0:13:10.99,1080P-src-hans-sans-medi-75,,0,0,0,,你知道你点火了 点火数值没问题
-Dialogue: 0,0:13:10.99,0:13:14.65,1080P-src-hans-sans-medi-75,,0,0,0,,你旋转回去 然后在你的主显示屏上看到空间站
-Dialogue: 0,0:13:14.83,0:13:20.70,1080P-src-hans-sans-medi-75,,0,0,0,,我们可以看到 先是一个点 比天空中的其他星星亮了一点
-Dialogue: 0,0:13:20.70,0:13:22.62,1080P-src-hans-sans-medi-75,,0,0,0,,然后一点一点地
-Dialogue: 0,0:13:22.65,0:13:28.36,1080P-src-hans-sans-medi-75,,0,0,0,,我们开始看到像小蜘蛛一样的 那些太阳能阵列和其他所有东西
-Dialogue: 0,0:13:28.36,0:13:34.58,1080P-src-hans-sans-medi-75,,0,0,0,,然后很清楚地 有个巨大的物体出现在我们眼前
-Dialogue: 0,0:13:34.97,0:13:37.25,1080P-src-hans-sans-medi-75,,0,0,0,,在这个阶段 坐在中间的指令长
-Dialogue: 0,0:13:37.42,0:13:41.98,1080P-src-hans-sans-medi-75,,0,0,0,,向同伴发布重要信息和指令
-Dialogue: 0,0:13:41.98,0:13:48.89,1080P-src-hans-sans-medi-75,,0,0,0,,他们的工作量增加了 许多参数需要检查 系统需要激活
-Dialogue: 0,0:13:48.89,0:13:50.18,1080P-src-hans-sans-medi-75,,0,0,0,,发射前几天
-Dialogue: 0,0:13:50.28,0:13:54.79,1080P-src-hans-sans-medi-75,,0,0,0,,莫斯科和休斯顿飞行任务控制中心的飞行动力学专家小组
-Dialogue: 0,0:13:54.89,0:13:58.56,1080P-src-hans-sans-medi-75,,0,0,0,,确定了国际空间站的理想位置和方向
-Dialogue: 0,0:13:58.75,0:14:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,基于对制约因素的仔细分析
-Dialogue: 0,0:14:01.47,0:14:05.17,1080P-src-hans-sans-medi-75,,0,0,0,,这些因素可能会影响交会对接时间线上的最后步骤
-Dialogue: 0,0:14:05.64,0:14:09.13,1080P-src-hans-sans-medi-75,,0,0,0,,首先 对接时必须有足够的照明条件
-Dialogue: 0,0:14:09.24,0:14:14.39,1080P-src-hans-sans-medi-75,,0,0,0,,这样 联盟号上的宇航员就可以看到国际空间站 而不会由于太阳而暂时失明或被遮挡
-Dialogue: 0,0:14:15.11,0:14:18.30,1080P-src-hans-sans-medi-75,,0,0,0,,要看空间站是否有光照 是否在阳光下
-Dialogue: 0,0:14:18.30,0:14:21.79,1080P-src-hans-sans-medi-75,,0,0,0,,那么即使距离相对较远也能看到它
-Dialogue: 0,0:14:21.79,0:14:26.67,1080P-src-hans-sans-medi-75,,0,0,0,,但是 如果空间站不在阳光下 那么即使离得再近也看不到它
-Dialogue: 0,0:14:26.67,0:14:30.89,1080P-src-hans-sans-medi-75,,0,0,0,,此外 必须避免ISS部件过大的温度波动
-Dialogue: 0,0:14:30.89,0:14:36.18,1080P-src-hans-sans-medi-75,,0,0,0,,如太阳能阵列等 以防止结构变形
-Dialogue: 0,0:14:36.18,0:14:43.83,1080P-src-hans-sans-medi-75,,0,0,0,,最后 地面 联盟号和国际空间站之间必须有通畅的通信线路
-Dialogue: 0,0:14:43.83,0:14:48.49,1080P-src-hans-sans-medi-75,,0,0,0,,交会是由机载计算机执行的一个完全自动化的过程
-Dialogue: 0,0:14:49.03,0:14:52.01,1080P-src-hans-sans-medi-75,,0,0,0,,但是 指令长仍旧拿着手动控制器
-Dialogue: 0,0:14:52.09,0:14:56.19,1080P-src-hans-sans-medi-75,,0,0,0,,以防万一需要进行应急手动对接
-Dialogue: 0,0:14:56.60,0:14:59.92,1080P-src-hans-sans-medi-75,,0,0,0,,如果你没有看到空间站 或者在那一刻发生了什么事情
-Dialogue: 0,0:15:00.13,0:15:02.25,1080P-src-hans-sans-medi-75,,0,0,0,,那么你可能就需要手动控制了
-Dialogue: 0,0:15:02.25,0:15:05.54,1080P-src-hans-sans-medi-75,,0,0,0,,所以你要牢牢记住空间站现在在哪里
-Dialogue: 0,0:15:05.54,0:15:07.71,1080P-src-hans-sans-medi-75,,0,0,0,,我要采取什么行动
-Dialogue: 0,0:15:07.71,0:15:11.19,1080P-src-hans-sans-medi-75,,0,0,0,,这才是真正的紧张时刻
-Dialogue: 0,0:15:11.19,0:15:15.32,1080P-src-hans-sans-medi-75,,0,0,0,,手动对接需要两个手动控制器来驾驶飞行器
-Dialogue: 0,0:15:15.32,0:15:20.92,1080P-src-hans-sans-medi-75,,0,0,0,,左边的控制平移 右边的控制旋转
-Dialogue: 0,0:15:20.92,0:15:24.41,1080P-src-hans-sans-medi-75,,0,0,0,,航天员们都经过了彻底的手动对接培训
-Dialogue: 0,0:15:24.41,0:15:28.46,1080P-src-hans-sans-medi-75,,0,0,0,,甚至在拜科努尔的发射前最后几天都会进行练习
-Dialogue: 0,0:15:30.98,0:15:32.52,1080P-src-hans-sans-medi-75,,0,0,0,,除了应急对接
-Dialogue: 0,0:15:32.69,0:15:37.52,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员们还可以将他们的手动控制训练应用在重新对接的机动中
-Dialogue: 0,0:15:38.73,0:15:44.52,1080P-src-hans-sans-medi-75,,0,0,0,,国际空间站不断有载人的联盟号飞船和其他无人驾驶的补给飞船到来
-Dialogue: 0,0:15:46.04,0:15:49.90,1080P-src-hans-sans-medi-75,,0,0,0,,有时需要将对接的的联盟号分离
-Dialogue: 0,0:15:50.09,0:15:55.64,1080P-src-hans-sans-medi-75,,0,0,0,,将其重新停靠到国际空间站的另一个对接口 为新飞船腾出空间
-Dialogue: 0,0:15:55.89,0:15:59.96,1080P-src-hans-sans-medi-75,,0,0,0,,Luca Parmitano 在第37远征队任务中做了此事
-Dialogue: 0,0:16:00.76,0:16:07.71,1080P-src-hans-sans-medi-75,,0,0,0,,我的队员是为数不多能进行人工对接的宇航员之一 整个对接过程非常顺利
-Dialogue: 0,0:16:07.75,0:16:11.60,1080P-src-hans-sans-medi-75,,0,0,0,,我们很兴奋 因为这是我们训练了很久的东西 而且我们有能力做到这一点
-Dialogue: 0,0:16:12.24,0:16:16.47,1080P-src-hans-sans-medi-75,,0,0,0,,除了这种情况外 常规的对接程序是全自动的
-Dialogue: 0,0:16:16.56,0:16:21.74,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员的主要任务是监控系统 确保程序正常运行
-Dialogue: 0,0:16:23.00,0:16:28.45,1080P-src-hans-sans-medi-75,,0,0,0,,在这个常规对接过程的阶段中 飞行器的相对速度不断降低
-Dialogue: 0,0:16:28.45,0:16:31.32,1080P-src-hans-sans-medi-75,,0,0,0,,两者之间的距离也会不断缩短
-Dialogue: 0,0:16:31.32,0:16:34.89,1080P-src-hans-sans-medi-75,,0,0,0,,在距离空间站400米的地方 新的阶段开始了
-Dialogue: 0,0:16:34.89,0:16:37.77,1080P-src-hans-sans-medi-75,,0,0,0,,这就是我们所说的绕飞阶段
-Dialogue: 0,0:16:37.77,0:16:42.83,1080P-src-hans-sans-medi-75,,0,0,0,,在这个阶段 飞行器实际上并没有对准所需的对接端口
-Dialogue: 0,0:16:42.83,0:16:46.37,1080P-src-hans-sans-medi-75,,0,0,0,,而是对准了空间站的任意一个Kurs天线
-Dialogue: 0,0:16:46.37,0:16:50.90,1080P-src-hans-sans-medi-75,,0,0,0,,只有当飞行器到达150米的位置保持模式时
-Dialogue: 0,0:16:51.06,0:16:55.60,1080P-src-hans-sans-medi-75,,0,0,0,,方向才会改变为指向所选的对接端口
-Dialogue: 0,0:16:55.88,0:17:00.34,1080P-src-hans-sans-medi-75,,0,0,0,,然后联盟号进行第二次绕飞 对准对接端口
-Dialogue: 0,0:17:00.41,0:17:03.36,1080P-src-hans-sans-medi-75,,0,0,0,,同时保持150米的距离
-Dialogue: 0,0:17:03.72,0:17:05.63,1080P-src-hans-sans-medi-75,,0,0,0,,一旦对准了对接端口
-Dialogue: 0,0:17:05.73,0:17:09.91,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员发出最后一个阶段的指令：最后进近
-Dialogue: 0,0:17:10.79,0:17:15.35,1080P-src-hans-sans-medi-75,,0,0,0,,联盟号计算机显示器利用Kurs的数据为航天员提供
-Dialogue: 0,0:17:15.36,0:17:19.04,1080P-src-hans-sans-medi-75,,0,0,0,,有关交会对接的相关信息
-Dialogue: 0,0:17:19.72,0:17:23.45,1080P-src-hans-sans-medi-75,,0,0,0,,在其他读数中 与国际空间站的距离有被显示
-Dialogue: 0,0:17:23.56,0:17:25.31,1080P-src-hans-sans-medi-75,,0,0,0,,这里显示的是5m
-Dialogue: 0,0:17:25.31,0:17:28.16,1080P-src-hans-sans-medi-75,,0,0,0,,而在接近过程中的相对速度也是如此
-Dialogue: 0,0:17:28.16,0:17:30.69,1080P-src-hans-sans-medi-75,,0,0,0,,现在显示的是10cm/s.
-Dialogue: 0,0:17:30.69,0:17:34.40,1080P-src-hans-sans-medi-75,,0,0,0,,这些信息和其他信息会叠加在视频源上
-Dialogue: 0,0:17:34.40,0:17:38.35,1080P-src-hans-sans-medi-75,,0,0,0,,用于跟踪目标的对齐
-Dialogue: 0,0:17:50.13,0:17:54.96,1080P-src-hans-sans-medi-75,,0,0,0,,一旦探针碰到对接舱门的入口锥体 就会发生接触
-Dialogue: 0,0:17:55.37,0:17:58.48,1080P-src-hans-sans-medi-75,,0,0,0,,然后推进器给了联盟号一个额外的推动力
-Dialogue: 0,0:17:58.48,0:18:00.90,1080P-src-hans-sans-medi-75,,0,0,0,,对接机构确保了捕获
-Dialogue: 0,0:18:17.44,0:18:20.68,1080P-src-hans-sans-medi-75,,0,0,0,,我想这就是碰撞的地方
-Dialogue: 0,0:18:21.96,0:18:28.61,1080P-src-hans-sans-medi-75,,0,0,0,,所以我觉得是偏离中心4到5英寸左右
-Dialogue: 0,0:18:28.99,0:18:31.52,1080P-src-hans-sans-medi-75,,0,0,0,,对于经过了几百万英里来说相当不错
-Dialogue: 0,0:18:32.72,0:18:36.21,1080P-src-hans-sans-medi-75,,0,0,0,,探针缩回 两架飞行器就会更架接近对方
-Dialogue: 0,0:18:36.46,0:18:38.62,1080P-src-hans-sans-medi-75,,0,0,0,,然后当它们之间的距离很近的时候
-Dialogue: 0,0:18:38.62,0:18:41.71,1080P-src-hans-sans-medi-75,,0,0,0,,不到两三毫米 钩子就开始合拢
-Dialogue: 0,0:18:41.71,0:18:45.26,1080P-src-hans-sans-medi-75,,0,0,0,,而当这些钩子完全闭合时 就会承受巨大的压力
-Dialogue: 0,0:18:45.26,0:18:50.68,1080P-src-hans-sans-medi-75,,0,0,0,,因为每一个钩子可以承受16吨的力
-Dialogue: 0,0:18:50.71,0:18:53.89,1080P-src-hans-sans-medi-75,,0,0,0,,而你在联盟号飞船上有8个钩子
-Dialogue: 0,0:18:53.89,0:18:57.89,1080P-src-hans-sans-medi-75,,0,0,0,,这样做还是不够 因为O型环里面可能会有东西
-Dialogue: 0,0:18:57.89,0:19:04.11,1080P-src-hans-sans-medi-75,,0,0,0,,一些污垢或者是一些杂物 这些都会使密封性不好
-Dialogue: 0,0:19:04.11,0:19:12.12,1080P-src-hans-sans-medi-75,,0,0,0,,所以会高精度地进行一系列相应的真空和减压的工作
-Dialogue: 0,0:19:12.43,0:19:18.94,1080P-src-hans-sans-medi-75,,0,0,0,,可以验证每一个隔间是否真的密封严密
-Dialogue: 0,0:19:19.04,0:19:26.08,1080P-src-hans-sans-medi-75,,0,0,0,,只有在这时 顺便说一下 这一切都需要一个小时 一到两个小时
-Dialogue: 0,0:19:26.08,0:19:32.29,1080P-src-hans-sans-medi-75,,0,0,0,,只有当一切都被证明是完全密封的时候
-Dialogue: 0,0:19:32.29,0:19:36.34,1080P-src-hans-sans-medi-75,,0,0,0,,只有这样 你才能打开空间站的舱门 联盟号的舱门
-Dialogue: 0,0:19:36.34,0:19:38.58,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员们才能真正进入太空站
-Dialogue: 0,0:19:39.28,0:19:45.58,1080P-src-hans-sans-medi-75,,0,0,0,,我们通常要做的就是敲空间站一侧的舱门
-Dialogue: 0,0:19:45.97,0:19:49.14,1080P-src-hans-sans-medi-75,,0,0,0,,他们敲回来 我们知道那边有人
-Dialogue: 0,0:19:49.59,0:19:53.84,1080P-src-hans-sans-medi-75,,0,0,0,,而联盟号飞船和国际空间站之间的舱门
-Dialogue: 0,0:19:53.87,0:19:57.18,1080P-src-hans-sans-medi-75,,0,0,0,,在中央时间11点14分开放
-Dialogue: 0,0:19:58.33,0:20:00.89,1080P-src-hans-sans-medi-75,,0,0,0,,然后是大家的拥抱和微笑
-Dialogue: 0,0:20:05.73,0:20:09.37,1080P-src-hans-sans-medi-75,,0,0,0,,宇航员们现在安全地登上了国际空间站
-Dialogue: 0,0:20:09.67,0:20:12.04,1080P-src-hans-sans-medi-75,,0,0,0,,他们未来6个月的家
+Comment: 0,0:00:04.86,0:00:09.30,1080P-src-hans-sans-medi-esa,,0,0,0,,特殊
+Dialogue: 0,0:00:04.86,0:00:09.30,1080P-src-hans-sans-medi-esa,,0,0,0,,{\fad(140,340)\fn思源黑体 Bold\c&H9A441A&\1a&H00&\pos(590,318)\clip(377,244,805,324)}→ 通往ISS的旅途
+Dialogue: 0,0:00:04.86,0:00:09.30,1080P-src-hans-sans-medi-esa,,0,0,0,,{\fad(140,340)\bord100\fn思源黑体 Bold\c&H9A441A&\1a&H00&\clip(377,347,1129,427)\pos(782,422)}第二部分：联盟飞船交会对接
+Comment: 0,0:00:15.62,0:00:19.72,1080P-src-hans-sans-Bold-50,,0,0,0,,字幕
+Dialogue: 0,0:00:15.62,0:00:19.72,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}I am Alexander Gerst an astronaut of the European Space Agency.
+Dialogue: 0,0:00:15.62,0:00:19.72,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}我是Alexander Gerst ESA的宇航员
+Dialogue: 0,0:00:16.66,0:00:21.78,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,140)\bord0\fscy120\fn思源黑体 Bold\pos(1750,947)}亚历山大·格斯特\h\h\h\h\h{\fn思源黑体 Medium}欧空局宇航员
+Dialogue: 0,0:00:19.72,0:00:23.61,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}I am talking to you from the International Space Station.
+Dialogue: 0,0:00:19.72,0:00:23.61,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}我现在在国际空间站和你们说话
+Dialogue: 0,0:00:23.61,0:00:26.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}My journey here aboard a Soyuz spacecraft
+Dialogue: 0,0:00:23.61,0:00:31.96,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4\move(1930,10,1910,10,0,500)}字幕翻译/压制：NeXT-X6，旋火\N视频来源：youtu.be/M2_NeFbFcSw\N原视频发布日期：20141121\N原作者名：European Space Agency, ESA
+Dialogue: 0,0:00:23.61,0:00:26.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我到这里的旅程从登上联盟号飞船开始
+Dialogue: 0,0:00:26.17,0:00:31.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}from lift-off in Kazakhstan to the time we docked just took over about 5 hours.
+Dialogue: 0,0:00:26.17,0:00:31.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}从哈萨克斯坦起飞到对接完成差不多花了5小时
+Dialogue: 0,0:00:32.61,0:00:38.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The video you are about to see contains some unique footage taken inside the capsule while it is in orbit
+Dialogue: 0,0:00:32.61,0:00:38.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}接下来的视频会包含一些入轨后飞船内部拍摄的片段
+Dialogue: 0,0:00:38.36,0:00:42.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and explains how the Soyuz safely reaches orbit and docks to the Space Station.
+Dialogue: 0,0:00:38.36,0:00:42.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}视频也会解释联盟号如何安全入轨以及与对接国际空间站对接
+Dialogue: 0,0:00:43.40,0:00:45.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Many other astronauts have taken the same journey
+Dialogue: 0,0:00:43.40,0:00:45.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其他很多宇航员也经历了相同的旅程
+Dialogue: 0,0:00:45.72,0:00:50.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and some of them will also share their experience with you in this video.
+Dialogue: 0,0:00:45.72,0:00:50.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们也会在这个视频里分享他们的经历
+Dialogue: 0,0:00:50.00,0:00:51.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Have fun watching it.
+Dialogue: 0,0:00:50.00,0:00:51.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}看得开心:)
+Dialogue: 0,0:00:57.21,0:01:05.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Nine minutes ago, a Soyuz spacecraft blasted into orbit from Baikonur in Kazakhstan.
+Dialogue: 0,0:00:57.21,0:01:05.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}9分钟前 联盟号飞船从哈萨克斯坦的拜科努尔发射场起飞进入轨道
+Dialogue: 0,0:01:05.93,0:01:10.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It is now speeding around the Earth thirty times faster than a jumbo jet.
+Dialogue: 0,0:01:05.93,0:01:10.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它现在绕着地球飞行 速度是喷气飞机的30倍
+Dialogue: 0,0:01:10.13,0:01:13.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It has a single purpose: to catch up with,
+Dialogue: 0,0:01:10.13,0:01:13.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它只有一个目标 追上
+Dialogue: 0,0:01:13.05,0:01:19.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}rendezvous, and dock with the International Space Station located somewhere 400 km above the ground.
+Dialogue: 0,0:01:13.05,0:01:19.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并交会对接 离地400km某处的国际空间站
+Dialogue: 0,0:01:22.19,0:01:25.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The astronauts just went through the last phase of the launch sequence
+Dialogue: 0,0:01:22.19,0:01:25.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员刚刚完成了发射时序的最后一步
+Dialogue: 0,0:01:25.90,0:01:28.82,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the separation of the Soyuz spacecraft from the rocket.
+Dialogue: 0,0:01:25.90,0:01:28.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号飞船与火箭的分离
+Dialogue: 0,0:01:31.32,0:01:37.24,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}The finishing of the engine of the shut-down of the engine is pretty strong.
+Dialogue: 0,0:01:31.32,0:01:37.24,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}发动机关机的动静相当大
+Dialogue: 0,0:01:32.46,0:01:36.66,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,140)\bord0\fscy120\fn思源黑体 Bold\pos(1750,947)}保罗·内斯波利\h\h\h\h\h{\fn思源黑体 Medium}欧空局宇航员
+Dialogue: 0,0:01:41.76,0:01:44.28,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And immediately afterwards, of course, you float.
+Dialogue: 0,0:01:41.76,0:01:44.28,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}之后立刻 当然了 你漂浮起来
+Dialogue: 0,0:01:44.28,0:01:49.34,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}It's really a very nice feeling that you know yes, we are in space, we had a successful launch,
+Dialogue: 0,0:01:44.28,0:01:49.34,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}你知道 这真的是一种非常好的感觉 是的 我们在太空中 我们发射成功了
+Dialogue: 0,0:01:47.30,0:01:51.06,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,0)\bord0\fscy120\fn思源黑体 Bold\pos(1750,947)}弗兰克·德·温纳\h\h\h\h\h{\fn思源黑体 Medium}欧空局宇航员
+Dialogue: 0,0:01:49.34,0:01:51.13,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}now we are on the way to the Space Station.
+Dialogue: 0,0:01:49.34,0:01:51.13,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}现在我们在去空间站的路上
+Dialogue: 0,0:01:51.49,0:01:52.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You can look outside the window,
+Dialogue: 0,0:01:51.49,0:01:52.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你可以看看窗外
+Dialogue: 0,0:01:52.96,0:01:56.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you see this magnificent Earth for the first time from above.
+Dialogue: 0,0:01:52.96,0:01:56.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你第一次从上空看见地球壮丽的景象
+Dialogue: 0,0:01:56.14,0:01:57.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's really a great feeling.
+Dialogue: 0,0:01:56.14,0:01:57.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种感觉相当好
+Dialogue: 0,0:01:57.58,0:02:05.71,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}And then just the absolute beauty of the sun coming up really quickly, illuminating, bursting into flame.
+Dialogue: 0,0:01:57.58,0:02:05.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后 绝美的太阳很快就出现了 照亮 迸发出光辉
+Dialogue: 0,0:01:58.82,0:02:04.42,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,220)\bord0\fscy120\fn思源黑体 Bold\pos(1750,947)}卢卡·帕尔米塔诺\h\h\h\h\h{\fn思源黑体 Medium}欧空局宇航员
+Dialogue: 0,0:02:07.31,0:02:12.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now in their first orbits around Earth at an insertion altitude of about 220 km,
+Dialogue: 0,0:02:07.31,0:02:12.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在 他们首次进入环地轨道 进入高度约220公里
+Dialogue: 0,0:02:13.07,0:02:16.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the three astronauts in the Soyuz certainly have a wonderful view.
+Dialogue: 0,0:02:13.07,0:02:16.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号上的三名宇航员当然有着绝妙的视野
+Dialogue: 0,0:02:19.83,0:02:20.97,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But there is work to be done,
+Dialogue: 0,0:02:19.83,0:02:20.97,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是还有工作要做
+Dialogue: 0,0:02:21.19,0:02:25.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}as they are still hundreds of kilometres away from the ISS -- their final destination.
+Dialogue: 0,0:02:21.19,0:02:25.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因为他们离国际空间站还有几百公里的距离 他们的最终目的地
+Dialogue: 0,0:02:31.10,0:02:34.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The International Space Station began life in 1998
+Dialogue: 0,0:02:31.10,0:02:34.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}国际空间站于1998年开始运行
+Dialogue: 0,0:02:34.70,0:02:38.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and has been orbiting Earth about once every 90 minutes ever since.
+Dialogue: 0,0:02:34.70,0:02:38.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}此后大约每90分钟绕地球运行一次
+Dialogue: 0,0:02:40.55,0:02:44.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The orbital plane of the ISS is fairly constant,
+Dialogue: 0,0:02:40.55,0:02:44.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}国际空间站的轨道平面是相当固定的
+Dialogue: 0,0:02:44.08,0:02:46.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}while the Earth is always rotating.
+Dialogue: 0,0:02:44.08,0:02:46.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而地球总是在自转
+Dialogue: 0,0:02:47.65,0:02:51.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Projecting the orbit of the ISS onto a 2D map,
+Dialogue: 0,0:02:47.65,0:02:51.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}把国际空间站的轨道投影到二维地图上
+Dialogue: 0,0:02:51.00,0:02:53.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}we see a series of intersecting curves.
+Dialogue: 0,0:02:51.00,0:02:53.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们可以看到一系列相交的曲线
+Dialogue: 0,0:02:55.80,0:03:01.79,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}The Mission Control Centres in Moscow and Houston constantly monitor the position of the ISS,
+Dialogue: 0,0:02:55.80,0:03:01.79,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}莫斯科和休斯敦的任务控制中心不断监测国际空间站的位置
+Dialogue: 0,0:02:56.66,0:03:02.22,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,180)\bord0\fscy120\fn思源黑体 Bold\pos(1780,947)}任务控制中心\h\h{\fn思源黑体 Medium}俄罗斯，莫斯科
+Dialogue: 0,0:03:01.79,0:03:06.74,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}and can predict its expected location in the orbit for any given time in the future.
+Dialogue: 0,0:03:01.79,0:03:06.74,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}并能预测未来任何特定时间内国际空间站在轨道上的预期位置
+Dialogue: 0,0:03:04.26,0:03:09.82,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,180)\bord0\fscy120\fn思源黑体 Bold\pos(1760,947)}任务控制中心\h\h\h\h{\fn思源黑体 Medium}德州，休斯顿
+Dialogue: 0,0:03:08.34,0:03:12.55,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}This is important for determining when the Soyuz spacecraft launches.
+Dialogue: 0,0:03:08.34,0:03:12.55,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}这对于确定联盟号航天器何时发射具有重要意义
+Dialogue: 0,0:03:13.73,0:03:17.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}While it is technically possible to launch the Soyuz rocket at any time,
+Dialogue: 0,0:03:13.73,0:03:17.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然在技术上可以在任何时候发射联盟号火箭
+Dialogue: 0,0:03:17.59,0:03:24.44,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it's most efficient to do so shortly after the ISS orbit passes over the Baikonur Cosmodrome in Kazakhstan.
+Dialogue: 0,0:03:17.59,0:03:24.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但在ISS轨道经过哈萨克斯坦的拜科努尔航天发射场后不久 进行发射的效率最高
+Dialogue: 0,0:03:25.66,0:03:29.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This shortens the amount of time to rendezvous and dock with the Station
+Dialogue: 0,0:03:25.66,0:03:29.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就缩短了与空间站交会对接的时间
+Dialogue: 0,0:03:29.39,0:03:32.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}from about two days to only six hours.
+Dialogue: 0,0:03:29.39,0:03:32.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}从两天左右缩短到6个小时
+Dialogue: 0,0:03:32.85,0:03:36.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This short rendezvous trajectory has been implemented since 2013.
+Dialogue: 0,0:03:32.85,0:03:36.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种短时交会轨道自2013年开始实施
+Dialogue: 0,0:03:37.59,0:03:41.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}However, if the Soyuz rocket misses the necessary launch window
+Dialogue: 0,0:03:37.59,0:03:41.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然而 如果联盟号火箭错过了必要的发射窗口
+Dialogue: 0,0:03:41.56,0:03:44.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or any of the upcoming engine burns do not occur as planned,
+Dialogue: 0,0:03:41.56,0:03:44.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或接下来任何的发动机点火不能按计划进行
+Dialogue: 0,0:03:45.28,0:03:50.24,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the spacecraft has enough extra fuel to revert to a two-day long rendezvous.
+Dialogue: 0,0:03:45.28,0:03:50.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}航天器有足够的多余燃料 可以恢复到两天的长时交会对接
+Dialogue: 0,0:03:50.93,0:03:55.90,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}This happened in March of 2014 because of an attitude control problem,
+Dialogue: 0,0:03:50.93,0:03:55.90,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}这发生在2014年3月 由于高度控制问题
+Dialogue: 0,0:03:51.26,0:03:55.06,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,180)\bord0\fscy120\pos(1740,947)\fn思源黑体 Medium}第39远征队
+Dialogue: 0,0:03:55.90,0:04:00.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and thus, the rendezvous was replanned to the formerly used long trajectory.
+Dialogue: 0,0:03:55.90,0:04:00.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}交会被重新规划为过去使用的长时轨道
+Dialogue: 0,0:04:02.83,0:04:05.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You take into consideration that there are some risks,
+Dialogue: 0,0:04:02.83,0:04:05.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你要考虑到这有一定的风险
+Dialogue: 0,0:04:05.76,0:04:07.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}some are worse than others,
+Dialogue: 0,0:04:05.76,0:04:07.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有的风险比其他的更严重
+Dialogue: 0,0:04:08.21,0:04:13.23,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}including the possibility of transitioning from a very short docking to a long docking,
+Dialogue: 0,0:04:08.21,0:04:13.23,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}包括从快速对接过渡到长时对接的可能性
+Dialogue: 0,0:04:11.34,0:04:14.90,1080P-src-hans-sans-medi-60,,0,0,0,,{\pos(1094,240)\fad(800,800)\bord0\fscy110\fs70}短对接：5-6小时\N长对接：2天
+Dialogue: 0,0:04:13.36,0:04:16.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which was the standard until a year ago.
+Dialogue: 0,0:04:13.36,0:04:16.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是一年前的标准
+Dialogue: 0,0:04:17.41,0:04:21.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We know of the possibility; it's something that we are trained for.
+Dialogue: 0,0:04:17.41,0:04:21.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们知道这种可能性 这是我们为之训练的东西
+Dialogue: 0,0:04:21.03,0:04:24.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We know that the spacecraft has everything that we need for those two days,
+Dialogue: 0,0:04:21.03,0:04:24.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们知道航天器上有我们这两天所需要的一切
+Dialogue: 0,0:04:25.02,0:04:27.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and we know how to react.
+Dialogue: 0,0:04:25.02,0:04:27.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们也知道如何应对
+Dialogue: 0,0:04:28.93,0:04:30.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Rendezvous is defined
+Dialogue: 0,0:04:28.93,0:04:30.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}交会的定义是
+Dialogue: 0,0:04:30.08,0:04:35.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}as the sequence of manoeuvres governing the approach of two space vehicles to one another.
+Dialogue: 0,0:04:30.08,0:04:35.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}两个空间飞行器相互接近的一系列机动动作
+Dialogue: 0,0:04:35.46,0:04:41.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}In most cases one of them is the chaser, performing the manoeuvres, in this case, the Soyuz,
+Dialogue: 0,0:04:35.46,0:04:41.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在大多数情况下 其中一个是追逐者 执行机动 在这种情况下 是联盟号
+Dialogue: 0,0:04:41.06,0:04:48.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}while the second is a passive target vehicle, in this case, the International Space Station.
+Dialogue: 0,0:04:41.06,0:04:48.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而第二个是被动目标飞行器 在这种情况下是国际空间站
+Dialogue: 0,0:04:48.40,0:04:54.38,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Ideally, both vehicles meet up safely at an exact preselected point in space and time.
+Dialogue: 0,0:04:48.40,0:04:54.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}理想情况下，两个飞行器在预选的空间和时间上准确安全地相遇
+Dialogue: 0,0:04:55.41,0:04:59.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But how does the Soyuz achieve this?
+Dialogue: 0,0:04:55.41,0:04:59.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但联盟号是如何实现的呢？
+Dialogue: 0,0:04:59.32,0:05:03.24,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Well, the Soyuz has to climb from its initial insertion altitude
+Dialogue: 0,0:04:59.32,0:05:03.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号必须从最初的进入高度爬升
+Dialogue: 0,0:05:02.86,0:05:07.58,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord0\fscy110\fs70\pos(1184,858)}联盟飞船高度：220km
+Dialogue: 0,0:05:03.24,0:05:08.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}up to the same altitude of the Station, and then join and stay on this orbit.
+Dialogue: 0,0:05:03.24,0:05:08.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}到与空间站相同的高度 然后进入并停留在这个轨道上
+Dialogue: 0,0:05:04.58,0:05:09.62,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord0\fscy110\fs70\pos(1174,148)}空间站高度：420km
+Dialogue: 0,0:05:10.36,0:05:12.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It sounds like a simple enough task,
+Dialogue: 0,0:05:10.36,0:05:12.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这听起来是一个足够简单的任务
+Dialogue: 0,0:05:12.37,0:05:16.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but it cannot be done in one single manoeuvre starting from the insertion altitude.
+Dialogue: 0,0:05:12.37,0:05:16.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这不可能从开始的进入高度 只用一次机动就完成
+Dialogue: 0,0:05:17.95,0:05:22.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Calculations for the final docking are based on a precise initial Soyuz altitude
+Dialogue: 0,0:05:17.95,0:05:22.74,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最终对接的计算是基于联盟号精确的初始高度的
+Dialogue: 0,0:05:22.83,0:05:27.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and unfortunately, the exact insertion orbit altitude is not known in advance
+Dialogue: 0,0:05:22.83,0:05:27.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}遗憾的是 我们事先不知道确切的进入轨道高度
+Dialogue: 0,0:05:27.87,0:05:30.71,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}because of some unpredictability in the rocket launch.
+Dialogue: 0,0:05:27.87,0:05:30.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是由于火箭发射过程中存在一些不可预测性
+Dialogue: 0,0:05:31.53,0:05:36.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Therefore, two manoeuvres are used with an intermediate phasing orbit in between.
+Dialogue: 0,0:05:31.53,0:05:36.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因此 会使用两次机动的方式 其间有一个中间调相轨道
+Dialogue: 0,0:05:36.88,0:05:41.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The phasing orbit is the basis for the final docking calculations.
+Dialogue: 0,0:05:36.88,0:05:41.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}相位调整轨道是最终对接计算的基础
+Dialogue: 0,0:05:41.02,0:05:45.65,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}It is reached using the first manoeuvre, called a Hohmann transfer,
+Dialogue: 0,0:05:41.02,0:05:45.65,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}它是用第一种机动的方式到达的 称为霍曼转移
+Dialogue: 0,0:05:45.22,0:05:49.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,140)\bord0\fscy120\fn思源黑体 Bold\pos(1700,947)}瓦尔特·霍曼\h\h\h\h\h{\fn思源黑体 Medium}德国科学家
+Dialogue: 0,0:05:45.65,0:05:49.54,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}named after a German scientist from the beginning of the 20th century.
+Dialogue: 0,0:05:45.65,0:05:49.54,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}即以20世纪初一位德国科学家的名字命名的
+Dialogue: 0,0:05:50.96,0:05:55.27,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}During the Hohmann transfer, the Soyuz has to use its engines twice.
+Dialogue: 0,0:05:50.96,0:05:55.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在霍曼转移过程中 联盟号要使用两次发动机
+Dialogue: 0,0:05:56.98,0:06:01.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The first time is to leave its current insertion orbit shortly after launch
+Dialogue: 0,0:05:56.98,0:06:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}第一次是在发射后不久离开目前的进入轨道
+Dialogue: 0,0:06:01.73,0:06:03.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and transfer up to the phasing orbit.
+Dialogue: 0,0:06:01.73,0:06:03.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并上升转移到调相轨道上
+Dialogue: 0,0:06:04.01,0:06:09.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The second time is to get the vehicle traveling at the right speed to stay on that orbit.
+Dialogue: 0,0:06:04.01,0:06:09.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}第二次是让飞行器以适当的速度飞行 使其保持在那个轨道上
+Dialogue: 0,0:06:10.48,0:06:18.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The phasing orbit is lower than the ISS orbit by about 100 km and it serves a very specific purpose.
+Dialogue: 0,0:06:10.48,0:06:18.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}调相轨道比国际空间站轨道低100公里左右 它的作用非常特殊
+Dialogue: 0,0:06:18.20,0:06:26.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It decreases the phasing angle, or the angle between the two spacecraft in their respective orbits.
+Dialogue: 0,0:06:18.20,0:06:26.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它减少了相位角 或者说两个航天器在各自轨道上的相位角
+Dialogue: 0,0:06:26.19,0:06:30.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Here we see the Soyuz orbiting in the phasing orbit, depicted in yellow,
+Dialogue: 0,0:06:26.19,0:06:30.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里我们看到联盟号在相位调整轨道上运行 用黄色的颜色标明
+Dialogue: 0,0:06:30.85,0:06:36.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}while the ISS is orbiting in a higher orbit, depicted in green.
+Dialogue: 0,0:06:30.85,0:06:36.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而国际空间站在更高的轨道上运行 用绿色标明
+Dialogue: 0,0:06:36.00,0:06:41.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The third red orbit is the insertion orbit the Soyuz has already left.
+Dialogue: 0,0:06:36.00,0:06:41.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}第三个红色轨道是联盟号已经离开的进入轨道
+Dialogue: 0,0:06:41.80,0:06:46.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Because the Soyuz is on a lower orbit it will travel faster than the Station.
+Dialogue: 0,0:06:41.80,0:06:46.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由于联盟号在较低的轨道上 它的飞行速度会比空间站快
+Dialogue: 0,0:06:46.61,0:06:51.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Therefore, the Soyuz uses this phasing orbit to catch up with the ISS.
+Dialogue: 0,0:06:46.61,0:06:51.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因此 联盟号利用这个调相轨道追赶国际空间站
+Dialogue: 0,0:06:53.43,0:06:57.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Depending on whether the long or short rendezvous approach is being used,
+Dialogue: 0,0:06:53.43,0:06:57.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}根据使用的是长时交会还是短时交会
+Dialogue: 0,0:06:57.54,0:07:03.33,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soyuz will remain in this phasing orbit for close to two days, or just a few hours,
+Dialogue: 0,0:06:57.54,0:07:03.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号将在这个调相轨道上停留近两天或仅仅几个小时
+Dialogue: 0,0:07:03.33,0:07:06.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}however long it takes to reach the desired phasing angle.
+Dialogue: 0,0:07:03.33,0:07:06.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}无论达到所需的相位角需要多长时间
+Dialogue: 0,0:07:10.10,0:07:14.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Meanwhile, the crew haven't just been enjoying the views and weightlessness,
+Dialogue: 0,0:07:10.10,0:07:14.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}同一时间 宇航员还不只是享受美景和失重
+Dialogue: 0,0:07:14.52,0:07:19.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}they've been busy with leak checks and making sure systems are performing nominally.
+Dialogue: 0,0:07:14.52,0:07:19.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们一直在忙着查漏补缺 确保系统正常运行
+Dialogue: 0,0:07:20.17,0:07:23.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Then they issue the command for docking probe extension
+Dialogue: 0,0:07:20.17,0:07:23.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后他们发出对接探针伸出的命令
+Dialogue: 0,0:07:23.68,0:07:26.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}in advanced preparation for the final docking sequence.
+Dialogue: 0,0:07:23.68,0:07:26.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为最后的对接时序做提前准备
+Dialogue: 0,0:07:28.78,0:07:31.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}As soon as the pressure integrity of the vehicle is confirmed,
+Dialogue: 0,0:07:28.78,0:07:31.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只要确认了飞船的气压完好
+Dialogue: 0,0:07:32.10,0:07:36.53,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Mission Control Centre gives the go-ahead for the crew to loosen their seatbelts,
+Dialogue: 0,0:07:32.10,0:07:36.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}任务控制中心就会发出指令 让宇航员松开安全带
+Dialogue: 0,0:07:36.53,0:07:38.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}open their helmets, and take off their gloves.
+Dialogue: 0,0:07:36.53,0:07:38.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}打开头盔 脱掉手套
+Dialogue: 0,0:07:42.56,0:07:44.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Once they reach the phasing orbit,
+Dialogue: 0,0:07:42.56,0:07:44.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}到达调相轨道后
+Dialogue: 0,0:07:44.35,0:07:47.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the crew finally have some well-deserved downtime,
+Dialogue: 0,0:07:44.35,0:07:47.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员们终于有了一些应得的休息时间
+Dialogue: 0,0:07:47.48,0:07:51.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}especially those completing the two-day long rendezvous trajectory.
+Dialogue: 0,0:07:47.48,0:07:51.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}特别是那些完成了为期两天的长时交会的人
+Dialogue: 0,0:07:51.99,0:07:54.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There are what we call five deaf orbits.
+Dialogue: 0,0:07:51.99,0:07:54.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们所说的五个耳聋轨道
+Dialogue: 0,0:07:52.50,0:07:57.10,1080P-src-hans-sans-medi-60,,0,0,0,,{\pos(1355,150)\fad(800,800)\bord0\fscy110\fs70}长交会
+Dialogue: 0,0:07:54.85,0:07:59.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's five orbits in which the crew cannot have contact with the ground
+Dialogue: 0,0:07:54.85,0:07:59.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是5个其上宇航员不能与地面联系的轨道
+Dialogue: 0,0:07:59.19,0:08:04.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}because the orbit of the Soyuz is not passing over Russia,
+Dialogue: 0,0:07:59.19,0:08:04.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是因为联盟号飞船的轨道没有经过俄罗斯的上空
+Dialogue: 0,0:08:04.20,0:08:07.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and you only have contact with the ground when you're passing over Russia with the Soyuz.
+Dialogue: 0,0:08:04.20,0:08:07.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有当你与联盟号经过俄罗斯上空时 你才能与地面接触
+Dialogue: 0,0:08:07.79,0:08:09.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So you are completely on yourself.
+Dialogue: 0,0:08:07.79,0:08:09.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以你只能完全靠自己
+Dialogue: 0,0:08:09.62,0:08:13.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So it's actually a nice time for the crew, because you cannot be disturbed,
+Dialogue: 0,0:08:09.62,0:08:13.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以对于宇航员来说 这其实是个很不错的时候 因为你不会被打扰
+Dialogue: 0,0:08:13.19,0:08:16.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}nobody can give you tasks, you can do whatever you want.
+Dialogue: 0,0:08:13.19,0:08:16.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没有人能给你任务 你想做什么就做什么
+Dialogue: 0,0:08:18.17,0:08:19.66,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Luckily for the astronauts,
+Dialogue: 0,0:08:18.17,0:08:19.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}幸运的是 对宇航员来说
+Dialogue: 0,0:08:19.76,0:08:24.21,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soyuz is designed so they are not confined to their seats for the entire trip.
+Dialogue: 0,0:08:19.76,0:08:24.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号的设计让他们在整个旅程中不用被限制在座位上
+Dialogue: 0,0:08:25.22,0:08:30.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Though small, the spacecraft allows the astronauts to move freely between the accessible modules.
+Dialogue: 0,0:08:25.22,0:08:30.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号虽然小 但可以让宇航员在可进入的舱室之间自由移动
+Dialogue: 0,0:08:37.81,0:08:42.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Soyuz has three compartments: the Orbital Module,
+Dialogue: 0,0:08:37.81,0:08:42.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号有三个舱段 轨道舱
+Dialogue: 0,0:08:42.02,0:08:44.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Descent Module, and the Instrument Compartment.
+Dialogue: 0,0:08:42.02,0:08:44.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}返回舱 以及设备舱
+Dialogue: 0,0:08:45.35,0:08:49.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Each compartment has a different architecture, and a specific purpose.
+Dialogue: 0,0:08:45.35,0:08:49.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}每个舱段都有不同的结构 也有特定的用途
+Dialogue: 0,0:08:50.53,0:08:53.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Orbital Module, or living compartment,
+Dialogue: 0,0:08:50.53,0:08:53.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}轨道舱 也就是生活舱
+Dialogue: 0,0:08:53.20,0:08:56.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}is equipped with sleeping bags, food, and a toilet.
+Dialogue: 0,0:08:53.20,0:08:56.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}配有睡袋 食物和厕所
+Dialogue: 0,0:08:59.58,0:09:01.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So here we are in the Soyuz.
+Dialogue: 0,0:08:59.58,0:09:01.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在我们在联盟号上
+Dialogue: 0,0:09:00.22,0:09:04.82,1080P-src-hans-sans-medi-60,,0,0,0,,{\pos(1260,150)\fad(800,800)\bord0.1\blur4\fscy110\fs70}在一个对接好的联盟飞船里
+Dialogue: 0,0:09:01.06,0:09:06.01,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}This is what we call the БО, the living compartment, "бытовой отсек" in Russian.
+Dialogue: 0,0:09:01.06,0:09:06.01,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}这就是我们所说的БО 生活舱 俄语中的бытовой отсек
+Dialogue: 0,0:09:02.62,0:09:08.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a11\fad(100,140)\bord0\fscy120\fn思源黑体 Bold\pos(1750,947)}苏妮塔·威廉斯\h\h\h\h\h{\fn思源黑体 Medium}NASA宇航员
+Dialogue: 0,0:09:06.50,0:09:10.62,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}It also has a little bathroom, it's not as good as the other bathrooms
+Dialogue: 0,0:09:06.50,0:09:10.62,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}它还有一个小浴室 只是没有其他的浴室那么好
+Dialogue: 0,0:09:10.81,0:09:12.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so we try not to use it too much.
+Dialogue: 0,0:09:10.81,0:09:17.81,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4\move(1930,10,1910,10,0,500)}b23.tv/av12593669 26:00 \Nyoutube上的原视频我没找到……
+Dialogue: 0,0:09:10.81,0:09:12.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以我们尽可能不去使用它
+Dialogue: 0,0:09:12.41,0:09:15.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It has drinking water in it if we need something to drink,
+Dialogue: 0,0:09:12.41,0:09:15.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里面有饮用水 如果我们需要喝水的话
+Dialogue: 0,0:09:15.49,0:09:20.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then, of course, it's filled up with a lot of cargo for us.
+Dialogue: 0,0:09:15.49,0:09:20.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后当然 它为我们装了很多货物
+Dialogue: 0,0:09:20.06,0:09:23.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Instrument Compartment, not accessible to the astronauts,
+Dialogue: 0,0:09:20.06,0:09:23.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}设备舱 宇航员无法进入
+Dialogue: 0,0:09:23.85,0:09:26.46,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}houses the oxygen and propellant tanks,
+Dialogue: 0,0:09:23.85,0:09:26.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}里面有氧气罐和推进剂罐
+Dialogue: 0,0:09:26.46,0:09:29.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}thrusters, the on-board computer, and a number of sensors.
+Dialogue: 0,0:09:26.46,0:09:29.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}推进器 机载计算机和一些传感器
+Dialogue: 0,0:09:31.16,0:09:32.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}From the Descent Module,
+Dialogue: 0,0:09:31.16,0:09:32.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}从返回舱中
+Dialogue: 0,0:09:32.87,0:09:37.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the three crewmembers monitor all information about the spacecraft and the ISS
+Dialogue: 0,0:09:32.87,0:09:37.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}三名宇航员监控着有关航天器和国际空间站的所有信息
+Dialogue: 0,0:09:37.55,0:09:39.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}from ground data, the on-board computers,
+Dialogue: 0,0:09:37.55,0:09:39.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}包括地面数据 机载计算机
+Dialogue: 0,0:09:40.04,0:09:44.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and an optical display of the view from a periscope mounted on the outside.
+Dialogue: 0,0:09:40.04,0:09:44.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及一个安装在外部的潜望镜的光学视角
+Dialogue: 0,0:09:47.31,0:09:51.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}For the second orbital transfer and the final rendezvous manoeuvres,
+Dialogue: 0,0:09:47.31,0:09:51.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在第二次轨道转移和最后的交会对接中
+Dialogue: 0,0:09:51.07,0:09:53.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the astronauts return to their seats in this module.
+Dialogue: 0,0:09:51.07,0:09:53.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员返回到这个舱内的座位上
+Dialogue: 0,0:09:54.81,0:10:00.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The second orbital transfer brings the Soyuz from the phasing orbit up to the ISS orbit.
+Dialogue: 0,0:09:54.81,0:10:00.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}第二次轨道转移将联盟号从调相轨道上升到国际空间站轨道
+Dialogue: 0,0:10:00.61,0:10:07.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's called a bielliptic transfer, and requires three engine burns instead of the Hohmann's two.
+Dialogue: 0,0:10:00.61,0:10:07.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就是双椭圆转移 需要三次发动机点火 而不是霍曼转移的两次
+Dialogue: 0,0:10:07.39,0:10:13.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}From the phasing orbit, the first two burns bring the Soyuz up to the ISS orbit.
+Dialogue: 0,0:10:07.39,0:10:13.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}从调相轨道出发 前两次点火将联盟号送上国际空间站轨道
+Dialogue: 0,0:10:13.02,0:10:18.67,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}The third burn gets the vehicle traveling at the correct speed to stay in the ISS orbit.
+Dialogue: 0,0:10:13.02,0:10:18.67,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}第三次点火使飞行器以正确的速度 在国际空间站轨道上停留
+Dialogue: 0,0:10:18.67,0:10:25.03,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}The burns of the bielliptic transfer are calculated based on the precise altitude of the phasing orbit.
+Dialogue: 0,0:10:18.67,0:10:25.03,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}双椭圆转移的点火是根据调相轨道的精确高度来计算的
+Dialogue: 0,0:10:25.13,0:10:29.27,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}And consequently, if the phasing orbit is too high or too low
+Dialogue: 0,0:10:25.13,0:10:29.27,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}因此 如果调相轨道过高或过低的话
+Dialogue: 0,0:10:29.33,0:10:32.98,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}the Soyuz will not meet up with the ISS as expected.
+Dialogue: 0,0:10:29.33,0:10:32.98,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}联盟号不会像预期的那样与国际空间站交会
+Dialogue: 0,0:10:34.77,0:10:39.30,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The reason for using a bielliptic transfer here instead of the Hohmann's is
+Dialogue: 0,0:10:34.77,0:10:39.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里用双椭圆转移而不是霍曼转移的原因是
+Dialogue: 0,0:10:39.32,0:10:44.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that the Soyuz will not only reach the correct altitude in the close vicinity of the ISS,
+Dialogue: 0,0:10:39.32,0:10:44.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号不仅可以在国际空间站附近达到正确的高度
+Dialogue: 0,0:10:44.33,0:10:47.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but also with exactly the desired speed.
+Dialogue: 0,0:10:44.33,0:10:47.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还能以准确的速度到达国际空间站
+Dialogue: 0,0:10:51.15,0:10:52.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Despite these precise manoeuvres,
+Dialogue: 0,0:10:51.15,0:10:52.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}尽管有这些精确的机动
+Dialogue: 0,0:10:53.06,0:10:55.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}what if the thrusters fail to slow down the Soyuz
+Dialogue: 0,0:10:53.06,0:10:55.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但如果推进器未能使联盟号减速
+Dialogue: 0,0:10:55.87,0:10:59.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the vehicle travels too fast as it approaches the ISS?
+Dialogue: 0,0:10:55.87,0:10:59.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而它在接近国际空间站时飞行速度过快怎么办？
+Dialogue: 0,0:10:59.63,0:11:05.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This could end in disaster, with the Soyuz crashing into the Station instead of docking.
+Dialogue: 0,0:10:59.63,0:11:05.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这可能是个灾难性的结局 联盟号不是对接 而是撞上了空间站
+Dialogue: 0,0:11:05.15,0:11:09.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}To prevent this from happening the Soyuz performs an additional side burn.
+Dialogue: 0,0:11:05.15,0:11:09.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为了防止这种情况的发生 联盟号进行了一次额外的侧向点火
+Dialogue: 0,0:11:09.95,0:11:17.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This changes its orbital plane slightly and makes a collision between the two vehicles impossible.
+Dialogue: 0,0:11:09.95,0:11:17.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样一来 它的轨道平面稍有变化 两飞行器之间就不可能发生碰撞
+Dialogue: 0,0:11:17.72,0:11:19.43,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Throughout the rendezvous process,
+Dialogue: 0,0:11:17.72,0:11:19.43,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在整个交会对接过程中
+Dialogue: 0,0:11:19.59,0:11:26.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soyuz on-board computer continually determines the position and velocity of the Soyuz itself and of the ISS.
+Dialogue: 0,0:11:19.59,0:11:26.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号机载计算机不断确定联盟号本身和国际空间站的位置和速度
+Dialogue: 0,0:11:27.06,0:11:30.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}To do so, it uses measurements provided by the ground controllers
+Dialogue: 0,0:11:27.06,0:11:30.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为此 它使用地面测控提供的测量结果
+Dialogue: 0,0:11:30.79,0:11:33.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and a radar system called the Kurs.
+Dialogue: 0,0:11:30.79,0:11:33.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}和一个叫Kurs的雷达系统
+Dialogue: 0,0:11:33.99,0:11:34.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}In this way,
+Dialogue: 0,0:11:33.99,0:11:34.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样一来
+Dialogue: 0,0:11:34.86,0:11:40.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}all of the burns during the rendezvous are calculated and automated by the on-board computer.
+Dialogue: 0,0:11:34.86,0:11:40.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}交会期间的所有点火都由机载计算机计算并自动完成
+Dialogue: 0,0:11:41.76,0:11:48.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So Soyuz navigates in space and looks for the Station with a special radar system,
+Dialogue: 0,0:11:41.76,0:11:48.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号使用特殊的雷达系统在太空中导航并寻找空间站
+Dialogue: 0,0:11:48.57,0:11:50.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which is called the Kurs.
+Dialogue: 0,0:11:48.57,0:11:50.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这个系统叫做Kurs
+Dialogue: 0,0:11:50.32,0:11:54.30,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This gets turned on at 400 km from the Station.
+Dialogue: 0,0:11:50.32,0:11:54.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这在离空间站400km的地方就会被打开
+Dialogue: 0,0:11:54.48,0:11:55.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It looks, looks, looks,
+Dialogue: 0,0:11:54.48,0:11:55.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它找啊找啊找
+Dialogue: 0,0:11:55.38,0:12:01.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and usually it sees the Station and locks into the Station at around, more or less, 180 kilometres.
+Dialogue: 0,0:11:55.38,0:12:01.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一般情况下 会在180公里左右看见并锁定空间站
+Dialogue: 0,0:12:01.52,0:12:04.21,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}At that distance, we really don't see the Station.
+Dialogue: 0,0:12:01.52,0:12:04.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个距离 我们事实上看不到空间站
+Dialogue: 0,0:12:04.21,0:12:10.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's probably -- even if you could see it, it's probably similar to any of the stars that are up there in space.
+Dialogue: 0,0:12:04.21,0:12:10.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它可能 即使你能看到它 它可能和太空中的任何一颗恒星都很相似
+Dialogue: 0,0:12:10.33,0:12:17.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But you see on the screen the lock, the software indication that the radar locked into the Station.
+Dialogue: 0,0:12:10.33,0:12:17.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但你在屏幕上看到 那个锁定标志 软件显示雷达锁定了空间站
+Dialogue: 0,0:12:11.06,0:12:17.62,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(360,0)\bord0\fs70\fn思源黑体 Regular\pos(1540,835)}联盟飞船显示器
+Dialogue: 0,0:12:11.78,0:12:17.62,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord0\fs70\fn思源黑体 Regular\c&H0F1FFA&\pos(1186,230)}锁定
+Dialogue: 0,0:12:18.15,0:12:23.05,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}The third and final burn of the pre-mentioned bielliptic transfer is very important,
+Dialogue: 0,0:12:18.15,0:12:23.05,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}前面提到的双椭圆转移的第三次也是最后一次点火是非常重要的
+Dialogue: 0,0:12:23.08,0:12:28.64,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}because it sets the vehicle up for its near-ISS rendezvous procedures that will lead to docking.
+Dialogue: 0,0:12:23.08,0:12:28.64,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}因为它为飞行器对接前的近ISS交会程序做好了准备
+Dialogue: 0,0:12:29.76,0:12:30.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}When you do a normal burn,
+Dialogue: 0,0:12:29.76,0:12:30.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当你正常点火时
+Dialogue: 0,0:12:31.91,0:12:35.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the vehicle rotates to the correct attitude at two degrees per second,
+Dialogue: 0,0:12:31.91,0:12:35.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}飞行器以每秒两度的速度旋转到正确的姿态
+Dialogue: 0,0:12:36.12,0:12:39.27,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then it takes about eight minutes to start the burn.
+Dialogue: 0,0:12:36.12,0:12:39.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后大约8分钟后开始点火
+Dialogue: 0,0:12:39.27,0:12:41.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}When you're close to the Space Station and you have to brake,
+Dialogue: 0,0:12:39.27,0:12:41.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当你接近空间站时 你必须要减速
+Dialogue: 0,0:12:41.73,0:12:43.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}of course this would not work.
+Dialogue: 0,0:12:41.73,0:12:43.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当然这样是不行的
+Dialogue: 0,0:12:43.50,0:12:46.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So then the vehicle all of a sudden starts rotating quite fast,
+Dialogue: 0,0:12:43.50,0:12:46.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以飞行器突然间开始快速旋转
+Dialogue: 0,0:12:46.90,0:12:50.09,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}three and a half degrees per second and only just after that,
+Dialogue: 0,0:12:46.90,0:12:50.09,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一秒三度半 紧接着
+Dialogue: 0,0:12:50.09,0:12:52.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}50 seconds after that you already have the burn.
+Dialogue: 0,0:12:50.09,0:12:52.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}50秒之后 你就已经开始点火
+Dialogue: 0,0:12:52.90,0:12:54.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And once the burn is completed,
+Dialogue: 0,0:12:52.90,0:12:54.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而一旦点火完成后
+Dialogue: 0,0:12:54.63,0:12:58.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}immediately the vehicle starts rotating again to the normal orientation,
+Dialogue: 0,0:12:54.63,0:12:58.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}飞行器立即又开始向正常方向旋转
+Dialogue: 0,0:12:58.70,0:13:01.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the crew has to monitor this quite intensely
+Dialogue: 0,0:12:58.70,0:13:01.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员必须对此进行相当严格的监控
+Dialogue: 0,0:13:01.84,0:13:05.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and these are really high peaks of workload to see that everything is okay,
+Dialogue: 0,0:13:01.84,0:13:05.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}去看一切是否正常真的是工作量的高峰
+Dialogue: 0,0:13:05.61,0:13:07.09,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the rotation is going okay,
+Dialogue: 0,0:13:05.61,0:13:07.09,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}旋转还算顺利
+Dialogue: 0,0:13:07.09,0:13:10.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you know that you have the burn, the burn values were okay,
+Dialogue: 0,0:13:07.09,0:13:10.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你知道你点火了 点火数值没问题
+Dialogue: 0,0:13:10.99,0:13:14.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you rotate back, and then you see back the Space Station in your main display.
+Dialogue: 0,0:13:10.99,0:13:14.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你旋转回去 然后在你的主显示屏上看到空间站
+Dialogue: 0,0:13:14.83,0:13:20.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We could see it, first a dot a little bit brighter than the other stars in the sky,
+Dialogue: 0,0:13:14.83,0:13:20.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们可以看到 先是一个点 比天空中的其他星星亮了一点
+Dialogue: 0,0:13:20.70,0:13:22.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then little by little,
+Dialogue: 0,0:13:20.70,0:13:22.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后一点一点地
+Dialogue: 0,0:13:22.65,0:13:28.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}we start to see like a little spider first with all the solar arrays and everything,
+Dialogue: 0,0:13:22.65,0:13:28.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们开始看到像小蜘蛛一样的 那些太阳能阵列和其他所有东西
+Dialogue: 0,0:13:28.36,0:13:34.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then it was apparent that there's a huge outpost right there in front of us.
+Dialogue: 0,0:13:28.36,0:13:34.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后很清楚地 有个巨大的物体出现在我们眼前
+Dialogue: 0,0:13:34.97,0:13:38.38,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}During this stage, the crew commander, sitting in the middle
+Dialogue: 0,0:13:34.97,0:13:38.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个阶段 坐在中间的指令长
+Dialogue: 0,0:13:38.52,0:13:41.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}gives vital information and instructions to his crewmates.
+Dialogue: 0,0:13:38.52,0:13:41.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}向同伴发布重要信息和指令
+Dialogue: 0,0:13:41.98,0:13:48.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Their workload has increased; many parameters need to be checked and systems activated.
+Dialogue: 0,0:13:41.98,0:13:48.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们的工作量增加了 许多参数需要检查 许多系统需要激活
+Dialogue: 0,0:13:48.89,0:13:50.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Days before launch,
+Dialogue: 0,0:13:48.89,0:13:50.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}发射前几天
+Dialogue: 0,0:13:50.28,0:13:54.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a team of flight dynamics experts at the Mission Control Centres in Moscow and Houston
+Dialogue: 0,0:13:50.28,0:13:54.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}莫斯科和休斯顿飞行任务控制中心的飞行动力学专家小组
+Dialogue: 0,0:13:54.89,0:13:58.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}determine the ideal position and orientation of the ISS,
+Dialogue: 0,0:13:54.89,0:13:58.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}确定了国际空间站的理想位置和方向
+Dialogue: 0,0:13:58.75,0:14:01.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}based on a careful analysis of the constraints
+Dialogue: 0,0:13:58.75,0:14:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}基于对制约因素的仔细分析
+Dialogue: 0,0:14:01.47,0:14:05.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that could affect these final stages of the rendezvous timeline.
+Dialogue: 0,0:14:01.47,0:14:05.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这些因素可能会影响交会对接时间线上的最后步骤
+Dialogue: 0,0:14:05.64,0:14:09.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}First, there must be adequate lighting conditions at the time of docking
+Dialogue: 0,0:14:05.64,0:14:09.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}首先 对接时必须有足够的照明条件
+Dialogue: 0,0:14:09.24,0:14:14.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so that the Soyuz crew can see the ISS without being blinded or blocked by the sun.
+Dialogue: 0,0:14:09.24,0:14:14.39,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4\move(1930,10,1910,10,0,500)\s1}（战雷梗）安东核弹太阳{\s0}
+Dialogue: 0,0:14:09.24,0:14:14.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样 联盟号上的宇航员就可以看到国际空间站 而不会由于太阳而暂时失明或被遮挡
+Dialogue: 0,0:14:15.11,0:14:18.30,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It depends if the Station is illuminated, is in the sun,
+Dialogue: 0,0:14:15.11,0:14:18.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}要看空间站是否有光照 是否在阳光下
+Dialogue: 0,0:14:18.30,0:14:21.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}then you can see it even if you are relatively far away.
+Dialogue: 0,0:14:18.30,0:14:21.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么即使距离相对较远也能看到它
+Dialogue: 0,0:14:21.79,0:14:26.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But if the Station is not in the sun, then you cannot see it even if you are close.
+Dialogue: 0,0:14:21.79,0:14:26.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是 如果空间站不在阳光下 那么即使离得再近也看不到它
+Dialogue: 0,0:14:26.67,0:14:30.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Additionally, major temperature fluctuations of ISS elements,
+Dialogue: 0,0:14:26.67,0:14:30.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}此外 必须避免ISS部件过大的温度波动
+Dialogue: 0,0:14:30.89,0:14:35.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}such as the solar arrays, must be avoided to prevent structural deformation.
+Dialogue: 0,0:14:30.89,0:14:35.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如太阳能阵列等 以防止结构变形
+Dialogue: 0,0:14:36.18,0:14:42.33,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Finally, there must be clear communication pathways between the ground, Soyuz, and ISS.
+Dialogue: 0,0:14:36.18,0:14:42.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后 地面 联盟号和国际空间站之间必须有通畅的通信线路
+Dialogue: 0,0:14:43.53,0:14:48.49,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The rendezvous is a fully automated process performed by the on-board computer.
+Dialogue: 0,0:14:43.53,0:14:48.49,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}交会是由机载计算机执行的一个完全自动化的过程
+Dialogue: 0,0:14:49.03,0:14:52.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}However, the commander still takes the hand controller
+Dialogue: 0,0:14:49.03,0:14:52.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是 指令长仍旧拿着手动控制器
+Dialogue: 0,0:14:52.09,0:14:56.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4} just in case there is a need to perform a contingency manual docking.
+Dialogue: 0,0:14:52.09,0:14:56.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以防万一需要进行应急手动对接
+Dialogue: 0,0:14:56.60,0:14:59.92,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you don't see the Space Station or something happens at that moment,
+Dialogue: 0,0:14:56.60,0:14:59.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你没有看到空间站 或者在那一刻发生了什么事情
+Dialogue: 0,0:15:00.13,0:15:02.25,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}then you might have to take manual control.
+Dialogue: 0,0:15:00.13,0:15:02.25,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么你可能就需要手动控制了
+Dialogue: 0,0:15:02.25,0:15:05.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And so you have to remember very well, where is the Space Station now,
+Dialogue: 0,0:15:02.25,0:15:05.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以你要牢牢记住空间站现在在哪里
+Dialogue: 0,0:15:05.54,0:15:07.71,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}what are the actions that I'm going to take,
+Dialogue: 0,0:15:05.54,0:15:07.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我要采取什么行动
+Dialogue: 0,0:15:07.71,0:15:10.38,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and this is really the intense moments that happen.
+Dialogue: 0,0:15:07.71,0:15:10.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这才是真正的紧张时刻
+Dialogue: 0,0:15:11.19,0:15:15.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Manual docking requires two hand controllers to pilot the vehicle,
+Dialogue: 0,0:15:11.19,0:15:15.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}手动对接需要两个手动控制器来驾驶飞行器
+Dialogue: 0,0:15:15.32,0:15:20.92,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a left one that control translation and a right one that controls rotation.
+Dialogue: 0,0:15:15.32,0:15:20.92,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}左边的控制平移 右边的控制旋转
+Dialogue: 0,0:15:20.92,0:15:24.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The crew are thoroughly trained in these manual docking procedures,
+Dialogue: 0,0:15:20.92,0:15:24.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}航天员们都经过了彻底的手动对接培训
+Dialogue: 0,0:15:24.41,0:15:28.46,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}even training until the very last days before launch in Baikonur.
+Dialogue: 0,0:15:24.41,0:15:28.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}甚至在拜科努尔的发射前最后几天都会进行练习
+Dialogue: 0,0:15:30.98,0:15:32.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Besides contingency docking,
+Dialogue: 0,0:15:30.98,0:15:32.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}除了应急对接
+Dialogue: 0,0:15:32.69,0:15:37.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the crew might also utilize their manual control training during redocking manoeuvres.
+Dialogue: 0,0:15:32.69,0:15:37.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员们还可以将他们的手动控制训练应用在重新对接的机动中
+Dialogue: 0,0:15:38.73,0:15:44.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The ISS is constantly visited by manned Soyuz vehicles and other unmanned supply ships.
+Dialogue: 0,0:15:38.73,0:15:44.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}国际空间站不断有载人的联盟号飞船和其他无人驾驶的补给飞船到来
+Dialogue: 0,0:15:42.38,0:15:47.38,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4\move(1930,10,1910,10,0,500)}这里出现的是ATV（Automated Transfer Vehicle），\N欧空局研制的货运飞船，使用和进步飞船一样的对接标准，\N用于对接俄罗斯舱段
+Dialogue: 0,0:15:46.04,0:15:49.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Sometimes it is necessary to undock an attached Soyuz
+Dialogue: 0,0:15:46.04,0:15:49.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有时需要将对接的的联盟号分离
+Dialogue: 0,0:15:50.09,0:15:55.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and redock it to another port on the ISS to make room for one of these new ships.
+Dialogue: 0,0:15:50.09,0:15:55.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}将其重新停靠到国际空间站的另一个对接口 为新飞船腾出空间
+Dialogue: 0,0:15:55.89,0:15:59.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Luca Parmitano did this as part of Expedition 37.
+Dialogue: 0,0:15:55.89,0:15:59.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}Luca Parmitano 在第37远征队任务中做了此事
+Dialogue: 0,0:16:00.76,0:16:07.71,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}My crew was one of the few crews able to perform a manual docking and it went very smoothly.
+Dialogue: 0,0:16:00.76,0:16:07.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我的队员是为数不多能进行人工对接的宇航员之一 整个对接过程非常顺利
+Dialogue: 0,0:16:07.75,0:16:11.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We were excited because it's something that we trained on for a long time and we were able to do it.
+Dialogue: 0,0:16:07.75,0:16:11.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们很兴奋 因为这是我们训练了很久的东西 而且我们有能力做到这一点
+Dialogue: 0,0:16:12.24,0:16:16.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Apart from this case, a routine docking sequence is fully automated
+Dialogue: 0,0:16:12.24,0:16:16.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}除了这种情况外 常规的对接程序是全自动的
+Dialogue: 0,0:16:16.56,0:16:21.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the crew's main task is to monitor the systems to ensure nominal procedures.
+Dialogue: 0,0:16:16.56,0:16:21.74,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员的主要任务是监控系统 确保程序正常运行
+Dialogue: 0,0:16:23.00,0:16:28.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}At this stage during routine docking the vehicle's relative speed continues to decrease,
+Dialogue: 0,0:16:23.00,0:16:28.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个常规对接过程的阶段中 飞行器的相对速度不断降低
+Dialogue: 0,0:16:28.45,0:16:30.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}as does the distance between the two.
+Dialogue: 0,0:16:28.45,0:16:30.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}两者之间的距离也会不断缩短
+Dialogue: 0,0:16:31.32,0:16:34.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}400 metres from the Space Station, a new phase enters.
+Dialogue: 0,0:16:31.32,0:16:34.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在距离空间站400米的地方 新的阶段开始了
+Dialogue: 0,0:16:31.94,0:16:37.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(320,0)\bord0\fs70\fn思源黑体 Regular\pos(1540,835)}联盟飞船显示器
+Dialogue: 0,0:16:34.26,0:16:37.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord0\fs70\fn思源黑体 Regular\c&H0F1FFA&\pos(1180,170)}绕飞
+Dialogue: 0,0:16:34.89,0:16:37.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This is the phase what we call fly-around.
+Dialogue: 0,0:16:34.89,0:16:37.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就是我们所说的绕飞阶段
+Dialogue: 0,0:16:37.77,0:16:42.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}During this phase, the vehicle is actually not pointing at the desired docking port,
+Dialogue: 0,0:16:37.77,0:16:42.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在这个阶段 飞行器实际上并没有对准所需的对接端口
+Dialogue: 0,0:16:42.83,0:16:46.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but at either one of the Station's Kurs antennas.
+Dialogue: 0,0:16:42.83,0:16:46.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而是对准了空间站的任意一个Kurs天线
+Dialogue: 0,0:16:46.37,0:16:50.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's only when the vehicle reaches its 150m station keeping mode
+Dialogue: 0,0:16:46.37,0:16:50.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有当飞行器到达150米的位置保持模式时
+Dialogue: 0,0:16:51.06,0:16:55.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that the orientation changes to point at the selected docking port instead.
+Dialogue: 0,0:16:51.06,0:16:55.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}方向才会改变为指向所选的对接端口
+Dialogue: 0,0:16:55.88,0:17:00.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Soyuz then performs a second fly-around to align up with the docking port
+Dialogue: 0,0:16:55.88,0:17:00.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后联盟号进行第二次绕飞 对准对接端口
+Dialogue: 0,0:17:00.41,0:17:03.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}while keeping a distance of 150 m.
+Dialogue: 0,0:17:00.41,0:17:03.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}同时保持150米的距离
+Dialogue: 0,0:17:03.72,0:17:05.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Once aligned with the docking port,
+Dialogue: 0,0:17:03.72,0:17:05.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一旦对准了对接端口
+Dialogue: 0,0:17:05.73,0:17:09.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the crew issues the command for the last stage: the final approach.
+Dialogue: 0,0:17:05.73,0:17:09.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员发出最后一个阶段的指令 最后进近
+Dialogue: 0,0:17:10.79,0:17:15.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Soyuz computer display uses data from Kurs to provide the astronauts
+Dialogue: 0,0:17:10.79,0:17:15.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}联盟号计算机显示器利用Kurs的数据为航天员提供
+Dialogue: 0,0:17:14.30,0:17:19.22,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(980,800)\bord0\fs70\fn思源黑体 Regular\pos(1280,18)}联盟飞船显示器（已加速）
+Dialogue: 0,0:17:15.36,0:17:19.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with pertinent information about the rendezvous and docking manoeuvres.
+Dialogue: 0,0:17:15.36,0:17:19.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有关交会对接的相关信息
+Dialogue: 0,0:17:19.72,0:17:23.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Among other read-outs, the distance from the ISS is displayed,
+Dialogue: 0,0:17:19.72,0:17:23.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在其他读数中 与国际空间站的距离有被显示
+Dialogue: 0,0:17:23.56,0:17:25.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}here showing five metres,
+Dialogue: 0,0:17:23.56,0:17:25.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里显示的是5m
+Dialogue: 0,0:17:25.31,0:17:28.16,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}as is the relative velocity during the approach,
+Dialogue: 0,0:17:25.31,0:17:28.16,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}而在接近过程中的相对速度也是如此
+Dialogue: 0,0:17:28.16,0:17:30.69,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}currently 10 cm/s.
+Dialogue: 0,0:17:28.16,0:17:30.69,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}现在显示的是10cm/s.
+Dialogue: 0,0:17:30.69,0:17:34.40,1080P-src-hans-sans-medi-5e,,0,0,0,,{\blur4}This and other information is overlaid on the video feed,
+Dialogue: 0,0:17:30.69,0:17:34.40,1080P-src-hans-sans-medi-7e,,0,0,0,,{\blur4}这些信息和其他信息会叠加在视频源上
+Dialogue: 0,0:17:34.40,0:17:36.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}used to track alignment of the target.
+Dialogue: 0,0:17:34.40,0:17:36.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}用于跟踪目标的对齐
+Dialogue: 0,0:17:50.13,0:17:54.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Contact occurs as soon as the probe touches the entrance cone of the docking hatch.
+Dialogue: 0,0:17:50.13,0:17:54.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一旦探针碰到对接舱门的入口锥体 就会发生接触
+Dialogue: 0,0:17:55.37,0:17:58.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Then the thrusters give the Soyuz an extra push,
+Dialogue: 0,0:17:55.37,0:17:58.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后推进器给了联盟号一个额外的推动力
+Dialogue: 0,0:17:58.48,0:18:00.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the docking mechanism ensures capture.
+Dialogue: 0,0:17:58.48,0:18:00.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对接机构确保了捕获
+Dialogue: 0,0:18:08.78,0:18:10.42,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord1\blur4\fs70\fn思源黑体 Regular\c&H0F1FFA&\pos(640,150)}接触
+Dialogue: 0,0:18:10.42,0:18:17.26,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord1\fad(0,740)\blur4\fs70\fn思源黑体 Regular\c&H0F1FFA&\pos(640,150)}捕获
+Dialogue: 0,0:18:17.44,0:18:20.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I think this is where the impact was.
+Dialogue: 0,0:18:17.44,0:18:20.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我想这就是碰撞的地方
+Dialogue: 0,0:18:21.96,0:18:28.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So I would say about four to five inches off-centre.
+Dialogue: 0,0:18:21.96,0:18:28.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以我觉得是偏离中心4到5英寸左右
+Dialogue: 0,0:18:28.99,0:18:31.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Pretty good after traveling for a couple million miles!
+Dialogue: 0,0:18:28.99,0:18:31.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对于经过了几百万英里来说相当不错
+Dialogue: 0,0:18:32.72,0:18:36.21,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The probe retracts, and you get the two vehicles closer to each other,
+Dialogue: 0,0:18:32.72,0:18:36.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}探针缩回 两架飞行器就会更架接近对方
+Dialogue: 0,0:18:36.46,0:18:38.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then when they are very close to each other,
+Dialogue: 0,0:18:36.46,0:18:38.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后当它们之间的距离很近的时候
+Dialogue: 0,0:18:38.62,0:18:41.71,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}less than two to three millimetres, the hooks start closing.
+Dialogue: 0,0:18:38.62,0:18:41.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}不到两三毫米 钩子就开始合拢
+Dialogue: 0,0:18:41.71,0:18:45.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And it's when these hooks are fully closed that can take an enormous pressure
+Dialogue: 0,0:18:41.71,0:18:45.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而当这些钩子完全闭合时 就会承受巨大的压力
+Dialogue: 0,0:18:45.26,0:18:50.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}because they can withstand 16 tonnes of force, each of the hooks,
+Dialogue: 0,0:18:45.26,0:18:50.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因为每一个钩子可以承受16吨的力
+Dialogue: 0,0:18:50.71,0:18:53.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and you have eight hooks on the Soyuz vehicle.
+Dialogue: 0,0:18:50.71,0:18:53.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而你在联盟号飞船上有8个钩子
+Dialogue: 0,0:18:53.89,0:18:57.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This is still not enough, because there might be something inside the O-rings,
+Dialogue: 0,0:18:53.89,0:18:57.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样做还是不够 因为O型环里面可能会有东西
+Dialogue: 0,0:18:57.89,0:19:04.11,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}some dirt or some debris, that is not allowing for a good seal.
+Dialogue: 0,0:18:57.89,0:19:04.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一些污垢或者是一些杂物 这些都会使密封性不好
+Dialogue: 0,0:19:04.11,0:19:12.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So there is a series of vacuum and depressurisations done in a very astute manner
+Dialogue: 0,0:19:04.11,0:19:12.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以会高精度地进行一系列相应的真空和减压的工作
+Dialogue: 0,0:19:12.43,0:19:18.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that verifies that each one of these compartments is actually sealed tight.
+Dialogue: 0,0:19:12.43,0:19:18.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}可以验证每一个隔间是否真的密封严密
+Dialogue: 0,0:19:19.04,0:19:26.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Only at that point -- and by the way, all of this takes I would say an hour, one to two hours.
+Dialogue: 0,0:19:19.04,0:19:26.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有在这时 顺便说一下 这一切都需要一个小时 一到两个小时
+Dialogue: 0,0:19:26.08,0:19:32.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Only then when everything is proved to be fully sealed,
+Dialogue: 0,0:19:26.08,0:19:32.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有当一切都被证明是完全密封的时候
+Dialogue: 0,0:19:32.29,0:19:36.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}only then you can open the hatch of the Station, the hatch of the Soyuz,
+Dialogue: 0,0:19:32.29,0:19:36.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有这样 你才能打开空间站的舱门 联盟号的舱门
+Dialogue: 0,0:19:36.34,0:19:38.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the crew can actually go into the Station.
+Dialogue: 0,0:19:36.34,0:19:38.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员们才能真正进入太空站
+Dialogue: 0,0:19:39.28,0:19:45.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And what we usually do is we knock on the hatch that goes on the side of the Space Station,
+Dialogue: 0,0:19:39.28,0:19:45.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们通常要做的就是敲空间站一侧的舱门
+Dialogue: 0,0:19:45.97,0:19:49.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}they knock back; we know that there is somebody else on the other side
+Dialogue: 0,0:19:45.97,0:19:49.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们敲回来 我们知道那边有人
+Dialogue: 0,0:19:49.59,0:19:53.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And the hatches between the Soyuz spacecraft and the International Space Station
+Dialogue: 0,0:19:49.59,0:19:53.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而联盟号飞船和国际空间站之间的舱门
+Dialogue: 0,0:19:53.87,0:19:57.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}opening at 11:14 PM Central Time.
+Dialogue: 0,0:19:53.87,0:19:57.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在中央时间11点14分开放
+Dialogue: 0,0:19:58.33,0:20:00.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Then it's hugs and smiles for everybody.
+Dialogue: 0,0:19:58.33,0:20:00.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后是大家的拥抱和微笑
+Dialogue: 0,0:20:05.73,0:20:09.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The astronauts are now safely on-board the International Space Station,
+Dialogue: 0,0:20:05.73,0:20:09.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}宇航员们现在安全地登上了国际空间站
+Dialogue: 0,0:20:09.67,0:20:12.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}their home for the next six months.
+Dialogue: 0,0:20:09.67,0:20:12.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们未来6个月的家
