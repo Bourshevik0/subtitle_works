@@ -8,25 +8,19 @@ PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Audio File: 20200514-u4r0yrF_Wa0.1080p.mp4
-Video File: 20200514-u4r0yrF_Wa0.1080p.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 542
-Active Line: 548
-Video Position: 31917
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-60,思源黑体 Medium,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
 Style: 1080P-src-hans-sans-medi-75,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-medi-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-Bold-5s,思源黑体 Bold,50,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.23,0:00:02.50,1080P-src-hans-sans-Bold-50,,0,0,0,,英文字幕
 Dialogue: 0,0:00:00.23,0:00:02.50,1080P-src-hans-sans-Bold-50,,0,0,0,,- Hi, it's me Tim Dodd, the Everyday Astronaut.
+Comment: 0,0:00:00.23,0:00:02.50,1080P-src-hans-sans-medi-75,,0,0,0,,中文字幕
 Dialogue: 0,0:00:00.23,0:00:02.50,1080P-src-hans-sans-medi-75,,0,0,0,,嗨 这里是Tim Dodd 每日宇航员
 Dialogue: 0,0:00:02.50,0:00:05.51,1080P-src-hans-sans-Bold-50,,0,0,0,,Have you ever accidentally used a tablespoon instead of a teaspoon?
 Dialogue: 0,0:00:02.50,0:00:05.51,1080P-src-hans-sans-medi-75,,0,0,0,,你有没有过不小心错用汤匙而非茶匙？
@@ -50,8 +44,10 @@ Dialogue: 0,0:00:29.78,0:00:34.32,1080P-src-hans-sans-Bold-50,,0,0,0,,But when N
 Dialogue: 0,0:00:29.78,0:00:34.32,1080P-src-hans-sans-medi-75,,0,0,0,,但当NASA和洛克希德·马丁公司搞混了火星气候探测器的单位
 Dialogue: 0,0:00:34.32,0:00:39.15,1080P-src-hans-sans-Bold-50,,0,0,0,,it led to the loss of a $327 million mission to Mars.
 Dialogue: 0,0:00:34.32,0:00:39.15,1080P-src-hans-sans-medi-75,,0,0,0,,这就搞砸了价值3.27亿美元的火星探测任务
+Dialogue: 0,0:00:39.15,0:00:45.06,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}facepalm翻译出自av45444894
 Dialogue: 0,0:00:39.15,0:00:45.06,1080P-src-hans-sans-Bold-50,,0,0,0,,Welcome to another episode of biggest facepalms of spaceflight history, otherwise known as spacepalms.
-Dialogue: 0,0:00:39.15,0:00:45.06,1080P-src-hans-sans-medi-75,,0,0,0,,欢迎来到另一集航天史上最大的扶额叹息 也可称之为太空扶额叹息
+Dialogue: 0,0:00:39.15,0:00:45.06,1080P-src-hans-sans-medi-75,,0,0,0,,欢迎来到另一集航天史上最尴尬的时刻 也可称之为尴尬航天
+Comment: 0,0:00:42.00,0:00:43.71,1080P-src-hans-sans-medi-7s,,0,0,0,,特殊
 Dialogue: 0,0:00:45.47,0:00:47.17,1080P-src-hans-sans-Bold-50,,0,0,0,,This is where we're going to take a look at a mission
 Dialogue: 0,0:00:45.47,0:00:47.17,1080P-src-hans-sans-medi-75,,0,0,0,,现在我们来看一看任这个务
 Dialogue: 0,0:00:47.22,0:00:52.76,1080P-src-hans-sans-Bold-50,,0,0,0,,or an event that almost certainly lead to everyone in Michigan troll collectively facepalming.
@@ -63,7 +59,7 @@ Dialogue: 0,0:00:56.74,0:00:59.46,1080P-src-hans-sans-medi-75,,0,0,0,,一个你�
 Dialogue: 0,0:00:59.49,0:01:01.88,1080P-src-hans-sans-Bold-50,,0,0,0,,with when talking about the importance of units.
 Dialogue: 0,0:00:59.49,0:01:01.88,1080P-src-hans-sans-medi-75,,0,0,0,,在讨论单位的重要性时
 Dialogue: 0,0:01:02.53,0:01:07.97,1080P-src-hans-sans-Bold-50,,0,0,0,,But honestly, I don't think I've actually heard the correct story all the way through
-Dialogue: 0,0:01:02.53,0:01:07.97,1080P-src-hans-sans-medi-75,,0,0,0,,不过说实话 我不认为我实际上已经听到了完整正确的故事
+Dialogue: 0,0:01:02.53,0:01:07.97,1080P-src-hans-sans-medi-75,,0,0,0,,不过说实话 我不认为我实际上已经听到了完整的 正确的故事
 Dialogue: 0,0:01:08.34,0:01:12.83,1080P-src-hans-sans-Bold-50,,0,0,0,,and I definitely didn't know what truly happened before I made this video.
 Dialogue: 0,0:01:08.34,0:01:12.83,1080P-src-hans-sans-medi-75,,0,0,0,,我在做这个视频之前也绝对不知道真正发生了什么
 Dialogue: 0,0:01:12.83,0:01:15.56,1080P-src-hans-sans-Bold-50,,0,0,0,,So today, let's take a look at what was suppose to happen,
@@ -76,8 +72,12 @@ Dialogue: 0,0:01:24.53,0:01:26.33,1080P-src-hans-sans-Bold-50,,0,0,0,,And it's a
 Dialogue: 0,0:01:24.53,0:01:26.33,1080P-src-hans-sans-medi-75,,0,0,0,,而且这是一个有趣的故事
 Dialogue: 0,0:01:26.33,0:01:28.00,1080P-src-hans-sans-Bold-50,,0,0,0,,So, let's get started.
 Dialogue: 0,0:01:26.33,0:01:28.00,1080P-src-hans-sans-medi-75,,0,0,0,,所以 让我们开始吧
+Dialogue: 0,0:01:28.74,0:01:30.61,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}-  [任务控制]三 二 一\N{\r1080P-src-hans-sans-Bold-5s\blur4}- [Mission Control] Three, two, one,
+Dialogue: 0,0:01:30.67,0:01:31.85,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}起飞\N{\r1080P-src-hans-sans-Bold-5s\blur4}and liftoff!
+Dialogue: 0,0:01:34.09,0:01:37.51,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}-  [尼尔]这是对人类的一小步\N{\r1080P-src-hans-sans-Bold-5s\blur4}- [Neil] That's one small step for man.
+Dialogue: 0,0:01:37.51,0:01:39.59,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}-  [任务控制]这是休斯敦和一号测试的通信\N{\r1080P-src-hans-sans-Bold-5s\blur4}- [Mission Control] That's Houston contact for the test one.
 Dialogue: 0,0:01:39.71,0:01:44.92,1080P-src-hans-sans-Bold-50,,0,0,0,,The year 1999, back when websites look like this.
-Dialogue: 0,0:01:39.71,0:01:44.92,1080P-src-hans-sans-medi-75,,0,0,0,,1999年 那是的网站还长这个样子
+Dialogue: 0,0:01:39.71,0:01:44.92,1080P-src-hans-sans-medi-75,,0,0,0,,1999年 那时的网站还长这个样子
 Dialogue: 0,0:01:45.15,0:01:50.37,1080P-src-hans-sans-Bold-50,,0,0,0,,"The Matrix" was released and the Cher song "Believe" was the number one hit.
 Dialogue: 0,0:01:45.15,0:01:50.37,1080P-src-hans-sans-medi-75,,0,0,0,,黑客帝国刚刚上映 Cher的歌曲Believe还是头号热单
 Dialogue: 0,0:01:50.94,0:01:54.11,1080P-src-hans-sans-Bold-50,,0,0,0,,NASA was hoping to have a big hit on their hands as well
@@ -135,17 +135,17 @@ Dialogue: 0,0:03:28.19,0:03:31.15,1080P-src-hans-sans-medi-75,,0,0,0,,大声说�
 Dialogue: 0,0:03:31.36,0:03:35.25,1080P-src-hans-sans-Bold-50,,0,0,0,,I probably should have tried to sneak in the specs on the end line for the rotary girder
 Dialogue: 0,0:03:31.36,0:03:35.25,1080P-src-hans-sans-medi-75,,0,0,0,,我可能应该试着偷偷随便扯些名词写进去
 Dialogue: 0,0:03:35.62,0:03:37.79,1080P-src-hans-sans-Bold-50,,0,0,0,,to see if any you guys are actually paying attention.
-Dialogue: 0,0:03:35.62,0:03:37.79,1080P-src-hans-sans-medi-75,,0,0,0,,看看你们实际上是否有关注这些
+Dialogue: 0,0:03:35.62,0:03:37.79,1080P-src-hans-sans-medi-75,,0,0,0,,来看看你们有没有走神
 Dialogue: 0,0:03:37.94,0:03:40.30,1080P-src-hans-sans-Bold-50,,0,0,0,,The vehicle had eight monoprop thrusters
-Dialogue: 0,0:03:37.94,0:03:40.30,1080P-src-hans-sans-medi-75,,0,0,0,,探测器有八个但组元推进器
+Dialogue: 0,0:03:37.94,0:03:40.30,1080P-src-hans-sans-medi-75,,0,0,0,,探测器有八个单组元推进器
 Dialogue: 0,0:03:40.36,0:03:43.80,1080P-src-hans-sans-Bold-50,,0,0,0,,each with 22 Newtons of thrust for trajectory corrections
-Dialogue: 0,0:03:40.36,0:03:43.80,1080P-src-hans-sans-medi-75,,0,0,0,,每个22N的推力 用于轨道修正
-Dialogue: 0,0:03:43.85,0:03:48.12,1080P-src-hans-sans-Bold-50,,0,0,0,,and four smaller 0. 9 Newton thrusters for attitude control.
+Dialogue: 0,0:03:40.36,0:03:43.80,1080P-src-hans-sans-medi-75,,0,0,0,,每个有22N的推力 用于轨道修正
+Dialogue: 0,0:03:43.85,0:03:48.12,1080P-src-hans-sans-Bold-50,,0,0,0,,and four smaller 0.9 Newton thrusters for attitude control.
 Dialogue: 0,0:03:43.85,0:03:48.12,1080P-src-hans-sans-medi-75,,0,0,0,,四个较小的0.9N的推进器用于姿态控制
 Dialogue: 0,0:03:48.61,0:03:52.26,1080P-src-hans-sans-Bold-50,,0,0,0,,Lastly, it had one larger main engine a LEROS 1B
-Dialogue: 0,0:03:48.61,0:03:52.26,1080P-src-hans-sans-medi-75,,0,0,0,,最后 它有一个较大的主引擎 LEROS1B
+Dialogue: 0,0:03:48.61,0:03:52.26,1080P-src-hans-sans-medi-75,,0,0,0,,最后 它有一个较大的主引擎 莱罗斯 1B
 Dialogue: 0,0:03:52.27,0:03:56.65,1080P-src-hans-sans-Bold-50,,0,0,0,,that provided 640 Newtons of thrust for the Mars insertion burning.
-Dialogue: 0,0:03:52.27,0:03:56.65,1080P-src-hans-sans-medi-75,,0,0,0,,为火星插入机动点火提供640N的推力
+Dialogue: 0,0:03:52.27,0:03:56.65,1080P-src-hans-sans-medi-75,,0,0,0,,为火星进入机动点火提供640N的推力
 Dialogue: 0,0:03:57.19,0:03:59.50,1080P-src-hans-sans-Bold-50,,0,0,0,,Mars Climate Orbiter had a unique design.
 Dialogue: 0,0:03:57.19,0:03:59.50,1080P-src-hans-sans-medi-75,,0,0,0,,火星气候探测器有一个独特的设计
 Dialogue: 0,0:03:59.50,0:04:03.41,1080P-src-hans-sans-Bold-50,,0,0,0,,It only had a single large solar panel off to one side,
@@ -156,8 +156,8 @@ Dialogue: 0,0:04:06.52,0:04:11.65,1080P-src-hans-sans-Bold-50,,0,0,0,,which side
 Dialogue: 0,0:04:06.52,0:04:11.65,1080P-src-hans-sans-medi-75,,0,0,0,,另一方面 因为火星比地球离太阳远50%
 Dialogue: 0,0:04:12.13,0:04:18.28,1080P-src-hans-sans-Bold-50,,0,0,0,,due to the inverse square law, a solar panel on Mars is about 45% as powerful as it is on Earth.
 Dialogue: 0,0:04:12.13,0:04:18.28,1080P-src-hans-sans-medi-75,,0,0,0,,由于平方反比定律 火星上太阳能电池板的功率约为地球上的45%
-Dialogue: 0,0:04:18.78,0:04:22.87,1080P-src-hans-sans-Bold-50,,0,0,0,,On December 11th 1998, at 1845 UTC,
-Dialogue: 0,0:04:18.78,0:04:22.87,1080P-src-hans-sans-medi-75,,0,0,0,,1998年12月11日 UTC18：45
+Dialogue: 0,0:04:18.78,0:04:22.87,1080P-src-hans-sans-Bold-50,,0,0,0,,On December 11th 1998, at 18:45 UTC,
+Dialogue: 0,0:04:18.78,0:04:22.87,1080P-src-hans-sans-medi-75,,0,0,0,,1998年12月11日 UTC 18:45
 Dialogue: 0,0:04:23.02,0:04:27.65,1080P-src-hans-sans-Bold-50,,0,0,0,,the Mars Climate Orbiter took off from Cape Canaveral Air Force Station SLC-17A
 Dialogue: 0,0:04:23.02,0:04:27.65,1080P-src-hans-sans-medi-75,,0,0,0,,火星气候探测器从卡纳维拉尔角空军基地的SLC-17A发射台起飞
 Dialogue: 0,0:04:27.81,0:04:30.00,1080P-src-hans-sans-Bold-50,,0,0,0,,beginning its 10 month journey to Mars.
@@ -189,7 +189,7 @@ Dialogue: 0,0:05:08.74,0:05:12.75,1080P-src-hans-sans-medi-75,,0,0,0,,四次方�
 Dialogue: 0,0:05:12.96,0:05:17.10,1080P-src-hans-sans-Bold-50,,0,0,0,,March 4th, July 25th and September 15th 1999.
 Dialogue: 0,0:05:12.96,0:05:17.10,1080P-src-hans-sans-medi-75,,0,0,0,,3月4日 7月25日和1999年9月15日
 Dialogue: 0,0:05:17.61,0:05:23.46,1080P-src-hans-sans-Bold-50,,0,0,0,,There was another optional course correction planned just one day prior to the Mars insertion burn,
-Dialogue: 0,0:05:17.61,0:05:23.46,1080P-src-hans-sans-medi-75,,0,0,0,,在火星插入机动点火开始的前一天 还计划有一次可选的方向修正
+Dialogue: 0,0:05:17.61,0:05:23.46,1080P-src-hans-sans-medi-75,,0,0,0,,在火星进入机动点火开始的前一天 还计划有一次可选的方向修正
 Dialogue: 0,0:05:23.87,0:05:25.43,1080P-src-hans-sans-Bold-50,,0,0,0,,but it was denied by management
 Dialogue: 0,0:05:23.87,0:05:25.43,1080P-src-hans-sans-medi-75,,0,0,0,,但被管理团队拒绝
 Dialogue: 0,0:05:25.47,0:05:30.36,1080P-src-hans-sans-Bold-50,,0,0,0,,because they thought based on prior trajectories that the probe was on course.
@@ -205,7 +205,7 @@ Dialogue: 0,0:05:42.94,0:05:45.77,1080P-src-hans-sans-medi-75,,0,0,0,,因为它�
 Dialogue: 0,0:05:45.77,0:05:50.62,1080P-src-hans-sans-Bold-50,,0,0,0,,It experienced more solar pressure on one half of the spacecraft than the other.
 Dialogue: 0,0:05:45.77,0:05:50.62,1080P-src-hans-sans-medi-75,,0,0,0,,它的一半比另一半经历了比其他航天器更多的太阳光压
 Dialogue: 0,0:05:50.62,0:05:52.19,1080P-src-hans-sans-Bold-50,,0,0,0,,By the way, fun side note,
-Dialogue: 0,0:05:50.62,0:05:52.19,1080P-src-hans-sans-medi-75,,0,0,0,,对了 有趣一点是
+Dialogue: 0,0:05:50.62,0:05:52.19,1080P-src-hans-sans-medi-75,,0,0,0,,对了 有趣的一点是
 Dialogue: 0,0:05:52.19,0:05:57.28,1080P-src-hans-sans-Bold-50,,0,0,0,,solar pressure is the momentum of the massless photons exerting pressure on a spacecraft
 Dialogue: 0,0:05:52.19,0:05:57.28,1080P-src-hans-sans-medi-75,,0,0,0,,太阳光压是无质量的光子对航天器施加压力的动量
 Dialogue: 0,0:05:57.54,0:05:59.78,1080P-src-hans-sans-Bold-50,,0,0,0,,and it's not solar wind.
@@ -228,16 +228,14 @@ Dialogue: 0,0:06:33.75,0:06:38.88,1080P-src-hans-sans-Bold-50,,0,0,0,,Now each a
 Dialogue: 0,0:06:33.75,0:06:38.88,1080P-src-hans-sans-medi-75,,0,0,0,,现在 每一次航天器执行任何角动量去饱和机动
 Dialogue: 0,0:06:38.88,0:06:39.98,1080P-src-hans-sans-Bold-50,,0,0,0,,or any correction burn,
 Dialogue: 0,0:06:38.88,0:06:39.98,1080P-src-hans-sans-medi-75,,0,0,0,,或任何修正点火
-Dialogue: 0,0:06:40.27,0:06:44.43,1080P-src-hans-sans-Bold-50,,0,0,0,,or really any maneuver the exact impulse or the exact amount
-Dialogue: 0,0:06:40.27,0:06:44.43,1080P-src-hans-sans-medi-75,,0,0,0,,还是任何机动 每个推进器点火的
-Dialogue: 0,0:06:44.43,0:06:48.10,1080P-src-hans-sans-Bold-50,,0,0,0,,of time each and every thruster is fired, is recorded,
-Dialogue: 0,0:06:44.43,0:06:48.10,1080P-src-hans-sans-medi-75,,0,0,0,,每一次精确的冲量或确切的时间都会被记录
+Dialogue: 0,0:06:40.27,0:06:48.10,1080P-src-hans-sans-Bold-50,,0,0,0,,or really any maneuver the exact impulse or the exact amount of time each and every thruster is fired, is recorded,
+Dialogue: 0,0:06:40.27,0:06:48.10,1080P-src-hans-sans-medi-75,,0,0,0,,还是任何机动 每个推进器点火的 每一次精确的冲量或确切的时间都会被记录
 Dialogue: 0,0:06:48.37,0:06:50.18,1080P-src-hans-sans-Bold-50,,0,0,0,,and then that's sent back down to earth
 Dialogue: 0,0:06:48.37,0:06:50.18,1080P-src-hans-sans-medi-75,,0,0,0,,然后送回地球
 Dialogue: 0,0:06:50.30,0:06:55.92,1080P-src-hans-sans-Bold-50,,0,0,0,,so Mission Control can calculate exactly how much the spacecraft change its trajectory.
-Dialogue: 0,0:06:50.30,0:06:55.92,1080P-src-hans-sans-medi-75,,0,0,0,,所以任务控制中心可以计算出飞船究竟在多大程度上改变了它的轨道
+Dialogue: 0,0:06:50.30,0:06:55.92,1080P-src-hans-sans-medi-75,,0,0,0,,所以任务控制中心可以计算出飞船究竟改变了多少它的轨道
 Dialogue: 0,0:06:56.38,0:07:00.24,1080P-src-hans-sans-Bold-50,,0,0,0,,Even if it's by the teentiest, tiniest amount during these corrections.
-Dialogue: 0,0:06:56.38,0:07:00.24,1080P-src-hans-sans-medi-75,,0,0,0,,即使这是个修正中最微小的 最微小的数字
+Dialogue: 0,0:06:56.38,0:07:00.24,1080P-src-hans-sans-medi-75,,0,0,0,,即使是极微小的机动幅度
 Dialogue: 0,0:07:00.48,0:07:03.37,1080P-src-hans-sans-Bold-50,,0,0,0,,But now mind you mission control can still track the probe
 Dialogue: 0,0:07:00.48,0:07:03.37,1080P-src-hans-sans-medi-75,,0,0,0,,但现在你要知道 任务控制中心仍然可以追踪探测器的位置
 Dialogue: 0,0:07:03.39,0:07:06.28,1080P-src-hans-sans-Bold-50,,0,0,0,,and its trajectory in deep space on the way to Mars.
@@ -245,7 +243,7 @@ Dialogue: 0,0:07:03.39,0:07:06.28,1080P-src-hans-sans-medi-75,,0,0,0,,以及其�
 Dialogue: 0,0:07:06.40,0:07:10.35,1080P-src-hans-sans-Bold-50,,0,0,0,,But the primary way of doing so is using Doppler shift
 Dialogue: 0,0:07:06.40,0:07:10.35,1080P-src-hans-sans-medi-75,,0,0,0,,但是 这样做的主要方法是利用多普勒频移
 Dialogue: 0,0:07:10.55,0:07:13.96,1080P-src-hans-sans-Bold-50,,0,0,0,,and that's not incredibly accurate at some portions of the journey,
-Dialogue: 0,0:07:10.55,0:07:13.96,1080P-src-hans-sans-medi-75,,0,0,0,,而这在旅程某些部分上的准确度并不惊人
+Dialogue: 0,0:07:10.55,0:07:13.96,1080P-src-hans-sans-medi-75,,0,0,0,,而这在旅程某些部分上的准确度并不好
 Dialogue: 0,0:07:14.39,0:07:18.68,1080P-src-hans-sans-Bold-50,,0,0,0,,especially when the changes in velocity are perpendicular to the vantage point.
 Dialogue: 0,0:07:14.39,0:07:18.68,1080P-src-hans-sans-medi-75,,0,0,0,,尤其是当速度的变化与有利位置垂直时
 Dialogue: 0,0:07:18.99,0:07:24.21,1080P-src-hans-sans-Bold-50,,0,0,0,,Think of it like this Doppler can very precisely tell if something is speeding up or slowing down,
@@ -260,8 +258,8 @@ Dialogue: 0,0:07:36.93,0:07:42.42,1080P-src-hans-sans-Bold-50,,0,0,0,,So general
 Dialogue: 0,0:07:36.93,0:07:42.42,1080P-src-hans-sans-medi-75,,0,0,0,,所以通常 制导团队会精确计算出探测器的准确轨迹
 Dialogue: 0,0:07:42.43,0:07:46.50,1080P-src-hans-sans-Bold-50,,0,0,0,,after the Hohman transfer burn that sends the probe on its way to Mars.
 Dialogue: 0,0:07:42.43,0:07:46.50,1080P-src-hans-sans-medi-75,,0,0,0,,在将探测器送往火星的霍曼转移点火燃烧后
-Dialogue: 0,0:07:46.70,0:07:53.17,1080P-src-hans-sans-Bold-50,,0,0,0,,And so long as any outside force doesn't act upon the vehicle, which spoiler it's space.
-Dialogue: 0,0:07:46.70,0:07:53.17,1080P-src-hans-sans-medi-75,,0,0,0,,而只要任何外力不作用在探测器上 破坏其空间
+Dialogue: 0,0:07:46.70,0:07:53.17,1080P-src-hans-sans-Bold-50,,0,0,0,,And so long as any outside force doesn't act upon the vehicle, which spoiler, its space.
+Dialogue: 0,0:07:46.70,0:07:53.17,1080P-src-hans-sans-medi-75,,0,0,0,,而只要任何外力不作用在探测器上 剧透下 譬如它的空间(位置)
 Dialogue: 0,0:07:53.41,0:07:56.94,1080P-src-hans-sans-Bold-50,,0,0,0,,The variables are well accounted for and well known.
 Dialogue: 0,0:07:53.41,0:07:56.94,1080P-src-hans-sans-medi-75,,0,0,0,,这些变量都是被解释以及熟知的
 Dialogue: 0,0:07:56.94,0:08:03.54,1080P-src-hans-sans-Bold-50,,0,0,0,,The vehicle will end up exactly where it's calculated to a surprising degree of accuracy.
@@ -289,19 +287,19 @@ Dialogue: 0,0:08:41.00,0:08:41.59,1080P-src-hans-sans-medi-75,,0,0,0,,而在一�
 Dialogue: 0,0:08:41.63,0:08:46.81,1080P-src-hans-sans-Bold-50,,0,0,0,,you want to aim and get as close as you can safely get to the planet that you're trying to be captured by.
 Dialogue: 0,0:08:41.63,0:08:46.81,1080P-src-hans-sans-medi-75,,0,0,0,,你要瞄准并尽可能地安全接近那个你想要被捕获的行星
 Dialogue: 0,0:08:47.49,0:08:50.20,1080P-src-hans-sans-Bold-50,,0,0,0,,Now, of course, if you're on a planet that has an atmosphere,
-Dialogue: 0,0:08:47.49,0:08:50.20,1080P-src-hans-sans-medi-75,,0,0,0,,现在 当然 如果你在一个有大气层的行星
+Dialogue: 0,0:08:47.49,0:08:50.20,1080P-src-hans-sans-medi-75,,0,0,0,,现在 当然 如果这是一个有大气层的行星
 Dialogue: 0,0:08:50.20,0:08:53.74,1080P-src-hans-sans-Bold-50,,0,0,0,,you need to take that into consideration and not get too low.
-Dialogue: 0,0:08:50.20,0:08:53.74,1080P-src-hans-sans-medi-75,,0,0,0,,你需要考虑到大气层一点 而不要靠得太低
+Dialogue: 0,0:08:50.20,0:08:53.74,1080P-src-hans-sans-medi-75,,0,0,0,,因此就需要考虑不能靠太近
 Dialogue: 0,0:08:53.74,0:08:58.04,1080P-src-hans-sans-Bold-50,,0,0,0,,But the closer you are, the less energy it takes to get captured into orbit.
 Dialogue: 0,0:08:53.74,0:08:58.04,1080P-src-hans-sans-medi-75,,0,0,0,,但距离越近 被捕获进入轨道所需的能量就越少
 Dialogue: 0,0:08:58.04,0:09:03.23,1080P-src-hans-sans-Bold-50,,0,0,0,,On September 15th 1999 just one week prior to the Mars encounter and insertion burn,
-Dialogue: 0,0:08:58.04,0:09:03.23,1080P-src-hans-sans-medi-75,,0,0,0,,1999年9月15日 距离与火星相遇并开始插入机动点火只有一个星期
+Dialogue: 0,0:08:58.04,0:09:03.23,1080P-src-hans-sans-medi-75,,0,0,0,,1999年9月15日 距离与火星相遇并开始进入机动点火只有一个星期
 Dialogue: 0,0:09:03.23,0:09:07.04,1080P-src-hans-sans-Bold-50,,0,0,0,,NASA performed the fourth and final trajectory correction maneuver,
-Dialogue: 0,0:09:03.23,0:09:07.04,1080P-src-hans-sans-medi-75,,0,0,0,,NASA进行了第四次也是最后的弹道修正机动
+Dialogue: 0,0:09:03.23,0:09:07.04,1080P-src-hans-sans-medi-75,,0,0,0,,NASA进行了第四次也是最后的轨道修正机动
 Dialogue: 0,0:09:07.04,0:09:12.11,1080P-src-hans-sans-Bold-50,,0,0,0,,which placed its trajectory 226 kilometers above the surface of Mars.
 Dialogue: 0,0:09:07.04,0:09:12.11,1080P-src-hans-sans-medi-75,,0,0,0,,将探测器置于火星地表上方226公里的轨道
 Dialogue: 0,0:09:12.11,0:09:14.40,1080P-src-hans-sans-Bold-50,,0,0,0,,Perfect for the Mars orbital insertion.
-Dialogue: 0,0:09:12.11,0:09:14.40,1080P-src-hans-sans-medi-75,,0,0,0,,非常适合火星轨道插入
+Dialogue: 0,0:09:12.11,0:09:14.40,1080P-src-hans-sans-medi-75,,0,0,0,,非常适合火星轨道进入
 Dialogue: 0,0:09:14.40,0:09:15.77,1080P-src-hans-sans-Bold-50,,0,0,0,,But following that burn,
 Dialogue: 0,0:09:14.40,0:09:15.77,1080P-src-hans-sans-medi-75,,0,0,0,,但那次点火之后
 Dialogue: 0,0:09:15.77,0:09:20.45,1080P-src-hans-sans-Bold-50,,0,0,0,,the navigation team noticed their calculations and their observations didn't match.
@@ -323,7 +321,7 @@ Dialogue: 0,0:09:41.43,0:09:46.98,1080P-src-hans-sans-medi-75,,0,0,0,,想象一�
 Dialogue: 0,0:09:48.65,0:09:49.97,1080P-src-hans-sans-Bold-50,,0,0,0,,Oh, humanity.
 Dialogue: 0,0:09:48.65,0:09:49.97,1080P-src-hans-sans-medi-75,,0,0,0,,哦 太可怜了
 Dialogue: 0,0:09:50.35,0:09:52.80,1080P-src-hans-sans-Bold-50,,0,0,0,,Just 24 hours before the orbital insertion burn
-Dialogue: 0,0:09:50.35,0:09:52.80,1080P-src-hans-sans-medi-75,,0,0,0,,就在轨道插入机动点火前24小时
+Dialogue: 0,0:09:50.35,0:09:52.80,1080P-src-hans-sans-medi-75,,0,0,0,,就在轨道进入机动点火前24小时
 Dialogue: 0,0:09:52.82,0:09:55.36,1080P-src-hans-sans-Bold-50,,0,0,0,,as the gravitational effects of Mars grew stronger
 Dialogue: 0,0:09:52.82,0:09:55.36,1080P-src-hans-sans-medi-75,,0,0,0,,火星的引力效应越来越强
 Dialogue: 0,0:09:55.65,0:10:01.04,1080P-src-hans-sans-Bold-50,,0,0,0,,the newly observed trajectory was putting the spacecraft at only 110 kilometers.
@@ -333,15 +331,15 @@ Dialogue: 0,0:10:01.52,0:10:05.55,1080P-src-hans-sans-medi-75,,0,0,0,,但同样 
 Dialogue: 0,0:10:05.55,0:10:10.75,1080P-src-hans-sans-Bold-50,,0,0,0,,So they proceeded despite some vocal opposition of some of the operators.
 Dialogue: 0,0:10:05.55,0:10:10.75,1080P-src-hans-sans-medi-75,,0,0,0,,因此 他们继续进行 尽管一些操作人员直言反对
 Dialogue: 0,0:10:10.75,0:10:16.38,1080P-src-hans-sans-Bold-50,,0,0,0,,At 9 o'clock and 46 seconds UTC on September 23 1999,
-Dialogue: 0,0:10:10.75,0:10:16.38,1080P-src-hans-sans-medi-75,,0,0,0,,1999年 9月23日 UTC9时46秒
+Dialogue: 0,0:10:10.75,0:10:16.38,1080P-src-hans-sans-medi-75,,0,0,0,,1999年9月23日 UTC 09:46
 Dialogue: 0,0:10:16.38,0:10:18.38,1080P-src-hans-sans-Bold-50,,0,0,0,,the insertion burn began.
-Dialogue: 0,0:10:16.38,0:10:18.38,1080P-src-hans-sans-medi-75,,0,0,0,,插入机动点火开始
+Dialogue: 0,0:10:16.38,0:10:18.38,1080P-src-hans-sans-medi-75,,0,0,0,,进入机动点火开始
 Dialogue: 0,0:10:18.38,0:10:21.99,1080P-src-hans-sans-Bold-50,,0,0,0,,Everything was performing as planned at first.
 Dialogue: 0,0:10:18.38,0:10:21.99,1080P-src-hans-sans-medi-75,,0,0,0,,最初一切都按计划进行
 Dialogue: 0,0:10:21.99,0:10:26.37,1080P-src-hans-sans-Bold-50,,0,0,0,,Miss control expected a loss of signal when the spacecraft went behind Mars,
 Dialogue: 0,0:10:21.99,0:10:26.37,1080P-src-hans-sans-medi-75,,0,0,0,,任务管理中心预期在飞船去往火星背面时信号会丢失
 Dialogue: 0,0:10:26.37,0:10:29.94,1080P-src-hans-sans-Bold-50,,0,0,0,,and they had an exact time they expected that to happen.
-Dialogue: 0,0:10:26.37,0:10:29.94,1080P-src-hans-sans-medi-75,,0,0,0,,他们希望件事事情发在精确的时间
+Dialogue: 0,0:10:26.37,0:10:29.94,1080P-src-hans-sans-medi-75,,0,0,0,,他们希望这些事会按时发生
 Dialogue: 0,0:10:29.94,0:10:32.23,1080P-src-hans-sans-Bold-50,,0,0,0,,The first signs of serious trouble cropped up
 Dialogue: 0,0:10:29.94,0:10:32.23,1080P-src-hans-sans-medi-75,,0,0,0,,大麻烦的第一个苗头出现了
 Dialogue: 0,0:10:32.24,0:10:36.29,1080P-src-hans-sans-Bold-50,,0,0,0,,when the loss of signal occurred 49 seconds earlier than expected,
@@ -349,17 +347,17 @@ Dialogue: 0,0:10:32.24,0:10:36.29,1080P-src-hans-sans-medi-75,,0,0,0,,信号的�
 Dialogue: 0,0:10:36.51,0:10:38.44,1080P-src-hans-sans-Bold-50,,0,0,0,,and it was even further drilled in by the fact
 Dialogue: 0,0:10:36.51,0:10:38.44,1080P-src-hans-sans-medi-75,,0,0,0,,并且问题愈演愈糟
 Dialogue: 0,0:10:38.46,0:10:42.86,1080P-src-hans-sans-Bold-50,,0,0,0,,that signal was not required 21 minutes later as they expected,
-Dialogue: 0,0:10:38.46,0:10:42.86,1080P-src-hans-sans-medi-75,,0,0,0,,因为那个信号比他们预计完了21分钟出现
+Dialogue: 0,0:10:38.46,0:10:42.86,1080P-src-hans-sans-medi-75,,0,0,0,,因为信号在晚于预计的21分钟后仍未出现
 Dialogue: 0,0:10:43.52,0:10:45.74,1080P-src-hans-sans-Bold-50,,0,0,0,,despite trying for two full days.
-Dialogue: 0,0:10:43.52,0:10:45.74,1080P-src-hans-sans-medi-75,,0,0,0,,尽管尝试了整整两天
+Dialogue: 0,0:10:43.52,0:10:45.74,1080P-src-hans-sans-medi-75,,0,0,0,,尽管(在此之后)尝试了整整两天
 Dialogue: 0,0:10:45.74,0:10:50.63,1080P-src-hans-sans-Bold-50,,0,0,0,,- I'm sorry to report that we have a serious problem with the Mars Climate Orbiter.
 Dialogue: 0,0:10:45.74,0:10:50.63,1080P-src-hans-sans-medi-75,,0,0,0,,我很遗憾地报告 关于火星气候探测器 我们有一个严重问题
 Dialogue: 0,0:10:50.63,0:10:53.15,1080P-src-hans-sans-Bold-50,,0,0,0,,We may in fact be facing a loss of mission.
-Dialogue: 0,0:10:50.63,0:10:53.15,1080P-src-hans-sans-medi-75,,0,0,0,,事实上我们可能正面临使命的失败
+Dialogue: 0,0:10:50.63,0:10:53.15,1080P-src-hans-sans-medi-75,,0,0,0,,事实上我们可能正面临任务的失败
 Dialogue: 0,0:10:53.15,0:10:54.56,1080P-src-hans-sans-Bold-50,,0,0,0,,- So what actually happened?
 Dialogue: 0,0:10:53.15,0:10:54.56,1080P-src-hans-sans-medi-75,,0,0,0,,那么到底发生了什么
 Dialogue: 0,0:10:54.56,0:10:56.72,1080P-src-hans-sans-Bold-50,,0,0,0,,Was there something wrong with the insertion burn?
-Dialogue: 0,0:10:54.56,0:10:56.72,1080P-src-hans-sans-medi-75,,0,0,0,,是插入机动点火有什么问题吗
+Dialogue: 0,0:10:54.56,0:10:56.72,1080P-src-hans-sans-medi-75,,0,0,0,,是进入机动点火有什么问题吗
 Dialogue: 0,0:10:56.72,0:11:01.79,1080P-src-hans-sans-Bold-50,,0,0,0,,Was it that NASA was reading the oxygen kilometers when the probe was saying miles.
 Dialogue: 0,0:10:56.72,0:11:01.79,1080P-src-hans-sans-medi-75,,0,0,0,,是不是NASA读取的单位是公里而探测器传回的是英里
 Dialogue: 0,0:11:01.79,0:11:06.21,1080P-src-hans-sans-Bold-50,,0,0,0,,Find out after we hear a word from this week's sponsor, banana for scale.
@@ -379,29 +377,29 @@ Dialogue: 0,0:11:22.70,0:11:27.23,1080P-src-hans-sans-medi-75,,0,0,0,,知道一�
 Dialogue: 0,0:11:27.23,0:11:31.90,1080P-src-hans-sans-Bold-50,,0,0,0,,Or perhaps you're measuring horses in hands and you just (mumbles)
 Dialogue: 0,0:11:27.23,0:11:31.90,1080P-src-hans-sans-medi-75,,0,0,0,,或者 也许你正在用手测量马 而你@#$%^
 Dialogue: 0,0:11:31.90,0:11:38.37,1080P-src-hans-sans-Bold-50,,0,0,0,,Introducing banana for scale the one true unit of measure.
-Dialogue: 0,0:11:31.90,0:11:38.37,1080P-src-hans-sans-medi-75,,0,0,0,,让我介绍香蕉度量 真正的度量单位
+Dialogue: 0,0:11:31.90,0:11:38.37,1080P-src-hans-sans-medi-75,,0,0,0,,来了解下香蕉度量 这可是唯一真正的度量单位
 Dialogue: 0,0:11:38.37,0:11:45.40,1080P-src-hans-sans-Bold-50,,0,0,0,,- Okay, so the answer each and every time the spacecraft perform those desaturation maneuvers,
 Dialogue: 0,0:11:38.37,0:11:45.40,1080P-src-hans-sans-medi-75,,0,0,0,, 好了 所以这是答案 每次飞船执行那些去饱和机动
 Dialogue: 0,0:11:45.40,0:11:49.01,1080P-src-hans-sans-Bold-50,,0,0,0,,it would report back what it did to correct for the angular momentum.
 Dialogue: 0,0:11:45.40,0:11:49.01,1080P-src-hans-sans-medi-75,,0,0,0,,它会汇报它做了什么来校正角动量
 Dialogue: 0,0:11:49.01,0:11:53.26,1080P-src-hans-sans-Bold-50,,0,0,0,,Now the internal guidance and control was performing perfectly fine.
-Dialogue: 0,0:11:49.01,0:11:53.26,1080P-src-hans-sans-medi-75,,0,0,0,,现在内部的导航和控制系统执行完美
+Dialogue: 0,0:11:49.01,0:11:53.26,1080P-src-hans-sans-medi-75,,0,0,0,,由于卫星内部的导航和控制系统的表现完美
 Dialogue: 0,0:11:53.26,0:11:58.20,1080P-src-hans-sans-Bold-50,,0,0,0,,Maintaining control and keeping proper orientation of the spacecraft no problem.
-Dialogue: 0,0:11:53.26,0:11:58.20,1080P-src-hans-sans-medi-75,,0,0,0,,保持控制并保持飞船的正确方向 没有问题
+Dialogue: 0,0:11:53.26,0:11:58.20,1080P-src-hans-sans-medi-75,,0,0,0,,保持控制及飞船的正确方向是没问题的
 Dialogue: 0,0:11:58.20,0:12:03.04,1080P-src-hans-sans-Bold-50,,0,0,0,,The problem is what the space craft was sending back down to earth was Newton seconds.
-Dialogue: 0,0:11:58.20,0:12:03.04,1080P-src-hans-sans-medi-75,,0,0,0,,问题在于飞船被发回地球的单位是牛顿秒
+Dialogue: 0,0:11:58.20,0:12:03.04,1080P-src-hans-sans-medi-75,,0,0,0,,问题在于飞船发回地球的单位是牛顿秒
 Dialogue: 0,0:12:03.04,0:12:07.93,1080P-src-hans-sans-Bold-50,,0,0,0,,And the software in the ground station was reading those results as pound seconds.
 Dialogue: 0,0:12:03.04,0:12:07.93,1080P-src-hans-sans-medi-75,,0,0,0,,而在地面站的软件用磅秒读那些结果
-Dialogue: 0,0:12:08.20,0:12:15.09,1080P-src-hans-sans-Bold-50,,0,0,0,,And reporting those results to the guidance and navigation teams off by a factor of 4.4 or five times.
-Dialogue: 0,0:12:08.20,0:12:15.09,1080P-src-hans-sans-medi-75,,0,0,0,,并将这些结果偏离了4.4或5倍报告给制导和导航小组
+Dialogue: 0,0:12:08.20,0:12:15.09,1080P-src-hans-sans-Bold-50,,0,0,0,,And reporting those results to the guidance and navigation teams off by a factor of 4.45 times.
+Dialogue: 0,0:12:08.20,0:12:15.09,1080P-src-hans-sans-medi-75,,0,0,0,,并将偏离了4.45倍的结果报告给制导和导航团队
 Dialogue: 0,0:12:15.09,0:12:18.41,1080P-src-hans-sans-Bold-50,,0,0,0,,So in other words, each time the spacecraft did a desaturation maneuver,
-Dialogue: 0,0:12:15.09,0:12:18.41,1080P-src-hans-sans-medi-75,,0,0,0,,因此换句话说 每次飞船做一个去饱和机动
+Dialogue: 0,0:12:15.09,0:12:18.41,1080P-src-hans-sans-medi-75,,0,0,0,,因此换句话说 每当飞船做一个去饱和机动
 Dialogue: 0,0:12:18.73,0:12:22.21,1080P-src-hans-sans-Bold-50,,0,0,0,,it reported back to the ground what exactly it did.
-Dialogue: 0,0:12:18.73,0:12:22.21,1080P-src-hans-sans-medi-75,,0,0,0,,它精确地报告给地面它做了什么
+Dialogue: 0,0:12:18.73,0:12:22.21,1080P-src-hans-sans-medi-75,,0,0,0,,它都会给地面精确地报告它做了什么
 Dialogue: 0,0:12:22.21,0:12:24.55,1080P-src-hans-sans-Bold-50,,0,0,0,,The data with the wrong unit,
 Dialogue: 0,0:12:22.21,0:12:24.55,1080P-src-hans-sans-medi-75,,0,0,0,,使用错误单位的数据
 Dialogue: 0,0:12:24.55,0:12:29.24,1080P-src-hans-sans-Bold-50,,0,0,0,,then was put into the model for the spacecraft's trajectory by the guidance team.
-Dialogue: 0,0:12:24.55,0:12:29.24,1080P-src-hans-sans-medi-75,,0,0,0,,然后被输入导航团队用于探测器轨道的模型
+Dialogue: 0,0:12:24.55,0:12:29.24,1080P-src-hans-sans-medi-75,,0,0,0,,由导航团队输入到用于(计算)探测器轨道的模型
 Dialogue: 0,0:12:29.24,0:12:31.10,1080P-src-hans-sans-Bold-50,,0,0,0,,Now since the units were wrong,
 Dialogue: 0,0:12:29.24,0:12:31.10,1080P-src-hans-sans-medi-75,,0,0,0,,现在 既然单位是错误的
 Dialogue: 0,0:12:31.10,0:12:34.02,1080P-src-hans-sans-Bold-50,,0,0,0,,the calculated trajectory was also wrong.
@@ -453,17 +451,17 @@ Dialogue: 0,0:13:56.04,0:13:58.95,1080P-src-hans-sans-medi-75,,0,0,0,,然后你�
 Dialogue: 0,0:13:58.95,0:14:03.83,1080P-src-hans-sans-Bold-50,,0,0,0,,considering several things factors were overlooked starting with the initial design of the spacecraft.
 Dialogue: 0,0:13:58.95,0:14:03.83,1080P-src-hans-sans-medi-75,,0,0,0,,考虑到从航天器的最初设计开始就忽略了几个因素
 Dialogue: 0,0:14:04.28,0:14:09.44,1080P-src-hans-sans-Bold-50,,0,0,0,,Most notably that no one from guidance and navigation was on the design team,
-Dialogue: 0,0:14:04.28,0:14:09.44,1080P-src-hans-sans-medi-75,,0,0,0,,最值得注意的是 导航和控制团队没有人在设计团队
+Dialogue: 0,0:14:04.28,0:14:09.44,1080P-src-hans-sans-medi-75,,0,0,0,,最值得注意的是 设计团队中没人负责过导航和控制
 Dialogue: 0,0:14:09.44,0:14:14.32,1080P-src-hans-sans-Bold-50,,0,0,0,,which led to a less than desirable and hard to navigate spacecraft in the first place.
-Dialogue: 0,0:14:09.44,0:14:14.32,1080P-src-hans-sans-medi-75,,0,0,0,,这导致不够理想也很难为探测器导航
+Dialogue: 0,0:14:09.44,0:14:14.32,1080P-src-hans-sans-medi-75,,0,0,0,,这首先就导致了探测器的导航不够理想
 Dialogue: 0,0:14:14.59,0:14:17.60,1080P-src-hans-sans-Bold-50,,0,0,0,,But then ignoring the requests of the guidance navigation team
-Dialogue: 0,0:14:14.59,0:14:17.60,1080P-src-hans-sans-medi-75,,0,0,0,,但又忽略了导航组的要求
+Dialogue: 0,0:14:14.59,0:14:17.60,1080P-src-hans-sans-medi-75,,0,0,0,,但这之后又忽略了导航团队的要求
 Dialogue: 0,0:14:18.02,0:14:21.58,1080P-src-hans-sans-Bold-50,,0,0,0,,to perform the desaturation maneuvers 180 degrees apart from each other
-Dialogue: 0,0:14:18.02,0:14:21.58,1080P-src-hans-sans-medi-75,,0,0,0,,相隔180度进行去饱和机动
+Dialogue: 0,0:14:18.02,0:14:21.58,1080P-src-hans-sans-medi-75,,0,0,0,,进行相隔180度的饱和机动
 Dialogue: 0,0:14:21.89,0:14:24.70,1080P-src-hans-sans-Bold-50,,0,0,0,,would have negated the problem before it arose.
 Dialogue: 0,0:14:21.89,0:14:24.70,1080P-src-hans-sans-medi-75,,0,0,0,,就会在问题出现之前就将其抵消
 Dialogue: 0,0:14:24.70,0:14:31.51,1080P-src-hans-sans-Bold-50,,0,0,0,,By doing asymmetrical burns for the desaturation also led to imparting additional unwanted velocity.
-Dialogue: 0,0:14:24.70,0:14:31.51,1080P-src-hans-sans-medi-75,,0,0,0,,通过做不对称点火的去饱和机动也会导致增加额外不需要的速度
+Dialogue: 0,0:14:24.70,0:14:31.51,1080P-src-hans-sans-medi-75,,0,0,0,,(与导航团队的要求不同) 不对称点火的去饱和机动也会增加多余的速度
 Dialogue: 0,0:14:31.51,0:14:32.11,1080P-src-hans-sans-Bold-50,,0,0,0,,And lastly,
 Dialogue: 0,0:14:31.51,0:14:32.11,1080P-src-hans-sans-medi-75,,0,0,0,,最后
 Dialogue: 0,0:14:32.11,0:14:36.72,1080P-src-hans-sans-Bold-50,,0,0,0,,the teams were seeing erroneous data that didn't line up with our calculated trajectories,
@@ -471,7 +469,7 @@ Dialogue: 0,0:14:32.11,0:14:36.72,1080P-src-hans-sans-medi-75,,0,0,0,,各小组�
 Dialogue: 0,0:14:37.11,0:14:38.44,1080P-src-hans-sans-Bold-50,,0,0,0,,but it was ignored.
 Dialogue: 0,0:14:37.11,0:14:38.44,1080P-src-hans-sans-medi-75,,0,0,0,,但它被忽略了
 Dialogue: 0,0:14:38.72,0:14:41.78,1080P-src-hans-sans-Bold-50,,0,0,0,,This was amplified and actually quite obvious
-Dialogue: 0,0:14:38.72,0:14:41.78,1080P-src-hans-sans-medi-75,,0,0,0,,这一点被放大了 其实很明显
+Dialogue: 0,0:14:38.72,0:14:41.78,1080P-src-hans-sans-medi-75,,0,0,0,,这一点被放大了 而且很明显的是
 Dialogue: 0,0:14:41.79,0:14:46.62,1080P-src-hans-sans-Bold-50,,0,0,0,,that something was wrong in the last week of the mission as the spacecraft got closer to Mars.
 Dialogue: 0,0:14:41.79,0:14:46.62,1080P-src-hans-sans-medi-75,,0,0,0,,在任务的最后一周 随着航天器离火星越来越近 出现了一些问题
 Dialogue: 0,0:14:46.81,0:14:48.81,1080P-src-hans-sans-Bold-50,,0,0,0,,A few members of the team spoke up verbally
@@ -479,15 +477,15 @@ Dialogue: 0,0:14:46.81,0:14:48.81,1080P-src-hans-sans-medi-75,,0,0,0,,团队的�
 Dialogue: 0,0:14:48.84,0:14:53.24,1080P-src-hans-sans-Bold-50,,0,0,0,,and wanted to do a t-minus 24 hour correction burn to raise the approach.
 Dialogue: 0,0:14:48.84,0:14:53.24,1080P-src-hans-sans-medi-75,,0,0,0,,并希望做一个提前24小时的纠正点火以提高接近轨道
 Dialogue: 0,0:14:53.62,0:14:57.35,1080P-src-hans-sans-Bold-50,,0,0,0,,But they were denied because the concerns weren't filed correctly.
-Dialogue: 0,0:14:53.62,0:14:57.35,1080P-src-hans-sans-medi-75,,0,0,0,,但他们被拒绝了 因为他们的担心没有正确提交
-Dialogue: 0,0:14:57.35,0:15:00.23,1080P-src-hans-sans-Bold-50,,0,0,0,,And due to some mis organization of authority.
+Dialogue: 0,0:14:53.62,0:14:57.35,1080P-src-hans-sans-medi-75,,0,0,0,,但他们被拒绝了 因为他们的担心没有正确提出
+Dialogue: 0,0:14:57.35,0:15:00.23,1080P-src-hans-sans-Bold-50,,0,0,0,,And due to some misorganization of authority.
 Dialogue: 0,0:14:57.35,0:15:00.23,1080P-src-hans-sans-medi-75,,0,0,0,,而且由于一些权威的错误组织
+Dialogue: 0,0:15:00.23,0:15:02.97,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}求弹幕憋住，我已经改翻译了！求生欲.jpg
 Dialogue: 0,0:15:00.23,0:15:02.97,1080P-src-hans-sans-Bold-50,,0,0,0,,Those that spoke up were seen as out of line.
-Dialogue: 0,0:15:00.23,0:15:02.97,1080P-src-hans-sans-medi-75,,0,0,0,,那些提出问题的被看作是脱节的
-Dialogue: 0,0:15:02.97,0:15:04.95,1080P-src-hans-sans-Bold-50,,0,0,0,,So really like all things,
-Dialogue: 0,0:15:02.97,0:15:04.95,1080P-src-hans-sans-medi-75,,0,0,0,,所以像所有东西那样
-Dialogue: 0,0:15:04.95,0:15:07.27,1080P-src-hans-sans-Bold-50,,0,0,0,,this wasn't a black and white topic.
-Dialogue: 0,0:15:04.95,0:15:07.27,1080P-src-hans-sans-medi-75,,0,0,0,,这不是黑与白的话题
+Dialogue: 0,0:15:00.23,0:15:02.97,1080P-src-hans-sans-medi-75,,0,0,0,,那些人被看作是犯规的
+Dialogue: 0,0:15:02.97,0:15:07.27,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)\s1}黑白震怒{\s0}
+Dialogue: 0,0:15:02.97,0:15:07.27,1080P-src-hans-sans-Bold-50,,0,0,0,,So really like all things, this wasn't a black and white topic.
+Dialogue: 0,0:15:02.97,0:15:07.27,1080P-src-hans-sans-medi-75,,0,0,0,,所以 和其他事一样 这不是黑与白的话题
 Dialogue: 0,0:15:07.27,0:15:13.22,1080P-src-hans-sans-Bold-50,,0,0,0,,It's fairly nuanced and has a lot of tiny little things that added up to one big thing.
 Dialogue: 0,0:15:07.27,0:15:13.22,1080P-src-hans-sans-medi-75,,0,0,0,,它相当微妙 有很多细小的事情 加起来就是一件大事
 Dialogue: 0,0:15:13.80,0:15:14.85,1080P-src-hans-sans-Bold-50,,0,0,0,,And at the end of the day,
@@ -505,15 +503,15 @@ Dialogue: 0,0:15:26.48,0:15:29.80,1080P-src-hans-sans-medi-75,,0,0,0,,它同时�
 Dialogue: 0,0:15:30.16,0:15:32.59,1080P-src-hans-sans-Bold-50,,0,0,0,,And although it didn't have the same problem,
 Dialogue: 0,0:15:30.16,0:15:32.59,1080P-src-hans-sans-medi-75,,0,0,0,,虽然它没有同样的问题
 Dialogue: 0,0:15:32.93,0:15:36.42,1080P-src-hans-sans-Bold-50,,0,0,0,,it ended up not touching down softly for completely different reason.
-Dialogue: 0,0:15:32.93,0:15:36.42,1080P-src-hans-sans-medi-75,,0,0,0,,它最终没有软着陆 原因完全不同
+Dialogue: 0,0:15:32.93,0:15:36.42,1080P-src-hans-sans-medi-75,,0,0,0,,它最终没有软着陆 失败原因完全不同
 Dialogue: 0,0:15:36.72,0:15:37.64,1080P-src-hans-sans-Bold-50,,0,0,0,,- Volcom Mars op.
-Dialogue: 0,0:15:36.72,0:15:37.64,1080P-src-hans-sans-medi-75,,0,0,0,,VOLCOM 火星运算
+Dialogue: 0,0:15:36.72,0:15:37.64,1080P-src-hans-sans-medi-75,,0,0,0,,Volcom 火星操作员
 Dialogue: 0,0:15:39.48,0:15:40.41,1080P-src-hans-sans-Bold-50,,0,0,0,,- CFOM, go ahead.
 Dialogue: 0,0:15:39.48,0:15:40.41,1080P-src-hans-sans-medi-75,,0,0,0,,CFOM 继续
 Dialogue: 0,0:15:41.89,0:15:46.24,1080P-src-hans-sans-Bold-50,,0,0,0,,- Yeah, Sam, I'm sorry to report that all we have is HKTM at this point.
 Dialogue: 0,0:15:41.89,0:15:46.24,1080P-src-hans-sans-medi-75,,0,0,0,,是啊 Sam 我很遗憾地通知我们现在只有HKTM
 Dialogue: 0,0:15:46.82,0:15:50.08,1080P-src-hans-sans-Bold-50,,0,0,0,,It seemed to have been a nominal no contact MR Pass
-Dialogue: 0,0:15:46.82,0:15:50.08,1080P-src-hans-sans-medi-75,,0,0,0,,这似乎是一个名义上没有联系MR Pass
+Dialogue: 0,0:15:46.82,0:15:50.08,1080P-src-hans-sans-medi-75,,0,0,0,,这似乎是没有正常地联系到MR Pass
 Dialogue: 0,0:15:51.98,0:15:55.02,1080P-src-hans-sans-Bold-50,,0,0,0,,- Copy that Mark thanks for, thank for hanging in there with us.
 Dialogue: 0,0:15:51.98,0:15:55.02,1080P-src-hans-sans-medi-75,,0,0,0,, 收到 Mark 感谢坚持与我们联系
 Dialogue: 0,0:15:55.22,0:16:00.10,1080P-src-hans-sans-Bold-50,,0,0,0,,- But the lesson learned has been passed down to every new generation of navigators and engineers.
@@ -521,9 +519,9 @@ Dialogue: 0,0:15:55.22,0:16:00.10,1080P-src-hans-sans-medi-75,,0,0,0,,但这一�
 Dialogue: 0,0:16:00.49,0:16:03.74,1080P-src-hans-sans-Bold-50,,0,0,0,,It's a valuable lesson and hopefully a lesson everyone
 Dialogue: 0,0:16:00.49,0:16:03.74,1080P-src-hans-sans-medi-75,,0,0,0,,这是一个宝贵的经验
 Dialogue: 0,0:16:03.74,0:16:09.57,1080P-src-hans-sans-Bold-50,,0,0,0,,who designed spacecraft for the first humans going to Mars has listened to closely.
-Dialogue: 0,0:16:03.74,0:16:09.57,1080P-src-hans-sans-medi-75,,0,0,0,,希望每一个为第一批上火星的人类设计航天器的人都能认真听课
+Dialogue: 0,0:16:03.74,0:16:09.57,1080P-src-hans-sans-medi-75,,0,0,0,,希望那些研制第一批载人登火航天器的每个人都能认真吸取教训
 Dialogue: 0,0:16:09.57,0:16:10.60,1080P-src-hans-sans-Bold-50,,0,0,0,,So to summarize,
-Dialogue: 0,0:16:09.57,0:16:10.60,1080P-src-hans-sans-medi-75,,0,0,0,,因此 总结
+Dialogue: 0,0:16:09.57,0:16:10.60,1080P-src-hans-sans-medi-75,,0,0,0,,那么总结下
 Dialogue: 0,0:16:10.90,0:16:12.93,1080P-src-hans-sans-Bold-50,,0,0,0,,a spacecraft on its way to Mars
 Dialogue: 0,0:16:10.90,0:16:12.93,1080P-src-hans-sans-medi-75,,0,0,0,,奔赴火星的航天器
 Dialogue: 0,0:16:12.93,0:16:16.87,1080P-src-hans-sans-Bold-50,,0,0,0,,needed to fight off the solar pressure exerted onto the single sided solar panel
@@ -531,7 +529,7 @@ Dialogue: 0,0:16:12.93,0:16:16.87,1080P-src-hans-sans-medi-75,,0,0,0,,需要对�
 Dialogue: 0,0:16:16.88,0:16:21.83,1080P-src-hans-sans-Bold-50,,0,0,0,,by doing some angular momentum desaturations with its small attitude thrusters.
 Dialogue: 0,0:16:16.88,0:16:21.83,1080P-src-hans-sans-medi-75,,0,0,0,,通过用小型姿态推进器做一些角动量去饱和机动
 Dialogue: 0,0:16:21.83,0:16:24.07,1080P-src-hans-sans-Bold-50,,0,0,0,,Each time the vehicle did a desaturation maneuver,
-Dialogue: 0,0:16:21.83,0:16:24.07,1080P-src-hans-sans-medi-75,,0,0,0,,每次航天器做了一个饱去和机动
+Dialogue: 0,0:16:21.83,0:16:24.07,1080P-src-hans-sans-medi-75,,0,0,0,,每次航天器做了一个去饱和机动
 Dialogue: 0,0:16:24.29,0:16:27.61,1080P-src-hans-sans-Bold-50,,0,0,0,,it recorded what it did and reported it back down to earth
 Dialogue: 0,0:16:24.29,0:16:27.61,1080P-src-hans-sans-medi-75,,0,0,0,,它记录它的做了什么 并报告回地球
 Dialogue: 0,0:16:27.77,0:16:31.58,1080P-src-hans-sans-Bold-50,,0,0,0,,where the recorded thruster firings were misinterpreted by software
@@ -543,7 +541,7 @@ Dialogue: 0,0:16:35.23,0:16:39.66,1080P-src-hans-sans-medi-75,,0,0,0,,导致计�
 Dialogue: 0,0:16:39.93,0:16:42.55,1080P-src-hans-sans-Bold-50,,0,0,0,,These tiny deviations were so small,
 Dialogue: 0,0:16:39.93,0:16:42.55,1080P-src-hans-sans-medi-75,,0,0,0,,这些微小的偏差如此之小
 Dialogue: 0,0:16:42.55,0:16:48.42,1080P-src-hans-sans-Bold-50,,0,0,0,,they went mostly unnoticed until the spacecraft encountered Mars at 57 kilometers in altitude,
-Dialogue: 0,0:16:42.55,0:16:48.42,1080P-src-hans-sans-medi-75,,0,0,0,,它们大多没有被注意到 直到航天器在57公里高空遇到火星
+Dialogue: 0,0:16:42.55,0:16:48.42,1080P-src-hans-sans-medi-75,,0,0,0,,它们大多没有被注意到 直到航天器在57公里的高空掠过火星
 Dialogue: 0,0:16:48.66,0:16:51.68,1080P-src-hans-sans-Bold-50,,0,0,0,,instead of the calculated 226 kilometers,
 Dialogue: 0,0:16:48.66,0:16:51.68,1080P-src-hans-sans-medi-75,,0,0,0,,而不是计算的226公里
 Dialogue: 0,0:16:52.08,0:16:55.28,1080P-src-hans-sans-Bold-50,,0,0,0,,which likely made the spacecraft burn up in the Martian atmosphere,
@@ -590,7 +588,9 @@ Dialogue: 0,0:18:14.05,0:18:16.18,1080P-src-hans-sans-Bold-50,,0,0,0,,So check b
 Dialogue: 0,0:18:16.18,0:18:18.83,1080P-src-hans-sans-Bold-50,,0,0,0,,and they might not be there the next time you check back.
 Dialogue: 0,0:18:18.83,0:18:21.13,1080P-src-hans-sans-Bold-50,,0,0,0,,That's everydayastronaut.com/shop.
 Dialogue: 0,0:18:21.13,0:18:21.96,1080P-src-hans-sans-Bold-50,,0,0,0,,Thanks everybody.
-Dialogue: 0,0:18:21.96,0:18:23.58,1080P-src-hans-sans-Bold-50,,0,0,0,,That's gonna do it for me I'm Tim Dodd,
-Dialogue: 0,0:18:23.58,0:18:24.55,1080P-src-hans-sans-Bold-50,,0,0,0,,the everyday astronaut.
+Dialogue: 0,0:18:21.96,0:18:22.75,1080P-src-hans-sans-Bold-50,,0,0,0,,That's gonna do it for me.
+Dialogue: 0,0:18:22.76,0:18:24.55,1080P-src-hans-sans-Bold-50,,0,0,0,,I'm Tim Dodd, the everyday astronaut.
+Dialogue: 0,0:18:22.76,0:18:24.55,1080P-src-hans-sans-medi-75,,0,0,0,,我是Tim Dodd 每日宇航员
 Dialogue: 0,0:18:24.55,0:18:27.35,1080P-src-hans-sans-Bold-50,,0,0,0,,Bringing space down to earth for everyday people.
-Dialogue: 0,0:18:27.35,0:18:29.93,1080P-src-hans-sans-Bold-50,,0,0,0,,(upbeat music)
+Dialogue: 0,0:18:24.55,0:18:27.35,1080P-src-hans-sans-medi-75,,0,0,0,,将太空的知识带给地球上的普通人
+Dialogue: 0,0:18:27.35,0:18:29.93,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}[令人振奋的音乐]\N{\r1080P-src-hans-sans-Bold-5s\blur4}[upbeat music]
