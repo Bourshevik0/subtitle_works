@@ -38,7 +38,7 @@ Dialogue: 0,0:03:18.84,0:03:20.60,1080P-src-hans-sans-medi-60,,0,0,0,,{\i1}原�
 Dialogue: 0,0:03:20.60,0:03:27.60,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}背景音乐：INTL.CMD - SunsetCity, \NINTL.CMD – Sunset City: youtu.be/iJIPoxMQwHY, 音乐许可：CC BY 3.0
 Dialogue: 0,0:03:42.15,0:03:47.15,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}素材出处：STS-51-A_Westar_6_retrieval.jpg
 Dialogue: 0,0:03:50.51,0:03:55.51,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}素材出处：Communications_satellite_with_TEMPO_spacecraft_model.png
-Dialogue: 0,0:04:03.54,0:04:08.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}素材出处：NASA's Path to Mars-NASA-20140429-noEod29Tr6c
+Dialogue: 0,0:04:03.54,0:04:08.54,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}素材出处：NASA's Path to Mars-NASA-20140429-noEod29Tr6c\N注释：尽管距离太阳越远，单位发电功率越小，但是可以靠更大的太阳能板面积抵消影响
 Dialogue: 0,0:04:09.30,0:04:14.30,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}素材出处：en.wikipedia.org/wiki/SpaceX_Red_Dragon\NInterplanetary_Transport_System_(29343823914).jpg
 Dialogue: 0,0:05:05.36,0:05:08.28,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4}\N\N\N素材出处：en.wikipedia.org/wiki/Soyuz_(spacecraft)
 Dialogue: 0,0:05:14.77,0:05:19.77,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,1000)\fs50\blur4\move(-20,10,10,10,0,500)}快乐的宇航员.jpg\N素材出处：commons.wikimedia.org/wiki/File:Soyuz_rocket_and_spaceship_V1-1.svg
@@ -111,7 +111,7 @@ Dialogue: 0,0:03:50.51,0:03:53.97,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:03:54.19,0:03:57.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样就能使用折叠太阳能板获得更多的电能
 Dialogue: 0,0:03:57.59,0:04:01.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是因为折叠太阳能板的面积能比贴片式做得更大
 Dialogue: 0,0:04:01.42,0:04:03.25,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因而能接收到更多太阳能
-Dialogue: 0,0:04:03.54,0:04:07.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而发电功率更大 就能支持飞船飞往更远离太阳的位置
+Dialogue: 0,0:04:03.54,0:04:07.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而太阳能板面积(发电功率)更大 就能支持飞船飞往更远离太阳的位置
 Dialogue: 0,0:04:07.65,0:04:09.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者拥有更多的功能
 Dialogue: 0,0:04:09.30,0:04:10.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对于载人龙飞船而言
 Dialogue: 0,0:04:10.98,0:04:13.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由于着陆火星的红龙计划被砍
