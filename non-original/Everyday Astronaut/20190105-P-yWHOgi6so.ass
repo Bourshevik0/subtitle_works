@@ -8,677 +8,669 @@ PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 322
-Active Line: 328
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-60,思源黑体 Medium,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
 Style: 1080P-src-hans-sans-medi-75,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-Bold-5s,思源黑体 Bold,50,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-medi-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-Bold-50,,0,0,0,,Hi it's me, Tim Dodd, the Everyday Astronaut.
-Dialogue: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-medi-75,,0,0,0,,嗨 是我 蒂姆-多德 每天的宇航员
-Dialogue: 0,0:00:02.27,0:00:05.22,1080P-src-hans-sans-Bold-50,,0,0,0,,There's nothing more exciting than a awesome rocket concept,
-Dialogue: 0,0:00:02.27,0:00:05.22,1080P-src-hans-sans-medi-75,,0,0,0,,没有什么比超棒的火箭概念更让人兴奋的了
-Dialogue: 0,0:00:05.36,0:00:09.08,1080P-src-hans-sans-Bold-50,,0,0,0,,a new mission to unknown worlds, or an exciting breakthrough in technology.
-Dialogue: 0,0:00:05.36,0:00:09.08,1080P-src-hans-sans-medi-75,,0,0,0,,去往未知世界的新任务 或者是技术上的激动人心的突破
-Dialogue: 0,0:00:09.78,0:00:14.59,1080P-src-hans-sans-Bold-50,,0,0,0,,But unfortunately for every proposal there's almost an equal amount of cancellations
-Dialogue: 0,0:00:09.78,0:00:14.59,1080P-src-hans-sans-medi-75,,0,0,0,,但不幸的是 每一个提案都会有同等数量的被取消的提案
-Dialogue: 0,0:00:14.67,0:00:17.77,1080P-src-hans-sans-Bold-50,,0,0,0,,with only a small handful making it beyond the drawing board.
-Dialogue: 0,0:00:14.67,0:00:17.77,1080P-src-hans-sans-medi-75,,0,0,0,,只有一小部分能超越画板
-Dialogue: 0,0:00:18.01,0:00:22.06,1080P-src-hans-sans-Bold-50,,0,0,0,,What's even more frustrating is when these concepts actually leave paper.
-Dialogue: 0,0:00:18.01,0:00:22.06,1080P-src-hans-sans-medi-75,,0,0,0,,更令人沮丧的是 当这些概念真正离开纸面
-Dialogue: 0,0:00:22.09,0:00:24.63,1080P-src-hans-sans-Bold-50,,0,0,0,,And thousands of engineering hours put in,
-Dialogue: 0,0:00:22.09,0:00:24.63,1080P-src-hans-sans-medi-75,,0,0,0,,而成千上万的工程时间投入
-Dialogue: 0,0:00:24.73,0:00:30.39,1080P-src-hans-sans-Bold-50,,0,0,0,,hardware even gets built, billions of dollars invested and then it gets put on the shelf.
-Dialogue: 0,0:00:24.73,0:00:30.39,1080P-src-hans-sans-medi-75,,0,0,0,,硬件甚至得到建立  数十亿美元的投资 然后它得到 放在货架上
-Dialogue: 0,0:00:30.62,0:00:34.24,1080P-src-hans-sans-Bold-50,,0,0,0,,If this sounds familiar to you, welcome to part two of my new canceled series.
-Dialogue: 0,0:00:30.62,0:00:34.24,1080P-src-hans-sans-medi-75,,0,0,0,,如果你觉得这听起来很熟悉 欢迎来到我的新取消系列的第二部分
-Dialogue: 0,0:00:34.62,0:00:39.44,1080P-src-hans-sans-Bold-50,,0,0,0,,We're gonna take a look at some space programs and concepts that were so close to complete.
-Dialogue: 0,0:00:34.62,0:00:39.44,1080P-src-hans-sans-medi-75,,0,0,0,,我们要看看一些太空计划和概念 它们是如此接近完成
-Dialogue: 0,0:00:39.97,0:00:43.11,1080P-src-hans-sans-Bold-50,,0,0,0,,They sometimes were even launched before it got canceled.
-Dialogue: 0,0:00:39.97,0:00:43.11,1080P-src-hans-sans-medi-75,,0,0,0,,他们有时甚至在被取消之前就已经启动了
-Dialogue: 0,0:00:43.26,0:00:46.14,1080P-src-hans-sans-Bold-50,,0,0,0,,Oh man, these videos are pretty frustrating.
-Dialogue: 0,0:00:43.26,0:00:46.14,1080P-src-hans-sans-medi-75,,0,0,0,,哦 伙计 这些视频是非常令人沮丧的
-Dialogue: 0,0:00:46.35,0:00:48.61,1080P-src-hans-sans-Bold-50,,0,0,0,,So with that in mind, let's get started.
-Dialogue: 0,0:00:46.35,0:00:48.61,1080P-src-hans-sans-medi-75,,0,0,0,,考虑到这一点 我们开始吧  So with that in mind, let's get started.
-Dialogue: 0,0:00:58.61,0:01:01.42,1080P-src-hans-sans-Bold-50,,0,0,0,,Welcome to part two of canceled, where again,
-Dialogue: 0,0:00:58.61,0:01:01.42,1080P-src-hans-sans-medi-75,,0,0,0,,欢迎来到取消的第二部分 再哪里
-Dialogue: 0,0:01:01.69,0:01:05.13,1080P-src-hans-sans-Bold-50,,0,0,0,,we're focusing on hardware that actually flew before it fizzled,
-Dialogue: 0,0:01:01.69,0:01:05.13,1080P-src-hans-sans-medi-75,,0,0,0,,我们关注的是在它消失之前真正飞起来的硬件
-Dialogue: 0,0:01:05.16,0:01:08.76,1080P-src-hans-sans-Bold-50,,0,0,0,,it was built and then bye bye, completed then canned.
-Dialogue: 0,0:01:05.16,0:01:08.76,1080P-src-hans-sans-medi-75,,0,0,0,,建成后就拜拜了 完工后就罐头了
-Dialogue: 0,0:01:09.37,0:01:09.99,1080P-src-hans-sans-Bold-50,,0,0,0,,You get the idea.
-Dialogue: 0,0:01:09.37,0:01:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,你懂的
-Dialogue: 0,0:01:10.39,0:01:13.78,1080P-src-hans-sans-Bold-50,,0,0,0,,There's gonna be a lot more videos coming up in this series, so stay tuned.
-Dialogue: 0,0:01:10.39,0:01:13.78,1080P-src-hans-sans-medi-75,,0,0,0,,这个系列还会有更多的视频 敬请关注
-Dialogue: 0,0:01:18.46,0:01:22.09,1080P-src-hans-sans-Bold-50,,0,0,0,,Remember the so called space race between the United States and the Soviet Union?
-Dialogue: 0,0:01:18.46,0:01:22.09,1080P-src-hans-sans-medi-75,,0,0,0,,还记得所谓的太空竞赛 美国和苏联之间？
-Dialogue: 0,0:01:22.79,0:01:27.95,1080P-src-hans-sans-Bold-50,,0,0,0,,Despite the US literally moving the goal post by setting landing on the moon as the end goal,
-Dialogue: 0,0:01:22.79,0:01:27.95,1080P-src-hans-sans-medi-75,,0,0,0,,尽管美国将登陆月球作为最终目标 但还是移动了目标柱
-Dialogue: 0,0:01:28.23,0:01:33.28,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soviet Union was clearly beating the United States in almost every other space milestone.
-Dialogue: 0,0:01:28.23,0:01:33.28,1080P-src-hans-sans-medi-75,,0,0,0,,苏联在其他几乎所有的太空里程碑上都明显地击败了美国
-Dialogue: 0,0:01:33.51,0:01:36.30,1080P-src-hans-sans-Bold-50,,0,0,0,,So with the moon now the new target for both countries,
-Dialogue: 0,0:01:33.51,0:01:36.30,1080P-src-hans-sans-medi-75,,0,0,0,,所以 随着月球现在成为两国的新目标
-Dialogue: 0,0:01:36.45,0:01:39.84,1080P-src-hans-sans-Bold-50,,0,0,0,,the most ambitious and specialized spacecraft had to be designed.
-Dialogue: 0,0:01:36.45,0:01:39.84,1080P-src-hans-sans-medi-75,,0,0,0,,必须设计出最宏伟、最专业的航天器
-Dialogue: 0,0:01:40.03,0:01:44.10,1080P-src-hans-sans-Bold-50,,0,0,0,,So not only did each country build massive, massive rockets with enough capability
-Dialogue: 0,0:01:40.03,0:01:44.10,1080P-src-hans-sans-medi-75,,0,0,0,,因此 每个国家不仅制造了具有足够能力的大型火箭
-Dialogue: 0,0:01:44.12,0:01:46.13,1080P-src-hans-sans-Bold-50,,0,0,0,,to actually get a spacecraft out to the moon,
-Dialogue: 0,0:01:44.12,0:01:46.13,1080P-src-hans-sans-medi-75,,0,0,0,,将航天器真正送上月球
-Dialogue: 0,0:01:46.64,0:01:51.15,1080P-src-hans-sans-Bold-50,,0,0,0,,but they also had to build vehicles which could land on the moon and come home.
-Dialogue: 0,0:01:46.64,0:01:51.15,1080P-src-hans-sans-medi-75,,0,0,0,,但他们还必须建造能够登陆月球并回家的交通工具
-Dialogue: 0,0:01:51.15,0:01:56.36,1080P-src-hans-sans-Bold-50,,0,0,0,,Of course the United States built the iconic Apollo Lunar Module which rode on top of the Saturn V rocket.
-Dialogue: 0,0:01:51.15,0:01:56.36,1080P-src-hans-sans-medi-75,,0,0,0,,当然 美国建造了标志性的阿波罗登月舱 它搭载在土星五号火箭之上
-Dialogue: 0,0:01:56.53,0:01:57.72,1080P-src-hans-sans-Bold-50,,0,0,0,,But did you know,
-Dialogue: 0,0:01:56.53,0:01:57.72,1080P-src-hans-sans-medi-75,,0,0,0,,但你知道吗？
-Dialogue: 0,0:01:57.72,0:02:04.31,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soviet Union designed and built the LK or Lunar Craft to ride on top of their N-1 rocket?
-Dialogue: 0,0:01:57.72,0:02:04.31,1080P-src-hans-sans-medi-75,,0,0,0,,苏联设计并建造了LK或月球飞船 来搭载在他们的N-1火箭之上？
-Dialogue: 0,0:02:04.31,0:02:05.08,1080P-src-hans-sans-Bold-50,,0,0,0,,That's right.
-Dialogue: 0,0:02:04.31,0:02:05.08,1080P-src-hans-sans-medi-75,,0,0,0,,没错 That's right.
-Dialogue: 0,0:02:05.14,0:02:09.22,1080P-src-hans-sans-Bold-50,,0,0,0,,While the world watched as the United States tested and flew their Apollo spacecraft,
-Dialogue: 0,0:02:05.14,0:02:09.22,1080P-src-hans-sans-medi-75,,0,0,0,,当全世界都在看着美国测试和飞行他们的阿波罗飞船的时候
-Dialogue: 0,0:02:09.33,0:02:14.11,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soviet Union was secretly working on a very small lunar lander themselves.
-Dialogue: 0,0:02:09.33,0:02:14.11,1080P-src-hans-sans-medi-75,,0,0,0,,苏联正在秘密研究一个非常小的月球登陆器自己
-Dialogue: 0,0:02:14.11,0:02:15.55,1080P-src-hans-sans-Bold-50,,0,0,0,,The LK was tiny.
-Dialogue: 0,0:02:14.11,0:02:15.55,1080P-src-hans-sans-medi-75,,0,0,0,,LK非常小
-Dialogue: 0,0:02:15.80,0:02:18.91,1080P-src-hans-sans-Bold-50,,0,0,0,,Only about one third the size of the Apollo Lunar Module
-Dialogue: 0,0:02:15.80,0:02:18.91,1080P-src-hans-sans-medi-75,,0,0,0,,只有阿波罗登月舱的三分之一大小
-Dialogue: 0,0:02:19.15,0:02:24.47,1080P-src-hans-sans-Bold-50,,0,0,0,,and could only carry one cosmonaut as opposed to two like the Apollo Lander could.
-Dialogue: 0,0:02:19.15,0:02:24.47,1080P-src-hans-sans-medi-75,,0,0,0,,而且只能携带一名宇航员 而不是像阿波罗登陆器那样可以携带两名宇航员
-Dialogue: 0,0:02:24.92,0:02:25.74,1080P-src-hans-sans-Bold-50,,0,0,0,,Can you imagine?
-Dialogue: 0,0:02:24.92,0:02:25.74,1080P-src-hans-sans-medi-75,,0,0,0,,你能想象吗？
-Dialogue: 0,0:02:25.92,0:02:28.73,1080P-src-hans-sans-Bold-50,,0,0,0,,Just a single person walking around on the moon?
-Dialogue: 0,0:02:25.92,0:02:28.73,1080P-src-hans-sans-medi-75,,0,0,0,,只有一个人在月球上行走？
-Dialogue: 0,0:02:28.88,0:02:30.99,1080P-src-hans-sans-Bold-50,,0,0,0,,All alone, completely isolated.
-Dialogue: 0,0:02:28.88,0:02:30.99,1080P-src-hans-sans-medi-75,,0,0,0,,独自一人 完全与世隔绝
-Dialogue: 0,0:02:31.30,0:02:33.58,1080P-src-hans-sans-Bold-50,,0,0,0,,That sounds absolutely terrifying.
-Dialogue: 0,0:02:31.30,0:02:33.58,1080P-src-hans-sans-medi-75,,0,0,0,,这听起来绝对是可怕的
-Dialogue: 0,0:02:33.75,0:02:35.37,1080P-src-hans-sans-Bold-50,,0,0,0,,A few fun facts about the LK.
-Dialogue: 0,0:02:33.75,0:02:35.37,1080P-src-hans-sans-medi-75,,0,0,0,,关于LK的一些有趣的事实：
-Dialogue: 0,0:02:35.84,0:02:41.22,1080P-src-hans-sans-Bold-50,,0,0,0,,First off, there was no tunnel between the LK and the Soyuz 7K-L3 LK spacecraft,
-Dialogue: 0,0:02:35.84,0:02:41.22,1080P-src-hans-sans-medi-75,,0,0,0,,首先 LK和联盟7K -L3 LK飞船之间没有隧道
-Dialogue: 0,0:02:41.69,0:02:46.07,1080P-src-hans-sans-Bold-50,,0,0,0,,so the cosmonaut was going to have to do a space walk to get inside the LK.
-Dialogue: 0,0:02:41.69,0:02:46.07,1080P-src-hans-sans-medi-75,,0,0,0,,所以宇航员要做一次太空行走才能进入LK内部
-Dialogue: 0,0:02:46.07,0:02:50.17,1080P-src-hans-sans-Bold-50,,0,0,0,,The soviets also had a much different approach to actually landing on the moon.
-Dialogue: 0,0:02:46.07,0:02:50.17,1080P-src-hans-sans-medi-75,,0,0,0,,苏联人在实际登陆月球时 也有一个非常不同的方法
-Dialogue: 0,0:02:50.34,0:02:54.83,1080P-src-hans-sans-Bold-50,,0,0,0,,They would first send send an uncrewed Lunokhod probe to select a suitable landing era.
-Dialogue: 0,0:02:50.34,0:02:54.83,1080P-src-hans-sans-medi-75,,0,0,0,,他们首先会派出一个无人驾驶的Lunokhod探测器来选择一个合适的登陆年代
-Dialogue: 0,0:02:54.98,0:02:58.60,1080P-src-hans-sans-Bold-50,,0,0,0,,It would then act as a beacon to ensure a precise landing for the LK.
-Dialogue: 0,0:02:54.98,0:02:58.60,1080P-src-hans-sans-medi-75,,0,0,0,,然后它将作为一个信标来确保LK的精确着陆
-Dialogue: 0,0:02:58.89,0:03:03.04,1080P-src-hans-sans-Bold-50,,0,0,0,,Another interesting fact is they would have actually sent two LKs to the moon for each mission.
-Dialogue: 0,0:02:58.89,0:03:03.04,1080P-src-hans-sans-medi-75,,0,0,0,,另一个有趣的事实是 他们其实每次任务都会向月球发送两个LK
-Dialogue: 0,0:03:03.20,0:03:07.84,1080P-src-hans-sans-Bold-50,,0,0,0,,One ahead of time, uncrewed as a backup if there were any issues with the crewed lander.
-Dialogue: 0,0:03:03.20,0:03:07.84,1080P-src-hans-sans-medi-75,,0,0,0,,一艘提前发射 作为备用 如果有人驾驶的着陆器出现任何问题 就不配备人员
-Dialogue: 0,0:03:08.27,0:03:13.00,1080P-src-hans-sans-Bold-50,,0,0,0,,And this wasn't the only backup to ensure their cosmonauts got off the moon, no,
-Dialogue: 0,0:03:08.27,0:03:13.00,1080P-src-hans-sans-medi-75,,0,0,0,,这并不是确保宇航员离开月球的唯一后备 不是的
-Dialogue: 0,0:03:13.00,0:03:16.03,1080P-src-hans-sans-Bold-50,,0,0,0,,the soviets were all about redundancy with the LK.
-Dialogue: 0,0:03:13.00,0:03:16.03,1080P-src-hans-sans-medi-75,,0,0,0,,苏联是所有关于冗余与LK
-Dialogue: 0,0:03:16.03,0:03:21.29,1080P-src-hans-sans-Bold-50,,0,0,0,,The LK actually had primary and backup engines to ensure they could get their cosmonaut off the moon.
-Dialogue: 0,0:03:16.03,0:03:21.29,1080P-src-hans-sans-medi-75,,0,0,0,,LK实际上有主引擎和备用引擎 以确保他们能把宇航员送出月球
-Dialogue: 0,0:03:21.66,0:03:25.41,1080P-src-hans-sans-Bold-50,,0,0,0,,Now by contrast, the Apollo Lunar lander only had only one engine to get off the moon.
-Dialogue: 0,0:03:21.66,0:03:25.41,1080P-src-hans-sans-medi-75,,0,0,0,,相比之下 阿波罗月球登陆器只有一个引擎来离开月球
-Dialogue: 0,0:03:26.12,0:03:29.46,1080P-src-hans-sans-Bold-50,,0,0,0,,The crazy thing is this engine could only be started once ever,
-Dialogue: 0,0:03:26.12,0:03:29.46,1080P-src-hans-sans-medi-75,,0,0,0,,最疯狂的是 这个引擎永远只能启动一次
-Dialogue: 0,0:03:29.65,0:03:34.56,1080P-src-hans-sans-Bold-50,,0,0,0,,so the actual engines used in the missions couldn't even be tested before they fired.
-Dialogue: 0,0:03:29.65,0:03:34.56,1080P-src-hans-sans-medi-75,,0,0,0,,所以 在任务中使用的实际发动机 甚至不能测试之前 他们发射
-Dialogue: 0,0:03:34.76,0:03:37.32,1080P-src-hans-sans-Bold-50,,0,0,0,,And that to me is just crazy.
-Dialogue: 0,0:03:34.76,0:03:37.32,1080P-src-hans-sans-medi-75,,0,0,0,,这对我来说简直是疯了
-Dialogue: 0,0:03:37.32,0:03:42.36,1080P-src-hans-sans-Bold-50,,0,0,0,,So the one and only time these engines fired was to get astronauts off the moon.
-Dialogue: 0,0:03:37.32,0:03:42.36,1080P-src-hans-sans-medi-75,,0,0,0,,所以这些引擎唯一一次发射是为了让宇航员离开月球
-Dialogue: 0,0:03:42.36,0:03:45.40,1080P-src-hans-sans-Bold-50,,0,0,0,,If it didn't work, they were stuck.
-Dialogue: 0,0:03:42.36,0:03:45.40,1080P-src-hans-sans-medi-75,,0,0,0,,如果它不工作 他们就会被卡住
-Dialogue: 0,0:03:45.40,0:03:50.14,1080P-src-hans-sans-Bold-50,,0,0,0,,And lastly, the LK only used a single stage to land on and ascend from the moon.
-Dialogue: 0,0:03:45.40,0:03:50.14,1080P-src-hans-sans-medi-75,,0,0,0,,最后 LK只用了一个单级登陆和从月球升空
-Dialogue: 0,0:03:50.14,0:03:54.51,1080P-src-hans-sans-Bold-50,,0,0,0,,But It did ditch the landing gear and other structure to decrease weight for ascent.
-Dialogue: 0,0:03:50.14,0:03:54.51,1080P-src-hans-sans-medi-75,,0,0,0,,但它确实抛弃了起落架和其他结构 以减轻重量 以便上升
-Dialogue: 0,0:03:54.51,0:04:00.68,1080P-src-hans-sans-Bold-50,,0,0,0,,But this again is in quite big contrast to the Apollo lander which had a separate descent and ascent stage.
-Dialogue: 0,0:03:54.51,0:04:00.68,1080P-src-hans-sans-medi-75,,0,0,0,,但这又与阿波罗着陆器有单独的下降和上升级形成了相当大的反差
-Dialogue: 0,0:04:00.68,0:04:01.55,1080P-src-hans-sans-Bold-50,,0,0,0,,All said and done,
-Dialogue: 0,0:04:00.68,0:04:01.55,1080P-src-hans-sans-medi-75,,0,0,0,,说了这么多
-Dialogue: 0,0:04:01.55,0:04:06.17,1080P-src-hans-sans-Bold-50,,0,0,0,,the Soviets had done their homework and had a pretty great little spacecraft to safely land on the moon.
-Dialogue: 0,0:04:01.55,0:04:06.17,1080P-src-hans-sans-medi-75,,0,0,0,,苏联人做足了功课 有了一个非常棒的小飞船来安全登陆月球
-Dialogue: 0,0:04:06.67,0:04:14.10,1080P-src-hans-sans-Bold-50,,0,0,0,,But here's the craziest thing, they actually flew 4 of them into space between 1970 and 1971,
-Dialogue: 0,0:04:06.67,0:04:14.10,1080P-src-hans-sans-medi-75,,0,0,0,,但最疯狂的是 他们在1970年到1971年之间 居然飞了4个到太空
-Dialogue: 0,0:04:14.10,0:04:16.35,1080P-src-hans-sans-Bold-50,,0,0,0,,although they never took one to the moon.
-Dialogue: 0,0:04:14.10,0:04:16.35,1080P-src-hans-sans-medi-75,,0,0,0,,虽然他们从来没有把一个人送上月球
-Dialogue: 0,0:04:16.35,0:04:18.08,1080P-src-hans-sans-Bold-50,,0,0,0,,This is mostly because their moon rocket,
-Dialogue: 0,0:04:16.35,0:04:18.08,1080P-src-hans-sans-medi-75,,0,0,0,,这主要是因为他们的月球火箭
-Dialogue: 0,0:04:18.08,0:04:23.32,1080P-src-hans-sans-Bold-50,,0,0,0,,the N-1, had 4 launch attempts, all ending in massive explosions.
-Dialogue: 0,0:04:18.08,0:04:23.32,1080P-src-hans-sans-medi-75,,0,0,0,,N-1 有4次发射尝试 都以大规模爆炸告终
-Dialogue: 0,0:04:23.32,0:04:28.02,1080P-src-hans-sans-Bold-50,,0,0,0,,With no suitable ride to space, the LK never made it beyond Low Earth Orbit.
-Dialogue: 0,0:04:23.32,0:04:28.02,1080P-src-hans-sans-medi-75,,0,0,0,,由于没有合适的乘载工具进入太空 LK号从未超越低地轨道
-Dialogue: 0,0:04:28.02,0:04:30.40,1080P-src-hans-sans-Bold-50,,0,0,0,,With the United States successfully putting humans on the moon,
-Dialogue: 0,0:04:28.02,0:04:30.40,1080P-src-hans-sans-medi-75,,0,0,0,,随着美国成功将人类送上月球
-Dialogue: 0,0:04:30.66,0:04:33.69,1080P-src-hans-sans-Bold-50,,0,0,0,,the motivations and funding pretty quickly dried up.
-Dialogue: 0,0:04:30.66,0:04:33.69,1080P-src-hans-sans-medi-75,,0,0,0,,的动机和资金很快就枯竭了
-Dialogue: 0,0:04:33.90,0:04:36.56,1080P-src-hans-sans-Bold-50,,0,0,0,,And that's not to mention they lost one of their N1 launch pads
-Dialogue: 0,0:04:33.90,0:04:36.56,1080P-src-hans-sans-medi-75,,0,0,0,,这还不算 他们还失去了一个N1的发射台
-Dialogue: 0,0:04:36.59,0:04:40.90,1080P-src-hans-sans-Bold-50,,0,0,0,,as well as their lead engineer Sergei Korolev during the development of the program,
-Dialogue: 0,0:04:36.59,0:04:40.90,1080P-src-hans-sans-medi-75,,0,0,0,,以及他们的首席工程师谢尔盖-科罗廖夫在程序开发期间
-Dialogue: 0,0:04:41.34,0:04:44.81,1080P-src-hans-sans-Bold-50,,0,0,0,,so they pulled the plug on the entire program in 1974.
-Dialogue: 0,0:04:41.34,0:04:44.81,1080P-src-hans-sans-medi-75,,0,0,0,,所以他们在1974年就把整个项目的插头拔掉了
-Dialogue: 0,0:04:44.81,0:04:45.88,1080P-src-hans-sans-Bold-50,,0,0,0,,What a shame.
-Dialogue: 0,0:04:44.81,0:04:45.88,1080P-src-hans-sans-medi-75,,0,0,0,,真可惜
-Dialogue: 0,0:04:45.88,0:04:48.81,1080P-src-hans-sans-Bold-50,,0,0,0,,I really love this unique approach to landing on the moon.
-Dialogue: 0,0:04:45.88,0:04:48.81,1080P-src-hans-sans-medi-75,,0,0,0,,我真的很喜欢这种登陆月球的独特方式
-Dialogue: 0,0:04:48.81,0:04:54.08,1080P-src-hans-sans-Bold-50,,0,0,0,,But again, can you imagine being the only person standing on the moon completely alone?
-Dialogue: 0,0:04:48.81,0:04:54.08,1080P-src-hans-sans-medi-75,,0,0,0,,但你能想象 你是唯一一个完全独自站在月球上的人吗？
-Dialogue: 0,0:04:54.08,0:04:57.14,1080P-src-hans-sans-Bold-50,,0,0,0,,It gives me shivers just thinking about it.
-Dialogue: 0,0:04:54.08,0:04:57.14,1080P-src-hans-sans-medi-75,,0,0,0,,想到这里 我就不寒而栗
-Dialogue: 0,0:04:57.14,0:04:58.96,1080P-src-hans-sans-Bold-50,,0,0,0,,That would have been intense.
-Dialogue: 0,0:04:57.14,0:04:58.96,1080P-src-hans-sans-medi-75,,0,0,0,,那一定会很紧张
-Dialogue: 0,0:04:58.96,0:05:03.20,1080P-src-hans-sans-Bold-50,,0,0,0,,Today you can see one of the five remaining LK's at the Moscow Aviaition Institute,
-Dialogue: 0,0:04:58.96,0:05:03.20,1080P-src-hans-sans-medi-75,,0,0,0,,今天你可以在莫斯科航空学院看到剩下的五架LK中的一架
-Dialogue: 0,0:05:03.20,0:05:05.78,1080P-src-hans-sans-Bold-50,,0,0,0,,the Orevo Research and Educational Facility,
-Dialogue: 0,0:05:03.20,0:05:05.78,1080P-src-hans-sans-medi-75,,0,0,0,,奥雷沃研究和教育设施；
-Dialogue: 0,0:05:05.78,0:05:09.99,1080P-src-hans-sans-Bold-50,,0,0,0,,the RKK Energia Plant at Korolev, Tambov Air Base,
-Dialogue: 0,0:05:05.78,0:05:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,位于坦波夫空军基地Korolev的RKK Energia工厂
-Dialogue: 0,0:05:09.99,0:05:12.50,1080P-src-hans-sans-Bold-50,,0,0,0,,or the Military Space Academy in St. Petersberg.
-Dialogue: 0,0:05:09.99,0:05:12.50,1080P-src-hans-sans-medi-75,,0,0,0,,或圣彼得堡的军事航天学院
-Dialogue: 0,0:05:12.82,0:05:16.64,1080P-src-hans-sans-Bold-50,,0,0,0,,We'll talk more about the N-1 rocket in an upcoming video about alternate space history
-Dialogue: 0,0:05:12.82,0:05:16.64,1080P-src-hans-sans-medi-75,,0,0,0,,我们将在即将到来的关于另一个空间历史的视频中 谈论更多关于N-1火箭的内容
-Dialogue: 0,0:05:16.65,0:05:18.93,1080P-src-hans-sans-Bold-50,,0,0,0,,since the N-1 never quite made it out of development.
-Dialogue: 0,0:05:16.65,0:05:18.93,1080P-src-hans-sans-medi-75,,0,0,0,,因为N -1从来没有完全做出来的发展
-Dialogue: 0,0:05:19.42,0:05:24.81,1080P-src-hans-sans-Bold-50,,0,0,0,,I mean sure it flew, just not successfully.
-Dialogue: 0,0:05:19.42,0:05:24.81,1080P-src-hans-sans-medi-75,,0,0,0,,我的意思是肯定它飞了 只是不成功
-Dialogue: 0,0:05:24.81,0:05:27.01,1080P-src-hans-sans-Bold-50,,0,0,0,,(light pop music)
-Dialogue: 0,0:05:24.81,0:05:27.01,1080P-src-hans-sans-medi-75,,0,0,0,,（轻流行音乐）
-Dialogue: 0,0:05:27.01,0:05:28.12,1080P-src-hans-sans-Bold-50,,0,0,0,,The Delta rocket.
-Dialogue: 0,0:05:27.01,0:05:28.12,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲火箭
-Dialogue: 0,0:05:28.12,0:05:32.45,1080P-src-hans-sans-Bold-50,,0,0,0,,Maybe you're familiar with the recently retired and beautiful teel rocket, the Delta II,
-Dialogue: 0,0:05:28.12,0:05:32.45,1080P-src-hans-sans-medi-75,,0,0,0,,也许你对最近退役的美丽的teel火箭--Delta II很熟悉
-Dialogue: 0,0:05:32.45,0:05:34.94,1080P-src-hans-sans-Bold-50,,0,0,0,,or perhaps the orangest rocket currently flying,
-Dialogue: 0,0:05:32.45,0:05:34.94,1080P-src-hans-sans-medi-75,,0,0,0,,或者说是目前飞行的最橙的火箭
-Dialogue: 0,0:05:35.34,0:05:36.53,1080P-src-hans-sans-Bold-50,,0,0,0,,the Delta IV and Delta IV Heavy.
-Dialogue: 0,0:05:35.34,0:05:36.53,1080P-src-hans-sans-medi-75,,0,0,0,,Delta IV和Delta IV重型机
-Dialogue: 0,0:05:36.78,0:05:40.72,1080P-src-hans-sans-Bold-50,,0,0,0,,Or maybe you're a history buff and remember the Thor-Delta or Delta I variants.
-Dialogue: 0,0:05:36.78,0:05:40.72,1080P-src-hans-sans-medi-75,,0,0,0,,或者你是个历史爱好者 还记得 "雷神""德尔塔 "或 "德尔塔一号 "的变种
-Dialogue: 0,0:05:41.23,0:05:44.44,1080P-src-hans-sans-Bold-50,,0,0,0,,Lots of Deltas, but what about the Delta III?
-Dialogue: 0,0:05:41.23,0:05:44.44,1080P-src-hans-sans-medi-75,,0,0,0,,很多三角洲 但三角洲III呢？
-Dialogue: 0,0:05:44.94,0:05:47.46,1080P-src-hans-sans-Bold-50,,0,0,0,,Why do we hear so much about II and IV?
-Dialogue: 0,0:05:44.94,0:05:47.46,1080P-src-hans-sans-medi-75,,0,0,0,,为什么我们听到这么多关于II和IV？
-Dialogue: 0,0:05:48.83,0:05:49.17,1080P-src-hans-sans-Bold-50,,0,0,0,,Where's Delta III?
-Dialogue: 0,0:05:48.83,0:05:49.17,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲III在哪里？
-Dialogue: 0,0:05:49.30,0:05:52.65,1080P-src-hans-sans-Bold-50,,0,0,0,,Well, there actually was a Delta III and ironically enough,
-Dialogue: 0,0:05:49.30,0:05:52.65,1080P-src-hans-sans-medi-75,,0,0,0,,好吧 其实有一个三角洲III和足够的讽刺
-Dialogue: 0,0:05:53.00,0:05:56.58,1080P-src-hans-sans-Bold-50,,0,0,0,,it's almost exactly between a Delta II and a Delta IV.
-Dialogue: 0,0:05:53.00,0:05:56.58,1080P-src-hans-sans-medi-75,,0,0,0,,它几乎完全介于Delta II和Delta IV之间
-Dialogue: 0,0:05:56.68,0:05:59.14,1080P-src-hans-sans-Bold-50,,0,0,0,,A very strange looking vehicle if you ask me.
-Dialogue: 0,0:05:56.68,0:05:59.14,1080P-src-hans-sans-medi-75,,0,0,0,,如果你问我的话 一个非常奇怪的外观车辆
-Dialogue: 0,0:05:59.44,0:06:01.63,1080P-src-hans-sans-Bold-50,,0,0,0,,Developed in the mid 90's by McDonnell Douglas,
-Dialogue: 0,0:05:59.44,0:06:01.63,1080P-src-hans-sans-medi-75,,0,0,0,,90年代中期由麦克唐纳道格拉斯公司研制
-Dialogue: 0,0:06:01.63,0:06:04.83,1080P-src-hans-sans-Bold-50,,0,0,0,,and later launched by Boeing after a merger of the two companies,
-Dialogue: 0,0:06:01.63,0:06:04.83,1080P-src-hans-sans-medi-75,,0,0,0,,并在后来两家公司合并后由波音公司推出
-Dialogue: 0,0:06:05.01,0:06:07.54,1080P-src-hans-sans-Bold-50,,0,0,0,,the Delta III was basically a scaled up Delta II.
-Dialogue: 0,0:06:05.01,0:06:07.54,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲III基本上是放大的三角洲II
-Dialogue: 0,0:06:08.11,0:06:13.01,1080P-src-hans-sans-Bold-50,,0,0,0,,It used that same RS-27A main engine and two vernier engines for roll control,
-Dialogue: 0,0:06:08.11,0:06:13.01,1080P-src-hans-sans-medi-75,,0,0,0,,它使用同样的RS-27A主引擎和两个游标引擎进行滚动控制
-Dialogue: 0,0:06:13.30,0:06:14.48,1080P-src-hans-sans-Bold-50,,0,0,0,,but here's the weird thing.
-Dialogue: 0,0:06:13.30,0:06:14.48,1080P-src-hans-sans-medi-75,,0,0,0,,但这里有一个奇怪的事情
-Dialogue: 0,0:06:14.64,0:06:18.12,1080P-src-hans-sans-Bold-50,,0,0,0,,It shared the same 2.4 meter diameter core as the Delta II,
-Dialogue: 0,0:06:14.64,0:06:18.12,1080P-src-hans-sans-medi-75,,0,0,0,,它与Delta II共享2.4米直径的核心
-Dialogue: 0,0:06:18.56,0:06:20.80,1080P-src-hans-sans-Bold-50,,0,0,0,,but it only had the liquid oxygen in there,
-Dialogue: 0,0:06:18.56,0:06:20.80,1080P-src-hans-sans-medi-75,,0,0,0,,但它只有液态氧在里面
-Dialogue: 0,0:06:20.88,0:06:23.62,1080P-src-hans-sans-Bold-50,,0,0,0,,and then it tapered up to four meters for the RP-1 tank.
-Dialogue: 0,0:06:20.88,0:06:23.62,1080P-src-hans-sans-medi-75,,0,0,0,,然后它渐渐变大到4米 用于RP-1坦克
-Dialogue: 0,0:06:23.85,0:06:28.54,1080P-src-hans-sans-Bold-50,,0,0,0,,The RS-27A main engine was too weak to actually lift this bigger rocket,
-Dialogue: 0,0:06:23.85,0:06:28.54,1080P-src-hans-sans-medi-75,,0,0,0,,RS-27A的主发动机太弱了 实际上无法提升这枚更大的火箭
-Dialogue: 0,0:06:29.00,0:06:36.26,1080P-src-hans-sans-Bold-50,,0,0,0,,so the Delta III would always require nine large GEM LDXL Solid Rocket Boosters just to get it off the pad.
-Dialogue: 0,0:06:29.00,0:06:36.26,1080P-src-hans-sans-medi-75,,0,0,0,,所以德尔塔三号总是需要9个大型的GEM LDXL固体火箭助推器才能把它从发射台上发射出去
-Dialogue: 0,0:06:36.40,0:06:40.16,1080P-src-hans-sans-Bold-50,,0,0,0,,The Delta III used a new upperstage called the Delta Cryogenic Second Stage
-Dialogue: 0,0:06:36.40,0:06:40.16,1080P-src-hans-sans-medi-75,,0,0,0,,德尔塔三号使用了一种新的末级 叫做德尔塔低温第二级
-Dialogue: 0,0:06:40.36,0:06:44.40,1080P-src-hans-sans-Bold-50,,0,0,0,,which used liquid Hydrogen and Oxygen to power an RL-10B-2 engine.
-Dialogue: 0,0:06:40.36,0:06:44.40,1080P-src-hans-sans-medi-75,,0,0,0,,它使用液态氢和氧气来驱动RL-10B-2发动机
-Dialogue: 0,0:06:44.93,0:06:46.22,1080P-src-hans-sans-Bold-50,,0,0,0,,This engine was pretty special
-Dialogue: 0,0:06:44.93,0:06:46.22,1080P-src-hans-sans-medi-75,,0,0,0,,这台发动机很特别
-Dialogue: 0,0:06:46.25,0:06:48.34,1080P-src-hans-sans-Bold-50,,0,0,0,,because it offered a unique extending nozzle
-Dialogue: 0,0:06:46.25,0:06:48.34,1080P-src-hans-sans-medi-75,,0,0,0,,因为它提供了一个独特的延伸喷嘴
-Dialogue: 0,0:06:48.85,0:06:52.35,1080P-src-hans-sans-Bold-50,,0,0,0,,which offered increased efficiency while maintaining a compact design.
-Dialogue: 0,0:06:48.85,0:06:52.35,1080P-src-hans-sans-medi-75,,0,0,0,,在保持紧凑设计的同时 提供了更高的效率
-Dialogue: 0,0:06:52.57,0:06:54.57,1080P-src-hans-sans-Bold-50,,0,0,0,,This upperstage offered much better performance
-Dialogue: 0,0:06:52.57,0:06:54.57,1080P-src-hans-sans-medi-75,,0,0,0,,这种上级提供了更好的性能
-Dialogue: 0,0:06:54.60,0:06:59.37,1080P-src-hans-sans-Bold-50,,0,0,0,,when compared to the Delta-K upperstage of the Delta II which used hypergolic propellants.
-Dialogue: 0,0:06:54.60,0:06:59.37,1080P-src-hans-sans-medi-75,,0,0,0,,与Delta II的Delta-K上级相比 后者使用了高能推进剂
-Dialogue: 0,0:06:59.58,0:07:00.45,1080P-src-hans-sans-Bold-50,,0,0,0,,All said and done,
-Dialogue: 0,0:06:59.58,0:07:00.45,1080P-src-hans-sans-medi-75,,0,0,0,,说了这么多
-Dialogue: 0,0:07:00.45,0:07:05.91,1080P-src-hans-sans-Bold-50,,0,0,0,,the Delta III was capable of taking double the payload to Geostationary Transfer Orbit compared to the Delta II.
-Dialogue: 0,0:07:00.45,0:07:05.91,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲三号能够采取双倍的有效载荷 对地静止转移轨道相比 三角洲二号
-Dialogue: 0,0:07:06.70,0:07:07.77,1080P-src-hans-sans-Bold-50,,0,0,0,,That's impressive.
-Dialogue: 0,0:07:06.70,0:07:07.77,1080P-src-hans-sans-medi-75,,0,0,0,,这是令人印象深刻的
-Dialogue: 0,0:07:07.77,0:07:13.17,1080P-src-hans-sans-Bold-50,,0,0,0,,The Delta III first launched on August 26th, 1999 from Cape Canaveral Air Force Station in Florida.
-Dialogue: 0,0:07:07.77,0:07:13.17,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲III号于1999年8月26日从佛罗里达州的卡纳维拉尔角空军基地首次发射
-Dialogue: 0,0:07:13.61,0:07:18.59,1080P-src-hans-sans-Bold-50,,0,0,0,,A software error caused by using the Delta II guidance systems without enough validations
-Dialogue: 0,0:07:13.61,0:07:18.59,1080P-src-hans-sans-medi-75,,0,0,0,,由于使用Delta II制导系统时没有进行足够的验证 导致软件错误
-Dialogue: 0,0:07:18.92,0:07:20.79,1080P-src-hans-sans-Bold-50,,0,0,0,,caused a complete failure of the rocket
-Dialogue: 0,0:07:18.92,0:07:20.79,1080P-src-hans-sans-medi-75,,0,0,0,,导致火箭完全失效
-Dialogue: 0,0:07:20.80,0:07:23.83,1080P-src-hans-sans-Bold-50,,0,0,0,,when the vehicle ran out of hydraulic fluid used to steer the vehicle.
-Dialogue: 0,0:07:20.80,0:07:23.83,1080P-src-hans-sans-medi-75,,0,0,0,,当车辆用于转向的液压油用完后
-Dialogue: 0,0:07:24.33,0:07:25.60,1080P-src-hans-sans-Bold-50,,0,0,0,,It was destroyed in flight.
-Dialogue: 0,0:07:24.33,0:07:25.60,1080P-src-hans-sans-medi-75,,0,0,0,,它在飞行中被毁
-Dialogue: 0,0:07:25.77,0:07:31.10,1080P-src-hans-sans-Bold-50,,0,0,0,,The next flight in May 1999 failed when the upperstage engine cracked open during its second burn.
-Dialogue: 0,0:07:25.77,0:07:31.10,1080P-src-hans-sans-medi-75,,0,0,0,,1999年5月的下一次飞行失败了 因为上级发动机在第二次燃烧时开裂
-Dialogue: 0,0:07:31.60,0:07:35.76,1080P-src-hans-sans-Bold-50,,0,0,0,,This is unusual for the RL-10 which is typically a very reliable engine.
-Dialogue: 0,0:07:31.60,0:07:35.76,1080P-src-hans-sans-medi-75,,0,0,0,,这对于通常是非常可靠的发动机的RL-10来说是不寻常的
-Dialogue: 0,0:07:36.77,0:07:39.18,1080P-src-hans-sans-Bold-50,,0,0,0,,It was just bad luck for the Boeing and the Delta III.
-Dialogue: 0,0:07:36.77,0:07:39.18,1080P-src-hans-sans-medi-75,,0,0,0,,对波音公司和Delta III来说 这只是运气不好
-Dialogue: 0,0:07:39.51,0:07:42.30,1080P-src-hans-sans-Bold-50,,0,0,0,,The final flight took place on August 23, 2000.
-Dialogue: 0,0:07:39.51,0:07:42.30,1080P-src-hans-sans-medi-75,,0,0,0,,最后一次飞行发生在2000年8月23日
-Dialogue: 0,0:07:43.32,0:07:46.10,1080P-src-hans-sans-Bold-50,,0,0,0,,It went okay, but unfortunately underperformed,
-Dialogue: 0,0:07:43.32,0:07:46.10,1080P-src-hans-sans-medi-75,,0,0,0,,它进行得还不错 但不幸的是表现不佳
-Dialogue: 0,0:07:46.35,0:07:49.14,1080P-src-hans-sans-Bold-50,,0,0,0,,leaving the dummy payload in a lower than targeted orbit.
-Dialogue: 0,0:07:46.35,0:07:49.14,1080P-src-hans-sans-medi-75,,0,0,0,,使假有效载荷的轨道低于目标轨道
-Dialogue: 0,0:07:49.16,0:07:54.16,1080P-src-hans-sans-Bold-50,,0,0,0,,So despite being within the allowable margin of error for success, it was already too late.
-Dialogue: 0,0:07:49.16,0:07:54.16,1080P-src-hans-sans-medi-75,,0,0,0,,所以尽管在成功的允许误差范围内 但已经为时已晚
-Dialogue: 0,0:07:54.48,0:07:57.99,1080P-src-hans-sans-Bold-50,,0,0,0,,With the Delta IV coming online and the poor performance of the first three launches,
-Dialogue: 0,0:07:54.48,0:07:57.99,1080P-src-hans-sans-medi-75,,0,0,0,,随着德尔塔四号的上线 以及前三次发射的糟糕表现
-Dialogue: 0,0:07:58.16,0:08:00.98,1080P-src-hans-sans-Bold-50,,0,0,0,,Delta III was scrapped to focus on the Delta IV.
-Dialogue: 0,0:07:58.16,0:08:00.98,1080P-src-hans-sans-medi-75,,0,0,0,,三角洲三号被取消 专注于三角洲四号
-Dialogue: 0,0:08:01.10,0:08:04.36,1080P-src-hans-sans-Bold-50,,0,0,0,,Although it wouldn't get a chance to be well remembered or loved,
-Dialogue: 0,0:08:01.10,0:08:04.36,1080P-src-hans-sans-medi-75,,0,0,0,,虽然它不会有机会被人们很好的记住和喜爱
-Dialogue: 0,0:08:04.51,0:08:09.04,1080P-src-hans-sans-Bold-50,,0,0,0,,it did perform the important work of verifying what would become the Delta IV's upperstage.
-Dialogue: 0,0:08:04.51,0:08:09.04,1080P-src-hans-sans-medi-75,,0,0,0,,它确实执行了重要的工作 验证了后来成为Delta IV的上层
-Dialogue: 0,0:08:09.73,0:08:12.84,1080P-src-hans-sans-Bold-50,,0,0,0,,So at least it did something successfully in its short lifespan.
-Dialogue: 0,0:08:09.73,0:08:12.84,1080P-src-hans-sans-medi-75,,0,0,0,,所以 至少它在其短暂的寿命中成功地完成了一些工作
-Dialogue: 0,0:08:12.88,0:08:14.43,1080P-src-hans-sans-Bold-50,,0,0,0,,Today if you're ever driving around in California,
-Dialogue: 0,0:08:12.88,0:08:14.43,1080P-src-hans-sans-medi-75,,0,0,0,,今天 如果你曾经开车 在加州周围
-Dialogue: 0,0:08:14.43,0:08:18.13,1080P-src-hans-sans-Bold-50,,0,0,0,,you may actually see one of the last remaining bits of a Delta III
-Dialogue: 0,0:08:14.43,0:08:18.13,1080P-src-hans-sans-medi-75,,0,0,0,,你可能真的会看到三角洲三号机最后剩下的一个部件
-Dialogue: 0,0:08:18.52,0:08:21.86,1080P-src-hans-sans-Bold-50,,0,0,0,,if you're driving on Interstate 5 in Santa Ana, California.
-Dialogue: 0,0:08:18.52,0:08:21.86,1080P-src-hans-sans-medi-75,,0,0,0,,如果你开车在加州圣安娜的5号州际公路上行驶的话
-Dialogue: 0,0:08:22.08,0:08:25.91,1080P-src-hans-sans-Bold-50,,0,0,0,,There's the upperstage just hanging out outside of the Discovery Science Center,
-Dialogue: 0,0:08:22.08,0:08:25.91,1080P-src-hans-sans-medi-75,,0,0,0,,那里的上层舞台就挂在发现科学中心的外面
-Dialogue: 0,0:08:25.91,0:08:31.29,1080P-src-hans-sans-Bold-50,,0,0,0,,complete with the extending nozzle RL-10b-2 even.
-Dialogue: 0,0:08:25.91,0:08:31.29,1080P-src-hans-sans-medi-75,,0,0,0,,完整的延伸喷嘴RL-10b-2甚至
-Dialogue: 0,0:08:31.29,0:08:33.98,1080P-src-hans-sans-Bold-50,,0,0,0,,(light pop music)
-Dialogue: 0,0:08:31.29,0:08:33.98,1080P-src-hans-sans-medi-75,,0,0,0,,(轻快的流行音乐)
-Dialogue: 0,0:08:34.36,0:08:38.72,1080P-src-hans-sans-Bold-50,,0,0,0,,Have you ever noticed that Russia loves spacecrafts that sort of look like a shiny ball?
-Dialogue: 0,0:08:34.36,0:08:38.72,1080P-src-hans-sans-medi-75,,0,0,0,,你有没有注意到 俄罗斯喜欢那种看起来像个闪闪发光的球的航天器？
-Dialogue: 0,0:08:38.74,0:08:43.39,1080P-src-hans-sans-Bold-50,,0,0,0,,At least their Soyuz and Vostok that we're most familiar with are strangely super round.
-Dialogue: 0,0:08:38.74,0:08:43.39,1080P-src-hans-sans-medi-75,,0,0,0,,至少他们的联盟号和我们最熟悉的沃斯托克号就奇怪的超圆
-Dialogue: 0,0:08:43.73,0:08:49.77,1080P-src-hans-sans-Bold-50,,0,0,0,,In my opinion, the Soyuz descent module looks like more like a delicious gumdrop than a spacecraft.
-Dialogue: 0,0:08:43.73,0:08:49.77,1080P-src-hans-sans-medi-75,,0,0,0,,在我看来 联盟号的下降舱看起来更像是一颗美味的橡皮糖 而不是航天器
-Dialogue: 0,0:08:49.77,0:08:52.15,1080P-src-hans-sans-Bold-50,,0,0,0,,These are pretty different from the truncated cone shapes,
-Dialogue: 0,0:08:49.77,0:08:52.15,1080P-src-hans-sans-medi-75,,0,0,0,,这些与截然不同的圆锥体形状相当不同
-Dialogue: 0,0:08:52.15,0:08:55.05,1080P-src-hans-sans-Bold-50,,0,0,0,,like what tends been more standard in the western hemisphere.
-Dialogue: 0,0:08:52.15,0:08:55.05,1080P-src-hans-sans-medi-75,,0,0,0,,像在西半球往往更标准
-Dialogue: 0,0:08:55.05,0:08:57.70,1080P-src-hans-sans-Bold-50,,0,0,0,,Such as Mercury, Gemini, Apollo, Dragon,
-Dialogue: 0,0:08:55.05,0:08:57.70,1080P-src-hans-sans-medi-75,,0,0,0,,如水星、双子座、阿波罗、龙
-Dialogue: 0,0:08:57.70,0:09:00.79,1080P-src-hans-sans-Bold-50,,0,0,0,,Starliner, Orion, et cetera, et cetera.
-Dialogue: 0,0:08:57.70,0:09:00.79,1080P-src-hans-sans-medi-75,,0,0,0,,星际列车 猎户座 等等 等等
-Dialogue: 0,0:09:00.79,0:09:06.52,1080P-src-hans-sans-Bold-50,,0,0,0,,But did you know the Soviet Union actually made their own capsule that looks nothing like the Soyuz.
-Dialogue: 0,0:09:00.79,0:09:06.52,1080P-src-hans-sans-medi-75,,0,0,0,,但你知道苏联实际上做了他们自己的太空舱 看起来一点也不像联盟号
-Dialogue: 0,0:09:06.52,0:09:11.19,1080P-src-hans-sans-Bold-50,,0,0,0,,I mean so much so, it maybe could've slipped through the doors of NASA unnoticed?
-Dialogue: 0,0:09:06.52,0:09:11.19,1080P-src-hans-sans-medi-75,,0,0,0,,我的意思是 如此之多 它可能已经 悄悄地通过美国航空航天局的大门？
-Dialogue: 0,0:09:11.79,0:09:13.69,1080P-src-hans-sans-Bold-50,,0,0,0,,Welcome the VA spacecraft.
-Dialogue: 0,0:09:11.79,0:09:13.69,1080P-src-hans-sans-medi-75,,0,0,0,,欢迎VA飞船
-Dialogue: 0,0:09:14.19,0:09:16.64,1080P-src-hans-sans-Bold-50,,0,0,0,,If the Apollo Soyuz test project made a baby,
-Dialogue: 0,0:09:14.19,0:09:16.64,1080P-src-hans-sans-medi-75,,0,0,0,,如果阿波罗联盟号试验项目做了一个宝贝
-Dialogue: 0,0:09:16.64,0:09:20.56,1080P-src-hans-sans-Bold-50,,0,0,0,,the Apollo capsule's genes clearly won out here with the VA.
-Dialogue: 0,0:09:16.64,0:09:20.56,1080P-src-hans-sans-medi-75,,0,0,0,,阿波罗太空舱的基因显然在VA上胜出
-Dialogue: 0,0:09:20.56,0:09:26.73,1080P-src-hans-sans-Bold-50,,0,0,0,,But that's not all, they made the VA and there was a Large Functional Cargo Block called the FGB module.
-Dialogue: 0,0:09:20.56,0:09:26.73,1080P-src-hans-sans-medi-75,,0,0,0,,但这还不是全部 他们制造了VA 还有一个叫FGB舱的大型功能货物舱
-Dialogue: 0,0:09:26.73,0:09:30.55,1080P-src-hans-sans-Bold-50,,0,0,0,,And together they formed the TKS spacecraft.
-Dialogue: 0,0:09:26.73,0:09:30.55,1080P-src-hans-sans-medi-75,,0,0,0,,而它们共同组成了TKS飞船
-Dialogue: 0,0:09:30.55,0:09:32.73,1080P-src-hans-sans-Bold-50,,0,0,0,,This thing was quite big.
-Dialogue: 0,0:09:30.55,0:09:32.73,1080P-src-hans-sans-medi-75,,0,0,0,,这个东西相当大
-Dialogue: 0,0:09:32.73,0:09:36.63,1080P-src-hans-sans-Bold-50,,0,0,0,,At 13.2 meters long and 4.15 meters wide,
-Dialogue: 0,0:09:32.73,0:09:36.63,1080P-src-hans-sans-medi-75,,0,0,0,,长13.2米 宽4.15米
-Dialogue: 0,0:09:36.93,0:09:40.54,1080P-src-hans-sans-Bold-50,,0,0,0,,the TKS was even larger than the Apollo Command and Service Module
-Dialogue: 0,0:09:36.93,0:09:40.54,1080P-src-hans-sans-medi-75,,0,0,0,,TKS甚至比阿波罗指挥和服务舱还要大
-Dialogue: 0,0:09:40.72,0:09:45.16,1080P-src-hans-sans-Bold-50,,0,0,0,,and offered a crazy 7.5 times the internal volume.
-Dialogue: 0,0:09:40.72,0:09:45.16,1080P-src-hans-sans-medi-75,,0,0,0,,并提供了一个疯狂的7.5倍的内部容积
-Dialogue: 0,0:09:45.55,0:09:48.41,1080P-src-hans-sans-Bold-50,,0,0,0,,The TKS was almost a mini space station.
-Dialogue: 0,0:09:45.55,0:09:48.41,1080P-src-hans-sans-medi-75,,0,0,0,,TKS几乎是一个迷你空间站
-Dialogue: 0,0:09:48.41,0:09:52.78,1080P-src-hans-sans-Bold-50,,0,0,0,,But it was actually designed to deliver crew and cargo to the Almaz space station,
-Dialogue: 0,0:09:48.41,0:09:52.78,1080P-src-hans-sans-medi-75,,0,0,0,,但它实际上是为了向阿尔玛兹空间站运送船员和货物而设计的
-Dialogue: 0,0:09:52.78,0:09:54.61,1080P-src-hans-sans-Bold-50,,0,0,0,,a secret military space station.
-Dialogue: 0,0:09:52.78,0:09:54.61,1080P-src-hans-sans-medi-75,,0,0,0,,一个秘密的军事空间站
-Dialogue: 0,0:09:54.61,0:10:00.07,1080P-src-hans-sans-Bold-50,,0,0,0,,Despite the entire TKS spacecraft being much larger than the Apollo Command and Service module,
-Dialogue: 0,0:09:54.61,0:10:00.07,1080P-src-hans-sans-medi-75,,0,0,0,,尽管整个TKS航天器比阿波罗指挥与服务舱大得多
-Dialogue: 0,0:10:00.07,0:10:03.10,1080P-src-hans-sans-Bold-50,,0,0,0,,the VA spacecraft itself that housed up to three cosmonauts
-Dialogue: 0,0:10:00.07,0:10:03.10,1080P-src-hans-sans-medi-75,,0,0,0,,VA航天器本身 可容纳三名宇航员
-Dialogue: 0,0:10:03.36,0:10:06.63,1080P-src-hans-sans-Bold-50,,0,0,0,,was about 30% smaller than the Apollo Command Module.
-Dialogue: 0,0:10:03.36,0:10:06.63,1080P-src-hans-sans-medi-75,,0,0,0,,比阿波罗指挥舱小30%左右
-Dialogue: 0,0:10:06.78,0:10:11.43,1080P-src-hans-sans-Bold-50,,0,0,0,,Most of the volume of the entire TKS spacecraft came from the Functional Cargo Block
-Dialogue: 0,0:10:06.78,0:10:11.43,1080P-src-hans-sans-medi-75,,0,0,0,,整个TKS航天器的大部分体积来自功能货物舱
-Dialogue: 0,0:10:11.48,0:10:14.88,1080P-src-hans-sans-Bold-50,,0,0,0,,which had about 37 cubic meters of volume.
-Dialogue: 0,0:10:11.48,0:10:14.88,1080P-src-hans-sans-medi-75,,0,0,0,,其中有大约37立方米的体积
-Dialogue: 0,0:10:15.15,0:10:20.67,1080P-src-hans-sans-Bold-50,,0,0,0,,Now let's compare that to SpaceX's Dragon Capsule which has 10 cubic meters of pressurized volume
-Dialogue: 0,0:10:15.15,0:10:20.67,1080P-src-hans-sans-medi-75,,0,0,0,,现在让我们来对比一下SpaceX的龙式太空舱 它有10立方米的加压容积
-Dialogue: 0,0:10:21.01,0:10:26.22,1080P-src-hans-sans-Bold-50,,0,0,0,,and about 14 cubic meters of unpressurized volume, for a total 24 cubic meters of volume.
-Dialogue: 0,0:10:21.01,0:10:26.22,1080P-src-hans-sans-medi-75,,0,0,0,,和14立方米的未加压体积  总共24立方米的体积
-Dialogue: 0,0:10:26.90,0:10:29.74,1080P-src-hans-sans-Bold-50,,0,0,0,,So yeah, this thing was huge.
-Dialogue: 0,0:10:26.90,0:10:29.74,1080P-src-hans-sans-medi-75,,0,0,0,,所以是的 这东西是巨大的
-Dialogue: 0,0:10:29.74,0:10:32.43,1080P-src-hans-sans-Bold-50,,0,0,0,,Oddly, the first 8 VA spacecraft flew,
-Dialogue: 0,0:10:29.74,0:10:32.43,1080P-src-hans-sans-medi-75,,0,0,0,,奇怪的是 第一艘8 VA的航天器飞了起来
-Dialogue: 0,0:10:32.43,0:10:34.40,1080P-src-hans-sans-Bold-50,,0,0,0,,on just four flights.
-Dialogue: 0,0:10:32.43,0:10:34.40,1080P-src-hans-sans-medi-75,,0,0,0,,在短短的四个航班
-Dialogue: 0,0:10:34.40,0:10:37.40,1080P-src-hans-sans-Bold-50,,0,0,0,,Yeah that's pretty strange.
-Dialogue: 0,0:10:34.40,0:10:37.40,1080P-src-hans-sans-medi-75,,0,0,0,,是的 这是非常奇怪的
-Dialogue: 0,0:10:37.40,0:10:43.45,1080P-src-hans-sans-Bold-50,,0,0,0,,They would fly them in pairs to test them in varying reentry conditions flying from 1976 through 1979.
-Dialogue: 0,0:10:37.40,0:10:43.45,1080P-src-hans-sans-medi-75,,0,0,0,,从1976年到1979年 他们会将它们成对飞行 以测试它们在不同的重返条件下飞行
-Dialogue: 0,0:10:43.45,0:10:49.94,1080P-src-hans-sans-Bold-50,,0,0,0,,Then they even flew four missions with the FGB module and VA capsule making it the complete TKS spacecraft.
-Dialogue: 0,0:10:43.45,0:10:49.94,1080P-src-hans-sans-medi-75,,0,0,0,,然后 他们甚至飞了四次任务 与FGB模块和VA胶囊 使其成为完整的TKS航天器
-Dialogue: 0,0:10:49.94,0:10:53.27,1080P-src-hans-sans-Bold-50,,0,0,0,,Despite all four missions going perfectly smooth,
-Dialogue: 0,0:10:49.94,0:10:53.27,1080P-src-hans-sans-medi-75,,0,0,0,,尽管四次任务都非常顺利
-Dialogue: 0,0:10:53.27,0:10:54.80,1080P-src-hans-sans-Bold-50,,0,0,0,,no humans ever flew on one.
-Dialogue: 0,0:10:53.27,0:10:54.80,1080P-src-hans-sans-medi-75,,0,0,0,,没有人坐过这种飞机
-Dialogue: 0,0:10:54.80,0:10:56.51,1080P-src-hans-sans-Bold-50,,0,0,0,,It's really quite a shame.
-Dialogue: 0,0:10:54.80,0:10:56.51,1080P-src-hans-sans-medi-75,,0,0,0,,真是太可惜了
-Dialogue: 0,0:10:56.51,0:10:59.51,1080P-src-hans-sans-Bold-50,,0,0,0,,It would've been a really cool spacecraft to see in operation.
-Dialogue: 0,0:10:56.51,0:10:59.51,1080P-src-hans-sans-medi-75,,0,0,0,,如果能看到它的运行 那将是一个非常酷的航天器
-Dialogue: 0,0:10:59.51,0:11:04.12,1080P-src-hans-sans-Bold-50,,0,0,0,,But at least the TKS design went on to become the basic structure for many space-station parts
-Dialogue: 0,0:10:59.51,0:11:04.12,1080P-src-hans-sans-medi-75,,0,0,0,,但至少TKS的设计成为了许多空间站部件的基本结构
-Dialogue: 0,0:11:04.15,0:11:06.80,1080P-src-hans-sans-Bold-50,,0,0,0,,including Mir Modules and ISS modules.
-Dialogue: 0,0:11:04.15,0:11:06.80,1080P-src-hans-sans-medi-75,,0,0,0,,包括和平号舱和国际空间站舱
-Dialogue: 0,0:11:06.87,0:11:10.27,1080P-src-hans-sans-Bold-50,,0,0,0,,The last TKS deorbited on February 7th, 1991
-Dialogue: 0,0:11:06.87,0:11:10.27,1080P-src-hans-sans-medi-75,,0,0,0,,最后一个TKS于1991年2月7日脱轨
-Dialogue: 0,0:11:10.52,0:11:12.82,1080P-src-hans-sans-Bold-50,,0,0,0,,and was probably one of the most well developed
-Dialogue: 0,0:11:10.52,0:11:12.82,1080P-src-hans-sans-medi-75,,0,0,0,,并可能是发展最完善的
-Dialogue: 0,0:11:12.86,0:11:16.83,1080P-src-hans-sans-Bold-50,,0,0,0,,and successful spacecraft that never get to fulfill its true destiny.
-Dialogue: 0,0:11:12.86,0:11:16.83,1080P-src-hans-sans-medi-75,,0,0,0,,和成功的航天器 从来没有得到实现其真正的命运
-Dialogue: 0,0:11:17.07,0:11:19.53,1080P-src-hans-sans-Bold-50,,0,0,0,,If you want to see a VA capsule, you're in luck,
-Dialogue: 0,0:11:17.07,0:11:19.53,1080P-src-hans-sans-medi-75,,0,0,0,,如果你想看到VA舱 你很幸运
-Dialogue: 0,0:11:19.62,0:11:21.36,1080P-src-hans-sans-Bold-50,,0,0,0,,these things are littered everywhere,
-Dialogue: 0,0:11:19.62,0:11:21.36,1080P-src-hans-sans-medi-75,,0,0,0,,这些东西到处都是
-Dialogue: 0,0:11:21.36,0:11:24.39,1080P-src-hans-sans-Bold-50,,0,0,0,,including the Memorial Museum of Cosmonautics in Moscow,
-Dialogue: 0,0:11:21.36,0:11:24.39,1080P-src-hans-sans-medi-75,,0,0,0,,包括莫斯科宇航纪念馆
-Dialogue: 0,0:11:24.55,0:11:27.29,1080P-src-hans-sans-Bold-50,,0,0,0,,The Smithsonian Air and Space Museum in Washington DC,
-Dialogue: 0,0:11:24.55,0:11:27.29,1080P-src-hans-sans-medi-75,,0,0,0,,位于华盛顿特区的史密森航空和航天博物馆
-Dialogue: 0,0:11:27.29,0:11:32.62,1080P-src-hans-sans-Bold-50,,0,0,0,,the International Space University in Strasbourg and a few other places.
-Dialogue: 0,0:11:27.29,0:11:32.62,1080P-src-hans-sans-medi-75,,0,0,0,,斯特拉斯堡国际空间大学和其他一些地方
-Dialogue: 0,0:11:32.62,0:11:35.82,1080P-src-hans-sans-Bold-50,,0,0,0,,(light pop music)
-Dialogue: 0,0:11:32.62,0:11:35.82,1080P-src-hans-sans-medi-75,,0,0,0,,（轻快的流行音乐）
-Dialogue: 0,0:11:36.22,0:11:41.70,1080P-src-hans-sans-Bold-50,,0,0,0,,I'm guessing we're all probably pretty familiar with SpaceX's Falcon 9 and Falcon Heavy rockets by now.
-Dialogue: 0,0:11:36.22,0:11:41.70,1080P-src-hans-sans-medi-75,,0,0,0,,我猜大家可能对SpaceX公司的猎鹰9号和猎鹰重型火箭已经非常熟悉了
-Dialogue: 0,0:11:42.64,0:11:44.51,1080P-src-hans-sans-Bold-50,,0,0,0,,You know, those rockets that land themselves.
-Dialogue: 0,0:11:42.64,0:11:44.51,1080P-src-hans-sans-medi-75,,0,0,0,,你知道 那些火箭 自己降落
-Dialogue: 0,0:11:45.62,0:11:46.31,1080P-src-hans-sans-Bold-50,,0,0,0,,Yeah, those ones.
-Dialogue: 0,0:11:45.62,0:11:46.31,1080P-src-hans-sans-medi-75,,0,0,0,,是啊 那些人
-Dialogue: 0,0:11:46.46,0:11:49.28,1080P-src-hans-sans-Bold-50,,0,0,0,,Well did you know the Falcon 9 had a baby brother,
-Dialogue: 0,0:11:46.46,0:11:49.28,1080P-src-hans-sans-medi-75,,0,0,0,,那么你知道猎鹰9号有一个小弟弟吗
-Dialogue: 0,0:11:49.67,0:11:52.29,1080P-src-hans-sans-Bold-50,,0,0,0,,or actually I should probably say an older brother.
-Dialogue: 0,0:11:49.67,0:11:52.29,1080P-src-hans-sans-medi-75,,0,0,0,,或者其实我应该说是一个哥哥
-Dialogue: 0,0:11:52.68,0:11:53.68,1080P-src-hans-sans-Bold-50,,0,0,0,,The Falcon 1.
-Dialogue: 0,0:11:52.68,0:11:53.68,1080P-src-hans-sans-medi-75,,0,0,0,,猎鹰1号
-Dialogue: 0,0:11:53.68,0:11:57.05,1080P-src-hans-sans-Bold-50,,0,0,0,,The Falcon 1 was the first rocket SpaceX built starting in 2006.
-Dialogue: 0,0:11:53.68,0:11:57.05,1080P-src-hans-sans-medi-75,,0,0,0,,猎鹰1号是SpaceX从2006年开始制造的第一枚火箭
-Dialogue: 0,0:11:57.56,0:12:01.20,1080P-src-hans-sans-Bold-50,,0,0,0,,It was a two stage rocket with a Merlin 1A or 1C engine on the first stage
-Dialogue: 0,0:11:57.56,0:12:01.20,1080P-src-hans-sans-medi-75,,0,0,0,,它是一枚两级火箭 第一级使用梅林1A或1C发动机
-Dialogue: 0,0:12:01.54,0:12:04.81,1080P-src-hans-sans-Bold-50,,0,0,0,,and a little engine known as the Kestrel engine for the upperstage.
-Dialogue: 0,0:12:01.54,0:12:04.81,1080P-src-hans-sans-medi-75,,0,0,0,,和一个被称为Kestrel引擎的小引擎作为上层
-Dialogue: 0,0:12:04.98,0:12:10.72,1080P-src-hans-sans-Bold-50,,0,0,0,,The Falcon 1 came to be when SpaceX founder Elon Musk got frustrated trying to buy a rocket from Russia
-Dialogue: 0,0:12:04.98,0:12:10.72,1080P-src-hans-sans-medi-75,,0,0,0,,猎鹰1号的出现是SpaceX创始人埃隆-马斯克在试图从俄罗斯购买火箭的过程中遇到了挫折
-Dialogue: 0,0:12:10.72,0:12:12.48,1080P-src-hans-sans-Bold-50,,0,0,0,,to launch a small payload to Mars.
-Dialogue: 0,0:12:10.72,0:12:12.48,1080P-src-hans-sans-medi-75,,0,0,0,,向火星发射小型有效载荷
-Dialogue: 0,0:12:13.05,0:12:14.79,1080P-src-hans-sans-Bold-50,,0,0,0,,He was unsuccessful in doing so.
-Dialogue: 0,0:12:13.05,0:12:14.79,1080P-src-hans-sans-medi-75,,0,0,0,,他没有成功地做到这一点
-Dialogue: 0,0:12:15.03,0:12:19.01,1080P-src-hans-sans-Bold-50,,0,0,0,,So Elon gathered up a small team of rocket engineers and with his own money and some
-Dialogue: 0,0:12:15.03,0:12:19.01,1080P-src-hans-sans-medi-75,,0,0,0,,于是埃隆组建了一个火箭工程师小团队 用自己的钱和一些
-Dialogue: 0,0:12:19.01,0:12:23.43,1080P-src-hans-sans-Bold-50,,0,0,0,,additional private funds, Elon set off to prove he could build his own rocket,
-Dialogue: 0,0:12:19.01,0:12:23.43,1080P-src-hans-sans-medi-75,,0,0,0,,额外的私人资金 埃隆开始证明他可以制造自己的火箭
-Dialogue: 0,0:12:23.82,0:12:26.42,1080P-src-hans-sans-Bold-50,,0,0,0,,and do it even cheaper than he could've bought from Russia.
-Dialogue: 0,0:12:23.82,0:12:26.42,1080P-src-hans-sans-medi-75,,0,0,0,,并且做得比他从俄罗斯买来的还要便宜
-Dialogue: 0,0:12:27.00,0:12:30.16,1080P-src-hans-sans-Bold-50,,0,0,0,,He and his team set their sights on making the cheapest launcher on the market.
-Dialogue: 0,0:12:27.00,0:12:30.16,1080P-src-hans-sans-medi-75,,0,0,0,,他和他的团队把目光投向了制造市场上最便宜的发射器
-Dialogue: 0,0:12:30.16,0:12:34.64,1080P-src-hans-sans-Bold-50,,0,0,0,,So in December 2005 SpaceX rolled their First Falcon 1 out to their launch pad
-Dialogue: 0,0:12:30.16,0:12:34.64,1080P-src-hans-sans-medi-75,,0,0,0,,所以在2005年12月 SpaceX公司将他们的第一枚猎鹰1号发射到了他们的发射台
-Dialogue: 0,0:12:34.66,0:12:39.67,1080P-src-hans-sans-Bold-50,,0,0,0,,at Kwajalein Atoll on a U. S. military base on Omelek Island in the Pacific Ocean.
-Dialogue: 0,0:12:34.66,0:12:39.67,1080P-src-hans-sans-medi-75,,0,0,0,,在太平洋奥梅莱克岛美军基地的夸贾林环礁
-Dialogue: 0,0:12:40.31,0:12:44.29,1080P-src-hans-sans-Bold-50,,0,0,0,,It wasn't until March 2006 that the first Falcon 1 took off.
-Dialogue: 0,0:12:40.31,0:12:44.29,1080P-src-hans-sans-medi-75,,0,0,0,,直到2006年3月 "猎鹰1号 "才首次起飞
-Dialogue: 0,0:12:44.29,0:12:50.07,1080P-src-hans-sans-Bold-50,,0,0,0,,The first three flights of the Falcon 1 were failures, with some getting frustratingly close to orbit.
-Dialogue: 0,0:12:44.29,0:12:50.07,1080P-src-hans-sans-medi-75,,0,0,0,,猎鹰1号的前三次飞行都是失败的 有的离轨道越来越近 令人沮丧
-Dialogue: 0,0:12:50.07,0:12:53.94,1080P-src-hans-sans-Bold-50,,0,0,0,,As a matter of fact, Falcon 1 flight three would've probably gone off perfectly
-Dialogue: 0,0:12:50.07,0:12:53.94,1080P-src-hans-sans-medi-75,,0,0,0,,事实上 "猎鹰1号 "第三次飞行很可能已经完美起飞了
-Dialogue: 0,0:12:53.94,0:13:00.70,1080P-src-hans-sans-Bold-50,,0,0,0,,if it weren't for a little residual thrust in the first stage causing the stages to collide immediately after separation.
-Dialogue: 0,0:12:53.94,0:13:00.70,1080P-src-hans-sans-medi-75,,0,0,0,,如果不是因为第一级的一点残余推力导致两级在分离后立即相撞
-Dialogue: 0,0:13:00.70,0:13:04.19,1080P-src-hans-sans-Bold-50,,0,0,0,,That's because the Falcon 1 used the Merlin 1A for the first two flights,
-Dialogue: 0,0:13:00.70,0:13:04.19,1080P-src-hans-sans-medi-75,,0,0,0,,那是因为 "猎鹰1号 "在前两次飞行中使用的是梅林1A
-Dialogue: 0,0:13:04.22,0:13:06.80,1080P-src-hans-sans-Bold-50,,0,0,0,,but the third flight they upgraded to the Merlin 1C.
-Dialogue: 0,0:13:04.22,0:13:06.80,1080P-src-hans-sans-medi-75,,0,0,0,,但第三次飞行他们升级为梅林1C
-Dialogue: 0,0:13:06.97,0:13:09.08,1080P-src-hans-sans-Bold-50,,0,0,0,,Of course they tested the Merlin 1C,
-Dialogue: 0,0:13:06.97,0:13:09.08,1080P-src-hans-sans-medi-75,,0,0,0,,当然 他们测试了梅林1C
-Dialogue: 0,0:13:09.41,0:13:14.14,1080P-src-hans-sans-Bold-50,,0,0,0,,but their instrumentation didn't notice a little extra residual thrust after engine shut off
-Dialogue: 0,0:13:09.41,0:13:14.14,1080P-src-hans-sans-medi-75,,0,0,0,,但他们的仪器没有发现发动机关闭后有一点额外的剩余推力
-Dialogue: 0,0:13:14.42,0:13:16.87,1080P-src-hans-sans-Bold-50,,0,0,0,,that was really only noticeable in the vacuum of space.
-Dialogue: 0,0:13:14.42,0:13:16.87,1080P-src-hans-sans-medi-75,,0,0,0,,只有在真空空间中才会被注意到
-Dialogue: 0,0:13:17.41,0:13:22.91,1080P-src-hans-sans-Bold-50,,0,0,0,,So unfortunately the first stage continued to accelerate just a little bit after stage separation,
-Dialogue: 0,0:13:17.41,0:13:22.91,1080P-src-hans-sans-medi-75,,0,0,0,,所以不幸的是 第一级在阶段分离后 继续加速 只是一点点
-Dialogue: 0,0:13:23.21,0:13:27.82,1080P-src-hans-sans-Bold-50,,0,0,0,,making it run right into the second stage, which unfortunately caused the rocket to fail.
-Dialogue: 0,0:13:23.21,0:13:27.82,1080P-src-hans-sans-medi-75,,0,0,0,,使其正好撞上第二级 不幸的是导致火箭失败
-Dialogue: 0,0:13:27.82,0:13:29.48,1080P-src-hans-sans-Bold-50,,0,0,0,,SpaceX was done for.
-Dialogue: 0,0:13:27.82,0:13:29.48,1080P-src-hans-sans-medi-75,,0,0,0,,SpaceX公司完蛋了
-Dialogue: 0,0:13:29.87,0:13:32.93,1080P-src-hans-sans-Bold-50,,0,0,0,,They had virtually zero cash to build another Falcon 1 rocket,
-Dialogue: 0,0:13:29.87,0:13:32.93,1080P-src-hans-sans-medi-75,,0,0,0,,他们几乎没有任何现金来建造另一枚猎鹰1号火箭
-Dialogue: 0,0:13:33.38,0:13:37.26,1080P-src-hans-sans-Bold-50,,0,0,0,,but they did have confidence that the vehicle required no hardware changes,
-Dialogue: 0,0:13:33.38,0:13:37.26,1080P-src-hans-sans-medi-75,,0,0,0,,但他们确实有信心 车辆不需要改变硬件
-Dialogue: 0,0:13:37.51,0:13:39.49,1080P-src-hans-sans-Bold-50,,0,0,0,,just a small tweak to the software.
-Dialogue: 0,0:13:37.51,0:13:39.49,1080P-src-hans-sans-medi-75,,0,0,0,,只是对软件进行了小小的调整
-Dialogue: 0,0:13:39.49,0:13:43.03,1080P-src-hans-sans-Bold-50,,0,0,0,,So Elon was able to get a few last minute investments,
-Dialogue: 0,0:13:39.49,0:13:43.03,1080P-src-hans-sans-medi-75,,0,0,0,,所以埃隆能够在最后时刻获得一些投资
-Dialogue: 0,0:13:43.03,0:13:46.42,1080P-src-hans-sans-Bold-50,,0,0,0,,just enough to scrounge up one more Falcon 1 flight.
-Dialogue: 0,0:13:43.03,0:13:46.42,1080P-src-hans-sans-medi-75,,0,0,0,,刚好够再凑齐一次猎鹰1号的飞行
-Dialogue: 0,0:13:46.42,0:13:52.75,1080P-src-hans-sans-Bold-50,,0,0,0,,With the entire future of SpaceX riding on those tiny metal shoulders of the fourth Falcon 1,
-Dialogue: 0,0:13:46.42,0:13:52.75,1080P-src-hans-sans-medi-75,,0,0,0,,随着整个SpaceX的未来 骑在那些微小的金属肩膀上 第四猎鹰1号
-Dialogue: 0,0:13:52.75,0:13:56.22,1080P-src-hans-sans-Bold-50,,0,0,0,,breaths were held when it launched on September 28th, 2008.
-Dialogue: 0,0:13:52.75,0:13:56.22,1080P-src-hans-sans-medi-75,,0,0,0,,2008年9月28日发射时 屏住了呼吸
-Dialogue: 0,0:13:56.22,0:14:00.12,1080P-src-hans-sans-Bold-50,,0,0,0,,But fortunately for SpaceX and of course us SpaceX fans,
-Dialogue: 0,0:13:56.22,0:14:00.12,1080P-src-hans-sans-medi-75,,0,0,0,,不过幸运的是 对于SpaceX 当然也包括我们SpaceX的粉丝
-Dialogue: 0,0:14:00.12,0:14:02.55,1080P-src-hans-sans-Bold-50,,0,0,0,,the Falcon 1 had a flawless mission,
-Dialogue: 0,0:14:00.12,0:14:02.55,1080P-src-hans-sans-medi-75,,0,0,0,,猎鹰1号有一个完美的任务
-Dialogue: 0,0:14:02.74,0:14:05.06,1080P-src-hans-sans-Bold-50,,0,0,0,,putting the RatSat mass simulator into orbit.
-Dialogue: 0,0:14:02.74,0:14:05.06,1080P-src-hans-sans-medi-75,,0,0,0,,将RatSat质量模拟器送入轨道
-Dialogue: 0,0:14:05.06,0:14:08.97,1080P-src-hans-sans-Bold-50,,0,0,0,,This made SpaceX the first privately funded company to reach orbit.
-Dialogue: 0,0:14:05.06,0:14:08.97,1080P-src-hans-sans-medi-75,,0,0,0,,这使SpaceX成为第一家到达轨道的私人资助公司
-Dialogue: 0,0:14:09.24,0:14:13.54,1080P-src-hans-sans-Bold-50,,0,0,0,,The success of flight four allowed SpaceX to launch a customer's payload for flight five.
-Dialogue: 0,0:14:09.24,0:14:13.54,1080P-src-hans-sans-medi-75,,0,0,0,,第四次飞行的成功 让SpaceX可以为第五次飞行发射客户的有效载荷
-Dialogue: 0,0:14:13.54,0:14:19.23,1080P-src-hans-sans-Bold-50,,0,0,0,,So on July 14, 2009, the Falcon 1 took off for the fifth and final time,
-Dialogue: 0,0:14:13.54,0:14:19.23,1080P-src-hans-sans-medi-75,,0,0,0,,于是在2009年7月14日 猎鹰1号第五次也是最后一次起飞
-Dialogue: 0,0:14:19.23,0:14:21.73,1080P-src-hans-sans-Bold-50,,0,0,0,,putting the RazakSat into orbit for Malaysia.
-Dialogue: 0,0:14:19.23,0:14:21.73,1080P-src-hans-sans-medi-75,,0,0,0,,将拉扎克卫星送入马来西亚的轨道
-Dialogue: 0,0:14:21.73,0:14:26.05,1080P-src-hans-sans-Bold-50,,0,0,0,,There were seven additional Falcon 1 flights on the books including upgrades to the Falcon 1,
-Dialogue: 0,0:14:21.73,0:14:26.05,1080P-src-hans-sans-medi-75,,0,0,0,,还有7次猎鹰1号的飞行 包括对猎鹰1号的升级
-Dialogue: 0,0:14:26.47,0:14:30.31,1080P-src-hans-sans-Bold-50,,0,0,0,,which would have made it the Falcon 1E, a more powerful and stretched version.
-Dialogue: 0,0:14:26.47,0:14:30.31,1080P-src-hans-sans-medi-75,,0,0,0,,这将使它成为猎鹰1E 一个更强大和加长的版本
-Dialogue: 0,0:14:30.40,0:14:35.63,1080P-src-hans-sans-Bold-50,,0,0,0,,With SpaceX winning a bid from NASA for a medium class launcher to supply the International Space Station,
-Dialogue: 0,0:14:30.40,0:14:35.63,1080P-src-hans-sans-medi-75,,0,0,0,,随着SpaceX公司从美国宇航局中标 为国际空间站提供中级运载火箭
-Dialogue: 0,0:14:35.63,0:14:41.18,1080P-src-hans-sans-Bold-50,,0,0,0,,they decided to cancel the Falcon 1 program entirely and move full steam ahead into their Falcon 9 program.
-Dialogue: 0,0:14:35.63,0:14:41.18,1080P-src-hans-sans-medi-75,,0,0,0,,他们决定完全取消 "猎鹰1号 "计划 全力推进 "猎鹰9号 "计划
-Dialogue: 0,0:14:41.33,0:14:46.11,1080P-src-hans-sans-Bold-50,,0,0,0,,This left seven missions for the Falcon 1 to be pushed back and eventually flown on Falcon 9s,
-Dialogue: 0,0:14:41.33,0:14:46.11,1080P-src-hans-sans-medi-75,,0,0,0,,这样一来 "猎鹰1号 "的7项任务就被推后 最终由 "猎鹰9号 "来执行
-Dialogue: 0,0:14:47.17,0:14:48.06,1080P-src-hans-sans-Bold-50,,0,0,0,,or canceled all together.
-Dialogue: 0,0:14:47.17,0:14:48.06,1080P-src-hans-sans-medi-75,,0,0,0,,或全部取消
-Dialogue: 0,0:14:48.43,0:14:51.10,1080P-src-hans-sans-Bold-50,,0,0,0,,This kind of reminds me of the Black Arrow program from the United Kingdom
-Dialogue: 0,0:14:48.43,0:14:51.10,1080P-src-hans-sans-medi-75,,0,0,0,,这有点让我想起了英国的 "黑箭计划"
-Dialogue: 0,0:14:51.12,0:14:53.07,1080P-src-hans-sans-Bold-50,,0,0,0,,that we talked about in that first video.
-Dialogue: 0,0:14:51.12,0:14:53.07,1080P-src-hans-sans-medi-75,,0,0,0,,我们在第一个视频中谈到的
-Dialogue: 0,0:14:53.41,0:14:57.29,1080P-src-hans-sans-Bold-50,,0,0,0,,It's kind of funny how the Falcon 1 was canceled as soon as it became operational.
-Dialogue: 0,0:14:53.41,0:14:57.29,1080P-src-hans-sans-medi-75,,0,0,0,,这是一种有趣的猎鹰1号是如何取消的 因为它成为操作
-Dialogue: 0,0:14:57.50,0:15:01.86,1080P-src-hans-sans-Bold-50,,0,0,0,,Only one customer's payload was ever launched and then closed up shop.
-Dialogue: 0,0:14:57.50,0:15:01.86,1080P-src-hans-sans-medi-75,,0,0,0,,只有一个客户的有效载荷曾经发射 然后关闭了商店
-Dialogue: 0,0:15:01.86,0:15:05.85,1080P-src-hans-sans-Bold-50,,0,0,0,,It seems like it ended up being a wise move for SpaceX to use the success of their Falcon 1
-Dialogue: 0,0:15:01.86,0:15:05.85,1080P-src-hans-sans-medi-75,,0,0,0,,看来 SpaceX公司利用猎鹰1号的成功 最终是一个明智之举
-Dialogue: 0,0:15:06.28,0:15:09.15,1080P-src-hans-sans-Bold-50,,0,0,0,,to get on over to that Falcon 9 as quickly as possible.
-Dialogue: 0,0:15:06.28,0:15:09.15,1080P-src-hans-sans-medi-75,,0,0,0,,以尽快上那个猎鹰9号
-Dialogue: 0,0:15:09.23,0:15:13.26,1080P-src-hans-sans-Bold-50,,0,0,0,,SpaceX was probably a bit too far ahead of the small sat curve with the Falcon 1.
-Dialogue: 0,0:15:09.23,0:15:13.26,1080P-src-hans-sans-medi-75,,0,0,0,,SpaceX公司的 "猎鹰1号 "可能在小卫星曲线上走得太远了
-Dialogue: 0,0:15:13.48,0:15:19.03,1080P-src-hans-sans-Bold-50,,0,0,0,,Had they developed it today with the massive increase in smallsat market, it would probably be more relevant.
-Dialogue: 0,0:15:13.48,0:15:19.03,1080P-src-hans-sans-medi-75,,0,0,0,,如果他们在小卫星市场大量增加的今天开发它 可能会更有意义
-Dialogue: 0,0:15:19.29,0:15:21.01,1080P-src-hans-sans-Bold-50,,0,0,0,,This is that same rapidly growing market
-Dialogue: 0,0:15:19.29,0:15:21.01,1080P-src-hans-sans-medi-75,,0,0,0,,这也是那个快速增长的市场
-Dialogue: 0,0:15:21.01,0:15:24.14,1080P-src-hans-sans-Bold-50,,0,0,0,,that Rocket Lab is now successfully fulfilling with their electron rocket.
-Dialogue: 0,0:15:21.01,0:15:24.14,1080P-src-hans-sans-medi-75,,0,0,0,,火箭实验室现在正在用他们的电子火箭成功实现
-Dialogue: 0,0:15:24.14,0:15:27.17,1080P-src-hans-sans-Bold-50,,0,0,0,,There was one more Falcon 1 built but never flown
-Dialogue: 0,0:15:24.14,0:15:27.17,1080P-src-hans-sans-medi-75,,0,0,0,,还有一枚 "猎鹰1号 "被制造出来 但从未飞过
-Dialogue: 0,0:15:27.17,0:15:31.79,1080P-src-hans-sans-Bold-50,,0,0,0,,and is now being displayed in a hallway in SpaceX's Headquarters in Hawthorne.
-Dialogue: 0,0:15:27.17,0:15:31.79,1080P-src-hans-sans-medi-75,,0,0,0,,并正在霍桑的SpaceX总部的走廊上展出
-Dialogue: 0,0:15:31.79,0:15:35.29,1080P-src-hans-sans-Bold-50,,0,0,0,,(light pop music)
-Dialogue: 0,0:15:31.79,0:15:35.29,1080P-src-hans-sans-medi-75,,0,0,0,,(轻快的流行音乐)
-Dialogue: 0,0:15:35.29,0:15:42.00,1080P-src-hans-sans-Bold-50,,0,0,0,,Now this last one is a little different because this rocket sure flew, very, very successfully.
-Dialogue: 0,0:15:35.29,0:15:42.00,1080P-src-hans-sans-medi-75,,0,0,0,,最后一个有点不同 因为这枚火箭确实飞得很成功 非常非常成功
-Dialogue: 0,0:15:42.00,0:15:44.98,1080P-src-hans-sans-Bold-50,,0,0,0,,As a matter of fact, it's probably the most famous rocket of all time,
-Dialogue: 0,0:15:42.00,0:15:44.98,1080P-src-hans-sans-medi-75,,0,0,0,,事实上 它可能是有史以来最著名的火箭
-Dialogue: 0,0:15:45.15,0:15:47.48,1080P-src-hans-sans-Bold-50,,0,0,0,,and fulfilled pretty impressive missions.
-Dialogue: 0,0:15:45.15,0:15:47.48,1080P-src-hans-sans-medi-75,,0,0,0,,并完成了令人印象深刻的任务
-Dialogue: 0,0:15:48.12,0:15:51.66,1080P-src-hans-sans-Bold-50,,0,0,0,,I'm of course talking about the Saturn V rocket that took us to the moon.
-Dialogue: 0,0:15:48.12,0:15:51.66,1080P-src-hans-sans-medi-75,,0,0,0,,我说的当然是带我们登上月球的土星五号火箭
-Dialogue: 0,0:15:52.60,0:15:54.68,1080P-src-hans-sans-Bold-50,,0,0,0,,So wait, why is it in this video?
-Dialogue: 0,0:15:52.60,0:15:54.68,1080P-src-hans-sans-medi-75,,0,0,0,,那么等等 为什么会出现在这个视频里呢？
-Dialogue: 0,0:15:54.81,0:15:57.66,1080P-src-hans-sans-Bold-50,,0,0,0,,Well, like I said, this one is just a little different,
-Dialogue: 0,0:15:54.81,0:15:57.66,1080P-src-hans-sans-medi-75,,0,0,0,,嗯 就像我说的 这个只是有点不同
-Dialogue: 0,0:15:57.73,0:15:59.88,1080P-src-hans-sans-Bold-50,,0,0,0,,but it's still a really interesting story.
-Dialogue: 0,0:15:57.73,0:15:59.88,1080P-src-hans-sans-medi-75,,0,0,0,,但这仍然是一个非常有趣的故事
-Dialogue: 0,0:15:59.92,0:16:02.62,1080P-src-hans-sans-Bold-50,,0,0,0,,The Saturn V is famous for flying 13 times,
-Dialogue: 0,0:15:59.92,0:16:02.62,1080P-src-hans-sans-medi-75,,0,0,0,,土星五号因飞行13次而闻名
-Dialogue: 0,0:16:03.06,0:16:04.95,1080P-src-hans-sans-Bold-50,,0,0,0,,12 of them being a complete success,
-Dialogue: 0,0:16:03.06,0:16:04.95,1080P-src-hans-sans-medi-75,,0,0,0,,其中12个是完全成功的
-Dialogue: 0,0:16:05.07,0:16:07.41,1080P-src-hans-sans-Bold-50,,0,0,0,,with nine missions taking humans out to the moon,
-Dialogue: 0,0:16:05.07,0:16:07.41,1080P-src-hans-sans-medi-75,,0,0,0,,有9次任务将人类带入月球
-Dialogue: 0,0:16:07.56,0:16:10.01,1080P-src-hans-sans-Bold-50,,0,0,0,,six of which actually landed on the moon.
-Dialogue: 0,0:16:07.56,0:16:10.01,1080P-src-hans-sans-medi-75,,0,0,0,,其中六次实际登陆月球
-Dialogue: 0,0:16:10.17,0:16:14.55,1080P-src-hans-sans-Bold-50,,0,0,0,,But did you know, there were actually supposed to be three more Apollo missions to the moon,
-Dialogue: 0,0:16:10.17,0:16:14.55,1080P-src-hans-sans-medi-75,,0,0,0,,但你知道吗 实际上应该还有三次阿波罗登月任务
-Dialogue: 0,0:16:14.99,0:16:17.80,1080P-src-hans-sans-Bold-50,,0,0,0,,and we had already built the Saturn Vs for those missions?
-Dialogue: 0,0:16:14.99,0:16:17.80,1080P-src-hans-sans-medi-75,,0,0,0,,而我们已经为这些任务制造了土星五号？
-Dialogue: 0,0:16:18.24,0:16:21.94,1080P-src-hans-sans-Bold-50,,0,0,0,,Now we're not going to get into why these Apollo missions were cancelled in today's video.
-Dialogue: 0,0:16:18.24,0:16:21.94,1080P-src-hans-sans-medi-75,,0,0,0,,现在我们不打算在今天的视频中讨论为什么这些阿波罗任务被取消
-Dialogue: 0,0:16:22.10,0:16:24.93,1080P-src-hans-sans-Bold-50,,0,0,0,,That's again for another video about alternate space history.
-Dialogue: 0,0:16:22.10,0:16:24.93,1080P-src-hans-sans-medi-75,,0,0,0,,那是另一个关于另一个空间历史的视频
-Dialogue: 0,0:16:25.04,0:16:31.53,1080P-src-hans-sans-Bold-50,,0,0,0,,But we'll just say due to budget cuts and changes in direction, Apollo 18, 19 and 20 were canceled.
-Dialogue: 0,0:16:25.04,0:16:31.53,1080P-src-hans-sans-medi-75,,0,0,0,,但我们只想说 由于预算的削减和方向的改变 阿波罗18号、19号和20号被取消了
-Dialogue: 0,0:16:31.53,0:16:32.87,1080P-src-hans-sans-Bold-50,,0,0,0,,Although three Saturn Vs were built for the moon,
-Dialogue: 0,0:16:31.53,0:16:32.87,1080P-src-hans-sans-medi-75,,0,0,0,,虽然为月球建造了三架土星V
-Dialogue: 0,0:16:33.06,0:16:36.54,1080P-src-hans-sans-Bold-50,,0,0,0,,one of these three got put to use by putting Skylab into space.
-Dialogue: 0,0:16:33.06,0:16:36.54,1080P-src-hans-sans-medi-75,,0,0,0,,这三者中的一个被用于将 "天空实验室 "送入太空
-Dialogue: 0,0:16:36.54,0:16:41.81,1080P-src-hans-sans-Bold-50,,0,0,0,,But that leaves two other Saturn Vs that are legitimate, flight hardware in existence today.
-Dialogue: 0,0:16:36.54,0:16:41.81,1080P-src-hans-sans-medi-75,,0,0,0,,但这就剩下另外两个土星V是合法的 飞行硬件存在于今天
-Dialogue: 0,0:16:41.81,0:16:47.15,1080P-src-hans-sans-Bold-50,,0,0,0,,If you ever get the chance to visit Kennedy Space Center in Florida or Johnson Space Center in Houston,
-Dialogue: 0,0:16:41.81,0:16:47.15,1080P-src-hans-sans-medi-75,,0,0,0,,如果你有机会参观佛罗里达州的肯尼迪航天中心 或者休斯顿的约翰逊航天中心
-Dialogue: 0,0:16:47.15,0:16:53.04,1080P-src-hans-sans-Bold-50,,0,0,0,,you'll see bonafide Saturn Vs that are mostly real flight hardware, built to go to the moon.
-Dialogue: 0,0:16:47.15,0:16:53.04,1080P-src-hans-sans-medi-75,,0,0,0,,你会看到真正的土星战机 大部分是真正的飞行硬件 是为了登上月球而建造的
-Dialogue: 0,0:16:53.04,0:16:55.95,1080P-src-hans-sans-Bold-50,,0,0,0,,And there's also two full scale Saturn Vs in Huntsville,
-Dialogue: 0,0:16:53.04,0:16:55.95,1080P-src-hans-sans-medi-75,,0,0,0,,在亨茨维尔还有两台全比例的土星战机
-Dialogue: 0,0:16:56.86,0:16:59.20,1080P-src-hans-sans-Bold-50,,0,0,0,,Alabama, one vertical and one horizontal.
-Dialogue: 0,0:16:56.86,0:16:59.20,1080P-src-hans-sans-medi-75,,0,0,0,,阿拉巴马州 一个垂直 一个水平
-Dialogue: 0,0:16:59.20,0:17:02.32,1080P-src-hans-sans-Bold-50,,0,0,0,,And although neither one is full-blown flight hardware,
-Dialogue: 0,0:16:59.20,0:17:02.32,1080P-src-hans-sans-medi-75,,0,0,0,,虽然都不是完整的飞行硬件
-Dialogue: 0,0:17:02.32,0:17:04.85,1080P-src-hans-sans-Bold-50,,0,0,0,,they're still really, really cool.
-Dialogue: 0,0:17:02.32,0:17:04.85,1080P-src-hans-sans-medi-75,,0,0,0,,它们仍然非常非常酷
-Dialogue: 0,0:17:04.85,0:17:10.65,1080P-src-hans-sans-Bold-50,,0,0,0,,But fun fact, the horizontal one is the only Saturn V on display that completed a mission.
-Dialogue: 0,0:17:04.85,0:17:10.65,1080P-src-hans-sans-medi-75,,0,0,0,,但有趣的是 水平的那辆是唯一一辆完成任务的土星五号
-Dialogue: 0,0:17:10.65,0:17:15.57,1080P-src-hans-sans-Bold-50,,0,0,0,,It was the dynamic test vehicle which was shaken to verify the engineering of the Saturn V.
-Dialogue: 0,0:17:10.65,0:17:15.57,1080P-src-hans-sans-medi-75,,0,0,0,,它是动态测试车 通过摇晃来验证土星五号的工程
-Dialogue: 0,0:17:15.57,0:17:20.47,1080P-src-hans-sans-Bold-50,,0,0,0,,All other Saturn Vs that completed their missions are resting on the bottom of the ocean.
-Dialogue: 0,0:17:15.57,0:17:20.47,1080P-src-hans-sans-medi-75,,0,0,0,,其他完成任务的土星五号都在海底休息
-Dialogue: 0,0:17:20.47,0:17:27.05,1080P-src-hans-sans-Bold-50,,0,0,0,,So although the Dynamic Test Vehicle wasn't destined for the moon, it's still an incredible display piece.
-Dialogue: 0,0:17:20.47,0:17:27.05,1080P-src-hans-sans-medi-75,,0,0,0,,所以虽然动态测试车并不是为了登上月球 但它仍然是一个不可思议的展示品
-Dialogue: 0,0:17:27.05,0:17:31.17,1080P-src-hans-sans-Bold-50,,0,0,0,,But there's also the last manufactured S1C first stage of a Saturn V
-Dialogue: 0,0:17:27.05,0:17:31.17,1080P-src-hans-sans-medi-75,,0,0,0,,但这里还有土星五号最后一个制造的S1C第一级
-Dialogue: 0,0:17:31.45,0:17:35.91,1080P-src-hans-sans-Bold-50,,0,0,0,,sitting outside of Stennis Space Center at the Infinity Science Center in Mississippi.
-Dialogue: 0,0:17:31.45,0:17:35.91,1080P-src-hans-sans-medi-75,,0,0,0,,坐在密西西比州无限科学中心的斯坦尼斯航天中心外
-Dialogue: 0,0:17:35.91,0:17:39.10,1080P-src-hans-sans-Bold-50,,0,0,0,,I wanted to end on this one because I think it's bittersweet.
-Dialogue: 0,0:17:35.91,0:17:39.10,1080P-src-hans-sans-medi-75,,0,0,0,,我想以这个结尾 因为我认为它是苦乐参半的
-Dialogue: 0,0:17:39.10,0:17:41.70,1080P-src-hans-sans-Bold-50,,0,0,0,,Here are some of the most brilliantly complicated,
-Dialogue: 0,0:17:39.10,0:17:41.70,1080P-src-hans-sans-medi-75,,0,0,0,,这里有一些最辉煌的复杂
-Dialogue: 0,0:17:41.70,0:17:45.14,1080P-src-hans-sans-Bold-50,,0,0,0,,powerful, and massive feats of engineering ever,
-Dialogue: 0,0:17:41.70,0:17:45.14,1080P-src-hans-sans-medi-75,,0,0,0,,有史以来强大、庞大的工程功绩
-Dialogue: 0,0:17:45.14,0:17:48.89,1080P-src-hans-sans-Bold-50,,0,0,0,,with more capability than has ever flown before or since,
-Dialogue: 0,0:17:45.14,0:17:48.89,1080P-src-hans-sans-medi-75,,0,0,0,,具有前所未有的能力 比以前或以后的飞行
-Dialogue: 0,0:17:48.89,0:17:54.51,1080P-src-hans-sans-Bold-50,,0,0,0,,just sitting there, shackled to the Earth by the gravity they know they're capable of breaking free from.
-Dialogue: 0,0:17:48.89,0:17:54.51,1080P-src-hans-sans-medi-75,,0,0,0,,只是坐在那里 束缚在地球上的重力 他们知道他们有能力挣脱
-Dialogue: 0,0:17:54.51,0:17:56.40,1080P-src-hans-sans-Bold-50,,0,0,0,,But I also think it's kind of beautiful.
-Dialogue: 0,0:17:54.51,0:17:56.40,1080P-src-hans-sans-medi-75,,0,0,0,,但我也认为这是一种美丽的
-Dialogue: 0,0:17:57.12,0:17:59.53,1080P-src-hans-sans-Bold-50,,0,0,0,,Sure, I really wish these things could have flown,
-Dialogue: 0,0:17:57.12,0:17:59.53,1080P-src-hans-sans-medi-75,,0,0,0,,当然 我真的希望这些东西能飞起来
-Dialogue: 0,0:17:59.53,0:18:03.14,1080P-src-hans-sans-Bold-50,,0,0,0,,put six more humans on the surface of the moon on the longest,
-Dialogue: 0,0:17:59.53,0:18:03.14,1080P-src-hans-sans-medi-75,,0,0,0,,在月球表面再放6个人类在长
-Dialogue: 0,0:18:03.14,0:18:05.39,1080P-src-hans-sans-Bold-50,,0,0,0,,most science packed missions we would've ever had.
-Dialogue: 0,0:18:03.14,0:18:05.39,1080P-src-hans-sans-medi-75,,0,0,0,,最科学的任务 我们会有过
-Dialogue: 0,0:18:05.92,0:18:08.50,1080P-src-hans-sans-Bold-50,,0,0,0,,But at the same time, look at this.
-Dialogue: 0,0:18:05.92,0:18:08.50,1080P-src-hans-sans-medi-75,,0,0,0,,但与此同时 看看这个
-Dialogue: 0,0:18:08.83,0:18:11.16,1080P-src-hans-sans-Bold-50,,0,0,0,,Now anyone can go see one for themselves.
-Dialogue: 0,0:18:08.83,0:18:11.16,1080P-src-hans-sans-medi-75,,0,0,0,,现在 任何人都可以亲自去看一个
-Dialogue: 0,0:18:11.16,0:18:13.17,1080P-src-hans-sans-Bold-50,,0,0,0,,You can walk underneath or alongside it,
-Dialogue: 0,0:18:11.16,0:18:13.17,1080P-src-hans-sans-medi-75,,0,0,0,,你可以走在它的下面或旁边
-Dialogue: 0,0:18:13.17,0:18:18.02,1080P-src-hans-sans-Bold-50,,0,0,0,,for a minute or two and admire all the incredible hardware developed for these missions.
-Dialogue: 0,0:18:13.17,0:18:18.02,1080P-src-hans-sans-medi-75,,0,0,0,,一两分钟 欣赏所有为这些任务开发的不可思议的硬件
-Dialogue: 0,0:18:18.02,0:18:20.34,1080P-src-hans-sans-Bold-50,,0,0,0,,So next time you're planning an upcoming trip,
-Dialogue: 0,0:18:18.02,0:18:20.34,1080P-src-hans-sans-medi-75,,0,0,0,,所以 下次你在计划即将到来的旅行时
-Dialogue: 0,0:18:20.34,0:18:23.36,1080P-src-hans-sans-Bold-50,,0,0,0,,definitely consider stopping by Houston, Huntsville,
-Dialogue: 0,0:18:20.34,0:18:23.36,1080P-src-hans-sans-medi-75,,0,0,0,,一定要考虑停在休斯顿 亨茨维尔
-Dialogue: 0,0:18:23.40,0:18:27.88,1080P-src-hans-sans-Bold-50,,0,0,0,,Stennis Space Center, or Kennedy Space Center and admire the gorgeous Saturn V.
-Dialogue: 0,0:18:23.40,0:18:27.88,1080P-src-hans-sans-medi-75,,0,0,0,,斯坦尼斯航天中心 或者肯尼迪航天中心 欣赏华丽的土星五号
-Dialogue: 0,0:18:28.42,0:18:31.55,1080P-src-hans-sans-Bold-50,,0,0,0,,I still get speechless every single time I see one.
-Dialogue: 0,0:18:28.42,0:18:31.55,1080P-src-hans-sans-medi-75,,0,0,0,,每次看到 我还是会无语
-Dialogue: 0,0:18:31.83,0:18:35.18,1080P-src-hans-sans-Bold-50,,0,0,0,,This all just makes you realize how important it is to have a clear goal,
-Dialogue: 0,0:18:31.83,0:18:35.18,1080P-src-hans-sans-medi-75,,0,0,0,,这一切都让你意识到 有一个明确的目标是多么重要
-Dialogue: 0,0:18:35.20,0:18:39.20,1080P-src-hans-sans-Bold-50,,0,0,0,,a healthy budget and strong leadership to really make big things happen.
-Dialogue: 0,0:18:35.20,0:18:39.20,1080P-src-hans-sans-medi-75,,0,0,0,,健康的预算和强有力的领导 才能真正做出大的成就
-Dialogue: 0,0:18:39.69,0:18:42.62,1080P-src-hans-sans-Bold-50,,0,0,0,,It makes me super thankful for what has been accomplished,
-Dialogue: 0,0:18:39.69,0:18:42.62,1080P-src-hans-sans-medi-75,,0,0,0,,这让我对已经取得的成就感到超级感激
-Dialogue: 0,0:18:43.08,0:18:45.84,1080P-src-hans-sans-Bold-50,,0,0,0,,but also pretty frustrated at what could have been.
-Dialogue: 0,0:18:43.08,0:18:45.84,1080P-src-hans-sans-medi-75,,0,0,0,,但也很沮丧 因为本来可以做到的
-Dialogue: 0,0:18:46.04,0:18:49.71,1080P-src-hans-sans-Bold-50,,0,0,0,,If you enjoyed this video, don't forget to check out part one if you haven't done so already,
-Dialogue: 0,0:18:46.04,0:18:49.71,1080P-src-hans-sans-medi-75,,0,0,0,,如果你喜欢这段视频 别忘了看看第一部分 如果你还没有这样做
-Dialogue: 0,0:18:49.88,0:18:54.50,1080P-src-hans-sans-Bold-50,,0,0,0,,but also stick around because we have a lot more coming in this canceled series.
-Dialogue: 0,0:18:49.88,0:18:54.50,1080P-src-hans-sans-medi-75,,0,0,0,,但也要坚持下去 因为我们有很多更多的未来在这个取消的系列
-Dialogue: 0,0:18:54.68,0:18:55.87,1080P-src-hans-sans-Bold-50,,0,0,0,,Let me know what other questions you have
-Dialogue: 0,0:18:54.68,0:18:55.87,1080P-src-hans-sans-medi-75,,0,0,0,,让我知道你还有什么问题
-Dialogue: 0,0:18:55.89,0:19:00.47,1080P-src-hans-sans-Bold-50,,0,0,0,,about canceled programs, rockets or just space flight in general in the comments below.
-Dialogue: 0,0:18:55.89,0:19:00.47,1080P-src-hans-sans-medi-75,,0,0,0,,关于取消的程序 火箭或只是太空飞行一般在下面的评论
-Dialogue: 0,0:19:00.55,0:19:05.05,1080P-src-hans-sans-Bold-50,,0,0,0,,I owe a huge thanks to my Patreon supporters for helping make all this stuff possible.
-Dialogue: 0,0:19:00.55,0:19:05.05,1080P-src-hans-sans-medi-75,,0,0,0,,我欠一个巨大的感谢我的Patreon支持者 帮助使所有这些东西可能
-Dialogue: 0,0:19:05.21,0:19:08.82,1080P-src-hans-sans-Bold-50,,0,0,0,,If you want to help script or research or gain access to excluse live streams
-Dialogue: 0,0:19:05.21,0:19:08.82,1080P-src-hans-sans-medi-75,,0,0,0,,如果你想帮助脚本或研究或获得excluse现场直播
-Dialogue: 0,0:19:08.82,0:19:11.34,1080P-src-hans-sans-Bold-50,,0,0,0,,where you can ask me questions about rockets and stuff,
-Dialogue: 0,0:19:08.82,0:19:11.34,1080P-src-hans-sans-medi-75,,0,0,0,,在那里你可以问我关于火箭之类的问题
-Dialogue: 0,0:19:11.56,0:19:14.33,1080P-src-hans-sans-Bold-50,,0,0,0,,head on over to patreon.com/everydayastronaut.
-Dialogue: 0,0:19:11.56,0:19:14.33,1080P-src-hans-sans-medi-75,,0,0,0,,请登录patreon.com/everydayastronaut
-Dialogue: 0,0:19:15.66,0:19:15.82,1080P-src-hans-sans-Bold-50,,0,0,0,,Thank you.
-Dialogue: 0,0:19:15.66,0:19:15.82,1080P-src-hans-sans-medi-75,,0,0,0,,谢谢你
-Dialogue: 0,0:19:15.82,0:19:19.87,1080P-src-hans-sans-Bold-50,,0,0,0,,And while you're online, head on over to my brand new web store where I have things like these.
-Dialogue: 0,0:19:15.82,0:19:19.87,1080P-src-hans-sans-medi-75,,0,0,0,,当你在网上的时候 去我的新网店看看吧 我在那里有这样的东西：
-Dialogue: 0,0:19:20.33,0:19:21.63,1080P-src-hans-sans-Bold-50,,0,0,0,,Grid thin not-a-coasters.
-Dialogue: 0,0:19:20.33,0:19:21.63,1080P-src-hans-sans-medi-75,,0,0,0,,网格薄的非杯垫
-Dialogue: 0,0:19:22.08,0:19:24.67,1080P-src-hans-sans-Bold-50,,0,0,0,,Notice they're not coasters because they have holes in them.
-Dialogue: 0,0:19:22.08,0:19:24.67,1080P-src-hans-sans-medi-75,,0,0,0,,注意这不是杯垫 因为上面有洞
-Dialogue: 0,0:19:24.67,0:19:27.62,1080P-src-hans-sans-Bold-50,,0,0,0,,That means the liquid can just drip right through them.
-Dialogue: 0,0:19:24.67,0:19:27.62,1080P-src-hans-sans-medi-75,,0,0,0,,这意味着液体可以直接从里面滴出来
-Dialogue: 0,0:19:27.62,0:19:33.26,1080P-src-hans-sans-Bold-50,,0,0,0,,But I do promise they'll keep your drink exactly this high off of water surface they're on
-Dialogue: 0,0:19:27.62,0:19:33.26,1080P-src-hans-sans-medi-75,,0,0,0,,但我保证他们会让你的饮料保持在离水面这么高的地方
-Dialogue: 0,0:19:34.16,0:19:35.16,1080P-src-hans-sans-Bold-50,,0,0,0,,so they're therefore drink elevators.
-Dialogue: 0,0:19:34.16,0:19:35.16,1080P-src-hans-sans-medi-75,,0,0,0,,所以他们因此是饮料电梯
-Dialogue: 0,0:19:35.60,0:19:39.58,1080P-src-hans-sans-Bold-50,,0,0,0,,And while you're there, check out brand new shirts and hats, prints of rocket launches,
-Dialogue: 0,0:19:35.60,0:19:39.58,1080P-src-hans-sans-medi-75,,0,0,0,,当你在那里的时候 看看全新的衬衫和帽子 火箭发射的印花
-Dialogue: 0,0:19:39.98,0:19:42.43,1080P-src-hans-sans-Bold-50,,0,0,0,,patches and stickers, and original artwork.
-Dialogue: 0,0:19:39.98,0:19:42.43,1080P-src-hans-sans-medi-75,,0,0,0,,补丁和贴纸 以及原创作品
-Dialogue: 0,0:19:42.59,0:19:46.47,1080P-src-hans-sans-Bold-50,,0,0,0,,Lots of fun stuff on my new shop at everydayastronaut.com/shop.
-Dialogue: 0,0:19:42.59,0:19:46.47,1080P-src-hans-sans-medi-75,,0,0,0,,我的新店面 everydayastronaut.com/shop 上有很多有趣的东西
-Dialogue: 0,0:19:46.47,0:19:50.86,1080P-src-hans-sans-Bold-50,,0,0,0,,And thanks to you guys I finally got some of my music available anywhere you listen to music.
-Dialogue: 0,0:19:46.47,0:19:50.86,1080P-src-hans-sans-medi-75,,0,0,0,,多亏了你们 我终于有了一些音乐 可以在任何地方听音乐
-Dialogue: 0,0:19:50.92,0:19:53.61,1080P-src-hans-sans-Bold-50,,0,0,0,,You can find Maximum Aerodynamic Pressure anywhere.
-Dialogue: 0,0:19:50.92,0:19:53.61,1080P-src-hans-sans-medi-75,,0,0,0,,你可以在任何地方找到 "最大空气动力压力"
-Dialogue: 0,0:19:53.61,0:19:56.54,1080P-src-hans-sans-Bold-50,,0,0,0,,Apple Music, Google Play Music, Spotify,
-Dialogue: 0,0:19:53.61,0:19:56.54,1080P-src-hans-sans-medi-75,,0,0,0,,Apple Music, Google Play Music, Spotify,
-Dialogue: 0,0:19:56.54,0:20:00.01,1080P-src-hans-sans-Bold-50,,0,0,0,,Amazon Music, or even a playlist right here on Youtube.
-Dialogue: 0,0:19:56.54,0:20:00.01,1080P-src-hans-sans-medi-75,,0,0,0,,亚马逊音乐 甚至是Youtube上的播放列表
-Dialogue: 0,0:20:00.01,0:20:03.32,1080P-src-hans-sans-Bold-50,,0,0,0,,Just search Maximum Aerodynamic Pressure or Everyday Astronaut
-Dialogue: 0,0:20:00.01,0:20:03.32,1080P-src-hans-sans-medi-75,,0,0,0,,只要搜索 "最大空气动力压力 "或 "每天的宇航员 "就可以了
-Dialogue: 0,0:20:03.32,0:20:06.40,1080P-src-hans-sans-Bold-50,,0,0,0,,and hopefully you'll find it wherever you listen to music.
-Dialogue: 0,0:20:03.32,0:20:06.40,1080P-src-hans-sans-medi-75,,0,0,0,,并希望你在听音乐的地方都能找到它
-Dialogue: 0,0:20:06.57,0:20:08.12,1080P-src-hans-sans-Bold-50,,0,0,0,,Give it a listen, enjoy.
-Dialogue: 0,0:20:06.57,0:20:08.12,1080P-src-hans-sans-medi-75,,0,0,0,,给大家听一听 享受一下
-Dialogue: 0,0:20:08.12,0:20:08.95,1080P-src-hans-sans-Bold-50,,0,0,0,,Thanks everybody.
-Dialogue: 0,0:20:08.12,0:20:08.95,1080P-src-hans-sans-medi-75,,0,0,0,,谢谢大家
-Dialogue: 0,0:20:08.95,0:20:09.84,1080P-src-hans-sans-Bold-50,,0,0,0,,That does it for me.
-Dialogue: 0,0:20:08.95,0:20:09.84,1080P-src-hans-sans-medi-75,,0,0,0,,这是我的
-Dialogue: 0,0:20:09.84,0:20:15.09,1080P-src-hans-sans-Bold-50,,0,0,0,,I'm Tim Dodd, the everyday astronaut bringing space down to Earth for everyday people.
-Dialogue: 0,0:20:09.84,0:20:15.09,1080P-src-hans-sans-medi-75,,0,0,0,,我是蒂姆-多德 每天的宇航员 带来的空间下降到地球 每天的人
-Dialogue: 0,0:20:15.09,0:20:18.01,1080P-src-hans-sans-Bold-50,,0,0,0,,(soft rock music))
-Dialogue: 0,0:20:15.09,0:20:18.01,1080P-src-hans-sans-medi-75,,0,0,0,,（软摇滚音乐）
+Dialogue: 0,0:00:00.09,0:00:05.09,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原作者名：Everyday Astronaut\N视频来源：youtu.be/P-yWHOgi6so\N原视频发布日期：20190105\N翻译：Severus Skywalker\N校对：旋火
+Dialogue: 0,0:00:48.67,0:00:50.92,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}3 2 1
+Dialogue: 0,0:00:51.15,0:00:52.86,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}所有发动机正常\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}All engine running.
+Dialogue: 0,0:00:53.07,0:00:55.92,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}起飞正常\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}Liftoff. We have a liftoff.
+Dialogue: 0,0:01:10.39,0:01:15.39,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}截止20200820还没出新的
+Dialogue: 0,0:02:54.42,0:02:59.42,1080P-src-hans-sans-medi-60,,0,0,0,,{\an9}\N\N*并非按照比例绘制*
+Dialogue: 0,0:05:12.82,0:05:16.64,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}\N这个视频好像鸽子了，截止20200820没看到
+Dialogue: 0,0:14:51.12,0:14:56.12,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/WcSM7keniZw
+Dialogue: 0,0:15:13.48,0:15:19.03,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}\N视频制作时 猎鹰9号的拼车计划尚未出现
+Dialogue: 0,0:16:22.10,0:16:27.10,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}\N这个视频好像也鸽子了，截止20200820没看到
+Dialogue: 0,0:18:46.04,0:18:51.04,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/WcSM7keniZw
+Dialogue: 0,0:05:24.81,0:05:27.01,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}（轻流行音乐）\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}(light pop music)
+Dialogue: 0,0:08:31.29,0:08:33.98,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}（轻流行音乐）\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}(light pop music)
+Dialogue: 0,0:11:32.62,0:11:35.82,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}（轻流行音乐）\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}(light pop music)
+Dialogue: 0,0:15:31.79,0:15:35.29,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}（轻流行音乐）\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}(light pop music)
+Dialogue: 0,0:20:15.09,0:20:18.01,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}（软摇滚音乐）\N{\r1080P-src-hans-sans-Bold-5s}{\blur4}(soft rock music)
+Dialogue: 0,0:01:14.02,0:01:18.19,1080P-src-hans-sans-medi-60,,0,0,0,,{\bord2\fad(0,300)\fs90\blur4\an5\fscx5\fscy6\t(0,500,\fscx100\fscy120)\t(500,600,\fscx90\fscy108)\t(3880,4180,\fscx5\fscy6)}\N\N\N\N\N\N\N\N苏联月球着陆器
+Dialogue: 0,0:05:22.63,0:05:26.81,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(0,300)\fs90\blur4\an5\fscx5\fscy6\t(0,500,\fscx100\fscy120)\t(500,600,\fscx90\fscy108)\t(3880,4180,\fscx5\fscy6)}\N\N\N\N\N\N\N\N德尔塔-3
+Dialogue: 0,0:08:29.65,0:08:34.23,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(0,300)\bord1\fs90\blur4\an5\fscx5\fscy6\t(0,480,\fscx100\fscy120)\t(480,560,\fscx90\fscy108)\t(4270,4550,\fscx5\fscy6)}\N\N\N\N\N\N\N\NTKS飞船
+Dialogue: 0,0:11:31.47,0:11:36.07,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(0,300)\fs90\blur4\an5\fscx5\fscy6\t(0,500,\fscx100\fscy120)\t(500,580,\fscx90\fscy108)\t(4300,4600,\fscx5\fscy6)}\N\N\N\N\N\N\N\N猎鹰1号
+Dialogue: 0,0:15:30.91,0:15:35.55,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(0,300)\fs90\blur4\an5\fscx5\fscy6\t(0,500,\fscx100\fscy120)\t(500,580,\fscx90\fscy108)\t(4300,4600,\fscx5\fscy6)}\N\N\N\N\N\N\N\N土星五号
+Comment: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}英文字幕
+Dialogue: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Hi it's me, Tim Dodd, the Everyday Astronaut.
+Comment: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}中文字幕
+Dialogue: 0,0:00:00.09,0:00:02.25,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}嗨 是我 Tim Dodd 每日宇航员
+Dialogue: 0,0:00:02.27,0:00:05.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There's nothing more exciting than a awesome rocket concept,
+Dialogue: 0,0:00:02.27,0:00:05.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没有什么比超棒的火箭想法更让人兴奋的了
+Dialogue: 0,0:00:05.36,0:00:09.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a new mission to unknown worlds, or an exciting breakthrough in technology.
+Dialogue: 0,0:00:05.36,0:00:09.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}去往未知世界的新任务 或者是激动人心的技术突破
+Dialogue: 0,0:00:09.78,0:00:14.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But unfortunately for every proposal there's almost an equal amount of cancellations
+Dialogue: 0,0:00:09.78,0:00:14.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但不幸地是 每一个被选择的方案都代表着有方案被砍
+Dialogue: 0,0:00:14.67,0:00:17.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with only a small handful making it beyond the drawing board.
+Dialogue: 0,0:00:14.67,0:00:17.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有一小部分能离开图纸 得到实现
+Dialogue: 0,0:00:18.01,0:00:22.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}What's even more frustrating is when these concepts actually leave paper.
+Dialogue: 0,0:00:18.01,0:00:22.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}更令人沮丧的是 当这些概念真正离开了图纸
+Dialogue: 0,0:00:22.09,0:00:24.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And thousands of engineering hours put in,
+Dialogue: 0,0:00:22.09,0:00:24.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}成千上万的工程时间投入
+Dialogue: 0,0:00:24.73,0:00:30.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}hardware even gets built, billions of dollars invested and then it gets put on the shelf.
+Dialogue: 0,0:00:24.73,0:00:30.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}零件已经开始建造 投入了数百万美元 然后就被束之高阁了
+Dialogue: 0,0:00:30.62,0:00:34.24,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If this sounds familiar to you, welcome to part two of my new canceled series.
+Dialogue: 0,0:00:30.62,0:00:34.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你觉得这听起来很熟悉 欢迎来到我的 取消 系列的第二集
+Dialogue: 0,0:00:34.62,0:00:39.44,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We're gonna take a look at some space programs and concepts that were so close to complete.
+Dialogue: 0,0:00:34.62,0:00:39.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们要看看一些太空计划和概念 它们是如此接近完成
+Dialogue: 0,0:00:39.97,0:00:43.11,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}They sometimes were even launched before it got canceled.
+Dialogue: 0,0:00:39.97,0:00:43.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有时甚至在被取消之前已经发射过了
+Dialogue: 0,0:00:43.26,0:00:46.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Oh man, these videos are pretty frustrating.
+Dialogue: 0,0:00:43.26,0:00:46.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}哦 伙计 这些视频是非常令人沮丧的
+Dialogue: 0,0:00:46.35,0:00:48.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So with that in mind, let's get started.
+Dialogue: 0,0:00:46.35,0:00:48.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}记着这一条 那么我们开始吧
+Dialogue: 0,0:00:58.61,0:01:01.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Welcome to part two of canceled, where again,
+Dialogue: 0,0:00:58.61,0:01:01.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}欢迎来到 取消 的第二集 同样
+Dialogue: 0,0:01:01.69,0:01:05.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}we're focusing on hardware that actually flew before it fizzled,
+Dialogue: 0,0:01:01.69,0:01:05.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们关注的是一些在它消失之前真正飞起来的东西
+Dialogue: 0,0:01:05.16,0:01:08.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it was built and then bye bye, completed then canned.
+Dialogue: 0,0:01:05.16,0:01:08.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}建成后就拜拜了 完工后就取消了
+Dialogue: 0,0:01:09.37,0:01:09.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You get the idea.
+Dialogue: 0,0:01:09.37,0:01:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你懂的
+Dialogue: 0,0:01:10.39,0:01:13.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There's gonna be a lot more videos coming up in this series, so stay tuned.
+Dialogue: 0,0:01:10.39,0:01:13.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这个系列还会有更多的视频 敬请关注
+Dialogue: 0,0:01:18.46,0:01:22.09,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Remember the so called space race between the United States and the Soviet Union?
+Dialogue: 0,0:01:18.46,0:01:22.09,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还记得美国和苏联之间所谓的太空竞赛？
+Dialogue: 0,0:01:22.79,0:01:27.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Despite the US literally moving the goalpost by setting landing on the moon as the end goal,
+Dialogue: 0,0:01:22.79,0:01:27.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}尽管美国将登陆月球作为最终目标 并因此获得优势
+Dialogue: 0,0:01:28.23,0:01:33.28,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soviet Union was clearly beating the United States in almost every other space milestone.
+Dialogue: 0,0:01:28.23,0:01:33.28,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}苏联在其他几乎所有的太空里程碑上都明显地击败了美国
+Dialogue: 0,0:01:33.51,0:01:36.30,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So with the moon now the new target for both countries,
+Dialogue: 0,0:01:33.51,0:01:36.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 随着月球成为两国的新目标
+Dialogue: 0,0:01:36.45,0:01:39.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the most ambitious and specialized spacecraft had to be designed.
+Dialogue: 0,0:01:36.45,0:01:39.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}必须设计出最宏伟专业的航天器
+Dialogue: 0,0:01:40.03,0:01:44.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So not only did each country build massive, massive rockets with enough capability
+Dialogue: 0,0:01:40.03,0:01:44.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因此 每个国家不仅需要制造具有足够能力的大型火箭
+Dialogue: 0,0:01:44.12,0:01:46.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to actually get a spacecraft out to the moon,
+Dialogue: 0,0:01:44.12,0:01:46.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}将航天器真正送上月球
+Dialogue: 0,0:01:46.64,0:01:51.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but they also had to build vehicles which could land on the moon and come home.
+Dialogue: 0,0:01:46.64,0:01:51.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但他们还必须建造能够登陆月球并回家的航天器
+Dialogue: 0,0:01:51.15,0:01:56.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Of course the United States built the iconic Apollo Lunar Module which rode on top of the Saturn V rocket.
+Dialogue: 0,0:01:51.15,0:01:56.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当然 美国建造了标志性的阿波罗登月舱 她搭载在土星五号火箭之上
+Dialogue: 0,0:01:56.53,0:01:57.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But did you know,
+Dialogue: 0,0:01:56.53,0:01:57.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但你知道吗？
+Dialogue: 0,0:01:57.72,0:02:04.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soviet Union designed and built the LK or Lunar Craft to ride on top of their N-1 rocket?
+Dialogue: 0,0:01:57.72,0:02:04.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}苏联设计并建造了LK或月球飞船 来搭载在他们的N-1火箭之上
+Dialogue: 0,0:02:04.31,0:02:05.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's right.
+Dialogue: 0,0:02:04.31,0:02:05.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没错
+Dialogue: 0,0:02:05.14,0:02:09.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}While the world watched as the United States tested and flew their Apollo spacecraft,
+Dialogue: 0,0:02:05.14,0:02:09.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当全世界都在看着美国测试和飞行他们的阿波罗飞船的时候
+Dialogue: 0,0:02:09.33,0:02:14.11,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soviet Union was secretly working on a very small lunar lander themselves.
+Dialogue: 0,0:02:09.33,0:02:14.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}苏联自个正在偷摸着研究一个非常小的月球登陆器
+Dialogue: 0,0:02:14.11,0:02:15.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The LK was tiny.
+Dialogue: 0,0:02:14.11,0:02:15.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}LK非常小
+Dialogue: 0,0:02:15.80,0:02:18.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Only about one third the size of the Apollo Lunar Module
+Dialogue: 0,0:02:15.80,0:02:18.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有阿波罗登月舱的三分之一大小
+Dialogue: 0,0:02:19.15,0:02:24.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and could only carry one cosmonaut as opposed to two like the Apollo Lander could.
+Dialogue: 0,0:02:19.15,0:02:24.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而且只能携带一名宇航员 而不是像阿波罗登陆器那样可以携带两名宇航员
+Dialogue: 0,0:02:24.92,0:02:25.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Can you imagine?
+Dialogue: 0,0:02:24.92,0:02:25.74,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你能想象吗？
+Dialogue: 0,0:02:25.92,0:02:28.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Just a single person walking around on the moon?
+Dialogue: 0,0:02:25.92,0:02:28.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有一个人在月球上行走？
+Dialogue: 0,0:02:28.88,0:02:30.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}All alone, completely isolated.
+Dialogue: 0,0:02:28.88,0:02:30.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}独自一人 完全与世隔绝
+Dialogue: 0,0:02:31.30,0:02:33.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That sounds absolutely terrifying.
+Dialogue: 0,0:02:31.30,0:02:33.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这听起来绝对是可怕的
+Dialogue: 0,0:02:33.75,0:02:35.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}A few fun facts about the LK.
+Dialogue: 0,0:02:33.75,0:02:35.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}关于LK的一些有趣的事实
+Dialogue: 0,0:02:35.84,0:02:41.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}First off, there was no tunnel between the LK and the Soyuz 7K-L3 LK spacecraft,
+Dialogue: 0,0:02:35.84,0:02:41.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}首先 LK和联盟7K -L3 LK飞船之间没有通道
+Dialogue: 0,0:02:41.69,0:02:46.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so the cosmonaut was going to have to do a space walk to get inside the LK.
+Dialogue: 0,0:02:41.69,0:02:46.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以宇航员要做一次太空行走才能进入LK内部
+Dialogue: 0,0:02:46.07,0:02:50.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The soviets also had a much different approach to actually landing on the moon.
+Dialogue: 0,0:02:46.07,0:02:50.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}苏联人在实际登陆月球时 也有一个非常不同的方法
+Dialogue: 0,0:02:50.34,0:02:54.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}They would first send send an uncrewed Lunokhod probe to select a suitable landing area.
+Dialogue: 0,0:02:50.34,0:02:54.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们首先会派出一个无人驾驶的月球步行者探测器来选择一个合适的着陆区域
+Dialogue: 0,0:02:54.98,0:02:58.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It would then act as a beacon to ensure a precise landing for the LK.
+Dialogue: 0,0:02:54.98,0:02:58.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后它将作为一个信标来确保LK的精确着陆
+Dialogue: 0,0:02:58.89,0:03:03.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Another interesting fact is they would have actually sent two LKs to the moon for each mission.
+Dialogue: 0,0:02:58.89,0:03:03.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}另一个有趣的事实是 他们其实每次任务都会向月球发送两个LK
+Dialogue: 0,0:03:03.20,0:03:07.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}One ahead of time, uncrewed as a backup if there were any issues with the crewed lander.
+Dialogue: 0,0:03:03.20,0:03:07.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一艘提前发射 作为备用 以防有人驾驶的着陆器出现任何问题
+Dialogue: 0,0:03:08.27,0:03:13.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And this wasn't the only backup to ensure their cosmonauts got off the moon, no,
+Dialogue: 0,0:03:08.27,0:03:13.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是不是确保宇航员离开月球的唯一后备
+Dialogue: 0,0:03:13.00,0:03:16.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the soviets were all about redundancy with the LK.
+Dialogue: 0,0:03:13.00,0:03:16.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在LK上 苏联人都留有冗余
+Dialogue: 0,0:03:16.03,0:03:21.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The LK actually had primary and backup engines to ensure they could get their cosmonaut off the moon.
+Dialogue: 0,0:03:16.03,0:03:21.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}LK实际上有主引擎和备用引擎 以确保他们能把宇航员送出月球
+Dialogue: 0,0:03:21.66,0:03:25.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now by contrast, the Apollo Lunar lander only had only one engine to get off the moon.
+Dialogue: 0,0:03:21.66,0:03:25.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}相比之下 阿波罗月球登陆器只有一个引擎来离开月球
+Dialogue: 0,0:03:26.12,0:03:29.46,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The crazy thing is this engine could only be started once ever,
+Dialogue: 0,0:03:26.12,0:03:29.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最疯狂的是 这个引擎只能启动一次
+Dialogue: 0,0:03:29.65,0:03:34.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so the actual engines used in the missions couldn't even be tested before they fired.
+Dialogue: 0,0:03:29.65,0:03:34.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 在每次任务中使用的发动机 在发射之前甚至不能测试(试车)
+Dialogue: 0,0:03:34.76,0:03:37.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And that to me is just crazy.
+Dialogue: 0,0:03:34.76,0:03:37.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这对我来说简直是疯了
+Dialogue: 0,0:03:37.32,0:03:42.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So the one and only time these engines fired was to get astronauts off the moon.
+Dialogue: 0,0:03:37.32,0:03:42.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以这些引擎唯一一次发射是为了让宇航员离开月球
+Dialogue: 0,0:03:42.36,0:03:45.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If it didn't work, they were stuck.
+Dialogue: 0,0:03:42.36,0:03:45.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果它不工作 他们就在月球上等死吧
+Dialogue: 0,0:03:45.40,0:03:50.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And lastly, the LK only used a single stage to land on and ascend from the moon.
+Dialogue: 0,0:03:45.40,0:03:50.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后 LK只有一个分级负责着陆和上升
+Dialogue: 0,0:03:50.14,0:03:54.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But It did ditch the landing gear and other structure to decrease weight for ascent.
+Dialogue: 0,0:03:50.14,0:03:54.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但它在上升时确实抛弃了起落架和其他结构 以减轻重量
+Dialogue: 0,0:03:54.51,0:04:00.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But this again is in quite big contrast to the Apollo lander which had a separate descent and ascent stage.
+Dialogue: 0,0:03:54.51,0:04:00.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这又与阿波罗着陆器有单独的下降和上升级形成了相当大的反差
+Dialogue: 0,0:04:00.68,0:04:01.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}All said and done,
+Dialogue: 0,0:04:00.68,0:04:01.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}说了这么多
+Dialogue: 0,0:04:01.55,0:04:06.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Soviets had done their homework and had a pretty great little spacecraft to safely land on the moon.
+Dialogue: 0,0:04:01.55,0:04:06.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}苏联人做足了功课 有了一个非常棒的小飞船来安全登陆月球
+Dialogue: 0,0:04:06.67,0:04:14.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But here's the craziest thing, they actually flew 4 of them into space between 1970 and 1971,
+Dialogue: 0,0:04:06.67,0:04:14.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但最疯狂的是 他们在1970年到1971年之间 居然打了4个上去
+Dialogue: 0,0:04:14.10,0:04:16.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}although they never took one to the moon.
+Dialogue: 0,0:04:14.10,0:04:16.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然没有一艘飞到了月球
+Dialogue: 0,0:04:16.35,0:04:18.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This is mostly because their moon rocket,
+Dialogue: 0,0:04:16.35,0:04:18.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这主要是因为他们登月用的大火箭
+Dialogue: 0,0:04:18.08,0:04:23.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the N-1, had 4 launch attempts, all ending in massive explosions.
+Dialogue: 0,0:04:18.08,0:04:23.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}N-1的4次发射 都炸了
+Dialogue: 0,0:04:23.32,0:04:28.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}With no suitable ride to space, the LK never made it beyond Low Earth Orbit.
+Dialogue: 0,0:04:23.32,0:04:28.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由于没有合适的运载工具进入太空 LK号从未离开近地轨道
+Dialogue: 0,0:04:28.02,0:04:30.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}With the United States successfully putting humans on the moon,
+Dialogue: 0,0:04:28.02,0:04:30.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}随着美国成功将人类送上月球
+Dialogue: 0,0:04:30.66,0:04:33.69,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the motivations and funding pretty quickly dried up.
+Dialogue: 0,0:04:30.66,0:04:33.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}登月的动机和资金很快就枯竭了
+Dialogue: 0,0:04:33.90,0:04:36.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And that's not to mention they lost one of their N1 launch pads
+Dialogue: 0,0:04:33.90,0:04:36.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这还不算 他们还失去了一个N1的发射台
+Dialogue: 0,0:04:36.59,0:04:40.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}as well as their lead engineer Sergei Korolev during the development of the program,
+Dialogue: 0,0:04:36.59,0:04:40.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及他们的首席工程师谢尔盖·科罗廖夫在项目开发期间去世了
+Dialogue: 0,0:04:41.34,0:04:44.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so they pulled the plug on the entire program in 1974.
+Dialogue: 0,0:04:41.34,0:04:44.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以他们在1974年就把整个项目砍了
+Dialogue: 0,0:04:44.81,0:04:45.88,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}What a shame.
+Dialogue: 0,0:04:44.81,0:04:45.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}真可惜
+Dialogue: 0,0:04:45.88,0:04:48.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I really love this unique approach to landing on the moon.
+Dialogue: 0,0:04:45.88,0:04:48.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我真的很喜欢这种登陆月球的独特方式
+Dialogue: 0,0:04:48.81,0:04:54.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But again, can you imagine being the only person standing on the moon completely alone?
+Dialogue: 0,0:04:48.81,0:04:54.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但你能想象 你是唯一一个完全独自站在月球上的人吗？
+Dialogue: 0,0:04:54.08,0:04:57.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It gives me shivers just thinking about it.
+Dialogue: 0,0:04:54.08,0:04:57.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}想到这里 我就不寒而栗
+Dialogue: 0,0:04:57.14,0:04:58.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That would have been intense.
+Dialogue: 0,0:04:57.14,0:04:58.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那一定会很紧张
+Dialogue: 0,0:04:58.96,0:05:03.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Today you can see one of the five remaining LK's at the Moscow Aviaition Institute,
+Dialogue: 0,0:04:58.96,0:05:03.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}今天你可以在莫斯科航空学院看到剩下的五架LK中的一架
+Dialogue: 0,0:05:03.20,0:05:05.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Orevo Research and Educational Facility,
+Dialogue: 0,0:05:03.20,0:05:05.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在奥雷沃研究和教育设施
+Dialogue: 0,0:05:05.78,0:05:09.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the RKK Energia Plant at Korolev, Tambov Air Base,
+Dialogue: 0,0:05:05.78,0:05:09.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}位于科罗廖夫 坦波夫空军基地的RKK Energia工厂
+Dialogue: 0,0:05:09.99,0:05:12.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or the Military Space Academy in St. Petersberg.
+Dialogue: 0,0:05:09.99,0:05:12.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或圣彼得堡的军事航天学院
+Dialogue: 0,0:05:12.82,0:05:16.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We'll talk more about the N-1 rocket in an upcoming video about alternate space history
+Dialogue: 0,0:05:12.82,0:05:16.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们将在即将到来的关于另一个航天历史的视频中 谈论更多关于N-1火箭的内容
+Dialogue: 0,0:05:16.65,0:05:18.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}since the N-1 never quite made it out of development.
+Dialogue: 0,0:05:16.65,0:05:18.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因为N -1没搞出来
+Dialogue: 0,0:05:19.42,0:05:24.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean sure it flew, just not successfully.
+Dialogue: 0,0:05:19.42,0:05:24.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我的意思是它肯定飞了 只是不成功
+Dialogue: 0,0:05:27.01,0:05:28.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Delta rocket.
+Dialogue: 0,0:05:27.01,0:05:28.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔火箭
+Dialogue: 0,0:05:28.12,0:05:32.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Maybe you're familiar with the recently retired and beautiful teel rocket, the Delta II,
+Dialogue: 0,0:05:28.12,0:05:32.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也许你对最近退役的美丽的火箭 德尔塔2很熟悉
+Dialogue: 0,0:05:32.45,0:05:34.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or perhaps the orangest rocket currently flying,
+Dialogue: 0,0:05:32.45,0:05:34.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者说是目前飞行的最橙的火箭
+Dialogue: 0,0:05:35.34,0:05:36.53,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Delta IV and Delta IV Heavy.
+Dialogue: 0,0:05:35.34,0:05:36.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔4和德尔塔4重型
+Dialogue: 0,0:05:36.78,0:05:40.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Or maybe you're a history buff and remember the Thor-Delta or Delta I variants.
+Dialogue: 0,0:05:36.78,0:05:40.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者你是个历史爱好者 还记得雷神德尔塔或德尔塔一号那些变种
+Dialogue: 0,0:05:41.23,0:05:44.44,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Lots of Deltas, but what about the Delta III?
+Dialogue: 0,0:05:41.23,0:05:44.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}很多德尔塔 但德尔塔3呢？
+Dialogue: 0,0:05:44.94,0:05:47.46,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Why do we hear so much about II and IV?
+Dialogue: 0,0:05:44.94,0:05:47.46,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为什么我们听到这么多关于德尔塔2和德尔塔4的消息？
+Dialogue: 0,0:05:48.02,0:05:49.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Where's Delta III?
+Dialogue: 0,0:05:48.02,0:05:49.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔3在哪里？
+Dialogue: 0,0:05:49.30,0:05:52.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Well, there actually was a Delta III and ironically enough,
+Dialogue: 0,0:05:49.30,0:05:52.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}好吧 其实有一个德尔塔3 并且够讽刺的是
+Dialogue: 0,0:05:53.00,0:05:56.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it's almost exactly between a Delta II and a Delta IV.
+Dialogue: 0,0:05:53.00,0:05:56.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它几乎完全介于德尔塔2和德尔塔4之间
+Dialogue: 0,0:05:56.68,0:05:59.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}A very strange looking vehicle if you ask me.
+Dialogue: 0,0:05:56.68,0:05:59.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你问我的话 我觉得它看起来非常怪
+Dialogue: 0,0:05:59.44,0:06:01.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Developed in the mid 90's by McDonnell Douglas,
+Dialogue: 0,0:05:59.44,0:06:01.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}90年代中期由麦克唐纳道格拉斯公司研制
+Dialogue: 0,0:06:01.63,0:06:04.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and later launched by Boeing after a merger of the two companies,
+Dialogue: 0,0:06:01.63,0:06:04.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并在两家公司合并后由波音公司发射
+Dialogue: 0,0:06:05.01,0:06:07.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Delta III was basically a scaled up Delta II.
+Dialogue: 0,0:06:05.01,0:06:07.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔3基本上是放大的德尔塔2
+Dialogue: 0,0:06:08.11,0:06:13.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It used that same RS-27A main engine and two vernier engines for roll control,
+Dialogue: 0,0:06:08.11,0:06:13.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它使用同样的RS-27A主引擎和两个游标引擎进行滚转控制
+Dialogue: 0,0:06:13.30,0:06:14.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but here's the weird thing.
+Dialogue: 0,0:06:13.30,0:06:14.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这里有一个奇怪的事情
+Dialogue: 0,0:06:14.64,0:06:18.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It shared the same 2.4 meter diameter core as the Delta II,
+Dialogue: 0,0:06:14.64,0:06:18.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它与德尔塔2用同样的2.4米直径的芯级
+Dialogue: 0,0:06:18.56,0:06:20.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but it only had the liquid oxygen in there,
+Dialogue: 0,0:06:18.56,0:06:20.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但它里面只有液氧
+Dialogue: 0,0:06:20.88,0:06:23.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and then it tapered up to four meters for the RP-1 tank.
+Dialogue: 0,0:06:20.88,0:06:23.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后它渐渐变大到4米 用于RP-1燃料箱
+Dialogue: 0,0:06:23.85,0:06:28.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The RS-27A main engine was too weak to actually lift this bigger rocket,
+Dialogue: 0,0:06:23.85,0:06:28.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}RS-27A的主发动机太弱了 实际上无法推动这枚更大的火箭
+Dialogue: 0,0:06:29.00,0:06:36.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so the Delta III would always require nine large GEM LDXL Solid Rocket Boosters just to get it off the pad.
+Dialogue: 0,0:06:29.00,0:06:36.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以德尔塔3总是需要9个大型的GEM LDXL固体火箭助推器才能把它发射出去
+Dialogue: 0,0:06:36.40,0:06:40.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Delta III used a new upperstage called the Delta Cryogenic Second Stage
+Dialogue: 0,0:06:36.40,0:06:40.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔3使用了一种新的末级 叫做德尔塔低温第二级
+Dialogue: 0,0:06:40.36,0:06:44.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which used liquid Hydrogen and Oxygen to power an RL-10B-2 engine.
+Dialogue: 0,0:06:40.36,0:06:44.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它使用液氢和液氧来驱动RL-10B-2发动机
+Dialogue: 0,0:06:44.93,0:06:46.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This engine was pretty special
+Dialogue: 0,0:06:44.93,0:06:46.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这台发动机很特别
+Dialogue: 0,0:06:46.25,0:06:48.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}because it offered a unique extending nozzle
+Dialogue: 0,0:06:46.25,0:06:48.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因为它提供了一个独特的延伸喷嘴
+Dialogue: 0,0:06:48.85,0:06:52.35,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which offered increased efficiency while maintaining a compact design.
+Dialogue: 0,0:06:48.85,0:06:52.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在保持紧凑设计的同时 提供了更高的效率
+Dialogue: 0,0:06:52.57,0:06:54.57,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This upperstage offered much better performance
+Dialogue: 0,0:06:52.57,0:06:54.57,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种上级提供了更好的性能
+Dialogue: 0,0:06:54.60,0:06:59.37,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}when compared to the Delta-K upperstage of the Delta II which used hypergolic propellants.
+Dialogue: 0,0:06:54.60,0:06:59.37,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}与使用自燃推进剂的德尔塔2火箭的德尔塔K上级相比
+Dialogue: 0,0:06:59.58,0:07:00.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}All said and done,
+Dialogue: 0,0:06:59.58,0:07:00.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}说了这么多
+Dialogue: 0,0:07:00.45,0:07:05.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Delta III was capable of taking double the payload to Geostationary Transfer Orbit compared to the Delta II.
+Dialogue: 0,0:07:00.45,0:07:05.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}相比德尔塔2 德尔塔3 在地静止转移轨道能够有双倍的有效载荷
+Dialogue: 0,0:07:06.70,0:07:07.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's impressive.
+Dialogue: 0,0:07:06.70,0:07:07.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是令人印象深刻的
+Dialogue: 0,0:07:07.77,0:07:13.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Delta III first launched on August 26th, 1999 from Cape Canaveral Air Force Station in Florida.
+Dialogue: 0,0:07:07.77,0:07:13.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔3号于1999年8月26日从佛罗里达州的卡纳维拉尔角空军基地首次发射
+Dialogue: 0,0:07:13.61,0:07:18.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}A software error caused by using the Delta II guidance systems without enough validations
+Dialogue: 0,0:07:13.61,0:07:18.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}由于使用德尔塔2控制系统时没有进行足够的验证 导致软件错误
+Dialogue: 0,0:07:18.92,0:07:20.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}caused a complete failure of the rocket
+Dialogue: 0,0:07:18.92,0:07:20.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}导致火箭完全失败
+Dialogue: 0,0:07:20.80,0:07:23.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}when the vehicle ran out of hydraulic fluid used to steer the vehicle.
+Dialogue: 0,0:07:20.80,0:07:23.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}此时 火箭用于转向的液压液体用完了
+Dialogue: 0,0:07:24.33,0:07:25.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It was destroyed in flight.
+Dialogue: 0,0:07:24.33,0:07:25.60,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它在飞行中被毁
+Dialogue: 0,0:07:25.77,0:07:31.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The next flight in May 1999 failed when the upperstage engine cracked open during its second burn.
+Dialogue: 0,0:07:25.77,0:07:31.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}下一次在1999年5月的发射也失败了 因为上面级发动机在第二次点火时裂开了
+Dialogue: 0,0:07:31.60,0:07:35.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This is unusual for the RL-10 which is typically a very reliable engine.
+Dialogue: 0,0:07:31.60,0:07:35.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这对于非常可靠的发动机的RL-10来说是不寻常的
+Dialogue: 0,0:07:36.77,0:07:39.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It was just bad luck for the Boeing and the Delta III.
+Dialogue: 0,0:07:36.77,0:07:39.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对波音公司和德尔塔3来说 这只是运气不好
+Dialogue: 0,0:07:39.51,0:07:42.30,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The final flight took place on August 23, 2000.
+Dialogue: 0,0:07:39.51,0:07:42.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后一次飞行发生在2000年8月23日
+Dialogue: 0,0:07:43.32,0:07:46.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It went okay, but unfortunately underperformed,
+Dialogue: 0,0:07:43.32,0:07:46.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它进行得还不错 但不幸地是表现不佳
+Dialogue: 0,0:07:46.35,0:07:49.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}leaving the dummy payload in a lower than targeted orbit.
+Dialogue: 0,0:07:46.35,0:07:49.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}使有效载荷的轨道低于目标轨道
+Dialogue: 0,0:07:49.16,0:07:54.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So despite being within the allowable margin of error for success, it was already too late.
+Dialogue: 0,0:07:49.16,0:07:54.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以尽管在允许误差范围内发射成功 但已经为时已晚
+Dialogue: 0,0:07:54.48,0:07:57.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}With the Delta IV coming online and the poor performance of the first three launches,
+Dialogue: 0,0:07:54.48,0:07:57.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}随着德尔塔4的推出 以及前三次发射的糟糕表现
+Dialogue: 0,0:07:58.16,0:08:00.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Delta III was scrapped to focus on the Delta IV.
+Dialogue: 0,0:07:58.16,0:08:00.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}德尔塔3被取消 而波音则专注于德尔塔4
+Dialogue: 0,0:08:01.10,0:08:04.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Although it wouldn't get a chance to be well remembered or loved,
+Dialogue: 0,0:08:01.10,0:08:04.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然她不会有机会被人们很好的记住和喜爱
+Dialogue: 0,0:08:04.51,0:08:09.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it did perform the important work of verifying what would become the Delta IV's upperstage.
+Dialogue: 0,0:08:04.51,0:08:09.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}她确实执行了重要的工作 验证了后来成为德尔塔4的上面级
+Dialogue: 0,0:08:09.16,0:08:12.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So at least it did something successfully in its short lifespan.
+Dialogue: 0,0:08:09.16,0:08:12.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 至少她在其短暂的寿命中成功地完成了一些工作
+Dialogue: 0,0:08:12.88,0:08:14.43,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Today if you're ever driving around in California,
+Dialogue: 0,0:08:12.88,0:08:14.43,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在 如果你开车在加州转转
+Dialogue: 0,0:08:14.43,0:08:18.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you may actually see one of the last remaining bits of a Delta III
+Dialogue: 0,0:08:14.43,0:08:18.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你可能会看到德尔塔3最后剩下的一个部件
+Dialogue: 0,0:08:18.52,0:08:21.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}if you're driving on Interstate 5 in Santa Ana, California.
+Dialogue: 0,0:08:18.52,0:08:21.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它处在加州圣安娜的5号州际公路上
+Dialogue: 0,0:08:22.08,0:08:25.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There's the upperstage just hanging out outside of the Discovery Science Center,
+Dialogue: 0,0:08:22.08,0:08:25.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}上面级就挂在发现科学中心的外面
+Dialogue: 0,0:08:25.91,0:08:29.69,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}complete with the extending nozzle RL-10b-2 even.
+Dialogue: 0,0:08:25.91,0:08:29.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}甚至是包括延伸喷嘴RL-10b-2的完整版上面级
+Dialogue: 0,0:08:34.36,0:08:38.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Have you ever noticed that Russia loves spacecrafts that sort of look like a shiny ball?
+Dialogue: 0,0:08:34.36,0:08:38.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你有没有注意到 俄罗斯喜欢那种看起来跟个球似的太空飞船？
+Dialogue: 0,0:08:38.74,0:08:43.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}At least their Soyuz and Vostok that we're most familiar with are strangely super round.
+Dialogue: 0,0:08:38.74,0:08:43.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}至少他们的联盟号和我们最熟悉的东方号就超圆的
+Dialogue: 0,0:08:43.73,0:08:49.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}In my opinion, the Soyuz descent module looks like more like a delicious gumdrop than a spacecraft.
+Dialogue: 0,0:08:43.73,0:08:49.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在我看来 联盟号的返回舱看起来更像是一颗美味的橡皮糖 而不是飞船
+Dialogue: 0,0:08:49.77,0:08:52.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}These are pretty different from the truncated cone shapes,
+Dialogue: 0,0:08:49.77,0:08:52.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这些与截然不同的圆锥体形状相当不同
+Dialogue: 0,0:08:52.15,0:08:55.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}like what tends been more standard in the western hemisphere.
+Dialogue: 0,0:08:52.15,0:08:55.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而圆锥形状在西方的航天器往往是更标准的设计
+Dialogue: 0,0:08:55.05,0:08:57.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Such as Mercury, Gemini, Apollo, Dragon,
+Dialogue: 0,0:08:55.05,0:08:57.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如水星 双子座 阿波罗 龙
+Dialogue: 0,0:08:57.70,0:09:00.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Starliner, Orion, et cetera, et cetera.
+Dialogue: 0,0:08:57.70,0:09:00.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}星际客机 猎户座 等等
+Dialogue: 0,0:09:00.79,0:09:06.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But did you know the Soviet Union actually made their own capsule that looks nothing like the Soyuz.
+Dialogue: 0,0:09:00.79,0:09:06.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但你知道苏联实际上做过看起来一点也不像联盟号的飞船
+Dialogue: 0,0:09:06.52,0:09:11.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean so much so, it maybe could've slipped through the doors of NASA unnoticed?
+Dialogue: 0,0:09:06.52,0:09:11.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}说了半天我的意思是 她甚至可以偷偷溜进NASA的大门
+Dialogue: 0,0:09:11.79,0:09:13.69,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Welcome the VA spacecraft.
+Dialogue: 0,0:09:11.79,0:09:13.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}来看看VA飞船
+Dialogue: 0,0:09:14.19,0:09:16.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If the Apollo Soyuz test project made a baby,
+Dialogue: 0,0:09:14.19,0:09:16.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果阿波罗一天晚上喝醉了爬上了联盟号的床 生下来一个小孩
+Dialogue: 0,0:09:16.64,0:09:20.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Apollo capsule's genes clearly won out here with the VA.
+Dialogue: 0,0:09:16.64,0:09:20.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么这个小孩就是VA 而且能在他身上找到阿波罗的基因
+Dialogue: 0,0:09:20.56,0:09:26.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But that's not all, they made the VA and there was a Large Functional Cargo Block called the FGB module.
+Dialogue: 0,0:09:20.56,0:09:26.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这还不是全部 他们不仅制造了VA 还有一个叫FGB舱的大型货物功能舱
+Dialogue: 0,0:09:26.73,0:09:30.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And together they formed the TKS spacecraft.
+Dialogue: 0,0:09:26.73,0:09:30.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这俩共同组成了TKS飞船
+Dialogue: 0,0:09:30.55,0:09:32.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This thing was quite big.
+Dialogue: 0,0:09:30.55,0:09:32.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这个东西相当大
+Dialogue: 0,0:09:32.73,0:09:36.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}At 13.2 meters long and 4.15 meters wide,
+Dialogue: 0,0:09:32.73,0:09:36.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}长13.2米 宽4.15米
+Dialogue: 0,0:09:36.93,0:09:40.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the TKS was even larger than the Apollo Command and Service Module
+Dialogue: 0,0:09:36.93,0:09:40.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}TKS甚至比阿波罗指令舱和服务舱还要大
+Dialogue: 0,0:09:40.72,0:09:45.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and offered a crazy 7.5 times the internal volume.
+Dialogue: 0,0:09:40.72,0:09:45.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}内部容积疯狂地达到了对方的7.5倍
+Dialogue: 0,0:09:45.55,0:09:48.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The TKS was almost a mini space station.
+Dialogue: 0,0:09:45.55,0:09:48.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}TKS几乎是一个迷你空间站
+Dialogue: 0,0:09:48.41,0:09:52.78,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But it was actually designed to deliver crew and cargo to the Almaz space station,
+Dialogue: 0,0:09:48.41,0:09:52.78,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但它实际上是为了向阿尔玛兹空间站运送船员和货物而设计的
+Dialogue: 0,0:09:52.78,0:09:54.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a secret military space station.
+Dialogue: 0,0:09:52.78,0:09:54.61,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一个秘密的军事空间站
+Dialogue: 0,0:09:54.61,0:10:00.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Despite the entire TKS spacecraft being much larger than the Apollo Command and Service module,
+Dialogue: 0,0:09:54.61,0:10:00.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}尽管整个TKS航天器比阿波罗指挥与服务舱大得多
+Dialogue: 0,0:10:00.07,0:10:03.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the VA spacecraft itself that housed up to three cosmonauts
+Dialogue: 0,0:10:00.07,0:10:03.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}VA航天器本身 可容纳三名宇航员
+Dialogue: 0,0:10:03.36,0:10:06.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}was about 30% smaller than the Apollo Command Module.
+Dialogue: 0,0:10:03.36,0:10:06.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}比阿波罗指令舱小30%左右
+Dialogue: 0,0:10:06.78,0:10:11.43,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Most of the volume of the entire TKS spacecraft came from the Functional Cargo Block
+Dialogue: 0,0:10:06.78,0:10:11.43,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}整个TKS航天器的大部分体积来自功能货物舱
+Dialogue: 0,0:10:11.48,0:10:14.88,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which had about 37 cubic meters of volume.
+Dialogue: 0,0:10:11.48,0:10:14.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其中有大约37立方米的体积
+Dialogue: 0,0:10:15.15,0:10:20.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now let's compare that to SpaceX's Dragon Capsule which has 10 cubic meters of pressurized volume
+Dialogue: 0,0:10:15.15,0:10:20.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在让我们来对比一下SpaceX的龙飞船 它有10立方米的加压体积
+Dialogue: 0,0:10:21.01,0:10:26.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and about 14 cubic meters of unpressurized volume, for a total 24 cubic meters of volume.
+Dialogue: 0,0:10:21.01,0:10:26.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}和14立方米的未加压体积  总共24立方米的体积
+Dialogue: 0,0:10:26.90,0:10:29.74,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So yeah, this thing was huge.
+Dialogue: 0,0:10:26.90,0:10:29.74,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以是的 这东西是巨大的
+Dialogue: 0,0:10:29.74,0:10:34.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Oddly, the first 8 VA spacecraft flew, {\blur4}on just four flights.
+Dialogue: 0,0:10:29.74,0:10:34.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}奇怪的是 第一批8艘VA飞船进行了4次发射
+Dialogue: 0,0:10:34.40,0:10:37.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Yeah that's pretty strange.
+Dialogue: 0,0:10:34.40,0:10:37.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}是的 这是非常奇怪的
+Dialogue: 0,0:10:37.40,0:10:43.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}They would fly them in pairs to test them in varying re-entry conditions flying from 1976 through 1979.
+Dialogue: 0,0:10:37.40,0:10:43.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}从1976年到1979年 VA飞船成对飞行 以在不同的再入条件下进行测试
+Dialogue: 0,0:10:43.45,0:10:49.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Then they even flew four missions with the FGB module and VA capsule making it the complete TKS spacecraft.
+Dialogue: 0,0:10:43.45,0:10:49.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}然后 FGB模块和VA飞船一起进行了四次任务 使其成为完整的TKS航天器
+Dialogue: 0,0:10:49.94,0:10:53.27,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Despite all four missions going perfectly smooth,
+Dialogue: 0,0:10:49.94,0:10:53.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}尽管四次任务都非常顺利
+Dialogue: 0,0:10:53.27,0:10:54.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}no humans ever flew on one.
+Dialogue: 0,0:10:53.27,0:10:54.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}没有人坐过这玩意
+Dialogue: 0,0:10:54.80,0:10:56.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's really quite a shame.
+Dialogue: 0,0:10:54.80,0:10:56.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}真是太可惜了
+Dialogue: 0,0:10:56.51,0:10:59.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It would've been a really cool spacecraft to see in operation.
+Dialogue: 0,0:10:56.51,0:10:59.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果能看到它的运行 那将是一个非常酷的航天器
+Dialogue: 0,0:10:59.51,0:11:04.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But at least the TKS design went on to become the basic structure for many space-station parts
+Dialogue: 0,0:10:59.51,0:11:04.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但至少TKS的设计成为了许多空间站部件的基本结构
+Dialogue: 0,0:11:04.15,0:11:06.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}including Mir Modules and ISS modules.
+Dialogue: 0,0:11:04.15,0:11:06.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}包括和平号空间站和国际空间站
+Dialogue: 0,0:11:06.87,0:11:10.27,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The last TKS deorbited on February 7th, 1991
+Dialogue: 0,0:11:06.87,0:11:10.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后一个TKS于1991年2月7日离轨再入
+Dialogue: 0,0:11:10.52,0:11:12.82,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and was probably one of the most well developed
+Dialogue: 0,0:11:10.52,0:11:12.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这艘可能是开发最完全的
+Dialogue: 0,0:11:12.86,0:11:16.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and successful spacecraft that never get to fulfill its true destiny.
+Dialogue: 0,0:11:12.86,0:11:16.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}她是个成功的航天器 但从来没有实现其真正的命运
+Dialogue: 0,0:11:17.07,0:11:19.53,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you want to see a VA capsule, you're in luck,
+Dialogue: 0,0:11:17.07,0:11:19.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你想看到VA舱 你很幸运
+Dialogue: 0,0:11:19.62,0:11:21.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}these things are littered everywhere,
+Dialogue: 0,0:11:19.62,0:11:21.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这些东西到处都是
+Dialogue: 0,0:11:21.36,0:11:24.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}including the Memorial Museum of Cosmonautics in Moscow,
+Dialogue: 0,0:11:21.36,0:11:24.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}包括莫斯科宇航纪念馆
+Dialogue: 0,0:11:24.55,0:11:27.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Smithsonian Air and Space Museum in Washington DC,
+Dialogue: 0,0:11:24.55,0:11:27.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}位于华盛顿特区的史密森航空和航天博物馆
+Dialogue: 0,0:11:27.29,0:11:32.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the International Space University in Strasbourg and a few other places.
+Dialogue: 0,0:11:27.29,0:11:32.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}斯特拉斯堡国际航天大学和其他一些地方
+Dialogue: 0,0:11:36.22,0:11:41.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I'm guessing we're all probably pretty familiar with SpaceX's Falcon 9 and Falcon Heavy rockets by now.
+Dialogue: 0,0:11:36.22,0:11:41.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我猜大家可能对SpaceX公司的猎鹰9号和重型猎鹰火箭已经非常熟悉了
+Dialogue: 0,0:11:41.86,0:11:44.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You know, those rockets that land themselves.
+Dialogue: 0,0:11:41.86,0:11:44.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你知道 那些能自己回来降落的火箭
+Dialogue: 0,0:11:45.12,0:11:46.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Yeah, those ones.
+Dialogue: 0,0:11:45.12,0:11:46.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对 就是那些
+Dialogue: 0,0:11:46.46,0:11:49.28,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Well did you know the Falcon 9 had a baby brother,
+Dialogue: 0,0:11:46.46,0:11:49.28,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么你知道猎鹰9号有一个小弟♂弟吗
+Dialogue: 0,0:11:49.67,0:11:52.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or actually I should probably say an older brother.
+Dialogue: 0,0:11:49.67,0:11:52.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者其实我应该说是一个哥哥
+Dialogue: 0,0:11:52.68,0:11:53.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Falcon 1.
+Dialogue: 0,0:11:52.68,0:11:53.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰1号
+Dialogue: 0,0:11:53.68,0:11:57.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Falcon 1 was the first rocket SpaceX built starting in 2006.
+Dialogue: 0,0:11:53.68,0:11:57.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰1号是SpaceX从2006年开始制造的第一枚火箭
+Dialogue: 0,0:11:57.56,0:12:01.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It was a two stage rocket with a Merlin 1A or 1C engine on the first stage
+Dialogue: 0,0:11:57.56,0:12:01.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它是一枚两级火箭 第一级使用梅林1A或1C发动机
+Dialogue: 0,0:12:01.54,0:12:04.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and a little engine known as the Kestrel engine for the upperstage.
+Dialogue: 0,0:12:01.54,0:12:04.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}和一个被称为红隼发动机的小型发动机作为上面级发动机
+Dialogue: 0,0:12:04.98,0:12:10.72,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Falcon 1 came to be when SpaceX founder Elon Musk got frustrated trying to buy a rocket from Russia
+Dialogue: 0,0:12:04.98,0:12:10.72,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}SpaceX创始人马一龙从俄罗斯购买火箭的过程中遇到了挫折后 决定研制猎鹰1号
+Dialogue: 0,0:12:10.72,0:12:12.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to launch a small payload to Mars.
+Dialogue: 0,0:12:10.72,0:12:12.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他从俄罗斯买火箭是为了向火星发射有效载荷
+Dialogue: 0,0:12:13.05,0:12:14.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}He was unsuccessful in doing so.
+Dialogue: 0,0:12:13.05,0:12:14.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他没有成功地做到这一点
+Dialogue: 0,0:12:15.03,0:12:20.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So Elon gathered up a small team of rocket engineers and with his own money and some additional private funds,
+Dialogue: 0,0:12:15.03,0:12:20.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}于是马一龙组建了一个火箭工程师小团队 用自己的钱和一些额外的私人资金
+Dialogue: 0,0:12:20.52,0:12:23.43,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Elon set off to prove he could build his own rocket,
+Dialogue: 0,0:12:20.52,0:12:23.43,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}马一龙开始证明他可以制造自己的火箭
+Dialogue: 0,0:12:23.82,0:12:26.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and do it even cheaper than he could've bought from Russia.
+Dialogue: 0,0:12:23.82,0:12:26.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而且做得比他从俄罗斯买来的还要便宜
+Dialogue: 0,0:12:27.00,0:12:30.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}He and his team set their sights on making the cheapest launcher on the market.
+Dialogue: 0,0:12:27.00,0:12:30.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他和他的团队的目标为制造市场上最便宜的火箭
+Dialogue: 0,0:12:30.16,0:12:34.64,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So in December 2005 SpaceX rolled their First Falcon 1 out to their launch pad
+Dialogue: 0,0:12:30.16,0:12:34.64,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以在2005年12月 SpaceX公司将他们的第一枚猎鹰1号运到了他们的发射台
+Dialogue: 0,0:12:34.66,0:12:39.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}at Kwajalein Atoll on a U. S. military base on Omelek Island in the Pacific Ocean.
+Dialogue: 0,0:12:34.66,0:12:39.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也就处在太平洋奥梅莱克岛夸贾林环礁的美军基地
+Dialogue: 0,0:12:40.31,0:12:44.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It wasn't until March 2006 that the first Falcon 1 took off.
+Dialogue: 0,0:12:40.31,0:12:44.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}直到2006年3月 猎鹰1号才首次起飞
+Dialogue: 0,0:12:44.29,0:12:50.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The first three flights of the Falcon 1 were failures, with some getting frustratingly close to orbit.
+Dialogue: 0,0:12:44.29,0:12:50.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰1号的前三次飞行都是失败的 有的发射甚至距离入轨只差一步之遥 实在让人沮丧
+Dialogue: 0,0:12:50.07,0:12:53.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}As a matter of fact, Falcon 1 flight three would've probably gone off perfectly
+Dialogue: 0,0:12:50.07,0:12:53.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}事实上 猎鹰1号的第三次飞行几乎就要成功了
+Dialogue: 0,0:12:53.94,0:13:00.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}if it weren't for a little residual thrust in the first stage causing the stages to collide immediately after separation.
+Dialogue: 0,0:12:53.94,0:13:00.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果不是因为第一级的一点残余推力导致两级在分离后立即相撞
+Dialogue: 0,0:13:00.70,0:13:04.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's because the Falcon 1 used the Merlin 1A for the first two flights,
+Dialogue: 0,0:13:00.70,0:13:04.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那是因为猎鹰1号在前两次飞行中使用的是梅林1A
+Dialogue: 0,0:13:04.22,0:13:06.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but the third flight they upgraded to the Merlin 1C.
+Dialogue: 0,0:13:04.22,0:13:06.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但第三次飞行他们升级为梅林1C
+Dialogue: 0,0:13:06.97,0:13:09.08,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Of course they tested the Merlin 1C,
+Dialogue: 0,0:13:06.97,0:13:09.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当然 他们(也)测试了梅林1C
+Dialogue: 0,0:13:09.41,0:13:14.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but their instrumentation didn't notice a little extra residual thrust after engine shut off
+Dialogue: 0,0:13:09.41,0:13:14.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但他们的仪器没有发现发动机关闭后有一点额外的剩余推力
+Dialogue: 0,0:13:14.42,0:13:16.87,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that was really only noticeable in the vacuum of space.
+Dialogue: 0,0:13:14.42,0:13:16.87,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只有在太空的真空中才会被注意到
+Dialogue: 0,0:13:17.41,0:13:22.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So unfortunately the first stage continued to accelerate just a little bit after stage separation,
+Dialogue: 0,0:13:17.41,0:13:22.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以不幸的是 第一级在阶段分离后 继续加速了一点点
+Dialogue: 0,0:13:23.21,0:13:27.82,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}making it run right into the second stage, which unfortunately caused the rocket to fail.
+Dialogue: 0,0:13:23.21,0:13:27.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}使其正好撞上第二级 导致火箭失败
+Dialogue: 0,0:13:27.82,0:13:29.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}SpaceX was done for.
+Dialogue: 0,0:13:27.82,0:13:29.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}SpaceX公司完蛋了
+Dialogue: 0,0:13:29.87,0:13:32.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}They had virtually zero cash to build another Falcon 1 rocket,
+Dialogue: 0,0:13:29.87,0:13:32.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们几乎没有任何现金来建造另一枚猎鹰1号火箭
+Dialogue: 0,0:13:33.38,0:13:37.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but they did have confidence that the vehicle required no hardware changes,
+Dialogue: 0,0:13:33.38,0:13:37.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但他们确实有信心 火箭不需要改变硬件
+Dialogue: 0,0:13:37.51,0:13:39.49,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}just a small tweak to the software.
+Dialogue: 0,0:13:37.51,0:13:39.49,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只是对软件进行了小小的调整
+Dialogue: 0,0:13:39.49,0:13:43.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So Elon was able to get a few last minute investments,
+Dialogue: 0,0:13:39.49,0:13:43.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以马一龙能够在最后时刻获得一些投资
+Dialogue: 0,0:13:43.03,0:13:46.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}just enough to scrounge up one more Falcon 1 flight.
+Dialogue: 0,0:13:43.03,0:13:46.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}刚好够再凑齐一次猎鹰1号的飞行
+Dialogue: 0,0:13:46.42,0:13:52.75,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}With the entire future of SpaceX riding on those tiny metal shoulders of the fourth Falcon 1,
+Dialogue: 0,0:13:46.42,0:13:52.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}随着SpaceX的整个未来都扛在第四枚小小的猎鹰一号肩膀上
+Dialogue: 0,0:13:52.75,0:13:56.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}breaths were held when it launched on September 28th, 2008.
+Dialogue: 0,0:13:52.75,0:13:56.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}2008年9月28日发射时 大家都屏住了呼吸
+Dialogue: 0,0:13:56.22,0:14:00.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But fortunately for SpaceX and of course us SpaceX fans,
+Dialogue: 0,0:13:56.22,0:14:00.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}不过幸运地是 对于SpaceX 当然也包括我们SpaceX的粉丝
+Dialogue: 0,0:14:00.12,0:14:02.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the Falcon 1 had a flawless mission,
+Dialogue: 0,0:14:00.12,0:14:02.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}猎鹰1号这次发射完美
+Dialogue: 0,0:14:02.74,0:14:05.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}putting the RatSat mass simulator into orbit.
+Dialogue: 0,0:14:02.74,0:14:05.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}将RatSat质量模拟器送入轨道
+Dialogue: 0,0:14:05.06,0:14:08.97,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This made SpaceX the first privately funded company to reach orbit.
+Dialogue: 0,0:14:05.06,0:14:08.97,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这使SpaceX成为第一家入轨的私人公司
+Dialogue: 0,0:14:09.24,0:14:13.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The success of flight four allowed SpaceX to launch a customer's payload for flight five.
+Dialogue: 0,0:14:09.24,0:14:13.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}第四次飞行的成功 让SpaceX可以在第五次发射搭载客户的有效载荷
+Dialogue: 0,0:14:13.54,0:14:19.23,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So on July 14, 2009, the Falcon 1 took off for the fifth and final time,
+Dialogue: 0,0:14:13.54,0:14:19.23,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}于是在2009年7月14日 猎鹰1号第五次也是最后一次起飞
+Dialogue: 0,0:14:19.23,0:14:21.73,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}putting the RazakSat into orbit for Malaysia.
+Dialogue: 0,0:14:19.23,0:14:21.73,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}将马来西亚的拉扎克卫星送入轨道
+Dialogue: 0,0:14:21.73,0:14:26.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There were seven additional Falcon 1 flights on the books including upgrades to the Falcon 1,
+Dialogue: 0,0:14:21.73,0:14:26.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还有7次猎鹰1号的发射订单 其中包括猎鹰1号升级版
+Dialogue: 0,0:14:26.47,0:14:30.31,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which would have made it the Falcon 1E, a more powerful and stretched version.
+Dialogue: 0,0:14:26.47,0:14:30.31,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也就是推力更强 箭体更长的猎鹰1E
+Dialogue: 0,0:14:30.40,0:14:35.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}With SpaceX winning a bid from NASA for a medium class launcher to supply the International Space Station,
+Dialogue: 0,0:14:30.40,0:14:35.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}随着SpaceX公司从NASA中标 要为国际空间站进行补给
+Dialogue: 0,0:14:35.63,0:14:41.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}they decided to cancel the Falcon 1 program entirely and move full steam ahead into their Falcon 9 program.
+Dialogue: 0,0:14:35.63,0:14:41.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们决定完全取消猎鹰1号 全力推进猎鹰9号的项目
+Dialogue: 0,0:14:41.33,0:14:46.11,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This left seven missions for the Falcon 1 to be pushed back and eventually flown on Falcon 9s,
+Dialogue: 0,0:14:41.33,0:14:46.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这样一来 猎鹰1号的7项任务就被推后 最终由猎鹰9号来执行
+Dialogue: 0,0:14:46.20,0:14:48.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or canceled all together.
+Dialogue: 0,0:14:46.20,0:14:48.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者全部取消
+Dialogue: 0,0:14:48.43,0:14:51.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This kind of reminds me of the Black Arrow program from the United Kingdom
+Dialogue: 0,0:14:48.43,0:14:51.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这有点让我想起了英国的黑箭计划
+Dialogue: 0,0:14:51.12,0:14:53.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that we talked about in that first video.
+Dialogue: 0,0:14:51.12,0:14:53.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们在第一个视频中谈到过
+Dialogue: 0,0:14:53.41,0:14:57.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It's kind of funny how the Falcon 1 was canceled as soon as it became operational.
+Dialogue: 0,0:14:53.41,0:14:57.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有趣的一点是 猎鹰1号刚投入使用没多久就被取消了
+Dialogue: 0,0:14:57.50,0:15:01.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Only one customer's payload was ever launched and then closed up shop.
+Dialogue: 0,0:14:57.50,0:15:01.86,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只成功发射过一个客户的有效载荷 然后就关门大吉
+Dialogue: 0,0:15:01.86,0:15:05.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It seems like it ended up being a wise move for SpaceX to use the success of their Falcon 1
+Dialogue: 0,0:15:01.86,0:15:05.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最终看来 SpaceX利用猎鹰1号的成功来铺路 是一个明智之举
+Dialogue: 0,0:15:06.28,0:15:09.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}to get on over to that Falcon 9 as quickly as possible.
+Dialogue: 0,0:15:06.28,0:15:09.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这就是为了尽快搞出来那个猎鹰9号
+Dialogue: 0,0:15:09.23,0:15:13.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}SpaceX was probably a bit too far ahead of the small sat curve with the Falcon 1.
+Dialogue: 0,0:15:09.23,0:15:13.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}SpaceX的猎鹰1号可能在小卫星这条弯路上走得太远了
+Dialogue: 0,0:15:13.48,0:15:19.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Had they developed it today with the massive increase in smallsat market, it would probably be more relevant.
+Dialogue: 0,0:15:13.48,0:15:19.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果他们在小卫星市场大量增加的今天再次研发它 可能会更有意义
+Dialogue: 0,0:15:19.29,0:15:21.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This is that same rapidly growing market
+Dialogue: 0,0:15:19.29,0:15:21.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}正是现在这个快速增长的市场
+Dialogue: 0,0:15:21.01,0:15:24.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that Rocket Lab is now successfully fulfilling with their electron rocket.
+Dialogue: 0,0:15:21.01,0:15:24.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}让火箭实验室用他们的电子火箭捞了一笔
+Dialogue: 0,0:15:24.14,0:15:27.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}There was one more Falcon 1 built but never flown
+Dialogue: 0,0:15:24.14,0:15:27.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还有一枚猎鹰1号被制造出来 但从未飞过
+Dialogue: 0,0:15:27.17,0:15:31.79,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and is now being displayed in a hallway in SpaceX's Headquarters in Hawthorne.
+Dialogue: 0,0:15:27.17,0:15:31.79,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在它在霍桑的SpaceX总部的走廊上展出
+Dialogue: 0,0:15:35.29,0:15:42.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now this last one is a little different because this rocket sure flew, very, very successfully.
+Dialogue: 0,0:15:35.29,0:15:42.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}最后一个有点不同 因为这枚火箭确实飞得很成功 非常非常成功
+Dialogue: 0,0:15:42.00,0:15:44.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}As a matter of fact, it's probably the most famous rocket of all time,
+Dialogue: 0,0:15:42.00,0:15:44.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}事实上 它可能是有史以来最著名的火箭
+Dialogue: 0,0:15:45.15,0:15:47.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and fulfilled pretty impressive missions.
+Dialogue: 0,0:15:45.15,0:15:47.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并完成了令人印象深刻的任务
+Dialogue: 0,0:15:48.12,0:15:51.66,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I'm of course talking about the Saturn V rocket that took us to the moon.
+Dialogue: 0,0:15:48.12,0:15:51.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我说的当然是带我们登上月球的土星五号火箭
+Dialogue: 0,0:15:52.60,0:15:54.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So wait, why is it in this video?
+Dialogue: 0,0:15:52.60,0:15:54.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么等等 为什么会出现在这个视频里呢？
+Dialogue: 0,0:15:54.81,0:15:57.66,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Well, like I said, this one is just a little different,
+Dialogue: 0,0:15:54.81,0:15:57.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}嗯 就像我说的 这个只是有点不同
+Dialogue: 0,0:15:57.73,0:15:59.88,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but it's still a really interesting story.
+Dialogue: 0,0:15:57.73,0:15:59.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这仍然是一个非常有趣的故事
+Dialogue: 0,0:15:59.92,0:16:02.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The Saturn V is famous for flying 13 times,
+Dialogue: 0,0:15:59.92,0:16:02.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}土星五号因飞行13次而闻名
+Dialogue: 0,0:16:03.06,0:16:04.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}12 of them being a complete success,
+Dialogue: 0,0:16:03.06,0:16:04.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其中12个是完全成功的
+Dialogue: 0,0:16:05.07,0:16:07.41,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with nine missions taking humans out to the moon,
+Dialogue: 0,0:16:05.07,0:16:07.41,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}有9次任务将人类带到月球附近
+Dialogue: 0,0:16:07.56,0:16:10.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}six of which actually landed on the moon.
+Dialogue: 0,0:16:07.56,0:16:10.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其中6次实际着陆月球
+Dialogue: 0,0:16:10.17,0:16:14.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But did you know, there were actually supposed to be three more Apollo missions to the moon,
+Dialogue: 0,0:16:10.17,0:16:14.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但你知道吗 实际上应该还有另外3次阿波罗登月任务
+Dialogue: 0,0:16:14.99,0:16:17.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and we had already built the Saturn Vs for those missions?
+Dialogue: 0,0:16:14.99,0:16:17.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而我们已经为这些任务制造了土星五号？
+Dialogue: 0,0:16:18.24,0:16:21.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now we're not going to get into why these Apollo missions were cancelled in today's video.
+Dialogue: 0,0:16:18.24,0:16:21.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在我们不打算在今天的视频中讨论为什么这些阿波罗任务被取消
+Dialogue: 0,0:16:22.10,0:16:24.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's again for another video about alternate space history.
+Dialogue: 0,0:16:22.10,0:16:24.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那是另一个关于(架空)航天历史的视频
+Dialogue: 0,0:16:25.04,0:16:31.53,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But we'll just say due to budget cuts and changes in direction, Apollo 18, 19 and 20 were canceled.
+Dialogue: 0,0:16:25.04,0:16:31.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但我们只想说 由于预算的削减和方向的改变 阿波罗18号 19号和20号被取消了
+Dialogue: 0,0:16:31.53,0:16:32.87,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Although three Saturn Vs were built for the moon,
+Dialogue: 0,0:16:31.53,0:16:32.87,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然为月球建造了三枚土星五号
+Dialogue: 0,0:16:33.06,0:16:36.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}one of these three got put to use by putting Skylab into space.
+Dialogue: 0,0:16:33.06,0:16:36.54,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这三者中的一个被用于将 天空实验室送入太空
+Dialogue: 0,0:16:36.54,0:16:41.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But that leaves two other Saturn Vs that are legitimate, flight hardware in existence today.
+Dialogue: 0,0:16:36.54,0:16:41.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但另外两个土星五号留到了现在
+Dialogue: 0,0:16:41.81,0:16:47.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you ever get the chance to visit Kennedy Space Center in Florida or Johnson Space Center in Houston,
+Dialogue: 0,0:16:41.81,0:16:47.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你有机会参观佛罗里达州的肯尼迪航天中心 或者休斯顿的约翰逊航天中心
+Dialogue: 0,0:16:47.15,0:16:53.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you'll see bonafide Saturn Vs that are mostly real flight hardware, built to go to the moon.
+Dialogue: 0,0:16:47.15,0:16:53.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你会看到真正的土星五号 大部分有着真正的零件 而且是为了登上月球而建造的
+Dialogue: 0,0:16:53.04,0:16:59.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And there's also two full scale Saturn Vs in Huntsville, Alabama, one vertical and one horizontal.
+Dialogue: 0,0:16:53.04,0:16:59.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在阿拉巴马州 亨茨维尔还有两台全比例的土星五号  一个垂直 一个水平
+Dialogue: 0,0:16:59.20,0:17:02.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And although neither one is full-blown flight hardware,
+Dialogue: 0,0:16:59.20,0:17:02.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}虽然都不是完整的火箭
+Dialogue: 0,0:17:02.32,0:17:04.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}they're still really, really cool.
+Dialogue: 0,0:17:02.32,0:17:04.85,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它们仍然非常非常酷
+Dialogue: 0,0:17:04.85,0:17:10.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But fun fact, the horizontal one is the only Saturn V on display that completed a mission.
+Dialogue: 0,0:17:04.85,0:17:10.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但有趣的是 水平的那个是唯一一个完成任务的土星五号
+Dialogue: 0,0:17:10.65,0:17:15.57,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It was the dynamic test vehicle which was shaken to verify the engineering of the Saturn V.
+Dialogue: 0,0:17:10.65,0:17:15.57,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它是用来测试的 通过摇晃来验证土星五号的工程设计
+Dialogue: 0,0:17:15.57,0:17:20.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}All other Saturn Vs that completed their missions are resting on the bottom of the ocean.
+Dialogue: 0,0:17:15.57,0:17:20.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其他完成任务的土星五号都在海底躺着呢
+Dialogue: 0,0:17:20.47,0:17:27.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So although the Dynamic Test Vehicle wasn't destined for the moon, it's still an incredible display piece.
+Dialogue: 0,0:17:20.47,0:17:27.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以虽然这个测试用的土星五号并不会登上月球 但它仍是一个不可思议的展品
+Dialogue: 0,0:17:27.05,0:17:31.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But there's also the last manufactured S1C first stage of a Saturn V
+Dialogue: 0,0:17:27.05,0:17:31.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但这里还有最后一个制造的S1C级 也就是土星五号的第一级
+Dialogue: 0,0:17:31.45,0:17:35.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}sitting outside of Stennis Space Center at the Infinity Science Center in Mississippi.
+Dialogue: 0,0:17:31.45,0:17:35.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}躺在密西西比州无限科学中心的斯坦尼斯航天中心外
+Dialogue: 0,0:17:35.91,0:17:39.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I wanted to end on this one because I think it's bittersweet.
+Dialogue: 0,0:17:35.91,0:17:39.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我想以这个结尾 因为我认为它是苦乐参半的
+Dialogue: 0,0:17:39.10,0:17:45.14,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Here are some of the most brilliantly complicated, powerful, and massive feats of engineering ever,
+Dialogue: 0,0:17:39.10,0:17:45.14,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这里有一些最辉煌的 有史以来最复杂 强大 庞大的工程功绩
+Dialogue: 0,0:17:45.14,0:17:48.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}with more capability than has ever flown before or since,
+Dialogue: 0,0:17:45.14,0:17:48.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}具有前所未有的能力 相比于以前或以后的飞行
+Dialogue: 0,0:17:48.89,0:17:54.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}just sitting there, shackled to the Earth by the gravity they know they're capable of breaking free from.
+Dialogue: 0,0:17:48.89,0:17:54.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}只是坐在那里 被地球的重力所束缚 尽管他们知道他们有能力将其挣脱
+Dialogue: 0,0:17:54.51,0:17:56.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But I also think it's kind of beautiful.
+Dialogue: 0,0:17:54.51,0:17:56.40,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但我也认为这是一种美丽
+Dialogue: 0,0:17:57.12,0:17:59.53,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Sure, I really wish these things could have flown,
+Dialogue: 0,0:17:57.12,0:17:59.53,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}当然 我真的希望这些东西能飞起来
+Dialogue: 0,0:17:59.53,0:18:01.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}put six more humans on the surface of the moon
+Dialogue: 0,0:17:59.53,0:18:01.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}再送6个人到月球上
+Dialogue: 0,0:18:01.69,0:18:05.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}on the longest, most science packed missions we would've ever had.
+Dialogue: 0,0:18:01.69,0:18:05.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}参与有史以来历时最长 有最多科学仪器的月球任务
+Dialogue: 0,0:18:05.92,0:18:08.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But at the same time, look at this.
+Dialogue: 0,0:18:05.92,0:18:08.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但与此同时 看看这个
+Dialogue: 0,0:18:08.83,0:18:11.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now anyone can go see one for themselves.
+Dialogue: 0,0:18:08.83,0:18:11.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在 任何人都可以亲自去看一下
+Dialogue: 0,0:18:11.16,0:18:13.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You can walk underneath or alongside it,
+Dialogue: 0,0:18:11.16,0:18:13.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你可以走在它的下面或旁边
+Dialogue: 0,0:18:13.17,0:18:18.02,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}for a minute or two and admire all the incredible hardware developed for these missions.
+Dialogue: 0,0:18:13.17,0:18:18.02,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}花费一两分钟 欣赏所有为这些任务开发的不可思议的硬件
+Dialogue: 0,0:18:18.02,0:18:20.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So next time you're planning an upcoming trip,
+Dialogue: 0,0:18:18.02,0:18:20.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}所以 下次你在计划即将到来的旅行时
+Dialogue: 0,0:18:20.34,0:18:23.36,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}definitely consider stopping by Houston, Huntsville,
+Dialogue: 0,0:18:20.34,0:18:23.36,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一定要考虑停在休斯顿 亨茨维尔
+Dialogue: 0,0:18:23.40,0:18:27.88,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Stennis Space Center, or Kennedy Space Center and admire the gorgeous Saturn V.
+Dialogue: 0,0:18:23.40,0:18:27.88,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}斯坦尼斯航天中心 或者肯尼迪航天中心 欣赏华丽的土星五号
+Dialogue: 0,0:18:28.42,0:18:31.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I still get speechless every single time I see one.
+Dialogue: 0,0:18:28.42,0:18:31.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}每次看到 我还是会无言以对
+Dialogue: 0,0:18:31.83,0:18:35.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}This all just makes you realize how important it is to have a clear goal,
+Dialogue: 0,0:18:31.83,0:18:35.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这一切都让你意识到 有一个明确的目标是多么重要
+Dialogue: 0,0:18:35.20,0:18:39.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a healthy budget and strong leadership to really make big things happen.
+Dialogue: 0,0:18:35.20,0:18:39.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}足够的预算和强有力的领导 才能真正做出大的成就
+Dialogue: 0,0:18:39.69,0:18:42.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}It makes me super thankful for what has been accomplished,
+Dialogue: 0,0:18:39.69,0:18:42.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这让我对已经取得的成就感到超级感激
+Dialogue: 0,0:18:43.08,0:18:45.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but also pretty frustrated at what could have been.
+Dialogue: 0,0:18:43.08,0:18:45.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但对本可以做到的感到很沮丧
+Dialogue: 0,0:18:46.04,0:18:49.71,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you enjoyed this video, don't forget to check out part one if you haven't done so already,
+Dialogue: 0,0:18:46.04,0:18:49.71,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你喜欢这段视频 别忘了看看第一集 如果你还没看过
+Dialogue: 0,0:18:49.88,0:18:54.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but also stick around because we have a lot more coming in this canceled series.
+Dialogue: 0,0:18:49.88,0:18:54.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我们未来还会出 新的这个系列的视频
+Dialogue: 0,0:18:54.68,0:18:55.87,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Let me know what other questions you have
+Dialogue: 0,0:18:54.68,0:18:55.87,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}让我知道你还有什么问题
+Dialogue: 0,0:18:55.89,0:19:00.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}about canceled programs, rockets or just space flight in general in the comments below.
+Dialogue: 0,0:18:55.89,0:19:00.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}关于取消的任务或只是关于航天都在评论区讨论吧
+Dialogue: 0,0:19:00.55,0:19:05.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I owe a huge thanks to my Patreon supporters for helping make all this stuff possible.
+Dialogue: 0,0:19:00.55,0:19:05.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对于我的Patreon支持者 我欠一个大大的感谢 只有他们的帮助 这些视频才有可能做出
+Dialogue: 0,0:19:05.21,0:19:08.82,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you want to help script or research or gain access to excluse live streams
+Dialogue: 0,0:19:05.21,0:19:08.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果你想帮助文案或研究或获得独家现场直播
+Dialogue: 0,0:19:08.82,0:19:11.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}where you can ask me questions about rockets and stuff,
+Dialogue: 0,0:19:08.82,0:19:11.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在那里你可以问我关于火箭之类的问题
+Dialogue: 0,0:19:11.56,0:19:14.33,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}head on over to patreon.com/everydayastronaut.
+Dialogue: 0,0:19:11.56,0:19:14.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}请前往patreon.com/everydayastronaut
+Dialogue: 0,0:19:14.88,0:19:15.55,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thank you.
+Dialogue: 0,0:19:14.88,0:19:15.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}谢谢你
+Dialogue: 0,0:19:15.82,0:19:19.87,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And while you're online, head on over to my brand new web store where I have things like these.
+Dialogue: 0,0:19:20.33,0:19:21.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Grid thin not-a-coasters.
+Dialogue: 0,0:19:22.08,0:19:24.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Notice they're not coasters because they have holes in them.
+Dialogue: 0,0:19:24.67,0:19:27.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That means the liquid can just drip right through them.
+Dialogue: 0,0:19:27.62,0:19:33.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But I do promise they'll keep your drink exactly this high off of water surface they're on
+Dialogue: 0,0:19:34.16,0:19:35.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}so they're therefore drink elevators.
+Dialogue: 0,0:19:35.60,0:19:39.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And while you're there, check out brand new shirts and hats, prints of rocket launches,
+Dialogue: 0,0:19:39.98,0:19:42.43,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}patches and stickers, and original artwork.
+Dialogue: 0,0:19:42.59,0:19:46.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Lots of fun stuff on my new shop at everydayastronaut.com/shop.
+Dialogue: 0,0:19:46.47,0:19:50.86,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And thanks to you guys I finally got some of my music available anywhere you listen to music.
+Dialogue: 0,0:19:50.92,0:19:53.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You can find Maximum Aerodynamic Pressure anywhere.
+Dialogue: 0,0:19:53.61,0:19:56.54,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Apple Music, Google Play Music, Spotify,
+Dialogue: 0,0:19:56.54,0:20:00.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Amazon Music, or even a playlist right here on Youtube.
+Dialogue: 0,0:20:00.01,0:20:03.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Just search Maximum Aerodynamic Pressure or Everyday Astronaut
+Dialogue: 0,0:20:03.32,0:20:06.40,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and hopefully you'll find it wherever you listen to music.
+Dialogue: 0,0:20:06.57,0:20:08.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Give it a listen, enjoy.
+Dialogue: 0,0:20:08.12,0:20:08.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Thanks everybody.
+Dialogue: 0,0:20:08.12,0:20:08.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}谢谢大家
+Dialogue: 0,0:20:08.95,0:20:09.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That does it for me.
+Dialogue: 0,0:20:08.95,0:20:09.84,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我到这儿就结束了
+Dialogue: 0,0:20:09.84,0:20:11.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I'm Tim Dodd, the everyday astronaut
+Dialogue: 0,0:20:09.84,0:20:11.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是Tim Dodd 每日宇航员
+Dialogue: 0,0:20:12.06,0:20:14.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}bringing space down to Earth for everyday people.
+Dialogue: 0,0:20:12.06,0:20:14.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}将太空的知识带给地球上的普通人
+Dialogue: 0,0:20:15.09,0:20:18.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}点赞 投币 收藏
