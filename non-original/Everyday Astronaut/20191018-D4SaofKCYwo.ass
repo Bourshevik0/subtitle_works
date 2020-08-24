@@ -11,10 +11,10 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-60,思源黑体 Medium,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
 Style: 1080P-src-hans-sans-medi-75,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
-Style: 1080P-src-hans-sans-Bold-5s,思源黑体 Bold,50,&H80FFFFFF,&HFFFEFBFA,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-src-hans-sans-Bold-5s,思源黑体 Bold,50,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-src-hans-sans-medi-7t,思源黑体 Medium,75,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,200,134
 Style: 1080P-src-hans-sans-Bold-5t,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,200,134
@@ -24,7 +24,7 @@ Style: 1080P-src-hans-sans-Bold-58,思源黑体 Bold,50,&H00FFFFFF,&HFF000000,&H
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.20,0:00:07.16,1080P-src-hans-sans-medi-60,,0,0,0,,注释
 Dialogue: 0,0:00:00.20,0:00:15.20,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}索引：06:20 - 喷管是如何工作的\N16:00 - 气尖发动机如何工作的\N19:55 - 气尖发动机的问题\N32:50 - 气尖喷管和钟形喷管的对比\N41:30 - 专家们如何评论\N51:35 - 气尖发动机的未来\N54:00 - 总结
-Dialogue: 0,0:00:15.20,0:00:20.20,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原作者名：Everyday Astronaut\N视频来源：youtu.be/D4SaofKCYwo\N原视频发布日期：20191018\N翻译：长五遥三真没鸽\N校对：旋火
+Dialogue: 0,0:00:15.20,0:00:25.20,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原作者名：Everyday Astronaut\N视频来源：youtu.be/D4SaofKCYwo\N原视频发布日期：20191018\N翻译：长五遥三真没鸽\N校对：旋火\N感谢旋火对于最后一部分内容的翻译与校对\N4月初底拿到英文字幕后\N没多久就开学了\N开学后真的很忙\N——长五遥三真没鸽
 Dialogue: 0,0:02:35.01,0:02:40.01,1080P-src-hans-sans-medi-60,,0,0,0,,{\an4\blur4}邓宁-克鲁格效应
 Dialogue: 0,0:02:42.21,0:02:51.91,1080P-src-hans-sans-medi-60,,0,0,0,,{\blur4\fn思源黑体 Light}索引：06:20 - 喷管是如何工作的  16:00 - 气尖发动机如何工作的  19:55 - 气尖发动机的问题\N32:50 - 气尖喷管和钟形喷管的对比 41:30 - 专家们如何评论 51:35 - 气尖发动机的未来\N54:00 - 总结
 Dialogue: 0,0:03:00.21,0:03:04.01,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}b23.tv/av57059171
@@ -34,9 +34,9 @@ Dialogue: 0,0:07:10.67,0:07:15.67,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,
 Dialogue: 0,0:18:54.50,0:18:58.00,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/Sfc2Jg1gkKA
 Dialogue: 0,0:21:32.93,0:21:37.53,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4}2019年8月22日 德尔塔IV或者说德尔塔IV中型进行最后一次发射并退役
 Dialogue: 0,0:22:13.94,0:22:18.94,1080P-src-hans-sans-medi-60,,0,0,0,,{\a7\fad(500,500)\blur4}b23.tv/av57059171
-Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs80\fscx80\bord1\blur4\i1\pos(456,141)}涡轮泵废气歧管
-Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs80\fscx80\bord1\blur4\i1\pos(472,400)}主燃烧室废气
-Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs80\fscx80\bord1\blur4\i1\pos(1530,362)}富燃 // 冷的涡轮泵废气
+Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs79.999\fscx80\bord1.001\blur4\i1\pos(456,141)}涡轮泵废气歧管
+Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs79.999\fscx80\bord1.001\blur4\i1\pos(472,400)}主燃烧室废气
+Dialogue: 0,0:22:51.38,0:23:04.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs79.999\fscx80\bord1.001\blur4\i1\pos(1530,362)}富燃 // 冷的涡轮泵废气
 Dialogue: 0,0:23:16.51,0:23:24.15,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\fs120\fscx80\bord8\blur4\i1\pos(538,405)}多重结构鳍片
 Dialogue: 0,0:23:45.74,0:23:50.74,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}截止20200811还没做\N可以看看Scott Manley讲喷注器的视频 b23.tv/av925077700
 Dialogue: 0,0:35:19.47,0:35:24.47,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}b23.tv/av57059171
@@ -46,13 +46,13 @@ Dialogue: 0,0:42:34.66,0:42:39.22,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,
 Dialogue: 0,0:44:23.64,0:44:28.64,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}这期访谈视频出来的时候，气尖发动机的视频还没出来，所以是剧透
 Dialogue: 0,0:45:31.34,0:45:36.34,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/Nj9BncsgvuQ
 Dialogue: 0,0:56:00.80,0:56:05.80,1080P-src-hans-sans-medi-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/Sfc2Jg1gkKA
-Dialogue: 0,0:06:18.15,0:06:25.98,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(1000,700)\fs120\fscx80\bord1\blur4\i1}喷管如何工作的
-Dialogue: 0,0:15:59.68,0:16:06.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1\blur4\i1}气尖发动机如何工作的
-Dialogue: 0,0:19:54.41,0:20:00.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord2\blur4\i1}气尖发动机的问题
-Dialogue: 0,0:32:46.95,0:32:53.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\3c&H000000&\bord0.1\shad4\blur1\i1\4c&H000000&\4a&HB4&}气尖喷管和钟形喷管的对比
+Dialogue: 0,0:06:18.15,0:06:25.98,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(1000,700)\fs120\fscx80\bord1.001\blur4\i1}喷管如何工作的
+Dialogue: 0,0:15:59.68,0:16:06.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1.001\blur4\i1}气尖发动机如何工作的
+Dialogue: 0,0:19:54.41,0:20:00.18,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1.999\blur4\i1}气尖发动机的问题
+Dialogue: 0,0:32:46.95,0:32:53.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\3c&H000000&\bord0.101\shad4\blur1.001\i1\4c&H000000&\4a&HB4&}气尖喷管和钟形喷管的对比
 Dialogue: 0,0:41:23.68,0:41:31.01,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord0\i1}专家们有什么想法
-Dialogue: 0,0:51:31.61,0:51:38.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1\blur4\i1}气尖发动机的未来
-Dialogue: 0,0:53:57.71,0:54:03.68,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1\blur4\i1}总结
+Dialogue: 0,0:51:31.61,0:51:38.25,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1.001\blur4\i1}气尖发动机的未来
+Dialogue: 0,0:53:57.71,0:54:03.68,1080P-src-hans-sans-medi-60,,0,0,0,,{\a10\pos(960,410)\fad(700,700)\fs120\fscx80\bord1.001\blur4\i1}总结
 Dialogue: 0,0:01:50.84,0:01:52.84,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}-  [任务控制]三 二 一\N{\r1080P-src-hans-sans-Bold-5s\blur4}- [Mission Control] Three, two, one,
 Dialogue: 0,0:01:52.88,0:01:53.84,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}起飞\N{\r1080P-src-hans-sans-Bold-5s\blur4}and liftoff!
 Dialogue: 0,0:01:55.84,0:01:58.30,1080P-src-hans-sans-medi-7s,,0,0,0,,{\blur4}-  [尼尔]这是对人类的一小步\N{\r1080P-src-hans-sans-Bold-5s\blur4}- [Neil] That's one small step for man.
@@ -195,7 +195,7 @@ Dialogue: 0,0:03:31.62,0:03:35.55,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:03:35.55,0:03:39.21,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean, after all, SpaceX engineers tackled the ultimate challenge
 Dialogue: 0,0:03:35.55,0:03:39.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是指 毕竟 SpaceX公司的工程师解决的终极挑战
 Dialogue: 0,0:03:39.21,0:03:43.20,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}by developing a methane-powered full flow staged combustion cycle engine.
-Dialogue: 0,0:03:39.21,0:03:43.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}是研制全流量补燃循环(全流量分级燃烧循环 FFSCC)的液氧甲烷发动机
+Dialogue: 0,0:03:39.21,0:03:43.20,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}是研制全流量分级燃烧循环(FFSCC 全流量补燃循环)的液氧甲烷发动机
 Dialogue: 0,0:03:43.20,0:03:44.99,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If you could solve that crazy engine,
 Dialogue: 0,0:03:43.20,0:03:44.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果能解决这个疯狂的发动机
 Dialogue: 0,0:03:44.99,0:03:46.84,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}why didn't they try for an aerospike,
@@ -383,9 +383,9 @@ Dialogue: 0,0:09:13.76,0:09:14.99,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:09:15.01,0:09:20.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}until we get to the point where the gas is traveling at sonic speeds, or at the local speed of sound.
 Dialogue: 0,0:09:15.01,0:09:20.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}直到气体的速度达到音速 或者说是这种介质中的音速 局部音速
 Dialogue: 0,0:09:20.68,0:09:25.61,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now, I say local speed of sound because the speed of sound goes up with the square root of temperature,
-Dialogue: 0,0:09:20.68,0:09:25.61,1080P-src-hans-sans-medi-7t,,0,0,0,,{\blur4}{\pos(960,935)}现在 我说局部音速是因为声音的速度随着温度的平方根上升
+Dialogue: 0,0:09:20.68,0:09:25.61,1080P-src-hans-sans-medi-7t,,0,0,0,,{\blur4}{\pos(960,934.999)}现在 我说局部音速是因为声音的速度随着温度的平方根上升
 Dialogue: 0,0:09:25.61,0:09:29.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and because temperature in rocket engines is really high,
-Dialogue: 0,0:09:25.61,0:09:29.59,1080P-src-hans-sans-medi-7t,,0,0,0,,{\blur4}{\pos(960,935)}因为火箭发动机内部的温度非常高
+Dialogue: 0,0:09:25.61,0:09:29.59,1080P-src-hans-sans-medi-7t,,0,0,0,,{\blur4}{\pos(960,934.999)}因为火箭发动机内部的温度非常高
 Dialogue: 0,0:09:29.59,0:09:31.24,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the speed of sound at the throat
 Dialogue: 0,0:09:29.59,0:09:31.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}在喷管喉部的音速
 Dialogue: 0,0:09:31.25,0:09:35.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}can be five to 10 times faster than that of room temperature at sea level.
@@ -847,15 +847,15 @@ Dialogue: 0,0:22:51.49,0:22:55.44,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:22:55.92,0:23:00.75,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}be in contact with a cooler gas than if it were in contact with the main combustion chamber exhaust.
 Dialogue: 0,0:22:55.92,0:23:00.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}来接触较冷的气体 这个较冷 是相对于主燃烧室废气来说的
 Dialogue: 0,0:23:01.09,0:23:06.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You can see this utilized on the F-1 engine {\blur4}that powered the Saturn V as well as the Merlin 1D Vacuum engine.
-Dialogue: 0,0:23:01.09,0:23:06.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,950)}你可以看到它在土星五号的发动机F-1和梅林1D真空发动机上的应用
+Dialogue: 0,0:23:01.09,0:23:06.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,949.999)}你可以看到它在土星五号的发动机F-1和梅林1D真空发动机上的应用
 Dialogue: 0,0:23:06.62,0:23:08.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And looking at the Merlin 1D vacuum,
-Dialogue: 0,0:23:06.62,0:23:08.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,950)}而仔细看看梅林1D真空发动机
+Dialogue: 0,0:23:06.62,0:23:08.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,949.999)}而仔细看看梅林1D真空发动机
 Dialogue: 0,0:23:08.32,0:23:10.94,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you can see streaks in its niobium alloy nozzle
-Dialogue: 0,0:23:08.32,0:23:10.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,950)}你可以看到它的铌合金喷管条纹
+Dialogue: 0,0:23:08.32,0:23:10.94,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,949.999)}你可以看到它的铌合金喷管条纹
 Dialogue: 0,0:23:10.94,0:23:12.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which is radiatively cooled
-Dialogue: 0,0:23:10.94,0:23:12.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,950)}这就是辐射冷却
+Dialogue: 0,0:23:10.94,0:23:12.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,949.999)}这就是辐射冷却
 Dialogue: 0,0:23:12.67,0:23:17.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but also takes the gas generator exhaust and uses it to cool the nozzle.
-Dialogue: 0,0:23:12.67,0:23:17.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,950)}但是也使用了燃气发生器的废气用来冷却喷管
+Dialogue: 0,0:23:12.67,0:23:17.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\pos(960,949.999)}但是也使用了燃气发生器的废气用来冷却喷管
 Dialogue: 0,0:23:17.18,0:23:21.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The streaks are from little fins inside the exhaust manifold that maintain the structure.
 Dialogue: 0,0:23:17.18,0:23:21.29,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这些条纹来自排气歧管内保持结构的小鳍片
 Dialogue: 0,0:23:21.29,0:23:25.29,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Side note, I used to think these streaks were from the pintle injector, but come to find out,
@@ -1244,7 +1244,7 @@ Dialogue: 0,0:35:16.29,0:35:19.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:35:19.47,0:35:22.17,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I go into most of these in my video about the Raptor engine
 Dialogue: 0,0:35:19.47,0:35:22.17,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我在有关猛禽发动机的视频中介绍了其中大多数内容
 Dialogue: 0,0:35:22.17,0:35:24.07,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and its full flow staged combustion cycle.
-Dialogue: 0,0:35:22.17,0:35:24.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还有猛禽发动机的全流量补燃循环
+Dialogue: 0,0:35:22.17,0:35:24.07,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}还有猛禽发动机的全流量分级燃烧循环
 Dialogue: 0,0:35:24.07,0:35:25.26,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But the one engine cycle type
 Dialogue: 0,0:35:24.07,0:35:25.26,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是 一个发动机循环方式
 Dialogue: 0,0:35:25.29,0:35:27.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that I didn't talk about is the tap-off method
@@ -1256,17 +1256,17 @@ Dialogue: 0,0:35:32.12,0:35:35.23,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:35:35.38,0:35:37.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which was intended to help simplify the engine
 Dialogue: 0,0:35:35.38,0:35:37.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其目的是帮助简化发动机
 Dialogue: 0,0:35:37.80,0:35:41.96,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and bring the cost down since it eliminated the preburner or gas generator.
-Dialogue: 0,0:35:37.80,0:35:41.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并把成本降下来 因为它减少了预燃室或气体发生器
+Dialogue: 0,0:35:37.80,0:35:41.96,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}并把成本降下来 因为它减少了预燃室或者说燃气发生器
 Dialogue: 0,0:35:41.96,0:35:50.38,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The original J-2, the J-2T 250K, the XRS-2200, and the RS-2200 all use a gas generator.
 Dialogue: 0,0:35:41.96,0:35:50.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}原版J-2 J-2T(250K)  XRS-2200 和RS-2200都使用的燃气发生器
 Dialogue: 0,0:35:50.38,0:35:53.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The RS-25 is closed cycle, fuel rich,
 Dialogue: 0,0:35:50.38,0:35:53.19,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而RS-25是闭式富燃(分级燃烧)循环
 Dialogue: 0,0:35:53.46,0:35:57.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and the Raptor engine is of course full flow staged combustion cycle.
-Dialogue: 0,0:35:53.46,0:35:57.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及猛禽发动机当然是全流量补燃循环
+Dialogue: 0,0:35:53.46,0:35:57.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}以及猛禽发动机当然是全流量分级燃烧循环
 Dialogue: 0,0:35:57.32,0:35:59.06,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now let's look at their thrust output.
-Dialogue: 0,0:35:57.32,0:35:59.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在让我们来看看他们的推力输出
+Dialogue: 0,0:35:57.32,0:35:59.06,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在让我们来看看他们输出的推力
 Dialogue: 0,0:35:59.06,0:36:02.62,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}We'll do both sea-level and vacuum thrust in kilonewtons.
-Dialogue: 0,0:35:59.06,0:36:02.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}同时对比海平面和真空推力 以千牛顿作为单位
+Dialogue: 0,0:35:59.06,0:36:02.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}同时对比海平面和真空推力 以千牛作为单位
 Dialogue: 0,0:36:02.62,0:36:08.52,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The J-2 produced 486 kN at sea level and 1,033 kN in a vacuum,
 Dialogue: 0,0:36:02.62,0:36:08.52,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}J-2海平面推力为486千牛 而真空推力为1033千牛
 Dialogue: 0,0:36:08.52,0:36:15.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}the J-2S couldn't actually fire at sea level and in space produced 1,138 kN,
@@ -1290,15 +1290,15 @@ Dialogue: 0,0:37:00.69,0:37:05.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:37:05.76,0:37:10.21,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The best way to think of specific impulse is imagine you had one kg of propellant.
 Dialogue: 0,0:37:05.76,0:37:10.21,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}想象比冲的最好办法是 假设有1kg的推进剂
 Dialogue: 0,0:37:10.21,0:37:15.51,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}For how many seconds can the engine push with 9.81 newtons of force?
-Dialogue: 0,0:37:10.21,0:37:15.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果发动机以9.81牛的力进行推进 能推多少秒
+Dialogue: 0,0:37:10.21,0:37:15.51,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}如果发动机以9.81牛的力进行燃烧 能烧多少秒
 Dialogue: 0,0:37:15.51,0:37:21.09,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The longer it can sip on the fuel while still pushing that hard, the higher its specific impulse,
 Dialogue: 0,0:37:15.51,0:37:21.09,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}保持相同推力和燃料的情况下 发动机工作得时间越长 其比冲也就越高
 Dialogue: 0,0:37:21.09,0:37:24.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and therefore the more work it can do with the same amount of fuel,
-Dialogue: 0,0:37:21.09,0:37:24.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也就意味着相同燃料下其做的工作越多
+Dialogue: 0,0:37:21.09,0:37:24.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也就意味着相同燃料下其图力越大
 Dialogue: 0,0:37:24.95,0:37:26.63,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}in other words it's fuel economy.
-Dialogue: 0,0:37:24.95,0:37:26.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}换句话说 它的燃料经济性
+Dialogue: 0,0:37:24.95,0:37:26.63,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}换句话说 它的燃料就很经济
 Dialogue: 0,0:37:26.63,0:37:32.57,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So the higher the specific impulse, the less fuel it takes to do the same amount of work, which is a good thing.
-Dialogue: 0,0:37:26.63,0:37:32.57,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因此 较高的比冲意味着较少的燃料能做同样的工作量 这是一件好事
+Dialogue: 0,0:37:26.63,0:37:32.57,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}因此 较高的比冲意味着较少的燃料能做同样的推力 这是一件好事
 Dialogue: 0,0:37:32.57,0:37:35.28,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}A fuel efficient engine is extremely important.
 Dialogue: 0,0:37:32.57,0:37:35.28,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}燃料高效的发动机是非常重要的
 Dialogue: 0,0:37:35.28,0:37:39.49,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The J-2 was 200 seconds at sea level and 424 seconds in space,
@@ -1448,7 +1448,7 @@ Dialogue: 0,0:42:20.53,0:42:21.66,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\
 Dialogue: 0,0:42:21.66,0:42:23.58,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}"Aerospikes are just plain cool,"
 Dialogue: 0,0:42:21.66,0:42:23.58,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\i1}气尖就是帅{\i0}
 Dialogue: 0,0:42:23.58,0:42:27.50,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}"and linear aerospikes are the coolest type." I agree Tory.
-Dialogue: 0,0:42:23.58,0:42:27.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\i1}而线性气尖是最帅的{\i0} 这点我同意Tory
+Dialogue: 0,0:42:23.58,0:42:27.50,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}{\i1}而线塞引擎是最帅的{\i0} 这点我同意Tory
 Dialogue: 0,0:42:27.50,0:42:32.48,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I also asked Elon Musk why he hasn't opted to use an aerospike engine for anything at SpaceX,
 Dialogue: 0,0:42:27.50,0:42:32.48,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我也问过马一龙为何不选择在SpaceX公司的产品上使用气尖发动机
 Dialogue: 0,0:42:32.48,0:42:33.60,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and here's what he said.
@@ -1508,13 +1508,13 @@ Dialogue: 0,0:43:57.37,0:43:59.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:43:59.90,0:44:01.91,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That's very high efficiency.
 Dialogue: 0,0:43:59.90,0:44:01.91,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是非常高的效率
 Dialogue: 0,0:44:01.91,0:44:03.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- Because of full flow stage combustion.
-Dialogue: 0,0:44:01.91,0:44:03.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 这得益于全流量补燃
+Dialogue: 0,0:44:01.91,0:44:03.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 这得益于全流量分级燃烧
 Dialogue: 0,0:44:03.45,0:44:06.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- Full flow stage combustion, exactly.
-Dialogue: 0,0:44:03.45,0:44:06.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 全流量补燃 没错
+Dialogue: 0,0:44:03.45,0:44:06.15,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 全流量分级燃烧 没错
 Dialogue: 0,0:44:06.15,0:44:08.10,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}You've got a gas-gas interaction.
-Dialogue: 0,0:44:06.15,0:44:08.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}（这种构型）会有气气相互作用
+Dialogue: 0,0:44:06.15,0:44:08.10,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}（这种构型）会有气-气相互作用
 Dialogue: 0,0:44:08.10,0:44:10.18,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So you've got two hot gases combining.
-Dialogue: 0,0:44:08.10,0:44:10.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么 两种热气相互结合
+Dialogue: 0,0:44:08.10,0:44:10.18,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么 两种燃气相互结合
 Dialogue: 0,0:44:10.18,0:44:11.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- Yeah.
 Dialogue: 0,0:44:10.18,0:44:11.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 没错
 Dialogue: 0,0:44:11.01,0:44:13.23,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- And with a relatively simple reaction.
@@ -1534,7 +1534,7 @@ Dialogue: 0,0:44:21.13,0:44:23.30,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} -
 Dialogue: 0,0:44:23.64,0:44:26.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- And so you don't think-- You're just telling me now, spoiler alert,
 Dialogue: 0,0:44:23.64,0:44:26.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 所以你不觉得 或者你现在就告诉我 （剧透警告）
 Dialogue: 0,0:44:26.00,0:44:30.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}you're probably never gonna see a full flow stage combustion cycle aerospike engine produced by SpaceX?
-Dialogue: 0,0:44:26.00,0:44:30.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你可能永远不会看到SpaceX生产的全流量补燃循环的气尖发动机了？
+Dialogue: 0,0:44:26.00,0:44:30.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你可能永远不会看到SpaceX生产的全流量分级燃烧循环的气尖发动机了？
 Dialogue: 0,0:44:30.65,0:44:31.68,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- You know ...
 Dialogue: 0,0:44:30.65,0:44:31.68,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}- 你知道的...
 Dialogue: 0,0:44:31.68,0:44:34.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}If somebody can show that we're wrong, that would be great.
@@ -1584,7 +1584,7 @@ Dialogue: 0,0:45:26.55,0:45:31.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:45:31.34,0:45:32.65,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Why not aerospikes?
 Dialogue: 0,0:45:31.34,0:45:32.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为啥不用气尖发动机呢？
 Dialogue: 0,0:45:32.65,0:45:34.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Why haven't aerospikes been flown?
-Dialogue: 0,0:45:32.65,0:45:34.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为啥没飞过气尖发动机呢？
+Dialogue: 0,0:45:32.65,0:45:34.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}为啥不使用气尖发动机飞行呢？
 Dialogue: 0,0:45:34.80,0:45:37.82,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Did you view them, or did you look at them?
 Dialogue: 0,0:45:34.80,0:45:37.82,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}你是否考虑过呢？
 Dialogue: 0,0:45:37.82,0:45:40.23,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Is it something you would love to do at some point, or what?
@@ -1594,7 +1594,7 @@ Dialogue: 0,0:45:40.23,0:45:43.97,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:45:43.97,0:45:45.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- Yes! - Yeah, yeah, yeah.
 Dialogue: 0,0:45:43.97,0:45:45.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 对  - 没错
 Dialogue: 0,0:45:45.03,0:45:46.69,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- Where's our aerospike?
-Dialogue: 0,0:45:45.03,0:45:46.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 气尖哪里去了
+Dialogue: 0,0:45:45.03,0:45:46.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 气尖引擎呢
 Dialogue: 0,0:45:46.69,0:45:48.45,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- I've got an engine down there that's an aerospike.
 Dialogue: 0,0:45:46.69,0:45:48.45,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4} - 我以前造过气尖发动机
 Dialogue: 0,0:45:48.45,0:45:50.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean, I've done my time on aerospikes myself.
@@ -1610,9 +1610,9 @@ Dialogue: 0,0:46:00.61,0:46:04.65,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:46:04.65,0:46:06.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And it kinda cancels itself out.
 Dialogue: 0,0:46:04.65,0:46:06.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它有点像是自己否定自己
 Dialogue: 0,0:46:06.90,0:46:09.32,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean, if physics says it's better,
-Dialogue: 0,0:46:06.90,0:46:09.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是指 如果物理学认为这是更好的
+Dialogue: 0,0:46:06.90,0:46:09.32,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是指 如果站在物理学角度讲这是更好的
 Dialogue: 0,0:46:09.32,0:46:11.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but engineering and trying to engineer them,
-Dialogue: 0,0:46:09.32,0:46:11.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是在工程学的角度
+Dialogue: 0,0:46:09.32,0:46:11.80,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但是站在工程学的角度讲
 Dialogue: 0,0:46:11.80,0:46:13.70,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it's far more complicated.
 Dialogue: 0,0:46:11.80,0:46:13.70,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}就变得复杂了许多
 Dialogue: 0,0:46:13.70,0:46:18.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And the mess and complexity you end up driving into them,
@@ -1620,7 +1620,7 @@ Dialogue: 0,0:46:13.70,0:46:18.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:46:18.01,0:46:21.05,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and this is my personal experience, driving into them,
 Dialogue: 0,0:46:18.01,0:46:21.05,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是我个人的经验
 Dialogue: 0,0:46:21.05,0:46:24.89,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}versus just a typical conical bell,
-Dialogue: 0,0:46:21.05,0:46:24.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}相比于典型的锥形的钟形的喷管而言
+Dialogue: 0,0:46:21.05,0:46:24.89,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}相比于典型的锥形和钟形的喷管而言
 Dialogue: 0,0:46:24.89,0:46:26.03,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}it's just not worth it.
 Dialogue: 0,0:46:24.89,0:46:26.03,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它就是不值得
 Dialogue: 0,0:46:26.03,0:46:29.15,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}- So you physically are adding mass to potentially gain a little bit of--
@@ -1792,7 +1792,7 @@ Dialogue: 0,0:50:43.06,0:50:44.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:50:44.77,0:50:50.13,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}they've got a very, very long way to go before they would ever be close to flying one.
 Dialogue: 0,0:50:44.77,0:50:50.13,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}他们离试飞还差得远
 Dialogue: 0,0:50:50.13,0:50:54.75,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And although the company has been around for 20 years and has yet to fire an aerospike,
-Dialogue: 0,0:50:50.13,0:50:54.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而且尽管这个公司已经建立了近20年 但还没点火过任何一个气尖发动机
+Dialogue: 0,0:50:50.13,0:50:54.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而且尽管这个公司已经建立了近20年 但还没对任何一个气尖发动机进行点火试验
 Dialogue: 0,0:50:54.75,0:50:58.22,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}perhaps they'll make some progress and get anything flying someday.
 Dialogue: 0,0:50:54.75,0:50:58.22,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或许他们会取得一些进展 终有一天能飞上天
 Dialogue: 0,0:50:58.22,0:51:00.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But I'm starting to think this too will fall into the
@@ -1854,7 +1854,7 @@ Dialogue: 0,0:52:36.71,0:52:39.08,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:52:39.08,0:52:45.27,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}turning it into hot gaseous fuel and then using that to spin the turbine which then will power the engine.
 Dialogue: 0,0:52:39.08,0:52:45.27,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}使之变为气体燃料 带动驱动引擎的涡轮泵旋转
 Dialogue: 0,0:52:45.27,0:52:48.56,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}The problem with the expander cycle is actually the opposite of aerospikes.
-Dialogue: 0,0:52:45.27,0:52:48.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}与膨胀循环相关的问题恰好是气尖发动机的反面
+Dialogue: 0,0:52:45.27,0:52:48.56,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}膨胀循环相关的问题恰好与气尖发动机相反
 Dialogue: 0,0:52:48.56,0:52:50.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}They have a thrust output limited based on
 Dialogue: 0,0:52:48.56,0:52:50.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}膨胀循环的推力输出受限于
 Dialogue: 0,0:52:50.84,0:52:55.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}how much liquid fuel an engine can actually heat up and turn into gaseous fuel.
@@ -1902,7 +1902,7 @@ Dialogue: 0,0:54:11.65,0:54:12.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:54:12.69,0:54:14.00,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Super cool on paper,
 Dialogue: 0,0:54:12.69,0:54:14.00,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}纸面上很强
 Dialogue: 0,0:54:14.00,0:54:19.81,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}a super tantalizing concept that seems to beckon even the most astute rocket engineers,
-Dialogue: 0,0:54:14.00,0:54:19.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}一个超级诱人的概念 似乎能吸引到最精明的火箭工程师
+Dialogue: 0,0:54:14.00,0:54:19.81,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}它是一个超级诱人的概念 似乎能吸引到最精明的火箭工程师
 Dialogue: 0,0:54:19.81,0:54:21.98,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}perfect for your SSTO concepts
 Dialogue: 0,0:54:19.81,0:54:21.98,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}对于SSTO概念而言非常完美
 Dialogue: 0,0:54:22.00,0:54:24.19,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that might also need to be reconsidered,
@@ -1936,17 +1936,17 @@ Dialogue: 0,0:55:00.51,0:55:04.75,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:55:04.75,0:55:08.76,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Now you could probably say the exact same thing about SpaceX's Raptor engine
 Dialogue: 0,0:55:04.75,0:55:08.76,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}现在 你也许会说SpaceX的猛禽发动机也是类似的存在
 Dialogue: 0,0:55:08.76,0:55:11.38,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}which utilizes a full flow staged combustion cycle.
-Dialogue: 0,0:55:08.76,0:55:11.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其使用全流量补燃循环
+Dialogue: 0,0:55:08.76,0:55:11.38,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}其使用全流量分级燃烧循环
 Dialogue: 0,0:55:11.38,0:55:15.67,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}That was considered far too difficult to really ever be worth it previously.
 Dialogue: 0,0:55:11.38,0:55:15.67,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这之前被认为是过于复杂 不值得去实现的技术
 Dialogue: 0,0:55:15.67,0:55:22.77,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And that rocket engine is extremely complex and unbelievably hard and expensive to develop.
 Dialogue: 0,0:55:15.67,0:55:22.77,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这种火箭发动机非常复杂 开发起来极度困难且昂贵
 Dialogue: 0,0:55:22.77,0:55:25.42,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But the thing is, the full flow staged combustion cycle
-Dialogue: 0,0:55:22.77,0:55:25.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但事实是 全流量补燃循环
+Dialogue: 0,0:55:22.77,0:55:25.42,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但事实是 全流量分级燃烧循环
 Dialogue: 0,0:55:25.42,0:55:29.24,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}is just physically the best way to extract all your energy from your propellant.
 Dialogue: 0,0:55:25.42,0:55:29.24,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}不过是物理上利用推进剂的最佳方式
 Dialogue: 0,0:55:29.24,0:55:35.93,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}I mean, they actually perform better in virtually all metrics than other rocket engines, period.
-Dialogue: 0,0:55:29.24,0:55:35.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是指 比起任何其他火箭发动机 他们各方面的表现几乎都要更好一些
+Dialogue: 0,0:55:29.24,0:55:35.93,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}我是指 比起任何其他循环方式的火箭发动机 他们各方面的表现几乎都要更好一些
 Dialogue: 0,0:55:35.93,0:55:40.16,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Whereas the aerospike might gain some advantages in, say, altitude compensation,
 Dialogue: 0,0:55:35.93,0:55:40.16,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而气尖发动机可能在某些方面具有优势 比如 高度补偿
 Dialogue: 0,0:55:40.16,0:55:44.90,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but it lacks advantages in other areas which puts it right back on par with other engines.
@@ -1954,7 +1954,7 @@ Dialogue: 0,0:55:40.16,0:55:44.90,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:55:44.90,0:55:47.11,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So as far as where to spend your time and research,
 Dialogue: 0,0:55:44.90,0:55:47.11,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么 只要一谈到哪些地方是值得花时间研发的
 Dialogue: 0,0:55:47.11,0:55:53.04,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}that's why most engineers have pursued things like closed cycle engines, full flow staged combustion cycle,
-Dialogue: 0,0:55:47.11,0:55:53.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}大多数工程师都会选择发动机的闭式循环(包括)全流量补燃循环
+Dialogue: 0,0:55:47.11,0:55:53.04,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}大多数工程师都会选择发动机的闭式循环(包括)全流量分级燃烧循环
 Dialogue: 0,0:55:53.04,0:55:58.39,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}or the path of easiest manufacturing and development like Rocket Lab's electric pump fed engines.
 Dialogue: 0,0:55:53.04,0:55:58.39,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}或者像火箭实验室那样最容易研制的电燃料泵发动机
 Dialogue: 0,0:55:58.39,0:56:00.80,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And just another note here while wrap up about aerospikes,
@@ -2018,7 +2018,7 @@ Dialogue: 0,0:57:27.81,0:57:31.62,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:57:31.62,0:57:33.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}And in the same way, sure,
 Dialogue: 0,0:57:31.62,0:57:33.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}与之相同 没错
 Dialogue: 0,0:57:33.12,0:57:39.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}maybe the aerospike could improve and be a more viable choice with an increase in research and development.
-Dialogue: 0,0:57:33.12,0:57:39.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也许气尖发动机在研发力度增加之后 也会得到改进 成为一个可行的选择 
+Dialogue: 0,0:57:33.12,0:57:39.34,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}也许气尖发动机在研发力度增加之后 也会得到改进 成为一个可行的选择
 Dialogue: 0,0:57:39.34,0:57:43.83,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}But much like the rotary engine, would it really be worth it?
 Dialogue: 0,0:57:39.34,0:57:43.83,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}但也像转子发动机一样 这真的值得吗
 Dialogue: 0,0:57:43.83,0:57:47.85,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}Would it really ever truly be better than the alternative?
@@ -2028,7 +2028,7 @@ Dialogue: 0,0:57:47.85,0:57:51.69,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:57:51.69,0:57:57.59,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}not only in performance but also reliability, cost, development risk, manufacturing
 Dialogue: 0,0:57:51.69,0:57:57.59,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}不仅是性能 而且还有可靠性 成本 开发风险 制造
 Dialogue: 0,0:57:57.62,0:58:01.47,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and tying them all together to make the right choice for your vehicle.
-Dialogue: 0,0:57:57.62,0:58:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而把所有方面都进行考虑才是载具的正确选择
+Dialogue: 0,0:57:57.62,0:58:01.47,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}而把所有方面都进行考虑才是运载火箭的正确选择
 Dialogue: 0,0:58:01.47,0:58:02.95,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}So at the end of the day,
 Dialogue: 0,0:58:01.47,0:58:02.95,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}那么 总之
 Dialogue: 0,0:58:02.95,0:58:05.34,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}an aerospike's biggest advantage is
