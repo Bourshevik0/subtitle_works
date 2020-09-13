@@ -9,6 +9,18 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
+Last Style Storage: 1080P_common
+Audio File: Are Aerospikes Better Than Bell Nozzles-Everyday Astronaut-20191018-D4SaofKCYwo_x264.mp4
+Video File: Are Aerospikes Better Than Bell Nozzles-Everyday Astronaut-20191018-D4SaofKCYwo_x264.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 27
+Active Line: 48
+Video Position: 540
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-src-hans-sans-Bold-50,思源黑体 Bold,50,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -70,7 +82,7 @@ Dialogue: 0,0:00:07.16,0:00:09.35,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}�
 Dialogue: 0,0:00:09.35,0:00:11.12,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}but not just any rocket engine;
 Dialogue: 0,0:00:09.35,0:00:11.12,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这不是普通的火箭发动机
 Dialogue: 0,0:00:11.12,0:00:15.01,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}there's a very special rocket engine in here that's kind of inside out
-Dialogue: 0,0:00:11.12,0:00:15.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是一个非常特殊的火箭发动机 它具有由内而外的特性
+Dialogue: 0,0:00:11.12,0:00:15.01,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}这是一个非常特殊且独特的火箭发动机
 Dialogue: 0,0:00:15.01,0:00:19.33,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}-and promises to be as efficient at sea level as a sea-level engine
 Dialogue: 0,0:00:15.01,0:00:19.33,1080P-src-hans-sans-medi-75,,0,0,0,,{\blur4}希望在海平面上具有海平面发动机一样的高效
 Dialogue: 0,0:00:19.33,0:00:22.87,1080P-src-hans-sans-Bold-50,,0,0,0,,{\blur4}and as efficient in space as a vacuum-optimized engine.
