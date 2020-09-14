@@ -12,400 +12,405 @@ PlayResY: 1080
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-shsb-5s,思源黑体 Bold,50,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-shsm-7s,思源黑体 Medium,75,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
-Style: 1080P-shsb-50,思源黑体 Bold,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-shsb-50,思源黑体 Bold,50,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-shsm-60,思源黑体 Medium,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
-Style: 1080P-shsm-75,思源黑体 Medium,48,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-shsm-75,思源黑体 Medium,75,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.00,0:00:04.72,1080P-shsb-50,,0,0,0,,{\fn微软雅黑\fs72\pos(965,328)}原视频链接：youtube.com/watch?v=h9YN50xXFJY\N原视频发布日期：2020 7.25 作者：Scott Manley\N    翻译：长五遥三真没鸽 校对：旋火 \N（在视频上方出现的注释均为译者注）
-Dialogue: 0,0:00:04.00,0:00:05.35,1080P-shsb-50,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.00,0:00:05.35,1080P-shsm-75,,0,0,0,,大家吼 我是Scott manley 
-Dialogue: 0,0:00:05.35,0:00:09.45,1080P-shsb-50,,0,0,0,,And today I want to talk to you about Van Allen belt
-Dialogue: 0,0:00:05.35,0:00:09.45,1080P-shsm-75,,0,0,0,,今天我想和你来谈谈范·艾伦辐射带的事
-Dialogue: 0,0:00:09.45,0:00:12.44,1080P-shsb-50,,0,0,0,,and mor{\b0}e specifically how dangerous they are.
-Dialogue: 0,0:00:09.45,0:00:12.44,1080P-shsm-75,,0,0,0,,更具体地说是 他们有多么危险
-Dialogue: 0,0:00:12.97,0:00:17.52,1080P-shsb-50,,0,0,0,,Now the Van Allen belts were one of the first big discoveries of space science.
-Dialogue: 0,0:00:12.97,0:00:17.52,1080P-shsm-75,,0,0,0,,范·艾伦辐射带是宇宙科学最早的大发现之一
-Dialogue: 0,0:00:17.60,0:00:22.08,1080P-shsb-50,,0,0,0,,The radiation belts trapped by the Earth's magnetic field were discovered by data
-Dialogue: 0,0:00:17.60,0:00:22.08,1080P-shsm-75,,0,0,0,,被地球磁场捕获的辐射带是由
-Dialogue: 0,0:00:22.08,0:00:27.19,1080P-shsb-50,,0,0,0,,from the very first satellite launched by the US explorer one
-Dialogue: 0,0:00:22.08,0:00:27.19,1080P-shsm-75,,0,0,0,,美国探索者一号发射的第一颗卫星中的数据发现的
-Dialogue: 0,0:00:27.19,0:00:30.16,1080P-shsb-50,,0,0,0,,and this satellite was launched in 1958.
-Dialogue: 0,0:00:27.19,0:00:30.16,1080P-shsm-75,,0,0,0,,而这颗卫星是在1958年发射的
-Dialogue: 0,0:00:30.16,0:00:34.23,1080P-shsb-50,,0,0,0,,It contained a Geiger counter which was expected to see cosmic rays
-Dialogue: 0,0:00:30.16,0:00:34.23,1080P-shsm-75,,0,0,0,,它装了一个盖革计数器 预计可以看到宇宙射线
-Dialogue: 0,0:00:34.23,0:00:37.68,1080P-shsb-50,,0,0,0,,and sometimes it would report about 30 counts per second
-Dialogue: 0,0:00:34.23,0:00:37.68,1080P-shsm-75,,0,0,0,,有时会每秒报告约30个计数
-Dialogue: 0,0:00:37.68,0:00:40.64,1080P-shsb-50,,0,0,0,,but at other times the rate would show a zero
-Dialogue: 0,0:00:37.68,0:00:40.64,1080P-shsm-75,,0,0,0,,但在其他时候 该速率会显示为零
-Dialogue: 0,0:00:40.64,0:00:45.03,1080P-shsb-50,,0,0,0,,and this perplexed the scientists including a certain James Van Allen.
-Dialogue: 0,0:00:40.64,0:00:45.03,1080P-shsm-75,,0,0,0,,这使得包括詹姆斯·范·艾伦在内的科学家感到困惑
-Dialogue: 0,0:00:45.76,0:00:50.72,1080P-shsb-50,,0,0,0,,The reason behind this was because due to limitations in the early guidance technology
-Dialogue: 0,0:00:45.76,0:00:50.72,1080P-shsm-75,,0,0,0,,这背后的原因是由于早期制导技术的局限性
-Dialogue: 0,0:00:50.91,0:00:56.41,1080P-shsb-50,,0,0,0,,the spacecraft was in an elliptical orbit with an apogee above 2500 kilometers.
-Dialogue: 0,0:00:50.91,0:00:56.41,1080P-shsm-75,,0,0,0,,这家伙它处在远地点为2500公里的椭圆轨道上
-Dialogue: 0,0:00:56.48,0:01:00.23,1080P-shsb-50,,0,0,0,,They figured out that when the zero counts happened
-Dialogue: 0,0:00:56.48,0:01:00.23,1080P-shsm-75,,0,0,0,,他们发现 当计数器显示为零时
-Dialogue: 0,0:01:00.23,0:01:04.23,1080P-shsb-50,,0,0,0,,when the spacecraft was high up above 2000 kilometers
-Dialogue: 0,0:01:00.23,0:01:04.23,1080P-shsm-75,,0,0,0,,此时航天器正在2000公里以上的高空飞行
-Dialogue: 0,0:01:04.23,0:01:08.68,1080P-shsb-50,,0,0,0,,and eventually a later mission explorer 3 would show that this region
-Dialogue: 0,0:01:04.23,0:01:08.68,1080P-shsm-75,,0,0,0,,最终 后来的探索者3号任务显示 这个区域
-Dialogue: 0,0:01:08.68,0:01:14.57,1080P-shsb-50,,0,0,0,,the count rate was simply so high that it was saturating the detector on explorer 1.
-Dialogue: 0,0:01:08.68,0:01:14.57,1080P-shsm-75,,0,0,0,,计数速率实在是太高了 以至于让探索者1号的探测器饱和了
-Dialogue: 0,0:01:15.81,0:01:22.62,1080P-shsb-50,,0,0,0,,The second outer radiation belt was discovered at the end of 1958 by pioneer 3.
-Dialogue: 0,0:01:15.81,0:01:22.62,1080P-shsm-75,,0,0,0,,1958年底 先驱者3发现了第二条外部辐射带。
-Dialogue: 0,0:01:23.35,0:01:29.72,1080P-shsb-50,,0,0,0,,This was intended to fly to the moon but a malfunction in the Juno II rocket left without the needed velocity.
-Dialogue: 0,0:01:23.35,0:01:29.72,1080P-shsm-75,,0,0,0,,它的目的是飞向月球 但朱诺二号火箭出现故障 没有达到所需的速度
-Dialogue: 0,0:01:29.98,0:01:36.18,1080P-shsb-50,,0,0,0,,It reached an altitude of about a hundred thousand kilometers before falling back to Earth 38 hours later
-Dialogue: 0,0:01:29.98,0:01:36.18,1080P-shsm-75,,0,0,0,,它到达了大约10万公里的高度 38小时后才落回地球
-Dialogue: 0,0:01:36.32,0:01:40.80,1080P-shsb-50,,0,0,0,,but it was the first spacecraft to travel so far with a Geiger counter
-Dialogue: 0,0:01:36.32,0:01:40.80,1080P-shsm-75,,0,0,0,,但它是第一个带着盖革计数器飞向深空的航天器
-Dialogue: 0,0:01:40.82,0:01:46.84,1080P-shsb-50,,0,0,0,,and it detected the rise and fall of the particle counts as it crossed through those outer belts.
-Dialogue: 0,0:01:40.82,0:01:46.84,1080P-shsm-75,,0,0,0,,并在穿过这些外（辐射）带时探测到粒子数量的起伏
-Dialogue: 0,0:01:47.36,0:01:52.09,1080P-shsb-50,,0,0,0,,Ultimately it became clear that this radiation belt was potentially hazardous
-Dialogue: 0,0:01:47.36,0:01:52.09,1080P-shsm-75,,0,0,0,,最终 很明显 这个辐射带具有潜在的危险性
-Dialogue: 0,0:01:52.44,0:01:56.83,1080P-shsb-50,,0,0,0,,both to spacecraft and to humans who might travel beyond low Earth orbit.
-Dialogue: 0,0:01:52.44,0:01:56.83,1080P-shsm-75,,0,0,0,,对航天器和可能飞越近地轨道的人类都是如此
-Dialogue: 0,0:01:57.24,0:01:58.99,1080P-shsb-50,,0,0,0,,But just how dangerous are they?
-Dialogue: 0,0:01:57.24,0:01:58.99,1080P-shsm-75,,0,0,0,,但它们到底有多危险呢？
-Dialogue: 0,0:01:59.28,0:02:03.04,1080P-shsb-50,,0,0,0,,Obviously the crews of the Apollo missions were able to complete their missions
-Dialogue: 0,0:01:59.28,0:02:03.04,1080P-shsm-75,,0,0,0,,显然 阿波罗任务的机组成员能够完成他们的任务
-Dialogue: 0,0:02:03.04,0:02:06.34,1080P-shsb-50,,0,0,0,,even although certain conspiracy-minded people claim
-Dialogue: 0,0:02:03.04,0:02:06.34,1080P-shsm-75,,0,0,0,,尽管某些阴谋论者声称
-Dialogue: 0,0:02:06.38,0:02:09.28,1080P-shsb-50,,0,0,0,,the belts are so deadly that they would kill a human in mission minutes.
-Dialogue: 0,0:02:06.38,0:02:09.28,1080P-shsm-75,,0,0,0,,这个辐射带是如此致命 以至于在任务记录中会杀死一个人
-Dialogue: 0,0:02:09.32,0:02:14.75,1080P-shsb-50,,0,0,0,,I mean I guess everybody dies after minutes, a very large number of minutes
-Dialogue: 0,0:02:09.32,0:02:14.75,1080P-shsm-75,,0,0,0,,我的意思是 我猜每个人在几分钟后都会死掉，
-Dialogue: 0,0:02:15.02,0:02:18.92,1080P-shsb-50,,0,0,0,,but as far as we can tell Apollo astronauts have not been dying young.
-Dialogue: 0,0:02:15.02,0:02:18.92,1080P-shsm-75,,0,0,0,,但据我们所知 阿波罗的宇航员并没有英年早逝
-Dialogue: 0,0:02:19.89,0:02:21.83,1080P-shsb-50,,0,0,0,,{\pos(869,128)}So thanks to spacecraft studies
-Dialogue: 0,0:02:19.89,0:02:21.83,1080P-shsm-75,,0,0,0,,{\pos(872,98)}所以多亏了航天器的研究
-Dialogue: 0,0:02:22.04,0:02:27.09,1080P-shsb-50,,0,0,0,,{\pos(925,96)}we actually have a pretty good idea of the shape of the belt and the radiation within them.
-Dialogue: 0,0:02:22.04,0:02:27.09,1080P-shsm-75,,0,0,0,,{\pos(880,168)}我们就能够对辐射带的形状和带内的辐射有一个很好的了解
-Dialogue: 0,0:02:27.49,0:02:30.85,1080P-shsb-50,,0,0,0,,{\pos(957,128)}Roughly speaking the inner belt is dominated by protons
-Dialogue: 0,0:02:27.49,0:02:30.85,1080P-shsm-75,,0,0,0,,{\pos(1010,69)}大致上来说 内带是由质子主导的
-Dialogue: 0,0:02:31.04,0:02:33.44,1080P-shsb-50,,0,0,0,,but has some population of electrons
-Dialogue: 0,0:02:31.04,0:02:33.44,1080P-shsm-75,,0,0,0,,但具有一定的电子数
-Dialogue: 0,0:02:33.44,0:02:38.32,1080P-shsb-50,,0,0,0,,and this inner bell is centered probably around 3000 kilometers above the Earth.
-Dialogue: 0,0:02:33.44,0:02:38.32,1080P-shsm-75,,0,0,0,,而内带的中心可能在地球上方约3000公里处
-Dialogue: 0,0:02:38.77,0:02:45.07,1080P-shsb-50,,0,0,0,,The outer belt is much wider. It consists of relativistic high energy electrons
-Dialogue: 0,0:02:38.77,0:02:45.07,1080P-shsm-75,,0,0,0,,外带则宽得多 它由相对论中提出的的高能电子组成
-Dialogue: 0,0:02:45.33,0:02:48.97,1080P-shsb-50,,0,0,0,,and it is centered around 19000 kilometers out.
-Dialogue: 0,0:02:45.33,0:02:48.97,1080P-shsm-75,,0,0,0,,并以19000公里外为中心
-Dialogue: 0,0:02:49.12,0:02:54.39,1080P-shsb-50,,0,0,0,,And between these belts there is actually a low intensity region which is called the slot region
-Dialogue: 0,0:02:49.12,0:02:54.39,1080P-shsm-75,,0,0,0,,而在这些辐射带之间 其实有一个低强度的区域 这就是所谓的槽形区域
-Dialogue: 0,0:02:54.89,0:02:59.90,1080P-shsb-50,,0,0,0,,and sometimes we actually see electrons getting pushed into this region by solar activity
-Dialogue: 0,0:02:54.89,0:02:59.90,1080P-shsm-75,,0,0,0,,有时我们会看到电子被太阳活动推向这个区域
-Dialogue: 0,0:02:59.93,0:03:01.08,1080P-shsb-50,,0,0,0,,but it's cleared out
-Dialogue: 0,0:02:59.93,0:03:01.08,1080P-shsm-75,,0,0,0,,但是被清除了
-Dialogue: 0,0:03:01.36,0:03:06.91,1080P-shsb-50,,0,0,0,,and the clearing process apparently involves low frequency radio waves at about one kilohertz
-Dialogue: 0,0:03:01.36,0:03:06.91,1080P-shsm-75,,0,0,0,,而清除过程显然涉及到约一千赫兹的低频无线电波
-Dialogue: 0,0:03:06.97,0:03:10.91,1080P-shsb-50,,0,0,0,,which interact with the particles and you push them out and they get lost.
-Dialogue: 0,0:03:06.97,0:03:10.91,1080P-shsm-75,,0,0,0,,与粒子相互作用 然后把它们推出去 它们就会消失
-Dialogue: 0,0:03:11.56,0:03:13.56,1080P-shsb-50,,0,0,0,,So anyway the protons in the inner belt,
-Dialogue: 0,0:03:11.56,0:03:13.56,1080P-shsm-75,,0,0,0,,所以无论如何内带的质子
-Dialogue: 0,0:03:13.92,0:03:18.80,1080P-shsb-50,,0,0,0,,those are believed to come from high energy cosmic rays that strike the Earth's atmosphere
-Dialogue: 0,0:03:13.92,0:03:18.80,1080P-shsm-75,,0,0,0,,被认为来自撞击地球大气层的高能宇宙射线
-Dialogue: 0,0:03:18.80,0:03:24.95,1080P-shsb-50,,0,0,0,,and they kick out protons and neutrons and the neutrons decay after traveling through the magnetic field
-Dialogue: 0,0:03:18.80,0:03:24.95,1080P-shsm-75,,0,0,0,,它们会踢出质子和中子 而中子在穿过磁场后就会衰变
-Dialogue: 0,0:03:25.00,0:03:29.00,1080P-shsb-50,,0,0,0,,and they end up getting trapped as protons and electrons.
-Dialogue: 0,0:03:25.00,0:03:29.00,1080P-shsm-75,,0,0,0,,它们最终以质子和电子的形式被捕获
-Dialogue: 0,0:03:29.73,0:03:31.63,1080P-shsb-50,,0,0,0,,The electrons in the outer belt,
-Dialogue: 0,0:03:29.73,0:03:31.63,1080P-shsm-75,,0,0,0,,外带的电子
-Dialogue: 0,0:03:32.01,0:03:37.14,1080P-shsb-50,,0,0,0,,those generally come from the solar wind as it interacts with the Earth's magnetic field.
-Dialogue: 0,0:03:32.01,0:03:37.14,1080P-shsm-75,,0,0,0,,这些一般来自太阳风 因为它与地球磁场相互作用
-Dialogue: 0,0:03:37.44,0:03:41.51,1080P-shsb-50,,0,0,0,,Some of those electrons get trapped and they create the outer belt
-Dialogue: 0,0:03:37.44,0:03:41.51,1080P-shsm-75,,0,0,0,,其中一些电子被困住 形成了外环带．
-Dialogue: 0,0:03:41.51,0:03:48.26,1080P-shsb-50,,0,0,0,,and some of course then they'll subsequently get accelerated to relativistic speeds by the magnetic fields.
-Dialogue: 0,0:03:41.51,0:03:48.26,1080P-shsm-75,,0,0,0,,当然也有一些会被磁场加速到相对论速度
-Dialogue: 0,0:03:48.92,0:03:52.74,1080P-shsb-50,,0,0,0,,So the outer belt's intensity varies a lot with the solar wind.
-Dialogue: 0,0:03:48.92,0:03:52.74,1080P-shsm-75,,0,0,0,,所以外带的强度会随着太阳风的变化而变化
-Dialogue: 0,0:03:53.12,0:03:57.28,1080P-shsb-50,,0,0,0,,Back in 2012 the Van Allen probes which were just launched
-Dialogue: 0,0:03:53.12,0:03:57.28,1080P-shsm-75,,0,0,0,,2012年刚发射的范·艾伦辐射带探测器
-Dialogue: 0,0:03:53.10,0:03:57.28,1080P-shsm-75,,0,0,0,,{\pos(986,138)}即“辐射带风暴探测器”
-Dialogue: 0,0:03:57.28,0:04:01.51,1080P-shsb-50,,0,0,0,,they observed a temporary third belt in between the inner and outer belts.
-Dialogue: 0,0:03:57.28,0:04:01.51,1080P-shsm-75,,0,0,0,,他们发现在内带和外带之间有一个暂时形成的第三带
-Dialogue: 0,0:04:01.51,0:04:05.50,1080P-shsb-50,,0,0,0,,And then a week later they observed a massive solar storm blast
-Dialogue: 0,0:04:01.51,0:04:05.50,1080P-shsm-75,,0,0,0,,一周后 他们观察到了一个巨大的太阳风暴爆炸事件
-Dialogue: 0,0:04:05.52,0:04:09.70,1080P-shsb-50,,0,0,0,,that blew away both those outer belts and just left the inner belt for a time.
-Dialogue: 0,0:04:05.52,0:04:09.70,1080P-shsm-75,,0,0,0,,（太阳风）吹走了这些外带 并离开了内带一段时间
-Dialogue: 0,0:04:10.87,0:04:14.19,1080P-shsb-50,,0,0,0,,So the belts are constrained by Earth's magnetic field
-Dialogue: 0,0:04:10.87,0:04:14.19,1080P-shsm-75,,0,0,0,,所以 这些辐射带受到地球磁场的限制．
-Dialogue: 0,0:04:14.23,0:04:18.47,1080P-shsb-50,,0,0,0,,and since the magnetic pole is not aligned with the rotation planes,
-Dialogue: 0,0:04:14.23,0:04:18.47,1080P-shsm-75,,0,0,0,,而由于磁极与旋转平面不一致
-Dialogue: 0,0:04:18.59,0:04:22.98,1080P-shsb-50,,0,0,0,,the belts aren't actually aligned with the Earth's geographical equator.
-Dialogue: 0,0:04:18.59,0:04:22.98,1080P-shsm-75,,0,0,0,,这些辐射带并不与地理上的地球赤道对其
-Dialogue: 0,0:04:23.20,0:04:27.73,1080P-shsb-50,,0,0,0,,The magnetic fields of the Earth create a sort of magnetic bottle
-Dialogue: 0,0:04:23.20,0:04:27.73,1080P-shsm-75,,0,0,0,,地球的磁场就形成了一种瓶子的形状
-Dialogue: 0,0:04:27.97,0:04:30.54,1080P-shsb-50,,0,0,0,,which stopped the charged particles from escaping.
-Dialogue: 0,0:04:27.97,0:04:30.54,1080P-shsm-75,,0,0,0,,阻止了带电粒子的逃逸
-Dialogue: 0,0:04:30.72,0:04:33.91,1080P-shsb-50,,0,0,0,,Because charged particles in a magnetic field,
-Dialogue: 0,0:04:30.72,0:04:33.91,1080P-shsm-75,,0,0,0,,因为带电粒子在磁场中
-Dialogue: 0,0:04:33.91,0:04:36.88,1080P-shsb-50,,0,0,0,,they move along the magnetic field lines.
-Dialogue: 0,0:04:33.91,0:04:36.88,1080P-shsm-75,,0,0,0,,它们沿着磁感线移动
-Dialogue: 0,0:04:36.92,0:04:39.61,1080P-shsb-50,,0,0,0,,They actually spiral along the magnetic field lines.
-Dialogue: 0,0:04:36.92,0:04:39.61,1080P-shsm-75,,0,0,0,,它们实际上是沿着磁感线旋转的
-Dialogue: 0,0:04:39.64,0:04:44.00,1080P-shsb-50,,0,0,0,,So if you imagine the field lines running from the north pole to the south pole,
-Dialogue: 0,0:04:39.64,0:04:44.00,1080P-shsm-75,,0,0,0,,所以 如果你想象磁感线 是从北极到南极
-Dialogue: 0,0:04:44.00,0:04:47.75,1080P-shsb-50,,0,0,0,,the particles travel up either towards one pole or the other.
-Dialogue: 0,0:04:44.00,0:04:47.75,1080P-shsm-75,,0,0,0,,那么粒子要么往上走 要么朝一极或另一极走
-Dialogue: 0,0:04:47.88,0:04:52.40,1080P-shsb-50,,0,0,0,,But as the magnetic field lines get pinched towards the pole
-Dialogue: 0,0:04:47.88,0:04:52.40,1080P-shsm-75,,0,0,0,,但是随着磁场线被夹向极点
-Dialogue: 0,0:04:52.40,0:04:57.81,1080P-shsb-50,,0,0,0,,that increases the magnetic field and so the particles they spiral
-Dialogue: 0,0:04:52.40,0:04:57.81,1080P-shsm-75,,0,0,0,,从而增加了磁场 因此粒子开始旋转
-Dialogue: 0,0:04:57.81,0:05:01.54,1080P-shsb-50,,0,0,0,,and then they get pushed backwards by this strengthening magnetic field
-Dialogue: 0,0:04:57.81,0:05:01.54,1080P-shsm-75,,0,0,0,,然后它们就会被这个强化后的磁场向后推去
-Dialogue: 0,0:05:01.58,0:05:06.21,1080P-shsb-50,,0,0,0,,so what happens is the particles spiral back and forth between each pole.
-Dialogue: 0,0:05:01.58,0:05:06.21,1080P-shsm-75,,0,0,0,,因此发生的是粒子在每个极点之间来回以螺旋旋转
-Dialogue: 0,0:05:08.16,0:05:13.19,1080P-shsb-50,,0,0,0,,Also because the particles are just following the geometry of the Earth's magnetic field,
-Dialogue: 0,0:05:08.16,0:05:13.19,1080P-shsm-75,,0,0,0,,同样是因为这些粒子刚好跟随地球磁场的几何形状
-Dialogue: 0,0:05:13.19,0:05:19.29,1080P-shsb-50,,0,0,0,,there are regions where the field brings that inner belt down closer to the surface of the Earth
-Dialogue: 0,0:05:13.19,0:05:19.29,1080P-shsm-75,,0,0,0,,有些地区的磁场将辐射带内带到了更接近地球表面的地方
-Dialogue: 0,0:05:19.31,0:05:22.72,1080P-shsb-50,,0,0,0,,and there's a well-known region called the South Atlantic anomaly
-Dialogue: 0,0:05:19.31,0:05:22.72,1080P-shsm-75,,0,0,0,,还有一个著名的区域叫南大西洋异常区
-Dialogue: 0,0:05:19.26,0:05:29.07,1080P-shsm-75,,0,0,0,,{\pos(933,610)}南大西洋辐射异常区是位于南美洲东侧南大西洋的地磁异常区域\N较相邻近区域的磁场强度弱\N约是同纬度正常区磁场强度的一半大小 故属负磁异常区 它是地球上面积最大的磁异常区区域\N涉及纬度范围10 N~60 S 经度范围20 E~100 W，区域中心大约在45 W 30 S处 因它处于巴西附近 所以又称它为巴西磁异常 \N由于南大西洋磁异常区是负磁异常区 使得空间高能带电粒子环境分布改变 尤其是内辐射带在该区的高度明显降低 其最低高度可降到200km左右 \N造成辐射带的南大西洋异常区 南大西洋异常区是引起低轨道航天器辐射危害严重的区域 是带电粒子诱发的异常或故障的高发区
-Dialogue: 0,0:05:23.12,0:05:28.91,1080P-shsb-50,,0,0,0,,where the inner edge of the inner Van Allen belt pushes down into low Earth orbit
-Dialogue: 0,0:05:23.12,0:05:28.91,1080P-shsm-75,,0,0,0,,即范·艾伦辐射带内带的内边缘向下推入近地球轨道的位置
-Dialogue: 0,0:05:28.96,0:05:33.08,1080P-shsb-50,,0,0,0,,and spacecraft in regular orbit have to be aware of this.
-Dialogue: 0,0:05:28.96,0:05:33.08,1080P-shsm-75,,0,0,0,,而常规轨道上的航天器都必须注意这一点
-Dialogue: 0,0:05:33.44,0:05:35.36,1080P-shsb-50,,0,0,0,,Because you'll sometimes get an error there
-Dialogue: 0,0:05:33.44,0:05:35.36,1080P-shsm-75,,0,0,0,,因为你有时会在那里出错
-Dialogue: 0,0:05:33.47,0:05:42.33,1080P-shsm-75,,0,0,0,,{\pos(909,226)}该区域中心 高能质子的通量是宇宙线背景的数百倍\N因此 南大西洋异常区是"神舟"等载人航天器轨道上最重要的辐射源
-Dialogue: 0,0:05:35.36,0:05:38.47,1080P-shsb-50,,0,0,0,,and if you look at mission control for the International Space Station,
-Dialogue: 0,0:05:35.36,0:05:38.47,1080P-shsm-75,,0,0,0,,如果你看一下国际空间站的任务控制
-Dialogue: 0,0:05:38.47,0:05:41.36,1080P-shsb-50,,0,0,0,,there's the big world map up there showing the current orbit.
-Dialogue: 0,0:05:38.47,0:05:41.36,1080P-shsm-75,,0,0,0,,上面有一张大的世界地图 显示了当前的轨道状态
-Dialogue: 0,0:05:41.73,0:05:45.92,1080P-shsb-50,,0,0,0,,And you will also see the South Atlantic anomaly is marked on that map
-Dialogue: 0,0:05:41.73,0:05:45.92,1080P-shsm-75,,0,0,0,,你还会看到南大西洋异常区在地图上有标记
-Dialogue: 0,0:05:46.02,0:05:48.91,1080P-shsb-50,,0,0,0,,because it is associated with things going wrong.
-Dialogue: 0,0:05:46.02,0:05:48.91,1080P-shsm-75,,0,0,0,,因为这与发生问题的原因有关
-Dialogue: 0,0:05:49.34,0:05:54.96,1080P-shsb-50,,0,0,0,,I mean for the astronauts when they go through that they'll get doses of hundreds of particles per second
-Dialogue: 0,0:05:49.34,0:05:54.96,1080P-shsm-75,,0,0,0,,我的意思是 对于宇航员来说 当他们经过那里时 他们会得到每秒约数百个粒子的数量
-Dialogue: 0,0:05:54.96,0:05:58.47,1080P-shsb-50,,0,0,0,,but it's not a great deal when you look at the overall dose.
-Dialogue: 0,0:05:54.96,0:05:58.47,1080P-shsm-75,,0,0,0,,但从总体剂量来看 这并不是什么大问题
-Dialogue: 0,0:05:58.47,0:06:04.49,1080P-shsb-50,,0,0,0,,The average dose of an astronaut on the space station is about 20 milli rads per day
-Dialogue: 0,0:05:58.47,0:06:04.49,1080P-shsm-75,,0,0,0,,宇航员在空间站的平均剂量是每天20毫拉德左右
-Dialogue: 0,0:06:05.42,0:06:07.62,1080P-shsb-50,,0,0,0,,but this of course varies a lot over time.
-Dialogue: 0,0:06:05.42,0:06:07.62,1080P-shsm-75,,0,0,0,,但这当然会随着时间的推移而变化很大
-Dialogue: 0,0:06:07.84,0:06:10.68,1080P-shsb-50,,0,0,0,,Either way the crew on the International Space Station
-Dialogue: 0,0:06:07.84,0:06:10.68,1080P-shsm-75,,0,0,0,,不管是哪种方式 国际空间站上的机组人员
-Dialogue: 0,0:06:10.70,0:06:15.66,1080P-shsb-50,,0,0,0,,are generally well within the limits set down by radiation safety rules.
-Dialogue: 0,0:06:10.70,0:06:15.66,1080P-shsm-75,,0,0,0,,一般都在辐射安全规则规定的范围内
-Dialogue: 0,0:06:16.40,0:06:18.24,1080P-shsb-50,,0,0,0,,And I'm actually going to stop right here
-Dialogue: 0,0:06:16.40,0:06:18.24,1080P-shsm-75,,0,0,0,,而我实际上要停止在这里
-Dialogue: 0,0:06:18.24,0:06:23.68,1080P-shsb-50,,0,0,0,,and say that modeling radiation exposure to people is actually a really complicated subject
-Dialogue: 0,0:06:18.24,0:06:23.68,1080P-shsm-75,,0,0,0,,并表示 对人的辐射照射进行建模 其实是一个非常复杂的课题
-Dialogue: 0,0:06:23.70,0:06:25.98,1080P-shsb-50,,0,0,0,,and I'm going to talk using rads.
-Dialogue: 0,0:06:23.70,0:06:25.98,1080P-shsm-75,,0,0,0,,而我要讲的是用拉德
-Dialogue: 0,0:06:26.47,0:06:33.00,1080P-shsb-50,,0,0,0,,But in reality the US uses rems and international organization use grays and sieverts
-Dialogue: 0,0:06:26.47,0:06:33.00,1080P-shsm-75,,0,0,0,,但实际上美国用的是rems 国际组织用的是grays和sieverts
-Dialogue: 0,0:06:33.03,0:06:36.33,1080P-shsb-50,,0,0,0,,and I'm going to use rads mostly because it's really easy to say
-Dialogue: 0,0:06:33.03,0:06:36.33,1080P-shsm-75,,0,0,0,,而我要用rads主要是因为它真的很容易去介绍
-Dialogue: 0,0:06:36.34,0:06:39.38,1080P-shsb-50,,0,0,0,,but just understand that it is an oversimplification
-Dialogue: 0,0:06:36.34,0:06:39.38,1080P-shsm-75,,0,0,0,,但要知道 这是一个过于简单化的问题
-Dialogue: 0,0:06:39.91,0:06:46.37,1080P-shsb-50,,0,0,0,,and you know more more judgment or data needs to be done if you're going to apply any of this realistically.
-Dialogue: 0,0:06:39.91,0:06:46.37,1080P-shsm-75,,0,0,0,,如果你要实际应用其中的任何内容 你就知道这需要更多的意见或数据。
-Dialogue: 0,0:06:46.66,0:06:50.87,1080P-shsb-50,,0,0,0,,So now to get on to just how dangerous those Van Allen belts are
-Dialogue: 0,0:06:46.66,0:06:50.87,1080P-shsm-75,,0,0,0,,所以 现在要开始讨论范·艾伦辐射带有多危险了
-Dialogue: 0,0:06:50.89,0:06:53.59,1080P-shsb-50,,0,0,0,,and to do this we're going to use computer models.
-Dialogue: 0,0:06:50.89,0:06:53.59,1080P-shsm-75,,0,0,0,,为此我们将使用仿真模型
-Dialogue: 0,0:06:53.59,0:06:57.97,1080P-shsb-50,,0,0,0,,and we're going to put a hypothetical spacecraft in the most dangerous region of the belt.
-Dialogue: 0,0:06:53.59,0:06:57.97,1080P-shsm-75,,0,0,0,,我们要把一个假设的航天器 放在辐射带最危险的地方
-Dialogue: 0,0:06:58.16,0:07:03.36,1080P-shsb-50,,0,0,0,,About 3000 kilometers above the equator, zero inclination orbit.
-Dialogue: 0,0:06:58.16,0:07:03.36,1080P-shsm-75,,0,0,0,,大约在赤道上方3000公里处 零度倾角轨道
-Dialogue: 0,0:07:03.64,0:07:06.52,1080P-shsb-50,,0,0,0,,This is close to the most intense regions of the inner belt.
-Dialogue: 0,0:07:03.64,0:07:06.52,1080P-shsm-75,,0,0,0,,这是接近内带辐射最强烈的区域
-Dialogue: 0,0:07:06.80,0:07:10.00,1080P-shsb-50,,0,0,0,,So we can use computer models of what's in the belt.
-Dialogue: 0,0:07:06.80,0:07:10.00,1080P-shsm-75,,0,0,0,,所以我们可以用仿真模型来分析带内的情况
-Dialogue: 0,0:07:10.00,0:07:17.19,1080P-shsb-50,,0,0,0,,The most popular one I think are called AP8 and aea that's p for protons and e for electrons.
-Dialogue: 0,0:07:10.00,0:07:17.19,1080P-shsm-75,,0,0,0,,我想最流行的是AP8和AEA... ...p代表质子 e代表电子
-Dialogue: 0,0:07:17.31,0:07:21.49,1080P-shsb-50,,0,0,0,,This model was developed in the 1970s based upon satellite data.
-Dialogue: 0,0:07:17.31,0:07:21.49,1080P-shsm-75,,0,0,0,,这个模型是在20世纪70年代根据卫星数据开发的
-Dialogue: 0,0:07:22.08,0:07:26.25,1080P-shsb-50,,0,0,0,,There are better models that exist including AP9 predictably.
-Dialogue: 0,0:07:22.08,0:07:26.25,1080P-shsm-75,,0,0,0,,当然有更好的模型存在 包括AP9可以预测
-Dialogue: 0,0:07:26.56,0:07:31.05,1080P-shsb-50,,0,0,0,,On top of that we need to account for the spacecraft orbit so we need to calculate orbits.
-Dialogue: 0,0:07:26.56,0:07:31.05,1080P-shsm-75,,0,0,0,,除此之外 我们还需要考虑到航天器的轨道 所以我们需要计算轨道
-Dialogue: 0,0:07:31.17,0:07:36.60,1080P-shsb-50,,0,0,0,,And we need to be able to convert the particles that we observe and their energies into a radiation dose
-Dialogue: 0,0:07:31.17,0:07:36.60,1080P-shsm-75,,0,0,0,,而且我们需要能够把我们观测到的粒子和它们的能量转换成辐射剂量
-Dialogue: 0,0:07:36.63,0:07:42.16,1080P-shsb-50,,0,0,0,,and that isn't trivial because you can't just take the number of particles and multiply them by a magic number,
-Dialogue: 0,0:07:36.63,0:07:42.16,1080P-shsm-75,,0,0,0,,而这并不是微不足道的 因为你不能只是采取粒子的数量 并乘以幻数
-Dialogue: 0,0:07:36.48,0:07:42.14,1080P-shsm-75,,0,0,0,,{\pos(917,128)}原子核是由质子和中子构成 在质子数和中子数为某个特定数值或两者均为这一数值时 \N原子核的稳定性就比平均值要大 这些数值被称为"幻数"
-Dialogue: 0,0:07:42.16,0:07:45.71,1080P-shsb-50,,0,0,0,,you have to account for the energies which are spread out
-Dialogue: 0,0:07:42.16,0:07:45.71,1080P-shsm-75,,0,0,0,,你必须要考虑到能量的分散性
-Dialogue: 0,0:07:45.71,0:07:48.40,1080P-shsb-50,,0,0,0,,and the different types of particles involved
-Dialogue: 0,0:07:45.71,0:07:48.40,1080P-shsm-75,,0,0,0,,以及所涉及的不同类型的微粒
-Dialogue: 0,0:07:49.72,0:07:53.36,1080P-shsb-50,,0,0,0,,and you also have to account for the effects of shielding, right.
-Dialogue: 0,0:07:49.72,0:07:53.36,1080P-shsm-75,,0,0,0,,而且你还得考虑到屏蔽的影响 对吧
-Dialogue: 0,0:07:53.36,0:07:55.59,1080P-shsb-50,,0,0,0,,If you're in the spacecraft, you have a hull.
-Dialogue: 0,0:07:53.36,0:07:55.59,1080P-shsm-75,,0,0,0,,如果你在飞船里 你有一个船体
-Dialogue: 0,0:07:55.61,0:08:01.42,1080P-shsb-50,,0,0,0,,And that isn't trivial because the effectiveness of a shield depends upon the type of particle
-Dialogue: 0,0:07:55.61,0:08:01.42,1080P-shsm-75,,0,0,0,,这可并非易事 因为防护罩的有效性取决于粒子的类型
-Dialogue: 0,0:08:01.59,0:08:03.91,1080P-shsb-50,,0,0,0,,and it depends upon the energy of the particle.
-Dialogue: 0,0:08:01.59,0:08:03.91,1080P-shsm-75,,0,0,0,,而且它取决于粒子的能量
-Dialogue: 0,0:08:03.91,0:08:10.16,1080P-shsb-50,,0,0,0,,And furthermore, the shielding itself can generate secondary radiation that also needs to be modeled.
-Dialogue: 0,0:08:03.91,0:08:10.16,1080P-shsm-75,,0,0,0,,此外 屏蔽本身也会产生二次辐射 也需要建模
-Dialogue: 0,0:08:10.30,0:08:16.00,1080P-shsb-50,,0,0,0,,So the good news is all these different systems are actually modeled and handled for you on websites
-Dialogue: 0,0:08:10.30,0:08:16.00,1080P-shsm-75,,0,0,0,,因此 好消息是 所有这些不同的系统实际上都是
-Dialogue: 0,0:08:16.00,0:08:18.53,1080P-shsb-50,,0,0,0,,that are designed for people that design space missions.
-Dialogue: 0,0:08:16.00,0:08:18.53,1080P-shsm-75,,0,0,0,,在为设计太空任务的人员设计的网站上来建模和处理的
-Dialogue: 0,0:08:18.54,0:08:26.58,1080P-shsb-50,,0,0,0,,And the one that I'm using is the European Space Agency's Space Environment Information System also known as SPENVIS
-Dialogue: 0,0:08:18.54,0:08:26.58,1080P-shsm-75,,0,0,0,,我正在使用的是欧洲航天局的空间环境信息系统 也称为SPENVIS
-Dialogue: 0,0:08:26.90,0:08:33.83,1080P-shsb-50,,0,0,0,,so if I place a hypothetical astronaut in a 3000 kilometer equatorial orbit with no radiation shielding
-Dialogue: 0,0:08:26.90,0:08:33.83,1080P-shsm-75,,0,0,0,,所以 如果我把一个假设的宇航员 在一个3000公里的赤道轨道上 没有辐射屏蔽
-Dialogue: 0,0:08:33.83,0:08:37.31,1080P-shsb-50,,0,0,0,,and then I model everything out, it tells me that
-Dialogue: 0,0:08:33.83,0:08:37.31,1080P-shsm-75,,0,0,0,,然后我把所有的东西都模拟出来 它告诉我说
-Dialogue: 0,0:08:37.32,0:08:43.00,1080P-shsb-50,,0,0,0,,poor astronaut would be exposed to a whopping 26000 rads per hour.
-Dialogue: 0,0:08:37.32,0:08:43.00,1080P-shsm-75,,0,0,0,,可怜的宇航员将暴露在高达26000拉德每小时的辐射下
-Dialogue: 0,0:08:43.30,0:08:46.00,1080P-shsb-50,,0,0,0,,And yes that would be fatal inside an hour
-Dialogue: 0,0:08:43.30,0:08:46.00,1080P-shsm-75,,0,0,0,,是的 这将是致命的一个小时内
-Dialogue: 0,0:08:46.00,0:08:51.31,1080P-shsb-50,,0,0,0,,but that is unshielded, no spacesuit so they're gonna die even faster just due to asphyxiation.
-Dialogue: 0,0:08:46.00,0:08:51.31,1080P-shsm-75,,0,0,0,,但那是没有防护的 没有宇航服 所以他们会死得更快 只是因为窒息
-Dialogue: 0,0:08:51.77,0:08:57.37,1080P-shsb-50,,0,0,0,,So if you add a few meters of Aluminium to represent the skin of a spacecraft,
-Dialogue: 0,0:08:51.77,0:08:57.37,1080P-shsm-75,,0,0,0,,所以 如果你加上几米长的铝来代表飞船的外壳 就可以了
-Dialogue: 0,0:08:57.79,0:09:00.42,1080P-shsb-50,,0,0,0,,then the dose drops significantly.
-Dialogue: 0,0:08:57.79,0:09:00.42,1080P-shsm-75,,0,0,0,,那么这时（辐射）剂量下降显著
-Dialogue: 0,0:09:00.54,0:09:05.45,1080P-shsb-50,,0,0,0,,Lots of the exposure actually comes from low energy protons that are really easy to stop.
-Dialogue: 0,0:09:00.54,0:09:05.45,1080P-shsm-75,,0,0,0,,很多的照射其实是来自于低能质子 真的很容易停止
-Dialogue: 0,0:09:05.76,0:09:11.18,1080P-shsb-50,,0,0,0,,For the Apollo program, the natural shielding of the walls of the spacecraft were calculated
-Dialogue: 0,0:09:05.76,0:09:11.18,1080P-shsm-75,,0,0,0,,对于阿波罗计划来说 飞船的壁的自然屏蔽是经过计算的
-Dialogue: 0,0:09:11.19,0:09:15.17,1080P-shsb-50,,0,0,0,,to be roughly equivalent to about seven millimeters of Aluminium.
-Dialogue: 0,0:09:11.19,0:09:15.17,1080P-shsm-75,,0,0,0,,大约相当于7毫米的铝
-Dialogue: 0,0:09:15.69,0:09:21.50,1080P-shsb-50,,0,0,0,,And I know this because for lunar orbiter one they carried a radiation sensor to the lunar orbit
-Dialogue: 0,0:09:15.69,0:09:21.50,1080P-shsm-75,,0,0,0,,我知道这一点是因为在月球轨道器1号上 他们携带了辐射传感器到月球轨道上
-Dialogue: 0,0:09:21.76,0:09:23.12,1080P-shsb-50,,0,0,0,,and it had two windows on it.
-Dialogue: 0,0:09:21.76,0:09:23.12,1080P-shsm-75,,0,0,0,,它有两个同样的仪器
-Dialogue: 0,0:09:23.12,0:09:28.50,1080P-shsb-50,,0,0,0,,One was seven millimeters thick to represent what the astronauts would feel inside the spacecraft
-Dialogue: 0,0:09:23.12,0:09:28.50,1080P-shsm-75,,0,0,0,,其中一个有七毫米厚 代表宇航员在飞船里的感觉
-Dialogue: 0,0:09:28.81,0:09:34.14,1080P-shsb-50,,0,0,0,,and the other was one millimeter to measure the effects for astronauts on EVA.
-Dialogue: 0,0:09:28.81,0:09:34.14,1080P-shsm-75,,0,0,0,,另一个是一毫米 用来测量对宇航员在EVA（出舱活动）上的影响
-Dialogue: 0,0:09:34.56,0:09:42.24,1080P-shsb-50,,0,0,0,,So if you add seven millimeters of shielding, the dose drops from 26000 down to about 20 rads per hour
-Dialogue: 0,0:09:34.56,0:09:42.24,1080P-shsm-75,,0,0,0,,所以 如果加上7毫米的屏蔽 剂量就会从26000拉德每小时下降到20拉德每小时左右
-Dialogue: 0,0:09:42.24,0:09:47.02,1080P-shsb-50,,0,0,0,,and that's obviously a huge improvement but it will still kill you in a few days
-Dialogue: 0,0:09:42.24,0:09:47.02,1080P-shsm-75,,0,0,0,,这显然是一个巨大的进步 但它仍然会在几天之内杀了你
-Dialogue: 0,0:09:47.03,0:09:53.48,1080P-shsb-50,,0,0,0,,if you were stupid enough to carefully maneuver your 1960s Apollo spacecraft into the middle of the radiation belt
-Dialogue: 0,0:09:47.03,0:09:53.48,1080P-shsm-75,,0,0,0,,如果你蠢到小心翼翼地操纵你的20世纪60年代的阿波罗飞船进入辐射带的中央
-Dialogue: 0,0:09:53.50,0:09:55.15,1080P-shsb-50,,0,0,0,,and then sit there doing nothing.
-Dialogue: 0,0:09:53.50,0:09:55.15,1080P-shsm-75,,0,0,0,,然后坐在那里什么都不做
-Dialogue: 0,0:09:55.69,0:09:57.79,1080P-shsb-50,,0,0,0,,I guess you could sit there and watch chernobyl.
-Dialogue: 0,0:09:55.69,0:09:57.79,1080P-shsm-75,,0,0,0,,我想你可以当做坐在那里看切尔诺贝利
-Dialogue: 0,0:09:58.58,0:10:02.32,1080P-shsb-50,,0,0,0,,So let's come back to those conspiracy minded people
-Dialogue: 0,0:09:58.58,0:10:02.32,1080P-shsm-75,,0,0,0,,所以 让我们回到那些提出阴谋论的人
-Dialogue: 0,0:10:02.34,0:10:06.74,1080P-shsb-50,,0,0,0,,who claim that this level of radiation would make it impossible to go to the moon.
-Dialogue: 0,0:10:02.34,0:10:06.74,1080P-shsm-75,,0,0,0,,声称这种程度的辐射 会使人们不可能到达月球
-Dialogue: 0,0:10:07.33,0:10:07.94,1080P-shsb-50,,0,0,0,,Let's humor them.
-Dialogue: 0,0:10:07.33,0:10:07.94,1080P-shsm-75,,0,0,0,,让我们找点乐子吧
-Dialogue: 0,0:10:08.01,0:10:13.68,1080P-shsb-50,,0,0,0,,Let's simulate the orbit of a spacecraft headed from low Earth orbit out to the moon.
-Dialogue: 0,0:10:08.01,0:10:13.68,1080P-shsm-75,,0,0,0,,我们来模拟一个航天器的轨道 从低地球轨道驶向月球
-Dialogue: 0,0:10:13.92,0:10:19.40,1080P-shsb-50,,0,0,0,,This takes a few hours to cross all of the belts and beyond the outermost belts.
-Dialogue: 0,0:10:13.92,0:10:19.40,1080P-shsm-75,,0,0,0,,这需要几个小时的时间来穿越所有的辐射带 并超越最外层的辐射带
-Dialogue: 0,0:10:19.68,0:10:26.08,1080P-shsb-50,,0,0,0,,And in those few hours, again an unprotected human would receive about a million rads.
-Dialogue: 0,0:10:19.68,0:10:26.08,1080P-shsm-75,,0,0,0,,在这几个小时里 同样 一个没有保护的人 将会接受大约一百万拉德
-Dialogue: 0,0:10:26.69,0:10:31.71,1080P-shsb-50,,0,0,0,,But again this is totally unprotected if you add shielding it makes a huge difference.
-Dialogue: 0,0:10:26.69,0:10:31.71,1080P-shsm-75,,0,0,0,,但这又是完全无保护的 如果你加上屏蔽 就会产生巨大的差别
-Dialogue: 0,0:10:32.02,0:10:36.24,1080P-shsb-50,,0,0,0,,It brings the doors down from 1 million to 3.6
-Dialogue: 0,0:10:32.02,0:10:36.24,1080P-shsm-75,,0,0,0,,它使门从100万降到3. 6
-Dialogue: 0,0:10:36.48,0:10:43.94,1080P-shsb-50,,0,0,0,,which is actually pretty great given that it takes about 50 rads to start having visible short-term effects.
-Dialogue: 0,0:10:36.48,0:10:43.94,1080P-shsm-75,,0,0,0,,考虑到大约需要50拉德才能开始产生短期可见的效果 所以这实际上非常棒
-Dialogue: 0,0:10:44.32,0:10:47.68,1080P-shsb-50,,0,0,0,,It's even below the annual limits imposed on nuclear workers
-Dialogue: 0,0:10:44.32,0:10:47.68,1080P-shsm-75,,0,0,0,,甚至低于核电工人的辐射年限
-Dialogue: 0,0:10:47.74,0:10:53.67,1080P-shsb-50,,0,0,0,,but to be fair we do have to double that because the crew will also need to come home via the same route.
-Dialogue: 0,0:10:47.74,0:10:53.67,1080P-shsm-75,,0,0,0,,但为了公平起见 我们必须把这个数字翻倍 因为机组人员也需要通过同样的路线回家
-Dialogue: 0,0:10:55.51,0:11:01.44,1080P-shsb-50,,0,0,0,,And you know these numbers while mathematically correct according to the models, they're not accurate
-Dialogue: 0,0:10:55.51,0:11:01.44,1080P-shsm-75,,0,0,0,,你知道这些数字虽然根据模型在数学上是正确的 但它们并不准确
-Dialogue: 0,0:11:01.44,0:11:07.62,1080P-shsb-50,,0,0,0,,because I've been acting like Khan from Star Trek II thinking two-dimensionally.
-Dialogue: 0,0:11:01.44,0:11:07.62,1080P-shsm-75,,0,0,0,,因为我的行为就像《星际迷航II》里的Khan一样 都是二维的思考
-Dialogue: 0,0:11:08.00,0:11:12.72,1080P-shsb-50,,0,0,0,,The orbit I used was in the equatorial plane just like in Kerbal Space Program.
-Dialogue: 0,0:11:08.00,0:11:12.72,1080P-shsm-75,,0,0,0,,我使用的轨道是在赤道平面上 就像在KSP中一样
-Dialogue: 0,0:11:08.16,0:11:12.75,1080P-shsm-75,,0,0,0,,{\pos(917,146)}KSP中的KSC默认在坎星赤道上
-Dialogue: 0,0:11:12.77,0:11:19.25,1080P-shsb-50,,0,0,0,,It was close to the heart of the belts but the radiation gets weaker as you move away from the equator.
-Dialogue: 0,0:11:12.77,0:11:19.25,1080P-shsm-75,,0,0,0,,它靠近辐射带带的中心 但是当你（轨道倾角）离开赤道时 辐射会减弱。
-Dialogue: 0,0:11:19.64,0:11:25.14,1080P-shsb-50,,0,0,0,,And most lunar transfer orbits will actually pass above or below the most dangerous regions.
-Dialogue: 0,0:11:19.64,0:11:25.14,1080P-shsm-75,,0,0,0,,而大多数月球转移轨道实际上会经过最危险区域的上方或下方
-Dialogue: 0,0:11:25.76,0:11:30.46,1080P-shsb-50,,0,0,0,,Just taking that simple orbit and adding an inclination of about 35 degrees
-Dialogue: 0,0:11:25.76,0:11:30.46,1080P-shsm-75,,0,0,0,,只要把这个简单的轨道加上35度左右的倾角就可以了
-Dialogue: 0,0:11:30.49,0:11:32.77,1080P-shsb-50,,0,0,0,,which many of the Apollo spacecraft did.
-Dialogue: 0,0:11:30.49,0:11:32.77,1080P-shsm-75,,0,0,0,,阿波罗任务基本都是这样做的
-Dialogue: 0,0:11:33.48,0:11:38.94,1080P-shsb-50,,0,0,0,,That drops the dose by a factor of 20 down to 0.18 rads
-Dialogue: 0,0:11:33.48,0:11:38.94,1080P-shsm-75,,0,0,0,,这使剂量下降了20倍 降到了0.18拉德
-Dialogue: 0,0:11:38.94,0:11:45.44,1080P-shsb-50,,0,0,0,,and I'm just doing the barest minimal math to find an orbit which evades the core of the belt.
-Dialogue: 0,0:11:38.94,0:11:45.44,1080P-shsm-75,,0,0,0,,我只是在做最基本的计算 来找到一个能避开辐射带核心的轨道
-Dialogue: 0,0:11:45.94,0:11:49.76,1080P-shsb-50,,0,0,0,,When NASA was sending the Apollo spacecraft to the moon, they had this in mind,
-Dialogue: 0,0:11:45.94,0:11:49.76,1080P-shsm-75,,0,0,0,,当NASA把阿波罗飞船送上月球时 他们就想到了这一点
-Dialogue: 0,0:11:49.77,0:11:54.51,1080P-shsb-50,,0,0,0,,and they made plans to make sure their spacecraft would avoid this.
-Dialogue: 0,0:11:49.77,0:11:54.51,1080P-shsm-75,,0,0,0,,他们制定了计划以确保他们的航天器能避开这个问题
-Dialogue: 0,0:11:55.42,0:12:02.49,1080P-shsb-50,,0,0,0,,So look, for all the intense radiation in the belts, there's actually no problem crossing them.
-Dialogue: 0,0:11:55.42,0:12:02.49,1080P-shsm-75,,0,0,0,,所以你看 尽管辐射带中的辐射很强 但实际上穿越它们是没有问题的
-Dialogue: 0,0:12:02.66,0:12:06.32,1080P-shsb-50,,0,0,0,,You just have to spend as little time as possible in those belts.
-Dialogue: 0,0:12:02.66,0:12:06.32,1080P-shsm-75,,0,0,0,,你只需要尽可能少地在这些辐射带里呆上一段时间
-Dialogue: 0,0:12:06.50,0:12:10.59,1080P-shsb-50,,0,0,0,,And choose trajectories that avoid any of the dangerous parts.
-Dialogue: 0,0:12:06.50,0:12:10.59,1080P-shsm-75,,0,0,0,,并选择能避开任何危险区域的轨道
-Dialogue: 0,0:12:11.12,0:12:16.27,1080P-shsb-50,,0,0,0,,The real truth though, is the radiation danger when going to the moon and further afield
-Dialogue: 0,0:12:11.12,0:12:16.27,1080P-shsm-75,,0,0,0,,不过 真正的真相是 去月球和更远的地方时 辐射的危险性很大
-Dialogue: 0,0:12:16.67,0:12:20.03,1080P-shsb-50,,0,0,0,,is from sources other than the Van Allen belts.
-Dialogue: 0,0:12:16.67,0:12:20.03,1080P-shsm-75,,0,0,0,,是来自范·艾伦辐射带以外的辐射
-Dialogue: 0,0:12:20.37,0:12:23.96,1080P-shsb-50,,0,0,0,,Once you move outside the magnetic field of the Earth,
-Dialogue: 0,0:12:20.37,0:12:23.96,1080P-shsm-75,,0,0,0,,一旦你离开了地球的磁场
-Dialogue: 0,0:12:24.16,0:12:27.59,1080P-shsb-50,,0,0,0,,you're exposed to high energy photons from the sun.
-Dialogue: 0,0:12:24.16,0:12:27.59,1080P-shsm-75,,0,0,0,,你暴露在来自太阳的高能量质子下
-Dialogue: 0,0:12:27.93,0:12:32.97,1080P-shsb-50,,0,0,0,,{\pos(893,133)}And most of the time this proton flux is low enough to not be concerning
-Dialogue: 0,0:12:27.93,0:12:32.97,1080P-shsm-75,,0,0,0,,{\pos(912,189)}而大多数时候 这种质子通量是足够低的 不值得关注
-Dialogue: 0,0:12:33.23,0:12:37.44,1080P-shsb-50,,0,0,0,,but the sun is active and it can have flare-ups and solar storms
-Dialogue: 0,0:12:33.23,0:12:37.44,1080P-shsm-75,,0,0,0,,但太阳是活跃的 它可以有耀斑和太阳风暴
-Dialogue: 0,0:12:37.62,0:12:42.35,1080P-shsb-50,,0,0,0,,which can emit enough radiation in a short period of time to be really dangerous.
-Dialogue: 0,0:12:37.62,0:12:42.35,1080P-shsm-75,,0,0,0,,它可以在短时间内发出足够的辐射 辣才是真正的危险
-Dialogue: 0,0:12:43.00,0:12:48.61,1080P-shsb-50,,0,0,0,,For example in August of 1972, a powerful solar storm occurred
-Dialogue: 0,0:12:43.00,0:12:48.61,1080P-shsm-75,,0,0,0,,例如在1972年8月 一场强大的太阳风暴发生了
-Dialogue: 0,0:12:48.78,0:12:55.13,1080P-shsb-50,,0,0,0,,and NASA was really fortunate that this occurred between Apollo 16 and Apollo 17
-Dialogue: 0,0:12:48.78,0:12:55.13,1080P-shsm-75,,0,0,0,,NASA真的很幸运 因为这发生在阿波罗16号任务和阿波罗17号任务之间
-Dialogue: 0,0:12:55.37,0:12:57.87,1080P-shsb-50,,0,0,0,,rather than during any of those missions.
-Dialogue: 0,0:12:55.37,0:12:57.87,1080P-shsm-75,,0,0,0,,而不是在任何这些任务期间
-Dialogue: 0,0:12:58.57,0:13:01.77,1080P-shsb-50,,0,0,0,,If there had been a mission in progress during this flare-up,
-Dialogue: 0,0:12:58.57,0:13:01.77,1080P-shsm-75,,0,0,0,,如果在这次事件中 有一个任务正在进行
-Dialogue: 0,0:13:02.03,0:13:06.79,1080P-shsb-50,,0,0,0,,the crew in their spacecraft would likely have had some symptoms of radiation sickness.
-Dialogue: 0,0:13:02.03,0:13:06.79,1080P-shsm-75,,0,0,0,,太空船中的船员很可能会有一些辐射病的症状
-Dialogue: 0,0:13:07.12,0:13:11.51,1080P-shsb-50,,0,0,0,,But even worse if it happened during an EVA on the surface of the moon,
-Dialogue: 0,0:13:07.12,0:13:11.51,1080P-shsm-75,,0,0,0,,但如果是在月球表面的EVA期间发生的 那就更糟糕了
-Dialogue: 0,0:13:11.67,0:13:14.15,1080P-shsb-50,,0,0,0,,the suits wouldn't offer very much protection
-Dialogue: 0,0:13:11.67,0:13:14.15,1080P-shsm-75,,0,0,0,,衣不蔽体
-Dialogue: 0,0:13:14.59,0:13:20.48,1080P-shsb-50,,0,0,0,,and it's highly likely that that dose from that event could be fatal to an astronaut.
-Dialogue: 0,0:13:14.59,0:13:20.48,1080P-shsm-75,,0,0,0,,很有可能这次辐射剂量对宇航员来说是致命的
-Dialogue: 0,0:13:21.25,0:13:26.19,1080P-shsb-50,,0,0,0,,Now nearly 50 years on, we understand the dynamics of the sun a whole lot better
-Dialogue: 0,0:13:21.25,0:13:26.19,1080P-shsm-75,,0,0,0,,现在将近50年过去了 我们对太阳的动力学有了更深的了解
-Dialogue: 0,0:13:26.24,0:13:31.04,1080P-shsb-50,,0,0,0,,we have superior instruments for monitoring the solar weather and the solar atmosphere
-Dialogue: 0,0:13:26.24,0:13:31.04,1080P-shsm-75,,0,0,0,,我们拥有监测太阳天气和太阳大气的高级仪器
-Dialogue: 0,0:13:31.18,0:13:38.73,1080P-shsb-50,,0,0,0,,but still predicting an energetic event like this days ahead is still beyond what we have.
-Dialogue: 0,0:13:31.18,0:13:38.73,1080P-shsm-75,,0,0,0,,但还是预测未来几天这样的能量事件 还是超出了我们的能力范围
-Dialogue: 0,0:13:39.74,0:13:43.56,1080P-shsb-50,,0,0,0,,And so it really does come down to luck for going out to the moon.
-Dialogue: 0,0:13:39.74,0:13:43.56,1080P-shsm-75,,0,0,0,,所以说 去月球真的是要靠运气的
-Dialogue: 0,0:13:43.92,0:13:45.77,1080P-shsb-50,,0,0,0,,Now for even longer missions,
-Dialogue: 0,0:13:43.92,0:13:45.77,1080P-shsm-75,,0,0,0,,现在对于更长时间的任务
-Dialogue: 0,0:13:46.05,0:13:52.18,1080P-shsb-50,,0,0,0,,there's actually another problem due to constant low level bombardment from cosmic rays
-Dialogue: 0,0:13:46.05,0:13:52.18,1080P-shsm-75,,0,0,0,,其实还有一个问题 就是由于宇宙射线的不断低空轰炸造成的
-Dialogue: 0,0:13:52.72,0:13:55.82,1080P-shsb-50,,0,0,0,,and these come out from outside our solar system.
-Dialogue: 0,0:13:52.72,0:13:55.82,1080P-shsm-75,,0,0,0,,这些东西来自太阳系以外的地方
-Dialogue: 0,0:13:55.89,0:13:57.82,1080P-shsb-50,,0,0,0,,In fact they come from outside the galaxy.
-Dialogue: 0,0:13:55.89,0:13:57.82,1080P-shsm-75,,0,0,0,,事实上 它们来自于银河系之外
-Dialogue: 0,0:13:58.24,0:14:01.91,1080P-shsb-50,,0,0,0,,It's not really a problem on lunar missions because those are sort of short enough
-Dialogue: 0,0:13:58.24,0:14:01.91,1080P-shsm-75,,0,0,0,,这在月球任务中不是问题 因为月球任务的时间很短
-Dialogue: 0,0:14:01.92,0:14:05.53,1080P-shsb-50,,0,0,0,,but if you're traveling to Mars you're spending years in space
-Dialogue: 0,0:14:01.92,0:14:05.53,1080P-shsm-75,,0,0,0,,但如果你要去火星 你就得在太空中呆上几年了
-Dialogue: 0,0:14:06.11,0:14:12.85,1080P-shsb-50,,0,0,0,,and that constant background of those cosmic rays is gonna cause problems over time.
-Dialogue: 0,0:14:06.11,0:14:12.85,1080P-shsm-75,,0,0,0,,宇宙射线的持续背景会随着时间的推移而产生问题
-Dialogue: 0,0:14:13.04,0:14:16.39,1080P-shsb-50,,0,0,0,,So for really long missions the spacecraft need to be designed
-Dialogue: 0,0:14:13.04,0:14:16.39,1080P-shsm-75,,0,0,0,,所以对于真正的长期任务来说 航天器需要被设计成可以遮挡辐射的
-Dialogue: 0,0:14:16.39,0:14:20.14,1080P-shsb-50,,0,0,0,,so that they can handle this low background flux of cosmic rays
-Dialogue: 0,0:14:16.39,0:14:20.14,1080P-shsm-75,,0,0,0,,这样以便它们能够处理这种低背景宇宙射线通量
-Dialogue: 0,0:14:20.48,0:14:26.21,1080P-shsb-50,,0,0,0,,and have some way to defend against a very powerful solar event
-Dialogue: 0,0:14:20.48,0:14:26.21,1080P-shsm-75,,0,0,0,,并有一些方法来防御一个非常强大的太阳事件
-Dialogue: 0,0:14:26.59,0:14:32.41,1080P-shsb-50,,0,0,0,,and so looking forwards I hope that when Artemis starts sending crew to the moon in a few years time.
-Dialogue: 0,0:14:26.59,0:14:32.41,1080P-shsm-75,,0,0,0,,因此 展望未来 我希望几年后 当阿尔忒弥斯任务开始向月球派遣船员时
-Dialogue: 0,0:14:32.72,0:14:34.83,1080P-shsb-50,,0,0,0,,I'm hoping that the people behind it,
-Dialogue: 0,0:14:32.72,0:14:34.83,1080P-shsm-75,,0,0,0,,我希望背后的人
-Dialogue: 0,0:14:34.93,0:14:40.02,1080P-shsb-50,,0,0,0,,the mission designers and the engineers have plans to deal with all these effects.
-Dialogue: 0,0:14:34.93,0:14:40.02,1080P-shsm-75,,0,0,0,,任务设计者和工程师都有计划来处理所有这些影响
-Dialogue: 0,0:14:40.43,0:14:42.96,1080P-shsb-50,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:14:40.43,0:14:42.96,1080P-shsm-75,,0,0,0,,我是Scott Manley 飞行安全
-Dialogue: 0,0:14:43.66,0:14:58.93,1080P-shsb-5s,,0,0,0,,[Music]
-Dialogue: 0,0:14:43.66,0:14:58.93,1080P-shsm-75,,0,0,0,,[音乐]
-Dialogue: 0,0:14:58.93,0:15:00.93,1080P-shsm-75,,0,0,0,,
+Dialogue: 0,0:00:01.00,0:00:06.00,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}原作者名：Scott Manley\N视频来源：youtu.be/h9YN50xXFJY\N原视频发布日期：20200725\N字幕翻译：长五遥三真没鸽\N校对：旋火 \N（在视频上部出现的注释均为译者注）
+Comment: 0,0:00:04.00,0:00:05.35,1080P-shsb-50,,0,0,0,,{\blur4}英文字幕
+Dialogue: 0,0:00:04.00,0:00:05.35,1080P-shsb-50,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Comment: 0,0:00:04.00,0:00:05.35,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}中文字幕
+Dialogue: 0,0:00:04.00,0:00:05.35,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}大家吼 我是Scott Manley
+Dialogue: 0,0:00:05.35,0:00:09.45,1080P-shsb-50,,0,0,0,,{\blur4}And today I want to talk to you about Van Allen belt
+Dialogue: 0,0:00:05.35,0:00:09.45,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}今天我想和你来谈谈范·艾伦辐射带的事
+Dialogue: 0,0:00:09.45,0:00:12.44,1080P-shsb-50,,0,0,0,,{\blur4}and mor{\b0}e specifically how dangerous they are.
+Dialogue: 0,0:00:09.45,0:00:12.44,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}更具体地说是 它们有多么危险
+Dialogue: 0,0:00:12.97,0:00:17.52,1080P-shsb-50,,0,0,0,,{\blur4}Now the Van Allen belts were one of the first big discoveries of space science.
+Dialogue: 0,0:00:12.97,0:00:17.52,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}范·艾伦辐射带是宇宙科学最早的大发现之一
+Dialogue: 0,0:00:17.60,0:00:22.08,1080P-shsb-50,,0,0,0,,{\blur4}The radiation belts trapped by the Earth's magnetic field were discovered by data
+Dialogue: 0,0:00:17.60,0:00:22.08,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}被地球磁场捕获的辐射带是由
+Dialogue: 0,0:00:22.08,0:00:27.19,1080P-shsb-50,,0,0,0,,{\blur4}from the very first satellite launched by the US explorer one
+Dialogue: 0,0:00:22.08,0:00:27.19,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}美国探索者一号发射的第一颗卫星中的数据发现的
+Dialogue: 0,0:00:27.19,0:00:30.16,1080P-shsb-50,,0,0,0,,{\blur4}and this satellite was launched in 1958.
+Dialogue: 0,0:00:27.19,0:00:30.16,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而这颗卫星是在1958年发射的
+Dialogue: 0,0:00:30.16,0:00:34.23,1080P-shsb-50,,0,0,0,,{\blur4}It contained a Geiger counter which was expected to see cosmic rays
+Dialogue: 0,0:00:30.16,0:00:34.23,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它装了一个盖革计数器 预计可以发现宇宙射线
+Dialogue: 0,0:00:34.23,0:00:37.68,1080P-shsb-50,,0,0,0,,{\blur4}and sometimes it would report about 30 counts per second
+Dialogue: 0,0:00:34.23,0:00:37.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}有时会每秒报告约30个计数
+Dialogue: 0,0:00:37.68,0:00:40.64,1080P-shsb-50,,0,0,0,,{\blur4}but at other times the rate would show a zero
+Dialogue: 0,0:00:37.68,0:00:40.64,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但在其他时候 计数速率会显示为零
+Dialogue: 0,0:00:40.64,0:00:45.03,1080P-shsb-50,,0,0,0,,{\blur4}and this perplexed the scientists including a certain James Van Allen.
+Dialogue: 0,0:00:40.64,0:00:45.03,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这使得包括詹姆斯·范·艾伦在内的科学家感到困惑
+Dialogue: 0,0:00:45.76,0:00:50.72,1080P-shsb-50,,0,0,0,,{\blur4}The reason behind this was because due to limitations in the early guidance technology
+Dialogue: 0,0:00:45.76,0:00:50.72,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这背后的原因是由于早期制导技术的局限性
+Dialogue: 0,0:00:50.91,0:00:56.41,1080P-shsb-50,,0,0,0,,{\blur4}the spacecraft was in an elliptical orbit with an apogee above 2500 kilometers.
+Dialogue: 0,0:00:50.91,0:00:56.41,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这家伙它处在远地点为2500公里的椭圆轨道上
+Dialogue: 0,0:00:56.48,0:01:00.23,1080P-shsb-50,,0,0,0,,{\blur4}They figured out that when the zero counts happened
+Dialogue: 0,0:00:56.48,0:01:00.23,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}他们发现 当计数器显示为零时
+Dialogue: 0,0:01:00.23,0:01:04.23,1080P-shsb-50,,0,0,0,,{\blur4}when the spacecraft was high up above 2000 kilometers
+Dialogue: 0,0:01:00.23,0:01:04.23,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}航天器正在2000公里以上的高空飞行
+Dialogue: 0,0:01:04.23,0:01:08.68,1080P-shsb-50,,0,0,0,,{\blur4}and eventually a later mission explorer 3 would show that this region
+Dialogue: 0,0:01:04.23,0:01:08.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}最终 后来的探索者3号任务显示 这个区域
+Dialogue: 0,0:01:08.68,0:01:14.57,1080P-shsb-50,,0,0,0,,{\blur4}the count rate was simply so high that it was saturating the detector on explorer 1.
+Dialogue: 0,0:01:08.68,0:01:14.57,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}计数速率实在是太高了 以至于让探索者1号的探测器饱和了
+Dialogue: 0,0:01:15.81,0:01:22.62,1080P-shsb-50,,0,0,0,,{\blur4}The second outer radiation belt was discovered at the end of 1958 by pioneer 3.
+Dialogue: 0,0:01:15.81,0:01:22.62,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}1958年底 先驱者3发现了第二条外部辐射带
+Dialogue: 0,0:01:23.35,0:01:29.72,1080P-shsb-50,,0,0,0,,{\blur4}This was intended to fly to the moon but a malfunction in the Juno II rocket left without the needed velocity.
+Dialogue: 0,0:01:23.35,0:01:29.72,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它的目标是飞向月球 但朱诺二号火箭出现故障 没有达到所需的速度
+Dialogue: 0,0:01:29.98,0:01:36.18,1080P-shsb-50,,0,0,0,,{\blur4}It reached an altitude of about a hundred thousand kilometers before falling back to Earth 38 hours later
+Dialogue: 0,0:01:29.98,0:01:36.18,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它到达了大约10万公里的高度 38小时后落回地球
+Dialogue: 0,0:01:36.32,0:01:40.80,1080P-shsb-50,,0,0,0,,{\blur4}but it was the first spacecraft to travel so far with a Geiger counter
+Dialogue: 0,0:01:36.32,0:01:40.80,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但它是第一个带着盖革计数器飞到这么远的航天器
+Dialogue: 0,0:01:40.82,0:01:46.84,1080P-shsb-50,,0,0,0,,{\blur4}and it detected the rise and fall of the particle counts as it crossed through those outer belts.
+Dialogue: 0,0:01:40.82,0:01:46.84,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}并在穿过这些外（辐射）带时探测到粒子数量的起伏
+Dialogue: 0,0:01:47.36,0:01:52.09,1080P-shsb-50,,0,0,0,,{\blur4}Ultimately it became clear that this radiation belt was potentially hazardous
+Dialogue: 0,0:01:47.36,0:01:52.09,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}最终 很明显 这个辐射带具有潜在的危险性
+Dialogue: 0,0:01:52.44,0:01:56.83,1080P-shsb-50,,0,0,0,,{\blur4}both to spacecraft and to humans who might travel beyond low Earth orbit.
+Dialogue: 0,0:01:52.44,0:01:56.83,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}对航天器和可能飞越近地轨道的人类都是如此
+Dialogue: 0,0:01:57.24,0:01:58.99,1080P-shsb-50,,0,0,0,,{\blur4}But just how dangerous are they?
+Dialogue: 0,0:01:57.24,0:01:58.99,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但它们到底有多危险呢？
+Dialogue: 0,0:01:59.28,0:02:03.04,1080P-shsb-50,,0,0,0,,{\blur4}Obviously the crews of the Apollo missions were able to complete their missions
+Dialogue: 0,0:01:59.28,0:02:03.04,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}显然 阿波罗任务的乘员能够完成他们的任务
+Dialogue: 0,0:02:03.04,0:02:06.34,1080P-shsb-50,,0,0,0,,{\blur4}even although certain conspiracy-minded people claim
+Dialogue: 0,0:02:03.04,0:02:06.34,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}尽管某些阴谋论者声称
+Dialogue: 0,0:02:06.38,0:02:09.28,1080P-shsb-50,,0,0,0,,{\blur4}the belts are so deadly that they would kill a human in mission minutes.
+Dialogue: 0,0:02:06.38,0:02:09.28,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这个辐射带是如此致命 以至于在进行任务的几分钟内就会杀死一个人
+Dialogue: 0,0:02:09.32,0:02:14.75,1080P-shsb-50,,0,0,0,,{\blur4}I mean I guess everybody dies after minutes, a very large number of minutes
+Dialogue: 0,0:02:09.32,0:02:14.75,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我的意思是 我猜每个人在数分钟后都会死掉 非常多的分钟
+Dialogue: 0,0:02:15.02,0:02:18.92,1080P-shsb-50,,0,0,0,,{\blur4}but as far as we can tell Apollo astronauts have not been dying young.
+Dialogue: 0,0:02:15.02,0:02:18.92,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但据我们所知 参与阿波罗计划的宇航员并没有英年早逝
+Dialogue: 0,0:02:19.45,0:02:24.45,1080P-shsm-60,,0,0,0,,{\pos(30,850)}{\blur4}2012年发射的范艾伦探测器
+Dialogue: 0,0:02:19.89,0:02:21.83,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}So thanks to spacecraft studies
+Dialogue: 0,0:02:19.89,0:02:21.83,1080P-shsm-75,,0,0,0,,{\pos(960,980)}{\blur4}那么多亏了航天器的研究
+Dialogue: 0,0:02:22.04,0:02:27.09,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}we actually have a pretty good idea of the shape of the belt and the radiation within them.
+Dialogue: 0,0:02:22.04,0:02:27.09,1080P-shsm-75,,0,0,0,,{\pos(960,980)}{\blur4}我们就能够对辐射带的形状和带内的辐射有一个很好的了解
+Dialogue: 0,0:02:27.49,0:02:30.85,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}Roughly speaking the inner belt is dominated by protons
+Dialogue: 0,0:02:27.49,0:02:30.85,1080P-shsm-75,,0,0,0,,{\pos(960,980)}{\blur4}大致上来说 内带是由质子主导的
+Dialogue: 0,0:02:31.04,0:02:33.44,1080P-shsb-50,,0,0,0,,{\blur4}but has some population of electrons
+Dialogue: 0,0:02:31.04,0:02:33.44,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但具有一定的电子数
+Dialogue: 0,0:02:33.44,0:02:38.32,1080P-shsb-50,,0,0,0,,{\blur4}and this inner bell is centered probably around 3000 kilometers above the Earth.
+Dialogue: 0,0:02:33.44,0:02:38.32,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而内带的中心可能在地球上方约3000公里处
+Dialogue: 0,0:02:38.77,0:02:45.07,1080P-shsb-50,,0,0,0,,{\blur4}The outer belt is much wider. It consists of relativistic high energy electrons
+Dialogue: 0,0:02:38.77,0:02:45.07,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}外带则宽得多 它由相对论性高能电子组成
+Dialogue: 0,0:02:45.33,0:02:48.97,1080P-shsb-50,,0,0,0,,{\blur4}and it is centered around 19000 kilometers out.
+Dialogue: 0,0:02:45.33,0:02:48.97,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}并以19000公里外为中心
+Dialogue: 0,0:02:49.12,0:02:54.39,1080P-shsb-50,,0,0,0,,{\blur4}And between these belts there is actually a low intensity region which is called the slot region
+Dialogue: 0,0:02:49.12,0:02:54.39,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而在这些辐射带之间 其实有一个低强度的区域 这就是所谓的槽形区域
+Dialogue: 0,0:02:54.89,0:02:59.90,1080P-shsb-50,,0,0,0,,{\blur4}and sometimes we actually see electrons getting pushed into this region by solar activity
+Dialogue: 0,0:02:54.89,0:02:59.90,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}有时我们会看到电子被太阳活动推向这个区域
+Dialogue: 0,0:02:59.93,0:03:01.08,1080P-shsb-50,,0,0,0,,{\blur4}but it's cleared out
+Dialogue: 0,0:02:59.93,0:03:01.08,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但是被清除了
+Dialogue: 0,0:03:01.36,0:03:06.91,1080P-shsb-50,,0,0,0,,{\blur4}and the clearing process apparently involves low frequency radio waves at about one kilohertz
+Dialogue: 0,0:03:01.36,0:03:06.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而清除过程显然涉及到约一千赫兹的低频无线电波
+Dialogue: 0,0:03:06.97,0:03:10.91,1080P-shsb-50,,0,0,0,,{\blur4}which interact with the particles and you push them out and they get lost.
+Dialogue: 0,0:03:06.97,0:03:10.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}与粒子相互作用 然后把它们推出去 它们就会消失
+Dialogue: 0,0:03:11.56,0:03:13.56,1080P-shsb-50,,0,0,0,,{\blur4}So anyway the protons in the inner belt,
+Dialogue: 0,0:03:11.56,0:03:13.56,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以无论如何内带的质子
+Dialogue: 0,0:03:13.92,0:03:18.80,1080P-shsb-50,,0,0,0,,{\blur4}those are believed to come from high energy cosmic rays that strike the Earth's atmosphere
+Dialogue: 0,0:03:13.92,0:03:18.80,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}被认为来自撞击地球大气层的高能宇宙射线
+Dialogue: 0,0:03:18.80,0:03:24.95,1080P-shsb-50,,0,0,0,,{\blur4}and they kick out protons and neutrons and the neutrons decay after traveling through the magnetic field
+Dialogue: 0,0:03:18.80,0:03:24.95,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}不带歧义的表述应该是中子在穿越磁场的这段时间后会衰变，中子的衰变本身不会受到磁场的影响
+Dialogue: 0,0:03:18.80,0:03:24.95,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它们会被踢出质子和中子 而中子在穿过磁场后就会衰变
+Dialogue: 0,0:03:25.00,0:03:29.00,1080P-shsb-50,,0,0,0,,{\blur4}and they end up getting trapped as protons and electrons.
+Dialogue: 0,0:03:25.00,0:03:29.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它们最终以质子和电子的形式被捕获
+Dialogue: 0,0:03:29.73,0:03:31.63,1080P-shsb-50,,0,0,0,,{\blur4}The electrons in the outer belt,
+Dialogue: 0,0:03:29.73,0:03:31.63,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}外带的电子
+Dialogue: 0,0:03:32.01,0:03:37.14,1080P-shsb-50,,0,0,0,,{\blur4}those generally come from the solar wind as it interacts with the Earth's magnetic field.
+Dialogue: 0,0:03:32.01,0:03:37.14,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这些一般来自太阳风 因为它与地球磁场相互作用
+Dialogue: 0,0:03:37.44,0:03:41.51,1080P-shsb-50,,0,0,0,,{\blur4}Some of those electrons get trapped and they create the outer belt
+Dialogue: 0,0:03:37.44,0:03:41.51,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}其中一些电子被困住 形成了外环带
+Dialogue: 0,0:03:41.51,0:03:48.26,1080P-shsb-50,,0,0,0,,{\blur4}and some of course then they'll subsequently get accelerated to relativistic speeds by the magnetic fields.
+Dialogue: 0,0:03:41.51,0:03:48.26,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}当然也有一些会被磁场加速到相对论速度
+Dialogue: 0,0:03:48.92,0:03:52.74,1080P-shsb-50,,0,0,0,,{\blur4}So the outer belt's intensity varies a lot with the solar wind.
+Dialogue: 0,0:03:48.92,0:03:52.74,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以外带的强度会随着太阳风的变化而变化
+Dialogue: 0,0:03:53.10,0:03:57.28,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}即 {\i1}辐射带风暴探测器{\i0}
+Dialogue: 0,0:03:53.12,0:03:57.28,1080P-shsb-50,,0,0,0,,{\blur4}Back in 2012 the Van Allen probes which were just launched
+Dialogue: 0,0:03:53.12,0:03:57.28,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}2012年刚发射的范·艾伦辐射带探测器
+Dialogue: 0,0:03:57.28,0:04:01.51,1080P-shsb-50,,0,0,0,,{\blur4}they observed a temporary third belt in between the inner and outer belts.
+Dialogue: 0,0:03:57.28,0:04:01.51,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}他们发现在内带和外带之间有一个暂时形成的第三带
+Dialogue: 0,0:04:01.51,0:04:05.50,1080P-shsb-50,,0,0,0,,{\blur4}And then a week later they observed a massive solar storm blast
+Dialogue: 0,0:04:01.51,0:04:05.50,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}一周后 他们观察到了一个巨大的太阳风暴事件
+Dialogue: 0,0:04:05.52,0:04:09.70,1080P-shsb-50,,0,0,0,,{\blur4}that blew away both those outer belts and just left the inner belt for a time.
+Dialogue: 0,0:04:05.52,0:04:09.70,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}（太阳风）吹走了这些外带 一段时间内只有内带还留存
+Dialogue: 0,0:04:10.87,0:04:14.19,1080P-shsb-50,,0,0,0,,{\blur4}So the belts are constrained by Earth's magnetic field
+Dialogue: 0,0:04:10.87,0:04:14.19,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 这些辐射带受到地球磁场的限制
+Dialogue: 0,0:04:14.23,0:04:18.47,1080P-shsb-50,,0,0,0,,{\blur4}and since the magnetic pole is not aligned with the rotation planes,
+Dialogue: 0,0:04:14.23,0:04:18.47,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而由于磁极与旋转平面不一致
+Dialogue: 0,0:04:18.59,0:04:22.98,1080P-shsb-50,,0,0,0,,{\blur4}the belts aren't actually aligned with the Earth's geographical equator.
+Dialogue: 0,0:04:18.59,0:04:22.98,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这些辐射带并不与地理上的地球赤道对齐
+Dialogue: 0,0:04:23.20,0:04:27.73,1080P-shsb-50,,0,0,0,,{\blur4}The magnetic fields of the Earth create a sort of magnetic bottle
+Dialogue: 0,0:04:23.20,0:04:27.73,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}地球的磁场就形成了一种类似磁镜的东西
+Dialogue: 0,0:04:27.97,0:04:30.54,1080P-shsb-50,,0,0,0,,{\blur4}which stopped the charged particles from escaping.
+Dialogue: 0,0:04:27.97,0:04:30.54,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}阻止了带电粒子的逃逸
+Dialogue: 0,0:04:30.72,0:04:33.91,1080P-shsb-50,,0,0,0,,{\blur4}Because charged particles in a magnetic field,
+Dialogue: 0,0:04:30.72,0:04:33.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因为带电粒子在磁场中
+Dialogue: 0,0:04:33.91,0:04:36.88,1080P-shsb-50,,0,0,0,,{\blur4}they move along the magnetic field lines.
+Dialogue: 0,0:04:33.91,0:04:36.88,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它们沿着磁感线移动
+Dialogue: 0,0:04:36.92,0:04:39.61,1080P-shsb-50,,0,0,0,,{\blur4}They actually spiral along the magnetic field lines.
+Dialogue: 0,0:04:36.92,0:04:39.61,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它们实际上是沿着磁感线旋转的
+Dialogue: 0,0:04:39.64,0:04:44.00,1080P-shsb-50,,0,0,0,,{\blur4}So if you imagine the field lines running from the north pole to the south pole,
+Dialogue: 0,0:04:39.64,0:04:44.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 如果你想象磁感线 是从北极连接到南极
+Dialogue: 0,0:04:44.00,0:04:47.75,1080P-shsb-50,,0,0,0,,{\blur4}the particles travel up either towards one pole or the other.
+Dialogue: 0,0:04:44.00,0:04:47.75,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}那么粒子就得沿着它走 要么朝一极或另一极走
+Dialogue: 0,0:04:47.88,0:04:52.40,1080P-shsb-50,,0,0,0,,{\blur4}But as the magnetic field lines get pinched towards the pole
+Dialogue: 0,0:04:47.88,0:04:52.40,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但是随着磁场线被夹向极点
+Dialogue: 0,0:04:52.40,0:04:57.81,1080P-shsb-50,,0,0,0,,{\blur4}that increases the magnetic field and so the particles they spiral
+Dialogue: 0,0:04:52.40,0:04:57.81,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}增强了磁场 因此粒子开始旋转
+Dialogue: 0,0:04:57.81,0:05:01.54,1080P-shsb-50,,0,0,0,,{\blur4}and then they get pushed backwards by this strengthening magnetic field
+Dialogue: 0,0:04:57.81,0:05:01.54,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}然后它们就会被这个强化后的磁场向后推去
+Dialogue: 0,0:05:01.58,0:05:06.21,1080P-shsb-50,,0,0,0,,{\blur4}so what happens is the particles spiral back and forth between each pole.
+Dialogue: 0,0:05:01.58,0:05:06.21,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因此粒子在每个极点之间来回以螺旋旋转
+Dialogue: 0,0:05:08.16,0:05:13.19,1080P-shsb-50,,0,0,0,,{\blur4}Also because the particles are just following the geometry of the Earth's magnetic field,
+Dialogue: 0,0:05:08.16,0:05:13.19,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}同样是因为这些粒子刚好跟随地球磁场的几何形状
+Dialogue: 0,0:05:13.19,0:05:19.29,1080P-shsb-50,,0,0,0,,{\blur4}there are regions where the field brings that inner belt down closer to the surface of the Earth
+Dialogue: 0,0:05:13.19,0:05:19.29,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}有些地区的磁场将辐射带内带到了更接近地球表面的地方
+Dialogue: 0,0:05:19.26,0:05:29.26,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}南大西洋辐射异常区是位于南美洲东侧南大西洋的地磁异常区域，\N较相邻近区域的磁场强度弱，\N约是同纬度正常区磁场强度的一半大小，故属负磁异常区。它是地球上面积最大的磁异常区，\N涉及纬度范围10 N~60 S 经度范围20 E~100 W，区域中心大约在45 W 30 S处。\N因它处于巴西附近，所以又称它为巴西磁异常。\N由于南大西洋磁异常区是负磁异常区，使得空间高能带电粒子环境分布改变，\N尤其是内辐射带在该区的高度明显降低，其最低高度可降到200km左右。\N造成辐射带的南大西洋异常区，南大西洋异常区是引起低轨道航天器辐射危害严重的区域，\N是带电粒子诱发的异常或故障的高发区
+Dialogue: 0,0:05:19.31,0:05:22.72,1080P-shsb-50,,0,0,0,,{\blur4}and there's a well-known region called the South Atlantic anomaly
+Dialogue: 0,0:05:19.31,0:05:22.72,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}还有一个著名的区域叫南大西洋异常区
+Dialogue: 0,0:05:23.12,0:05:28.91,1080P-shsb-50,,0,0,0,,{\blur4}where the inner edge of the inner Van Allen belt pushes down into low Earth orbit
+Dialogue: 0,0:05:23.12,0:05:28.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}即范·艾伦辐射带内带的内边缘向下推入近地球轨道的位置
+Dialogue: 0,0:05:28.96,0:05:33.08,1080P-shsb-50,,0,0,0,,{\blur4}and spacecraft in regular orbit have to be aware of this.
+Dialogue: 0,0:05:28.96,0:05:33.08,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而常规轨道上的航天器都必须注意这一点
+Dialogue: 0,0:05:33.44,0:05:35.36,1080P-shsb-50,,0,0,0,,{\blur4}Because you'll sometimes get an error there
+Dialogue: 0,0:05:33.44,0:05:35.36,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因为你有时会在那里出错
+Dialogue: 0,0:05:33.47,0:05:43.47,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}该区域中心，高能质子的通量是宇宙线背景的数百倍，\N因此，南大西洋异常区是"神舟"等载人航天器轨道上最重要的辐射源
+Dialogue: 0,0:05:35.36,0:05:38.47,1080P-shsb-50,,0,0,0,,{\blur4}and if you look at mission control for the International Space Station,
+Dialogue: 0,0:05:35.36,0:05:38.47,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}如果你看一下国际空间站的任务控制(中心)
+Dialogue: 0,0:05:38.47,0:05:41.36,1080P-shsb-50,,0,0,0,,{\blur4}there's the big world map up there showing the current orbit.
+Dialogue: 0,0:05:38.47,0:05:41.36,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}上面有一张大的世界地图 显示了当前的轨道状态
+Dialogue: 0,0:05:41.73,0:05:45.92,1080P-shsb-50,,0,0,0,,{\blur4}And you will also see the South Atlantic anomaly is marked on that map
+Dialogue: 0,0:05:41.73,0:05:45.92,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}你还会看到南大西洋异常区在地图上有标记
+Dialogue: 0,0:05:46.02,0:05:48.91,1080P-shsb-50,,0,0,0,,{\blur4}because it is associated with things going wrong.
+Dialogue: 0,0:05:46.02,0:05:48.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因为这与发生问题的原因有关
+Dialogue: 0,0:05:49.34,0:05:54.96,1080P-shsb-50,,0,0,0,,{\blur4}I mean for the astronauts when they go through that they'll get doses of hundreds of particles per second
+Dialogue: 0,0:05:49.34,0:05:54.96,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我是指 对于宇航员来说 在经过那里时 他们会受到每秒约数百个粒子的辐射剂量照射
+Dialogue: 0,0:05:54.96,0:05:58.47,1080P-shsb-50,,0,0,0,,{\blur4}but it's not a great deal when you look at the overall dose.
+Dialogue: 0,0:05:54.96,0:05:58.47,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但从总体剂量来看 这并不是什么大问题
+Dialogue: 0,0:05:58.47,0:06:04.49,1080P-shsb-50,,0,0,0,,{\blur4}The average dose of an astronaut on the space station is about 20 milli rads per day
+Dialogue: 0,0:05:58.47,0:06:04.49,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}宇航员在空间站的平均剂量是每天20毫拉德左右
+Dialogue: 0,0:06:05.42,0:06:07.62,1080P-shsb-50,,0,0,0,,{\blur4}but this of course varies a lot over time.
+Dialogue: 0,0:06:05.42,0:06:07.62,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但这当然会随着时间的推移而变化很大
+Dialogue: 0,0:06:07.84,0:06:10.68,1080P-shsb-50,,0,0,0,,{\blur4}Either way the crew on the International Space Station
+Dialogue: 0,0:06:07.84,0:06:10.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}不管是哪种方式 国际空间站上的乘员
+Dialogue: 0,0:06:10.70,0:06:15.66,1080P-shsb-50,,0,0,0,,{\blur4}are generally well within the limits set down by radiation safety rules.
+Dialogue: 0,0:06:10.70,0:06:15.66,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}一般都在辐射安全规则规定的范围内
+Dialogue: 0,0:06:16.40,0:06:18.24,1080P-shsb-50,,0,0,0,,{\blur4}And I'm actually going to stop right here
+Dialogue: 0,0:06:16.40,0:06:18.24,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而我实际上要停止在这里
+Dialogue: 0,0:06:18.24,0:06:23.68,1080P-shsb-50,,0,0,0,,{\blur4}and say that modeling radiation exposure to people is actually a really complicated subject
+Dialogue: 0,0:06:18.24,0:06:23.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}并表示 对人的辐射照射进行建模 其实是一个非常复杂的课题
+Dialogue: 0,0:06:23.70,0:06:25.98,1080P-shsb-50,,0,0,0,,{\blur4}and I'm going to talk using rads.
+Dialogue: 0,0:06:23.70,0:06:25.98,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而我要讲的是用拉德
+Dialogue: 0,0:06:26.47,0:06:33.00,1080P-shsb-50,,0,0,0,,{\blur4}But in reality the US uses rems and international organization use grays and sieverts
+Dialogue: 0,0:06:26.47,0:06:33.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但实际上美国用的是雷姆 国际组织用的是戈瑞和希沃特
+Dialogue: 0,0:06:33.03,0:06:36.33,1080P-shsb-50,,0,0,0,,{\blur4}and I'm going to use rads mostly because it's really easy to say
+Dialogue: 0,0:06:33.03,0:06:36.33,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而我要用拉德主要是因为它真的很容易去表达
+Dialogue: 0,0:06:36.34,0:06:39.38,1080P-shsb-50,,0,0,0,,{\blur4}but just understand that it is an oversimplification
+Dialogue: 0,0:06:36.34,0:06:39.38,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但要知道 这是一个过于简单化的问题
+Dialogue: 0,0:06:39.91,0:06:46.37,1080P-shsb-50,,0,0,0,,{\blur4}and you know more more judgment or data needs to be done if you're going to apply any of this realistically.
+Dialogue: 0,0:06:39.91,0:06:46.37,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}如果要实际应用 这就需要更多的意见或数据
+Dialogue: 0,0:06:46.66,0:06:50.87,1080P-shsb-50,,0,0,0,,{\blur4}So now to get on to just how dangerous those Van Allen belts are
+Dialogue: 0,0:06:46.66,0:06:50.87,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 现在要开始讨论范·艾伦辐射带有多危险了
+Dialogue: 0,0:06:50.89,0:06:53.59,1080P-shsb-50,,0,0,0,,{\blur4}and to do this we're going to use computer models.
+Dialogue: 0,0:06:50.89,0:06:53.59,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}为此我们将使用仿真模型
+Dialogue: 0,0:06:53.59,0:06:57.97,1080P-shsb-50,,0,0,0,,{\blur4}and we're going to put a hypothetical spacecraft in the most dangerous region of the belt.
+Dialogue: 0,0:06:53.59,0:06:57.97,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我们要把一个假设的航天器 放在辐射带最危险的地方
+Dialogue: 0,0:06:58.16,0:07:03.36,1080P-shsb-50,,0,0,0,,{\blur4}About 3000 kilometers above the equator, zero inclination orbit.
+Dialogue: 0,0:06:58.16,0:07:03.36,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}大约在赤道上方3000公里处 零度倾角轨道
+Dialogue: 0,0:07:03.64,0:07:06.52,1080P-shsb-50,,0,0,0,,{\blur4}This is close to the most intense regions of the inner belt.
+Dialogue: 0,0:07:03.64,0:07:06.52,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这是接近内带辐射最强烈的区域
+Dialogue: 0,0:07:06.80,0:07:10.00,1080P-shsb-50,,0,0,0,,{\blur4}So we can use computer models of what's in the belt.
+Dialogue: 0,0:07:06.80,0:07:10.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以我们可以用仿真模型来分析带内的情况
+Dialogue: 0,0:07:10.00,0:07:17.19,1080P-shsb-50,,0,0,0,,{\blur4}The most popular one I think are called AP8 and AE8. That's p for protons and e for electrons.
+Dialogue: 0,0:07:10.00,0:07:17.19,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我想最流行的是AP8和AE8 p代表质子 e代表电子
+Dialogue: 0,0:07:17.31,0:07:21.49,1080P-shsb-50,,0,0,0,,{\blur4}This model was developed in the 1970s based upon satellite data.
+Dialogue: 0,0:07:17.31,0:07:21.49,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这个模型是在20世纪70年代根据卫星数据开发的
+Dialogue: 0,0:07:22.08,0:07:26.25,1080P-shsb-50,,0,0,0,,{\blur4}There are better models that exist including AP9 predictably.
+Dialogue: 0,0:07:22.08,0:07:26.25,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}当然有更好的模型存在 我觉得像AP9之类的就更好
+Dialogue: 0,0:07:26.56,0:07:31.05,1080P-shsb-50,,0,0,0,,{\blur4}On top of that we need to account for the spacecraft orbit so we need to calculate orbits.
+Dialogue: 0,0:07:26.56,0:07:31.05,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}除此之外 我们还需要考虑到航天器的轨道 所以我们需要计算轨道
+Dialogue: 0,0:07:31.17,0:07:36.60,1080P-shsb-50,,0,0,0,,{\blur4}And we need to be able to convert the particles that we observe and their energies into a radiation dose
+Dialogue: 0,0:07:31.17,0:07:36.60,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而且我们需要能够把我们观测到的粒子和它们的能量转换成辐射剂量
+Dialogue: 0,0:07:36.48,0:07:42.14,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}原子核是由质子和中子构成，在质子数和中子数为某个特定数值或两者均为这一数值时，\N原子核的稳定性就比平均值要大，这些数值被称为"幻数"
+Dialogue: 0,0:07:36.63,0:07:42.16,1080P-shsb-50,,0,0,0,,{\blur4}and that isn't trivial because you can't just take the number of particles and multiply them by a magic number,
+Dialogue: 0,0:07:36.63,0:07:42.16,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而这并不是微不足道的 因为你不能只是采取粒子的数量 并乘以幻数
+Dialogue: 0,0:07:42.16,0:07:45.71,1080P-shsb-50,,0,0,0,,{\blur4}you have to account for the energies which are spread out
+Dialogue: 0,0:07:42.16,0:07:45.71,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}你必须要考虑到能量的分散性
+Dialogue: 0,0:07:45.71,0:07:48.40,1080P-shsb-50,,0,0,0,,{\blur4}and the different types of particles involved
+Dialogue: 0,0:07:45.71,0:07:48.40,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}以及所涉及的不同类型的粒子
+Dialogue: 0,0:07:49.72,0:07:53.36,1080P-shsb-50,,0,0,0,,{\blur4}and you also have to account for the effects of shielding, right.
+Dialogue: 0,0:07:49.72,0:07:53.36,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而且你还得考虑到屏蔽的影响 对吧
+Dialogue: 0,0:07:53.36,0:07:55.59,1080P-shsb-50,,0,0,0,,{\blur4}If you're in the spacecraft, you have a hull.
+Dialogue: 0,0:07:53.36,0:07:55.59,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}如果你在飞船里 你有一个船体
+Dialogue: 0,0:07:55.61,0:08:01.42,1080P-shsb-50,,0,0,0,,{\blur4}And that isn't trivial because the effectiveness of a shield depends upon the type of particle
+Dialogue: 0,0:07:55.61,0:08:01.42,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这可并非易事 因为防护罩的有效性取决于粒子的类型
+Dialogue: 0,0:08:01.59,0:08:03.91,1080P-shsb-50,,0,0,0,,{\blur4}and it depends upon the energy of the particle.
+Dialogue: 0,0:08:01.59,0:08:03.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而且它取决于粒子的能量
+Dialogue: 0,0:08:03.91,0:08:10.16,1080P-shsb-50,,0,0,0,,{\blur4}And furthermore, the shielding itself can generate secondary radiation that also needs to be modeled.
+Dialogue: 0,0:08:03.91,0:08:10.16,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}此外 屏蔽本身也会产生二次辐射 也需要建模
+Dialogue: 0,0:08:10.30,0:08:16.00,1080P-shsb-50,,0,0,0,,{\blur4}So the good news is all these different systems are actually modeled and handled for you on websites
+Dialogue: 0,0:08:10.30,0:08:16.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因此 好消息是 所有这些不同的系统实际上都在网站上能被建模并处理
+Dialogue: 0,0:08:16.00,0:08:18.53,1080P-shsb-50,,0,0,0,,{\blur4}that are designed for people that design space missions.
+Dialogue: 0,0:08:16.00,0:08:18.53,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这个网站专门为规划太空任务的人所设计的
+Dialogue: 0,0:08:18.54,0:08:26.58,1080P-shsb-50,,0,0,0,,{\blur4}And the one that I'm using is the European Space Agency's Space Environment Information System also known as SPENVIS
+Dialogue: 0,0:08:18.54,0:08:26.58,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我正在使用的是欧空局的空间环境信息系统 也称为SPENVIS
+Dialogue: 0,0:08:26.90,0:08:33.83,1080P-shsb-50,,0,0,0,,{\blur4}so if I place a hypothetical astronaut in a 3000 kilometer equatorial orbit with no radiation shielding
+Dialogue: 0,0:08:26.90,0:08:33.83,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 如果我假设把一个宇航员放在一个3000公里的赤道轨道上且没有辐射屏蔽
+Dialogue: 0,0:08:33.83,0:08:37.31,1080P-shsb-50,,0,0,0,,{\blur4}and then I model everything out, it tells me that
+Dialogue: 0,0:08:33.83,0:08:37.31,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}然后我把所有的东西都模拟出来 它告诉我说
+Dialogue: 0,0:08:37.32,0:08:43.00,1080P-shsb-50,,0,0,0,,{\blur4}poor astronaut would be exposed to a whopping 26000 rads per hour.
+Dialogue: 0,0:08:37.32,0:08:43.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}那个可怜的宇航员将暴露在高达26000拉德每小时的辐射下
+Dialogue: 0,0:08:43.30,0:08:46.00,1080P-shsb-50,,0,0,0,,{\blur4}And yes that would be fatal inside an hour
+Dialogue: 0,0:08:43.30,0:08:46.00,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}是的 如果这些剂量发生在一小时内 这将是致命的
+Dialogue: 0,0:08:46.00,0:08:51.31,1080P-shsb-50,,0,0,0,,{\blur4}but that is unshielded, no spacesuit so they're gonna die even faster just due to asphyxiation.
+Dialogue: 0,0:08:46.00,0:08:51.31,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但那是没有防护的 没有宇航服 所以他们会因为窒息而死得更快
+Dialogue: 0,0:08:51.77,0:08:57.37,1080P-shsb-50,,0,0,0,,{\blur4}So if you add a few meters(口误，实为millimeters) of Aluminium to represent the skin of a spacecraft,
+Dialogue: 0,0:08:51.77,0:08:57.37,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 如果你加上几毫米厚的铝来代表飞船的外壳 就可以了
+Dialogue: 0,0:08:57.79,0:09:00.42,1080P-shsb-50,,0,0,0,,{\blur4}then the dose drops significantly.
+Dialogue: 0,0:08:57.79,0:09:00.42,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}那么这时（辐射）剂量下降显著
+Dialogue: 0,0:09:00.54,0:09:05.45,1080P-shsb-50,,0,0,0,,{\blur4}Lots of the exposure actually comes from low energy protons that are really easy to stop.
+Dialogue: 0,0:09:00.54,0:09:05.45,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}很多的照射其实是来自于低能质子 真的很容易停止
+Dialogue: 0,0:09:05.76,0:09:11.18,1080P-shsb-50,,0,0,0,,{\blur4}For the Apollo program, the natural shielding of the walls of the spacecraft were calculated
+Dialogue: 0,0:09:05.76,0:09:11.18,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}对于阿波罗计划来说 飞船舱壁的自然屏蔽是经过计算的
+Dialogue: 0,0:09:11.19,0:09:15.17,1080P-shsb-50,,0,0,0,,{\blur4}to be roughly equivalent to about seven millimeters of Aluminium.
+Dialogue: 0,0:09:11.19,0:09:15.17,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}大约相当于7毫米的铝
+Dialogue: 0,0:09:15.69,0:09:21.50,1080P-shsb-50,,0,0,0,,{\blur4}And I know this because for lunar orbiter one they carried a radiation sensor to the lunar orbit
+Dialogue: 0,0:09:15.69,0:09:21.50,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我知道这一点是因为在月球轨道器1号上 他们携带了辐射传感器到月球轨道上
+Dialogue: 0,0:09:21.76,0:09:23.12,1080P-shsb-50,,0,0,0,,{\blur4}and it had two windows on it.
+Dialogue: 0,0:09:21.76,0:09:23.12,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它有两个同样的仪器
+Dialogue: 0,0:09:23.12,0:09:28.50,1080P-shsb-50,,0,0,0,,{\blur4}One was seven millimeters thick to represent what the astronauts would feel inside the spacecraft
+Dialogue: 0,0:09:23.12,0:09:28.50,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}其中一个有七毫米厚 代表宇航员在飞船里的感觉
+Dialogue: 0,0:09:28.81,0:09:34.14,1080P-shsb-50,,0,0,0,,{\blur4}and the other was one millimeter to measure the effects for astronauts on EVA.
+Dialogue: 0,0:09:28.81,0:09:34.14,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}另一个是一毫米 用来测量对宇航员在EVA（出舱活动）上的影响
+Dialogue: 0,0:09:34.56,0:09:42.24,1080P-shsb-50,,0,0,0,,{\blur4}So if you add seven millimeters of shielding, the dose drops from 26000 down to about 20 rads per hour
+Dialogue: 0,0:09:34.56,0:09:42.24,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 如果加上7毫米的屏蔽 剂量就会从26000拉德每小时下降到20拉德每小时左右
+Dialogue: 0,0:09:42.24,0:09:47.02,1080P-shsb-50,,0,0,0,,{\blur4}and that's obviously a huge improvement but it will still kill you in a few days
+Dialogue: 0,0:09:42.24,0:09:47.02,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这显然是一个巨大的进步 但它仍然会在几天之内杀了你
+Dialogue: 0,0:09:47.03,0:09:53.48,1080P-shsb-50,,0,0,0,,{\blur4}if you were stupid enough to carefully maneuver your 1960s Apollo spacecraft into the middle of the radiation belt
+Dialogue: 0,0:09:47.03,0:09:53.48,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}如果你蠢到小心翼翼地操纵你的20世纪60年代的阿波罗飞船进入辐射带的中央
+Dialogue: 0,0:09:53.50,0:09:55.15,1080P-shsb-50,,0,0,0,,{\blur4}and then sit there doing nothing.
+Dialogue: 0,0:09:53.50,0:09:55.15,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}然后坐在那里什么都不做
+Dialogue: 0,0:09:55.69,0:09:57.79,1080P-shsb-50,,0,0,0,,{\blur4}I guess you could sit there and watch chernobyl.
+Dialogue: 0,0:09:55.69,0:09:57.79,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我想你可以当做坐在那里看切尔诺贝利（便乘）
+Dialogue: 0,0:09:58.58,0:10:02.32,1080P-shsb-50,,0,0,0,,{\blur4}So let's come back to those conspiracy minded people
+Dialogue: 0,0:09:58.58,0:10:02.32,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以 让我们回到那些阴谋论
+Dialogue: 0,0:10:02.34,0:10:06.74,1080P-shsb-50,,0,0,0,,{\blur4}who claim that this level of radiation would make it impossible to go to the moon.
+Dialogue: 0,0:10:02.34,0:10:06.74,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}阴谋论声称这种程度的辐射 会使人们不可能到达月球
+Dialogue: 0,0:10:07.33,0:10:07.94,1080P-shsb-50,,0,0,0,,{\blur4}Let's humor them.
+Dialogue: 0,0:10:07.33,0:10:07.94,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}让我们来消遣一下他们
+Dialogue: 0,0:10:08.01,0:10:13.68,1080P-shsb-50,,0,0,0,,{\blur4}Let's simulate the orbit of a spacecraft headed from low Earth orbit out to the moon.
+Dialogue: 0,0:10:08.01,0:10:13.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我们来模拟一个航天器的轨道 从低地球轨道驶向月球
+Dialogue: 0,0:10:13.92,0:10:19.40,1080P-shsb-50,,0,0,0,,{\blur4}This takes a few hours to cross all of the belts and beyond the outermost belts.
+Dialogue: 0,0:10:13.92,0:10:19.40,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这需要几个小时的时间来穿越所有的辐射带 并超越最外层的辐射带
+Dialogue: 0,0:10:19.68,0:10:26.08,1080P-shsb-50,,0,0,0,,{\blur4}And in those few hours, again an unprotected human would receive about a million rads.
+Dialogue: 0,0:10:19.68,0:10:26.08,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}在这几个小时里 同样 一个没有保护的人 将会接受大约一百万拉德
+Dialogue: 0,0:10:26.69,0:10:31.71,1080P-shsb-50,,0,0,0,,{\blur4}But again this is totally unprotected if you add shielding it makes a huge difference.
+Dialogue: 0,0:10:26.69,0:10:31.71,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但这又是完全无保护的 如果你加上屏蔽 就会产生巨大的差别
+Dialogue: 0,0:10:32.02,0:10:36.24,1080P-shsb-50,,0,0,0,,{\blur4}It brings the doors down from 1 million to 3.6
+Dialogue: 0,0:10:32.02,0:10:36.24,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它使门从100万降到3.6
+Dialogue: 0,0:10:36.48,0:10:43.94,1080P-shsb-50,,0,0,0,,{\blur4}which is actually pretty great given that it takes about 50 rads to start having visible short-term effects.
+Dialogue: 0,0:10:36.48,0:10:43.94,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}考虑到大约需要50拉德才能开始产生短期辐射病症状 所以这实际上非常棒
+Dialogue: 0,0:10:44.32,0:10:47.68,1080P-shsb-50,,0,0,0,,{\blur4}It's even below the annual limits imposed on nuclear workers
+Dialogue: 0,0:10:44.32,0:10:47.68,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}甚至低于核电工人每年受到的辐射剂量上限
+Dialogue: 0,0:10:47.74,0:10:53.67,1080P-shsb-50,,0,0,0,,{\blur4}but to be fair we do have to double that because the crew will also need to come home via the same route.
+Dialogue: 0,0:10:47.74,0:10:53.67,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但为了公平起见 我们必须把这个数字翻倍 因为乘员也需要通过同样的路线回家
+Dialogue: 0,0:10:55.51,0:11:01.44,1080P-shsb-50,,0,0,0,,{\blur4}And you know these numbers while mathematically correct according to the models, they're not accurate
+Dialogue: 0,0:10:55.51,0:11:01.44,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}你知道这些数字虽然根据模型在数学上是正确的 但它们并不准确
+Dialogue: 0,0:11:01.44,0:11:07.62,1080P-shsb-50,,0,0,0,,{\blur4\an8}because I've been acting like Khan from Star Trek II thinking two-dimensionally.
+Dialogue: 0,0:11:01.44,0:11:07.62,1080P-shsm-75,,0,0,0,,{\pos(960,820)}{\blur4}因为我的行为就像{\i1}星际迷航II{\i0} 里的可汗一样 都是二维的思考
+Dialogue: 0,0:11:08.00,0:11:12.72,1080P-shsb-50,,0,0,0,,{\blur4}The orbit I used was in the equatorial plane just like in Kerbal Space Program.
+Dialogue: 0,0:11:08.00,0:11:12.72,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我使用的轨道是在赤道平面上 就像在KSP中一样
+Dialogue: 0,0:11:08.16,0:11:12.75,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,19,10,0,500)}KSP中的KSC(坎巴拉太空中心，也就是坎星的发射场)默认在坎星赤道上
+Dialogue: 0,0:11:12.77,0:11:19.25,1080P-shsb-50,,0,0,0,,{\blur4}It was close to the heart of the belts but the radiation gets weaker as you move away from the equator.
+Dialogue: 0,0:11:12.77,0:11:19.25,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它靠近辐射带带的中心 但是当你（轨道倾角）离开赤道时 辐射就会减弱
+Dialogue: 0,0:11:19.64,0:11:25.14,1080P-shsb-50,,0,0,0,,{\blur4}And most lunar transfer orbits will actually pass above or below the most dangerous regions.
+Dialogue: 0,0:11:19.64,0:11:25.14,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而大多数月球转移轨道实际上会经过最危险区域的上方或下方
+Dialogue: 0,0:11:25.76,0:11:30.46,1080P-shsb-50,,0,0,0,,{\blur4}Just taking that simple orbit and adding an inclination of about 35 degrees
+Dialogue: 0,0:11:25.76,0:11:30.46,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}只要把这个简单的轨道加上35度左右的倾角就可以了
+Dialogue: 0,0:11:30.49,0:11:32.77,1080P-shsb-50,,0,0,0,,{\blur4}which many of the Apollo spacecraft did.
+Dialogue: 0,0:11:30.49,0:11:32.77,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}阿波罗任务基本都是这样做的
+Dialogue: 0,0:11:33.48,0:11:38.94,1080P-shsb-50,,0,0,0,,{\blur4}That drops the dose by a factor of 20 down to 0.18 rads
+Dialogue: 0,0:11:33.48,0:11:38.94,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这使剂量下降了20倍 降到了0.18拉德
+Dialogue: 0,0:11:38.94,0:11:45.44,1080P-shsb-50,,0,0,0,,{\blur4}and I'm just doing the barest minimal math to find an orbit which evades the core of the belt.
+Dialogue: 0,0:11:38.94,0:11:45.44,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我只是在做最基本的计算 来找到一个能避开辐射带核心的轨道
+Dialogue: 0,0:11:45.94,0:11:49.76,1080P-shsb-50,,0,0,0,,{\blur4}When NASA was sending the Apollo spacecraft to the moon, they had this in mind,
+Dialogue: 0,0:11:45.94,0:11:49.76,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}当NASA把阿波罗飞船送上月球时 他们就想到了这一点
+Dialogue: 0,0:11:49.77,0:11:54.51,1080P-shsb-50,,0,0,0,,{\blur4}and they made plans to make sure their spacecraft would avoid this.
+Dialogue: 0,0:11:49.77,0:11:54.51,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}他们制定了计划以确保他们的航天器能避开这个问题
+Dialogue: 0,0:11:55.42,0:12:02.49,1080P-shsb-50,,0,0,0,,{\blur4}So look, for all the intense radiation in the belts, there's actually no problem crossing them.
+Dialogue: 0,0:11:55.42,0:12:02.49,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以你看 尽管辐射带中的辐射很强 但实际上穿越它们是没有问题的
+Dialogue: 0,0:12:02.66,0:12:06.32,1080P-shsb-50,,0,0,0,,{\blur4}You just have to spend as little time as possible in those belts.
+Dialogue: 0,0:12:02.66,0:12:06.32,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}你只需要尽可能少地在这些辐射带里呆上一段时间
+Dialogue: 0,0:12:06.50,0:12:10.59,1080P-shsb-50,,0,0,0,,{\blur4}And choose trajectories that avoid any of the dangerous parts.
+Dialogue: 0,0:12:06.50,0:12:10.59,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}并选择能避开任何危险区域的轨道
+Dialogue: 0,0:12:11.12,0:12:16.27,1080P-shsb-50,,0,0,0,,{\blur4}The real truth though, is the radiation danger when going to the moon and further afield
+Dialogue: 0,0:12:11.12,0:12:16.27,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}不过 真正的真相是 去月球和更远的地方时 辐射的危险性很大
+Dialogue: 0,0:12:16.67,0:12:20.03,1080P-shsb-50,,0,0,0,,{\blur4}is from sources other than the Van Allen belts.
+Dialogue: 0,0:12:16.67,0:12:20.03,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}是来自范·艾伦辐射带以外的辐射
+Dialogue: 0,0:12:20.37,0:12:23.96,1080P-shsb-50,,0,0,0,,{\blur4}Once you move outside the magnetic field of the Earth,
+Dialogue: 0,0:12:20.37,0:12:23.96,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}一旦你离开了地球的磁场
+Dialogue: 0,0:12:24.16,0:12:27.59,1080P-shsb-50,,0,0,0,,{\blur4}you're exposed to high energy photons from the sun.
+Dialogue: 0,0:12:24.16,0:12:27.59,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}你暴露在来自太阳的高能量质子下
+Dialogue: 0,0:12:26.56,0:12:29.49,1080P-shsm-60,,0,0,0,,{\pos(170,750)}{\blur4}高能质子(但也有很多光子)(冷笑话)
+Dialogue: 0,0:12:27.93,0:12:32.97,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}And most of the time this proton flux is low enough to not be concerning
+Dialogue: 0,0:12:27.93,0:12:32.97,1080P-shsm-75,,0,0,0,,{\pos(960,750)}{\blur4}而大多数时候 这种质子通量是足够低的 不值得关注
+Dialogue: 0,0:12:33.23,0:12:37.44,1080P-shsb-50,,0,0,0,,{\blur4}but the sun is active and it can have flare-ups and solar storms
+Dialogue: 0,0:12:33.23,0:12:37.44,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但太阳是活跃的 它可以有耀斑和太阳风暴
+Dialogue: 0,0:12:37.62,0:12:42.35,1080P-shsb-50,,0,0,0,,{\blur4}which can emit enough radiation in a short period of time to be really dangerous.
+Dialogue: 0,0:12:37.62,0:12:42.35,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}它可以在短时间内发出足够的辐射 辣才是真正的危险
+Dialogue: 0,0:12:43.00,0:12:48.61,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}For example in August of 1972, a powerful solar storm occurred
+Dialogue: 0,0:12:43.00,0:12:48.61,1080P-shsm-75,,0,0,0,,{\pos(960,940)}{\blur4}例如在1972年8月 一场强大的太阳风暴发生了
+Dialogue: 0,0:12:45.28,0:12:55.29,1080P-shsm-60,,0,0,0,,{\pos(100,810)}{\blur4\i1}海马之火{\i0}，一个剧烈的两条带状的太阳耀斑，在1972年8月7日的活跃区域麦克马思11976爆发
+Dialogue: 0,0:12:48.78,0:12:55.13,1080P-shsb-50,,0,0,0,,{\blur4}{\an8}and NASA was really fortunate that this occurred between Apollo 16 and Apollo 17
+Dialogue: 0,0:12:48.78,0:12:55.13,1080P-shsm-75,,0,0,0,,{\pos(960,940)}{\blur4}NASA真的很幸运 因为这发生在阿波罗16号任务和阿波罗17号任务之间
+Dialogue: 0,0:12:55.37,0:12:57.87,1080P-shsb-50,,0,0,0,,{\blur4}rather than during any of those missions.
+Dialogue: 0,0:12:55.37,0:12:57.87,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}而不是在这俩任务的执行期间
+Dialogue: 0,0:12:58.57,0:13:01.77,1080P-shsb-50,,0,0,0,,{\blur4}If there had been a mission in progress during this flare-up,
+Dialogue: 0,0:12:58.57,0:13:01.77,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}如果在这次事件中 有一个任务正在进行
+Dialogue: 0,0:13:02.03,0:13:06.79,1080P-shsb-50,,0,0,0,,{\blur4}the crew in their spacecraft would likely have had some symptoms of radiation sickness.
+Dialogue: 0,0:13:02.03,0:13:06.79,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}太空船中的船员很可能会有一些辐射病的症状
+Dialogue: 0,0:13:07.12,0:13:11.51,1080P-shsb-50,,0,0,0,,{\blur4}But even worse if it happened during an EVA on the surface of the moon,
+Dialogue: 0,0:13:07.12,0:13:11.51,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但如果是在月球表面的EVA期间发生的 那就更糟糕了
+Dialogue: 0,0:13:11.67,0:13:14.15,1080P-shsb-50,,0,0,0,,{\blur4}the suits wouldn't offer very much protection
+Dialogue: 0,0:13:11.67,0:13:14.15,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4\i1}衣不蔽体{\i0}
+Dialogue: 0,0:13:14.59,0:13:20.48,1080P-shsb-50,,0,0,0,,{\blur4}and it's highly likely that that dose from that event could be fatal to an astronaut.
+Dialogue: 0,0:13:14.59,0:13:20.48,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}很有可能这次辐射剂量对宇航员来说是致命的
+Dialogue: 0,0:13:21.25,0:13:26.19,1080P-shsb-50,,0,0,0,,{\blur4}Now nearly 50 years on, we understand the dynamics of the sun a whole lot better
+Dialogue: 0,0:13:21.25,0:13:26.19,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}现在将近50年过去了 我们对太阳的动力学有了更深的了解
+Dialogue: 0,0:13:26.24,0:13:31.04,1080P-shsb-50,,0,0,0,,{\blur4}we have superior instruments for monitoring the solar weather and the solar atmosphere
+Dialogue: 0,0:13:26.24,0:13:31.04,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我们拥有监测太阳天气和太阳大气的高级仪器
+Dialogue: 0,0:13:31.18,0:13:38.73,1080P-shsb-50,,0,0,0,,{\blur4}but still predicting an energetic event like this days ahead is still beyond what we have.
+Dialogue: 0,0:13:31.18,0:13:38.73,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但还是预测未来几天这样的能量事件 还是超出了我们的能力范围
+Dialogue: 0,0:13:39.74,0:13:43.56,1080P-shsb-50,,0,0,0,,{\blur4}And so it really does come down to luck for going out to the moon.
+Dialogue: 0,0:13:39.74,0:13:43.56,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以说 去月球真的是要靠运气的
+Dialogue: 0,0:13:43.92,0:13:45.77,1080P-shsb-50,,0,0,0,,{\blur4}Now for even longer missions,
+Dialogue: 0,0:13:43.92,0:13:45.77,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}现在对于更长时间的任务
+Dialogue: 0,0:13:46.05,0:13:52.18,1080P-shsb-50,,0,0,0,,{\blur4}there's actually another problem due to constant low level bombardment from cosmic rays
+Dialogue: 0,0:13:46.05,0:13:52.18,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}其实还有一个问题 就是由于宇宙射线的不断轰击造成的
+Dialogue: 0,0:13:52.72,0:13:55.82,1080P-shsb-50,,0,0,0,,{\blur4}and these come out from outside our solar system.
+Dialogue: 0,0:13:52.72,0:13:55.82,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这些东西来自太阳系以外的地方
+Dialogue: 0,0:13:55.89,0:13:57.82,1080P-shsb-50,,0,0,0,,{\blur4}In fact they come from outside the galaxy.
+Dialogue: 0,0:13:55.89,0:13:57.82,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}事实上 它们来自于银河系之外
+Dialogue: 0,0:13:58.24,0:14:01.91,1080P-shsb-50,,0,0,0,,{\blur4}It's not really a problem on lunar missions because those are sort of short enough
+Dialogue: 0,0:13:58.24,0:14:01.91,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这在月球任务中不是问题 因为月球任务的时间很短
+Dialogue: 0,0:14:01.92,0:14:05.53,1080P-shsb-50,,0,0,0,,{\blur4}but if you're traveling to Mars you're spending years in space
+Dialogue: 0,0:14:01.92,0:14:05.53,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}但如果你要去火星 你就得在太空中呆上几年了
+Dialogue: 0,0:14:06.11,0:14:12.85,1080P-shsb-50,,0,0,0,,{\blur4}and that constant background of those cosmic rays is gonna cause problems over time.
+Dialogue: 0,0:14:06.11,0:14:12.85,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}宇宙射线的持续背景会随着时间的推移而产生问题
+Dialogue: 0,0:14:13.04,0:14:16.39,1080P-shsb-50,,0,0,0,,{\blur4}So for really long missions the spacecraft need to be designed
+Dialogue: 0,0:14:13.04,0:14:16.39,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}所以对于真正的长期任务来说 航天器需要被设计成可以遮挡辐射的
+Dialogue: 0,0:14:16.39,0:14:20.14,1080P-shsb-50,,0,0,0,,{\blur4}so that they can handle this low background flux of cosmic rays
+Dialogue: 0,0:14:16.39,0:14:20.14,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}这样以便它们能够处理这种低背景宇宙射线通量
+Dialogue: 0,0:14:20.48,0:14:26.21,1080P-shsb-50,,0,0,0,,{\blur4}and have some way to defend against a very powerful solar event
+Dialogue: 0,0:14:20.48,0:14:26.21,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}并有一些方法来防御一个非常强大的太阳事件
+Dialogue: 0,0:14:26.59,0:14:32.41,1080P-shsb-50,,0,0,0,,{\blur4}and so looking forwards I hope that when Artemis starts sending crew to the moon in a few years time.
+Dialogue: 0,0:14:26.59,0:14:32.41,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}因此 展望未来 我希望几年后 当阿尔忒弥斯任务开始向月球派遣船员时
+Dialogue: 0,0:14:32.72,0:14:34.83,1080P-shsb-50,,0,0,0,,{\blur4}I'm hoping that the people behind it,
+Dialogue: 0,0:14:32.72,0:14:34.83,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我希望任务背后(负责)的人员
+Dialogue: 0,0:14:34.93,0:14:40.02,1080P-shsb-50,,0,0,0,,{\blur4}the mission designers and the engineers have plans to deal with all these effects.
+Dialogue: 0,0:14:34.93,0:14:40.02,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}任务设计者和工程师都有计划来处理所有这些影响
+Dialogue: 0,0:14:40.43,0:14:42.96,1080P-shsb-50,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
+Dialogue: 0,0:14:40.43,0:14:42.96,1080P-shsm-75,,0,0,0,,{\pos(960,1020)}{\blur4}我是Scott Manley 飞行安全
+Dialogue: 0,0:14:43.66,0:14:58.93,1080P-shsb-5s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:14:43.66,0:14:58.93,1080P-shsm-7s,,0,0,0,,{\pos(960,1020)}{\blur4}[音乐]
