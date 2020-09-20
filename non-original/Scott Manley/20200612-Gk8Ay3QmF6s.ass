@@ -230,7 +230,7 @@ Dialogue: 0,0:07:14.68,0:07:17.15,1080P-shsb-50,,0,0,0,,{\blur4}and look how muc
 Dialogue: 0,0:07:14.68,0:07:17.15,1080P-shsm-75,,0,0,0,,{\blur4}看那整流罩里还剩多少空间
 Dialogue: 0,0:07:17.15,0:07:18.31,1080P-shsb-50,,0,0,0,,{\blur4}This was a test mission
 Dialogue: 0,0:07:17.15,0:07:18.31,1080P-shsm-75,,0,0,0,,{\blur4}这是个测试任务
-Dialogue: 0,0:07:18.59,0:07:25.07,1080P-shsb-50,,0,0,0,,{\blur4}which meant the fairing was released at much higher velocities and altitudes than the fairings are usually deployed
+Dialogue: 0,0:07:18.59,0:07:25.07,1080P-shsb-50,,0,0,0,,{\blur4\fs49}which meant the fairing was released at much higher velocities and altitudes than the fairings are usually deployed
 Dialogue: 0,0:07:18.59,0:07:25.07,1080P-shsm-75,,0,0,0,,{\blur4}这意味着整流罩的分离速度和高度远远高于通常情况
 Dialogue: 0,0:07:25.11,0:07:30.50,1080P-shsb-50,,0,0,0,,{\blur4}so the best part about this video is the fairing performed its re-entry maneuver.
 Dialogue: 0,0:07:25.11,0:07:30.50,1080P-shsm-75,,0,0,0,,{\blur4}所以这段视频最精彩的部分是整流罩进行了再入机动
@@ -370,8 +370,8 @@ Dialogue: 0,0:12:01.32,0:12:02.82,1080P-shsb-50,,0,0,0,,{\blur4}and there's a bl
 Dialogue: 0,0:12:01.32,0:12:02.82,1080P-shsm-75,,0,0,0,,{\blur4}而且那里有一个黑色的区域
 Dialogue: 0,0:12:02.86,0:12:07.70,1080P-shsb-50,,0,0,0,,{\blur4}because that is the area of the exhaust. There's being shielded by the payload fairing structure
 Dialogue: 0,0:12:02.86,0:12:07.70,1080P-shsm-75,,0,0,0,,{\blur4}因为那里(原先)是废气所在的区域 (但是)整流罩把中间这一块的废气挡住了
-Dialogue: 0,0:12:07.70,0:12:13.23,1080P-shsb-50,,0,0,0,,{\blur4}so it looks like you're looking down into this black hole amongst a bunch of clothes.
-Dialogue: 0,0:12:07.70,0:12:13.23,1080P-shsm-75,,0,0,0,,{\blur4}所以这就看起来像是一堆衣服中间的黑洞
+Dialogue: 0,0:12:07.70,0:12:13.23,1080P-shsb-50,,0,0,0,,{\blur4}so it looks like you're looking down into this black hole amongst a bunch of clouds.
+Dialogue: 0,0:12:07.70,0:12:13.23,1080P-shsm-75,,0,0,0,,{\blur4}所以这就看起来像是一堆云中间的黑洞
 Dialogue: 0,0:12:13.95,0:12:17.22,1080P-shsb-50,,0,0,0,,{\blur4}And there's just one more photo if you look in this one,
 Dialogue: 0,0:12:13.95,0:12:17.22,1080P-shsm-75,,0,0,0,,{\blur4}还有一帧视频
 Dialogue: 0,0:12:17.22,0:12:20.27,1080P-shsb-50,,0,0,0,,{\blur4}you can see that there is an orange glow around the edge there.
@@ -382,7 +382,7 @@ Dialogue: 0,0:12:25.21,0:12:28.93,1080P-shsb-50,,0,0,0,,{\blur4}Normally when yo
 Dialogue: 0,0:12:25.21,0:12:28.93,1080P-shsm-75,,0,0,0,,{\blur4}通常你在查看二级的画面的时候 废气膨胀得太快了
 Dialogue: 0,0:12:28.99,0:12:30.77,1080P-shsb-50,,0,0,0,,{\blur4}It cools down and you can't really see it.
 Dialogue: 0,0:12:28.99,0:12:30.77,1080P-shsm-75,,0,0,0,,{\blur4}一冷却下来你就很难看到它
-Dialogue: 0,0:12:30.91,0:12:38.50,1080P-shsb-50,,0,0,0,,{\blur4}But when it hits into something, you're gonna see the orange or yellow glow as its, you know, the pressure is enhanced.
+Dialogue: 0,0:12:30.91,0:12:38.50,1080P-shsb-50,,0,0,0,,{\blur4\fs47}But when it hits into something, you're gonna see the orange or yellow glow as its, you know, the pressure is enhanced.
 Dialogue: 0,0:12:30.91,0:12:38.50,1080P-shsm-75,,0,0,0,,{\blur4}但当它撞到什么东西时 你会看到橙色或黄色的光芒 因为它的压力增加了
 Dialogue: 0,0:12:39.22,0:12:43.53,1080P-shsb-50,,0,0,0,,{\blur4}Now on a completely different note, SpaceX is trying to work with astronomers
 Dialogue: 0,0:12:39.22,0:12:43.53,1080P-shsm-75,,0,0,0,,{\blur4}那么 话题转到完全不同的方面 SpaceX正在尝试与天文学家合作
