@@ -30,7 +30,7 @@ Dialogue: 0,0:03:47.81,0:03:54.58,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑�
 Dialogue: 0,0:15:53.01,0:15:59.75,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N任务
 Dialogue: 0,0:29:14.38,0:29:21.15,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N安全性与升级
 Dialogue: 0,0:35:50.21,0:35:56.98,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N计划开支
-Dialogue: 0,0:46:18.18,0:46:23.18,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N怒斥
+Dialogue: 0,0:46:18.18,0:46:24.95,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N怒斥
 Dialogue: 0,0:52:27.51,0:52:34.28,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0.5\blur4\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N阿尔忒弥斯中好的部分
 Dialogue: 0,0:55:31.95,0:55:38.68,1080P-shsm-60,,0,0,0,,{\fs100\an5\fn思源黑体 Heavy\bord0.5\blur4\fad(900,900)\fscx100\fscy100\t(\fscx120\fscy120)}\N\N\N\N\N\N总结
 Dialogue: 0,0:00:34.49,0:00:44.49,1080P-shsm-60,,0,0,0,,{\fad(500,500)\blur4\move(630,10,590,10,0,500)}阿波罗计划1960-1972年总支出280亿美元(当时价格)大致相当于\N美国1960-1972年总军费支出的8354.5亿美元(当时价格)的3%的{\i1}天文数字{\i0}\N来源：{\fs40}www.planetary.org/space-policy/cost-of-apollo，\Nwww.macrotrends.net/countries/USA/united-states/military-spending-defense-budget
@@ -844,7 +844,7 @@ Dialogue: 0,0:25:11.87,0:25:15.66,1080P-shsb-5u,,0,0,0,,{\blur4}Believe it or no
 Dialogue: 0,0:25:11.87,0:25:15.66,1080P-shsm-7v,,0,0,0,,{\blur4}信不信由你 一个航天器或空间站可以在这个轨道上停留
 Dialogue: 0,0:25:15.66,0:25:17.36,1080P-shsb-5u,,0,0,0,,{\blur4}with relatively little station keeping,
 Dialogue: 0,0:25:17.61,0:25:20.39,1080P-shsb-5u,,0,0,0,,{\blur4}since the Earth pulls at it equally the entire orbit.
-Dialogue: 0,0:25:15.66,0:25:17.36,1080P-shsm-7v,,0,0,0,,{\blur4}而且不需要太多轨道维持机动 
+Dialogue: 0,0:25:15.66,0:25:17.36,1080P-shsm-7v,,0,0,0,,{\blur4}而且不需要太多轨道维持机动
 Dialogue: 0,0:25:17.61,0:25:20.39,1080P-shsm-7v,,0,0,0,,{\blur4}因为地球(引力)在整个轨道上对它的拉动是一样的
 Dialogue: 0,0:25:20.63,0:25:25.89,1080P-shsb-5u,,0,0,0,,{\blur4}{\fs45}It naturally wants to stay in the same orientation regardless of where the moon is relative to the Earth.
 Dialogue: 0,0:25:20.63,0:25:25.89,1080P-shsm-7v,,0,0,0,,{\blur4}无论月球相对于地球的位置在哪 轨道(平面)都会自然地保持同一个方向
@@ -1029,7 +1029,7 @@ Dialogue: 0,0:31:01.69,0:31:06.01,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}
 Dialogue: 0,0:31:06.29,0:31:09.60,1080P-shsb-50,,0,0,0,,{\blur4}which almost caused the entire system to fail,
 Dialogue: 0,0:31:06.29,0:31:09.60,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}这几乎导致整个系统的失败
 Dialogue: 0,0:31:09.93,0:31:14.65,1080P-shsb-50,,0,0,0,,{\blur4}not to mention the switch that activated the ascent stage to get off for the moon
-Dialogue: 0,0:31:09.93,0:31:14.65,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}更不用说为了离开地球的上升级的启动开关
+Dialogue: 0,0:31:09.93,0:31:14.65,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}更不用说为了离开月球的上升级的启动开关
 Dialogue: 0,0:31:14.81,0:31:17.42,1080P-shsb-50,,0,0,0,,{\blur4}got broken on return from the moonwalk.
 Dialogue: 0,0:31:14.81,0:31:17.42,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}从月球舱外行走后 返回时被(意外地)弄坏了
 Dialogue: 0,0:31:17.61,0:31:22.81,1080P-shsb-50,,0,0,0,,{\blur4}Buzz Aldrin had to use a felt pen to ensure the circuit breaker was in the correct position,
@@ -1457,7 +1457,7 @@ Dialogue: 0,0:45:56.41,0:46:01.90,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}
 Dialogue: 0,0:46:02.23,0:46:06.21,1080P-shsb-50,,0,0,0,,{\blur4}it makes up for in just sheer raw time and capabilities on the moon.
 Dialogue: 0,0:46:02.23,0:46:06.21,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}但大大增强了停留在月球上的时间和能力
 Dialogue: 0,0:46:06.57,0:46:08.94,1080P-shsb-50,,0,0,0,,{\blur4}So maybe we should look at some of the things
-Dialogue: 0,0:46:06.57,0:46:08.94,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}所以 也许我们应该看看
+Dialogue: 0,0:46:06.57,0:46:08.94,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}所以 也许我们应该看看是什么
 Dialogue: 0,0:46:08.96,0:46:13.72,1080P-shsb-50,,0,0,0,,{\blur4}that slowed down and made SLS and Orion so over budget in the past
 Dialogue: 0,0:46:08.96,0:46:13.72,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}导致SLS和猎户座在过去如此超支
 Dialogue: 0,0:46:13.77,0:46:18.05,1080P-shsb-50,,0,0,0,,{\blur4}and see if we're doomed to see more of this stuff going forward in the future.
@@ -1726,7 +1726,7 @@ Dialogue: 0,0:55:58.50,0:56:00.85,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}
 Dialogue: 0,0:56:01.76,0:56:02.71,1080P-shsb-50,,0,0,0,,{\blur4}It sure didn't help.
 Dialogue: 0,0:56:01.76,0:56:02.71,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}(对于SLS和猎户座而言) 这肯定没起作用
 Dialogue: 0,0:56:03.02,0:56:07.69,1080P-shsb-50,,0,0,0,,{\blur4}And then once they had to open up new and old lines of manufacturing,
-Dialogue: 0,0:56:03.02,0:56:07.69,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}然后 一旦到了他们得开辟新的以及旧的制造线的时候
+Dialogue: 0,0:56:03.02,0:56:07.69,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}然后 一旦到了他们得开辟新的以及旧的生产线的时候
 Dialogue: 0,0:56:08.22,0:56:14.78,1080P-shsb-50,,0,0,0,,{\blur4}why not just build F-1's and the whole Saturn V with slightly updated and modern technology.
 Dialogue: 0,0:56:08.22,0:56:14.78,1080P-shsm-75,,0,0,0,,{\blur4}{\pos(960,1020)}为什么不直接制造F-1和整个土星五号 并带有一点儿更新和更现代的技术呢
 Dialogue: 0,0:56:15.17,0:56:20.33,1080P-shsb-50,,0,0,0,,{\blur4}It's also a shame that Orion has such a small and relatively incapable service module
