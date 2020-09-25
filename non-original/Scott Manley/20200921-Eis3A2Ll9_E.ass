@@ -34,480 +34,480 @@ Dialogue: 0,0:04:34.65,0:04:37.39,1080P-sgsm-50,,0,0,0,,{\pos(1415,968)\fad(0,31
 Dialogue: 0,0:05:01.38,0:05:03.75,1080P-sgsm-50,,0,0,0,,{\pos(1415,968)\fad(0,312)\bord0\fs60\blur0.5}取出模芯
 Dialogue: 0,0:05:04.18,0:05:06.92,1080P-sgsm-50,,0,0,0,,{\pos(1515,968)\fad(0,312)\bord0\fs60\blur0.5}X光检查前部分段
 Dialogue: 0,0:05:18.00,0:05:20.23,1080P-sgsm-50,,0,0,0,,{\pos(1315,968)\fad(0,312)\bord0\fs60\blur0.5}点火器安装
-Comment: 0,0:00:04.24,0:00:05.52,1080P-sgbd-42,,0,0,0,,字幕
-Dialogue: 0,0:00:04.24,0:00:05.52,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.24,0:00:05.52,1080P-sgsm-63,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:05.52,0:00:09.43,1080P-sgbd-42,,0,0,0,,And today I want to talk about the massive solid rocket boosters
-Dialogue: 0,0:00:05.52,0:00:09.43,1080P-sgsm-63,,0,0,0,,今天我想谈谈那些巨大的固体火箭助推器(SRB)
-Dialogue: 0,0:00:09.45,0:00:15.41,1080P-sgbd-42,,0,0,0,,which were the backbone of the Space Shuttle and will continue to do so for the SLS.
-Dialogue: 0,0:00:09.45,0:00:15.41,1080P-sgsm-63,,0,0,0,,它们是推动航天飞机的中坚力量 并将继续用于SLS
-Dialogue: 0,0:00:15.90,0:00:20.93,1080P-sgbd-42,,0,0,0,,these were the largest and most powerful rocket propulsion systems ever used in flight
-Dialogue: 0,0:00:15.90,0:00:20.93,1080P-sgsm-63,,0,0,0,,在(火箭)发射中 这是有史以来使用的(尺寸)最大且(推力)最强大的火箭推进系统
-Dialogue: 0,0:00:21.06,0:00:24.12,1080P-sgbd-42,,0,0,0,,And they're getting even bigger for SLS.
-Dialogue: 0,0:00:21.06,0:00:24.12,1080P-sgsm-63,,0,0,0,,而且 SLS的固体助推版本会比这更大
-Dialogue: 0,0:00:24.56,0:00:27.22,1080P-sgbd-42,,0,0,0,,When I've talked about rocket propulsion systems in the past,
-Dialogue: 0,0:00:24.56,0:00:27.22,1080P-sgsm-63,,0,0,0,,当我过去谈到火箭推进系统的时候
-Dialogue: 0,0:00:27.23,0:00:32.73,1080P-sgbd-42,,0,0,0,,I've often focused on liquid fueled engines and their complex plumbing and high pressure pumps.
-Dialogue: 0,0:00:27.23,0:00:32.73,1080P-sgsm-63,,0,0,0,,我经常会关注液体燃料发动机及其复杂的管道和高压泵
-Dialogue: 0,0:00:32.96,0:00:37.60,1080P-sgbd-42,,0,0,0,,And sort of dismissed solid rocket motors as being relatively simple
-Dialogue: 0,0:00:32.96,0:00:37.60,1080P-sgsm-63,,0,0,0,,而对固体火箭发动机却不屑一顾 认为它相对简单
-Dialogue: 0,0:00:37.60,0:00:39.56,1080P-sgbd-42,,0,0,0,,because they don't really have any moving parts
-Dialogue: 0,0:00:37.60,0:00:39.56,1080P-sgsm-63,,0,0,0,,因为它们并没有真正的活动部件
-Dialogue: 0,0:00:39.58,0:00:41.66,1080P-sgbd-42,,0,0,0,,but of course that is far from the truth.
-Dialogue: 0,0:00:39.58,0:00:41.66,1080P-sgsm-63,,0,0,0,,但是事实远非如此
-Dialogue: 0,0:00:42.00,0:00:47.20,1080P-sgbd-42,,0,0,0,,These are incredibly high-tech items that were developed back in the 1970s
-Dialogue: 0,0:00:42.00,0:00:47.20,1080P-sgsm-63,,0,0,0,,这些都是上世纪70年代开发的高科技项目 令人难以置信
-Dialogue: 0,0:00:47.20,0:00:51.52,1080P-sgbd-42,,0,0,0,,and were continuously improved even before the Challenger accident,
-Dialogue: 0,0:00:47.20,0:00:51.52,1080P-sgsm-63,,0,0,0,,并在挑战者号事故之前就在不断地改进
-Dialogue: 0,0:00:51.52,0:00:55.23,1080P-sgbd-42,,0,0,0,,forced them to take a hard look at certain features of the booster.
-Dialogue: 0,0:00:51.52,0:00:55.23,1080P-sgsm-63,,0,0,0,,而在事故之后 迫使开发人员认真审视助推器的某些功能
-Dialogue: 0,0:00:55.30,0:00:56.98,1080P-sgbd-42,,0,0,0,,But we'll get to that later.
-Dialogue: 0,0:00:55.30,0:00:56.98,1080P-sgsm-63,,0,0,0,,但我们稍后再谈这个问题
-Dialogue: 0,0:00:57.36,0:01:01.80,1080P-sgbd-42,,0,0,0,,At launch, the boosters accounted for more than half the mass of the Space Shuttle stack.
-Dialogue: 0,0:00:57.36,0:01:01.80,1080P-sgsm-63,,0,0,0,,在发射时 助推器占了航天飞机组合体一半以上的质量
-Dialogue: 0,0:01:01.82,0:01:06.64,1080P-sgbd-42,,0,0,0,,Each booster was about 600 tons and the total Shuttle stack was about 2000 tons.
-Dialogue: 0,0:01:01.82,0:01:06.64,1080P-sgsm-63,,0,0,0,,每个助推器重约为600吨 而航天飞机组合体的总重量约为2000吨
-Dialogue: 0,0:01:07.10,0:01:10.79,1080P-sgbd-42,,0,0,0,,Each booster would generate about 1250 tons of thrust
-Dialogue: 0,0:01:07.10,0:01:10.79,1080P-sgsm-63,,0,0,0,,每个助推器都会产生大约1250吨的推力
-Dialogue: 0,0:01:10.88,0:01:13.61,1080P-sgbd-42,,0,0,0,,whereas the core would only generate about 600 tons.
-Dialogue: 0,0:01:10.88,0:01:13.61,1080P-sgsm-63,,0,0,0,,而芯级(航天飞机轨道器)只产生600吨左右
-Dialogue: 0,0:01:13.62,0:01:16.72,1080P-sgbd-42,,0,0,0,,So these boosters for the first two minutes of flight
-Dialogue: 0,0:01:13.62,0:01:16.72,1080P-sgsm-63,,0,0,0,,所以这些助推器在飞行的前两分钟里
-Dialogue: 0,0:01:16.72,0:01:21.58,1080P-sgbd-42,,0,0,0,,would provide about two-thirds of the thrust needed to get the vehicle up and moving.
-Dialogue: 0,0:01:16.72,0:01:21.58,1080P-sgsm-63,,0,0,0,,将提供约三分之二的推力 使飞行器上升并移动
-Dialogue: 0,0:01:22.54,0:01:24.96,1080P-sgbd-42,,0,0,0,,Even before that, the boosters were critical
-Dialogue: 0,0:01:22.54,0:01:24.96,1080P-sgsm-63,,0,0,0,,即使在那之前 助推器也是至关重要的
-Dialogue: 0,0:01:24.96,0:01:29.55,1080P-sgbd-42,,0,0,0,,because the entire structure was anchored to the launch pad through the boosters.
-Dialogue: 0,0:01:24.96,0:01:29.55,1080P-sgsm-63,,0,0,0,,因为整个结构是通过助推器固定在发射台上的
-Dialogue: 0,0:01:29.60,0:01:31.88,1080P-sgbd-42,,0,0,0,,There were eight massive bolts
-Dialogue: 0,0:01:29.60,0:01:31.88,1080P-sgsm-63,,0,0,0,,有八个巨大的螺栓
-Dialogue: 0,0:01:31.93,0:01:37.65,1080P-sgbd-42,,0,0,0,,that would hold the boosters down with frangible nuts that would be detonated at T-equal-zero.
-Dialogue: 0,0:01:31.93,0:01:37.65,1080P-sgsm-63,,0,0,0,,将助推器固定在易碎的螺帽上 在发射倒计时为0时引爆
-Dialogue: 0,0:01:38.21,0:01:43.74,1080P-sgbd-42,,0,0,0,,Simultaneously the igniter at the top of the booster would be triggered and the booster would start running
-Dialogue: 0,0:01:38.21,0:01:43.74,1080P-sgsm-63,,0,0,0,,同时 助推器顶部的点火器将被触发 而助推器将开始运行
-Dialogue: 0,0:01:43.74,0:01:47.15,1080P-sgbd-42,,0,0,0,,and it wouldn't stop running for the next two minutes no matter what.
-Dialogue: 0,0:01:43.74,0:01:47.15,1080P-sgsm-63,,0,0,0,,并且在接下来的两分钟内一直运行 除非触发中止系统
-Dialogue: 0,0:01:47.60,0:01:53.15,1080P-sgbd-42,,0,0,0,,The propellant was a hard rubbery substance made primarily of ammonium perchlorate
-Dialogue: 0,0:01:47.60,0:01:53.15,1080P-sgsm-63,,0,0,0,,推进剂是一种坚硬的橡胶物质 主要由高氯酸铵制成
-Dialogue: 0,0:01:53.16,0:01:55.63,1080P-sgbd-42,,0,0,0,,which covered about 70 percent of the mass.
-Dialogue: 0,0:01:53.16,0:01:55.63,1080P-sgsm-63,,0,0,0,,约占质量的70%
-Dialogue: 0,0:01:56.04,0:01:59.52,1080P-sgbd-42,,0,0,0,,There was about 16 percent aluminium powder
-Dialogue: 0,0:01:56.04,0:01:59.52,1080P-sgsm-63,,0,0,0,,其中有大约16%的铝粉
-Dialogue: 0,0:01:59.52,0:02:02.07,1080P-sgbd-42,,0,0,0,,which would provide most of the energy for the combustion.
-Dialogue: 0,0:01:59.52,0:02:02.07,1080P-sgsm-63,,0,0,0,,这将为燃烧提供大部分能量
-Dialogue: 0,0:02:02.11,0:02:05.51,1080P-sgbd-42,,0,0,0,,There would be a tiny amount of iron oxide to act as a catalyst
-Dialogue: 0,0:02:02.11,0:02:05.51,1080P-sgsm-63,,0,0,0,,同时会有少量的氧化铁作为催化剂
-Dialogue: 0,0:02:05.55,0:02:09.45,1080P-sgbd-42,,0,0,0,,and all this would be bound together by something called PBAN
-Dialogue: 0,0:02:05.55,0:02:09.45,1080P-sgsm-63,,0,0,0,,而这一切都将被称为PBAN的东西粘合在一起
-Dialogue: 0,0:02:09.66,0:02:14.58,1080P-sgbd-42,,0,0,0,,because saying polybutadiene acrylonitrile all the time is quite a mouthful.
-Dialogue: 0,0:02:09.66,0:02:14.58,1080P-sgsm-63,,0,0,0,,不说全称因为聚丁二烯丙烯腈(PBAN)是很拗口的
-Dialogue: 0,0:02:14.95,0:02:20.35,1080P-sgbd-42,,0,0,0,,This material would be mixed at a factory and then molded inside the solid rocket motors
-Dialogue: 0,0:02:14.95,0:02:20.35,1080P-sgsm-6t,,0,0,0,,这种材料会在工厂里混合 然后在固体火箭发动机里面成型
-Dialogue: 0,0:02:20.66,0:02:26.29,1080P-sgbd-42,,0,0,0,,and they would have a material around the outside with a hole down the entire length of the booster.
-Dialogue: 0,0:02:20.66,0:02:26.29,1080P-sgsm-6t,,0,0,0,,(混合的时候)会让材料凝固在助推器(内部)的外围一圈 使整个助推器中间都是洞
-Dialogue: 0,0:02:26.58,0:02:30.80,1080P-sgbd-42,,0,0,0,,When the booster lit the combustion is happening on the internal surface of this
-Dialogue: 0,0:02:26.58,0:02:30.80,1080P-sgsm-63,,0,0,0,,当助推器点火时 燃烧发生在这个洞的表面上
-Dialogue: 0,0:02:30.97,0:02:36.23,1080P-sgbd-42,,0,0,0,,and the hot gases are escaping down this interior channel toward the nozzle at the far end.
-Dialogue: 0,0:02:30.97,0:02:36.23,1080P-sgsm-63,,0,0,0,,而热气体就沿着这个内部通道 一路向下 往远端的喷嘴喷出
-Dialogue: 0,0:02:36.98,0:02:40.08,1080P-sgbd-42,,0,0,0,,The boosters were originally manufactured by Thiokol.
-Dialogue: 0,0:02:36.98,0:02:40.08,1080P-sgsm-63,,0,0,0,,助推器最初是由Thiokol制造的
-Dialogue: 0,0:02:40.08,0:02:43.28,1080P-sgbd-42,,0,0,0,,The contract was awarded in the mid-1970s.
-Dialogue: 0,0:02:40.08,0:02:43.28,1080P-sgsm-63,,0,0,0,,合同是在70年代中期签订的
-Dialogue: 0,0:02:43.28,0:02:49.36,1080P-sgbd-42,,0,0,0,,Now they are based in Utah and they needed to move the boosters which were very large to Florida
-Dialogue: 0,0:02:43.28,0:02:49.36,1080P-sgsm-63,,0,0,0,,现在他们的总部设在犹他州 需要将这些非常大的助推器转移到佛罗里达州
-Dialogue: 0,0:02:49.36,0:02:52.08,1080P-sgbd-42,,0,0,0,,which meant the boosters weren't moved in a single piece.
-Dialogue: 0,0:02:49.36,0:02:52.08,1080P-sgsm-63,,0,0,0,,这意味着助推器不是整体移动的
-Dialogue: 0,0:02:52.09,0:02:56.24,1080P-sgbd-42,,0,0,0,,They were made of multiple pieces which were joined together in Florida.
-Dialogue: 0,0:02:52.09,0:02:56.24,1080P-sgsm-63,,0,0,0,,助推器是分为许多块 运到佛罗里达州后 再将其连接在一起
-Dialogue: 0,0:02:56.87,0:03:01.12,1080P-sgbd-42,,0,0,0,,So the main booster casings were constructed from cylinders of steel.
-Dialogue: 0,0:02:56.87,0:03:01.12,1080P-sgsm-63,,0,0,0,,那么助推器的主外壳是由钢制圆柱体构成的
-Dialogue: 0,0:03:01.48,0:03:06.18,1080P-sgbd-42,,0,0,0,,They would be 3.7 meters in diameter and about four and a half meters long
-Dialogue: 0,0:03:01.48,0:03:06.18,1080P-sgsm-63,,0,0,0,,它们的直径为3.7米 长约4.5米
-Dialogue: 0,0:03:06.48,0:03:12.00,1080P-sgbd-42,,0,0,0,,and about 12 millimeters thick made of a very high quality high strength Maraging steel.
-Dialogue: 0,0:03:06.48,0:03:12.00,1080P-sgsm-63,,0,0,0,,厚度约12毫米 由非常优质的高强度马氏体时效钢制成
-Dialogue: 0,0:03:12.15,0:03:14.21,1080P-sgbd-42,,0,0,0,,They would take eight of these sections
-Dialogue: 0,0:03:12.15,0:03:14.21,1080P-sgsm-63,,0,0,0,,每个助推器包括八个这样的部分
-Dialogue: 0,0:03:14.23,0:03:19.23,1080P-sgbd-42,,0,0,0,,and join them together in pairs using a factory joint which would be permanent.
-Dialogue: 0,0:03:14.23,0:03:19.23,1080P-sgsm-63,,0,0,0,,而助推器分段两两连接在一起 并在工厂里就永久性地结合起来
-Dialogue: 0,0:03:19.70,0:03:23.00,1080P-sgbd-42,,0,0,0,,And then it would fill each section with the material.
-Dialogue: 0,0:03:19.70,0:03:23.00,1080P-sgsm-63,,0,0,0,,然后用固体燃料填满每个部分
-Dialogue: 0,0:03:23.21,0:03:26.08,1080P-sgbd-42,,0,0,0,,But there's a little more that goes on than just pouring the propellant in.
-Dialogue: 0,0:03:23.21,0:03:26.08,1080P-sgsm-6t,,0,0,0,,但除了把推进剂倒进去 还有更多的事情要做
-Dialogue: 0,0:03:26.08,0:03:28.48,1080P-sgbd-42,,0,0,0,,First of all there is an insulating layer on the outside.
-Dialogue: 0,0:03:26.08,0:03:28.48,1080P-sgsm-6t,,0,0,0,,首先 外面有一个绝缘层
-Dialogue: 0,0:03:28.51,0:03:30.58,1080P-sgbd-42,,0,0,0,,It's about four and a half centimeters thick
-Dialogue: 0,0:03:28.51,0:03:30.58,1080P-sgsm-6t,,0,0,0,,它大约有4.5厘米厚
-Dialogue: 0,0:03:30.72,0:03:33.74,1080P-sgbd-42,,0,0,0,,and it's a like asbestos-filled rubber.
-Dialogue: 0,0:03:30.72,0:03:33.74,1080P-sgsm-6t,,0,0,0,,这种绝缘层类似于用石棉填充的橡胶
-Dialogue: 0,0:03:33.77,0:03:35.69,1080P-sgbd-42,,0,0,0,,That's what they used on the Space Shuttle
-Dialogue: 0,0:03:33.77,0:03:35.69,1080P-sgsm-6t,,0,0,0,,同样也用在航天飞机上
-Dialogue: 0,0:03:35.94,0:03:39.51,1080P-sgbd-42,,0,0,0,,and this is of course isolates the interior of the booster from the steel.
-Dialogue: 0,0:03:35.94,0:03:39.51,1080P-sgsm-6t,,0,0,0,,当然这也是将助推器的内部与钢壳隔离开来
-Dialogue: 0,0:03:39.51,0:03:40.87,1080P-sgbd-42,,0,0,0,,Stops it getting too hot.
-Dialogue: 0,0:03:39.51,0:03:40.87,1080P-sgsm-6t,,0,0,0,,阻止它变得太热
-Dialogue: 0,0:03:40.87,0:03:45.16,1080P-sgbd-42,,0,0,0,,Isolates it from vibration and electrical, your currents and things like that.
-Dialogue: 0,0:03:40.87,0:03:45.16,1080P-sgsm-6t,,0,0,0,,隔离它的振动和电气之类的东西
-Dialogue: 0,0:03:45.59,0:03:50.23,1080P-sgbd-42,,0,0,0,,Now for the SLS, they are actually replacing this with a new material
-Dialogue: 0,0:03:45.59,0:03:50.23,1080P-sgsm-63,,0,0,0,,对于SLS来说 他们实际上是在用一种新的材料来代替它
-Dialogue: 0,0:03:50.25,0:03:52.76,1080P-sgbd-42,,0,0,0,,because asbestos has many problems.
-Dialogue: 0,0:03:50.25,0:03:52.76,1080P-sgsm-63,,0,0,0,,因为石棉有很多问题
-Dialogue: 0,0:03:53.36,0:03:58.91,1080P-sgbd-42,,0,0,0,,And that's one of the reasons why we've seen tests of the booster rockets that are going to be used on the SLS.
-Dialogue: 0,0:03:53.36,0:03:58.91,1080P-sgsm-63,,0,0,0,,这也是会对SLS上使用的助推器进行测试的原因之一
-Dialogue: 0,0:03:59.04,0:04:01.32,1080P-sgbd-42,,0,0,0,,Because they need to validate the new materials.
-Dialogue: 0,0:03:59.04,0:04:01.32,1080P-sgsm-63,,0,0,0,,因为他们需要验证新的材料
-Dialogue: 0,0:04:01.68,0:04:05.74,1080P-sgbd-42,,0,0,0,,There are some other insulating layers interior to that but they're pretty thin
-Dialogue: 0,0:04:01.68,0:04:05.74,1080P-sgsm-63,,0,0,0,,在这个绝缘层内部还有一些其他比较薄的绝缘层
-Dialogue: 0,0:04:05.74,0:04:07.95,1080P-sgbd-42,,0,0,0,,and then you have the bulk of the propellant.
-Dialogue: 0,0:04:05.74,0:04:07.95,1080P-sgsm-63,,0,0,0,,接着就是大块的推进剂了
-Dialogue: 0,0:04:08.63,0:04:11.84,1080P-sgbd-42,,0,0,0,,The propellant layer is just over a meter thick.
-Dialogue: 0,0:04:08.63,0:04:11.84,1080P-sgsm-63,,0,0,0,,推进剂层有一米多厚
-Dialogue: 0,0:04:11.87,0:04:15.09,1080P-sgbd-42,,0,0,0,,Although this vAries depending upon where you are in the booster
-Dialogue: 0,0:04:11.87,0:04:15.09,1080P-sgsm-63,,0,0,0,,虽然这取决于你在助推器中的位置
-Dialogue: 0,0:04:15.13,0:04:19.67,1080P-sgbd-42,,0,0,0,,because the thickness will help control the burn rate during the flight.
-Dialogue: 0,0:04:15.13,0:04:19.67,1080P-sgsm-63,,0,0,0,,因为厚度将有助于控制飞行过程中的燃烧速度
-Dialogue: 0,0:04:20.04,0:04:23.19,1080P-sgbd-42,,0,0,0,,But that means there's a fairly large wide section in the middle.
-Dialogue: 0,0:04:20.04,0:04:23.19,1080P-sgsm-6t,,0,0,0,,但这意味着中间有一个相当宽阔的区域
-Dialogue: 0,0:04:23.19,0:04:26.47,1080P-sgbd-42,,0,0,0,,Wide enough for somebody to crawl down if they were, you know, crazy.
-Dialogue: 0,0:04:23.19,0:04:26.47,1080P-sgsm-6t,,0,0,0,,宽阔到足以让人爬下来 如果有人这么疯狂的话
-Dialogue: 0,0:04:26.88,0:04:31.63,1080P-sgbd-42,,0,0,0,,At both ends of each section, there is a layer of inhibitor material added.
-Dialogue: 0,0:04:26.88,0:04:31.63,1080P-sgsm-63,,0,0,0,,在每个部分的两端 都有一层抑制材料
-Dialogue: 0,0:04:31.70,0:04:36.27,1080P-sgbd-42,,0,0,0,,This is like an ablative heat shield that stops the propellant from burning on the ends.
-Dialogue: 0,0:04:31.70,0:04:36.27,1080P-sgsm-6t,,0,0,0,,这就像一个烧蚀性的热盾 阻止推进剂在两端燃烧
-Dialogue: 0,0:04:36.58,0:04:39.27,1080P-sgbd-42,,0,0,0,,There's a gap between each segment and the booster
-Dialogue: 0,0:04:36.58,0:04:39.27,1080P-sgsm-6t,,0,0,0,,每段助推器之间都有一个间隙
-Dialogue: 0,0:04:39.42,0:04:43.12,1080P-sgbd-42,,0,0,0,,and if hot gases flowed in there then you would have extra combustion there
-Dialogue: 0,0:04:39.42,0:04:43.12,1080P-sgsm-63,,0,0,0,,如果热气流进那里 那里就会进行额外的燃烧
-Dialogue: 0,0:04:43.37,0:04:44.18,1080P-sgbd-42,,0,0,0,,they don't want that.
-Dialogue: 0,0:04:43.37,0:04:44.18,1080P-sgsm-63,,0,0,0,,设计人员不希望这样的事情发生
-Dialogue: 0,0:04:44.19,0:04:48.27,1080P-sgbd-42,,0,0,0,,So they control it with a material that will essentially ablate away
-Dialogue: 0,0:04:44.19,0:04:48.27,1080P-sgsm-63,,0,0,0,,所以他们用一种烧蚀性材料来进行控制
-Dialogue: 0,0:04:48.56,0:04:52.81,1080P-sgbd-42,,0,0,0,,and control the combustion to only be along that interior channel.
-Dialogue: 0,0:04:48.56,0:04:52.81,1080P-sgsm-63,,0,0,0,,使得燃烧只沿着助推器内部的通道进行
-Dialogue: 0,0:04:53.44,0:04:55.60,1080P-sgbd-42,,0,0,0,,On the very front segment of the booster
-Dialogue: 0,0:04:53.44,0:04:55.60,1080P-sgsm-63,,0,0,0,,在助推器的最前段
-Dialogue: 0,0:04:55.60,0:04:59.61,1080P-sgbd-42,,0,0,0,,there is an 11 pointed star that is cast into the structure.
-Dialogue: 0,0:04:55.60,0:04:59.61,1080P-sgsm-63,,0,0,0,,有一个11角星铸造结构
-Dialogue: 0,0:04:59.84,0:05:04.05,1080P-sgbd-42,,0,0,0,,This will burn faster early on giving them a little boost at launch
-Dialogue: 0,0:04:59.84,0:05:04.05,1080P-sgsm-6t,,0,0,0,,这将使发射时的点火稍快一些
-Dialogue: 0,0:05:04.06,0:05:09.13,1080P-sgbd-42,,0,0,0,,and then those veins will burn away and the combustion will slow down a little
-Dialogue: 0,0:05:04.06,0:05:09.13,1080P-sgsm-6t,,0,0,0,,随着这些纹理烧光 燃烧过程就会减缓
-Dialogue: 0,0:05:09.22,0:05:12.37,1080P-sgbd-42,,0,0,0,,which of course helps them by reducing the thrust
-Dialogue: 0,0:05:09.22,0:05:12.37,1080P-sgsm-63,,0,0,0,,当然就是推力会减少
-Dialogue: 0,0:05:12.41,0:05:16.33,1080P-sgbd-42,,0,0,0,,during the point of maximum aerodynamic pressure or MAX-Q.
-Dialogue: 0,0:05:12.41,0:05:16.33,1080P-sgsm-63,,0,0,0,,(刚好)会发生在最大气动压力或MAX-Q期间
-Dialogue: 0,0:05:16.82,0:05:21.75,1080P-sgbd-42,,0,0,0,,This section also includes the ignition system which is up at the very front of the booster.
-Dialogue: 0,0:05:16.82,0:05:21.75,1080P-sgsm-6t,,0,0,0,,位于助推器的最前面这一部分还包括点火系统
-Dialogue: 0,0:05:21.93,0:05:25.44,1080P-sgbd-42,,0,0,0,,The way it works is it's essentially a very small rocket booster.
-Dialogue: 0,0:05:21.93,0:05:25.44,1080P-sgsm-63,,0,0,0,,它的工作原理类似于一个非常小的火箭助推器
-Dialogue: 0,0:05:25.44,0:05:29.44,1080P-sgbd-42,,0,0,0,,It's actually a multi-stage system where you have a pyrotechnic igniter
-Dialogue: 0,0:05:25.44,0:05:29.44,1080P-sgsm-63,,0,0,0,,它实际上是一个包含化学点火剂的多级系统
-Dialogue: 0,0:05:29.44,0:05:34.96,1080P-sgbd-42,,0,0,0,,which ignites a bigger charge which blows hot gas down the middle, starting the booster
-Dialogue: 0,0:05:29.44,0:05:34.96,1080P-sgsm-63,,0,0,0,,它点燃了更大的装药 让热气从中间喷出并启动助推器
-Dialogue: 0,0:05:34.96,0:05:37.68,1080P-sgbd-42,,0,0,0,,and this happens in a fraction of a second.
-Dialogue: 0,0:05:34.96,0:05:37.68,1080P-sgsm-63,,0,0,0,,而这一切发生在极短的时间内
-Dialogue: 0,0:05:37.68,0:05:40.40,1080P-sgbd-42,,0,0,0,,And since triggering this is the point of no return,
-Dialogue: 0,0:05:37.68,0:05:40.40,1080P-sgsm-63,,0,0,0,,而由于助推器点火是不可逆的
-Dialogue: 0,0:05:40.40,0:05:43.95,1080P-sgbd-42,,0,0,0,,there are many locks to make sure this doesn't happen by accident.
-Dialogue: 0,0:05:40.40,0:05:43.95,1080P-sgsm-63,,0,0,0,,点火机制中有很多锁来确保其不被意外触发
-Dialogue: 0,0:05:44.01,0:05:49.71,1080P-sgbd-42,,0,0,0,,There's actually a physical pin that has to be pulled out before the system can even be used.
-Dialogue: 0,0:05:44.01,0:05:49.71,1080P-sgsm-63,,0,0,0,,实际上 在系统可以使用之前 必须拔出一个保险栓
-Dialogue: 0,0:05:49.75,0:05:54.26,1080P-sgbd-42,,0,0,0,,That pin stops the hot gas channel from rotating into position.
-Dialogue: 0,0:05:49.75,0:05:54.26,1080P-sgsm-63,,0,0,0,,这个保险栓可以阻止热气通道旋转到位
-Dialogue: 0,0:05:54.47,0:05:58.56,1080P-sgbd-42,,0,0,0,,So if a stray electrical charge triggers this while they're setting things up,
-Dialogue: 0,0:05:54.47,0:05:58.56,1080P-sgsm-63,,0,0,0,,所以 如果在总装火箭的时候 一个意外(零散)的电荷触发了这个点火系统
-Dialogue: 0,0:05:58.67,0:06:00.60,1080P-sgbd-42,,0,0,0,,it can't actually start the booster.
-Dialogue: 0,0:05:58.67,0:06:00.60,1080P-sgsm-63,,0,0,0,,它就不能启动助推器
-Dialogue: 0,0:06:00.80,0:06:05.44,1080P-sgbd-42,,0,0,0,,Somebody a couple of days before the launch has to go into the nose cone of the boosters
-Dialogue: 0,0:06:00.80,0:06:05.44,1080P-sgsm-63,,0,0,0,,在发射前几天 得要有人进入助推器的鼻锥
-Dialogue: 0,0:06:05.46,0:06:10.26,1080P-sgbd-42,,0,0,0,,and essentially pull out this pin to make sure the boosters are armed and ready for flight.
-Dialogue: 0,0:06:05.46,0:06:10.26,1080P-sgsm-63,,0,0,0,,就是来拔出这个保险栓 以确保助推器已经进入准备发射的就绪状态
-Dialogue: 0,0:06:10.72,0:06:14.40,1080P-sgbd-42,,0,0,0,,In front of this, the booster also has most of the recovery hardware
-Dialogue: 0,0:06:10.72,0:06:14.40,1080P-sgsm-63,,0,0,0,,在保险栓前面 还有大部分的回收设备
-Dialogue: 0,0:06:14.40,0:06:17.36,1080P-sgbd-42,,0,0,0,,including the parachutes, separation rockets.
-Dialogue: 0,0:06:14.40,0:06:17.36,1080P-sgsm-63,,0,0,0,,包括降落伞和分离火箭
-Dialogue: 0,0:06:17.36,0:06:22.16,1080P-sgbd-42,,0,0,0,,It also includes a set of rate gyroscopes to detect booster motion.
-Dialogue: 0,0:06:17.36,0:06:22.16,1080P-sgsm-63,,0,0,0,,它还包括一套速率陀螺仪 用于探测助推器的运动
-Dialogue: 0,0:06:22.17,0:06:25.20,1080P-sgbd-42,,0,0,0,,These are independent from the gyroscopes on the Space Shuttle itself.
-Dialogue: 0,0:06:22.17,0:06:25.20,1080P-sgsm-63,,0,0,0,,这些都是独立于航天飞机(轨道器)自身的陀螺仪的
-Dialogue: 0,0:06:25.44,0:06:25.95,1080P-sgbd-42,,0,0,0,,And of course,
-Dialogue: 0,0:06:25.44,0:06:25.95,1080P-sgsm-63,,0,0,0,,当然了
-Dialogue: 0,0:06:26.34,0:06:31.73,1080P-sgbd-42,,0,0,0,,having separate readings from both of the boosters was critical in figuring out what happened to Challenger
-Dialogue: 0,0:06:26.34,0:06:31.73,1080P-sgsm-63,,0,0,0,,从两个助推器上获得单独的读数 对于弄清挑战者号事故的原因是很关键的
-Dialogue: 0,0:06:31.87,0:06:33.99,1080P-sgbd-42,,0,0,0,,since the rate gyroscopes from each booster
-Dialogue: 0,0:06:31.87,0:06:33.99,1080P-sgsm-63,,0,0,0,,这是由于每个助推器的速率陀螺仪
-Dialogue: 0,0:06:34.00,0:06:37.78,1080P-sgbd-42,,0,0,0,,started to show very different values seconds before the destruction.
-Dialogue: 0,0:06:34.00,0:06:37.78,1080P-sgsm-63,,0,0,0,,在事故前几秒钟 开始出现非常大的区别
-Dialogue: 0,0:06:38.28,0:06:42.83,1080P-sgbd-42,,0,0,0,,Now if you move to the aft end of the booster you of course have the nozzle.
-Dialogue: 0,0:06:38.28,0:06:42.83,1080P-sgsm-63,,0,0,0,,那么 如果话题切换到助推器的后端 首先是喷嘴
-Dialogue: 0,0:06:42.96,0:06:47.19,1080P-sgbd-42,,0,0,0,,Now the nozzle has to interface to the rest of the pressure casing
-Dialogue: 0,0:06:42.96,0:06:47.19,1080P-sgsm-63,,0,0,0,,那么 喷嘴必须与承压钢壳相连接
-Dialogue: 0,0:06:47.39,0:06:49.55,1080P-sgbd-42,,0,0,0,,but the nozzle also has to move.
-Dialogue: 0,0:06:47.39,0:06:49.55,1080P-sgsm-63,,0,0,0,,但喷嘴也要移动
-Dialogue: 0,0:06:50.08,0:06:53.91,1080P-sgbd-42,,0,0,0,,So the nozzle moves on a two axis pressure sealed joint
-Dialogue: 0,0:06:50.08,0:06:53.91,1080P-sgsm-63,,0,0,0,,那么 喷嘴就被设计为能在双轴压力密封接头上进行移动
-Dialogue: 0,0:06:53.91,0:06:58.63,1080P-sgbd-42,,0,0,0,,that can handle the 60 atmospheres of pressure and the thousands of degrees of temperature.
-Dialogue: 0,0:06:53.91,0:06:58.63,1080P-sgsm-63,,0,0,0,,这种接头 可以承受60个大气压的压力和上千度的温度
-Dialogue: 0,0:06:58.63,0:07:02.80,1080P-sgbd-42,,0,0,0,,And this bearing is made by having many layers of plates
-Dialogue: 0,0:06:58.63,0:07:02.80,1080P-sgsm-63,,0,0,0,,而这种轴承是由许多层板子组成的
-Dialogue: 0,0:07:02.80,0:07:05.53,1080P-sgbd-42,,0,0,0,,that are essentially sections of a spherical shell.
-Dialogue: 0,0:07:02.80,0:07:05.53,1080P-sgsm-63,,0,0,0,,这些板子最终构成了一个接近球形的形状
-Dialogue: 0,0:07:05.77,0:07:07.90,1080P-sgbd-42,,0,0,0,,So these are stacked on top of each other
-Dialogue: 0,0:07:05.77,0:07:07.90,1080P-sgsm-63,,0,0,0,,那么 这些板子都是互相堆叠在一起的
-Dialogue: 0,0:07:08.00,0:07:11.28,1080P-sgbd-42,,0,0,0,,and then they're joined together by a rubber like layer
-Dialogue: 0,0:07:08.00,0:07:11.28,1080P-sgsm-63,,0,0,0,,并由橡胶类物质构成的夹层连接在一起
-Dialogue: 0,0:07:11.28,0:07:14.80,1080P-sgbd-42,,0,0,0,,but it's of course a rubber that can handle the temperatures and pressures.
-Dialogue: 0,0:07:11.28,0:07:14.80,1080P-sgsm-63,,0,0,0,,当然 这种物质可以承受特定的温度和压力
-Dialogue: 0,0:07:15.25,0:07:18.00,1080P-sgbd-42,,0,0,0,,So each layer allows a small amount of lateral motion
-Dialogue: 0,0:07:15.25,0:07:18.00,1080P-sgsm-63,,0,0,0,,那么 每一层都允许少量的横向运动
-Dialogue: 0,0:07:18.02,0:07:22.05,1080P-sgbd-42,,0,0,0,,and overall the whole nozzle can gimbal by about 8 degrees.
-Dialogue: 0,0:07:18.02,0:07:22.05,1080P-sgsm-63,,0,0,0,,总体上而言 整个喷嘴的摆动角度大概有8度
-Dialogue: 0,0:07:22.51,0:07:25.75,1080P-sgbd-42,,0,0,0,,The nozzle is moved by two separate hydraulic actuators
-Dialogue: 0,0:07:22.51,0:07:25.75,1080P-sgsm-63,,0,0,0,,喷嘴由两个独立的液压促动器移动
-Dialogue: 0,0:07:25.75,0:07:29.12,1080P-sgbd-42,,0,0,0,,which are at 90 degrees to each other to provide a full range of motion.
-Dialogue: 0,0:07:25.75,0:07:29.12,1080P-sgsm-63,,0,0,0,,彼此成90度 以提供全范围的运动
-Dialogue: 0,0:07:29.58,0:07:35.22,1080P-sgbd-42,,0,0,0,,The hydraulic system is pressurized by two separate redundant hydraulic pressure units.
-Dialogue: 0,0:07:29.58,0:07:35.22,1080P-sgsm-63,,0,0,0,,液压系统由两个独立的冗余液压部件加压
-Dialogue: 0,0:07:35.68,0:07:37.68,1080P-sgbd-42,,0,0,0,,These are self-contained power units.
-Dialogue: 0,0:07:35.68,0:07:37.68,1080P-sgsm-63,,0,0,0,,它们使用的是独立的动力部件
-Dialogue: 0,0:07:37.68,0:07:39.91,1080P-sgbd-42,,0,0,0,,They have a hydrazine fuel supply
-Dialogue: 0,0:07:37.68,0:07:39.91,1080P-sgsm-63,,0,0,0,,由肼燃料提供动力
-Dialogue: 0,0:07:39.91,0:07:44.96,1080P-sgbd-42,,0,0,0,,which decomposes, drives a turbine and then that pressurizes the hydraulic system.
-Dialogue: 0,0:07:39.91,0:07:44.96,1080P-sgsm-63,,0,0,0,,燃烧肼燃料 驱动涡轮机 然后给液压系统加压
-Dialogue: 0,0:07:44.96,0:07:47.56,1080P-sgbd-42,,0,0,0,,So they can handle a failure of at least one of these.
-Dialogue: 0,0:07:44.96,0:07:47.56,1080P-sgsm-63,,0,0,0,,那么 这个液压系统至少可以处理一个动力单元的故障
-Dialogue: 0,0:07:47.91,0:07:51.54,1080P-sgbd-42,,0,0,0,,The nozzle also has a nozzle extension attached to the back of it
-Dialogue: 0,0:07:47.91,0:07:51.54,1080P-sgsm-63,,0,0,0,,喷嘴的后面还连接着喷管延伸段
-Dialogue: 0,0:07:51.59,0:07:53.66,1080P-sgbd-42,,0,0,0,,which of course improves the efficiency.
-Dialogue: 0,0:07:51.59,0:07:53.66,1080P-sgsm-63,,0,0,0,,喷管延伸段当然可以提高效率
-Dialogue: 0,0:07:53.91,0:07:58.37,1080P-sgbd-42,,0,0,0,,But just before the boosters land in the ocean, this is removed.
-Dialogue: 0,0:07:53.91,0:07:58.37,1080P-sgsm-63,,0,0,0,,但在助推器降落到海里之前 喷管延伸段就被抛弃了
-Dialogue: 0,0:07:58.40,0:08:00.77,1080P-sgbd-42,,0,0,0,,It's severed by like a pyrotechnic device
-Dialogue: 0,0:07:58.40,0:08:00.77,1080P-sgsm-63,,0,0,0,,分离的装置使用的也是火工品
-Dialogue: 0,0:08:00.77,0:08:04.95,1080P-sgbd-42,,0,0,0,,and you'll see that sometimes fall into the water separately from the main booster.
-Dialogue: 0,0:08:00.77,0:08:04.95,1080P-sgsm-63,,0,0,0,,你有时会看到 喷管延伸段会与主助推器分开落入水中
-Dialogue: 0,0:08:05.12,0:08:09.59,1080P-sgbd-42,,0,0,0,,So a lot of this hardware is contained inside another component called the aft skirt
-Dialogue: 0,0:08:05.12,0:08:09.59,1080P-sgsm-63,,0,0,0,,那么很多设备都包含在另一个部件里 叫做后裙板
-Dialogue: 0,0:08:09.59,0:08:15.52,1080P-sgbd-42,,0,0,0,,that will also include some of the avionics and it includes the aft separation motors
-Dialogue: 0,0:08:09.59,0:08:15.52,1080P-sgsm-63,,0,0,0,,这也包括一些航空电子设备 以及后部分离发动机
-Dialogue: 0,0:08:15.52,0:08:19.60,1080P-sgbd-42,,0,0,0,,which are used to push the um the booster away from the spacecraft.
-Dialogue: 0,0:08:15.52,0:08:19.60,1080P-sgsm-63,,0,0,0,,这个发动机用于将助推器推离航天器
-Dialogue: 0,0:08:19.95,0:08:25.46,1080P-sgbd-42,,0,0,0,,The aft propellant section also has some extra features not seen in the rest the other segments of the booster.
-Dialogue: 0,0:08:19.95,0:08:25.46,1080P-sgsm-63,,0,0,0,,后部的推进分段还有一些在助推器其他部分看不到的额外特征
-Dialogue: 0,0:08:26.01,0:08:28.12,1080P-sgbd-42,,0,0,0,,It has extra reinforcement rings
-Dialogue: 0,0:08:26.01,0:08:28.12,1080P-sgsm-63,,0,0,0,,它有额外的加强环
-Dialogue: 0,0:08:28.13,0:08:32.76,1080P-sgbd-42,,0,0,0,,because this booster is one of the places where it attaches to the external tank.
-Dialogue: 0,0:08:28.13,0:08:32.76,1080P-sgsm-63,,0,0,0,,因为这里是助推器和外部储罐进行连接的位置之一
-Dialogue: 0,0:08:33.51,0:08:37.91,1080P-sgbd-42,,0,0,0,,Running vertically up the side of the rocket you'll also see the electrical tunnel
-Dialogue: 0,0:08:33.51,0:08:37.91,1080P-sgsm-63,,0,0,0,,从火箭的侧面垂直向上 你还会看到电气通道
-Dialogue: 0,0:08:37.95,0:08:39.63,1080P-sgbd-42,,0,0,0,,which contains your cables
-Dialogue: 0,0:08:37.95,0:08:39.63,1080P-sgsm-63,,0,0,0,,其中包含着电缆
-Dialogue: 0,0:08:39.66,0:08:43.84,1080P-sgbd-42,,0,0,0,,that need to run the length of the booster to communicate between the front and the rear.
-Dialogue: 0,0:08:39.66,0:08:43.84,1080P-sgsm-63,,0,0,0,,这条通道达到了助推器的长度 是为了让顶部和尾部的设备进行通信
-Dialogue: 0,0:08:44.39,0:08:49.27,1080P-sgbd-42,,0,0,0,,But you'll also find the explosives for the flight termination system which runs down the side
-Dialogue: 0,0:08:44.39,0:08:49.27,1080P-sgsm-63,,0,0,0,,但你也会发现在侧面延伸到下面的飞行中止系统的炸药
-Dialogue: 0,0:08:49.27,0:08:51.60,1080P-sgbd-42,,0,0,0,,if they're going to terminate the flight of the booster
-Dialogue: 0,0:08:49.27,0:08:51.60,1080P-sgsm-63,,0,0,0,,如果控制人员要中止助推器的飞行
-Dialogue: 0,0:08:51.60,0:08:54.39,1080P-sgbd-42,,0,0,0,,then the charge splits the thing along its length
-Dialogue: 0,0:08:51.60,0:08:54.39,1080P-sgsm-63,,0,0,0,,那么 炸药就会把它长度范围内的东西撕裂开
-Dialogue: 0,0:08:54.45,0:08:59.29,1080P-sgbd-42,,0,0,0,,and that of course stops the thing flying as the single mass and reduces the combustion.
-Dialogue: 0,0:08:54.45,0:08:59.29,1080P-sgsm-63,,0,0,0,,这当然会让助推器停止工作 并减少燃烧
-Dialogue: 0,0:08:59.54,0:09:04.39,1080P-sgbd-42,,0,0,0,,Of course one time this flight termination system was actually used was on Challenger.
-Dialogue: 0,0:08:59.54,0:09:04.39,1080P-sgsm-63,,0,0,0,,当然 这种飞行中止系统只有一次真正得到使用 就是挑战者号事故那次
-Dialogue: 0,0:09:04.39,0:09:08.95,1080P-sgbd-42,,0,0,0,,After the breakup of the stack, the two boosters kept on going under their own power
-Dialogue: 0,0:09:04.39,0:09:08.95,1080P-sgsm-63,,0,0,0,,在组合体解体之后 两个助推器在自己的动力下继续前进
-Dialogue: 0,0:09:08.98,0:09:12.24,1080P-sgbd-42,,0,0,0,,and had to be destroyed in case they went somewhere where they shouldn't.
-Dialogue: 0,0:09:08.98,0:09:12.24,1080P-sgsm-63,,0,0,0,,这样就必须将其销毁 以防止失控坠毁造成的安全问题
-Dialogue: 0,0:09:12.83,0:09:14.65,1080P-sgbd-42,,0,0,0,,So let's talk about the joints.
-Dialogue: 0,0:09:12.83,0:09:14.65,1080P-sgsm-63,,0,0,0,,那么我们来谈谈接头的问题
-Dialogue: 0,0:09:14.67,0:09:18.18,1080P-sgbd-42,,0,0,0,,As I said, the booster on the Shuttle was made from four segments,
-Dialogue: 0,0:09:14.67,0:09:18.18,1080P-sgsm-63,,0,0,0,,正如我所说 航天飞机的助推器是由四个部分组成的
-Dialogue: 0,0:09:18.38,0:09:22.07,1080P-sgbd-42,,0,0,0,,and each segment was itself made from two separate sections of steel.
-Dialogue: 0,0:09:18.38,0:09:22.07,1080P-sgsm-63,,0,0,0,,而每一节都是由两段独立的钢段构成的
-Dialogue: 0,0:09:22.32,0:09:26.69,1080P-sgbd-42,,0,0,0,,Now the sections were all joined together by a clevis tang joint
-Dialogue: 0,0:09:22.32,0:09:26.69,1080P-sgsm-63,,0,0,0,,现在 这些钢段都由一个U形锁扣连接在一起
-Dialogue: 0,0:09:26.72,0:09:31.92,1080P-sgbd-42,,0,0,0,,and this is where on one side the steel would split into two and form a y-shape
-Dialogue: 0,0:09:26.72,0:09:31.92,1080P-sgsm-63,,0,0,0,,这是指 一边的钢段会分裂成Y形
-Dialogue: 0,0:09:31.92,0:09:35.51,1080P-sgbd-42,,0,0,0,,and on the other piece would slide into the gap
-Dialogue: 0,0:09:31.92,0:09:35.51,1080P-sgsm-63,,0,0,0,,另一边的钢段则会滑进这个缝隙中
-Dialogue: 0,0:09:35.56,0:09:37.39,1080P-sgbd-42,,0,0,0,,and then a pin would slide through.
-Dialogue: 0,0:09:35.56,0:09:37.39,1080P-sgsm-63,,0,0,0,,接着再在这之中穿过一根钉
-Dialogue: 0,0:09:37.72,0:09:41.95,1080P-sgbd-42,,0,0,0,,Now if you have this in a complete cylinder on the wall of a cylinder
-Dialogue: 0,0:09:37.72,0:09:41.95,1080P-sgsm-63,,0,0,0,,那么 如果是完整的桶状的钢段
-Dialogue: 0,0:09:42.10,0:09:45.32,1080P-sgbd-42,,0,0,0,,you have many pins that go all the way around.
-Dialogue: 0,0:09:42.10,0:09:45.32,1080P-sgsm-63,,0,0,0,,就会打上这么一圈钉
-Dialogue: 0,0:09:45.76,0:09:49.92,1080P-sgbd-42,,0,0,0,,Now mechanically this is a very secure joint but it isn't pressure sealed.
-Dialogue: 0,0:09:45.76,0:09:49.92,1080P-sgsm-63,,0,0,0,,从机械上来说 这是一个非常稳定的连接 但气密性不足
-Dialogue: 0,0:09:50.15,0:09:53.75,1080P-sgbd-42,,0,0,0,,So to stop the hot gases from the inside coming out,
-Dialogue: 0,0:09:50.15,0:09:53.75,1080P-sgsm-63,,0,0,0,,那么要阻止里面的热气出来
-Dialogue: 0,0:09:54.03,0:10:00.03,1080P-sgbd-42,,0,0,0,,on the interior side of the clevis there's a pair of O-rings that were added in the original design.
-Dialogue: 0,0:09:54.03,0:10:00.03,1080P-sgsm-63,,0,0,0,,就需要U形锁扣的内侧加上一对O型环 这也是最初的设计
-Dialogue: 0,0:10:00.24,0:10:02.98,1080P-sgbd-42,,0,0,0,,And these would cut or go around the entire circumference
-Dialogue: 0,0:10:00.24,0:10:02.98,1080P-sgsm-63,,0,0,0,,这些环会切开或者说绕过整个圆周
-Dialogue: 0,0:10:03.01,0:10:05.18,1080P-sgbd-42,,0,0,0,,and when the interior was pressurized,
-Dialogue: 0,0:10:03.01,0:10:05.18,1080P-sgsm-63,,0,0,0,,并在内部加压时
-Dialogue: 0,0:10:05.21,0:10:09.26,1080P-sgbd-42,,0,0,0,,these would get pushed into the gap and stop the gases leaking through.
-Dialogue: 0,0:10:05.21,0:10:09.26,1080P-sgsm-63,,0,0,0,,O形环将被推入间隙 阻止气体泄漏
-Dialogue: 0,0:10:09.66,0:10:13.70,1080P-sgbd-42,,0,0,0,,The O-rings have to have some flexibility because this is a mechanical system,
-Dialogue: 0,0:10:09.66,0:10:13.70,1080P-sgsm-63,,0,0,0,,O形环必须有一定的灵活性 因为这是一个机械系统
-Dialogue: 0,0:10:13.85,0:10:18.39,1080P-sgbd-42,,0,0,0,,and when those boosters are firing they are bending and flexing under the loads.
-Dialogue: 0,0:10:13.85,0:10:18.39,1080P-sgsm-63,,0,0,0,,而当助推器点火的时候 钢壳在(航天飞机主发动机施加的侧向推力)负载下弯曲变形
-Dialogue: 0,0:10:18.43,0:10:22.68,1080P-sgbd-42,,0,0,0,,During early part of launch, these boosters are sort of flapping back and forth
-Dialogue: 0,0:10:18.43,0:10:22.68,1080P-sgsm-63,,0,0,0,,在发射的初期 这些助推器会来回摆动
-Dialogue: 0,0:10:22.72,0:10:27.12,1080P-sgbd-42,,0,0,0,,like strings on a guitar, three or four times per second.
-Dialogue: 0,0:10:22.72,0:10:27.12,1080P-sgsm-63,,0,0,0,,就像吉他上的琴弦 每秒三四次
-Dialogue: 0,0:10:27.12,0:10:29.60,1080P-sgbd-42,,0,0,0,,So the factory joints were generally more secure
-Dialogue: 0,0:10:27.12,0:10:29.60,1080P-sgsm-63,,0,0,0,,那么(像前面说的) 工厂里连接好的接头一般都比较牢固
-Dialogue: 0,0:10:29.67,0:10:34.43,1080P-sgbd-42,,0,0,0,,because interior to those, there was a continuous layer of insulation and the liner.
-Dialogue: 0,0:10:29.67,0:10:34.43,1080P-sgsm-63,,0,0,0,,因为在这些接头内部 还有连续的绝缘层和衬垫
-Dialogue: 0,0:10:34.57,0:10:39.02,1080P-sgbd-42,,0,0,0,,But the field joints which were assembled when the booster was being put together on the pad,
-Dialogue: 0,0:10:34.57,0:10:39.02,1080P-sgsm-63,,0,0,0,,但是在发射场才进行组装的助推器现场接头
-Dialogue: 0,0:10:39.48,0:10:43.25,1080P-sgbd-42,,0,0,0,,those necessarily had a discontinuity in the insulating layer.
-Dialogue: 0,0:10:39.48,0:10:43.25,1080P-sgsm-63,,0,0,0,,这些绝缘层必然有一个不连续的地方
-Dialogue: 0,0:10:43.55,0:10:47.96,1080P-sgbd-42,,0,0,0,,So as they were assembled, they would put a putty around the outside
-Dialogue: 0,0:10:43.55,0:10:47.96,1080P-sgsm-63,,0,0,0,,所以在组装的时候 他们会在外面涂上一层腻子
-Dialogue: 0,0:10:47.98,0:10:49.69,1080P-sgbd-42,,0,0,0,,and that would push itself into the gaps.
-Dialogue: 0,0:10:47.98,0:10:49.69,1080P-sgsm-63,,0,0,0,,用腻子来填充缝隙
-Dialogue: 0,0:10:49.71,0:10:52.64,1080P-sgbd-42,,0,0,0,,But of course the gases were expected to push past this.
-Dialogue: 0,0:10:49.71,0:10:52.64,1080P-sgsm-63,,0,0,0,,但当然 腻子并不能耐受燃烧产生的热气
-Dialogue: 0,0:10:52.83,0:10:57.06,1080P-sgbd-42,,0,0,0,,The O-rings were still very much the primary protective system.
-Dialogue: 0,0:10:52.83,0:10:57.06,1080P-sgsm-63,,0,0,0,,所以 在这种情况下 O型环仍然是主要的保护系统
-Dialogue: 0,0:10:57.53,0:10:58.90,1080P-sgbd-42,,0,0,0,,So in the case of Challenger,
-Dialogue: 0,0:10:57.53,0:10:58.90,1080P-sgsm-63,,0,0,0,,那么在挑战者号的情况下
-Dialogue: 0,0:10:59.18,0:11:03.80,1080P-sgbd-42,,0,0,0,,it was very cold and those O-rings didn't respond fast enough to fill the gap.
-Dialogue: 0,0:10:59.18,0:11:03.80,1080P-sgsm-63,,0,0,0,,当时天气很冷 那些O形环的反应不够快 无法填满缝隙
-Dialogue: 0,0:11:04.16,0:11:08.37,1080P-sgbd-42,,0,0,0,,As the booster was oscillating, it would find one side would be under tension.
-Dialogue: 0,0:11:04.16,0:11:08.37,1080P-sgsm-63,,0,0,0,,当助推器在摆动时 有一边会被拉紧
-Dialogue: 0,0:11:08.38,0:11:10.98,1080P-sgbd-42,,0,0,0,,And as those joints were pulled under tension,
-Dialogue: 0,0:11:08.38,0:11:10.98,1080P-sgsm-63,,0,0,0,,而随着那些接头被拉紧
-Dialogue: 0,0:11:11.44,0:11:16.80,1080P-sgbd-42,,0,0,0,,one side would get peeled away just because of the shape of the mechanical coupling
-Dialogue: 0,0:11:11.44,0:11:16.80,1080P-sgsm-63,,0,0,0,,由于机械结合装置的形状 有一边会被剥开
-Dialogue: 0,0:11:16.80,0:11:19.51,1080P-sgbd-42,,0,0,0,,and that would pull those joints with the O-rings wider
-Dialogue: 0,0:11:16.80,0:11:19.51,1080P-sgsm-63,,0,0,0,,这样就会把那些带O形环的接头拉得更宽
-Dialogue: 0,0:11:19.51,0:11:22.24,1080P-sgbd-42,,0,0,0,,and then as it was compressed they would get pushed back together
-Dialogue: 0,0:11:19.51,0:11:22.24,1080P-sgsm-63,,0,0,0,,然后 被压缩的时候 两段钢壳又会被推回到一起
-Dialogue: 0,0:11:22.24,0:11:28.64,1080P-sgbd-42,,0,0,0,,but that of course in that moment you would let gas get by and it would start to erode the O-ring.
-Dialogue: 0,0:11:22.24,0:11:28.64,1080P-sgsm-63,,0,0,0,,但就在那一刻 气体会通过 会开始侵蚀O型环
-Dialogue: 0,0:11:28.64,0:11:30.72,1080P-sgbd-42,,0,0,0,,As Challenger was leaving the pad
-Dialogue: 0,0:11:28.64,0:11:30.72,1080P-sgsm-63,,0,0,0,,当挑战者号离开发射台的时候
-Dialogue: 0,0:11:30.72,0:11:35.07,1080P-sgbd-42,,0,0,0,,the cameras recorded puffs of smoke three or four times per second
-Dialogue: 0,0:11:30.72,0:11:35.07,1080P-sgsm-63,,0,0,0,,摄像机记录到每秒三到四次的烟雾
-Dialogue: 0,0:11:35.08,0:11:38.30,1080P-sgbd-42,,0,0,0,,consistent with the oscillations of those boosters.
-Dialogue: 0,0:11:35.08,0:11:38.30,1080P-sgsm-63,,0,0,0,,与那些助推器的振荡一致
-Dialogue: 0,0:11:38.80,0:11:41.44,1080P-sgbd-42,,0,0,0,,But this smoke actually stopped after a few seconds
-Dialogue: 0,0:11:38.80,0:11:41.44,1080P-sgsm-63,,0,0,0,,但这股烟其实在几秒钟后就停止了
-Dialogue: 0,0:11:41.47,0:11:46.47,1080P-sgbd-42,,0,0,0,,and you know Challenger might have safely made it to orbit if it hadn't been for another factor.
-Dialogue: 0,0:11:41.47,0:11:46.47,1080P-sgsm-63,,0,0,0,,而如果不是另外一个因素的影响 挑战者号可能就会安全地入轨 
-Dialogue: 0,0:11:46.99,0:11:51.12,1080P-sgbd-42,,0,0,0,,About 37 seconds into flight, they started experience wind shear
-Dialogue: 0,0:11:46.99,0:11:51.12,1080P-sgsm-63,,0,0,0,,大约在飞行37秒后 挑战者号开始经历风切变
-Dialogue: 0,0:11:51.18,0:11:54.95,1080P-sgbd-42,,0,0,0,,and it was the strongest wind shear on any Shuttle flight
-Dialogue: 0,0:11:51.18,0:11:54.95,1080P-sgsm-63,,0,0,0,,这是航天飞机飞行中最强的风切变
-Dialogue: 0,0:11:54.95,0:11:59.02,1080P-sgbd-42,,0,0,0,,so the boosters are now having to correct for these aerodynamic forces.
-Dialogue: 0,0:11:54.95,0:11:59.02,1080P-sgsm-63,,0,0,0,,那么助推器现在必须纠正这些气动力
-Dialogue: 0,0:11:59.32,0:12:00.94,1080P-sgbd-42,,0,0,0,,They're working much harder.
-Dialogue: 0,0:11:59.32,0:12:00.94,1080P-sgsm-63,,0,0,0,,助推器需要超负荷工作
-Dialogue: 0,0:12:01.27,0:12:07.25,1080P-sgbd-42,,0,0,0,,And of course these forces that are being translated into these boosters causing those joints to flex again.
-Dialogue: 0,0:12:01.27,0:12:07.25,1080P-sgsm-63,,0,0,0,,当然 这些力被转化到助推器上 导致这些接头再次弯曲
-Dialogue: 0,0:12:07.51,0:12:12.43,1080P-sgbd-42,,0,0,0,,And at some point, the joint again starts to come loose and starts leaking
-Dialogue: 0,0:12:07.51,0:12:12.43,1080P-sgsm-63,,0,0,0,,在某个时刻 接头又开始松动并漏气
-Dialogue: 0,0:12:12.45,0:12:18.54,1080P-sgbd-42,,0,0,0,,and that's when we start to see the real erosion happen and the jet of flame start to shoot out.
-Dialogue: 0,0:12:12.45,0:12:18.54,1080P-sgsm-63,,0,0,0,,这时我们开始看到真正的侵蚀发生了 火焰开始喷出
-Dialogue: 0,0:12:19.08,0:12:22.07,1080P-sgbd-42,,0,0,0,,And that flame of course damaged the external tank,
-Dialogue: 0,0:12:19.08,0:12:22.07,1080P-sgsm-63,,0,0,0,,这样的火焰当然也破坏了外部储罐
-Dialogue: 0,0:12:22.07,0:12:24.56,1080P-sgbd-42,,0,0,0,,and it damaged the coupling to the external tank
-Dialogue: 0,0:12:22.07,0:12:24.56,1080P-sgsm-63,,0,0,0,,并损坏了固体助推器和外部储罐之间的连接装置
-Dialogue: 0,0:12:24.56,0:12:28.94,1080P-sgbd-42,,0,0,0,,and eventually tank starts leaking, the booster comes loose at the bottom,
-Dialogue: 0,0:12:24.56,0:12:28.94,1080P-sgsm-63,,0,0,0,,最后外部储罐开始泄漏燃料 助推器底部开始松动
-Dialogue: 0,0:12:28.97,0:12:32.69,1080P-sgbd-42,,0,0,0,,and the vehicle, it breaks up under aerodynamic stress.
-Dialogue: 0,0:12:28.97,0:12:32.69,1080P-sgsm-63,,0,0,0,,而航天飞机轨道器(则因姿态的变化)在气动压力之下解体
-Dialogue: 0,0:12:33.20,0:12:36.32,1080P-sgbd-42,,0,0,0,,So of course the Challenger investigation happens.
-Dialogue: 0,0:12:33.20,0:12:36.32,1080P-sgsm-63,,0,0,0,,那么接下来就是挑战者号的调查了
-Dialogue: 0,0:12:36.32,0:12:39.47,1080P-sgbd-42,,0,0,0,,Richard Feynman does his amazing pop science experiment.
-Dialogue: 0,0:12:36.32,0:12:39.47,1080P-sgsm-63,,0,0,0,,Richard Feynman完成了他那惊人的科普实验
-Dialogue: 0,0:12:39.81,0:12:43.71,1080P-sgbd-42,,0,0,0,,And a number of recommendations are made to fix these joints.
-Dialogue: 0,0:12:39.81,0:12:43.71,1080P-sgsm-63,,0,0,0,,并提出了一些建议来修复这些接头
-Dialogue: 0,0:12:44.07,0:12:46.39,1080P-sgbd-42,,0,0,0,,So first thing they did was in the forward side.
-Dialogue: 0,0:12:44.07,0:12:46.39,1080P-sgsm-63,,0,0,0,,所以他们做的第一件事是在前部钢板的一侧
-Dialogue: 0,0:12:46.39,0:12:52.38,1080P-sgbd-42,,0,0,0,,They add a new flap that stops the O-ring section from being pulled away as tension is applied.
-Dialogue: 0,0:12:46.39,0:12:52.38,1080P-sgsm-63,,0,0,0,,增加了一个新的挡板 以阻止O形环部分被拉开
-Dialogue: 0,0:12:52.92,0:12:55.82,1080P-sgbd-42,,0,0,0,,On that they add a third O-ring as well.
-Dialogue: 0,0:12:52.92,0:12:55.82,1080P-sgsm-63,,0,0,0,,在这上面他们还增加了第三个O形环
-Dialogue: 0,0:12:56.31,0:13:01.64,1080P-sgbd-42,,0,0,0,,The pins are lengthened and on the outside, they add a retainer ring to hold the pins in place.
-Dialogue: 0,0:12:56.31,0:13:01.64,1080P-sgsm-63,,0,0,0,,钉子被加长 同时在外面增加了一个固定环来固定钉子
-Dialogue: 0,0:13:01.93,0:13:06.32,1080P-sgbd-42,,0,0,0,,And to this, they also add a heater to make sure the O-rings never get too cold.
-Dialogue: 0,0:13:01.93,0:13:06.32,1080P-sgsm-63,,0,0,0,,而在此基础上 还增加了一个加热器 以确保O型环总是不会太冷
-Dialogue: 0,0:13:06.72,0:13:12.07,1080P-sgbd-42,,0,0,0,,And on the interior, they just redesign the insulation so that there's something called a j-slit.
-Dialogue: 0,0:13:06.72,0:13:12.07,1080P-sgsm-63,,0,0,0,,而在内部 只是重新设计了绝缘材料 这样就有了所谓的J型缝隙
-Dialogue: 0,0:13:12.07,0:13:14.95,1080P-sgbd-42,,0,0,0,,And this is a gap in the insulation layer at the back.
-Dialogue: 0,0:13:12.07,0:13:14.95,1080P-sgsm-63,,0,0,0,,这就是绝缘层上的一个缝隙
-Dialogue: 0,0:13:14.95,0:13:21.44,1080P-sgbd-42,,0,0,0,,And what it's designed to do is the hot gases will flow into this gap and push the slit apart.
-Dialogue: 0,0:13:14.95,0:13:21.44,1080P-sgsm-63,,0,0,0,,它的设计目的是让热气流进这个缝隙 并把缝隙推开
-Dialogue: 0,0:13:21.44,0:13:25.92,1080P-sgbd-42,,0,0,0,,And this will actually force a section of insulation across the gap
-Dialogue: 0,0:13:21.44,0:13:25.92,1080P-sgsm-63,,0,0,0,,之后 一侧的绝缘层会被推向真正要密封的缝隙上
-Dialogue: 0,0:13:25.92,0:13:28.16,1080P-sgbd-42,,0,0,0,,and therefore increase the seal hopefully.
-Dialogue: 0,0:13:25.92,0:13:28.16,1080P-sgsm-63,,0,0,0,,于是希望这样能增加密封性
-Dialogue: 0,0:13:28.27,0:13:32.07,1080P-sgbd-42,,0,0,0,,It'll act as like another pressure seal helping to protect the O-rings.
-Dialogue: 0,0:13:28.27,0:13:32.07,1080P-sgsm-63,,0,0,0,,这就像另一个压力密封圈一样来保护O形环
-Dialogue: 0,0:13:32.56,0:13:34.07,1080P-sgbd-42,,0,0,0,,So these changes were made
-Dialogue: 0,0:13:32.56,0:13:34.07,1080P-sgsm-63,,0,0,0,,那么 在改进措施进行之后
-Dialogue: 0,0:13:34.07,0:13:38.63,1080P-sgbd-42,,0,0,0,,and the boosters flew largely trouble free for the rest of the Shuttle program
-Dialogue: 0,0:13:34.07,0:13:38.63,1080P-sgsm-63,,0,0,0,,在航天飞机服役的剩余时间里 其助推器基本上没有出现任何问题
-Dialogue: 0,0:13:38.78,0:13:42.63,1080P-sgbd-42,,0,0,0,,and of course they're now being re-engineered for the SLS program.
-Dialogue: 0,0:13:38.78,0:13:42.63,1080P-sgsm-63,,0,0,0,,当然 他们现在正在为SLS项目重新设计固体助推器
-Dialogue: 0,0:13:42.63,0:13:45.44,1080P-sgbd-42,,0,0,0,,There's lots of subtle changes to materials.
-Dialogue: 0,0:13:42.63,0:13:45.44,1080P-sgsm-63,,0,0,0,,材料有很多微妙的变化
-Dialogue: 0,0:13:45.44,0:13:51.13,1080P-sgbd-42,,0,0,0,,The O-rings now handle low temperatures which means they don't have the heaters to keep them warm.
-Dialogue: 0,0:13:45.44,0:13:51.13,1080P-sgsm-63,,0,0,0,,O形环现在可以处理低温 这意味着不需要加热器来保持温度
-Dialogue: 0,0:13:51.60,0:13:55.31,1080P-sgbd-42,,0,0,0,,The insulating material no longer contains asbestos
-Dialogue: 0,0:13:51.60,0:13:55.31,1080P-sgsm-63,,0,0,0,,绝缘材料中不再含有石棉
-Dialogue: 0,0:13:55.67,0:14:01.05,1080P-sgbd-42,,0,0,0,,and the boosters are now five segments long providing for more thrust and a longer burn time.
-Dialogue: 0,0:13:55.67,0:14:01.05,1080P-sgsm-63,,0,0,0,,而助推器延长到五段 可以提供更多的推力和更长的燃烧时间
-Dialogue: 0,0:14:01.19,0:14:03.44,1080P-sgbd-42,,0,0,0,,They are still using steel casings though
-Dialogue: 0,0:14:01.19,0:14:03.44,1080P-sgsm-63,,0,0,0,,尽管仍然使用钢壳
-Dialogue: 0,0:14:03.44,0:14:08.65,1080P-sgbd-42,,0,0,0,,while many modern solid boosters have switched over to use composite or filament wound casings.
-Dialogue: 0,0:14:03.44,0:14:08.65,1080P-sgsm-63,,0,0,0,,而很多现代固体助推器已经改用复合材料或(碳)纤维缠绕外壳
-Dialogue: 0,0:14:09.10,0:14:13.20,1080P-sgbd-42,,0,0,0,,But the Space Shuttle actually looked at filament wound casings very early on.
-Dialogue: 0,0:14:09.10,0:14:13.20,1080P-sgsm-63,,0,0,0,,但其实航天飞机很早就研究过纤维缠绕外壳
-Dialogue: 0,0:14:13.68,0:14:15.36,1080P-sgbd-42,,0,0,0,,Back in the early days of the Space Shuttle
-Dialogue: 0,0:14:13.68,0:14:15.36,1080P-sgsm-63,,0,0,0,,早在航天飞机的早期阶段
-Dialogue: 0,0:14:15.36,0:14:19.76,1080P-sgbd-42,,0,0,0,,they really wanted to launch the Space Shuttle into polar orbits from Vandenberg.
-Dialogue: 0,0:14:15.36,0:14:19.76,1080P-sgsm-63,,0,0,0,,那时 (美国空军)想把航天飞机从范登堡发射到极地轨道上
-Dialogue: 0,0:14:19.76,0:14:24.77,1080P-sgbd-42,,0,0,0,,And because it wasn't launching eastwards, they needed to have a bit more performance.
-Dialogue: 0,0:14:19.76,0:14:24.77,1080P-sgsm-63,,0,0,0,,因为这不是向东发射(可以借助地球自转初速) 所以需要更多的性能
-Dialogue: 0,0:14:24.80,0:14:29.32,1080P-sgbd-42,,0,0,0,,So there was a program to develop these lighter boosters using modern composite materials.
-Dialogue: 0,0:14:24.80,0:14:29.32,1080P-sgsm-63,,0,0,0,,那么有个项目是开发这些使用现代复合材料的轻型助推器
-Dialogue: 0,0:14:29.83,0:14:34.16,1080P-sgbd-42,,0,0,0,,Unfortunately of course that program shut down when Challenger happened,
-Dialogue: 0,0:14:29.83,0:14:34.16,1080P-sgsm-63,,0,0,0,,当然不幸地是 当挑战者号发生时 这个计划就被取消了
-Dialogue: 0,0:14:34.19,0:14:38.99,1080P-sgbd-42,,0,0,0,,there were more pressing concerns and the Space Shuttle never launched from Vandenberg.
-Dialogue: 0,0:14:34.19,0:14:38.99,1080P-sgsm-63,,0,0,0,,因为事故调查是更紧迫的问题 而航天飞机就再也没能从范登堡发射了
-Dialogue: 0,0:14:39.38,0:14:42.63,1080P-sgbd-42,,0,0,0,,There was one other rocket that flew with this booster design
-Dialogue: 0,0:14:39.38,0:14:42.63,1080P-sgsm-63,,0,0,0,,还有一枚火箭采用了这种助推器设计
-Dialogue: 0,0:14:42.63,0:14:46.46,1080P-sgbd-42,,0,0,0,,that was the Ares I-X that flew back in 2009.
-Dialogue: 0,0:14:42.63,0:14:46.46,1080P-sgsm-63,,0,0,0,,那是2009年发射过的战神1X
-Dialogue: 0,0:14:46.72,0:14:52.63,1080P-sgbd-42,,0,0,0,,The constellation program of course was planning to use these to deliver cargo and crew to the space station.
-Dialogue: 0,0:14:46.72,0:14:52.63,1080P-sgsm-63,,0,0,0,,当然 星座计划当时正打算用这些火箭向空间站运送货物和乘员
-Dialogue: 0,0:14:52.70,0:14:58.44,1080P-sgbd-42,,0,0,0,,Back in the days when many people didn't trust outside contractors like SpaceX to do the same thing.
-Dialogue: 0,0:14:52.70,0:14:58.44,1080P-sgsm-63,,0,0,0,,当年很多人都不相信像SpaceX这样的外部承包商能胜任同样的工作
-Dialogue: 0,0:14:58.56,0:15:01.92,1080P-sgbd-42,,0,0,0,,To be honest the Ares I-X wasn't much of a launch vehicle.
-Dialogue: 0,0:14:58.56,0:15:01.92,1080P-sgsm-63,,0,0,0,,说实话 战神1X并不算一个(轨道级)运载火箭
-Dialogue: 0,0:15:01.92,0:15:08.48,1080P-sgbd-42,,0,0,0,,It was all boilerplate with the exception of the main booster and a single unit that provided roll control.
-Dialogue: 0,0:15:01.92,0:15:08.48,1080P-sgsm-63,,0,0,0,,除了主助推器和一个提供滚动控制的部件外 其他都是样板
-Dialogue: 0,0:15:08.48,0:15:09.60,1080P-sgbd-42,,0,0,0,,Everything else was a dummy.
-Dialogue: 0,0:15:08.48,0:15:09.60,1080P-sgsm-63,,0,0,0,,其他的都是模型而已
-Dialogue: 0,0:15:09.64,0:15:13.97,1080P-sgbd-42,,0,0,0,,The booster wasn't even a full five-segment booster that was supposed to be used on the real thing.
-Dialogue: 0,0:15:09.64,0:15:13.97,1080P-sgsm-63,,0,0,0,,助推器甚至都不是(战神1火箭)正式版会使用的完整的五段式助推器
-Dialogue: 0,0:15:14.33,0:15:19.92,1080P-sgbd-42,,0,0,0,,And it lifted off and showed that well a Shuttle booster can indeed lift lots of mass
-Dialogue: 0,0:15:14.33,0:15:19.92,1080P-sgsm-63,,0,0,0,,它升空了 并证明航天飞机的助推器确实可以推动大质量物体
-Dialogue: 0,0:15:19.94,0:15:25.45,1080P-sgbd-42,,0,0,0,,but it was a very expensive launch for not even a fully functioning launch vehicle.
-Dialogue: 0,0:15:19.94,0:15:25.45,1080P-sgsm-63,,0,0,0,,但对于功能不齐全的运载火箭而言 这是一次非常昂贵的发射
-Dialogue: 0,0:15:25.69,0:15:29.41,1080P-sgbd-42,,0,0,0,,And commercial vehicles are doing this so much cheaper these days.
-Dialogue: 0,0:15:25.69,0:15:29.41,1080P-sgsm-63,,0,0,0,,而现在的商用运载火箭进行空间站运输的任务 就便宜多了
-Dialogue: 0,0:15:30.00,0:15:35.68,1080P-sgbd-42,,0,0,0,,So these big dumb solid rocket boosters that propelled the Space Shuttle and will carry the SLS
-Dialogue: 0,0:15:30.00,0:15:35.68,1080P-sgsm-63,,0,0,0,,所以 这些又大又笨的固体火箭助推器 曾经推动过航天飞机 以后将运送SLS
-Dialogue: 0,0:15:35.68,0:15:38.19,1080P-sgbd-42,,0,0,0,,are by no means low tech items.
-Dialogue: 0,0:15:35.68,0:15:38.19,1080P-sgsm-63,,0,0,0,,绝不是低科技含量的东西
-Dialogue: 0,0:15:38.20,0:15:41.94,1080P-sgbd-42,,0,0,0,,By any means, they are very much the product of rocket science.
-Dialogue: 0,0:15:38.20,0:15:41.94,1080P-sgsm-63,,0,0,0,,无论如何 固体火箭助推器都算是富含火箭科学的产品
-Dialogue: 0,0:15:42.16,0:15:44.66,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:15:42.16,0:15:44.66,1080P-sgsm-63,,0,0,0,,我是Scott Manley 切记 注意飞行安全
-Dialogue: 0,0:15:57.12,0:16:09.12,1080P-sgbd-4s,,0,0,0,,[Music]
-Dialogue: 0,0:15:57.12,0:16:09.12,1080P-sgsm-6s,,0,0,0,,[音乐]
+Comment: 0,0:00:04.24,0:00:05.52,1080P-sgbd-42,,0,0,0,,{\blur4}字幕
+Dialogue: 0,0:00:04.24,0:00:05.52,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Dialogue: 0,0:00:04.24,0:00:05.52,1080P-sgsm-63,,0,0,0,,{\blur4}你好 我是Scott Manley
+Dialogue: 0,0:00:05.52,0:00:09.43,1080P-sgbd-42,,0,0,0,,{\blur4}And today I want to talk about the massive solid rocket boosters
+Dialogue: 0,0:00:05.52,0:00:09.43,1080P-sgsm-63,,0,0,0,,{\blur4}今天我想谈谈那些巨大的固体火箭助推器(SRB)
+Dialogue: 0,0:00:09.45,0:00:15.41,1080P-sgbd-42,,0,0,0,,{\blur4}which were the backbone of the Space Shuttle and will continue to do so for the SLS.
+Dialogue: 0,0:00:09.45,0:00:15.41,1080P-sgsm-63,,0,0,0,,{\blur4}它们是推动航天飞机的中坚力量 并将继续用于SLS
+Dialogue: 0,0:00:15.90,0:00:20.93,1080P-sgbd-42,,0,0,0,,{\blur4}these were the largest and most powerful rocket propulsion systems ever used in flight
+Dialogue: 0,0:00:15.90,0:00:20.93,1080P-sgsm-63,,0,0,0,,{\blur4}在(火箭)发射中 这是有史以来使用的(尺寸)最大且(推力)最强大的火箭推进系统
+Dialogue: 0,0:00:21.06,0:00:24.12,1080P-sgbd-42,,0,0,0,,{\blur4}And they're getting even bigger for SLS.
+Dialogue: 0,0:00:21.06,0:00:24.12,1080P-sgsm-63,,0,0,0,,{\blur4}而且 SLS的固体助推版本会比这更大
+Dialogue: 0,0:00:24.56,0:00:27.22,1080P-sgbd-42,,0,0,0,,{\blur4}When I've talked about rocket propulsion systems in the past,
+Dialogue: 0,0:00:24.56,0:00:27.22,1080P-sgsm-63,,0,0,0,,{\blur4}当我过去谈到火箭推进系统的时候
+Dialogue: 0,0:00:27.23,0:00:32.73,1080P-sgbd-42,,0,0,0,,{\blur4}I've often focused on liquid fueled engines and their complex plumbing and high pressure pumps.
+Dialogue: 0,0:00:27.23,0:00:32.73,1080P-sgsm-63,,0,0,0,,{\blur4}我经常会关注液体燃料发动机及其复杂的管道和高压泵
+Dialogue: 0,0:00:32.96,0:00:37.60,1080P-sgbd-42,,0,0,0,,{\blur4}And sort of dismissed solid rocket motors as being relatively simple
+Dialogue: 0,0:00:32.96,0:00:37.60,1080P-sgsm-63,,0,0,0,,{\blur4}而对固体火箭发动机却不屑一顾 认为它相对简单
+Dialogue: 0,0:00:37.60,0:00:39.56,1080P-sgbd-42,,0,0,0,,{\blur4}because they don't really have any moving parts
+Dialogue: 0,0:00:37.60,0:00:39.56,1080P-sgsm-63,,0,0,0,,{\blur4}因为它们并没有真正的活动部件
+Dialogue: 0,0:00:39.58,0:00:41.66,1080P-sgbd-42,,0,0,0,,{\blur4}but of course that is far from the truth.
+Dialogue: 0,0:00:39.58,0:00:41.66,1080P-sgsm-63,,0,0,0,,{\blur4}但是事实远非如此
+Dialogue: 0,0:00:42.00,0:00:47.20,1080P-sgbd-42,,0,0,0,,{\blur4}These are incredibly high-tech items that were developed back in the 1970s
+Dialogue: 0,0:00:42.00,0:00:47.20,1080P-sgsm-63,,0,0,0,,{\blur4}这些都是上世纪70年代开发的高科技项目 令人难以置信
+Dialogue: 0,0:00:47.20,0:00:51.52,1080P-sgbd-42,,0,0,0,,{\blur4}and were continuously improved even before the Challenger accident,
+Dialogue: 0,0:00:47.20,0:00:51.52,1080P-sgsm-63,,0,0,0,,{\blur4}并在挑战者号事故之前就在不断地改进
+Dialogue: 0,0:00:51.52,0:00:55.23,1080P-sgbd-42,,0,0,0,,{\blur4}forced them to take a hard look at certain features of the booster.
+Dialogue: 0,0:00:51.52,0:00:55.23,1080P-sgsm-63,,0,0,0,,{\blur4}而在事故之后 迫使开发人员认真审视助推器的某些功能
+Dialogue: 0,0:00:55.30,0:00:56.98,1080P-sgbd-42,,0,0,0,,{\blur4}But we'll get to that later.
+Dialogue: 0,0:00:55.30,0:00:56.98,1080P-sgsm-63,,0,0,0,,{\blur4}但我们稍后再谈这个问题
+Dialogue: 0,0:00:57.36,0:01:01.80,1080P-sgbd-42,,0,0,0,,{\blur4}At launch, the boosters accounted for more than half the mass of the Space Shuttle stack.
+Dialogue: 0,0:00:57.36,0:01:01.80,1080P-sgsm-63,,0,0,0,,{\blur4}在发射时 助推器占了航天飞机组合体一半以上的质量
+Dialogue: 0,0:01:01.82,0:01:06.64,1080P-sgbd-42,,0,0,0,,{\blur4}Each booster was about 600 tons and the total Shuttle stack was about 2000 tons.
+Dialogue: 0,0:01:01.82,0:01:06.64,1080P-sgsm-63,,0,0,0,,{\blur4}每个助推器重约为600吨 而航天飞机组合体的总重量约为2000吨
+Dialogue: 0,0:01:07.10,0:01:10.79,1080P-sgbd-42,,0,0,0,,{\blur4}Each booster would generate about 1250 tons of thrust
+Dialogue: 0,0:01:07.10,0:01:10.79,1080P-sgsm-63,,0,0,0,,{\blur4}每个助推器都会产生大约1250吨的推力
+Dialogue: 0,0:01:10.88,0:01:13.61,1080P-sgbd-42,,0,0,0,,{\blur4}whereas the core would only generate about 600 tons.
+Dialogue: 0,0:01:10.88,0:01:13.61,1080P-sgsm-63,,0,0,0,,{\blur4}而芯级(航天飞机轨道器)只产生600吨左右
+Dialogue: 0,0:01:13.62,0:01:16.72,1080P-sgbd-42,,0,0,0,,{\blur4}So these boosters for the first two minutes of flight
+Dialogue: 0,0:01:13.62,0:01:16.72,1080P-sgsm-63,,0,0,0,,{\blur4}所以这些助推器在飞行的前两分钟里
+Dialogue: 0,0:01:16.72,0:01:21.58,1080P-sgbd-42,,0,0,0,,{\blur4}would provide about two-thirds of the thrust needed to get the vehicle up and moving.
+Dialogue: 0,0:01:16.72,0:01:21.58,1080P-sgsm-63,,0,0,0,,{\blur4}将提供约三分之二的推力 使飞行器上升并移动
+Dialogue: 0,0:01:22.54,0:01:24.96,1080P-sgbd-42,,0,0,0,,{\blur4}Even before that, the boosters were critical
+Dialogue: 0,0:01:22.54,0:01:24.96,1080P-sgsm-63,,0,0,0,,{\blur4}即使在那之前 助推器也是至关重要的
+Dialogue: 0,0:01:24.96,0:01:29.55,1080P-sgbd-42,,0,0,0,,{\blur4}because the entire structure was anchored to the launch pad through the boosters.
+Dialogue: 0,0:01:24.96,0:01:29.55,1080P-sgsm-63,,0,0,0,,{\blur4}因为整个结构是通过助推器固定在发射台上的
+Dialogue: 0,0:01:29.60,0:01:31.88,1080P-sgbd-42,,0,0,0,,{\blur4}There were eight massive bolts
+Dialogue: 0,0:01:29.60,0:01:31.88,1080P-sgsm-63,,0,0,0,,{\blur4}有八个巨大的螺栓
+Dialogue: 0,0:01:31.93,0:01:37.65,1080P-sgbd-42,,0,0,0,,{\blur4}that would hold the boosters down with frangible nuts that would be detonated at T-equal-zero.
+Dialogue: 0,0:01:31.93,0:01:37.65,1080P-sgsm-63,,0,0,0,,{\blur4}将助推器固定在易碎的螺帽上 在发射倒计时为0时引爆
+Dialogue: 0,0:01:38.21,0:01:43.74,1080P-sgbd-42,,0,0,0,,{\blur4}Simultaneously the igniter at the top of the booster would be triggered and the booster would start running
+Dialogue: 0,0:01:38.21,0:01:43.74,1080P-sgsm-63,,0,0,0,,{\blur4}同时 助推器顶部的点火器将被触发 而助推器将开始运行
+Dialogue: 0,0:01:43.74,0:01:47.15,1080P-sgbd-42,,0,0,0,,{\blur4}and it wouldn't stop running for the next two minutes no matter what.
+Dialogue: 0,0:01:43.74,0:01:47.15,1080P-sgsm-63,,0,0,0,,{\blur4}并且在接下来的两分钟内一直运行 除非触发中止系统
+Dialogue: 0,0:01:47.60,0:01:53.15,1080P-sgbd-42,,0,0,0,,{\blur4}The propellant was a hard rubbery substance made primarily of ammonium perchlorate
+Dialogue: 0,0:01:47.60,0:01:53.15,1080P-sgsm-63,,0,0,0,,{\blur4}推进剂是一种坚硬的橡胶物质 主要由高氯酸铵制成
+Dialogue: 0,0:01:53.16,0:01:55.63,1080P-sgbd-42,,0,0,0,,{\blur4}which covered about 70 percent of the mass.
+Dialogue: 0,0:01:53.16,0:01:55.63,1080P-sgsm-63,,0,0,0,,{\blur4}约占质量的70%
+Dialogue: 0,0:01:56.04,0:01:59.52,1080P-sgbd-42,,0,0,0,,{\blur4}There was about 16 percent aluminium powder
+Dialogue: 0,0:01:56.04,0:01:59.52,1080P-sgsm-63,,0,0,0,,{\blur4}其中有大约16%的铝粉
+Dialogue: 0,0:01:59.52,0:02:02.07,1080P-sgbd-42,,0,0,0,,{\blur4}which would provide most of the energy for the combustion.
+Dialogue: 0,0:01:59.52,0:02:02.07,1080P-sgsm-63,,0,0,0,,{\blur4}这将为燃烧提供大部分能量
+Dialogue: 0,0:02:02.11,0:02:05.51,1080P-sgbd-42,,0,0,0,,{\blur4}There would be a tiny amount of iron oxide to act as a catalyst
+Dialogue: 0,0:02:02.11,0:02:05.51,1080P-sgsm-63,,0,0,0,,{\blur4}同时会有少量的氧化铁作为催化剂
+Dialogue: 0,0:02:05.55,0:02:09.45,1080P-sgbd-42,,0,0,0,,{\blur4}and all this would be bound together by something called PBAN
+Dialogue: 0,0:02:05.55,0:02:09.45,1080P-sgsm-63,,0,0,0,,{\blur4}而这一切都将被称为PBAN的东西粘合在一起
+Dialogue: 0,0:02:09.66,0:02:14.58,1080P-sgbd-42,,0,0,0,,{\blur4}because saying polybutadiene acrylonitrile all the time is quite a mouthful.
+Dialogue: 0,0:02:09.66,0:02:14.58,1080P-sgsm-63,,0,0,0,,{\blur4}不说全称因为聚丁二烯丙烯腈(PBAN)是很拗口的
+Dialogue: 0,0:02:14.95,0:02:20.35,1080P-sgbd-42,,0,0,0,,{\blur4}This material would be mixed at a factory and then molded inside the solid rocket motors
+Dialogue: 0,0:02:14.95,0:02:20.35,1080P-sgsm-6t,,0,0,0,,{\blur4}这种材料会在工厂里混合 然后在固体火箭发动机里面成型
+Dialogue: 0,0:02:20.66,0:02:26.29,1080P-sgbd-42,,0,0,0,,{\blur4}and they would have a material around the outside with a hole down the entire length of the booster.
+Dialogue: 0,0:02:20.66,0:02:26.29,1080P-sgsm-6t,,0,0,0,,{\blur4}(混合的时候)会让材料凝固在助推器(内部)的外围一圈 使整个助推器中间都是洞
+Dialogue: 0,0:02:26.58,0:02:30.80,1080P-sgbd-42,,0,0,0,,{\blur4}When the booster lit the combustion is happening on the internal surface of this
+Dialogue: 0,0:02:26.58,0:02:30.80,1080P-sgsm-63,,0,0,0,,{\blur4}当助推器点火时 燃烧发生在这个洞的表面上
+Dialogue: 0,0:02:30.97,0:02:36.23,1080P-sgbd-42,,0,0,0,,{\blur4}and the hot gases are escaping down this interior channel toward the nozzle at the far end.
+Dialogue: 0,0:02:30.97,0:02:36.23,1080P-sgsm-63,,0,0,0,,{\blur4}而热气体就沿着这个内部通道 一路向下 往远端的喷嘴喷出
+Dialogue: 0,0:02:36.98,0:02:40.08,1080P-sgbd-42,,0,0,0,,{\blur4}The boosters were originally manufactured by Thiokol.
+Dialogue: 0,0:02:36.98,0:02:40.08,1080P-sgsm-63,,0,0,0,,{\blur4}助推器最初是由Thiokol制造的
+Dialogue: 0,0:02:40.08,0:02:43.28,1080P-sgbd-42,,0,0,0,,{\blur4}The contract was awarded in the mid-1970s.
+Dialogue: 0,0:02:40.08,0:02:43.28,1080P-sgsm-63,,0,0,0,,{\blur4}合同是在70年代中期签订的
+Dialogue: 0,0:02:43.28,0:02:49.36,1080P-sgbd-42,,0,0,0,,{\blur4}Now they are based in Utah and they needed to move the boosters which were very large to Florida
+Dialogue: 0,0:02:43.28,0:02:49.36,1080P-sgsm-63,,0,0,0,,{\blur4}现在他们的总部设在犹他州 需要将这些非常大的助推器转移到佛罗里达州
+Dialogue: 0,0:02:49.36,0:02:52.08,1080P-sgbd-42,,0,0,0,,{\blur4}which meant the boosters weren't moved in a single piece.
+Dialogue: 0,0:02:49.36,0:02:52.08,1080P-sgsm-63,,0,0,0,,{\blur4}这意味着助推器不是整体移动的
+Dialogue: 0,0:02:52.09,0:02:56.24,1080P-sgbd-42,,0,0,0,,{\blur4}They were made of multiple pieces which were joined together in Florida.
+Dialogue: 0,0:02:52.09,0:02:56.24,1080P-sgsm-63,,0,0,0,,{\blur4}助推器是分为许多块 运到佛罗里达州后 再将其连接在一起
+Dialogue: 0,0:02:56.87,0:03:01.12,1080P-sgbd-42,,0,0,0,,{\blur4}So the main booster casings were constructed from cylinders of steel.
+Dialogue: 0,0:02:56.87,0:03:01.12,1080P-sgsm-63,,0,0,0,,{\blur4}那么助推器的主外壳是由钢制圆柱体构成的
+Dialogue: 0,0:03:01.48,0:03:06.18,1080P-sgbd-42,,0,0,0,,{\blur4}They would be 3.7 meters in diameter and about four and a half meters long
+Dialogue: 0,0:03:01.48,0:03:06.18,1080P-sgsm-63,,0,0,0,,{\blur4}它们的直径为3.7米 长约4.5米
+Dialogue: 0,0:03:06.48,0:03:12.00,1080P-sgbd-42,,0,0,0,,{\blur4}and about 12 millimeters thick made of a very high quality high strength Maraging steel.
+Dialogue: 0,0:03:06.48,0:03:12.00,1080P-sgsm-63,,0,0,0,,{\blur4}厚度约12毫米 由非常优质的高强度马氏体时效钢制成
+Dialogue: 0,0:03:12.15,0:03:14.21,1080P-sgbd-42,,0,0,0,,{\blur4}They would take eight of these sections
+Dialogue: 0,0:03:12.15,0:03:14.21,1080P-sgsm-63,,0,0,0,,{\blur4}每个助推器包括八个这样的部分
+Dialogue: 0,0:03:14.23,0:03:19.23,1080P-sgbd-42,,0,0,0,,{\blur4}and join them together in pairs using a factory joint which would be permanent.
+Dialogue: 0,0:03:14.23,0:03:19.23,1080P-sgsm-63,,0,0,0,,{\blur4}而助推器分段两两连接在一起 并在工厂里就永久性地结合起来
+Dialogue: 0,0:03:19.70,0:03:23.00,1080P-sgbd-42,,0,0,0,,{\blur4}And then it would fill each section with the material.
+Dialogue: 0,0:03:19.70,0:03:23.00,1080P-sgsm-63,,0,0,0,,{\blur4}然后用固体燃料填满每个部分
+Dialogue: 0,0:03:23.21,0:03:26.08,1080P-sgbd-42,,0,0,0,,{\blur4}But there's a little more that goes on than just pouring the propellant in.
+Dialogue: 0,0:03:23.21,0:03:26.08,1080P-sgsm-6t,,0,0,0,,{\blur4}但除了把推进剂倒进去 还有更多的事情要做
+Dialogue: 0,0:03:26.08,0:03:28.48,1080P-sgbd-42,,0,0,0,,{\blur4}First of all there is an insulating layer on the outside.
+Dialogue: 0,0:03:26.08,0:03:28.48,1080P-sgsm-6t,,0,0,0,,{\blur4}首先 外面有一个绝缘层
+Dialogue: 0,0:03:28.51,0:03:30.58,1080P-sgbd-42,,0,0,0,,{\blur4}It's about four and a half centimeters thick
+Dialogue: 0,0:03:28.51,0:03:30.58,1080P-sgsm-6t,,0,0,0,,{\blur4}它大约有4.5厘米厚
+Dialogue: 0,0:03:30.72,0:03:33.74,1080P-sgbd-42,,0,0,0,,{\blur4}and it's a like asbestos-filled rubber.
+Dialogue: 0,0:03:30.72,0:03:33.74,1080P-sgsm-6t,,0,0,0,,{\blur4}这种绝缘层类似于用石棉填充的橡胶
+Dialogue: 0,0:03:33.77,0:03:35.69,1080P-sgbd-42,,0,0,0,,{\blur4}That's what they used on the Space Shuttle
+Dialogue: 0,0:03:33.77,0:03:35.69,1080P-sgsm-6t,,0,0,0,,{\blur4}同样也用在航天飞机上
+Dialogue: 0,0:03:35.94,0:03:39.51,1080P-sgbd-42,,0,0,0,,{\blur4}and this is of course isolates the interior of the booster from the steel.
+Dialogue: 0,0:03:35.94,0:03:39.51,1080P-sgsm-6t,,0,0,0,,{\blur4}当然这也是将助推器的内部与钢壳隔离开来
+Dialogue: 0,0:03:39.51,0:03:40.87,1080P-sgbd-42,,0,0,0,,{\blur4}Stops it getting too hot.
+Dialogue: 0,0:03:39.51,0:03:40.87,1080P-sgsm-6t,,0,0,0,,{\blur4}阻止它变得太热
+Dialogue: 0,0:03:40.87,0:03:45.16,1080P-sgbd-42,,0,0,0,,{\blur4}Isolates it from vibration and electrical, your currents and things like that.
+Dialogue: 0,0:03:40.87,0:03:45.16,1080P-sgsm-6t,,0,0,0,,{\blur4}隔离它的振动和电气之类的东西
+Dialogue: 0,0:03:45.59,0:03:50.23,1080P-sgbd-42,,0,0,0,,{\blur4}Now for the SLS, they are actually replacing this with a new material
+Dialogue: 0,0:03:45.59,0:03:50.23,1080P-sgsm-63,,0,0,0,,{\blur4}对于SLS来说 他们实际上是在用一种新的材料来代替它
+Dialogue: 0,0:03:50.25,0:03:52.76,1080P-sgbd-42,,0,0,0,,{\blur4}because asbestos has many problems.
+Dialogue: 0,0:03:50.25,0:03:52.76,1080P-sgsm-63,,0,0,0,,{\blur4}因为石棉有很多问题
+Dialogue: 0,0:03:53.36,0:03:58.91,1080P-sgbd-42,,0,0,0,,{\blur4}And that's one of the reasons why we've seen tests of the booster rockets that are going to be used on the SLS.
+Dialogue: 0,0:03:53.36,0:03:58.91,1080P-sgsm-63,,0,0,0,,{\blur4}这也是会对SLS上使用的助推器进行测试的原因之一
+Dialogue: 0,0:03:59.04,0:04:01.32,1080P-sgbd-42,,0,0,0,,{\blur4}Because they need to validate the new materials.
+Dialogue: 0,0:03:59.04,0:04:01.32,1080P-sgsm-63,,0,0,0,,{\blur4}因为他们需要验证新的材料
+Dialogue: 0,0:04:01.68,0:04:05.74,1080P-sgbd-42,,0,0,0,,{\blur4}There are some other insulating layers interior to that but they're pretty thin
+Dialogue: 0,0:04:01.68,0:04:05.74,1080P-sgsm-63,,0,0,0,,{\blur4}在这个绝缘层内部还有一些其他比较薄的绝缘层
+Dialogue: 0,0:04:05.74,0:04:07.95,1080P-sgbd-42,,0,0,0,,{\blur4}and then you have the bulk of the propellant.
+Dialogue: 0,0:04:05.74,0:04:07.95,1080P-sgsm-63,,0,0,0,,{\blur4}接着就是大块的推进剂了
+Dialogue: 0,0:04:08.63,0:04:11.84,1080P-sgbd-42,,0,0,0,,{\blur4}The propellant layer is just over a meter thick.
+Dialogue: 0,0:04:08.63,0:04:11.84,1080P-sgsm-63,,0,0,0,,{\blur4}推进剂层有一米多厚
+Dialogue: 0,0:04:11.87,0:04:15.09,1080P-sgbd-42,,0,0,0,,{\blur4}Although this vAries depending upon where you are in the booster
+Dialogue: 0,0:04:11.87,0:04:15.09,1080P-sgsm-63,,0,0,0,,{\blur4}虽然这取决于你在助推器中的位置
+Dialogue: 0,0:04:15.13,0:04:19.67,1080P-sgbd-42,,0,0,0,,{\blur4}because the thickness will help control the burn rate during the flight.
+Dialogue: 0,0:04:15.13,0:04:19.67,1080P-sgsm-63,,0,0,0,,{\blur4}因为厚度将有助于控制飞行过程中的燃烧速度
+Dialogue: 0,0:04:20.04,0:04:23.19,1080P-sgbd-42,,0,0,0,,{\blur4}But that means there's a fairly large wide section in the middle.
+Dialogue: 0,0:04:20.04,0:04:23.19,1080P-sgsm-6t,,0,0,0,,{\blur4}但这意味着中间有一个相当宽阔的区域
+Dialogue: 0,0:04:23.19,0:04:26.47,1080P-sgbd-42,,0,0,0,,{\blur4}Wide enough for somebody to crawl down if they were, you know, crazy.
+Dialogue: 0,0:04:23.19,0:04:26.47,1080P-sgsm-6t,,0,0,0,,{\blur4}宽阔到足以让人爬下来 如果有人这么疯狂的话
+Dialogue: 0,0:04:26.88,0:04:31.63,1080P-sgbd-42,,0,0,0,,{\blur4}At both ends of each section, there is a layer of inhibitor material added.
+Dialogue: 0,0:04:26.88,0:04:31.63,1080P-sgsm-63,,0,0,0,,{\blur4}在每个部分的两端 都有一层抑制材料
+Dialogue: 0,0:04:31.70,0:04:36.27,1080P-sgbd-42,,0,0,0,,{\blur4}This is like an ablative heat shield that stops the propellant from burning on the ends.
+Dialogue: 0,0:04:31.70,0:04:36.27,1080P-sgsm-6t,,0,0,0,,{\blur4}这就像一个烧蚀性的热盾 阻止推进剂在两端燃烧
+Dialogue: 0,0:04:36.58,0:04:39.27,1080P-sgbd-42,,0,0,0,,{\blur4}There's a gap between each segment and the booster
+Dialogue: 0,0:04:36.58,0:04:39.27,1080P-sgsm-6t,,0,0,0,,{\blur4}每段助推器之间都有一个间隙
+Dialogue: 0,0:04:39.42,0:04:43.12,1080P-sgbd-42,,0,0,0,,{\blur4}and if hot gases flowed in there then you would have extra combustion there
+Dialogue: 0,0:04:39.42,0:04:43.12,1080P-sgsm-63,,0,0,0,,{\blur4}如果热气流进那里 那里就会进行额外的燃烧
+Dialogue: 0,0:04:43.37,0:04:44.18,1080P-sgbd-42,,0,0,0,,{\blur4}they don't want that.
+Dialogue: 0,0:04:43.37,0:04:44.18,1080P-sgsm-63,,0,0,0,,{\blur4}设计人员不希望这样的事情发生
+Dialogue: 0,0:04:44.19,0:04:48.27,1080P-sgbd-42,,0,0,0,,{\blur4}So they control it with a material that will essentially ablate away
+Dialogue: 0,0:04:44.19,0:04:48.27,1080P-sgsm-63,,0,0,0,,{\blur4}所以他们用一种烧蚀性材料来进行控制
+Dialogue: 0,0:04:48.56,0:04:52.81,1080P-sgbd-42,,0,0,0,,{\blur4}and control the combustion to only be along that interior channel.
+Dialogue: 0,0:04:48.56,0:04:52.81,1080P-sgsm-63,,0,0,0,,{\blur4}使得燃烧只沿着助推器内部的通道进行
+Dialogue: 0,0:04:53.44,0:04:55.60,1080P-sgbd-42,,0,0,0,,{\blur4}On the very front segment of the booster
+Dialogue: 0,0:04:53.44,0:04:55.60,1080P-sgsm-63,,0,0,0,,{\blur4}在助推器的最前段
+Dialogue: 0,0:04:55.60,0:04:59.61,1080P-sgbd-42,,0,0,0,,{\blur4}there is an 11 pointed star that is cast into the structure.
+Dialogue: 0,0:04:55.60,0:04:59.61,1080P-sgsm-63,,0,0,0,,{\blur4}有一个11角星铸造结构
+Dialogue: 0,0:04:59.84,0:05:04.05,1080P-sgbd-42,,0,0,0,,{\blur4}This will burn faster early on giving them a little boost at launch
+Dialogue: 0,0:04:59.84,0:05:04.05,1080P-sgsm-6t,,0,0,0,,{\blur4}这将使发射时的点火稍快一些
+Dialogue: 0,0:05:04.06,0:05:09.13,1080P-sgbd-42,,0,0,0,,{\blur4}and then those veins will burn away and the combustion will slow down a little
+Dialogue: 0,0:05:04.06,0:05:09.13,1080P-sgsm-6t,,0,0,0,,{\blur4}随着这些纹理烧光 燃烧过程就会减缓
+Dialogue: 0,0:05:09.22,0:05:12.37,1080P-sgbd-42,,0,0,0,,{\blur4}which of course helps them by reducing the thrust
+Dialogue: 0,0:05:09.22,0:05:12.37,1080P-sgsm-63,,0,0,0,,{\blur4}当然就是推力会减少
+Dialogue: 0,0:05:12.41,0:05:16.33,1080P-sgbd-42,,0,0,0,,{\blur4}during the point of maximum aerodynamic pressure or MAX-Q.
+Dialogue: 0,0:05:12.41,0:05:16.33,1080P-sgsm-63,,0,0,0,,{\blur4}(刚好)会发生在最大气动压力或MAX-Q期间
+Dialogue: 0,0:05:16.82,0:05:21.75,1080P-sgbd-42,,0,0,0,,{\blur4}This section also includes the ignition system which is up at the very front of the booster.
+Dialogue: 0,0:05:16.82,0:05:21.75,1080P-sgsm-6t,,0,0,0,,{\blur4}位于助推器的最前面这一部分还包括点火系统
+Dialogue: 0,0:05:21.93,0:05:25.44,1080P-sgbd-42,,0,0,0,,{\blur4}The way it works is it's essentially a very small rocket booster.
+Dialogue: 0,0:05:21.93,0:05:25.44,1080P-sgsm-63,,0,0,0,,{\blur4}它的工作原理类似于一个非常小的火箭助推器
+Dialogue: 0,0:05:25.44,0:05:29.44,1080P-sgbd-42,,0,0,0,,{\blur4}It's actually a multi-stage system where you have a pyrotechnic igniter
+Dialogue: 0,0:05:25.44,0:05:29.44,1080P-sgsm-63,,0,0,0,,{\blur4}它实际上是一个包含化学点火剂的多级系统
+Dialogue: 0,0:05:29.44,0:05:34.96,1080P-sgbd-42,,0,0,0,,{\blur4}which ignites a bigger charge which blows hot gas down the middle, starting the booster
+Dialogue: 0,0:05:29.44,0:05:34.96,1080P-sgsm-63,,0,0,0,,{\blur4}它点燃了更大的装药 让热气从中间喷出并启动助推器
+Dialogue: 0,0:05:34.96,0:05:37.68,1080P-sgbd-42,,0,0,0,,{\blur4}and this happens in a fraction of a second.
+Dialogue: 0,0:05:34.96,0:05:37.68,1080P-sgsm-63,,0,0,0,,{\blur4}而这一切发生在极短的时间内
+Dialogue: 0,0:05:37.68,0:05:40.40,1080P-sgbd-42,,0,0,0,,{\blur4}And since triggering this is the point of no return,
+Dialogue: 0,0:05:37.68,0:05:40.40,1080P-sgsm-63,,0,0,0,,{\blur4}而由于助推器点火是不可逆的
+Dialogue: 0,0:05:40.40,0:05:43.95,1080P-sgbd-42,,0,0,0,,{\blur4}there are many locks to make sure this doesn't happen by accident.
+Dialogue: 0,0:05:40.40,0:05:43.95,1080P-sgsm-63,,0,0,0,,{\blur4}点火机制中有很多锁来确保其不被意外触发
+Dialogue: 0,0:05:44.01,0:05:49.71,1080P-sgbd-42,,0,0,0,,{\blur4}There's actually a physical pin that has to be pulled out before the system can even be used.
+Dialogue: 0,0:05:44.01,0:05:49.71,1080P-sgsm-63,,0,0,0,,{\blur4}实际上 在系统可以使用之前 必须拔出一个保险栓
+Dialogue: 0,0:05:49.75,0:05:54.26,1080P-sgbd-42,,0,0,0,,{\blur4}That pin stops the hot gas channel from rotating into position.
+Dialogue: 0,0:05:49.75,0:05:54.26,1080P-sgsm-63,,0,0,0,,{\blur4}这个保险栓可以阻止热气通道旋转到位
+Dialogue: 0,0:05:54.47,0:05:58.56,1080P-sgbd-42,,0,0,0,,{\blur4}So if a stray electrical charge triggers this while they're setting things up,
+Dialogue: 0,0:05:54.47,0:05:58.56,1080P-sgsm-63,,0,0,0,,{\blur4}所以 如果在总装火箭的时候 一个意外(零散)的电荷触发了这个点火系统
+Dialogue: 0,0:05:58.67,0:06:00.60,1080P-sgbd-42,,0,0,0,,{\blur4}it can't actually start the booster.
+Dialogue: 0,0:05:58.67,0:06:00.60,1080P-sgsm-63,,0,0,0,,{\blur4}它就不能启动助推器
+Dialogue: 0,0:06:00.80,0:06:05.44,1080P-sgbd-42,,0,0,0,,{\blur4}Somebody a couple of days before the launch has to go into the nose cone of the boosters
+Dialogue: 0,0:06:00.80,0:06:05.44,1080P-sgsm-63,,0,0,0,,{\blur4}在发射前几天 得要有人进入助推器的鼻锥
+Dialogue: 0,0:06:05.46,0:06:10.26,1080P-sgbd-42,,0,0,0,,{\blur4}and essentially pull out this pin to make sure the boosters are armed and ready for flight.
+Dialogue: 0,0:06:05.46,0:06:10.26,1080P-sgsm-63,,0,0,0,,{\blur4}就是来拔出这个保险栓 以确保助推器已经进入准备发射的就绪状态
+Dialogue: 0,0:06:10.72,0:06:14.40,1080P-sgbd-42,,0,0,0,,{\blur4}In front of this, the booster also has most of the recovery hardware
+Dialogue: 0,0:06:10.72,0:06:14.40,1080P-sgsm-63,,0,0,0,,{\blur4}在保险栓前面 还有大部分的回收设备
+Dialogue: 0,0:06:14.40,0:06:17.36,1080P-sgbd-42,,0,0,0,,{\blur4}including the parachutes, separation rockets.
+Dialogue: 0,0:06:14.40,0:06:17.36,1080P-sgsm-63,,0,0,0,,{\blur4}包括降落伞和分离火箭
+Dialogue: 0,0:06:17.36,0:06:22.16,1080P-sgbd-42,,0,0,0,,{\blur4}It also includes a set of rate gyroscopes to detect booster motion.
+Dialogue: 0,0:06:17.36,0:06:22.16,1080P-sgsm-63,,0,0,0,,{\blur4}它还包括一套速率陀螺仪 用于探测助推器的运动
+Dialogue: 0,0:06:22.17,0:06:25.20,1080P-sgbd-42,,0,0,0,,{\blur4}These are independent from the gyroscopes on the Space Shuttle itself.
+Dialogue: 0,0:06:22.17,0:06:25.20,1080P-sgsm-63,,0,0,0,,{\blur4}这些都是独立于航天飞机(轨道器)自身的陀螺仪的
+Dialogue: 0,0:06:25.44,0:06:25.95,1080P-sgbd-42,,0,0,0,,{\blur4}And of course,
+Dialogue: 0,0:06:25.44,0:06:25.95,1080P-sgsm-63,,0,0,0,,{\blur4}当然了
+Dialogue: 0,0:06:26.34,0:06:31.73,1080P-sgbd-42,,0,0,0,,{\blur4}having separate readings from both of the boosters was critical in figuring out what happened to Challenger
+Dialogue: 0,0:06:26.34,0:06:31.73,1080P-sgsm-63,,0,0,0,,{\blur4}从两个助推器上获得单独的读数 对于弄清挑战者号事故的原因是很关键的
+Dialogue: 0,0:06:31.87,0:06:33.99,1080P-sgbd-42,,0,0,0,,{\blur4}since the rate gyroscopes from each booster
+Dialogue: 0,0:06:31.87,0:06:33.99,1080P-sgsm-63,,0,0,0,,{\blur4}这是由于每个助推器的速率陀螺仪
+Dialogue: 0,0:06:34.00,0:06:37.78,1080P-sgbd-42,,0,0,0,,{\blur4}started to show very different values seconds before the destruction.
+Dialogue: 0,0:06:34.00,0:06:37.78,1080P-sgsm-63,,0,0,0,,{\blur4}在事故前几秒钟 开始出现非常大的区别
+Dialogue: 0,0:06:38.28,0:06:42.83,1080P-sgbd-42,,0,0,0,,{\blur4}Now if you move to the aft end of the booster you of course have the nozzle.
+Dialogue: 0,0:06:38.28,0:06:42.83,1080P-sgsm-63,,0,0,0,,{\blur4}那么 如果话题切换到助推器的后端 首先是喷嘴
+Dialogue: 0,0:06:42.96,0:06:47.19,1080P-sgbd-42,,0,0,0,,{\blur4}Now the nozzle has to interface to the rest of the pressure casing
+Dialogue: 0,0:06:42.96,0:06:47.19,1080P-sgsm-63,,0,0,0,,{\blur4}那么 喷嘴必须与承压钢壳相连接
+Dialogue: 0,0:06:47.39,0:06:49.55,1080P-sgbd-42,,0,0,0,,{\blur4}but the nozzle also has to move.
+Dialogue: 0,0:06:47.39,0:06:49.55,1080P-sgsm-63,,0,0,0,,{\blur4}但喷嘴也要移动
+Dialogue: 0,0:06:50.08,0:06:53.91,1080P-sgbd-42,,0,0,0,,{\blur4}So the nozzle moves on a two axis pressure sealed joint
+Dialogue: 0,0:06:50.08,0:06:53.91,1080P-sgsm-63,,0,0,0,,{\blur4}那么 喷嘴就被设计为能在双轴压力密封接头上进行移动
+Dialogue: 0,0:06:53.91,0:06:58.63,1080P-sgbd-42,,0,0,0,,{\blur4}that can handle the 60 atmospheres of pressure and the thousands of degrees of temperature.
+Dialogue: 0,0:06:53.91,0:06:58.63,1080P-sgsm-63,,0,0,0,,{\blur4}这种接头 可以承受60个大气压的压力和上千度的温度
+Dialogue: 0,0:06:58.63,0:07:02.80,1080P-sgbd-42,,0,0,0,,{\blur4}And this bearing is made by having many layers of plates
+Dialogue: 0,0:06:58.63,0:07:02.80,1080P-sgsm-63,,0,0,0,,{\blur4}而这种轴承是由许多层板子组成的
+Dialogue: 0,0:07:02.80,0:07:05.53,1080P-sgbd-42,,0,0,0,,{\blur4}that are essentially sections of a spherical shell.
+Dialogue: 0,0:07:02.80,0:07:05.53,1080P-sgsm-63,,0,0,0,,{\blur4}这些板子最终构成了一个接近球形的形状
+Dialogue: 0,0:07:05.77,0:07:07.90,1080P-sgbd-42,,0,0,0,,{\blur4}So these are stacked on top of each other
+Dialogue: 0,0:07:05.77,0:07:07.90,1080P-sgsm-63,,0,0,0,,{\blur4}那么 这些板子都是互相堆叠在一起的
+Dialogue: 0,0:07:08.00,0:07:11.28,1080P-sgbd-42,,0,0,0,,{\blur4}and then they're joined together by a rubber like layer
+Dialogue: 0,0:07:08.00,0:07:11.28,1080P-sgsm-63,,0,0,0,,{\blur4}并由橡胶类物质构成的夹层连接在一起
+Dialogue: 0,0:07:11.28,0:07:14.80,1080P-sgbd-42,,0,0,0,,{\blur4}but it's of course a rubber that can handle the temperatures and pressures.
+Dialogue: 0,0:07:11.28,0:07:14.80,1080P-sgsm-63,,0,0,0,,{\blur4}当然 这种物质可以承受特定的温度和压力
+Dialogue: 0,0:07:15.25,0:07:18.00,1080P-sgbd-42,,0,0,0,,{\blur4}So each layer allows a small amount of lateral motion
+Dialogue: 0,0:07:15.25,0:07:18.00,1080P-sgsm-63,,0,0,0,,{\blur4}那么 每一层都允许少量的横向运动
+Dialogue: 0,0:07:18.02,0:07:22.05,1080P-sgbd-42,,0,0,0,,{\blur4}and overall the whole nozzle can gimbal by about 8 degrees.
+Dialogue: 0,0:07:18.02,0:07:22.05,1080P-sgsm-63,,0,0,0,,{\blur4}总体上而言 整个喷嘴的摆动角度大概有8度
+Dialogue: 0,0:07:22.51,0:07:25.75,1080P-sgbd-42,,0,0,0,,{\blur4}The nozzle is moved by two separate hydraulic actuators
+Dialogue: 0,0:07:22.51,0:07:25.75,1080P-sgsm-63,,0,0,0,,{\blur4}喷嘴由两个独立的液压促动器移动
+Dialogue: 0,0:07:25.75,0:07:29.12,1080P-sgbd-42,,0,0,0,,{\blur4}which are at 90 degrees to each other to provide a full range of motion.
+Dialogue: 0,0:07:25.75,0:07:29.12,1080P-sgsm-63,,0,0,0,,{\blur4}彼此成90度 以提供全范围的运动
+Dialogue: 0,0:07:29.58,0:07:35.22,1080P-sgbd-42,,0,0,0,,{\blur4}The hydraulic system is pressurized by two separate redundant hydraulic pressure units.
+Dialogue: 0,0:07:29.58,0:07:35.22,1080P-sgsm-63,,0,0,0,,{\blur4}液压系统由两个独立的冗余液压部件加压
+Dialogue: 0,0:07:35.68,0:07:37.68,1080P-sgbd-42,,0,0,0,,{\blur4}These are self-contained power units.
+Dialogue: 0,0:07:35.68,0:07:37.68,1080P-sgsm-63,,0,0,0,,{\blur4}它们使用的是独立的动力部件
+Dialogue: 0,0:07:37.68,0:07:39.91,1080P-sgbd-42,,0,0,0,,{\blur4}They have a hydrazine fuel supply
+Dialogue: 0,0:07:37.68,0:07:39.91,1080P-sgsm-63,,0,0,0,,{\blur4}由肼燃料提供动力
+Dialogue: 0,0:07:39.91,0:07:44.96,1080P-sgbd-42,,0,0,0,,{\blur4}which decomposes, drives a turbine and then that pressurizes the hydraulic system.
+Dialogue: 0,0:07:39.91,0:07:44.96,1080P-sgsm-63,,0,0,0,,{\blur4}燃烧肼燃料 驱动涡轮机 然后给液压系统加压
+Dialogue: 0,0:07:44.96,0:07:47.56,1080P-sgbd-42,,0,0,0,,{\blur4}So they can handle a failure of at least one of these.
+Dialogue: 0,0:07:44.96,0:07:47.56,1080P-sgsm-63,,0,0,0,,{\blur4}那么 这个液压系统至少可以处理一个动力单元的故障
+Dialogue: 0,0:07:47.91,0:07:51.54,1080P-sgbd-42,,0,0,0,,{\blur4}The nozzle also has a nozzle extension attached to the back of it
+Dialogue: 0,0:07:47.91,0:07:51.54,1080P-sgsm-63,,0,0,0,,{\blur4}喷嘴的后面还连接着喷管延伸段
+Dialogue: 0,0:07:51.59,0:07:53.66,1080P-sgbd-42,,0,0,0,,{\blur4}which of course improves the efficiency.
+Dialogue: 0,0:07:51.59,0:07:53.66,1080P-sgsm-63,,0,0,0,,{\blur4}喷管延伸段当然可以提高效率
+Dialogue: 0,0:07:53.91,0:07:58.37,1080P-sgbd-42,,0,0,0,,{\blur4}But just before the boosters land in the ocean, this is removed.
+Dialogue: 0,0:07:53.91,0:07:58.37,1080P-sgsm-63,,0,0,0,,{\blur4}但在助推器降落到海里之前 喷管延伸段就被抛弃了
+Dialogue: 0,0:07:58.40,0:08:00.77,1080P-sgbd-42,,0,0,0,,{\blur4}It's severed by like a pyrotechnic device
+Dialogue: 0,0:07:58.40,0:08:00.77,1080P-sgsm-63,,0,0,0,,{\blur4}分离的装置使用的也是火工品
+Dialogue: 0,0:08:00.77,0:08:04.95,1080P-sgbd-42,,0,0,0,,{\blur4}and you'll see that sometimes fall into the water separately from the main booster.
+Dialogue: 0,0:08:00.77,0:08:04.95,1080P-sgsm-63,,0,0,0,,{\blur4}你有时会看到 喷管延伸段会与主助推器分开落入水中
+Dialogue: 0,0:08:05.12,0:08:09.59,1080P-sgbd-42,,0,0,0,,{\blur4}So a lot of this hardware is contained inside another component called the aft skirt
+Dialogue: 0,0:08:05.12,0:08:09.59,1080P-sgsm-63,,0,0,0,,{\blur4}那么很多设备都包含在另一个部件里 叫做后裙板
+Dialogue: 0,0:08:09.59,0:08:15.52,1080P-sgbd-42,,0,0,0,,{\blur4}that will also include some of the avionics and it includes the aft separation motors
+Dialogue: 0,0:08:09.59,0:08:15.52,1080P-sgsm-63,,0,0,0,,{\blur4}这也包括一些航空电子设备 以及后部分离发动机
+Dialogue: 0,0:08:15.52,0:08:19.60,1080P-sgbd-42,,0,0,0,,{\blur4}which are used to push the um the booster away from the spacecraft.
+Dialogue: 0,0:08:15.52,0:08:19.60,1080P-sgsm-63,,0,0,0,,{\blur4}这个发动机用于将助推器推离航天器
+Dialogue: 0,0:08:19.95,0:08:25.46,1080P-sgbd-42,,0,0,0,,{\blur4}The aft propellant section also has some extra features not seen in the rest the other segments of the booster.
+Dialogue: 0,0:08:19.95,0:08:25.46,1080P-sgsm-63,,0,0,0,,{\blur4}后部的推进分段还有一些在助推器其他部分看不到的额外特征
+Dialogue: 0,0:08:26.01,0:08:28.12,1080P-sgbd-42,,0,0,0,,{\blur4}It has extra reinforcement rings
+Dialogue: 0,0:08:26.01,0:08:28.12,1080P-sgsm-63,,0,0,0,,{\blur4}它有额外的加强环
+Dialogue: 0,0:08:28.13,0:08:32.76,1080P-sgbd-42,,0,0,0,,{\blur4}because this booster is one of the places where it attaches to the external tank.
+Dialogue: 0,0:08:28.13,0:08:32.76,1080P-sgsm-63,,0,0,0,,{\blur4}因为这里是助推器和外部储罐进行连接的位置之一
+Dialogue: 0,0:08:33.51,0:08:37.91,1080P-sgbd-42,,0,0,0,,{\blur4}Running vertically up the side of the rocket you'll also see the electrical tunnel
+Dialogue: 0,0:08:33.51,0:08:37.91,1080P-sgsm-63,,0,0,0,,{\blur4}从火箭的侧面垂直向上 你还会看到电气通道
+Dialogue: 0,0:08:37.95,0:08:39.63,1080P-sgbd-42,,0,0,0,,{\blur4}which contains your cables
+Dialogue: 0,0:08:37.95,0:08:39.63,1080P-sgsm-63,,0,0,0,,{\blur4}其中包含着电缆
+Dialogue: 0,0:08:39.66,0:08:43.84,1080P-sgbd-42,,0,0,0,,{\blur4}that need to run the length of the booster to communicate between the front and the rear.
+Dialogue: 0,0:08:39.66,0:08:43.84,1080P-sgsm-63,,0,0,0,,{\blur4}这条通道达到了助推器的长度 是为了让顶部和尾部的设备进行通信
+Dialogue: 0,0:08:44.39,0:08:49.27,1080P-sgbd-42,,0,0,0,,{\blur4}But you'll also find the explosives for the flight termination system which runs down the side
+Dialogue: 0,0:08:44.39,0:08:49.27,1080P-sgsm-63,,0,0,0,,{\blur4}但你也会发现在侧面延伸到下面的飞行中止系统的炸药
+Dialogue: 0,0:08:49.27,0:08:51.60,1080P-sgbd-42,,0,0,0,,{\blur4}if they're going to terminate the flight of the booster
+Dialogue: 0,0:08:49.27,0:08:51.60,1080P-sgsm-63,,0,0,0,,{\blur4}如果控制人员要中止助推器的飞行
+Dialogue: 0,0:08:51.60,0:08:54.39,1080P-sgbd-42,,0,0,0,,{\blur4}then the charge splits the thing along its length
+Dialogue: 0,0:08:51.60,0:08:54.39,1080P-sgsm-63,,0,0,0,,{\blur4}那么 炸药就会把它长度范围内的东西撕裂开
+Dialogue: 0,0:08:54.45,0:08:59.29,1080P-sgbd-42,,0,0,0,,{\blur4}and that of course stops the thing flying as the single mass and reduces the combustion.
+Dialogue: 0,0:08:54.45,0:08:59.29,1080P-sgsm-63,,0,0,0,,{\blur4}这当然会让助推器停止工作 并减少燃烧
+Dialogue: 0,0:08:59.54,0:09:04.39,1080P-sgbd-42,,0,0,0,,{\blur4}Of course one time this flight termination system was actually used was on Challenger.
+Dialogue: 0,0:08:59.54,0:09:04.39,1080P-sgsm-63,,0,0,0,,{\blur4}当然 这种飞行中止系统只有一次真正得到使用 就是挑战者号事故那次
+Dialogue: 0,0:09:04.39,0:09:08.95,1080P-sgbd-42,,0,0,0,,{\blur4}After the breakup of the stack, the two boosters kept on going under their own power
+Dialogue: 0,0:09:04.39,0:09:08.95,1080P-sgsm-63,,0,0,0,,{\blur4}在组合体解体之后 两个助推器在自己的动力下继续前进
+Dialogue: 0,0:09:08.98,0:09:12.24,1080P-sgbd-42,,0,0,0,,{\blur4}and had to be destroyed in case they went somewhere where they shouldn't.
+Dialogue: 0,0:09:08.98,0:09:12.24,1080P-sgsm-63,,0,0,0,,{\blur4}这样就必须将其销毁 以防止失控坠毁造成的安全问题
+Dialogue: 0,0:09:12.83,0:09:14.65,1080P-sgbd-42,,0,0,0,,{\blur4}So let's talk about the joints.
+Dialogue: 0,0:09:12.83,0:09:14.65,1080P-sgsm-63,,0,0,0,,{\blur4}那么我们来谈谈接头的问题
+Dialogue: 0,0:09:14.67,0:09:18.18,1080P-sgbd-42,,0,0,0,,{\blur4}As I said, the booster on the Shuttle was made from four segments,
+Dialogue: 0,0:09:14.67,0:09:18.18,1080P-sgsm-63,,0,0,0,,{\blur4}正如我所说 航天飞机的助推器是由四个部分组成的
+Dialogue: 0,0:09:18.38,0:09:22.07,1080P-sgbd-42,,0,0,0,,{\blur4}and each segment was itself made from two separate sections of steel.
+Dialogue: 0,0:09:18.38,0:09:22.07,1080P-sgsm-63,,0,0,0,,{\blur4}而每一节都是由两段独立的钢段构成的
+Dialogue: 0,0:09:22.32,0:09:26.69,1080P-sgbd-42,,0,0,0,,{\blur4}Now the sections were all joined together by a clevis tang joint
+Dialogue: 0,0:09:22.32,0:09:26.69,1080P-sgsm-63,,0,0,0,,{\blur4}现在 这些钢段都由一个U形锁扣连接在一起
+Dialogue: 0,0:09:26.72,0:09:31.92,1080P-sgbd-42,,0,0,0,,{\blur4}and this is where on one side the steel would split into two and form a y-shape
+Dialogue: 0,0:09:26.72,0:09:31.92,1080P-sgsm-63,,0,0,0,,{\blur4}这是指 一边的钢段会分裂成Y形
+Dialogue: 0,0:09:31.92,0:09:35.51,1080P-sgbd-42,,0,0,0,,{\blur4}and on the other piece would slide into the gap
+Dialogue: 0,0:09:31.92,0:09:35.51,1080P-sgsm-63,,0,0,0,,{\blur4}另一边的钢段则会滑进这个缝隙中
+Dialogue: 0,0:09:35.56,0:09:37.39,1080P-sgbd-42,,0,0,0,,{\blur4}and then a pin would slide through.
+Dialogue: 0,0:09:35.56,0:09:37.39,1080P-sgsm-63,,0,0,0,,{\blur4}接着再在这之中穿过一根钉
+Dialogue: 0,0:09:37.72,0:09:41.95,1080P-sgbd-42,,0,0,0,,{\blur4}Now if you have this in a complete cylinder on the wall of a cylinder
+Dialogue: 0,0:09:37.72,0:09:41.95,1080P-sgsm-63,,0,0,0,,{\blur4}那么 如果是完整的桶状的钢段
+Dialogue: 0,0:09:42.10,0:09:45.32,1080P-sgbd-42,,0,0,0,,{\blur4}you have many pins that go all the way around.
+Dialogue: 0,0:09:42.10,0:09:45.32,1080P-sgsm-63,,0,0,0,,{\blur4}就会打上这么一圈钉
+Dialogue: 0,0:09:45.76,0:09:49.92,1080P-sgbd-42,,0,0,0,,{\blur4}Now mechanically this is a very secure joint but it isn't pressure sealed.
+Dialogue: 0,0:09:45.76,0:09:49.92,1080P-sgsm-63,,0,0,0,,{\blur4}从机械上来说 这是一个非常稳定的连接 但气密性不足
+Dialogue: 0,0:09:50.15,0:09:53.75,1080P-sgbd-42,,0,0,0,,{\blur4}So to stop the hot gases from the inside coming out,
+Dialogue: 0,0:09:50.15,0:09:53.75,1080P-sgsm-63,,0,0,0,,{\blur4}那么要阻止里面的热气出来
+Dialogue: 0,0:09:54.03,0:10:00.03,1080P-sgbd-42,,0,0,0,,{\blur4}on the interior side of the clevis there's a pair of O-rings that were added in the original design.
+Dialogue: 0,0:09:54.03,0:10:00.03,1080P-sgsm-63,,0,0,0,,{\blur4}就需要U形锁扣的内侧加上一对O型环 这也是最初的设计
+Dialogue: 0,0:10:00.24,0:10:02.98,1080P-sgbd-42,,0,0,0,,{\blur4}And these would cut or go around the entire circumference
+Dialogue: 0,0:10:00.24,0:10:02.98,1080P-sgsm-63,,0,0,0,,{\blur4}这些环会切开或者说绕过整个圆周
+Dialogue: 0,0:10:03.01,0:10:05.18,1080P-sgbd-42,,0,0,0,,{\blur4}and when the interior was pressurized,
+Dialogue: 0,0:10:03.01,0:10:05.18,1080P-sgsm-63,,0,0,0,,{\blur4}并在内部加压时
+Dialogue: 0,0:10:05.21,0:10:09.26,1080P-sgbd-42,,0,0,0,,{\blur4}these would get pushed into the gap and stop the gases leaking through.
+Dialogue: 0,0:10:05.21,0:10:09.26,1080P-sgsm-63,,0,0,0,,{\blur4}O形环将被推入间隙 阻止气体泄漏
+Dialogue: 0,0:10:09.66,0:10:13.70,1080P-sgbd-42,,0,0,0,,{\blur4}The O-rings have to have some flexibility because this is a mechanical system,
+Dialogue: 0,0:10:09.66,0:10:13.70,1080P-sgsm-63,,0,0,0,,{\blur4}O形环必须有一定的灵活性 因为这是一个机械系统
+Dialogue: 0,0:10:13.85,0:10:18.39,1080P-sgbd-42,,0,0,0,,{\blur4}and when those boosters are firing they are bending and flexing under the loads.
+Dialogue: 0,0:10:13.85,0:10:18.39,1080P-sgsm-63,,0,0,0,,{\blur4}而当助推器点火的时候 钢壳在(航天飞机主发动机施加的侧向推力)负载下弯曲变形
+Dialogue: 0,0:10:18.43,0:10:22.68,1080P-sgbd-42,,0,0,0,,{\blur4}During early part of launch, these boosters are sort of flapping back and forth
+Dialogue: 0,0:10:18.43,0:10:22.68,1080P-sgsm-63,,0,0,0,,{\blur4}在发射的初期 这些助推器会来回摆动
+Dialogue: 0,0:10:22.72,0:10:27.12,1080P-sgbd-42,,0,0,0,,{\blur4}like strings on a guitar, three or four times per second.
+Dialogue: 0,0:10:22.72,0:10:27.12,1080P-sgsm-63,,0,0,0,,{\blur4}就像吉他上的琴弦 每秒三四次
+Dialogue: 0,0:10:27.12,0:10:29.60,1080P-sgbd-42,,0,0,0,,{\blur4}So the factory joints were generally more secure
+Dialogue: 0,0:10:27.12,0:10:29.60,1080P-sgsm-63,,0,0,0,,{\blur4}那么(像前面说的) 工厂里连接好的接头一般都比较牢固
+Dialogue: 0,0:10:29.67,0:10:34.43,1080P-sgbd-42,,0,0,0,,{\blur4}because interior to those, there was a continuous layer of insulation and the liner.
+Dialogue: 0,0:10:29.67,0:10:34.43,1080P-sgsm-63,,0,0,0,,{\blur4}因为在这些接头内部 还有连续的绝缘层和衬垫
+Dialogue: 0,0:10:34.57,0:10:39.02,1080P-sgbd-42,,0,0,0,,{\blur4}But the field joints which were assembled when the booster was being put together on the pad,
+Dialogue: 0,0:10:34.57,0:10:39.02,1080P-sgsm-63,,0,0,0,,{\blur4}但是在发射场才进行组装的助推器现场接头
+Dialogue: 0,0:10:39.48,0:10:43.25,1080P-sgbd-42,,0,0,0,,{\blur4}those necessarily had a discontinuity in the insulating layer.
+Dialogue: 0,0:10:39.48,0:10:43.25,1080P-sgsm-63,,0,0,0,,{\blur4}这些绝缘层必然有一个不连续的地方
+Dialogue: 0,0:10:43.55,0:10:47.96,1080P-sgbd-42,,0,0,0,,{\blur4}So as they were assembled, they would put a putty around the outside
+Dialogue: 0,0:10:43.55,0:10:47.96,1080P-sgsm-63,,0,0,0,,{\blur4}所以在组装的时候 他们会在外面涂上一层腻子
+Dialogue: 0,0:10:47.98,0:10:49.69,1080P-sgbd-42,,0,0,0,,{\blur4}and that would push itself into the gaps.
+Dialogue: 0,0:10:47.98,0:10:49.69,1080P-sgsm-63,,0,0,0,,{\blur4}用腻子来填充缝隙
+Dialogue: 0,0:10:49.71,0:10:52.64,1080P-sgbd-42,,0,0,0,,{\blur4}But of course the gases were expected to push past this.
+Dialogue: 0,0:10:49.71,0:10:52.64,1080P-sgsm-63,,0,0,0,,{\blur4}但当然 腻子并不能耐受燃烧产生的热气
+Dialogue: 0,0:10:52.83,0:10:57.06,1080P-sgbd-42,,0,0,0,,{\blur4}The O-rings were still very much the primary protective system.
+Dialogue: 0,0:10:52.83,0:10:57.06,1080P-sgsm-63,,0,0,0,,{\blur4}所以 在这种情况下 O型环仍然是主要的保护系统
+Dialogue: 0,0:10:57.53,0:10:58.90,1080P-sgbd-42,,0,0,0,,{\blur4}So in the case of Challenger,
+Dialogue: 0,0:10:57.53,0:10:58.90,1080P-sgsm-63,,0,0,0,,{\blur4}那么在挑战者号的情况下
+Dialogue: 0,0:10:59.18,0:11:03.80,1080P-sgbd-42,,0,0,0,,{\blur4}it was very cold and those O-rings didn't respond fast enough to fill the gap.
+Dialogue: 0,0:10:59.18,0:11:03.80,1080P-sgsm-63,,0,0,0,,{\blur4}当时天气很冷 那些O形环的反应不够快 无法填满缝隙
+Dialogue: 0,0:11:04.16,0:11:08.37,1080P-sgbd-42,,0,0,0,,{\blur4}As the booster was oscillating, it would find one side would be under tension.
+Dialogue: 0,0:11:04.16,0:11:08.37,1080P-sgsm-63,,0,0,0,,{\blur4}当助推器在摆动时 有一边会被拉紧
+Dialogue: 0,0:11:08.38,0:11:10.98,1080P-sgbd-42,,0,0,0,,{\blur4}And as those joints were pulled under tension,
+Dialogue: 0,0:11:08.38,0:11:10.98,1080P-sgsm-63,,0,0,0,,{\blur4}而随着那些接头被拉紧
+Dialogue: 0,0:11:11.44,0:11:16.80,1080P-sgbd-42,,0,0,0,,{\blur4}one side would get peeled away just because of the shape of the mechanical coupling
+Dialogue: 0,0:11:11.44,0:11:16.80,1080P-sgsm-63,,0,0,0,,{\blur4}由于机械结合装置的形状 有一边会被剥开
+Dialogue: 0,0:11:16.80,0:11:19.51,1080P-sgbd-42,,0,0,0,,{\blur4}and that would pull those joints with the O-rings wider
+Dialogue: 0,0:11:16.80,0:11:19.51,1080P-sgsm-63,,0,0,0,,{\blur4}这样就会把那些带O形环的接头拉得更宽
+Dialogue: 0,0:11:19.51,0:11:22.24,1080P-sgbd-42,,0,0,0,,{\blur4}and then as it was compressed they would get pushed back together
+Dialogue: 0,0:11:19.51,0:11:22.24,1080P-sgsm-63,,0,0,0,,{\blur4}然后 被压缩的时候 两段钢壳又会被推回到一起
+Dialogue: 0,0:11:22.24,0:11:28.64,1080P-sgbd-42,,0,0,0,,{\blur4}but that of course in that moment you would let gas get by and it would start to erode the O-ring.
+Dialogue: 0,0:11:22.24,0:11:28.64,1080P-sgsm-63,,0,0,0,,{\blur4}但就在那一刻 气体会通过 会开始侵蚀O型环
+Dialogue: 0,0:11:28.64,0:11:30.72,1080P-sgbd-42,,0,0,0,,{\blur4}As Challenger was leaving the pad
+Dialogue: 0,0:11:28.64,0:11:30.72,1080P-sgsm-63,,0,0,0,,{\blur4}当挑战者号离开发射台的时候
+Dialogue: 0,0:11:30.72,0:11:35.07,1080P-sgbd-42,,0,0,0,,{\blur4}the cameras recorded puffs of smoke three or four times per second
+Dialogue: 0,0:11:30.72,0:11:35.07,1080P-sgsm-63,,0,0,0,,{\blur4}摄像机记录到每秒三到四次的烟雾
+Dialogue: 0,0:11:35.08,0:11:38.30,1080P-sgbd-42,,0,0,0,,{\blur4}consistent with the oscillations of those boosters.
+Dialogue: 0,0:11:35.08,0:11:38.30,1080P-sgsm-63,,0,0,0,,{\blur4}与那些助推器的振荡一致
+Dialogue: 0,0:11:38.80,0:11:41.44,1080P-sgbd-42,,0,0,0,,{\blur4}But this smoke actually stopped after a few seconds
+Dialogue: 0,0:11:38.80,0:11:41.44,1080P-sgsm-63,,0,0,0,,{\blur4}但这股烟其实在几秒钟后就停止了
+Dialogue: 0,0:11:41.47,0:11:46.47,1080P-sgbd-42,,0,0,0,,{\blur4}and you know Challenger might have safely made it to orbit if it hadn't been for another factor.
+Dialogue: 0,0:11:41.47,0:11:46.47,1080P-sgsm-63,,0,0,0,,{\blur4}而如果不是另外一个因素的影响 挑战者号可能就会安全地入轨 
+Dialogue: 0,0:11:46.99,0:11:51.12,1080P-sgbd-42,,0,0,0,,{\blur4}About 37 seconds into flight, they started experience wind shear
+Dialogue: 0,0:11:46.99,0:11:51.12,1080P-sgsm-63,,0,0,0,,{\blur4}大约在飞行37秒后 挑战者号开始经历风切变
+Dialogue: 0,0:11:51.18,0:11:54.95,1080P-sgbd-42,,0,0,0,,{\blur4}and it was the strongest wind shear on any Shuttle flight
+Dialogue: 0,0:11:51.18,0:11:54.95,1080P-sgsm-63,,0,0,0,,{\blur4}这是航天飞机飞行中最强的风切变
+Dialogue: 0,0:11:54.95,0:11:59.02,1080P-sgbd-42,,0,0,0,,{\blur4}so the boosters are now having to correct for these aerodynamic forces.
+Dialogue: 0,0:11:54.95,0:11:59.02,1080P-sgsm-63,,0,0,0,,{\blur4}那么助推器现在必须纠正这些气动力
+Dialogue: 0,0:11:59.32,0:12:00.94,1080P-sgbd-42,,0,0,0,,{\blur4}They're working much harder.
+Dialogue: 0,0:11:59.32,0:12:00.94,1080P-sgsm-63,,0,0,0,,{\blur4}助推器需要超负荷工作
+Dialogue: 0,0:12:01.27,0:12:07.25,1080P-sgbd-42,,0,0,0,,{\blur4}And of course these forces that are being translated into these boosters causing those joints to flex again.
+Dialogue: 0,0:12:01.27,0:12:07.25,1080P-sgsm-63,,0,0,0,,{\blur4}当然 这些力被转化到助推器上 导致这些接头再次弯曲
+Dialogue: 0,0:12:07.51,0:12:12.43,1080P-sgbd-42,,0,0,0,,{\blur4}And at some point, the joint again starts to come loose and starts leaking
+Dialogue: 0,0:12:07.51,0:12:12.43,1080P-sgsm-63,,0,0,0,,{\blur4}在某个时刻 接头又开始松动并漏气
+Dialogue: 0,0:12:12.45,0:12:18.54,1080P-sgbd-42,,0,0,0,,{\blur4}and that's when we start to see the real erosion happen and the jet of flame start to shoot out.
+Dialogue: 0,0:12:12.45,0:12:18.54,1080P-sgsm-63,,0,0,0,,{\blur4}这时我们开始看到真正的侵蚀发生了 火焰开始喷出
+Dialogue: 0,0:12:19.08,0:12:22.07,1080P-sgbd-42,,0,0,0,,{\blur4}And that flame of course damaged the external tank,
+Dialogue: 0,0:12:19.08,0:12:22.07,1080P-sgsm-63,,0,0,0,,{\blur4}这样的火焰当然也破坏了外部储罐
+Dialogue: 0,0:12:22.07,0:12:24.56,1080P-sgbd-42,,0,0,0,,{\blur4}and it damaged the coupling to the external tank
+Dialogue: 0,0:12:22.07,0:12:24.56,1080P-sgsm-63,,0,0,0,,{\blur4}并损坏了固体助推器和外部储罐之间的连接装置
+Dialogue: 0,0:12:24.56,0:12:28.94,1080P-sgbd-42,,0,0,0,,{\blur4}and eventually tank starts leaking, the booster comes loose at the bottom,
+Dialogue: 0,0:12:24.56,0:12:28.94,1080P-sgsm-63,,0,0,0,,{\blur4}最后外部储罐开始泄漏燃料 助推器底部开始松动
+Dialogue: 0,0:12:28.97,0:12:32.69,1080P-sgbd-42,,0,0,0,,{\blur4}and the vehicle, it breaks up under aerodynamic stress.
+Dialogue: 0,0:12:28.97,0:12:32.69,1080P-sgsm-63,,0,0,0,,{\blur4}而航天飞机轨道器(则因姿态的变化)在气动压力之下解体
+Dialogue: 0,0:12:33.20,0:12:36.32,1080P-sgbd-42,,0,0,0,,{\blur4}So of course the Challenger investigation happens.
+Dialogue: 0,0:12:33.20,0:12:36.32,1080P-sgsm-63,,0,0,0,,{\blur4}那么接下来就是挑战者号的调查了
+Dialogue: 0,0:12:36.32,0:12:39.47,1080P-sgbd-42,,0,0,0,,{\blur4}Richard Feynman does his amazing pop science experiment.
+Dialogue: 0,0:12:36.32,0:12:39.47,1080P-sgsm-63,,0,0,0,,{\blur4}Richard Feynman完成了他那惊人的科普实验
+Dialogue: 0,0:12:39.81,0:12:43.71,1080P-sgbd-42,,0,0,0,,{\blur4}And a number of recommendations are made to fix these joints.
+Dialogue: 0,0:12:39.81,0:12:43.71,1080P-sgsm-63,,0,0,0,,{\blur4}并提出了一些建议来修复这些接头
+Dialogue: 0,0:12:44.07,0:12:46.39,1080P-sgbd-42,,0,0,0,,{\blur4}So first thing they did was in the forward side.
+Dialogue: 0,0:12:44.07,0:12:46.39,1080P-sgsm-63,,0,0,0,,{\blur4}所以他们做的第一件事是在前部钢板的一侧
+Dialogue: 0,0:12:46.39,0:12:52.38,1080P-sgbd-42,,0,0,0,,{\blur4}They add a new flap that stops the O-ring section from being pulled away as tension is applied.
+Dialogue: 0,0:12:46.39,0:12:52.38,1080P-sgsm-63,,0,0,0,,{\blur4}增加了一个新的挡板 以阻止O形环部分被拉开
+Dialogue: 0,0:12:52.92,0:12:55.82,1080P-sgbd-42,,0,0,0,,{\blur4}On that they add a third O-ring as well.
+Dialogue: 0,0:12:52.92,0:12:55.82,1080P-sgsm-63,,0,0,0,,{\blur4}在这上面他们还增加了第三个O形环
+Dialogue: 0,0:12:56.31,0:13:01.64,1080P-sgbd-42,,0,0,0,,{\blur4}The pins are lengthened and on the outside, they add a retainer ring to hold the pins in place.
+Dialogue: 0,0:12:56.31,0:13:01.64,1080P-sgsm-63,,0,0,0,,{\blur4}钉子被加长 同时在外面增加了一个固定环来固定钉子
+Dialogue: 0,0:13:01.93,0:13:06.32,1080P-sgbd-42,,0,0,0,,{\blur4}And to this, they also add a heater to make sure the O-rings never get too cold.
+Dialogue: 0,0:13:01.93,0:13:06.32,1080P-sgsm-63,,0,0,0,,{\blur4}而在此基础上 还增加了一个加热器 以确保O型环总是不会太冷
+Dialogue: 0,0:13:06.72,0:13:12.07,1080P-sgbd-42,,0,0,0,,{\blur4}And on the interior, they just redesign the insulation so that there's something called a j-slit.
+Dialogue: 0,0:13:06.72,0:13:12.07,1080P-sgsm-63,,0,0,0,,{\blur4}而在内部 只是重新设计了绝缘材料 这样就有了所谓的J型缝隙
+Dialogue: 0,0:13:12.07,0:13:14.95,1080P-sgbd-42,,0,0,0,,{\blur4}And this is a gap in the insulation layer at the back.
+Dialogue: 0,0:13:12.07,0:13:14.95,1080P-sgsm-63,,0,0,0,,{\blur4}这就是绝缘层上的一个缝隙
+Dialogue: 0,0:13:14.95,0:13:21.44,1080P-sgbd-42,,0,0,0,,{\blur4}And what it's designed to do is the hot gases will flow into this gap and push the slit apart.
+Dialogue: 0,0:13:14.95,0:13:21.44,1080P-sgsm-63,,0,0,0,,{\blur4}它的设计目的是让热气流进这个缝隙 并把缝隙推开
+Dialogue: 0,0:13:21.44,0:13:25.92,1080P-sgbd-42,,0,0,0,,{\blur4}And this will actually force a section of insulation across the gap
+Dialogue: 0,0:13:21.44,0:13:25.92,1080P-sgsm-63,,0,0,0,,{\blur4}之后 一侧的绝缘层会被推向真正要密封的缝隙上
+Dialogue: 0,0:13:25.92,0:13:28.16,1080P-sgbd-42,,0,0,0,,{\blur4}and therefore increase the seal hopefully.
+Dialogue: 0,0:13:25.92,0:13:28.16,1080P-sgsm-63,,0,0,0,,{\blur4}于是希望这样能增加密封性
+Dialogue: 0,0:13:28.27,0:13:32.07,1080P-sgbd-42,,0,0,0,,{\blur4}It'll act as like another pressure seal helping to protect the O-rings.
+Dialogue: 0,0:13:28.27,0:13:32.07,1080P-sgsm-63,,0,0,0,,{\blur4}这就像另一个压力密封圈一样来保护O形环
+Dialogue: 0,0:13:32.56,0:13:34.07,1080P-sgbd-42,,0,0,0,,{\blur4}So these changes were made
+Dialogue: 0,0:13:32.56,0:13:34.07,1080P-sgsm-63,,0,0,0,,{\blur4}那么 在改进措施进行之后
+Dialogue: 0,0:13:34.07,0:13:38.63,1080P-sgbd-42,,0,0,0,,{\blur4}and the boosters flew largely trouble free for the rest of the Shuttle program
+Dialogue: 0,0:13:34.07,0:13:38.63,1080P-sgsm-63,,0,0,0,,{\blur4}在航天飞机服役的剩余时间里 其助推器基本上没有出现任何问题
+Dialogue: 0,0:13:38.78,0:13:42.63,1080P-sgbd-42,,0,0,0,,{\blur4}and of course they're now being re-engineered for the SLS program.
+Dialogue: 0,0:13:38.78,0:13:42.63,1080P-sgsm-63,,0,0,0,,{\blur4}当然 他们现在正在为SLS项目重新设计固体助推器
+Dialogue: 0,0:13:42.63,0:13:45.44,1080P-sgbd-42,,0,0,0,,{\blur4}There's lots of subtle changes to materials.
+Dialogue: 0,0:13:42.63,0:13:45.44,1080P-sgsm-63,,0,0,0,,{\blur4}材料有很多微妙的变化
+Dialogue: 0,0:13:45.44,0:13:51.13,1080P-sgbd-42,,0,0,0,,{\blur4}The O-rings now handle low temperatures which means they don't have the heaters to keep them warm.
+Dialogue: 0,0:13:45.44,0:13:51.13,1080P-sgsm-63,,0,0,0,,{\blur4}O形环现在可以处理低温 这意味着不需要加热器来保持温度
+Dialogue: 0,0:13:51.60,0:13:55.31,1080P-sgbd-42,,0,0,0,,{\blur4}The insulating material no longer contains asbestos
+Dialogue: 0,0:13:51.60,0:13:55.31,1080P-sgsm-63,,0,0,0,,{\blur4}绝缘材料中不再含有石棉
+Dialogue: 0,0:13:55.67,0:14:01.05,1080P-sgbd-42,,0,0,0,,{\blur4}and the boosters are now five segments long providing for more thrust and a longer burn time.
+Dialogue: 0,0:13:55.67,0:14:01.05,1080P-sgsm-63,,0,0,0,,{\blur4}而助推器延长到五段 可以提供更多的推力和更长的燃烧时间
+Dialogue: 0,0:14:01.19,0:14:03.44,1080P-sgbd-42,,0,0,0,,{\blur4}They are still using steel casings though
+Dialogue: 0,0:14:01.19,0:14:03.44,1080P-sgsm-63,,0,0,0,,{\blur4}尽管仍然使用钢壳
+Dialogue: 0,0:14:03.44,0:14:08.65,1080P-sgbd-42,,0,0,0,,{\blur4}while many modern solid boosters have switched over to use composite or filament wound casings.
+Dialogue: 0,0:14:03.44,0:14:08.65,1080P-sgsm-63,,0,0,0,,{\blur4}而很多现代固体助推器已经改用复合材料或(碳)纤维缠绕外壳
+Dialogue: 0,0:14:09.10,0:14:13.20,1080P-sgbd-42,,0,0,0,,{\blur4}But the Space Shuttle actually looked at filament wound casings very early on.
+Dialogue: 0,0:14:09.10,0:14:13.20,1080P-sgsm-63,,0,0,0,,{\blur4}但其实航天飞机很早就研究过纤维缠绕外壳
+Dialogue: 0,0:14:13.68,0:14:15.36,1080P-sgbd-42,,0,0,0,,{\blur4}Back in the early days of the Space Shuttle
+Dialogue: 0,0:14:13.68,0:14:15.36,1080P-sgsm-63,,0,0,0,,{\blur4}早在航天飞机的早期阶段
+Dialogue: 0,0:14:15.36,0:14:19.76,1080P-sgbd-42,,0,0,0,,{\blur4}they really wanted to launch the Space Shuttle into polar orbits from Vandenberg.
+Dialogue: 0,0:14:15.36,0:14:19.76,1080P-sgsm-63,,0,0,0,,{\blur4}那时 (美国空军)想把航天飞机从范登堡发射到极地轨道上
+Dialogue: 0,0:14:19.76,0:14:24.77,1080P-sgbd-42,,0,0,0,,{\blur4}And because it wasn't launching eastwards, they needed to have a bit more performance.
+Dialogue: 0,0:14:19.76,0:14:24.77,1080P-sgsm-63,,0,0,0,,{\blur4}因为这不是向东发射(可以借助地球自转初速) 所以需要更多的性能
+Dialogue: 0,0:14:24.80,0:14:29.32,1080P-sgbd-42,,0,0,0,,{\blur4}So there was a program to develop these lighter boosters using modern composite materials.
+Dialogue: 0,0:14:24.80,0:14:29.32,1080P-sgsm-63,,0,0,0,,{\blur4}那么有个项目是开发这些使用现代复合材料的轻型助推器
+Dialogue: 0,0:14:29.83,0:14:34.16,1080P-sgbd-42,,0,0,0,,{\blur4}Unfortunately of course that program shut down when Challenger happened,
+Dialogue: 0,0:14:29.83,0:14:34.16,1080P-sgsm-63,,0,0,0,,{\blur4}当然不幸地是 当挑战者号发生时 这个计划就被取消了
+Dialogue: 0,0:14:34.19,0:14:38.99,1080P-sgbd-42,,0,0,0,,{\blur4}there were more pressing concerns and the Space Shuttle never launched from Vandenberg.
+Dialogue: 0,0:14:34.19,0:14:38.99,1080P-sgsm-63,,0,0,0,,{\blur4}因为事故调查是更紧迫的问题 而航天飞机就再也没能从范登堡发射了
+Dialogue: 0,0:14:39.38,0:14:42.63,1080P-sgbd-42,,0,0,0,,{\blur4}There was one other rocket that flew with this booster design
+Dialogue: 0,0:14:39.38,0:14:42.63,1080P-sgsm-63,,0,0,0,,{\blur4}还有一枚火箭采用了这种助推器设计
+Dialogue: 0,0:14:42.63,0:14:46.46,1080P-sgbd-42,,0,0,0,,{\blur4}that was the Ares I-X that flew back in 2009.
+Dialogue: 0,0:14:42.63,0:14:46.46,1080P-sgsm-63,,0,0,0,,{\blur4}那是2009年发射过的战神1X
+Dialogue: 0,0:14:46.72,0:14:52.63,1080P-sgbd-42,,0,0,0,,{\blur4}The constellation program of course was planning to use these to deliver cargo and crew to the space station.
+Dialogue: 0,0:14:46.72,0:14:52.63,1080P-sgsm-63,,0,0,0,,{\blur4}当然 星座计划当时正打算用这些火箭向空间站运送货物和乘员
+Dialogue: 0,0:14:52.70,0:14:58.44,1080P-sgbd-42,,0,0,0,,{\blur4}Back in the days when many people didn't trust outside contractors like SpaceX to do the same thing.
+Dialogue: 0,0:14:52.70,0:14:58.44,1080P-sgsm-63,,0,0,0,,{\blur4}当年很多人都不相信像SpaceX这样的外部承包商能胜任同样的工作
+Dialogue: 0,0:14:58.56,0:15:01.92,1080P-sgbd-42,,0,0,0,,{\blur4}To be honest the Ares I-X wasn't much of a launch vehicle.
+Dialogue: 0,0:14:58.56,0:15:01.92,1080P-sgsm-63,,0,0,0,,{\blur4}说实话 战神1X并不算一个(轨道级)运载火箭
+Dialogue: 0,0:15:01.92,0:15:08.48,1080P-sgbd-42,,0,0,0,,{\blur4}It was all boilerplate with the exception of the main booster and a single unit that provided roll control.
+Dialogue: 0,0:15:01.92,0:15:08.48,1080P-sgsm-63,,0,0,0,,{\blur4}除了主助推器和一个提供滚动控制的部件外 其他都是样板
+Dialogue: 0,0:15:08.48,0:15:09.60,1080P-sgbd-42,,0,0,0,,{\blur4}Everything else was a dummy.
+Dialogue: 0,0:15:08.48,0:15:09.60,1080P-sgsm-63,,0,0,0,,{\blur4}其他的都是模型而已
+Dialogue: 0,0:15:09.64,0:15:13.97,1080P-sgbd-42,,0,0,0,,{\blur4}The booster wasn't even a full five-segment booster that was supposed to be used on the real thing.
+Dialogue: 0,0:15:09.64,0:15:13.97,1080P-sgsm-63,,0,0,0,,{\blur4}助推器甚至都不是(战神1火箭)正式版会使用的完整的五段式助推器
+Dialogue: 0,0:15:14.33,0:15:19.92,1080P-sgbd-42,,0,0,0,,{\blur4}And it lifted off and showed that well a Shuttle booster can indeed lift lots of mass
+Dialogue: 0,0:15:14.33,0:15:19.92,1080P-sgsm-63,,0,0,0,,{\blur4}它升空了 并证明航天飞机的助推器确实可以推动大质量物体
+Dialogue: 0,0:15:19.94,0:15:25.45,1080P-sgbd-42,,0,0,0,,{\blur4}but it was a very expensive launch for not even a fully functioning launch vehicle.
+Dialogue: 0,0:15:19.94,0:15:25.45,1080P-sgsm-63,,0,0,0,,{\blur4}但对于功能不齐全的运载火箭而言 这是一次非常昂贵的发射
+Dialogue: 0,0:15:25.69,0:15:29.41,1080P-sgbd-42,,0,0,0,,{\blur4}And commercial vehicles are doing this so much cheaper these days.
+Dialogue: 0,0:15:25.69,0:15:29.41,1080P-sgsm-63,,0,0,0,,{\blur4}而现在的商用运载火箭进行空间站运输的任务 就便宜多了
+Dialogue: 0,0:15:30.00,0:15:35.68,1080P-sgbd-42,,0,0,0,,{\blur4}So these big dumb solid rocket boosters that propelled the Space Shuttle and will carry the SLS
+Dialogue: 0,0:15:30.00,0:15:35.68,1080P-sgsm-63,,0,0,0,,{\blur4}所以 这些又大又笨的固体火箭助推器 曾经推动过航天飞机 以后将运送SLS
+Dialogue: 0,0:15:35.68,0:15:38.19,1080P-sgbd-42,,0,0,0,,{\blur4}are by no means low tech items.
+Dialogue: 0,0:15:35.68,0:15:38.19,1080P-sgsm-63,,0,0,0,,{\blur4}绝不是低科技含量的东西
+Dialogue: 0,0:15:38.20,0:15:41.94,1080P-sgbd-42,,0,0,0,,{\blur4}By any means, they are very much the product of rocket science.
+Dialogue: 0,0:15:38.20,0:15:41.94,1080P-sgsm-63,,0,0,0,,{\blur4}无论如何 固体火箭助推器都算是富含火箭科学的产品
+Dialogue: 0,0:15:42.16,0:15:44.66,1080P-sgbd-42,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
+Dialogue: 0,0:15:42.16,0:15:44.66,1080P-sgsm-63,,0,0,0,,{\blur4}我是Scott Manley 切记 注意飞行安全
+Dialogue: 0,0:15:57.12,0:16:09.12,1080P-sgbd-4s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:15:57.12,0:16:09.12,1080P-sgsm-6s,,0,0,0,,{\blur4}[音乐]
