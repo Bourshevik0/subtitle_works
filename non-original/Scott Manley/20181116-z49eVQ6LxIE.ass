@@ -27,8 +27,13 @@ Dialogue: 0,0:00:04.11,0:00:10.11,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\mov
 Dialogue: 0,0:00:30.47,0:00:36.47,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}实际上鸽子了一年，2020年5月30日才发射了载人的载人龙飞船验证2(Crew Dragon Demo 2)任务
 Dialogue: 0,0:03:02.09,0:03:07.71,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}关于Shuttle C等计划的解读，详见youtu.be/Qi7wtXcaFws
 Dialogue: 0,0:05:31.77,0:05:36.42,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}关于气尖发动机的解读，详见b23.tv/av841875408
-Dialogue: 0,0:04:32.19,0:04:37.71,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,14,10,0,500)}RS-25E：感觉有被冒犯到
-Dialogue: 0,0:09:25.46,0:09:33.46,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,14,10,0,500)}Richard Shelby自2005年(109届国会)起担任科学拨款小组委员会(CJS Subcommittee)主席，\N支持星座计划，反对商业载人计划(带恶人)，自2018年后升任拨款委员主席
+Dialogue: 0,0:04:32.19,0:04:37.71,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}RS-25E：感觉有被冒犯到
+Dialogue: 0,0:09:25.46,0:09:33.46,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Richard Shelby自2005年(109届国会)起担任参议院科学拨款小组委员会(CJS Subcommittee)主席，\N支持星座计划，反对商业载人计划(带恶人)，自2018年后升任拨款委员主席，他与SLS有重大利益相关
+Dialogue: 0,0:09:29.25,0:09:34.22,1080P-sgsm-50,,0,0,0,,{\blur4\pos(10,270)}出处{\fs35}www.bloomberg.com/opinion/articles/2014-06-23/spacex-versus-senator-shelby-s-rocket-to-nowehere
+Dialogue: 0,0:09:34.22,0:09:38.52,1080P-sgsm-50,,0,0,0,,{\blur4}出处{\fs35}www.parabolicarc.com/2014/06/04/space-access-society-action-alert-shelby-wreck-commercial-crew/
+Dialogue: 0,0:09:38.52,0:09:42.49,1080P-sgsm-50,,0,0,0,,{\blur4}出处{\fs35}arstechnica.com/science/2017/06/senator-complains-about-cost-increases-in-nasas-fixed-price-contracts/
+Dialogue: 0,0:09:42.66,0:09:46.26,1080P-sgsm-50,,0,0,0,,{\blur4}请暂停观看\N出处{\fs40}spaceflightnow.com/2015/06/11/commercial-crew-spaceships-face-likely-delays/\N{\fs50}高亮部分翻译：纳尔逊(参议员)说，“据说被砍的钱，也就3亿多美元，\N我们如果还向俄罗斯人支付这笔钱，让他们多飞两年，就会失去这笔钱。\N我们需要清醒地认识到发生了什么。”
+Dialogue: 0,0:09:46.47,0:09:51.24,1080P-sgsm-50,,0,0,0,,{\blur4\pos(10,350)}请暂停观看\N出处{\fs35}www.facebook.com/RichardShelby/posts/10156520406229798/\N{\fs50}以下为上方文字翻译：\N美国航天史上激动人心的一天! NASA宣布，9名勇敢的宇航员被选中驾驶波音和SpaceX的商业载人飞船，\N其中一部分将由联合发射联盟在迪凯特制造的宇宙神五火箭进行发射。\N期待着这个新时代，我们再次从美国本土进行载人发射。\N\N译者注：然后波音的星际客机就拉垮了
 Dialogue: 0,0:10:16.77,0:10:22.58,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,14,10,0,500)}视频制作时，商业化的载人登月系统(HLS)还未出现
 Comment: 0,0:00:04.11,0:00:05.52,1080P-sgbd-42,,0,0,0,,字幕
 Dialogue: 0,0:00:04.11,0:00:05.52,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
@@ -307,8 +312,8 @@ Dialogue: 0,0:09:29.79,0:09:34.26,1080P-sgbd-42,,0,0,0,,{\blur4}to stack the dec
 Dialogue: 0,0:09:29.79,0:09:34.26,1080P-sgsm-63,,0,0,0,,{\blur4}把钱从商业载人计划转到SLS项目上
 Dialogue: 0,0:09:34.59,0:09:36.87,1080P-sgbd-42,,0,0,0,,{\blur4}And then later he had the gall to argue
 Dialogue: 0,0:09:34.59,0:09:36.87,1080P-sgsm-63,,0,0,0,,{\blur4}然后 后来他竟厚颜无耻地摇脣鼓舌道
-Dialogue: 0,0:09:36.87,0:09:39.85,1080P-sgbd-42,,0,0,0,,{\blur4}that because Commercial Crew was no behind schedule
-Dialogue: 0,0:09:36.87,0:09:39.85,1080P-sgsm-63,,0,0,0,,{\blur4}因为商业载人计划基本按时完成
+Dialogue: 0,0:09:36.87,0:09:39.85,1080P-sgbd-42,,0,0,0,,{\blur4}that because Commercial Crew was now behind schedule
+Dialogue: 0,0:09:36.87,0:09:39.85,1080P-sgsm-63,,0,0,0,,{\blur4}因为商业载人计划现在推迟进行
 Dialogue: 0,0:09:40.12,0:09:43.40,1080P-sgbd-42,,0,0,0,,{\blur4}that it should lose even more of its money to SLS.
 Dialogue: 0,0:09:40.12,0:09:43.40,1080P-sgsm-63,,0,0,0,,{\blur4}所以甚至需要把更多的钱转给SLS(?)
 Dialogue: 0,0:09:44.03,0:09:46.74,1080P-sgbd-42,,0,0,0,,{\blur4}Of course this hasn't stopped him trying to claim credit
@@ -320,7 +325,7 @@ Dialogue: 0,0:09:50.36,0:09:57.46,1080P-sgsm-63,,0,0,0,,{\blur4}但是说实话 
 Dialogue: 0,0:09:57.89,0:10:00.44,1080P-sgbd-42,,0,0,0,,{\blur4}All these programs really suffered from the problem
 Dialogue: 0,0:09:57.89,0:10:00.44,1080P-sgsm-63,,0,0,0,,{\blur4}所有这些计划真正遭受的问题在于
 Dialogue: 0,0:10:00.44,0:10:04.38,1080P-sgbd-42,,0,0,0,,{\blur4}that the the Shuttle may have had its issues but it was good enough
-Dialogue: 0,0:10:00.44,0:10:04.38,1080P-sgsm-63,,0,0,0,,{\blur4}航天飞机可能有它的问题 但它(当时)已经足够好了
+Dialogue: 0,0:10:00.44,0:10:04.38,1080P-sgsm-63,,0,0,0,,{\blur4}航天飞机可能有它的问题 但它(当时被认为)已经足够好了
 Dialogue: 0,0:10:04.50,0:10:07.70,1080P-sgbd-42,,0,0,0,,{\blur4}until suddenly it wasn't going to be flying anymore.
 Dialogue: 0,0:10:04.50,0:10:07.70,1080P-sgsm-63,,0,0,0,,{\blur4}直到突然间它不打算再飞了
 Dialogue: 0,0:10:08.14,0:10:10.68,1080P-sgbd-42,,0,0,0,,{\blur4}To be clear SLS does have its uses.
