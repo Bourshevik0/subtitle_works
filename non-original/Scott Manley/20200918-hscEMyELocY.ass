@@ -23,7 +23,7 @@ Style: 1080P-sgbd-4t,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:04.24,0:00:05.75,1080P-sgsm-50,,0,0,0,,注释
 Dialogue: 0,0:00:54.30,0:00:59.76,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}spaceflighthistory.blogspot.com/2020/09/star-raker-1978.html
-Dialogue: 0,0:00:04.24,0:00:09.24,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,48,14,48,0,500)}原作者名：Scott Manley\N视频来源：youtu.be/hscEMyELocY\N原视频发布日期：20200918\N字幕翻译/压制：旋火
+Dialogue: 0,0:00:04.24,0:00:09.24,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,48,14,48,0,500)}原作者名：Scott Manley\N视频来源：youtu.be/hscEMyELocY\N原视频发布日期：20200918\N字幕翻译/压制：旋火\N校对：川崎千雪
 Comment: 0,0:00:04.24,0:00:05.75,1080P-sgbd-4t,,0,0,0,,{\blur4}字幕
 Dialogue: 0,0:00:04.24,0:00:05.75,1080P-sgbd-4t,,0,0,0,,{\blur4}Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.24,0:00:05.75,1080P-sgsm-6t,,0,0,0,,{\blur4}你好 我是Scott Manley
@@ -302,7 +302,7 @@ Dialogue: 0,0:10:06.32,0:10:12.00,1080P-sgsm-63,,0,0,0,,{\blur4}{\pos(960,930)}�
 Dialogue: 0,0:10:12.00,0:10:16.48,1080P-sgbd-48,,0,0,0,,{\blur4}A rocket engine that early in the flight can suck its air from the atmosphere
 Dialogue: 0,0:10:12.00,0:10:16.48,1080P-sgsm-63,,0,0,0,,{\blur4}{\pos(960,930)}一种在飞行初期就能从大气层中吸气的火箭发动机
 Dialogue: 0,0:10:16.57,0:10:20.48,1080P-sgbd-48,,0,0,0,,{\blur4}and then once it gets higher up it can switch over to internal liquid oxygen
-Dialogue: 0,0:10:16.57,0:10:20.48,1080P-sgsm-63,,0,0,0,,{\blur4}{\pos(960,930)}一旦它升到更高的地方 它就可以(把氧化剂)切换到内部的液氢
+Dialogue: 0,0:10:16.57,0:10:20.48,1080P-sgsm-63,,0,0,0,,{\blur4}{\pos(960,930)}一旦它升到更高的地方 它就可以(把氧化剂)切换到内部的液氧
 Dialogue: 0,0:10:20.57,0:10:23.43,1080P-sgbd-48,,0,0,0,,{\blur4}and carry itself all the way to space.
 Dialogue: 0,0:10:20.57,0:10:23.43,1080P-sgsm-63,,0,0,0,,{\blur4}{\pos(960,1010)}并一路运行到飞机入轨
 Dialogue: 0,0:10:23.76,0:10:27.20,1080P-sgbd-48,,0,0,0,,{\blur4}But I will have to talk about that in some detail some other time.
