@@ -17,7 +17,7 @@ Style: 1080P-sgsm-63,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A00000
 Style: 720P-sgsm-40,更纱黑体 SC Semibold,40,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,7,10,10,10,134
 Style: 720P-sgbd-33,更纱黑体 SC,33,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
 Style: 720P-sgsm-42,更纱黑体 SC Semibold,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
-Style: 1080P-sgbd-4s,更纱黑体 SC,42,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-sgbd-4s,更纱黑体 SC,42,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
@@ -186,8 +186,8 @@ Dialogue: 0,0:04:57.54,0:04:59.20,1080P-sgbd-42,,0,0,0,,{\blur4}and the Space Sh
 Dialogue: 0,0:04:57.54,0:04:59.20,1080P-sgsm-63,,0,0,0,,{\blur4}以及维持航天飞机计划
 Dialogue: 0,0:04:59.25,0:05:03.25,1080P-sgbd-42,,0,0,0,,{\blur4}so a third very expensive program just wasn't on the cards.
 Dialogue: 0,0:04:59.25,0:05:03.25,1080P-sgsm-63,,0,0,0,,{\blur4}那么再来第三个非常昂贵的计划是万万不能的
-Dialogue: 0,0:05:03.70,0:05:09.48,1080P-sgbd-42,,0,0,0,,{\blur4}The loss of white papers and studies from the era continued to use as a baseline for a launch vehicle
-Dialogue: 0,0:05:03.70,0:05:09.48,1080P-sgsm-63,,0,0,0,,{\blur4}那个时代失去的白皮书和研究报告 继续作为(新)运载火箭的原型
+Dialogue: 0,0:05:03.70,0:05:09.48,1080P-sgbd-42,,0,0,0,,{\blur4}The lots of white papers and studies from the era continued to use as a baseline for a launch vehicle
+Dialogue: 0,0:05:03.70,0:05:09.48,1080P-sgsm-63,,0,0,0,,{\blur4}许多那个时代的白皮书和研究报告 继续作为(新)运载火箭的原型
 Dialogue: 0,0:05:09.50,0:05:12.92,1080P-sgbd-42,,0,0,0,,{\blur4}for getting spacecraft that would ultimately go to the Moon or Mars.
 Dialogue: 0,0:05:09.50,0:05:12.92,1080P-sgsm-63,,0,0,0,,{\blur4}这种火箭将最终前往月球或火星
 Dialogue: 0,0:05:13.15,0:05:17.04,1080P-sgbd-42,,0,0,0,,{\blur4}Anyway most of the 90s remained focused on the space station and the Space Shuttle
@@ -213,7 +213,7 @@ Dialogue: 0,0:05:53.74,0:05:58.44,1080P-sgsm-63,,0,0,0,,{\blur4}当时有人甚�
 Dialogue: 0,0:05:58.46,0:06:00.74,1080P-sgbd-42,,0,0,0,,{\blur4}but time has they're proven them wrong.
 Dialogue: 0,0:05:58.46,0:06:00.74,1080P-sgsm-63,,0,0,0,,{\blur4}但时间已经证明他们是错的
 Dialogue: 0,0:06:00.83,0:06:06.32,1080P-sgbd-42,,0,0,0,,{\blur4}They did actually solve the various problems even after the vehicle was then no longer gonna fly.
-Dialogue: 0,0:06:00.83,0:06:06.32,1080P-sgsm-63,,0,0,0,,{\blur4}甚至在当时的计划被取消之后 他们仍然解决了各种问题 
+Dialogue: 0,0:06:00.83,0:06:06.32,1080P-sgsm-63,,0,0,0,,{\blur4}甚至在当时的计划被取消之后 他们仍然解决了各种问题
 Dialogue: 0,0:06:07.03,0:06:10.40,1080P-sgbd-42,,0,0,0,,{\blur4}And then of course in 2003 the Columbia disaster
 Dialogue: 0,0:06:07.03,0:06:10.40,1080P-sgsm-63,,0,0,0,,{\blur4}当然在2003年的哥伦比亚号灾难中
 Dialogue: 0,0:06:10.66,0:06:15.86,1080P-sgbd-42,,0,0,0,,{\blur4}brought into focus the fact that they needed to come up with a replacement for the Space Shuttle.
