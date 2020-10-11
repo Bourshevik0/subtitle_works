@@ -29,7 +29,7 @@ Style: shsm-1-50s,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.98,0:00:14.98,shsm-5-100,,0,0,0,,{\blur4\pos(750,120)\fs60\fad(1000,1000)}感谢以下大佬于2020年7月份的赞助：
-Dialogue: 0,0:00:03.98,0:00:14.98,shsm-1-50s,,0,0,0,,{\blur4\fad(1000,1000)}背景素材出处：{\fs40}Long March-5 Y4 ready to launch Tianwen-1-SciNews-20200717-youtu.be/83X6drywlzY\N{\fs50}00:39处背景音乐： Fist Bump With Friends by Probe, 出处：youtu.be/GmI48ogIWg8, 音乐许可：CC BY 3.0\N03:09处背景音乐：Trouble by Test Shot Starfish, 出处：testshotstarfish.com, 音乐授权说明：{\fs35}reddit.com/r/SpaceXMasterrace/comments/bl8ysl/all_of_the_streams_on_the_channel_have_been_ended/ena07xn\N{\fs50}当前背景音乐：Discovery by Probe, 出处：youtu.be/RCM82btKzgc, 音乐许可：CC BY 3.0
+Dialogue: 0,0:00:03.98,0:00:14.98,shsm-1-50s,,0,0,0,,{\blur4\fad(1000,1000)}背景素材出处：{\fs40}Long March-5 Y4 ready to launch Tianwen-1-SciNews-20200717-youtu.be/83X6drywlzY\N{\fs50}00:39处背景音乐： Fist Bump With Friends by Probe, 出处：youtu.be/GmI48ogIWg8, 音乐许可：CC BY 3.0\N03:09处背景音乐：Mars by Test Shot Starfish, 出处：testshotstarfish.com, 音乐授权说明：{\fs35}reddit.com/r/SpaceXMasterrace/comments/bl8ysl/all_of_the_streams_on_the_channel_have_been_ended/ena07xn\N{\fs50}当前背景音乐：Discovery by Probe, 出处：youtu.be/RCM82btKzgc, 音乐许可：CC BY 3.0
 Dialogue: 0,0:00:15.00,0:00:22.46,shsm-8-90,,0,0,0,,{\blur4\fad(500,1000)}2020年7月（UTC）世界航天发射统计\N{\fs60}总计：14次（失败2次）
 Dialogue: 0,0:00:22.46,0:00:28.20,shsm-8-90,,0,0,0,,{\blur4\fad(1000,1000)}2020年世界航天发射统计（截止7月31日UTC）\N{\fs60}总计：59次（失败6次）
 Dialogue: 0,0:00:28.20,0:00:39.00,shsm-8-90,,0,0,0,,{\blur4\fad(1000,1000)}2020年世界航天发射统计（截止7月31日UTC）
