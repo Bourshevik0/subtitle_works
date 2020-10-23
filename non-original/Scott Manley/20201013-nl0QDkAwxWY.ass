@@ -22,6 +22,10 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:04.27,0:00:09.27,1080P-sgsm-50,,0,0,0,,注释
+Dialogue: 0,0:00:04.27,0:00:09.27,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原作者名：Scott Manley\N视频来源：youtu.be/nl0QDkAwxWY\N原视频发布日期：20201013\N字幕翻译/压制：旋火
+Dialogue: 0,0:01:10.81,0:01:17.81,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}虽然Able曾经是美军音标字母标准 {\fs25}en.wikipedia.org/wiki/Allied_military_phonetic_spelling_alphabets{\fs50}\N但是Able本身是一个火箭分级名称所以还是翻译成其本意 {\i1}能{\i0} {\fs25}en.wikipedia.org/wiki/Able_(rocket_stage){\fs50}
+Comment: 0,0:00:04.27,0:00:05.93,1080P-sgbd-42,,0,0,0,,字幕
 Dialogue: 0,0:00:04.27,0:00:05.93,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.27,0:00:05.93,1080P-sgsm-63,,0,0,0,,{\blur4}你好 我是Scott Manley
 Dialogue: 0,0:00:06.00,0:00:08.61,1080P-sgbd-42,,0,0,0,,{\blur4}Over the years I've talked about a lot of rockets.
