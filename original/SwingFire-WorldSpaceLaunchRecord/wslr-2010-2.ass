@@ -17,7 +17,7 @@ Style: shsm-5-100,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.89,1080P-sgsm-50,,0,0,0,,{\blur4\pos(10,820)}时间索引：03:20 正片\N{\fs30}当前背景音乐：please recycle by pine voc from {\fs30}steviasphere.bandcamp.com/track/please-recycle{\fs30}，音乐许可：CC BY 3.0\N02:37处背景音乐：green technology by pine voc from {\fs30}steviasphere.bandcamp.com/track/green-technology{\fs30}，音乐许可：CC BY 3.0\N06:08处背景音乐：climate engineering by pine voc from {\fs28}steviasphere.bandcamp.com/track/climate-engineering{\fs30}，音乐许可：CC BY 3.0\N其他素材出处：binglinggroup.github.io/archives/SwingFire-WorldSpaceLaunchRecord-2009.html
+Dialogue: 0,0:00:00.00,0:00:10.89,1080P-sgsm-50,,0,0,0,,{\blur4\pos(10,820)}时间索引：03:20 正片\N{\fs30}当前背景音乐：please recycle by pine voc from {\fs30}steviasphere.bandcamp.com/track/please-recycle{\fs30}，音乐许可：CC BY 3.0\N02:37处背景音乐：green technology by pine voc from {\fs30}steviasphere.bandcamp.com/track/green-technology{\fs30}，音乐许可：CC BY 3.0\N06:08处背景音乐：climate engineering by pine voc from {\fs28}steviasphere.bandcamp.com/track/climate-engineering{\fs30}，音乐许可：CC BY 3.0\N其他素材出处：binglinggroup.github.io/archives/SwingFire-WorldSpaceLaunchRecord-2010.html
 Dialogue: 0,0:00:00.00,0:00:10.89,shsm-5-100,,0,0,0,,{\blur4\pos(750,120)\fs60\fad(0,1000)}\N\N感谢以下大佬于2020年10月份的赞助：
 Dialogue: 0,0:04:02.45,0:04:07.04,shsm-5-100,,0,0,0,,{\blur4}我也是替你着急啊.jpg
 Comment: 0,0:00:00.73,0:00:04.32,1080P-sgsm-63,,0,0,0,,对话字幕
