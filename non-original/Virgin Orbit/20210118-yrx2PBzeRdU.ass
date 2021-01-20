@@ -21,7 +21,9 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.63,0:00:06.00,1080P-sgsm-50,,0,0,0,,注释
 Dialogue: 0,0:00:00.63,0:00:06.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：“Blue Skies Went to Black:” Mission Recap: Launch Demo 2 | Virgin Orbit\N原作者名： Virgin Orbit\N视频来源：youtu.be/yrx2PBzeRdU\N原视频发布日期：20210118\N字幕翻译/压制：旋火
-Dialogue: 0,0:00:08.18,0:00:09.55,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}LC全称可能是Launch Complex, LD是Launch Director
+Dialogue: 0,0:00:08.18,0:00:13.18,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}LC全称可能是Launch Complex，LD是Launch Director
+Dialogue: 0,0:01:02.22,0:01:07.22,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}PST=Propellant Settling Thrusters
+Dialogue: 0,0:01:14.64,0:01:19.64,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}TVC=Thrust Vector Control
 Dialogue: 0,0:01:51.06,0:01:56.06,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}穿过大气层进入太空后，天空的颜色会变黑
 Comment: 0,0:00:00.63,0:00:06.00,1080P-sgbd-42,,0,0,0,,字幕
 Dialogue: 0,0:00:00.63,0:00:06.00,1080P-sgbd-4s,,0,0,0,,{\blur4}[Music]
@@ -33,7 +35,7 @@ Dialogue: 0,0:00:09.66,0:00:12.01,1080P-sgsm-63,,0,0,0,,{\blur4}目前 我们正
 Dialogue: 0,0:00:12.67,0:00:17.74,1080P-sgbd-42,,0,0,0,,{\blur4}and our current drop time as listed in Trillian is 19:25 UTC.
 Dialogue: 0,0:00:12.67,0:00:17.74,1080P-sgsm-63,,0,0,0,,{\blur4}而我们目前的空投时间如Trillian中所列出的 是UTC时间19点25分
 Dialogue: 0,0:00:31.94,0:00:34.02,1080P-sgbd-42,,0,0,0,,{\blur4}Plane on Control Room. Flight Crew has been boarded on the aircraft.
-Dialogue: 0,0:00:31.94,0:00:34.02,1080P-sgsm-63,,0,0,0,,{\blur4}飞机在控制室 机组人员已登上飞机
+Dialogue: 0,0:00:31.94,0:00:34.02,1080P-sgsm-63,,0,0,0,,{\blur4}飞机由控制室接管 机组人员已登上飞机
 Dialogue: 0,0:00:38.23,0:00:39.47,1080P-sgbd-42,,0,0,0,,{\blur4}Cosmic Girl, this is Orbit Base.
 Dialogue: 0,0:00:38.23,0:00:39.47,1080P-sgsm-63,,0,0,0,,{\blur4}宇宙女孩 这里是(维珍)轨道基地
 Dialogue: 0,0:00:39.47,0:00:40.74,1080P-sgbd-42,,0,0,0,,{\blur4}You are go for takeoff.
@@ -55,7 +57,7 @@ Dialogue: 0,0:00:58.81,0:00:59.81,1080P-sgsm-63,,0,0,0,,{\blur4}释放
 Dialogue: 0,0:01:00.18,0:01:01.39,1080P-sgbd-42,,0,0,0,,{\blur4}Release, release, release
 Dialogue: 0,0:01:00.18,0:01:01.39,1080P-sgsm-63,,0,0,0,,{\blur4}释放 释放 释放
 Dialogue: 0,0:01:02.22,0:01:03.36,1080P-sgbd-42,,0,0,0,,{\blur4}PST is ignited.
-Dialogue: 0,0:01:02.22,0:01:03.36,1080P-sgsm-63,,0,0,0,,{\blur4}PST(?)已点火
+Dialogue: 0,0:01:02.22,0:01:03.36,1080P-sgsm-63,,0,0,0,,{\blur4}推进剂沉底发动机已点火
 Dialogue: 0,0:01:04.41,0:01:06.68,1080P-sgbd-42,,0,0,0,,{\blur4}Confirmed, NewtonThree engine startup
 Dialogue: 0,0:01:04.41,0:01:06.68,1080P-sgsm-63,,0,0,0,,{\blur4}牛顿3发动机启动确认
 Dialogue: 0,0:01:10.70,0:01:11.71,1080P-sgbd-42,,0,0,0,,{\blur4}Max Alpha achieved.
