@@ -40,7 +40,7 @@ Dialogue: 0,0:00:23.10,0:00:25.85,1080P-sgsm-63,,0,0,0,,{\blur4}发动机{\s1}�
 Dialogue: 0,0:00:25.87,0:00:27.50,1080P-sgbd-48,,0,0,0,,{\blur4}But we'll talk about that later.
 Dialogue: 0,0:00:25.87,0:00:27.50,1080P-sgsm-63,,0,0,0,,{\blur4}但我们稍后再谈这个问题
 Dialogue: 0,0:00:28.09,0:00:31.35,1080P-sgbd-48,,0,0,0,,{\blur4}By now you've probably heard the landing didn't go as planned.
-Dialogue: 0,0:00:28.09,0:00:31.35,1080P-sgsm-63,,0,0,0,,{\blur4}现在你可能已经听说了降落没有按计划进行
+Dialogue: 0,0:00:28.09,0:00:31.35,1080P-sgsm-63,,0,0,0,,{\blur4}现在你可能已经听说了着陆没有按计划进行
 Dialogue: 0,0:00:31.46,0:00:32.36,1080P-sgbd-48,,0,0,0,,{\blur4}This is what happened.
 Dialogue: 0,0:00:31.46,0:00:32.36,1080P-sgsm-63,,0,0,0,,{\blur4}事情的经过是这样的
 Dialogue: 0,0:00:32.41,0:00:36.55,1080P-sgbd-48,,0,0,0,,{\blur4}The vehicle was in the horizontal descent orientation.
@@ -54,9 +54,9 @@ Dialogue: 0,0:00:47.61,0:00:51.74,1080P-sgsm-63,,0,0,0,,{\blur4}如果你看这�
 Dialogue: 0,0:00:51.78,0:00:53.78,1080P-sgbd-48,,0,0,0,,{\blur4}But if you look at that white cloud there,
 Dialogue: 0,0:00:51.78,0:00:53.78,1080P-sgsm-63,,0,0,0,,{\blur4}但如果你看那片白云的话
 Dialogue: 0,0:00:54.00,0:00:56.23,1080P-sgbd-48,,0,0,0,,{\blur4}that is liquid oxygen in the header tank
-Dialogue: 0,0:00:54.00,0:00:56.23,1080P-sgsm-63,,0,0,0,,{\blur4}那是液氧的储箱
+Dialogue: 0,0:00:54.00,0:00:56.23,1080P-sgsm-63,,0,0,0,,{\blur4}那是头部储箱中的液氧
 Dialogue: 0,0:00:56.23,0:01:00.32,1080P-sgbd-48,,0,0,0,,{\blur4}and one of the cool ways we know this is well the slow motion footage.
-Dialogue: 0,0:00:56.23,0:01:00.32,1080P-sgsm-63,,0,0,0,,{\blur4}慢动作视频很好看
+Dialogue: 0,0:00:56.23,0:01:00.32,1080P-sgsm-63,,0,0,0,,{\blur4}这能通过慢动作视频这样很棒的方法看出
 Dialogue: 0,0:01:00.41,0:01:05.68,1080P-sgbd-48,,0,0,0,,{\blur4}But one of the tank watchers Lab Padre has a thermal camera
 Dialogue: 0,0:01:00.41,0:01:05.68,1080P-sgsm-63,,0,0,0,,{\blur4}但其中一个储罐观察者Lab Padre有一台热像仪
 Dialogue: 0,0:01:05.68,0:01:08.28,1080P-sgbd-48,,0,0,0,,{\blur4}and this is normally great because you can see the tank filling
@@ -136,7 +136,7 @@ Dialogue: 0,0:03:36.48,0:03:39.01,1080P-sgsm-63,,0,0,0,,{\blur4}而在储罐中�
 Dialogue: 0,0:03:39.04,0:03:44.26,1080P-sgbd-48,,0,0,0,,{\blur4}which is now where they mount all of the cameras and radars and things like this.
 Dialogue: 0,0:03:39.04,0:03:44.26,1080P-sgsm-63,,0,0,0,,{\blur4}现在他们在跳跳身上装满了摄像头和雷达之类的东西
 Dialogue: 0,0:03:44.74,0:03:47.44,1080P-sgbd-48,,0,0,0,,{\blur4}So I believe this camera is attached to hoppy.
-Dialogue: 0,0:03:44.74,0:03:47.44,1080P-sgsm-63,,0,0,0,,{\blur4}那么我相信这台摄像机是安装在Hoppy上的
+Dialogue: 0,0:03:44.74,0:03:47.44,1080P-sgsm-63,,0,0,0,,{\blur4}那么我相信这台摄像机是安装在跳跳上的
 Dialogue: 0,0:03:47.44,0:03:49.18,1080P-sgbd-48,,0,0,0,,{\blur4}And the great thing about this angle is
 Dialogue: 0,0:03:47.44,0:03:49.18,1080P-sgsm-63,,0,0,0,,{\blur4}而这个角度的好处是
 Dialogue: 0,0:03:49.20,0:03:55.07,1080P-sgbd-48,,0,0,0,,{\blur4}you can see the undersides of SN10 which is closest to us an SN9 which is further away.
@@ -156,7 +156,7 @@ Dialogue: 0,0:04:19.44,0:04:21.61,1080P-sgsm-63,,0,0,0,,{\blur4}那么不管这�
 Dialogue: 0,0:04:21.64,0:04:25.60,1080P-sgbd-48,,0,0,0,,{\blur4}There was a bit of a pause in the clock at 13 seconds but they continued.
 Dialogue: 0,0:04:21.64,0:04:25.60,1080P-sgsm-63,,0,0,0,,{\blur4}在倒计时到13秒的时候有一点停顿 但他们继续
 Dialogue: 0,0:04:25.75,0:04:33.36,1080P-sgbd-48,,0,0,0,,{\blur4}We got the signature three vent squirt and the all three engines lit and SN9 started.
-Dialogue: 0,0:04:25.75,0:04:33.36,1080P-sgsm-63,,0,0,0,,{\blur4}我们看到了标志性的三个排气口喷气的景象 之后 三个发动机全部点火 SN9起飞了
+Dialogue: 0,0:04:25.75,0:04:33.36,1080P-sgsm-63,,0,0,0,,{\blur4}我们看到了标志性的三个排气口喷气的景象 之后 三台发动机全部点火 SN9起飞了
 Dialogue: 0,0:04:33.36,0:04:36.98,1080P-sgbd-48,,0,0,0,,{\blur4}It ascent towards the target of 10 kilometers.
 Dialogue: 0,0:04:33.36,0:04:36.98,1080P-sgsm-63,,0,0,0,,{\blur4}它朝着10公里的目标高度上升
 Dialogue: 0,0:04:37.03,0:04:40.28,1080P-sgbd-48,,0,0,0,,{\blur4}That's what they had been authorized to do for this flight.
@@ -166,7 +166,7 @@ Dialogue: 0,0:04:41.32,0:04:44.24,1080P-sgsm-63,,0,0,0,,{\blur4}那么很明显 
 Dialogue: 0,0:04:44.24,0:04:49.78,1080P-sgbd-48,,0,0,0,,{\blur4}they have to use a lower propellant load than you would normally get in a fully loaded Starship.
 Dialogue: 0,0:04:44.24,0:04:49.78,1080P-sgsm-63,,0,0,0,,{\blur4}他们必须使用较少的推进剂 而不是通常情况下加满燃料的Starship
 Dialogue: 0,0:04:50.76,0:04:54.30,1080P-sgbd-48,,0,0,0,,{\blur4}This will have to have the header tanks because need to perform transition maneuver
-Dialogue: 0,0:04:50.76,0:04:54.30,1080P-sgsm-63,,0,0,0,,{\blur4}因为需要进行(机腹翻转的)过渡机动 所以头部储罐必须有推进剂加注
+Dialogue: 0,0:04:50.76,0:04:54.30,1080P-sgsm-63,,0,0,0,,{\blur4}因为需要进行(机腹翻转的)过渡机动 所以头部储箱必须有推进剂加注
 Dialogue: 0,0:04:54.34,0:04:57.34,1080P-sgbd-48,,0,0,0,,{\blur4}but there's a great shot showing all three of the engines lit up.
 Dialogue: 0,0:04:54.34,0:04:57.34,1080P-sgsm-63,,0,0,0,,{\blur4}但是这个镜头很好 拍下了三台发动机全部点火的状态
 Dialogue: 0,0:04:57.68,0:05:02.97,1080P-sgbd-48,,0,0,0,,{\blur4}And they also included some on-board cameras including this one off the bay.
@@ -186,11 +186,11 @@ Dialogue: 0,0:05:27.52,0:05:31.14,1080P-sgsm-63,,0,0,0,,{\blur4}它看起来确�
 Dialogue: 0,0:05:31.91,0:05:33.60,1080P-sgbd-48,,0,0,0,,{\blur4}I'm not sure if that's significant.
 Dialogue: 0,0:05:31.91,0:05:33.60,1080P-sgsm-63,,0,0,0,,{\blur4}我不知道这是否是重要的
 Dialogue: 0,0:05:33.60,0:05:38.82,1080P-sgbd-48,,0,0,0,,{\blur4}We're not sure if it's because it's perhaps running a little more fuel rich for throttle reasons.
-Dialogue: 0,0:05:33.60,0:05:38.82,1080P-sgsm-63,,0,0,0,,{\blur4}我们不知道这是否是因为它为了节流而使用了富燃的点火过程
+Dialogue: 0,0:05:33.60,0:05:38.82,1080P-sgsm-63,,0,0,0,,{\blur4}我们不知道这是否是因为它为了节流而使用了富燃的混合比
 Dialogue: 0,0:05:39.52,0:05:45.12,1080P-sgbd-48,,0,0,0,,{\blur4}Frankly we don't know very much but yeah at this point it is a fairly long ascent
 Dialogue: 0,0:05:39.52,0:05:45.12,1080P-sgsm-63,,0,0,0,,{\blur4}坦率地说 我们还不太清楚 但没错 在这时 SN9在进行一个相对耗时的上升段飞行
 Dialogue: 0,0:05:45.12,0:05:49.02,1080P-sgbd-48,,0,0,0,,{\blur4}where they deactivate the engines one by one until they reach apogee.
-Dialogue: 0,0:05:45.12,0:05:49.02,1080P-sgsm-63,,0,0,0,,{\blur4}在这段飞行过程中 发动机一个接一个地被关闭 知道飞行到远地点
+Dialogue: 0,0:05:45.12,0:05:49.02,1080P-sgsm-63,,0,0,0,,{\blur4}在这段飞行过程中 发动机一个接一个地被关闭 直到远地点
 Dialogue: 0,0:05:49.84,0:05:53.91,1080P-sgbd-48,,0,0,0,,{\blur4}Apogee being when SN9 gets as high as it's gonna get
 Dialogue: 0,0:05:49.84,0:05:53.91,1080P-sgsm-63,,0,0,0,,{\blur4}远地点是指SN9到达最高点的时候
 Dialogue: 0,0:05:53.91,0:05:57.62,1080P-sgbd-48,,0,0,0,,{\blur4}and that on this flight happened around (T+)4:20.
@@ -230,7 +230,7 @@ Dialogue: 0,0:07:00.47,0:07:02.95,1080P-sgsm-63,,0,0,0,,{\blur4}但是画面卡�
 Dialogue: 0,0:07:03.52,0:07:08.08,1080P-sgbd-48,,0,0,0,,{\blur4}But look the good news for this flight is the transition from the vertical to the horizontal
 Dialogue: 0,0:07:03.52,0:07:08.08,1080P-sgsm-63,,0,0,0,,{\blur4}但注意到这个飞行的好消息是 从垂直到水平的过渡
 Dialogue: 0,0:07:08.08,0:07:11.03,1080P-sgbd-48,,0,0,0,,{\blur4}and controlling the belly flop were really good.
-Dialogue: 0,0:07:08.08,0:07:11.03,1080P-sgsm-63,,0,0,0,,{\blur4}和机腹翻转的控制都非常好
+Dialogue: 0,0:07:08.08,0:07:11.03,1080P-sgsm-63,,0,0,0,,{\blur4}和(这部分的)机腹翻转的控制都非常好
 Dialogue: 0,0:07:11.03,0:07:15.12,1080P-sgbd-48,,0,0,0,,{\blur4}It was consistent which means those were the things I had the biggest concern about.
 Dialogue: 0,0:07:11.03,0:07:15.12,1080P-sgsm-63,,0,0,0,,{\blur4}这与SN8的表现一致 而这些是我最担心的事情
 Dialogue: 0,0:07:15.26,0:07:19.48,1080P-sgbd-48,,0,0,0,,{\blur4}Oddly enough I haven't had huge concerns about the reliability of the Raptors.
@@ -246,7 +246,7 @@ Dialogue: 0,0:07:37.76,0:07:39.95,1080P-sgsm-63,,0,0,0,,{\blur4}好了 让我们
 Dialogue: 0,0:07:40.00,0:07:44.68,1080P-sgbd-48,,0,0,0,,{\blur4}One thing to notice first of all is the nose by now is covered in frost
 Dialogue: 0,0:07:40.00,0:07:44.68,1080P-sgsm-63,,0,0,0,,{\blur4}首先要注意的是机鼻上已经布满了霜
 Dialogue: 0,0:07:44.73,0:07:47.75,1080P-sgbd-48,,0,0,0,,{\blur4}because of course that's where the oxygen header tank is.
-Dialogue: 0,0:07:44.73,0:07:47.75,1080P-sgsm-63,,0,0,0,,{\blur4}当然因为那是氧气头部储罐的位置
+Dialogue: 0,0:07:44.73,0:07:47.75,1080P-sgsm-63,,0,0,0,,{\blur4}当然因为那是氧气头部储箱的位置
 Dialogue: 0,0:07:47.75,0:07:51.11,1080P-sgbd-48,,0,0,0,,{\blur4}You can see the two vents coming out to the sides.
 Dialogue: 0,0:07:47.75,0:07:51.11,1080P-sgsm-63,,0,0,0,,{\blur4}你可以看到航天器的两侧正排出气体
 Dialogue: 0,0:07:51.59,0:07:54.83,1080P-sgbd-48,,0,0,0,,{\blur4}Those are from the engine chill system I believe.
@@ -286,11 +286,11 @@ Dialogue: 0,0:09:10.53,0:09:12.84,1080P-sgsm-63,,0,0,0,,{\blur4}我们还不确�
 Dialogue: 0,0:09:13.36,0:09:15.51,1080P-sgbd-48,,0,0,0,,{\blur4}Now there's other things to see from this angle.
 Dialogue: 0,0:09:13.36,0:09:15.51,1080P-sgsm-63,,0,0,0,,{\blur4}从这个角度还可以看到其他的东西
 Dialogue: 0,0:09:15.51,0:09:22.06,1080P-sgbd-48,,0,0,0,,{\blur4}First of all, there's a couple of items that are seen to get blown out during this.
-Dialogue: 0,0:09:15.51,0:09:22.06,1080P-sgsm-63,,0,0,0,,{\blur4}首先 有几件东西在这期间被炸掉了
+Dialogue: 0,0:09:15.51,0:09:22.06,1080P-sgsm-63,,0,0,0,,{\blur4}首先 有几件东西看上去在这期间被炸掉了
 Dialogue: 0,0:09:22.56,0:09:26.34,1080P-sgbd-48,,0,0,0,,{\blur4}And as far as we can tell they are much lighter.
 Dialogue: 0,0:09:22.56,0:09:26.34,1080P-sgsm-63,,0,0,0,,{\blur4}据我们所知 它们的重量要轻得多
 Dialogue: 0,0:09:26.37,0:09:29.21,1080P-sgbd-48,,0,0,0,,{\blur4}So there's the first one shooting off to the left.
-Dialogue: 0,0:09:26.37,0:09:29.21,1080P-sgsm-63,,0,0,0,,{\blur4}那么第一个是向左边射去的东西
+Dialogue: 0,0:09:26.37,0:09:29.21,1080P-sgsm-63,,0,0,0,,{\blur4}那么第一个是向左边射过去的东西
 Dialogue: 0,0:09:29.51,0:09:31.36,1080P-sgbd-48,,0,0,0,,{\blur4}And it's getting caught up in the air.
 Dialogue: 0,0:09:29.51,0:09:31.36,1080P-sgsm-63,,0,0,0,,{\blur4}它被空气托举起来了
 Dialogue: 0,0:09:31.36,0:09:34.39,1080P-sgbd-48,,0,0,0,,{\blur4}We actually see that it falls slower than the rest of the vehicle.
@@ -308,15 +308,15 @@ Dialogue: 0,0:09:49.83,0:09:51.83,1080P-sgsm-63,,0,0,0,,{\blur4}事实上 如果
 Dialogue: 0,0:09:51.83,0:09:56.77,1080P-sgbd-48,,0,0,0,,{\blur4}you'll actually start to see the second thing bouncing around inside the skirt before it's blown out.
 Dialogue: 0,0:09:51.83,0:09:56.77,1080P-sgsm-63,,0,0,0,,{\blur4}其实你会开始看到第二个东西在吹出去之前 在裙板内跳来跳去
 Dialogue: 0,0:09:57.30,0:10:01.38,1080P-sgbd-48,,0,0,0,,{\blur4}But yeah if the other thing to watch is the engine that's failing slightly.
-Dialogue: 0,0:09:57.30,0:10:01.38,1080P-sgsm-63,,0,0,0,,{\blur4}但是 是的 如果还有另一件事情要注意 那就是发动机的轻微故障
+Dialogue: 0,0:09:57.30,0:10:01.38,1080P-sgsm-63,,0,0,0,,{\blur4}但是 是的 如果还有另一件事情要注意 那就是轻微故障的那台发动机
 Dialogue: 0,0:10:01.40,0:10:06.39,1080P-sgbd-48,,0,0,0,,{\blur4}At this point you can actually see there's flames at the base of that engine or the head
-Dialogue: 0,0:10:01.40,0:10:06.39,1080P-sgsm-63,,0,0,0,,{\blur4}这时其实你可以看到在那个发动机的基部或者说头部有火焰
+Dialogue: 0,0:10:01.40,0:10:06.39,1080P-sgsm-63,,0,0,0,,{\blur4}这时其实你可以看到在那台发动机的基部或者说头部有火焰
 Dialogue: 0,0:10:06.39,0:10:07.76,1080P-sgbd-48,,0,0,0,,{\blur4}because we're looking at it from below.
 Dialogue: 0,0:10:06.39,0:10:07.76,1080P-sgsm-63,,0,0,0,,{\blur4}因为我们是从下面看的
 Dialogue: 0,0:10:07.83,0:10:11.94,1080P-sgbd-48,,0,0,0,,{\blur4}So the power head is very likely falling apart.
 Dialogue: 0,0:10:07.83,0:10:11.94,1080P-sgsm-63,,0,0,0,,{\blur4}所以发动机的动力头很可能是散架了
 Dialogue: 0,0:10:12.24,0:10:16.32,1080P-sgbd-48,,0,0,0,,{\blur4}So this is very much looking like an engine failing and coming apart
-Dialogue: 0,0:10:12.24,0:10:16.32,1080P-sgsm-63,,0,0,0,,{\blur4}俺么这看起来很像是一个发动机发生了故障而解体了
+Dialogue: 0,0:10:12.24,0:10:16.32,1080P-sgsm-63,,0,0,0,,{\blur4}那么这看起来很像是一台发动机发生了故障而解体了
 Dialogue: 0,0:10:16.32,0:10:17.04,1080P-sgbd-48,,0,0,0,,{\blur4}and the question is
 Dialogue: 0,0:10:16.32,0:10:17.04,1080P-sgsm-63,,0,0,0,,{\blur4}而问题是
 Dialogue: 0,0:10:17.04,0:10:21.17,1080P-sgbd-48,,0,0,0,,{\blur4}was it a flaw in the engine? Did it just break because it'd been run for too long?
@@ -336,7 +336,7 @@ Dialogue: 0,0:10:43.66,0:10:47.88,1080P-sgsm-63,,0,0,0,,{\blur4}那次Starship�
 Dialogue: 0,0:10:48.07,0:10:49.60,1080P-sgbd-48,,0,0,0,,{\blur4}Pressure was too low.
 Dialogue: 0,0:10:48.07,0:10:49.60,1080P-sgsm-63,,0,0,0,,{\blur4}压力太低
 Dialogue: 0,0:10:49.60,0:10:51.62,1080P-sgbd-48,,0,0,0,,{\blur4}The oxygen get fed into the engines.
-Dialogue: 0,0:10:49.60,0:10:51.62,1080P-sgsm-63,,0,0,0,,{\blur4}氧气进入发动机
+Dialogue: 0,0:10:49.60,0:10:51.62,1080P-sgsm-63,,0,0,0,,{\blur4}(过量)氧气进入发动机
 Dialogue: 0,0:10:51.62,0:10:56.17,1080P-sgbd-48,,0,0,0,,{\blur4}And we got this bright green flame of engine rich exhaust
 Dialogue: 0,0:10:51.62,0:10:56.17,1080P-sgsm-63,,0,0,0,,{\blur4}而我们看到了富发动机燃烧的 明亮的绿色火焰
 Dialogue: 0,0:10:56.20,0:10:59.63,1080P-sgbd-48,,0,0,0,,{\blur4}as the engine destroyed itself due to a failure in Starship.
@@ -344,7 +344,7 @@ Dialogue: 0,0:10:56.20,0:10:59.63,1080P-sgsm-63,,0,0,0,,{\blur4}因为Starship�
 Dialogue: 0,0:10:59.92,0:11:02.88,1080P-sgbd-48,,0,0,0,,{\blur4}This could be a failure of the engine most likely
 Dialogue: 0,0:10:59.92,0:11:02.88,1080P-sgsm-63,,0,0,0,,{\blur4}而SN9很可能就是发动机的故障
 Dialogue: 0,0:11:02.88,0:11:07.63,1080P-sgbd-48,,0,0,0,,{\blur4}but it could be something that only affects that engine in Starship fuel supply.
-Dialogue: 0,0:11:02.88,0:11:07.63,1080P-sgsm-63,,0,0,0,,{\blur4}但也可能是Starship燃料供应(系统)中 只影响到的那个发动机的部分
+Dialogue: 0,0:11:02.88,0:11:07.63,1080P-sgsm-63,,0,0,0,,{\blur4}但也可能是Starship燃料供应(系统)中 只影响到的那台发动机的部分
 Dialogue: 0,0:11:07.70,0:11:12.76,1080P-sgbd-48,,0,0,0,,{\blur4}So we'll have to wait to find out what really happened here I suspect.
 Dialogue: 0,0:11:07.70,0:11:12.76,1080P-sgsm-63,,0,0,0,,{\blur4}所以我觉得我们得等着看看到底发生了什么
 Dialogue: 0,0:11:13.26,0:11:17.12,1080P-sgbd-48,,0,0,0,,{\blur4}Now while SpaceX is no doubt going to be doing their own internal analysis.
