@@ -107,7 +107,7 @@ Dialogue: 0,0:02:51.74,0:02:54.94,1080P-sgsm-63,,0,0,0,,{\blur4}那么这是因�
 Dialogue: 0,0:02:54.97,0:02:55.82,1080P-sgbd-42,,0,0,0,,{\blur4}As you probably know
 Dialogue: 0,0:02:54.97,0:02:55.82,1080P-sgsm-63,,0,0,0,,{\blur4}你可能知道
 Dialogue: 0,0:02:55.88,0:03:00.76,1080P-sgbd-42,,0,0,0,,{\blur4}many high performance rocket engines they have a gas generator that powers the turbo pumps
-Dialogue: 0,0:02:55.88,0:03:00.76,1080P-sgsm-63,,0,0,0,,{\blur4}许多高性能的火箭发动机会有一个气体发生器 为涡轮泵提供动力
+Dialogue: 0,0:02:55.88,0:03:00.76,1080P-sgsm-63,,0,0,0,,{\blur4}许多高性能的火箭发动机会有一个燃气发生器 为涡轮泵提供动力
 Dialogue: 0,0:03:00.78,0:03:06.26,1080P-sgbd-42,,0,0,0,,{\blur4}that is they burn some fuel and the oxidizer and use the exhaust gas to power turbines.
 Dialogue: 0,0:03:00.78,0:03:06.26,1080P-sgsm-63,,0,0,0,,{\blur4}即它们燃烧一些燃料和氧化剂 并使用废气驱动涡轮机
 Dialogue: 0,0:03:07.05,0:03:08.61,1080P-sgbd-42,,0,0,0,,{\blur4}To keep the temperature down
@@ -153,7 +153,7 @@ Dialogue: 0,0:04:33.14,0:04:38.66,1080P-sgsm-63,,0,0,0,,{\blur4}与一级不同�
 Dialogue: 0,0:04:39.39,0:04:45.42,1080P-sgbd-42,,0,0,0,,{\blur4}The third stage was a high energy hydrogen oxygen stage powered by an HM7 engine.
 Dialogue: 0,0:04:39.39,0:04:45.42,1080P-sgsm-63,,0,0,0,,{\blur4}三级是由HM7发动机驱动的高能氢氧级
 Dialogue: 0,0:04:45.80,0:04:49.54,1080P-sgbd-42,,0,0,0,,{\blur4}This is a simple gas generator hydrogen oxygen engine.
-Dialogue: 0,0:04:45.80,0:04:49.54,1080P-sgsm-63,,0,0,0,,{\blur4}这是一台简单的气体发生器(循环)氢氧发动机
+Dialogue: 0,0:04:45.80,0:04:49.54,1080P-sgsm-63,,0,0,0,,{\blur4}这是一台简单的燃气发生器(循环)氢氧发动机
 Dialogue: 0,0:04:49.95,0:04:52.62,1080P-sgbd-42,,0,0,0,,{\blur4}This stage would have over eight tons of propellant.
 Dialogue: 0,0:04:49.95,0:04:52.62,1080P-sgsm-63,,0,0,0,,{\blur4}这级将有超过8吨的推进剂
 Dialogue: 0,0:04:52.85,0:04:56.42,1080P-sgbd-42,,0,0,0,,{\blur4}And would boost the payload up into geostationary transfer orbit.
@@ -327,7 +327,7 @@ Dialogue: 0,0:11:13.21,0:11:15.19,1080P-sgsm-63,,0,0,0,,{\blur4}每个质量约3
 Dialogue: 0,0:11:15.56,0:11:21.48,1080P-sgbd-42,,0,0,0,,{\blur4}And a hydrogen oxygen core that fully fueled is about 170 tons.
 Dialogue: 0,0:11:15.56,0:11:21.48,1080P-sgsm-63,,0,0,0,,{\blur4}而完全加满燃料的氢氧芯级约为170吨
 Dialogue: 0,0:11:21.88,0:11:27.46,1080P-sgbd-42,,0,0,0,,{\blur4}The engine on the core is the Vulcan which is a gas generator hydrogen oxygen engine.
-Dialogue: 0,0:11:21.88,0:11:27.46,1080P-sgsm-63,,0,0,0,,{\blur4}芯级上的发动机是火神发动机 是气体发生器(循环)的氢氧发动机
+Dialogue: 0,0:11:21.88,0:11:27.46,1080P-sgsm-63,,0,0,0,,{\blur4}芯级上的发动机是火神发动机 是燃气发生器(循环)的氢氧发动机
 Dialogue: 0,0:11:27.79,0:11:30.20,1080P-sgbd-42,,0,0,0,,{\blur4}There is a second stage which is hypergolic.
 Dialogue: 0,0:11:27.79,0:11:30.20,1080P-sgsm-63,,0,0,0,,{\blur4}二级使用的是自燃推进剂
 Dialogue: 0,0:11:30.23,0:11:32.01,1080P-sgbd-42,,0,0,0,,{\blur4}It's powered by the Aestus engine.
