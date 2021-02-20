@@ -73,7 +73,7 @@ Dialogue: 0,0:01:26.40,0:01:31.91,1080P-sgsm-6t,,0,0,0,,{\blur4}运气好的是 
 Dialogue: 0,0:01:31.93,0:01:34.93,1080P-sgbd-4t,,0,0,0,,{\blur4}and it had practically the same flight profile
 Dialogue: 0,0:01:31.93,0:01:34.93,1080P-sgsm-6t,,0,0,0,,{\blur4}而它的飞行轨迹几乎是一样的
 Dialogue: 0,0:01:35.22,0:01:42.00,1080P-sgbd-4t,,0,0,0,,{\blur4}so looking at the performance all the way up through the initial boost and to the ignition of the second stage
-Dialogue: 0,0:01:35.22,0:01:42.00,1080P-sgsm-6t,,0,0,0,,{\blur4}因此 从最初的发射到二级的点火 这些性能看下来
+Dialogue: 0,0:01:35.22,0:01:42.00,1080P-sgsm-6t,,0,0,0,,{\blur4}因此 从最初的发射到二级的点火 这些表现看下来
 Dialogue: 0,0:01:42.11,0:01:44.97,1080P-sgbd-4t,,0,0,0,,{\blur4}everything looked practically the same right.
 Dialogue: 0,0:01:42.11,0:01:44.97,1080P-sgsm-6t,,0,0,0,,{\blur4}几乎都是一样的
 Dialogue: 0,0:01:45.06,0:01:47.41,1080P-sgbd-4t,,0,0,0,,{\blur4}There was small deviations in the numbers
@@ -249,7 +249,7 @@ Dialogue: 0,0:07:46.50,0:07:52.10,1080P-sgsm-6t,,0,0,0,,{\blur4}既然我们只�
 Dialogue: 0,0:07:52.43,0:07:57.84,1080P-sgbd-4t,,0,0,0,,{\blur4}which would say to me that the turbo pumps the fuel pump and the oxidizer pump are still working
 Dialogue: 0,0:07:52.43,0:07:57.84,1080P-sgsm-6t,,0,0,0,,{\blur4}这对我来说 涡轮泵 或者说燃料泵和氧化剂泵仍在工作
 Dialogue: 0,0:07:57.99,0:08:00.16,1080P-sgbd-4t,,0,0,0,,{\blur4}but something downstream from that is broken
-Dialogue: 0,0:07:57.99,0:08:00.16,1080P-sgsm-6t,,0,0,0,,{\blur4}而是更下方的东西坏了
+Dialogue: 0,0:07:57.99,0:08:00.16,1080P-sgsm-6t,,0,0,0,,{\blur4}而是更下游的东西坏了
 Dialogue: 0,0:08:00.16,0:08:02.96,1080P-sgbd-4t,,0,0,0,,{\blur4}and it's not really generating that much thrust.
 Dialogue: 0,0:08:00.16,0:08:02.96,1080P-sgsm-6t,,0,0,0,,{\blur4}而这导致它并没有真正产生那么大的推力
 Dialogue: 0,0:08:02.96,0:08:07.32,1080P-sgbd-4t,,0,0,0,,{\blur4}It's throwing a bunch of propellant out the back and that's what we're seeing burning here.
