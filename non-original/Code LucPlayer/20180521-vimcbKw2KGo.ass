@@ -13,11 +13,13 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-sgsm-50,更纱黑体 SC Semibold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
 Style: 1080P-sgsm-63,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-sgbd-48,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,8,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.82,0:00:18.34,1080P-sgbd-42,,0,0,0,,Hello everyone, here is IcePlayer
-Dialogue: 0,0:00:14.82,0:00:18.34,1080P-sgsm-63,,0,0,0,,大家好，我是IcePlayer
+Dialogue: 0,0:00:15.98,0:00:22.98,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：IFSCL - Théorie [Story Mode] 'Simone'\N原作者名：Code LucPlayer\N视频来源：youtu.be/vimcbKw2KGo\N原视频发布日期：20180521\N字幕根据原视频英文字幕制作\N字幕翻译：Albeta，jky
+Dialogue: 0,0:00:15.98,0:00:18.34,1080P-sgbd-42,,0,0,0,,Hello everyone, here is IcePlayer
+Dialogue: 0,0:00:15.98,0:00:18.34,1080P-sgsm-63,,0,0,0,,大家好，我是IcePlayer
 Dialogue: 0,0:00:18.35,0:00:21.16,1080P-sgbd-42,,0,0,0,,We are here for a new video format
 Dialogue: 0,0:00:18.35,0:00:21.16,1080P-sgsm-63,,0,0,0,,我们来看一个新的视频格式
 Dialogue: 0,0:00:21.16,0:00:25.20,1080P-sgbd-42,,0,0,0,,completely dedicated to the story mode of the IFSCL
@@ -28,100 +30,88 @@ Dialogue: 0,0:00:27.19,0:00:30.53,1080P-sgbd-42,,0,0,0,,Like the "Return to the 
 Dialogue: 0,0:00:27.19,0:00:30.53,1080P-sgsm-63,,0,0,0,,就像"时间倒转"或者"Code XANA"那样
 Dialogue: 0,0:00:30.53,0:00:33.53,1080P-sgbd-42,,0,0,0,,but will be more and more present on the channel
 Dialogue: 0,0:00:30.53,0:00:33.53,1080P-sgsm-63,,0,0,0,,但会越来越频繁地出现在频道上
-Dialogue: 0,0:00:33.53,0:00:36.38,1080P-sgbd-42,,0,0,0,,while information about the story mode
-Dialogue: 0,0:00:33.53,0:00:36.38,1080P-sgsm-63,,0,0,0,,但故事模式的秘密
-Dialogue: 0,0:00:36.38,0:00:39.19,1080P-sgbd-42,,0,0,0,,will be revealed to us
-Dialogue: 0,0:00:36.38,0:00:39.19,1080P-sgsm-63,,0,0,0,,会揭示给我们吗
+Dialogue: 0,0:00:33.53,0:00:39.19,1080P-sgbd-42,,0,0,0,,while information about the story mode will be revealed to us
+Dialogue: 0,0:00:33.53,0:00:39.19,1080P-sgsm-63,,0,0,0,,但故事模式的秘密会揭示给我们吗
 Dialogue: 0,0:00:39.19,0:00:42.00,1080P-sgbd-42,,0,0,0,,because the more info we have
 Dialogue: 0,0:00:39.19,0:00:42.00,1080P-sgsm-63,,0,0,0,,因为我们掌握的信息越多
 Dialogue: 0,0:00:42.00,0:00:44.60,1080P-sgbd-42,,0,0,0,,the more coherent and logic theories we can make
 Dialogue: 0,0:00:42.00,0:00:44.60,1080P-sgsm-63,,0,0,0,,我们就能得出更有条理和逻辑性的理论
 Dialogue: 0,0:00:44.60,0:00:46.96,1080P-sgbd-42,,0,0,0,,based on real elements given by Immu
-Dialogue: 0,0:00:44.60,0:00:46.96,1080P-sgsm-63,,0,0,0,,基于Immu给出的真实素材
+Dialogue: 0,0:00:44.60,0:00:46.96,1080P-sgsm-63,,0,0,0,,基于Immu(IFSCL制作者)给出的真实素材
 Dialogue: 0,0:00:46.96,0:00:50.08,1080P-sgbd-42,,0,0,0,,and not only ideas that we thought about
 Dialogue: 0,0:00:46.96,0:00:50.08,1080P-sgsm-63,,0,0,0,,不单单是我们自己的想法
 Dialogue: 0,0:00:50.08,0:00:53.53,1080P-sgbd-42,,0,0,0,,Those videos will always be presented approximately the same way
 Dialogue: 0,0:00:50.08,0:00:53.53,1080P-sgsm-63,,0,0,0,,这些视频总是以近似相同的方式呈现
-Dialogue: 0,0:00:53.53,0:00:56.54,1080P-sgbd-42,,0,0,0,,In the first part I will talk about all the elements
-Dialogue: 0,0:00:53.53,0:00:56.54,1080P-sgsm-63,,0,0,0,,在第一部分中，我将讨论所有的要素
-Dialogue: 0,0:00:56.54,0:00:59.60,1080P-sgbd-42,,0,0,0,,that can be surely trusted
-Dialogue: 0,0:00:56.54,0:00:59.60,1080P-sgsm-63,,0,0,0,,这些要素都是完全真实的
+Dialogue: 0,0:00:53.53,0:00:59.60,1080P-sgbd-42,,0,0,0,,In the first part I will talk about all the elements that can be surely trusted
+Dialogue: 0,0:00:53.53,0:00:59.60,1080P-sgsm-63,,0,0,0,,在第一部分中，我将讨论所有完全真实的要素
 Dialogue: 0,0:00:59.60,0:01:05.95,1080P-sgbd-42,,0,0,0,,for the selected theory, as they are from official sources, which are the original show,
 Dialogue: 0,0:00:59.60,0:01:05.95,1080P-sgsm-63,,0,0,0,,因为他们所选择的推理理论，其素材来源于官方消息，也就是原剧
-Dialogue: 0,0:01:05.95,0:01:12.00,1080P-sgbd-42,,0,0,0,,the website codelyoko.fr or everything Immu said in the game, a trailer
-Dialogue: 0,0:01:05.95,0:01:12.00,1080P-sgsm-63,,0,0,0,,还有网站codelyoko.fr或者Immu在游戏中的预告片里说的
-Dialogue: 0,0:01:12.00,0:01:14.88,1080P-sgbd-42,,0,0,0,,or a post on facebook
-Dialogue: 0,0:01:12.00,0:01:14.88,1080P-sgsm-63,,0,0,0,,或者是在facebook上发布的帖子
-Dialogue: 0,0:01:14.90,0:01:17.96,1080P-sgbd-42,,0,0,0,,or the game forum.
-Dialogue: 0,0:01:14.90,0:01:17.96,1080P-sgsm-63,,0,0,0,,还有在游戏论坛发布的内容。
-Dialogue: 0,0:01:17.96,0:01:23.59,1080P-sgbd-42,,0,0,0,,.In the second part, I will present you the theories that seem the most coherent
+Dialogue: 0,0:01:05.95,0:01:12.00,1080P-sgbd-42,,0,0,0,,the website Code Lyoko.fr or everything Immu said in the game, a trailer
+Dialogue: 0,0:01:05.95,0:01:12.00,1080P-sgsm-63,,0,0,0,,还有网站Code Lyoko.fr或者Immu在游戏中的预告片里说的
+Dialogue: 0,0:01:12.00,0:01:17.96,1080P-sgbd-42,,0,0,0,,or a post on facebook or discord or the game forum.
+Dialogue: 0,0:01:12.00,0:01:17.96,1080P-sgsm-63,,0,0,0,,或者是在facebook，discord，游戏论坛上发布的帖子
+Dialogue: 0,0:01:17.96,0:01:23.59,1080P-sgbd-42,,0,0,0,,In the second part, I will present you the theories that seem the most coherent
 Dialogue: 0,0:01:17.96,0:01:23.59,1080P-sgsm-63,,0,0,0,,在第二部分，我将向大家介绍最符合逻辑的理论
-Dialogue: 0,0:01:23.59,0:01:25.95,1080P-sgbd-42,,0,0,0,,In this videos, I will also credit the people
-Dialogue: 0,0:01:23.59,0:01:25.95,1080P-sgsm-63,,0,0,0,,在这段视频中，我还要感谢一些人
-Dialogue: 0,0:01:25.95,0:01:29.04,1080P-sgbd-42,,0,0,0,,with who I theorised
-Dialogue: 0,0:01:25.95,0:01:29.04,1080P-sgsm-63,,0,0,0,,因为我和他们共同建立起了理论
+Dialogue: 0,0:01:23.59,0:01:29.04,1080P-sgbd-42,,0,0,0,,In this videos, I will also credit the people with who I theorised
+Dialogue: 0,0:01:23.59,0:01:29.04,1080P-sgsm-63,,0,0,0,,在这段视频中，我还要感谢与我一起构思的人
 Dialogue: 0,0:01:29.04,0:01:31.92,1080P-sgbd-42,,0,0,0,,since I personnaly prefer make my theories with another person
-Dialogue: 0,0:01:29.04,0:01:31.92,1080P-sgsm-63,,0,0,0,,我喜欢跟别人说说我的想法
+Dialogue: 0,0:01:29.04,0:01:31.92,1080P-sgsm-63,,0,0,0,,因为我喜欢跟别人说说我的想法
 Dialogue: 0,0:01:31.92,0:01:34.92,1080P-sgbd-42,,0,0,0,,to have an external point of view
 Dialogue: 0,0:01:31.92,0:01:34.92,1080P-sgsm-63,,0,0,0,,这样我就能获得外部的一些观点
-Dialogue: 0,0:01:34.92,0:01:41.11,1080P-sgbd-42,,0,0,0,,so I have the most exact and realistic theory based on the elements we have in our possesion
+Dialogue: 0,0:01:34.92,0:01:41.11,1080P-sgbd-42,,0,0,0,,so I have the most exact and realistic theory based on the elements we have in our possession
 Dialogue: 0,0:01:34.92,0:01:41.11,1080P-sgsm-63,,0,0,0,,所以基于我们所拥有的要素，我能得出最精确、最真实的理论
 Dialogue: 0,0:01:41.11,0:01:46.96,1080P-sgbd-42,,0,0,0,,This first theory video will have as subject the name "Simone"
 Dialogue: 0,0:01:41.11,0:01:46.96,1080P-sgsm-63,,0,0,0,,现在是第一段视频，主题是"Simone"，这个名字
 Dialogue: 0,0:01:46.96,0:01:49.92,1080P-sgbd-42,,0,0,0,,that appeared for the first time in the anniversary trailer that celebrated the eight years of IFSCL.
-Dialogue: 0,0:01:46.96,0:01:49.92,1080P-sgsm-63,,0,0,0,,首次出现在IFSCL八周年庆典的预告片中
+Dialogue: 0,0:01:46.96,0:01:49.92,1080P-sgsm-63,,0,0,0,,首次出现在IFSCL八周年纪念的预告片中
 Dialogue: 0,0:01:49.92,0:01:52.85,1080P-sgbd-42,,0,0,0,,We will try to understand
 Dialogue: 0,0:01:49.92,0:01:52.85,1080P-sgsm-63,,0,0,0,,我们会努力去弄明白
-Dialogue: 0,0:01:52.85,0:01:54.66,1080P-sgbd-42,,0,0,0,,who this name is referring to
+Dialogue: 0,0:01:52.85,0:01:54.66,1080P-sgbd-48,,0,0,0,,who this name is referring to
 Dialogue: 0,0:01:52.85,0:01:54.66,1080P-sgsm-63,,0,0,0,,这个名字指的是什么
-Dialogue: 0,0:01:54.66,0:01:59.28,1080P-sgbd-42,,0,0,0,,and why we see it during the boot screen of the laboratory computer
+Dialogue: 0,0:01:54.66,0:01:59.28,1080P-sgbd-48,,0,0,0,,and why we see it during the boot screen of the laboratory computer
 Dialogue: 0,0:01:54.66,0:01:59.28,1080P-sgsm-63,,0,0,0,,以及为什么我们会在实验室电脑的启动屏幕上看到它
 Dialogue: 0,0:01:59.28,0:02:02.35,1080P-sgbd-42,,0,0,0,,The theory presented in this video was imagined with "Appryl",
 Dialogue: 0,0:01:59.28,0:02:02.35,1080P-sgsm-63,,0,0,0,,这个视频中的理论是我和"Appryl"推测出来的
-Dialogue: 0,0:02:02.35,0:02:07.12,1080P-sgbd-42,,0,0,0,,an IFSCL and Codelyoko fan since a long time
-Dialogue: 0,0:02:02.35,0:02:07.12,1080P-sgsm-63,,0,0,0,,她是IFSCL和Codelyoko的忠实粉丝
+Dialogue: 0,0:02:02.35,0:02:07.12,1080P-sgbd-42,,0,0,0,,an IFSCL and Code Lyoko fan since a long time
+Dialogue: 0,0:02:02.35,0:02:07.12,1080P-sgsm-63,,0,0,0,,她是IFSCL和Code Lyoko的忠实粉丝
 Dialogue: 0,0:02:07.12,0:02:08.53,1080P-sgbd-42,,0,0,0,,Let's go
 Dialogue: 0,0:02:07.12,0:02:08.53,1080P-sgsm-63,,0,0,0,,让我们开始吧
 Dialogue: 0,0:02:08.53,0:02:11.52,1080P-sgbd-42,,0,0,0,,To begin here is what we know for sure
 Dialogue: 0,0:02:08.53,0:02:11.52,1080P-sgsm-63,,0,0,0,,首先，我们可以确定的是
 Dialogue: 0,0:02:11.52,0:02:13.56,1080P-sgbd-42,,0,0,0,,about the word "Simone"
-Dialogue: 0,0:02:11.52,0:02:13.56,1080P-sgsm-63,,0,0,0,,“Simone”这个词
-Dialogue: 0,0:02:13.56,0:02:16.68,1080P-sgbd-42,,0,0,0,,In the show, only one character will be presented as
-Dialogue: 0,0:02:13.56,0:02:16.68,1080P-sgsm-63,,0,0,0,,在剧中，只有一个角色会以
-Dialogue: 0,0:02:16.68,0:02:22.34,1080P-sgbd-42,,0,0,0,,"Simone", which is the counseling psychologist of the Kadic school
-Dialogue: 0,0:02:16.68,0:02:22.34,1080P-sgsm-63,,0,0,0,,凯迪中学心理咨询师的身份出现
-Dialogue: 0,0:02:22.34,0:02:24.97,1080P-sgbd-42,,0,0,0,,He is seen in only two episodes of the first season:
+Dialogue: 0,0:02:11.52,0:02:13.56,1080P-sgsm-63,,0,0,0,,"Simone"这个词
+Dialogue: 0,0:02:13.56,0:02:18.17,1080P-sgbd-42,,0,0,0,,In the show, only one character will be presented as "Simone",
+Dialogue: 0,0:02:13.56,0:02:18.17,1080P-sgsm-63,,0,0,0,,在剧中，只有一个角色会以"Simone"的名字出现
+Dialogue: 0,0:02:18.17,0:02:22.34,1080P-sgbd-48,,0,0,0,,which is the counseling psychologist of the Kadic school
+Dialogue: 0,0:02:18.17,0:02:22.34,1080P-sgsm-63,,0,0,0,,那就是凯迪中学的心理咨询师
+Dialogue: 0,0:02:22.34,0:02:24.97,1080P-sgbd-48,,0,0,0,,He is seen in only two episodes of the first season:
 Dialogue: 0,0:02:22.34,0:02:24.97,1080P-sgsm-63,,0,0,0,,在第一季中他只出现了两集:
-Dialogue: 0,0:02:24.97,0:02:26.92,1080P-sgbd-42,,0,0,0,,The episode 11 : "Plagued"
-Dialogue: 0,0:02:24.97,0:02:26.92,1080P-sgsm-63,,0,0,0,,第11集:“Plagued”
-Dialogue: 0,0:02:26.92,0:02:29.15,1080P-sgbd-42,,0,0,0,,And the episode 25 : "Code: Earth"
-Dialogue: 0,0:02:26.92,0:02:29.15,1080P-sgsm-63,,0,0,0,,和第25集“Code: Earth"”
-Dialogue: 0,0:02:29.15,0:02:32.31,1080P-sgbd-42,,0,0,0,,But according to codelyoko.fr, his name is actually
-Dialogue: 0,0:02:29.15,0:02:32.31,1080P-sgsm-63,,0,0,0,,但根据codelyoko.fr，他的名字其实是
-Dialogue: 0,0:02:32.31,0:02:35.30,1080P-sgbd-42,,0,0,0,,Hans Klotz,
-Dialogue: 0,0:02:32.31,0:02:35.30,1080P-sgsm-63,,0,0,0,,汉斯·克鲁兹
-Dialogue: 0,0:02:35.30,0:02:38.35,1080P-sgbd-42,,0,0,0,,he had a secondary role in the 11th episode
-Dialogue: 0,0:02:35.30,0:02:38.35,1080P-sgsm-63,,0,0,0,,他是第11集的次要角色
+Dialogue: 0,0:02:24.97,0:02:26.92,1080P-sgbd-48,,0,0,0,,The episode 11 : "Plagued"
+Dialogue: 0,0:02:24.97,0:02:26.92,1080P-sgsm-63,,0,0,0,,第11集：{\i1}鼠患{\i0}
+Dialogue: 0,0:02:26.92,0:02:29.15,1080P-sgbd-48,,0,0,0,,And the episode 25 : "Code: Earth"
+Dialogue: 0,0:02:26.92,0:02:29.15,1080P-sgsm-63,,0,0,0,,和第25集：{\i1}代码 地球{\i0}
+Dialogue: 0,0:02:29.15,0:02:35.30,1080P-sgbd-48,,0,0,0,,But according to Code Lyoko.fr, his name is actually Hans Klotz,
+Dialogue: 0,0:02:29.15,0:02:35.30,1080P-sgsm-63,,0,0,0,,但根据Code Lyoko.fr，他的名字其实是汉斯·克鲁兹
+Dialogue: 0,0:02:35.30,0:02:38.35,1080P-sgbd-48,,0,0,0,,he had a secondary role in the 11th episode
+Dialogue: 0,0:02:35.30,0:02:38.35,1080P-sgsm-63,,0,0,0,,他是第11集的配角
 Dialogue: 0,0:02:38.35,0:02:40.18,1080P-sgbd-42,,0,0,0,,and is in the background in episode 25
 Dialogue: 0,0:02:38.35,0:02:40.18,1080P-sgsm-63,,0,0,0,,在25集中，他出现在课堂的背景中
 Dialogue: 0,0:02:40.18,0:02:43.01,1080P-sgbd-42,,0,0,0,,In the IFSCL, the name appeared in
 Dialogue: 0,0:02:40.18,0:02:43.01,1080P-sgsm-63,,0,0,0,,在IFSCL里，这个名字出现在
 Dialogue: 0,0:02:43.01,0:02:46.06,1080P-sgbd-42,,0,0,0,,the anniversary trailer for the game's 8th birthday
-Dialogue: 0,0:02:43.01,0:02:46.06,1080P-sgsm-63,,0,0,0,,IFSCL游戏八周年的预告片
-Dialogue: 0,0:02:46.06,0:02:54.04,1080P-sgbd-42,,0,0,0,,but was also added in the texts that appear in the top-left corner when starting the interface since the version 3.6.0
-Dialogue: 0,0:02:46.06,0:02:54.04,1080P-sgsm-63,,0,0,0,,从3.6.0版本开始，超级计算机启动界面时，左上角出现的文本中也加上了这个名字
+Dialogue: 0,0:02:43.01,0:02:46.06,1080P-sgsm-63,,0,0,0,,IFSCL游戏八周年纪念的预告片
+Dialogue: 0,0:02:46.06,0:02:54.04,1080P-sgbd-48,,0,0,0,,{\fs38}but was also added in the texts that appear in the top-left corner when starting the interface since the version 3.6.0
+Dialogue: 0,0:02:46.06,0:02:54.04,1080P-sgsm-63,,0,0,0,,{\fs53}但同时，从IFSCL 3.6.0版本开始，在超级计算机启动界面左上角出现的文本中也加上了这个名字
 Dialogue: 0,0:02:54.04,0:03:00.69,1080P-sgbd-42,,0,0,0,,and it is specifically this that Appryl and I used to complete our theories about this name
 Dialogue: 0,0:02:54.04,0:03:00.69,1080P-sgsm-63,,0,0,0,,我和Appryl就是通过这种方式来完善我们关于这个名字的理论
-Dialogue: 0,0:03:00.69,0:03:07.59,1080P-sgbd-42,,0,0,0,,Here are the theories we imagined
-Dialogue: 0,0:03:00.69,0:03:07.59,1080P-sgsm-63,,0,0,0,,下面是我们推理得出的理论
+Dialogue: 0,0:03:00.69,0:03:03.99,1080P-sgbd-42,,0,0,0,,Here are the theories we imagined
+Dialogue: 0,0:03:00.69,0:03:03.99,1080P-sgsm-63,,0,0,0,,下面是我们推理得出的理论
 Dialogue: 0,0:03:07.59,0:03:10.32,1080P-sgbd-42,,0,0,0,,As previously said the name "Simone"
 Dialogue: 0,0:03:07.59,0:03:10.32,1080P-sgsm-63,,0,0,0,,如前所述"Simone"这个名字
-Dialogue: 0,0:03:10.32,0:03:13.46,1080P-sgbd-42,,0,0,0,,appears during the initialization of the lab computer
-Dialogue: 0,0:03:10.32,0:03:13.46,1080P-sgsm-63,,0,0,0,,在IFSCL八周年纪念预告片中
-Dialogue: 0,0:03:13.46,0:03:16.84,1080P-sgbd-42,,0,0,0,,in the 8th anniversary trailer of the IFSCL
-Dialogue: 0,0:03:13.46,0:03:16.84,1080P-sgsm-63,,0,0,0,,显示在实验室计算机初始化期间
+Dialogue: 0,0:03:10.32,0:03:16.84,1080P-sgbd-48,,0,0,0,,appears during the initialization of the lab computer in the 8th anniversary trailer of the IFSCL
+Dialogue: 0,0:03:10.32,0:03:16.84,1080P-sgsm-63,,0,0,0,,出现在IFSCL八周年纪念预告片中的实验室计算机初始化期间
 Dialogue: 0,0:03:16.84,0:03:19.36,1080P-sgbd-42,,0,0,0,,We could guess that it was a session in the supercomputer
-Dialogue: 0,0:03:16.84,0:03:19.36,1080P-sgsm-63,,0,0,0,,我们大概可以猜出这是一个在超级计算机里的会话，
+Dialogue: 0,0:03:16.84,0:03:19.36,1080P-sgsm-63,,0,0,0,,我们大概可以猜出这是一个在超级计算机里的会话
 Dialogue: 0,0:03:19.36,0:03:22.91,1080P-sgbd-42,,0,0,0,,ijust like Hopper's and Jeremie's
 Dialogue: 0,0:03:19.36,0:03:22.91,1080P-sgsm-63,,0,0,0,,就像之前也出现了Hopper和Jeremie一样
 Dialogue: 0,0:03:22.91,0:03:24.26,1080P-sgbd-42,,0,0,0,,But...
@@ -134,18 +124,16 @@ Dialogue: 0,0:03:28.99,0:03:31.88,1080P-sgbd-42,,0,0,0,,the "SCIPIO" code to act
 Dialogue: 0,0:03:28.99,0:03:31.88,1080P-sgsm-63,,0,0,0,,"SCIPIO"密码用来激活命令或其他东西
 Dialogue: 0,0:03:31.88,0:03:37.52,1080P-sgbd-42,,0,0,0,,Also, we didn't have anything to put on date on when the word was typed
 Dialogue: 0,0:03:31.88,0:03:37.52,1080P-sgsm-63,,0,0,0,,而且，我们也不会在打字的时候上加上日期
-Dialogue: 0,0:03:37.52,0:03:40.68,1080P-sgbd-42,,0,0,0,,But with the version 3.6.0,
-Dialogue: 0,0:03:37.52,0:03:40.68,1080P-sgsm-63,,0,0,0,,但是在3.6.0版本中，
-Dialogue: 0,0:03:40.68,0:03:43.41,1080P-sgbd-42,,0,0,0,,we could answers some of these questions
-Dialogue: 0,0:03:40.68,0:03:43.41,1080P-sgsm-63,,0,0,0,,我们可以回答其中一些问题
+Dialogue: 0,0:03:37.52,0:03:43.41,1080P-sgbd-42,,0,0,0,,But with the version 3.6.0, we could answers some of these questions
+Dialogue: 0,0:03:37.52,0:03:43.41,1080P-sgsm-63,,0,0,0,,但是在3.6.0版本中， 我们可以回答其中一些问题
 Dialogue: 0,0:03:43.41,0:03:46.35,1080P-sgbd-42,,0,0,0,,As you saw on the previous picture
 Dialogue: 0,0:03:43.41,0:03:46.35,1080P-sgsm-63,,0,0,0,,正如你在前一张图片上看到的
-Dialogue: 0,0:03:46.35,0:03:48.99,1080P-sgbd-42,,0,0,0,,A lot of information appears when you start the interface
+Dialogue: 0,0:03:46.35,0:03:48.99,1080P-sgbd-48,,0,0,0,,A lot of information appears when you start the interface
 Dialogue: 0,0:03:46.35,0:03:48.99,1080P-sgsm-63,,0,0,0,,启动界面时会出现大量信息
-Dialogue: 0,0:03:48.99,0:03:50.97,1080P-sgbd-42,,0,0,0,,and it really isn't new
+Dialogue: 0,0:03:48.99,0:03:50.97,1080P-sgbd-48,,0,0,0,,and it really isn't new
 Dialogue: 0,0:03:48.99,0:03:50.97,1080P-sgsm-63,,0,0,0,,这并不是什么新鲜事
 Dialogue: 0,0:03:50.97,0:03:54.01,1080P-sgbd-42,,0,0,0,,These texts, even is not readable
-Dialogue: 0,0:03:50.97,0:03:54.01,1080P-sgsm-63,,0,0,0,,而且这些文本又不可读，
+Dialogue: 0,0:03:50.97,0:03:54.01,1080P-sgsm-63,,0,0,0,,而且这些文本又不可读
 Dialogue: 0,0:03:54.01,0:03:56.97,1080P-sgbd-42,,0,0,0,,still appearing in the show,when the computer is turned on.
 Dialogue: 0,0:03:54.01,0:03:56.97,1080P-sgsm-63,,0,0,0,,但在原剧中超级计算机开机时依然出现
 Dialogue: 0,0:03:56.97,0:04:00.19,1080P-sgbd-42,,0,0,0,,Because of that,Immu took this element back in the first versions of the game
@@ -153,11 +141,9 @@ Dialogue: 0,0:03:56.97,0:04:00.19,1080P-sgsm-63,,0,0,0,,正因如此，Immu将�
 Dialogue: 0,0:04:00.19,0:04:02.81,1080P-sgbd-42,,0,0,0,,But it's only since the version 3.0.0
 Dialogue: 0,0:04:00.19,0:04:02.81,1080P-sgsm-63,,0,0,0,,但这是从3.0.0版本才开始的
 Dialogue: 0,0:04:02.81,0:04:05.73,1080P-sgbd-42,,0,0,0,,that the showed text becomes readable
-Dialogue: 0,0:04:02.81,0:04:05.73,1080P-sgsm-63,,0,0,0,,在3.0.0版本中，之前显示的文本才可读。
-Dialogue: 0,0:04:05.73,0:04:08.73,1080P-sgbd-42,,0,0,0,,This text now shows
-Dialogue: 0,0:04:05.73,0:04:08.73,1080P-sgsm-63,,0,0,0,,现在这个文本表示
-Dialogue: 0,0:04:08.73,0:04:11.58,1080P-sgbd-42,,0,0,0,,which sessions have been opened on the supercomputer.
-Dialogue: 0,0:04:08.73,0:04:11.58,1080P-sgsm-63,,0,0,0,,超级计算机里，哪些会话已经开启过了
+Dialogue: 0,0:04:02.81,0:04:05.73,1080P-sgsm-63,,0,0,0,,在3.0.0版本中，之前显示的文本才可读 
+Dialogue: 0,0:04:05.73,0:04:11.58,1080P-sgbd-42,,0,0,0,,This text now shows which sessions have been opened on the supercomputer.
+Dialogue: 0,0:04:05.73,0:04:11.58,1080P-sgsm-63,,0,0,0,,现在这个文本表示在超级计算机里，哪些会话已经开启过了
 Dialogue: 0,0:04:11.58,0:04:14.52,1080P-sgbd-42,,0,0,0,,However as you can see
 Dialogue: 0,0:04:11.58,0:04:14.52,1080P-sgsm-63,,0,0,0,,然而，正如你所看到的
 Dialogue: 0,0:04:14.52,0:04:19.37,1080P-sgbd-42,,0,0,0,,It didn't show anything abnormal compared to what we already knew about the show
@@ -174,34 +160,28 @@ Dialogue: 0,0:04:33.14,0:04:36.02,1080P-sgbd-42,,0,0,0,,opened the 9th of Octobe
 Dialogue: 0,0:04:33.14,0:04:36.02,1080P-sgsm-63,,0,0,0,,开启的时间是2001年10月9日
 Dialogue: 0,0:04:36.02,0:04:38.12,1080P-sgbd-42,,0,0,0,,the official year when the show began
 Dialogue: 0,0:04:36.02,0:04:38.12,1080P-sgsm-63,,0,0,0,,是原剧正式开始上映的年份
-Dialogue: 0,0:04:38.12,0:04:40.51,1080P-sgbd-42,,0,0,0,,However with the version 3.6.0,
-Dialogue: 0,0:04:38.12,0:04:40.51,1080P-sgsm-63,,0,0,0,,但是在3.6.0版本中，
-Dialogue: 0,0:04:40.51,0:04:43.46,1080P-sgbd-42,,0,0,0,,the text changed for the first time since the 3.0.0
-Dialogue: 0,0:04:40.51,0:04:43.46,1080P-sgsm-63,,0,0,0,,文本发生了自3.0.0以来第一次变化
+Dialogue: 0,0:04:38.12,0:04:43.46,1080P-sgbd-42,,0,0,0,,However with the version 3.6.0, the text changed for the first time since the 3.0.0
+Dialogue: 0,0:04:38.12,0:04:43.46,1080P-sgsm-63,,0,0,0,,但是在3.6.0版本中， 文本发生了自3.0.0以来第一次变化
 Dialogue: 0,0:04:43.46,0:04:47.06,1080P-sgbd-42,,0,0,0,,and this changed is definitely not random
 Dialogue: 0,0:04:43.46,0:04:47.06,1080P-sgsm-63,,0,0,0,,这种改变绝对不是随意的
-Dialogue: 0,0:04:47.06,0:04:50.02,1080P-sgbd-42,,0,0,0,,As we can see,  a lot of things have changed
+Dialogue: 0,0:04:47.06,0:04:50.02,1080P-sgbd-48,,0,0,0,,As we can see,  a lot of things have changed
 Dialogue: 0,0:04:47.06,0:04:50.02,1080P-sgsm-63,,0,0,0,,正如我们所看到的，很多事情都发生了变化
-Dialogue: 0,0:04:50.02,0:04:53.12,1080P-sgbd-42,,0,0,0,,We'll note specifically for our theory the appearance of a session
-Dialogue: 0,0:04:50.02,0:04:53.12,1080P-sgsm-63,,0,0,0,,我们会特别注意我们的理论中，出现的会话
-Dialogue: 0,0:04:53.12,0:04:56.29,1080P-sgbd-42,,0,0,0,,opened before Hopper's. Since Hopper's actual name is
-Dialogue: 0,0:04:53.12,0:04:56.29,1080P-sgsm-63,,0,0,0,,早于Hopper，因为Hopper的真名是
-Dialogue: 0,0:04:56.29,0:04:59.67,1080P-sgbd-42,,0,0,0,,Waldo Franz (it's actually Walso Shaeffer)
-Dialogue: 0,0:04:56.29,0:04:59.67,1080P-sgsm-63,,0,0,0,,Waldo Franz(其实也就是Walso Shaeffer)
-Dialogue: 0,0:04:59.67,0:05:02.62,1080P-sgbd-42,,0,0,0,,the second session is effectively his
+Dialogue: 0,0:04:50.02,0:04:54.76,1080P-sgbd-48,,0,0,0,,We'll note specifically for our theory the appearance of a session opened before Hopper's.
+Dialogue: 0,0:04:50.02,0:04:54.76,1080P-sgsm-63,,0,0,0,,我们会特别注意我们的理论中，出现的会话早于Hopper
+Dialogue: 0,0:04:54.76,0:04:59.67,1080P-sgbd-48,,0,0,0,,Since Hopper's actual name is Waldo Franz (it's actually Walso Shaeffer)
+Dialogue: 0,0:04:54.76,0:04:59.67,1080P-sgsm-63,,0,0,0,,因为Hopper的真名是Waldo Franz(其实也就是Walso Shaeffer)
+Dialogue: 0,0:04:59.67,0:05:02.62,1080P-sgbd-48,,0,0,0,,the second session is effectively his
 Dialogue: 0,0:04:59.67,0:05:02.62,1080P-sgsm-63,,0,0,0,,实际上第二个会话才是Hopper的
-Dialogue: 0,0:05:02.62,0:05:05.37,1080P-sgbd-42,,0,0,0,,As you can see, the first session was opened with the name Simone
+Dialogue: 0,0:05:02.62,0:05:05.37,1080P-sgbd-48,,0,0,0,,As you can see, the first session was opened with the name Simone
 Dialogue: 0,0:05:02.62,0:05:05.37,1080P-sgsm-63,,0,0,0,,现在，第一个会话是用Simone开启的
 Dialogue: 0,0:05:05.37,0:05:11.50,1080P-sgbd-42,,0,0,0,,From that we can be 99% sure that Simone is the name
 Dialogue: 0,0:05:05.37,0:05:11.50,1080P-sgsm-63,,0,0,0,,这样的话，我们可以从99%可以确定Simone是个人名
 Dialogue: 0,0:05:11.50,0:05:14.64,1080P-sgbd-42,,0,0,0,,of a real person,
-Dialogue: 0,0:05:11.50,0:05:14.64,1080P-sgsm-63,,0,0,0,,一个真实存在的人，
+Dialogue: 0,0:05:11.50,0:05:14.64,1080P-sgsm-63,,0,0,0,,一个真实存在的人
 Dialogue: 0,0:05:14.64,0:05:18.94,1080P-sgbd-42,,0,0,0,,male or female, and not just a code, like Scipio
 Dialogue: 0,0:05:14.64,0:05:18.94,1080P-sgsm-63,,0,0,0,,是男是女无法得知，但不会像Scipio那样，只是个暗号
-Dialogue: 0,0:05:18.94,0:05:22.98,1080P-sgbd-42,,0,0,0,,Another very important thing, look at the dates :
-Dialogue: 0,0:05:18.94,0:05:22.98,1080P-sgsm-63,,0,0,0,,还有一件很重要的事，我们来看看日期
-Dialogue: 0,0:05:22.98,0:05:24.25,1080P-sgbd-42,,0,0,0,,They changed.
-Dialogue: 0,0:05:22.98,0:05:24.25,1080P-sgsm-63,,0,0,0,,他们修改的。
+Dialogue: 0,0:05:18.94,0:05:24.25,1080P-sgbd-42,,0,0,0,,Another very important thing, look at the dates : They changed.
+Dialogue: 0,0:05:18.94,0:05:24.25,1080P-sgsm-63,,0,0,0,,还有一件很重要的事，我们来看看他们修改的日期
 Dialogue: 0,0:05:24.25,0:05:27.17,1080P-sgbd-42,,0,0,0,,We can be sure that
 Dialogue: 0,0:05:24.25,0:05:27.17,1080P-sgsm-63,,0,0,0,,我们可以肯定
 Dialogue: 0,0:05:27.17,0:05:33.07,1080P-sgbd-42,,0,0,0,,that the dates given here correspond to the last time the session was opened.
@@ -214,34 +194,26 @@ Dialogue: 0,0:05:41.22,0:05:47.13,1080P-sgbd-42,,0,0,0,,For Jeremie too, we know
 Dialogue: 0,0:05:41.22,0:05:47.13,1080P-sgsm-63,,0,0,0,,对于Jeremie来说，我们也知道这部剧在2004年完结
 Dialogue: 0,0:05:47.13,0:05:50.24,1080P-sgbd-42,,0,0,0,,maybe not the 9th of October precisely but still in 2004
 Dialogue: 0,0:05:47.13,0:05:50.24,1080P-sgsm-63,,0,0,0,,也许不是正好10月9日，但确实是在2004年完结的
-Dialogue: 0,0:05:50.24,0:05:53.62,1080P-sgbd-42,,0,0,0,,So the last time Simone's session was opened
-Dialogue: 0,0:05:50.24,0:05:53.62,1080P-sgsm-63,,0,0,0,,那么上次Simone的会话开始的时间
-Dialogue: 0,0:05:53.62,0:05:56.34,1080P-sgbd-42,,0,0,0,,was June 5th 1994
-Dialogue: 0,0:05:53.62,0:05:56.34,1080P-sgsm-63,,0,0,0,,是1994年6月5日
-Dialogue: 0,0:05:56.34,0:06:01.42,1080P-sgbd-42,,0,0,0,,so the day before Hopper all the returns to the past  did
-Dialogue: 0,0:05:56.34,0:06:01.42,1080P-sgsm-63,,0,0,0,,所以Hopper在前一天所做的一切都回到了过去
-Dialogue: 0,0:06:01.42,0:06:04.30,1080P-sgbd-42,,0,0,0,,To create XANA and Lyoko.
-Dialogue: 0,0:06:01.42,0:06:04.30,1080P-sgsm-63,,0,0,0,,包括创造XANA和Lyoko。
-Dialogue: 0,0:06:04.30,0:06:07.17,1080P-sgbd-42,,0,0,0,,It means that after this date
-Dialogue: 0,0:06:04.30,0:06:07.17,1080P-sgsm-63,,0,0,0,,这意味着在这个日期之后
-Dialogue: 0,0:06:07.17,0:06:10.04,1080P-sgbd-42,,0,0,0,,no one else logged in on this session
-Dialogue: 0,0:06:07.17,0:06:10.04,1080P-sgsm-63,,0,0,0,,没有人进入过这个会话
+Dialogue: 0,0:05:50.24,0:05:56.34,1080P-sgbd-42,,0,0,0,,So the last time Simone's session was opened was June 5th 1994
+Dialogue: 0,0:05:50.24,0:05:56.34,1080P-sgsm-63,,0,0,0,,那么上次Simone的会话开始的时间是1994年6月5日
+Dialogue: 0,0:05:56.34,0:06:04.30,1080P-sgbd-48,,0,0,0,,so the day before Hopper all the returns to the past did To create XANA and Lyoko.
+Dialogue: 0,0:05:56.34,0:06:04.30,1080P-sgsm-63,,0,0,0,,所以Hopper在前一天所做的一切都回到了过去 包括创造XANA和Lyoko 
+Dialogue: 0,0:06:04.30,0:06:10.04,1080P-sgbd-48,,0,0,0,,It means that after this date no one else logged in on this session
+Dialogue: 0,0:06:04.30,0:06:10.04,1080P-sgsm-63,,0,0,0,,这意味着在这个日期之后 没有人进入过这个会话
 Dialogue: 0,0:06:10.04,0:06:12.48,1080P-sgbd-42,,0,0,0,,neither Simone Franz or Jeremie
 Dialogue: 0,0:06:10.04,0:06:12.48,1080P-sgsm-63,,0,0,0,,不是Simone，也不是Franz或者Jeremie
 Dialogue: 0,0:06:12.48,0:06:18.33,1080P-sgbd-42,,0,0,0,,Every information given about Simone until now isn't recognized as true by Immu
 Dialogue: 0,0:06:12.48,0:06:18.33,1080P-sgsm-63,,0,0,0,,到目前为止我们关于Simone的猜测，lmmu并不是非常认同
 Dialogue: 0,0:06:18.33,0:06:21.35,1080P-sgbd-42,,0,0,0,,but with the elements we have
 Dialogue: 0,0:06:18.33,0:06:21.35,1080P-sgsm-63,,0,0,0,,但是有了这些要素
-Dialogue: 0,0:06:21.35,0:06:31.96,1080P-sgbd-42,,0,0,0,,We can consider they're sure to make theories a lot more uncertain
-Dialogue: 0,0:06:21.35,0:06:31.96,1080P-sgsm-63,,0,0,0,,我们也可以让他们的理论更加站不稳脚
+Dialogue: 0,0:06:21.35,0:06:28.88,1080P-sgbd-42,,0,0,0,,We can consider they're sure to make theories a lot more uncertain
+Dialogue: 0,0:06:21.35,0:06:28.88,1080P-sgsm-63,,0,0,0,,我们也可以让他们的理论更加站不稳脚
 Dialogue: 0,0:06:31.96,0:06:33.73,1080P-sgbd-42,,0,0,0,,So Simone is a person
 Dialogue: 0,0:06:31.96,0:06:33.73,1080P-sgsm-63,,0,0,0,,所以我们还是认为Simone是一个人物
 Dialogue: 0,0:06:33.73,0:06:36.98,1080P-sgbd-42,,0,0,0,,who own a session on the supercomputer
 Dialogue: 0,0:06:33.73,0:06:36.98,1080P-sgsm-63,,0,0,0,,他拥有超级计算机上的会话
-Dialogue: 0,0:06:36.98,0:06:39.68,1080P-sgbd-42,,0,0,0,,We also know the session was last opened
-Dialogue: 0,0:06:36.98,0:06:39.68,1080P-sgsm-63,,0,0,0,,我们还知道会话最后在
-Dialogue: 0,0:06:39.68,0:06:42.54,1080P-sgbd-42,,0,0,0,,in June 5th 1994
-Dialogue: 0,0:06:39.68,0:06:42.54,1080P-sgsm-63,,0,0,0,,1994年6月5日打开
+Dialogue: 0,0:06:36.98,0:06:42.54,1080P-sgbd-42,,0,0,0,,We also know the session was last opened in June 5th 1994
+Dialogue: 0,0:06:36.98,0:06:42.54,1080P-sgsm-63,,0,0,0,,我们还知道会话最后在1994年6月5日打开
 Dialogue: 0,0:06:42.54,0:06:45.58,1080P-sgbd-42,,0,0,0,,So just one real day before Hopper's
 Dialogue: 0,0:06:42.54,0:06:45.58,1080P-sgsm-63,,0,0,0,,就在Hopper进行时间倒转的前一天
 Dialogue: 0,0:06:45.58,0:06:50.79,1080P-sgbd-42,,0,0,0,,but 2546 days for the supercomputer.
@@ -268,73 +240,65 @@ Dialogue: 0,0:07:21.00,0:07:25.32,1080P-sgbd-42,,0,0,0,,and finally what was the
 Dialogue: 0,0:07:21.00,0:07:25.32,1080P-sgsm-63,,0,0,0,,最后是他们的角色之间的关系
 Dialogue: 0,0:07:25.32,0:07:27.78,1080P-sgbd-42,,0,0,0,,With these different hypotheses
 Dialogue: 0,0:07:25.32,0:07:27.78,1080P-sgsm-63,,0,0,0,,有了这些不同的假设
-Dialogue: 0,0:07:27.78,0:07:30.77,1080P-sgbd-42,,0,0,0,,Here is what seemed to Appryl and myself
-Dialogue: 0,0:07:27.78,0:07:30.77,1080P-sgsm-63,,0,0,0,,我提一下我和Appryl的想法
-Dialogue: 0,0:07:30.77,0:07:36.16,1080P-sgbd-42,,0,0,0,,the most likely
-Dialogue: 0,0:07:30.77,0:07:36.16,1080P-sgsm-63,,0,0,0,,最可能的情况就是
+Dialogue: 0,0:07:27.78,0:07:31.46,1080P-sgbd-42,,0,0,0,,Here is what seemed to Appryl and myself the most likely
+Dialogue: 0,0:07:27.78,0:07:31.46,1080P-sgsm-63,,0,0,0,,我提一下我和Appryl的想法 也是最可能的情况
 Dialogue: 0,0:07:36.16,0:07:38.76,1080P-sgbd-42,,0,0,0,,If Simone was Hopper's ally, then
 Dialogue: 0,0:07:36.16,0:07:38.76,1080P-sgsm-63,,0,0,0,,如果Simone是Hopper的盟友，那么
 Dialogue: 0,0:07:38.76,0:07:41.76,1080P-sgbd-42,,0,0,0,,they probably helped for creating the supercomputer
 Dialogue: 0,0:07:38.76,0:07:41.76,1080P-sgsm-63,,0,0,0,,他们可能共同创造了超级计算机
 Dialogue: 0,0:07:41.76,0:07:44.52,1080P-sgbd-42,,0,0,0,,In fact, even if Hopper is a real genuis, it seems
-Dialogue: 0,0:07:41.76,0:07:44.52,1080P-sgsm-63,,0,0,0,,这样想确实有道理，因为即使Hopper是一个真正的天才，
+Dialogue: 0,0:07:41.76,0:07:44.52,1080P-sgsm-63,,0,0,0,,这样想确实有道理，因为即使Hopper是一个真正的天才
 Dialogue: 0,0:07:44.52,0:07:48.18,1080P-sgbd-42,,0,0,0,,it seems difficult to imagine that he built the machine alone
 Dialogue: 0,0:07:44.52,0:07:48.18,1080P-sgsm-63,,0,0,0,,但依然很难想象这台机器是他一个人造的
 Dialogue: 0,0:07:48.18,0:07:51.17,1080P-sgbd-42,,0,0,0,,At least at the hardware level
 Dialogue: 0,0:07:48.18,0:07:51.17,1080P-sgsm-63,,0,0,0,,至少在硬件方面上是这样的
-Dialogue: 0,0:07:51.17,0:07:54.37,1080P-sgbd-42,,0,0,0,,As Jeremie said, you don't find a nuclear battery in the first shop
+Dialogue: 0,0:07:51.17,0:07:54.37,1080P-sgbd-48,,0,0,0,,As Jeremie said, you don't find a nuclear battery in the first shop
 Dialogue: 0,0:07:51.17,0:07:54.37,1080P-sgsm-63,,0,0,0,,正如Jeremie所说，你不会随便进一家商店就能找到核电池这种东西
-Dialogue: 0,0:07:54.37,0:07:57.37,1080P-sgbd-42,,0,0,0,,And Hopper had to find one
+Dialogue: 0,0:07:54.37,0:07:57.37,1080P-sgbd-48,,0,0,0,,And Hopper had to find one
 Dialogue: 0,0:07:54.37,0:07:57.37,1080P-sgsm-63,,0,0,0,,不过Hopper必须找到一枚核电池
-Dialogue: 0,0:07:57.37,0:08:00.37,1080P-sgbd-42,,0,0,0,,to create his supercomputer, the one we see in episode 35
-Dialogue: 0,0:07:57.37,0:08:00.37,1080P-sgsm-63,,0,0,0,,来创造他的超级计算机，就是我们在第35集看到的那台
-Dialogue: 0,0:08:00.37,0:08:03.31,1080P-sgbd-42,,0,0,0,,"The Chips Are Down"
-Dialogue: 0,0:08:00.37,0:08:03.31,1080P-sgsm-63,,0,0,0,,"The Chips Are Down"那集
+Dialogue: 0,0:07:57.37,0:08:03.31,1080P-sgbd-48,,0,0,0,,to create his supercomputer, the one we see in episode 37 "Common Interest"
+Dialogue: 0,0:07:57.37,0:08:03.31,1080P-sgsm-63,,0,0,0,,来创造他的超级计算机，就是我们在第37集{\i1}共同利益{\i0} 那里看到的那块 
 Dialogue: 0,0:08:03.31,0:08:08.79,1080P-sgbd-42,,0,0,0,,and of course all the high-technology material that had to be found and bought to build the supercomputer
-Dialogue: 0,0:08:03.31,0:08:08.79,1080P-sgsm-63,,0,0,0,,而且， 为了建造超级计算机所需要的高科技材料都得想办法找到并安装上去
+Dialogue: 0,0:08:03.31,0:08:08.79,1080P-sgsm-63,,0,0,0,,而且，为了建造超级计算机所需要的高科技材料都得想办法找到并安装上去
 Dialogue: 0,0:08:08.79,0:08:12.54,1080P-sgbd-42,,0,0,0,,As you know, a machine like this one doesn't run on an Intel Core i7
 Dialogue: 0,0:08:08.79,0:08:12.54,1080P-sgsm-63,,0,0,0,,很显然，像这样的机器肯定不会运行在英特尔酷睿i7上
-Dialogue: 0,0:08:12.54,0:08:18.12,1080P-sgbd-42,,0,0,0,,Also, the fact that Simone helped Hopper at least up to the 6th of June can be logic
+Dialogue: 0,0:08:12.54,0:08:18.12,1080P-sgbd-48,,0,0,0,,Also, the fact that Simone helped Hopper at least up to the 6th of June can be logic
 Dialogue: 0,0:08:12.54,0:08:18.12,1080P-sgsm-63,,0,0,0,,Simone帮助Hopper这个事实至少到6月6日都是符合逻辑的
 Dialogue: 0,0:08:18.12,0:08:21.34,1080P-sgbd-42,,0,0,0,,since the supercomputer, the scanners,
-Dialogue: 0,0:08:18.12,0:08:21.34,1080P-sgsm-63,,0,0,0,,因为超级计算机，扫描仪，
+Dialogue: 0,0:08:18.12,0:08:21.34,1080P-sgsm-63,,0,0,0,,因为超级计算机，扫描仪
 Dialogue: 0,0:08:21.34,0:08:25.82,1080P-sgbd-42,,0,0,0,,the holomap etc... was created before the 6th of June
 Dialogue: 0,0:08:21.34,0:08:25.82,1080P-sgsm-63,,0,0,0,,全息地图等等……这些是在6月6日之前创建的
-Dialogue: 0,0:08:25.82,0:08:29.82,1080P-sgbd-42,,0,0,0,,It's after the 6th of June that Hopper creates Lyoko, XANA,
-Dialogue: 0,0:08:25.82,0:08:29.82,1080P-sgsm-63,,0,0,0,,6月6日之后，Hopper创造了Lyoko, XANA，
-Dialogue: 0,0:08:29.82,0:08:31.94,1080P-sgbd-42,,0,0,0,,transfer programs etc...
-Dialogue: 0,0:08:29.82,0:08:31.94,1080P-sgsm-63,,0,0,0,,传送程序等等……
+Dialogue: 0,0:08:25.82,0:08:31.94,1080P-sgbd-42,,0,0,0,,It's after the 6th of June that Hopper creates Lyoko, XANA, transfer programs etc...
+Dialogue: 0,0:08:25.82,0:08:31.94,1080P-sgsm-63,,0,0,0,,6月6日之后，Hopper创造了Lyoko, XANA， 传送程序等等……
 Dialogue: 0,0:08:31.94,0:08:38.15,1080P-sgbd-42,,0,0,0,,As only the software part of the supercomputer isn't affected by the returns to the past,
 Dialogue: 0,0:08:31.94,0:08:38.15,1080P-sgsm-63,,0,0,0,,因为时间倒转不会使超级计算机的软件部分受到影响
-Dialogue: 0,0:08:38.15,0:08:41.02,1080P-sgbd-42,,0,0,0,,which is confirmed many times in episodes
+Dialogue: 0,0:08:38.15,0:08:41.02,1080P-sgbd-48,,0,0,0,,which is confirmed many times in episodes
 Dialogue: 0,0:08:38.15,0:08:41.02,1080P-sgsm-63,,0,0,0,,这个特性在原剧里被证实了很多次
 Dialogue: 0,0:08:41.02,0:08:44.00,1080P-sgbd-42,,0,0,0,,Because otherwise we would have a supercomputer
 Dialogue: 0,0:08:41.02,0:08:44.00,1080P-sgsm-63,,0,0,0,,否则我们的这台超级计算机
 Dialogue: 0,0:08:44.00,0:08:46.32,1080P-sgbd-42,,0,0,0,,that would disassemble itself at each return to the past
 Dialogue: 0,0:08:44.00,0:08:46.32,1080P-sgsm-63,,0,0,0,,每次时间倒转都会自我解体
-Dialogue: 0,0:08:46.32,0:08:48.93,1080P-sgbd-42,,0,0,0,,which would have been a problem
-Dialogue: 0,0:08:46.32,0:08:48.93,1080P-sgsm-63,,0,0,0,,这样的话就有问题了
-Dialogue: 0,0:08:48.93,0:08:51.87,1080P-sgbd-42,,0,0,0,,To create Lyoko, XANA and everything at
-Dialogue: 0,0:08:48.93,0:08:51.87,1080P-sgsm-63,,0,0,0,,创造Lyoko，XANA和一切
-Dialogue: 0,0:08:51.87,0:08:54.39,1080P-sgbd-42,,0,0,0,,the software level in the supercomputer
-Dialogue: 0,0:08:51.87,0:08:54.39,1080P-sgsm-63,,0,0,0,,都和超级计算机的软件水平有关
+Dialogue: 0,0:08:46.32,0:08:47.83,1080P-sgbd-42,,0,0,0,,which would have been a problem
+Dialogue: 0,0:08:46.32,0:08:47.83,1080P-sgsm-63,,0,0,0,,这样的话就有问题了
+Dialogue: 0,0:08:48.93,0:08:54.39,1080P-sgbd-42,,0,0,0,,To create Lyoko, XANA and everything at the software level in the supercomputer
+Dialogue: 0,0:08:48.93,0:08:54.39,1080P-sgsm-63,,0,0,0,,创造Lyoko，XANA和一切都和超级计算机的软件水平有关
 Dialogue: 0,0:08:54.39,0:08:56.56,1080P-sgbd-42,,0,0,0,,it seems logic that Hopper did it alone
 Dialogue: 0,0:08:54.39,0:08:56.56,1080P-sgsm-63,,0,0,0,,这样看来，Hopper一个人完成是很有可能的
 Dialogue: 0,0:08:56.56,0:09:03.07,1080P-sgbd-42,,0,0,0,,But to collect the hardware, the help of someone was probably necessary
 Dialogue: 0,0:08:56.56,0:09:03.07,1080P-sgsm-63,,0,0,0,,但是要收集硬件的话，那就可能需要有人提供帮助
 Dialogue: 0,0:09:03.07,0:09:05.51,1080P-sgbd-42,,0,0,0,,which is where we got the idea of this character
 Dialogue: 0,0:09:03.07,0:09:05.51,1080P-sgsm-63,,0,0,0,,所以我们就是这样想到这个角色的
-Dialogue: 0,0:09:05.51,0:09:08.29,1080P-sgbd-42,,0,0,0,,Their disappearance is still hard to explain
-Dialogue: 0,0:09:05.51,0:09:08.29,1080P-sgsm-63,,0,0,0,,他们的消失至今仍难以解释
+Dialogue: 0,0:09:05.51,0:09:08.29,1080P-sgbd-42,,0,0,0,,His disappearance is still hard to explain
+Dialogue: 0,0:09:05.51,0:09:08.29,1080P-sgsm-63,,0,0,0,,他的消失至今仍难以解释
 Dialogue: 0,0:09:08.29,0:09:11.32,1080P-sgbd-42,,0,0,0,,The most likely is that this person is dead
 Dialogue: 0,0:09:08.29,0:09:11.32,1080P-sgsm-63,,0,0,0,,最有可能的是这个人已经死了
 Dialogue: 0,0:09:11.32,0:09:12.80,1080P-sgbd-42,,0,0,0,,which would kind of explain
 Dialogue: 0,0:09:11.32,0:09:12.80,1080P-sgsm-63,,0,0,0,,这样大概可以解释的通了
-Dialogue: 0,0:09:12.80,0:09:15.87,1080P-sgbd-42,,0,0,0,,the fact that the heroes know the Return to the past can't bring back to life
-Dialogue: 0,0:09:12.80,0:09:15.87,1080P-sgsm-63,,0,0,0,,英雄们都知道，时间倒转不能让人死而复生
-Dialogue: 0,0:09:15.87,0:09:18.72,1080P-sgbd-42,,0,0,0,,the dead. Hopper would have said it in his diary or
+Dialogue: 0,0:09:12.80,0:09:15.87,1080P-sgbd-42,,0,0,0,,the fact that the warriors know the Return to the past can't bring back to life
+Dialogue: 0,0:09:12.80,0:09:15.87,1080P-sgsm-63,,0,0,0,,Lyoko战士都知道，时间倒转不能让人死而复生
+Dialogue: 0,0:09:15.87,0:09:18.72,1080P-sgbd-48,,0,0,0,,the dead. Hopper would have said it in his diary or
 Dialogue: 0,0:09:15.87,0:09:18.72,1080P-sgsm-63,,0,0,0,,对于死者，Hopper会在日记里记载，或者
-Dialogue: 0,0:09:18.72,0:09:21.03,1080P-sgbd-42,,0,0,0,,would have written it somewhere (most liekly since LW know this season 1)
+Dialogue: 0,0:09:18.72,0:09:21.03,1080P-sgbd-48,,0,0,0,,would have written it somewhere (most liekly since LW know this season 1)
 Dialogue: 0,0:09:18.72,0:09:21.03,1080P-sgsm-63,,0,0,0,,可能写在什么地方了(很可能因为LW已经知道了（第一季中）)
 Dialogue: 0,0:09:21.03,0:09:23.19,1080P-sgbd-42,,0,0,0,,because he had the experience
 Dialogue: 0,0:09:21.03,0:09:23.19,1080P-sgsm-63,,0,0,0,,因为他有这个经验（火车站暂存）
@@ -353,29 +317,21 @@ Dialogue: 0,0:09:35.92,0:09:41.44,1080P-sgsm-63,,0,0,0,,创造Lyoko和Xana，而
 Dialogue: 0,0:09:41.44,0:09:46.80,1080P-sgbd-42,,0,0,0,,and we think it is the part that was the most complicated
 Dialogue: 0,0:09:41.44,0:09:46.80,1080P-sgsm-63,,0,0,0,,我们认为这个环节是最复杂的
 Dialogue: 0,0:09:46.80,0:09:51.00,1080P-sgbd-42,,0,0,0,,he didn't need Simone's help anymore, which explains their disappearance
-Dialogue: 0,0:09:46.80,0:09:51.00,1080P-sgsm-63,,0,0,0,,他不再需要Simone的帮助了，这样就解释了他们失踪的原因
+Dialogue: 0,0:09:46.80,0:09:51.00,1080P-sgsm-63,,0,0,0,,他不再需要Simone的帮助了，这样就解释了他失踪的原因
 Dialogue: 0,0:09:51.00,0:09:52.78,1080P-sgbd-42,,0,0,0,,Finally, it seems hard to explain
 Dialogue: 0,0:09:51.00,0:09:52.78,1080P-sgsm-63,,0,0,0,,最后，这似乎很难解释
-Dialogue: 0,0:09:52.78,0:09:54.67,1080P-sgbd-42,,0,0,0,,that Simone didn't come back because
-Dialogue: 0,0:09:52.78,0:09:54.67,1080P-sgsm-63,,0,0,0,,Simone没回来是因为
-Dialogue: 0,0:09:54.67,0:09:56.79,1080P-sgbd-42,,0,0,0,,of the first return to the past made by Hopper
-Dialogue: 0,0:09:54.67,0:09:56.79,1080P-sgsm-63,,0,0,0,,Hopper第一次时间倒转
-Dialogue: 0,0:09:56.79,0:09:59.56,1080P-sgbd-42,,0,0,0,,because he would have only forgotten
-Dialogue: 0,0:09:56.79,0:09:59.56,1080P-sgsm-63,,0,0,0,,因为他只会忘记
-Dialogue: 0,0:09:59.56,0:10:02.48,1080P-sgbd-42,,0,0,0,,the last 24 hours and
-Dialogue: 0,0:09:59.56,0:10:02.48,1080P-sgsm-63,,0,0,0,,过去24小时之内发生的事情
-Dialogue: 0,0:10:02.48,0:10:05.50,1080P-sgbd-42,,0,0,0,,if they really helped Hopper to create the supercomputer,
-Dialogue: 0,0:10:02.48,0:10:05.50,1080P-sgsm-63,,0,0,0,,如果他们真的帮助Hopper创造了超级计算机，
-Dialogue: 0,0:10:05.50,0:10:08.98,1080P-sgbd-42,,0,0,0,,they had probably been doing it for months even years
-Dialogue: 0,0:10:05.50,0:10:08.98,1080P-sgsm-63,,0,0,0,,他们可能已经做了好几个月甚至好几年
-Dialogue: 0,0:10:08.98,0:10:11.72,1080P-sgbd-42,,0,0,0,,The big issue with this theory is that it doen't have
-Dialogue: 0,0:10:08.98,0:10:11.72,1080P-sgsm-63,,0,0,0,,这个理论存在的最大问题是，它没有
-Dialogue: 0,0:10:11.72,0:10:14.63,1080P-sgbd-42,,0,0,0,,anything to do with the original show
-Dialogue: 0,0:10:11.72,0:10:14.63,1080P-sgsm-63,,0,0,0,,和原剧有关的任何内容
-Dialogue: 0,0:10:14.63,0:10:19.95,1080P-sgbd-42,,0,0,0,,Hopper never said he received help in the parts of the diary
-Dialogue: 0,0:10:14.63,0:10:19.95,1080P-sgsm-63,,0,0,0,,Hopper从没在日记里提到过他得到了谁帮助
-Dialogue: 0,0:10:19.95,0:10:21.42,1080P-sgbd-42,,0,0,0,,we say in the anime
-Dialogue: 0,0:10:19.95,0:10:21.42,1080P-sgsm-63,,0,0,0,,我们在动画里看到的是这种情况
+Dialogue: 0,0:09:52.78,0:09:56.79,1080P-sgbd-42,,0,0,0,,that Simone didn't come back because of the first return to the past made by Hopper
+Dialogue: 0,0:09:52.78,0:09:56.79,1080P-sgsm-63,,0,0,0,,Simone没回来是因为 Hopper的第一次时间倒转
+Dialogue: 0,0:09:56.79,0:10:02.48,1080P-sgbd-42,,0,0,0,,because he would have only forgotten the last 24 hours and
+Dialogue: 0,0:09:56.79,0:10:02.48,1080P-sgsm-63,,0,0,0,,因为他只会忘记 过去24小时之内发生的事情
+Dialogue: 0,0:10:02.48,0:10:05.50,1080P-sgbd-42,,0,0,0,,if he really helped Hopper to create the supercomputer,
+Dialogue: 0,0:10:02.48,0:10:05.50,1080P-sgsm-63,,0,0,0,,如果他真的帮助Hopper创造了超级计算机
+Dialogue: 0,0:10:05.50,0:10:08.10,1080P-sgbd-42,,0,0,0,,he had probably been doing it for months even years
+Dialogue: 0,0:10:05.50,0:10:08.10,1080P-sgsm-63,,0,0,0,,他可能已经做了好几个月甚至好几年
+Dialogue: 0,0:10:08.98,0:10:14.63,1080P-sgbd-42,,0,0,0,,The big issue with this theory is that it doen't have anything to do with the original show
+Dialogue: 0,0:10:08.98,0:10:14.63,1080P-sgsm-63,,0,0,0,,这个理论存在的最大问题是，它没有和原剧有关的任何内容
+Dialogue: 0,0:10:14.63,0:10:21.42,1080P-sgbd-42,,0,0,0,,Hopper never said he received help in the parts of the diary we say in the anime
+Dialogue: 0,0:10:14.63,0:10:21.42,1080P-sgsm-63,,0,0,0,,我们在动画里没看到Hopper在日记里有提到过他得到了谁的帮助
 Dialogue: 0,0:10:21.42,0:10:24.12,1080P-sgbd-42,,0,0,0,,But we know Immu is gonna create new ones so
 Dialogue: 0,0:10:21.42,0:10:24.12,1080P-sgsm-63,,0,0,0,,但我们知道Immu会制造新的情节
 Dialogue: 0,0:10:24.12,0:10:26.97,1080P-sgbd-42,,0,0,0,,It could easily be integrated in the show story
@@ -386,38 +342,32 @@ Dialogue: 0,0:10:32.96,0:10:35.84,1080P-sgbd-42,,0,0,0,,so Simone's death to exp
 Dialogue: 0,0:10:32.96,0:10:35.84,1080P-sgsm-63,,0,0,0,,所以用Simone的死来解释他们的失踪
 Dialogue: 0,0:10:35.84,0:10:38.84,1080P-sgbd-42,,0,0,0,,seems really possible even if in the few diary videos
 Dialogue: 0,0:10:35.84,0:10:38.84,1080P-sgsm-63,,0,0,0,,即便是在那仅有的几段日记视频里，看起来可能性非常大
-Dialogue: 0,0:10:38.84,0:10:40.12,1080P-sgbd-42,,0,0,0,,from Hopper diary
-Dialogue: 0,0:10:38.84,0:10:40.12,1080P-sgsm-63,,0,0,0,,从Hopper的视频日记里
-Dialogue: 0,0:10:40.12,0:10:42.95,1080P-sgbd-42,,0,0,0,,we can see in the show, he doesn't look like he lost someone recently.
-Dialogue: 0,0:10:40.12,0:10:42.95,1080P-sgsm-63,,0,0,0,,我们可以看到，他看起来并不像是失去了谁
+Dialogue: 0,0:10:38.84,0:10:42.95,1080P-sgbd-42,,0,0,0,,from Hopper diary we can see in the show, he doesn't look like he lost someone recently.
+Dialogue: 0,0:10:38.84,0:10:42.95,1080P-sgsm-63,,0,0,0,,从Hopper的视频日记里我们可以看到，他看起来并不像是最近失去了谁
 Dialogue: 0,0:10:42.95,0:10:49.71,1080P-sgbd-42,,0,0,0,,So Here is what we can say about Simone if we consider this character is one of Franz's ally
 Dialogue: 0,0:10:42.95,0:10:49.71,1080P-sgsm-63,,0,0,0,,所以，这就是我们认为这个角色是Franz的盟友的理由
 Dialogue: 0,0:10:49.71,0:10:52.63,1080P-sgbd-42,,0,0,0,,Now here is an interpretation in the opposite case
 Dialogue: 0,0:10:49.71,0:10:52.63,1080P-sgsm-63,,0,0,0,,不过，这里又有一个与之相反的情况
 Dialogue: 0,0:10:52.63,0:10:55.84,1080P-sgbd-42,,0,0,0,,If Simone was an enemy it would probably mean
 Dialogue: 0,0:10:52.63,0:10:55.84,1080P-sgsm-63,,0,0,0,,如果Simone是敌人那就意味着
-Dialogue: 0,0:10:55.84,0:10:59.36,1080P-sgbd-42,,0,0,0,,that the character was part of the men in black's organization
+Dialogue: 0,0:10:55.84,0:10:59.36,1080P-sgbd-48,,0,0,0,,that the character was part of the men in black's organization
 Dialogue: 0,0:10:55.84,0:10:59.36,1080P-sgsm-63,,0,0,0,,这个角色是黑衣人组织的一份子
 Dialogue: 0,0:10:59.36,0:11:02.43,1080P-sgbd-42,,0,0,0,,who we see several times in the show,
 Dialogue: 0,0:10:59.36,0:11:02.43,1080P-sgsm-63,,0,0,0,,我们在原剧中见过几次，
 Dialogue: 0,0:11:02.43,0:11:05.28,1080P-sgbd-42,,0,0,0,,this organization was looking for Hopper
 Dialogue: 0,0:11:02.43,0:11:05.28,1080P-sgsm-63,,0,0,0,,这个组织在找Hopper
-Dialogue: 0,0:11:05.28,0:11:08.28,1080P-sgbd-42,,0,0,0,,to stop him from slowing down the Carthage project
+Dialogue: 0,0:11:05.28,0:11:08.28,1080P-sgbd-48,,0,0,0,,to stop him from slowing down the Carthage project
 Dialogue: 0,0:11:05.28,0:11:08.28,1080P-sgsm-63,,0,0,0,,并阻止他妨碍迦太基计划
 Dialogue: 0,0:11:08.28,0:11:11.86,1080P-sgbd-42,,0,0,0,,this theory would have as a base a part of Franz's diary in the show
 Dialogue: 0,0:11:08.28,0:11:11.86,1080P-sgsm-63,,0,0,0,,这个理论将原剧中Franz日记的一部分作为的基础
 Dialogue: 0,0:11:11.86,0:11:13.58,1080P-sgbd-42,,0,0,0,,Here is what he says
 Dialogue: 0,0:11:11.86,0:11:13.58,1080P-sgsm-63,,0,0,0,,他是这么说的
-Dialogue: 0,0:11:13.58,0:11:16.94,1080P-sgbd-42,,0,0,0,,June 6th 1994,
-Dialogue: 0,0:11:13.58,0:11:16.94,1080P-sgsm-63,,0,0,0,,1994年6月6日,
-Dialogue: 0,0:11:16.94,0:11:20.34,1080P-sgbd-42,,0,0,0,,Day 1265
-Dialogue: 0,0:11:16.94,0:11:20.34,1080P-sgsm-63,,0,0,0,,第1265天
+Dialogue: 0,0:11:13.58,0:11:20.34,1080P-sgbd-42,,0,0,0,,June 6th 1994, Day 1265
+Dialogue: 0,0:11:13.58,0:11:20.34,1080P-sgsm-63,,0,0,0,,1994年6月6日, 第1265天
 Dialogue: 0,0:11:20.34,0:11:24.80,1080P-sgbd-42,,0,0,0,,Someone is watching me, someone who wants to eliminate me
 Dialogue: 0,0:11:20.34,0:11:24.80,1080P-sgsm-63,,0,0,0,,有人在监视我，有人想除掉我
-Dialogue: 0,0:11:24.80,0:11:26.88,1080P-sgbd-42,,0,0,0,,As you can see, this person could
-Dialogue: 0,0:11:24.80,0:11:26.88,1080P-sgsm-63,,0,0,0,,如你所见，这个人可能
-Dialogue: 0,0:11:26.88,0:11:29.89,1080P-sgbd-42,,0,0,0,,be Simone, who would have found the factory
-Dialogue: 0,0:11:26.88,0:11:29.89,1080P-sgsm-63,,0,0,0,,就是Simone，因为他会找到工厂
+Dialogue: 0,0:11:24.80,0:11:29.89,1080P-sgbd-42,,0,0,0,,As you can see, this person could be Simone, who would have found the factory
+Dialogue: 0,0:11:24.80,0:11:29.89,1080P-sgsm-63,,0,0,0,,如你所见，这个人可能就是Simone，因为他会找到工厂
 Dialogue: 0,0:11:29.89,0:11:32.29,1080P-sgbd-42,,0,0,0,,and would have logged on the supercomputer
 Dialogue: 0,0:11:29.89,0:11:32.29,1080P-sgsm-63,,0,0,0,,并登陆超级计算机
 Dialogue: 0,0:11:32.29,0:11:35.13,1080P-sgbd-42,,0,0,0,,but still several questions remain
@@ -427,13 +377,11 @@ Dialogue: 0,0:11:35.13,0:11:38.07,1080P-sgsm-63,,0,0,0,,比如Hopper为什么
 Dialogue: 0,0:11:38.07,0:11:43.84,1080P-sgbd-42,,0,0,0,,only realises he is being spied on only after 1265 returns to the past.
 Dialogue: 0,0:11:38.07,0:11:43.84,1080P-sgsm-63,,0,0,0,,在1265次时间倒转之后才发现自己被人监视
 Dialogue: 0,0:11:43.84,0:11:46.10,1080P-sgbd-42,,0,0,0,,Let me remind you that normally even if the men in black chased Hopper,
-Dialogue: 0,0:11:43.84,0:11:46.10,1080P-sgsm-63,,0,0,0,,我来提醒你们一下，即使黑衣人追捕Hopper，
+Dialogue: 0,0:11:43.84,0:11:46.10,1080P-sgsm-63,,0,0,0,,我来提醒你们一下，即使黑衣人追捕Hopper
 Dialogue: 0,0:11:46.10,0:11:48.92,1080P-sgbd-42,,0,0,0,,it should have been impossible to catch him
 Dialogue: 0,0:11:46.10,0:11:48.92,1080P-sgsm-63,,0,0,0,,按照常理是不可能抓到他的
-Dialogue: 0,0:11:48.92,0:11:51.75,1080P-sgbd-42,,0,0,0,,since after each return to the past, they would forget
-Dialogue: 0,0:11:48.92,0:11:51.75,1080P-sgsm-63,,0,0,0,,因为每次时间倒转之后，都会忘记
-Dialogue: 0,0:11:51.75,0:11:54.50,1080P-sgbd-42,,0,0,0,,everything they would have found about him
-Dialogue: 0,0:11:51.75,0:11:54.50,1080P-sgsm-63,,0,0,0,,他们发现关于Hopper的一切事情
+Dialogue: 0,0:11:48.92,0:11:54.50,1080P-sgbd-42,,0,0,0,,since after each return to the past, they would forget everything they would have found about him
+Dialogue: 0,0:11:48.92,0:11:54.50,1080P-sgsm-63,,0,0,0,,因为每次时间倒转之后，都会忘记他们发现关于Hopper的一切事情
 Dialogue: 0,0:11:54.50,0:11:56.70,1080P-sgbd-42,,0,0,0,,and the would begin their day without noticing
 Dialogue: 0,0:11:54.50,0:11:56.70,1080P-sgsm-63,,0,0,0,,他们会不知不觉地开始新的一天
 Dialogue: 0,0:11:56.70,0:12:02.84,1080P-sgbd-42,,0,0,0,,So technically if Hopper wasn't spied on the first June 6th 1994 when he launched the first return to the past,
@@ -444,30 +392,22 @@ Dialogue: 0,0:12:04.98,0:12:10.86,1080P-sgbd-42,,0,0,0,,June 6th 1994 after 1265
 Dialogue: 0,0:12:04.98,0:12:10.86,1080P-sgsm-63,,0,0,0,,如果说1994年6月6日1265次时间倒转后Hopper才发现自己被监视的话
 Dialogue: 0,0:12:10.86,0:12:13.65,1080P-sgbd-42,,0,0,0,,but it seems it's not the case, this necessarily mean
 Dialogue: 0,0:12:10.86,0:12:13.65,1080P-sgsm-63,,0,0,0,,那么事情就是另一回事了，因为这意味着
-Dialogue: 0,0:12:13.65,0:12:16.33,1080P-sgbd-42,,0,0,0,,that the men in black found a way to cancel
-Dialogue: 0,0:12:13.65,0:12:16.33,1080P-sgsm-63,,0,0,0,,黑衣人找到了办法解除
-Dialogue: 0,0:12:16.33,0:12:19.27,1080P-sgbd-42,,0,0,0,,the returns to the past effects, which seems logic
-Dialogue: 0,0:12:16.33,0:12:19.27,1080P-sgsm-63,,0,0,0,,时间倒转所带来是失忆效果，这样看起来是合乎逻辑的
+Dialogue: 0,0:12:13.65,0:12:19.27,1080P-sgbd-42,,0,0,0,,that the men in black found a way to cancel the returns to the past effects, which seems logic
+Dialogue: 0,0:12:13.65,0:12:19.27,1080P-sgsm-63,,0,0,0,,黑衣人找到了办法解除时间倒转所带来是失忆效果，这样看起来是合乎逻辑的
 Dialogue: 0,0:12:19.27,0:12:22.04,1080P-sgbd-42,,0,0,0,,since during 2545 days,
-Dialogue: 0,0:12:19.27,0:12:22.04,1080P-sgsm-63,,0,0,0,,这样一来，2545次时间倒转中
+Dialogue: 0,0:12:19.27,0:12:22.04,1080P-sgsm-63,,0,0,0,,这样一来，在2545次时间倒转中
 Dialogue: 0,0:12:22.04,0:12:25.24,1080P-sgbd-42,,0,0,0,,no one came looking for Hopper at his house but
 Dialogue: 0,0:12:22.04,0:12:25.24,1080P-sgsm-63,,0,0,0,,没人去Hopper家找他，但是
-Dialogue: 0,0:12:25.24,0:12:28.29,1080P-sgbd-42,,0,0,0,,the 2546th day, the men in black
-Dialogue: 0,0:12:25.24,0:12:28.29,1080P-sgsm-63,,0,0,0,,在第2546天，黑衣人
-Dialogue: 0,0:12:28.29,0:12:31.11,1080P-sgbd-42,,0,0,0,,found the Hermitage
-Dialogue: 0,0:12:28.29,0:12:31.11,1080P-sgsm-63,,0,0,0,,发现了隐居之所
+Dialogue: 0,0:12:25.24,0:12:31.11,1080P-sgbd-42,,0,0,0,,the 2546th day, the men in black found the Hermitage
+Dialogue: 0,0:12:25.24,0:12:31.11,1080P-sgsm-63,,0,0,0,,在第2546天，黑衣人发现了隐居之所
 Dialogue: 0,0:12:31.11,0:12:34.46,1080P-sgbd-42,,0,0,0,,This problem having a solution, there are two more to solve
 Dialogue: 0,0:12:31.11,0:12:34.46,1080P-sgsm-63,,0,0,0,,这个问题已经解决了，还有两个问题需要解决
 Dialogue: 0,0:12:34.46,0:12:37.38,1080P-sgbd-42,,0,0,0,,First, if this spy is Simone, how can we explain
 Dialogue: 0,0:12:34.46,0:12:37.38,1080P-sgsm-63,,0,0,0,,首先，如果这个间谍是Simone，我们该怎么解释
-Dialogue: 0,0:12:37.38,0:12:40.08,1080P-sgbd-42,,0,0,0,,that he opened his session the 5th of July even if
-Dialogue: 0,0:12:37.38,0:12:40.08,1080P-sgsm-63,,0,0,0,,他在6月5日打开会话，即使
-Dialogue: 0,0:12:40.08,0:12:43.35,1080P-sgbd-42,,0,0,0,,Hopper made the returns to the past the 6th
-Dialogue: 0,0:12:40.08,0:12:43.35,1080P-sgsm-63,,0,0,0,,Hopper在6号启动了时间倒转
-Dialogue: 0,0:12:43.35,0:12:46.61,1080P-sgbd-42,,0,0,0,,The only solution would be that the return launched by Hopper
-Dialogue: 0,0:12:43.35,0:12:46.61,1080P-sgsm-63,,0,0,0,,唯一能解释的通的，是Hopper发起的时间倒转
-Dialogue: 0,0:12:46.61,0:12:49.30,1080P-sgbd-42,,0,0,0,,didn't come back the 6th of June
-Dialogue: 0,0:12:46.61,0:12:49.30,1080P-sgsm-63,,0,0,0,,时间没有回到6月6日
+Dialogue: 0,0:12:37.38,0:12:43.35,1080P-sgbd-42,,0,0,0,,that he opened his session the 5th of July even if Hopper made the returns to the past the 6th
+Dialogue: 0,0:12:37.38,0:12:43.35,1080P-sgsm-63,,0,0,0,,他在6月5日打开会话，即使Hopper在6号启动了时间倒转
+Dialogue: 0,0:12:43.35,0:12:49.30,1080P-sgbd-42,,0,0,0,,The only solution would be that the return launched by Hopper didn't come back the 6th of June
+Dialogue: 0,0:12:43.35,0:12:49.30,1080P-sgsm-63,,0,0,0,,唯一能解释的通的，是Hopper发起的时间倒转时间没有回到6月6日
 Dialogue: 0,0:12:49.30,0:12:52.22,1080P-sgbd-42,,0,0,0,,but the 5th, late the evening
 Dialogue: 0,0:12:49.30,0:12:52.22,1080P-sgsm-63,,0,0,0,,而是回到了5号晚上
 Dialogue: 0,0:12:52.22,0:12:54.18,1080P-sgbd-42,,0,0,0,,Hopper would go back to his house
@@ -477,15 +417,13 @@ Dialogue: 0,0:12:54.18,0:12:59.45,1080P-sgsm-63,,0,0,0,,然后在6号回去工�
 Dialogue: 0,0:12:59.45,0:13:05.06,1080P-sgbd-42,,0,0,0,,as the show wants,Simone would have used the computer the 5th of June the evening
 Dialogue: 0,0:12:59.45,0:13:05.06,1080P-sgsm-63,,0,0,0,,然后，如剧组所愿，Simone在6月5日使用了电脑
 Dialogue: 0,0:13:05.06,0:13:08.52,1080P-sgbd-42,,0,0,0,,Now the second problem is from the spying itself,
-Dialogue: 0,0:13:05.06,0:13:08.52,1080P-sgsm-63,,0,0,0,,现在第二个问题来自于间谍活动本身，
+Dialogue: 0,0:13:05.06,0:13:08.52,1080P-sgsm-63,,0,0,0,,现在第二个问题来自于间谍活动本身
 Dialogue: 0,0:13:08.52,0:13:10.28,1080P-sgbd-42,,0,0,0,,If Simone, one of the men in black's agent,
-Dialogue: 0,0:13:08.52,0:13:10.28,1080P-sgsm-63,,0,0,0,,如果Simone是黑衣人的探员之一，
+Dialogue: 0,0:13:08.52,0:13:10.28,1080P-sgsm-63,,0,0,0,,如果Simone是黑衣人的探员之一
 Dialogue: 0,0:13:10.28,0:13:12.60,1080P-sgbd-42,,0,0,0,,who hopper was talking about,
 Dialogue: 0,0:13:10.28,0:13:12.60,1080P-sgsm-63,,0,0,0,,Hopper说的想除掉他的那个人
-Dialogue: 0,0:13:12.60,0:13:17.19,1080P-sgbd-42,,0,0,0,,why did they take 1281 days exactly
-Dialogue: 0,0:13:12.60,0:13:17.19,1080P-sgsm-63,,0,0,0,,他们为什么正好在第1281次时间倒转的时候
-Dialogue: 0,0:13:17.19,0:13:20.06,1080P-sgbd-42,,0,0,0,,to come get him at the Hermitage
-Dialogue: 0,0:13:17.19,0:13:20.06,1080P-sgsm-63,,0,0,0,,到隐居之所去找他
+Dialogue: 0,0:13:12.60,0:13:20.06,1080P-sgbd-42,,0,0,0,,why did they take 1281 days exactly to come get him at the Hermitage
+Dialogue: 0,0:13:12.60,0:13:20.06,1080P-sgsm-63,,0,0,0,,他们为什么正好在第1281次时间倒转的时候到隐居之所去找他
 Dialogue: 0,0:13:20.06,0:13:26.57,1080P-sgbd-42,,0,0,0,,Why didn't they come earlier, if they already knew at the 1265th day that Hopper was working on the supercomputer
 Dialogue: 0,0:13:20.06,0:13:26.57,1080P-sgsm-63,,0,0,0,,如果他们早就已经知道，Hopper在第1265次时间倒转时开始研制超级计算机，为什么不早点来
 Dialogue: 0,0:13:26.57,0:13:29.47,1080P-sgbd-42,,0,0,0,,We can answer this questions with two hypotheses
@@ -500,58 +438,50 @@ Dialogue: 0,0:13:38.80,0:13:41.30,1080P-sgbd-42,,0,0,0,,Of course, Hopper did it
 Dialogue: 0,0:13:38.80,0:13:41.30,1080P-sgsm-63,,0,0,0,,当然，Hopper行动非常迅速
 Dialogue: 0,0:13:41.30,0:13:46.58,1080P-sgbd-42,,0,0,0,,because the spy didn't have the time to tell the others men in black
 Dialogue: 0,0:13:41.30,0:13:46.58,1080P-sgsm-63,,0,0,0,,这样的话，Simone就没时间去告诉其他黑衣人
-Dialogue: 0,0:13:46.58,0:13:52.42,1080P-sgbd-42,,0,0,0,,when you see the time they took or maybe this spy didn't work for the men in black, it's also possible. As you can see
-Dialogue: 0,0:13:46.58,0:13:52.42,1080P-sgsm-63,,0,0,0,,如果你认为他们在这段时间里碌碌无为或者说Simone不是为黑衣人阻止效劳的，这么说也说得过去
-Dialogue: 0,0:13:52.42,0:13:54.89,1080P-sgbd-42,,0,0,0,,the theory that says Simon is an ally
-Dialogue: 0,0:13:52.42,0:13:54.89,1080P-sgsm-63,,0,0,0,,说Simone是盟友的理论
-Dialogue: 0,0:13:54.89,0:13:57.85,1080P-sgbd-42,,0,0,0,,seems closer to the reality
-Dialogue: 0,0:13:54.89,0:13:57.85,1080P-sgsm-63,,0,0,0,,似乎更接近现实一些
+Dialogue: 0,0:13:46.58,0:13:49.98,1080P-sgbd-42,,0,0,0,,when you see the time they took or maybe this spy didn't work for the men in black,
+Dialogue: 0,0:13:46.58,0:13:49.98,1080P-sgsm-63,,0,0,0,,如果你认为他们在这段时间里碌碌无为或者Simone不是为黑衣人效劳的
+Dialogue: 0,0:13:50.11,0:13:51.13,1080P-sgbd-42,,0,0,0,,it's also possible.
+Dialogue: 0,0:13:50.11,0:13:51.13,1080P-sgsm-63,,0,0,0,,这么说也说得过去
+Dialogue: 0,0:13:51.65,0:13:57.85,1080P-sgbd-48,,0,0,0,,As you can see the theory that says Simon is an ally seems closer to the reality
+Dialogue: 0,0:13:51.65,0:13:57.85,1080P-sgsm-63,,0,0,0,,如此 说Simone是盟友的理论 似乎更切实一些
 Dialogue: 0,0:13:57.85,0:14:00.46,1080P-sgbd-42,,0,0,0,,but it has the disadvantage of
 Dialogue: 0,0:13:57.85,0:14:00.46,1080P-sgsm-63,,0,0,0,,但这个理论也有漏洞
 Dialogue: 0,0:14:00.46,0:14:03.37,1080P-sgbd-42,,0,0,0,,having no possible insertion in the official show
-Dialogue: 0,0:14:00.46,0:14:03.37,1080P-sgsm-63,,0,0,0,,它不能在原剧中插足
-Dialogue: 0,0:14:03.37,0:14:09.48,1080P-sgbd-42,,0,0,0,,where a spy is already here in the show.
+Dialogue: 0,0:14:00.46,0:14:03.37,1080P-sgsm-63,,0,0,0,,它不能插入到原剧中
+Dialogue: 0,0:14:03.37,0:14:09.48,1080P-sgbd-48,,0,0,0,,where a spy is already here in the show.
 Dialogue: 0,0:14:03.37,0:14:09.48,1080P-sgsm-63,,0,0,0,,因为剧中已经有一个间谍了
 Dialogue: 0,0:14:09.48,0:14:13.83,1080P-sgbd-42,,0,0,0,,Now you have the two main theories we can put on this person right now
 Dialogue: 0,0:14:09.48,0:14:13.83,1080P-sgsm-63,,0,0,0,,现在有两个可以成立的理论
-Dialogue: 0,0:14:13.83,0:14:16.76,1080P-sgbd-42,,0,0,0,,Of course, some of you might make the link to the story
-Dialogue: 0,0:14:13.83,0:14:16.76,1080P-sgsm-63,,0,0,0,,当然，你们当中有些人可能会找到这个故事的关联
-Dialogue: 0,0:14:16.76,0:14:19.72,1080P-sgbd-42,,0,0,0,,of the the Code Lyoko Chronicles where it is said that
-Dialogue: 0,0:14:16.76,0:14:19.72,1080P-sgsm-63,,0,0,0,,《Lyoko编年史》中说
-Dialogue: 0,0:14:19.72,0:14:22.61,1080P-sgbd-42,,0,0,0,,Suzanne Hertz, from her real name Steinback, helps Franz Hopper
-Dialogue: 0,0:14:19.72,0:14:22.61,1080P-sgsm-63,,0,0,0,,Suzanne Hertz，真名为Steinback，她帮Franz·Hopper
-Dialogue: 0,0:14:22.61,0:14:25.55,1080P-sgbd-42,,0,0,0,,to create the supercomputer.
-Dialogue: 0,0:14:22.61,0:14:25.55,1080P-sgsm-63,,0,0,0,,创造了超级计算机
+Dialogue: 0,0:14:13.83,0:14:18.06,1080P-sgbd-42,,0,0,0,,Of course, some of you might make the link to the story of the the Code Lyoko Chronicles
+Dialogue: 0,0:14:13.83,0:14:18.06,1080P-sgsm-63,,0,0,0,,当然，你们当中有些人可能会在{\i1}虚幻勇士编年史{\i0} 中找到这个故事的关联
+Dialogue: 0,0:14:18.11,0:14:21.70,1080P-sgbd-42,,0,0,0,,where it is said that Suzanne Hertz, from her real name Steinback,
+Dialogue: 0,0:14:18.11,0:14:21.70,1080P-sgsm-63,,0,0,0,,那个小说里说Suzanne Hertz，真名为Steinback
+Dialogue: 0,0:14:21.96,0:14:25.55,1080P-sgbd-42,,0,0,0,,helps Franz Hopper to create the supercomputer.
+Dialogue: 0,0:14:21.96,0:14:25.55,1080P-sgsm-63,,0,0,0,,她帮助Franz Hopper 创造了超级计算机
 Dialogue: 0,0:14:25.55,0:14:28.34,1080P-sgbd-42,,0,0,0,,It is true that her first name isn't mentionned
 Dialogue: 0,0:14:25.55,0:14:28.34,1080P-sgsm-63,,0,0,0,,这里没有提到她的名字
 Dialogue: 0,0:14:28.34,0:14:31.54,1080P-sgbd-42,,0,0,0,,so it could easily be Simone but Immu clearly stated on Discord that
 Dialogue: 0,0:14:28.34,0:14:31.54,1080P-sgsm-63,,0,0,0,,所以帮忙的人也有可能是Simone，但Immu明确表示
-Dialogue: 0,0:14:31.54,0:14:34.29,1080P-sgbd-42,,0,0,0,,he didn't consider the Code Lyoko Chronicles
-Dialogue: 0,0:14:31.54,0:14:34.29,1080P-sgsm-63,,0,0,0,,他没有参考《Code Lyoko编年史》的内容
-Dialogue: 0,0:14:34.29,0:14:36.36,1080P-sgbd-42,,0,0,0,,as part of the story
-Dialogue: 0,0:14:34.29,0:14:36.36,1080P-sgsm-63,,0,0,0,,作为游戏情节的一部分
+Dialogue: 0,0:14:31.54,0:14:36.36,1080P-sgbd-42,,0,0,0,,he didn't consider the Code Lyoko Chronicles as part of the story
+Dialogue: 0,0:14:31.54,0:14:36.36,1080P-sgsm-63,,0,0,0,,他的游戏情节没有参考{\i1}虚幻勇士编年史{\i0} 的内容
 Dialogue: 0,0:14:36.36,0:14:39.32,1080P-sgbd-42,,0,0,0,,so there is no chance Simone is actually Ms Hertz
-Dialogue: 0,0:14:36.36,0:14:39.32,1080P-sgsm-63,,0,0,0,,Simone不可能是Hertz
+Dialogue: 0,0:14:36.36,0:14:39.32,1080P-sgsm-63,,0,0,0,,所以Simone不可能是Hertz
 Dialogue: 0,0:14:39.32,0:14:42.14,1080P-sgbd-42,,0,0,0,,However, he said he read the first book
-Dialogue: 0,0:14:39.32,0:14:42.14,1080P-sgsm-63,,0,0,0,,然而，他说他读了《Code Lyoko编年史》的第一本书
+Dialogue: 0,0:14:39.32,0:14:42.14,1080P-sgsm-63,,0,0,0,,然而，他说他读了{\i1}虚幻勇士编年史{\i0} 的第一本书
 Dialogue: 0,0:14:42.14,0:14:47.46,1080P-sgbd-42,,0,0,0,,which could explain similarities with the Chronicles story
-Dialogue: 0,0:14:42.14,0:14:47.46,1080P-sgsm-63,,0,0,0,,这可以解释相似性
-Dialogue: 0,0:14:47.46,0:14:48.70,1080P-sgbd-42,,0,0,0,,Another annex fact,
-Dialogue: 0,0:14:47.46,0:14:48.70,1080P-sgsm-63,,0,0,0,,从另一个角度来说,
-Dialogue: 0,0:14:48.70,0:14:52.35,1080P-sgbd-42,,0,0,0,,Even if the two theories stated previously are wrong
-Dialogue: 0,0:14:48.70,0:14:52.35,1080P-sgsm-63,,0,0,0,,即使之前的两个理论都是错误的，Simone
+Dialogue: 0,0:14:42.14,0:14:47.46,1080P-sgsm-63,,0,0,0,,这可以解释该情节与该小说的相似性
+Dialogue: 0,0:14:47.46,0:14:52.35,1080P-sgbd-42,,0,0,0,,Another annex fact, even if the two theories stated previously are wrong
+Dialogue: 0,0:14:47.46,0:14:52.35,1080P-sgsm-63,,0,0,0,,从另一个角度来说, 即使之前的两个理论都是错误的
 Dialogue: 0,0:14:52.35,0:14:55.01,1080P-sgbd-42,,0,0,0,,the fact that Simone is a real person
 Dialogue: 0,0:14:52.35,0:14:55.01,1080P-sgsm-63,,0,0,0,,Simone也还是一个真实存在的人
 Dialogue: 0,0:14:55.01,0:14:58.19,1080P-sgbd-42,,0,0,0,,who has a session on the supercomputer proves at least one thing
 Dialogue: 0,0:14:55.01,0:14:58.19,1080P-sgsm-63,,0,0,0,,且拥有超级计算机上的会话，这就足以证明他是真实存在的人
-Dialogue: 0,0:14:58.19,0:14:59.96,1080P-sgbd-42,,0,0,0,,My idea that
-Dialogue: 0,0:14:58.19,0:14:59.96,1080P-sgsm-63,,0,0,0,,我的想法是
-Dialogue: 0,0:14:59.96,0:15:03.14,1080P-sgbd-42,,0,0,0,,the different things we see in the 8th anniversary trailer
-Dialogue: 0,0:14:59.96,0:15:03.14,1080P-sgsm-63,,0,0,0,,我们在IFSCL八周年的预告片中所看到的内容
+Dialogue: 0,0:14:58.19,0:15:03.14,1080P-sgbd-42,,0,0,0,,My idea that the different things we see in the 8th anniversary trailer
+Dialogue: 0,0:14:58.19,0:15:03.14,1080P-sgsm-63,,0,0,0,,我的想法是 我们在IFSCL八周年的预告片中所看到的内容
 Dialogue: 0,0:15:03.14,0:15:05.04,1080P-sgbd-42,,0,0,0,,come from different periods of the show
 Dialogue: 0,0:15:03.14,0:15:05.04,1080P-sgsm-63,,0,0,0,,来源于原剧的各个片段
 Dialogue: 0,0:15:05.04,0:15:07.48,1080P-sgbd-42,,0,0,0,,is a little more confirmed
-Dialogue: 0,0:15:05.04,0:15:07.48,1080P-sgsm-63,,0,0,0,,这样似乎有说服力
+Dialogue: 0,0:15:05.04,0:15:07.48,1080P-sgsm-63,,0,0,0,,这样似乎更有说服力
 Dialogue: 0,0:15:07.48,0:15:13.09,1080P-sgbd-42,,0,0,0,,We would have the lab computer with the name Simone which would be the past of the show
 Dialogue: 0,0:15:07.48,0:15:13.09,1080P-sgsm-63,,0,0,0,,我们在预告片中看到实验室电脑的名字是Simone
 Dialogue: 0,0:15:13.09,0:15:15.75,1080P-sgbd-42,,0,0,0,,just like Hopper's suitcase
@@ -560,23 +490,21 @@ Dialogue: 0,0:15:15.75,0:15:18.36,1080P-sgbd-42,,0,0,0,,The Jeremie we see in th
 Dialogue: 0,0:15:15.75,0:15:18.36,1080P-sgsm-63,,0,0,0,,我们在预告片中看到的Jeremie
 Dialogue: 0,0:15:18.36,0:15:21.72,1080P-sgbd-42,,0,0,0,,has the same age as the one on the show, and finally
 Dialogue: 0,0:15:18.36,0:15:21.72,1080P-sgsm-63,,0,0,0,,和原剧里的Jeremie年龄一样大，最后呢
-Dialogue: 0,0:15:21.72,0:15:24.37,1080P-sgbd-42,,0,0,0,,the smartphone we see would come from
-Dialogue: 0,0:15:21.72,0:15:24.37,1080P-sgsm-63,,0,0,0,,我们看到的智能手机将来自于
-Dialogue: 0,0:15:24.37,0:15:27.12,1080P-sgbd-42,,0,0,0,,the future compared to the show timeline
-Dialogue: 0,0:15:24.37,0:15:27.12,1080P-sgsm-63,,0,0,0,,未来与原剧时间线的对比
+Dialogue: 0,0:15:21.72,0:15:27.12,1080P-sgbd-42,,0,0,0,,the smartphone we see would come from the future compared to the show timeline
+Dialogue: 0,0:15:21.72,0:15:27.12,1080P-sgsm-63,,0,0,0,,我们看到的智能手机将来自于相对于原剧时间线的未来
 Dialogue: 0,0:15:27.12,0:15:29.58,1080P-sgbd-42,,0,0,0,,but that's a little off-subject
 Dialogue: 0,0:15:27.12,0:15:29.58,1080P-sgsm-63,,0,0,0,,但这有点偏离主题了
 Dialogue: 0,0:15:29.58,0:15:32.55,1080P-sgbd-42,,0,0,0,,We now have said everything there is to say about the name
 Dialogue: 0,0:15:29.58,0:15:32.55,1080P-sgsm-63,,0,0,0,,关于这个名字，我们已经说完了所有想说的话
-Dialogue: 0,0:15:32.55,0:15:38.13,1080P-sgbd-42,,0,0,0,,Simone with all the elements we had in our possession. I invite you to
-Dialogue: 0,0:15:32.55,0:15:38.13,1080P-sgsm-63,,0,0,0,,我们已经掌握了Simone和所有的要素，我邀请你
-Dialogue: 0,0:15:38.13,0:15:42.40,1080P-sgbd-42,,0,0,0,,talk about your own theories in comments about this name
-Dialogue: 0,0:15:38.13,0:15:42.40,1080P-sgsm-63,,0,0,0,,在评论中，关于这个名字发表你自己的想法
-Dialogue: 0,0:15:42.40,0:15:45.48,1080P-sgbd-42,,0,0,0,,to see if you agree with Appryl and me
-Dialogue: 0,0:15:42.40,0:15:45.48,1080P-sgsm-63,,0,0,0,,看看你是否同意我和Appryl
-Dialogue: 0,0:15:45.48,0:15:48.56,1080P-sgbd-42,,0,0,0,,or if you think we're wrong. Thereupon, I'm saying see you very soon
-Dialogue: 0,0:15:45.48,0:15:48.56,1080P-sgsm-63,,0,0,0,,或者你认为我们错了，那么，我就只能说再见了
+Dialogue: 0,0:15:32.55,0:15:36.61,1080P-sgbd-42,,0,0,0,,Simone with all the elements we had in our possession.
+Dialogue: 0,0:15:32.55,0:15:36.61,1080P-sgsm-63,,0,0,0,,我们已经掌握了Simone和所有的要素
+Dialogue: 0,0:15:36.77,0:15:42.40,1080P-sgbd-42,,0,0,0,,I invite you to talk about your own theories in comments about this name
+Dialogue: 0,0:15:36.77,0:15:42.40,1080P-sgsm-63,,0,0,0,,我邀请你在评论中，发表关于这个名字的你自己的想法
+Dialogue: 0,0:15:42.40,0:15:46.29,1080P-sgbd-42,,0,0,0,,to see if you agree with Appryl and me or if you think we're wrong.
+Dialogue: 0,0:15:42.40,0:15:46.29,1080P-sgsm-63,,0,0,0,,看看你是否同意我和Appryl 或者你认为我们错了
+Dialogue: 0,0:15:46.29,0:15:48.56,1080P-sgbd-42,,0,0,0,,Thereupon, I'm saying see you very soon
+Dialogue: 0,0:15:46.29,0:15:48.56,1080P-sgsm-63,,0,0,0,,那么，我就只能说再见了
 Dialogue: 0,0:15:48.56,0:15:51.26,1080P-sgbd-42,,0,0,0,,For next videos, and of course
-Dialogue: 0,0:15:48.56,0:15:51.26,1080P-sgsm-63,,0,0,0,,当然，我是说下个视频见，
+Dialogue: 0,0:15:48.56,0:15:51.26,1080P-sgsm-63,,0,0,0,,当然，我是说下个视频见
 Dialogue: 0,0:15:51.26,0:15:52.69,1080P-sgbd-42,,0,0,0,,Ciao the Lyoko Warriors
 Dialogue: 0,0:15:51.26,0:15:52.69,1080P-sgsm-63,,0,0,0,,Lyoko战士们，再见
