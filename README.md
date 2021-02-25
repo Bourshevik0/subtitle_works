@@ -1,8 +1,8 @@
 # subtitles/字幕
 
-Subtitles made by Bolshevik0.
+Subtitles made by Bolshevik0 and other people.
 
-Bolshevik0制作的字幕。
+由Bolshevik0和其他人制作的字幕。
 
 ## TOC/目录
 
@@ -21,6 +21,10 @@ Bolshevik0制作的字幕。
 [CC BY-NC-SA 4.0](LICENSE.md)
 
 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
+
+The author(s) is mentioned in the subtitles file. Please keep the credits and follow the license when distributing it.
+
+字幕文件中有提到作者。所以在重新发布时请保留署名，并遵守许可。
 
 ## name/命名
 
