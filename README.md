@@ -12,7 +12,7 @@ Subtitles made by Bolshevik0 and other people.
    - 2.2 [youtube ID usage/油管ID使用说明](#youtube-ID-usage油管ID使用说明)
    - 2.3 [other video subtitles/其他视频字幕](#other-video-subtitles其他视频字幕)
 3. [download single file or directory from github/从github下载单独的文件或者文件夹](#download-single-file-or-directory-from-github从github下载单独的文件或者文件夹)
-4. [bug and report/问题反馈](#bug-and-report问题反馈)]
+4. [bug and report/问题反馈](#bug-and-report问题反馈)
 
 ## LICENSE/许可证
 
