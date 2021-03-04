@@ -171,7 +171,7 @@ Dialogue: 0,0:04:45.60,0:04:48.53,1080P-sgsm-6t,,0,0,0,,{\blur4}而这也就意�
 Dialogue: 0,0:04:48.54,0:04:51.82,1080P-sgbd-4t,,0,0,0,,{\blur4}there's a difference of about 150 kilometers per hour
 Dialogue: 0,0:04:48.54,0:04:51.82,1080P-sgsm-6t,,0,0,0,,{\blur4}两者的速度相差41.7m/s左右
 Dialogue: 0,0:04:52.02,0:04:57.54,1080P-sgbd-4t,,0,0,0,,{\blur4}which isn't a huge amount I'm gonna say given that they're moving at about 5800 kilometers per hour
-Dialogue: 0,0:04:52.02,0:04:57.54,1080P-sgsm-6t,,0,0,0,,{\blur4}我想说的是 这不是一个巨大的数字 考虑到火箭正以1.6km/s的速度移动
+Dialogue: 0,0:04:52.02,0:04:57.54,1080P-sgsm-6t,,0,0,0,,{\blur4}我想说的是 这不是一个巨大的数字 考虑到火箭正以1600m/s的速度移动
 Dialogue: 0,0:04:58.18,0:05:02.46,1080P-sgbd-4t,,0,0,0,,{\blur4}but last night's flight is headed into the atmosphere steeper and faster
 Dialogue: 0,0:04:58.18,0:05:02.46,1080P-sgsm-6t,,0,0,0,,{\blur4}但昨晚的飞行正以更快更陡的速度进入大气层
 Dialogue: 0,0:05:02.49,0:05:04.25,1080P-sgbd-4t,,0,0,0,,{\blur4}and you can see it getting ahead here.
@@ -243,7 +243,7 @@ Dialogue: 0,0:07:32.51,0:07:35.66,1080P-sgsm-6t,,0,0,0,,{\blur4}因为底部的�
 Dialogue: 0,0:07:36.29,0:07:41.75,1080P-sgbd-4t,,0,0,0,,{\blur4}The underperforming engine on its own probably isn't enough to cause the heat shield to fail.
 Dialogue: 0,0:07:36.29,0:07:41.75,1080P-sgsm-6t,,0,0,0,,{\blur4}单纯的发动机性能不佳可能还不足以导致隔热板失效
 Dialogue: 0,0:07:42.08,0:07:46.29,1080P-sgbd-4t,,0,0,0,,{\blur4}After all it's 150 kilometers per hour out of 6000.
-Dialogue: 0,0:07:42.08,0:07:46.29,1080P-sgsm-6t,,0,0,0,,{\blur4}毕竟这只是1667km/s中的41.7m/s (相当于只有2.5%的差异)
+Dialogue: 0,0:07:42.08,0:07:46.29,1080P-sgsm-6t,,0,0,0,,{\blur4}毕竟这只是1667m/s中的41.7m/s (相当于只有2.5%的差异)
 Dialogue: 0,0:07:46.50,0:07:52.10,1080P-sgbd-4t,,0,0,0,,{\blur4}Since we only saw a 25 throttle drop that seems to say that we still had some performance from the engine
 Dialogue: 0,0:07:46.50,0:07:52.10,1080P-sgsm-6t,,0,0,0,,{\blur4}既然我们只看到了推力下降了25% 那似乎说明发动机还是有一定的性能的
 Dialogue: 0,0:07:52.43,0:07:57.84,1080P-sgbd-4t,,0,0,0,,{\blur4}which would say to me that the turbo pumps the fuel pump and the oxidizer pump are still working
