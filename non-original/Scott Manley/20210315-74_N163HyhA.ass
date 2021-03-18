@@ -22,7 +22,7 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.00,0:00:11.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：How Amateur Radio Fans Decoded SpaceX's Telemetry & Engineering Video\N原作者名：Scott Manley\N视频来源：youtu.be/74_N163HyhA\N原视频发布日期：20210315\N字幕翻译/压制：旋火
+Dialogue: 0,0:00:04.00,0:00:11.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：How Amateur Radio Fans Decoded SpaceX's Telemetry & Engineering Video\N原作者名：Scott Manley\N视频来源：youtu.be/74_N163HyhA\N原视频发布日期：20210315\N字幕翻译/压制：旋火，akjlshfb
 Dialogue: 0,0:06:54.22,0:07:00.50,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}应该是指START I，NEW START似乎并没有相关要求\N{\fs40}www.armscontrol.org/act/2010-05/new-start-good-news-us-security
 Dialogue: 0,0:07:21.75,0:07:30.75,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/sknX7VxXQG8?t=594
 Dialogue: 0,0:00:04.00,0:00:05.44,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
@@ -158,9 +158,9 @@ Dialogue: 0,0:04:45.55,0:04:47.44,1080P-sgsm-63,,0,0,0,,{\blur4}你不会想把�
 Dialogue: 0,0:04:47.50,0:04:53.47,1080P-sgbd-42,,0,0,0,,{\blur4}because you actually need the signal to be going and alternating bits essentially.
 Dialogue: 0,0:04:47.50,0:04:53.47,1080P-sgsm-63,,0,0,0,,{\blur4}因为你实际上需要信号持续地翻转比特
 Dialogue: 0,0:04:53.91,0:04:58.09,1080P-sgbd-42,,0,0,0,,{\blur4}So that you still have reference transitions for your timers
-Dialogue: 0,0:04:53.91,0:04:58.09,1080P-sgsm-63,,0,0,0,,{\blur4}所以 你需要为计时器准备参考性的转换器（？）
+Dialogue: 0,0:04:53.91,0:04:58.09,1080P-sgsm-63,,0,0,0,,{\blur4}所以 你需要为定时抽样器提供参考的边沿(transition)
 Dialogue: 0,0:04:58.14,0:05:03.74,1080P-sgbd-42,,0,0,0,,{\blur4}and so that you're not focusing too much of your radio energy on one part of your band-pass.
-Dialogue: 0,0:04:58.14,0:05:03.74,1080P-sgsm-63,,0,0,0,,{\blur4}这样你不需要在带通(滤波器)上面花费太多的无线电能量
+Dialogue: 0,0:04:58.14,0:05:03.74,1080P-sgsm-63,,0,0,0,,{\blur4}这样你不需要在一部分带通上面花费太多的无线电能量
 Dialogue: 0,0:05:03.77,0:05:06.20,1080P-sgbd-42,,0,0,0,,{\blur4}And letting the others sit around doing nothing.
 Dialogue: 0,0:05:03.77,0:05:06.20,1080P-sgsm-63,,0,0,0,,{\blur4}而让其他部分无所事事
 Dialogue: 0,0:05:06.67,0:05:10.96,1080P-sgbd-42,,0,0,0,,{\blur4}So this was a standard. This isn't an encryption system.
