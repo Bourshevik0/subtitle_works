@@ -17,7 +17,7 @@ Style: shsm-5-100,思源黑体 Medium,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:16.71,1080P-sgsm-50,,0,0,0,,{\blur4\fad(0,1000)}时间索引：00:25 Starlink V1 L23，00:50 Soyuz MS-18，01:56 EOS-03，02:18 VV-18，\N02:49 SpaceX Crew-2，03:47 OneWeb第六批，04:13 NROL-82，04:40 天和核心舱，\N06:08 其他发射，08:11 素材及数据出处
+Dialogue: 0,0:00:00.00,0:00:16.71,1080P-sgsm-50,,0,0,0,,{\blur4\fad(0,1000)}时间索引：00:25 Starlink V1 L23，00:50 Soyuz MS-18，01:56 EOS-03，02:18 VV-18，\N02:49 SpaceX Crew-2，03:47 OneWeb第六批，04:13 NROL-82，04:40 天和核心舱，\N06:08 其他发射，08:21 素材及数据出处
 Dialogue: 0,0:00:15.71,0:00:26.13,shsm-5-100,,0,0,0,,{\blur4\pos(750,120)\fs60\fad(1000,1000)}\N\N感谢以下大佬于2021年3月份的赞助：
 Dialogue: 0,0:00:01.08,0:00:02.98,1080P-sgsm-63,,0,0,0,,{\blur4}大家好 我是旋火
 Dialogue: 0,0:00:03.01,0:00:06.23,1080P-sgsm-63,,0,0,0,,{\blur4}这里是2021年4月份的世界航天发射预告
