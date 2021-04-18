@@ -19,10 +19,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.21,0:00:03.04,1080P-sgsm-63,,0,0,0,,{\blur4}这里是ASPT-航天科普小组
 Dialogue: 0,0:00:03.47,0:00:09.72,1080P-sgsm-63,,0,0,0,,{\blur4}本期视频将会向你呈现北京时间4月10日至4月16日航天界的最新消息
 Dialogue: 0,0:00:14.75,0:00:16.83,1080P-sgsm-63,,0,0,0,,{\blur4}4月12日 据NASA消息
-Dialogue: 0,0:00:17.01,0:00:21.00,1080P-sgsm-63,,0,0,0,,{\blur4}机智号火星直升机在4月9日的螺旋桨高转速测试中
+Dialogue: 0,0:00:17.01,0:00:21.00,1080P-sgsm-63,,0,0,0,,{\blur4}机智号(ingenuity)火星直升机在4月9日的螺旋桨高转速测试中
 Dialogue: 0,0:00:21.11,0:00:22.80,1080P-sgsm-63,,0,0,0,,{\blur4}遇到了指令序列问题
 Dialogue: 0,0:00:22.94,0:00:25.76,1080P-sgsm-63,,0,0,0,,{\blur4}于是团队制定出了飞控软件升级方案
-Dialogue: 0,0:00:25.95,0:00:29.81,1080P-sgsm-63,,0,0,0,,{\blur4}最终将以安全的方式装载到机制号的飞行控制设备上
+Dialogue: 0,0:00:25.95,0:00:29.81,1080P-sgsm-63,,0,0,0,,{\blur4}最终将以安全的方式装载到机智号的飞行控制设备上
 Dialogue: 0,0:00:30.09,0:00:32.65,1080P-sgsm-63,,0,0,0,,{\blur4}目前来看方案实施还需要一定的时间
 Dialogue: 0,0:00:32.92,0:00:36.88,1080P-sgsm-63,,0,0,0,,{\blur4}机智号最快可能到下周才会确定何时进行第一次试飞
 Dialogue: 0,0:00:38.12,0:00:39.76,1080P-sgsm-63,,0,0,0,,{\blur4}据SpaceNews消息
@@ -53,24 +53,24 @@ Dialogue: 0,0:01:55.02,0:01:57.30,1080P-sgsm-63,,0,0,0,,{\blur4}同时发射时�
 Dialogue: 0,0:01:58.14,0:01:59.97,1080P-sgsm-63,,0,0,0,,{\blur4}除了格里芬月球着陆器
 Dialogue: 0,0:02:00.01,0:02:04.39,1080P-sgsm-63,,0,0,0,,{\blur4}SpaceX还拿下了其他一些与CLPS有关的发射任务合同
 Dialogue: 0,0:02:04.61,0:02:07.87,1080P-sgsm-63,,0,0,0,,{\blur4}如直觉机器公司(Intuitive Machines)的新星-C(Nova-C)着陆器任务两个
-Dialogue: 0,0:02:08.09,0:02:12.59,1080P-sgsm-63,,0,0,0,,{\blur4}将使用猎鹰9号分别于今年晚些时候和2022年进行发射 
+Dialogue: 0,0:02:08.09,0:02:12.59,1080P-sgsm-63,,0,0,0,,{\blur4}将使用猎鹰9号分别于今年晚些时候和2022年进行发射
 Dialogue: 0,0:02:12.91,0:02:16.09,1080P-sgsm-63,,0,0,0,,{\blur4}以及马斯腾太空系统(Masten Space Systems)的XL-1着陆器任务
-Dialogue: 0,0:02:16.22,0:02:19.60,1080P-sgsm-63,,0,0,0,,{\blur4}将使用猎鹰9号在2022年晚些时候进行发射 
+Dialogue: 0,0:02:16.22,0:02:19.60,1080P-sgsm-63,,0,0,0,,{\blur4}将使用猎鹰9号在2022年晚些时候进行发射
 Dialogue: 0,0:02:20.77,0:02:23.49,1080P-sgsm-63,,0,0,0,,{\blur4\pos(960,960)}(UTC时间4月14日16点51分)
-Dialogue: 0,0:02:23.61,0:02:28.87,1080P-sgsm-63,,0,0,0,,{\blur4\pos(960,960)}蓝色起源的新谢泼德亚轨道运载火箭在西德克萨斯发射场起飞 
+Dialogue: 0,0:02:23.61,0:02:28.87,1080P-sgsm-63,,0,0,0,,{\blur4\pos(960,960)}蓝色起源的新谢泼德亚轨道运载火箭在西德克萨斯发射场起飞
 Dialogue: 0,0:02:29.43,0:02:31.57,1080P-sgsm-63,,0,0,0,,{\blur4\pos(960,960)}助推器随后成功与飞船分离
 Dialogue: 0,0:02:31.76,0:02:34.11,1080P-sgsm-63,,0,0,0,,{\blur4\pos(960,960)}并达到了106km的最高点
 Dialogue: 0,0:02:34.51,0:02:37.08,1080P-sgsm-63,,0,0,0,,{\blur4}最终成功完成了助推器和飞船回收
 Dialogue: 0,0:02:37.43,0:02:40.36,1080P-sgsm-63,,0,0,0,,{\blur4}这次任务对载人飞行的程序进行了测试
 Dialogue: 0,0:02:40.58,0:02:42.08,1080P-sgsm-63,,0,0,0,,{\blur4}在发射前45分钟
-Dialogue: 0,0:02:42.40,0:02:46.68,1080P-sgsm-63,,0,0,0,,{\blur4}4名蓝色起源的员工扮演可能搭乘的客户到达了发射场 
+Dialogue: 0,0:02:42.40,0:02:46.68,1080P-sgsm-63,,0,0,0,,{\blur4}4名蓝色起源的员工扮演可能搭乘的客户到达了发射场
 Dialogue: 0,0:02:46.93,0:02:49.24,1080P-sgsm-63,,0,0,0,,{\blur4}并有2名人员实际进入了载人舱
-Dialogue: 0,0:02:49.47,0:02:51.91,1080P-sgsm-63,,0,0,0,,{\blur4}系好安全带并进行了通信测试 
+Dialogue: 0,0:02:49.47,0:02:51.91,1080P-sgsm-63,,0,0,0,,{\blur4}系好安全带并进行了通信测试
 Dialogue: 0,0:02:52.22,0:02:53.63,1080P-sgsm-63,,0,0,0,,{\blur4}随后在发射前离开
 Dialogue: 0,0:02:54.00,0:02:55.19,1080P-sgsm-63,,0,0,0,,{\blur4}不过到目前为止
 Dialogue: 0,0:02:55.31,0:02:59.80,1080P-sgsm-63,,0,0,0,,{\blur4}蓝色起源还没有透露出关于新谢泼德载人任务一些具体信息
 Dialogue: 0,0:03:00.31,0:03:03.37,1080P-sgsm-63,,0,0,0,,{\blur4}UTC时间4月12日22点32分
-Dialogue: 0,0:03:03.50,0:03:08.15,1080P-sgsm-63,,0,0,0,,{\blur4}Starship SN15在博卡奇卡发射台A完成了低温加压测试 
+Dialogue: 0,0:03:03.50,0:03:08.15,1080P-sgsm-63,,0,0,0,,{\blur4}Starship SN15在博卡奇卡发射台A完成了低温加压测试
 Dialogue: 0,0:03:08.38,0:03:10.79,1080P-sgsm-63,,0,0,0,,{\blur4}随后在UTC时间4月16日
 Dialogue: 0,0:03:10.95,0:03:17.92,1080P-sgsm-63,,0,0,0,,{\blur4}三台用于Starship SN15的猛禽发动机SN54 SN61 SN66已经运抵发射台
 Dialogue: 0,0:03:18.07,0:03:19.27,1080P-sgsm-63,,0,0,0,,{\blur4}准备进行安装
@@ -90,7 +90,7 @@ Dialogue: 0,0:03:52.16,0:03:55.44,1080P-sgsm-63,,0,0,0,,{\blur4}日前 已安全
 Dialogue: 0,0:03:55.78,0:04:01.16,1080P-sgsm-63,,0,0,0,,{\blur4}之后 长征七号遥三运载火箭将与先期已运抵的天舟二号货运飞船
 Dialogue: 0,0:04:01.31,0:04:04.48,1080P-sgsm-63,,0,0,0,,{\blur4}一起按计划开展发射场区总装和测试工作
 Dialogue: 0,0:04:05.25,0:04:07.41,1080P-sgsm-63,,0,0,0,,{\blur4}另外根据航天爱好者网消息
-Dialogue: 0,0:04:07.59,0:04:11.57,1080P-sgsm-63,,0,0,0,,{\blur4}长七遥三计划于5月23日发射天舟二号货运飞船 
+Dialogue: 0,0:04:07.59,0:04:11.57,1080P-sgsm-63,,0,0,0,,{\blur4}长七遥三计划于5月23日发射天舟二号货运飞船
 Dialogue: 0,0:04:11.81,0:04:14.67,1080P-sgsm-63,,0,0,0,,{\blur4}飞船将对接天和号核心舱尾部对接口
 Dialogue: 0,0:04:14.79,0:04:17.69,1080P-sgsm-63,,0,0,0,,{\blur4}进行燃料补给与空间站轨道高度维持
 Dialogue: 0,0:04:17.95,0:04:22.15,1080P-sgsm-63,,0,0,0,,{\blur4}携带的设备将由6月中下旬发射升空的神舟十二号成员组
@@ -106,4 +106,4 @@ Dialogue: 0,0:04:53.83,0:04:55.26,1080P-sgsm-63,,0,0,0,,{\blur4}我们下期周�
 Dialogue: 0,0:04:56.21,0:05:01.21,1080P-sgsm-50,,0,0,0,,{\blur4\fs100}本期视频制作人员\N文案，视频制作：旋火\N特效：死沙_\N配音：Charon_S丶
 Dialogue: 0,0:04:56.21,0:05:01.21,1080P-sgsm-50,,0,0,0,,{\blur4\an1}字幕下载：github.com/Bourshevik0/subtitle_works\N音乐来源：- Stevia Sphere. Elevator 8\Nhttps://steviasphere.bandcamp.com/track/elevator-8\N- Stevia Sphere. Elevator 12\Nhttps://steviasphere.bandcamp.com/track/elevator-12\N
 Dialogue: 0,0:05:01.21,0:05:03.21,1080P-sgsm-50,,0,0,0,,文案内容来源：{\fs35}\N- NASA. Work Progresses Toward Ingenuity’s First Flight on Mars\Nhttps://mars.nasa.gov/technology/helicopter/status/290/work-progresses-toward-ingenuity-s-first-flight-on-mars/\N- SpaceNews. MEV-2 servicer successfully docks to live Intelsat satellite\Nhttps://spacenews.com/mev-2-servicer-successfully-docks-to-live-intelsat-satellite/\N- SpaceNews. Astrobotic selects Falcon Heavy to launch NASA’s VIPER lunar rover\Nhttps://spacenews.com/astrobotic-selects-falcon-heavy-to-launch-nasas-viper-lunar-rover/\N- SpaceNews. Blue Origin aces dress rehearsal for New Shepard crewed flights\Nhttps://spacenews.com/blue-origin-aces-dress-rehearsal-for-new-shepard-crewed-flights/\N- Brendan. Starbase Production Diagram - 13th April 2021\Nhttps://twitter.com/_brendan_lewis/status/1381951138375761922\N- Michael Baylor. Large amount of sudden venting\Nhttps://twitter.com/nextspaceflight/status/1381737033907851264\N- Cosmic Perspective. Raptors for #SN15 have arrived!\Nhttps://twitter.com/considercosmos/status/1382907397954424833\N- MD2度. 关于SN15的一些设计变化讨论\Nhttps://weibo.com/6358422296/Kb4l2grt7\N- 航天爱好者网. 猛禽发动机变化\Nhttps://weibo.com/5549194014/Kb8mibFX1\N- NASASpaceflight. Path for #WenHop\Nhttps://twitter.com/NASASpaceflight/status/1382670379920023553\N- Elon Musk. Aiming to launch next week\Nhttps://twitter.com/elonmusk/status/1382582177943015431\N- 航天爱好者网. 长七遥三火箭运达发射场\Nhttp://www.spaceflightfans.cn/91849.html\N- 我们的太空. 神舟十二号载人航天飞行任务船箭\Nhttps://zhuanlan.zhihu.com/p/365063667\N
-Dialogue: 0,0:05:04.21,0:05:06.21,1080P-sgsm-50,,0,0,0,,视频素材来源：{\fs35}\N- JPLraw. NASA Mars Helicopter Ingenuity Animations\Nhttps://youtu.be/vnH4yD0s8QM\N- NewAtlas. MEV-2 spacecraft docks with satellite in orbit to extend its life   https://newatlas.com/space/northrop-grumman-mev-2-service-craft-docks-operational-satellite/\N- Gunter's Space Page. Intelsat 10-02\Nhttps://space.skyrocket.de/doc_sdat/intelsat-10-02.htm\N- Astrobotic. NASA JSC Receives Griffin Lunar Lander Model for Rover Testing\Nhttps://youtu.be/zd3RFsNnccE\N- NASA's Ames Research Center. NASA Moon Rover Books Ride to the Moon\Nhttps://youtu.be/S9Y6n1G5hhc\N- Intuitive Machines. Nova C Rendering Moon Mission Rendering\Nhttps://youtu.be/Y6NtP2xaydI\N- Masten Space Systems. Lunar Vehicles\Nhttps://masten.aero/lunar-vehicles/\N- Blue Origin. Replay - New Shepard Mission NS-15 Webcast\Nhttps://youtu.be/domwsgorRW0\N- Blue Origin. NS-15\Nhttps://twitter.com/blueorigin/status/1382413312306999296\N- Teslarati. Starship Boca Chica 122320 (NASASpaceflight – bocachicagal) SN9 Raptor SN49 1 crop (c)\Nhttps://www.teslarati.com/spacex-starship-sn9-frosty-first-launch-plans/\Nstarship-boca-chica-122320-nasaspaceflight-bocachicagal-sn9-raptor-sn49-1-crop-c/\N- 卡尔达瓦里希. 长征七号遥三运载火箭安全运抵文昌\Nhttps://b23.tv/av672527831\N- 航天爱好者网. 2017年4月20日 “天舟一号”成功发射\Nhttp://www.spaceflightfans.cn/30623.html\N- 卡尔达瓦里希. 载人飞船和运载火箭已运抵酒泉发射中心\Nhttps://b23.tv/av972566605\N
+Dialogue: 0,0:05:03.21,0:05:06.21,1080P-sgsm-50,,0,0,0,,视频素材来源：{\fs35}\N- JPLraw. NASA Mars Helicopter Ingenuity Animations\Nhttps://youtu.be/vnH4yD0s8QM\N- NewAtlas. MEV-2 spacecraft docks with satellite in orbit to extend its life   https://newatlas.com/space/northrop-grumman-mev-2-service-craft-docks-operational-satellite/\N- Gunter's Space Page. Intelsat 10-02\Nhttps://space.skyrocket.de/doc_sdat/intelsat-10-02.htm\N- Astrobotic. NASA JSC Receives Griffin Lunar Lander Model for Rover Testing\Nhttps://youtu.be/zd3RFsNnccE\N- NASA's Ames Research Center. NASA Moon Rover Books Ride to the Moon\Nhttps://youtu.be/S9Y6n1G5hhc\N- Intuitive Machines. Nova C Rendering Moon Mission Rendering\Nhttps://youtu.be/Y6NtP2xaydI\N- Masten Space Systems. Lunar Vehicles\Nhttps://masten.aero/lunar-vehicles/\N- Blue Origin. Replay - New Shepard Mission NS-15 Webcast\Nhttps://youtu.be/domwsgorRW0\N- Blue Origin. NS-15\Nhttps://twitter.com/blueorigin/status/1382413312306999296\N- Teslarati. Starship Boca Chica 122320 (NASASpaceflight – bocachicagal) SN9 Raptor SN49 1 crop (c)\Nhttps://www.teslarati.com/spacex-starship-sn9-frosty-first-launch-plans/\Nstarship-boca-chica-122320-nasaspaceflight-bocachicagal-sn9-raptor-sn49-1-crop-c/\N- 卡尔达瓦里希. 长征七号遥三运载火箭安全运抵文昌\Nhttps://b23.tv/av672527831\N- 航天爱好者网. 2017年4月20日 “天舟一号”成功发射\Nhttp://www.spaceflightfans.cn/30623.html\N- 卡尔达瓦里希. 载人飞船和运载火箭已运抵酒泉发射中心\Nhttps://b23.tv/av972566605\N
