@@ -10,7 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: source_han_common
+Last Style Storage: a_sarasa_gothic_common
 Video File: ?dummy:30.000000:600:1920:1080:47:163:254:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
@@ -19,8 +19,8 @@ Video Zoom Percent: 0.250000
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-sgsm-50,更纱黑体 SC Semibold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
-Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,10,134
-Style: 720P-shss-60,思源宋体,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,4.3,0,2,10,10,10,134
+Style: 1080P-sgsm-63,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 720P-sgsm-42,更纱黑体 SC Semibold,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
 Style: 720P-sgbd-27,更纱黑体 SC,27,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
 Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,7,10,10,10,134
 
