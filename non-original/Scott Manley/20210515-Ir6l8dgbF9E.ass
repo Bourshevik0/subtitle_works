@@ -17,84 +17,87 @@ Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.16,0:00:11.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Rocket Lab's 20th Launch Spins Out Of Control After Successful Booster Flight\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/Ir6l8dgbF9E\N原视频发布日期：20210515\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:11.16,0:00:16.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Scott Manley这期麦克风有点问题，所以用了比较差的麦克风
+Dialogue: 0,0:07:01.59,0:07:16.59,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)\fs38}1971.12.02着陆的苏联火星三号着陆器，软着陆成功，着陆后110秒失联，似乎是当时在刮沙尘暴损坏了通信天线，\N2003.12.25着陆的英国小猎犬2号着陆器，软着陆成功，但是两片太阳能板无法展开，挡住了着陆器的通信天线，导致无法通信而失联，\N2016.10.19着陆的俄欧合作的斯基亚帕雷利EDM，发生了硬着陆，降落系统存在一定设计问题
 Dialogue: 0,0:00:04.16,0:00:05.52,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.16,0:00:05.52,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
 Dialogue: 0,0:00:05.52,0:00:08.24,1080P-sgbd-42,,0,0,0,,{\blur4}And once again I am wearing the dressing gown of doom
 Dialogue: 0,0:00:05.52,0:00:08.24,1080P-shss-90,,0,0,0,,{\blur4}我又一次穿上了会带来厄运的睡袍
 Dialogue: 0,0:00:08.24,0:00:12.79,1080P-sgbd-42,,0,0,0,,{\blur4}because some sort of rocket anomaly happened while I slept last night.
-Dialogue: 0,0:00:08.24,0:00:12.79,1080P-shss-90,,0,0,0,,{\blur4}因为昨晚我睡觉时有火箭发生了某种异常
+Dialogue: 0,0:00:08.24,0:00:12.79,1080P-shss-90,,0,0,0,,{\blur4}这么说是因为 昨晚我睡觉时有火箭发生了某种异常
 Dialogue: 0,0:00:12.79,0:00:18.56,1080P-sgbd-42,,0,0,0,,{\blur4}So yes around 3 a.m that was a scheduled liftoff for Rocket Labs Electron.
-Dialogue: 0,0:00:12.79,0:00:18.56,1080P-shss-90,,0,0,0,,{\blur4}所以 是的 凌晨3点左右是火箭实验室电子号的预定升空时间
+Dialogue: 0,0:00:12.79,0:00:18.56,1080P-shss-90,,0,0,0,,{\blur4}所以是的 凌晨3点左右正是火箭实验室电子号的预定升空时间
 Dialogue: 0,0:00:18.56,0:00:22.72,1080P-sgbd-42,,0,0,0,,{\blur4}It would be their 20th launch a launch nicknamed Running Out of Toes.
-Dialogue: 0,0:00:18.56,0:00:22.72,1080P-shss-90,,0,0,0,,{\blur4}这是他们的第20次发射 绰号为 "脚趾不够用了 "
+Dialogue: 0,0:00:18.56,0:00:22.72,1080P-shss-90,,0,0,0,,{\blur4}这将是他们的第20次发射 绰号为脚趾数不过来
 Dialogue: 0,0:00:22.72,0:00:24.56,1080P-sgbd-42,,0,0,0,,{\blur4}Number 10 was Running Out of Fingers.
-Dialogue: 0,0:00:22.72,0:00:24.56,1080P-shss-90,,0,0,0,,{\blur4}第10次是 "手指不够用了"
+Dialogue: 0,0:00:22.72,0:00:24.56,1080P-shss-90,,0,0,0,,{\blur4}第10次是手指数不过来
 Dialogue: 0,0:00:24.56,0:00:30.27,1080P-sgbd-42,,0,0,0,,{\blur4}It would be carrying a pair of black sky satellites or earth observation satellites
-Dialogue: 0,0:00:24.56,0:00:30.27,1080P-shss-90,,0,0,0,,{\blur4}它将携带一对“黑天”地球观测卫星
+Dialogue: 0,0:00:24.56,0:00:30.27,1080P-shss-90,,0,0,0,,{\blur4}它将携带一对{\i1}黑天{\i0} 地球观测卫星升空
 Dialogue: 0,0:00:31.08,0:00:33.44,1080P-sgbd-42,,0,0,0,,{\blur4}and the biggest thing we were expecting from this was
-Dialogue: 0,0:00:31.08,0:00:33.44,1080P-shss-90,,0,0,0,,{\blur4}而我们在这次发射中最期待的是
+Dialogue: 0,0:00:31.08,0:00:33.44,1080P-shss-90,,0,0,0,,{\blur4}而我们在这次发射中最期待的事情是
 Dialogue: 0,0:00:33.44,0:00:37.68,1080P-sgbd-42,,0,0,0,,{\blur4}they were going to attempt to recover the booster stage in the ocean again
-Dialogue: 0,0:00:33.44,0:00:37.68,1080P-shss-90,,0,0,0,,{\blur4}他们将再次尝试在海洋中回收火箭助推器
+Dialogue: 0,0:00:33.44,0:00:37.68,1080P-shss-90,,0,0,0,,{\blur4}他们将再次尝试在海洋中回收火箭的助推器
 Dialogue: 0,0:00:37.68,0:00:41.52,1080P-sgbd-42,,0,0,0,,{\blur4}and we're hoping to get possibly a live feed of the descent.
-Dialogue: 0,0:00:37.68,0:00:41.52,1080P-shss-90,,0,0,0,,{\blur4}我们希望能得到下降过程的实况转播
+Dialogue: 0,0:00:37.68,0:00:41.52,1080P-shss-90,,0,0,0,,{\blur4}而我们希望能得到下降过程的实况转播
 Dialogue: 0,0:00:41.52,0:00:42.96,1080P-sgbd-42,,0,0,0,,{\blur4}Now that never happened.
-Dialogue: 0,0:00:41.52,0:00:42.96,1080P-shss-90,,0,0,0,,{\blur4}然而这一切并没有发生
+Dialogue: 0,0:00:41.52,0:00:42.96,1080P-shss-90,,0,0,0,,{\blur4}然而这一切都没有发生
 Dialogue: 0,0:00:42.96,0:00:47.48,1080P-sgbd-42,,0,0,0,,{\blur4}Now the rocket launch was initially delayed and went into a number of holds
-Dialogue: 0,0:00:42.96,0:00:47.48,1080P-shss-90,,0,0,0,,{\blur4}现在 火箭发射最初被推迟 并进入了暂停阶段
+Dialogue: 0,0:00:42.96,0:00:47.48,1080P-shss-90,,0,0,0,,{\blur4}那么 火箭发射最初被推迟 并进入了暂停阶段
 Dialogue: 0,0:00:47.50,0:00:49.45,1080P-sgbd-42,,0,0,0,,{\blur4}because the weather wasn't great
 Dialogue: 0,0:00:47.50,0:00:49.45,1080P-shss-90,,0,0,0,,{\blur4}因为天气不是很好
 Dialogue: 0,0:00:49.55,0:00:51.12,1080P-sgbd-42,,0,0,0,,{\blur4}but then when it did lift off
-Dialogue: 0,0:00:49.55,0:00:51.12,1080P-shss-90,,0,0,0,,{\blur4}但当它升空时
+Dialogue: 0,0:00:49.55,0:00:51.12,1080P-shss-90,,0,0,0,,{\blur4}但当它真的升空时
 Dialogue: 0,0:00:51.26,0:00:54.76,1080P-sgbd-42,,0,0,0,,{\blur4}it seemed to execute successfully went through all the launch
 Dialogue: 0,0:00:51.26,0:00:54.76,1080P-shss-90,,0,0,0,,{\blur4}它似乎成功地执行了所有的发射程序
 Dialogue: 0,0:00:55.09,0:01:01.10,1080P-sgbd-42,,0,0,0,,{\blur4}performed through max q safely main engine cutoff and stage separation
-Dialogue: 0,0:00:55.09,0:01:01.10,1080P-shss-90,,0,0,0,,{\blur4}安全地渡过了最大Q值 完成了主发动机关闭 级间分离
+Dialogue: 0,0:00:55.09,0:01:01.10,1080P-shss-90,,0,0,0,,{\blur4\fs85}安全地渡过了最大气动压力阶段 后来又成功关闭主发动机 进行级间分离
 Dialogue: 0,0:01:01.12,0:01:04.11,1080P-sgbd-42,,0,0,0,,{\blur4}and then the second stage went out of control, right.
-Dialogue: 0,0:01:01.12,0:01:04.11,1080P-shss-90,,0,0,0,,{\blur4}然后第二级就失去了控制 对
+Dialogue: 0,0:01:01.12,0:01:04.11,1080P-shss-90,,0,0,0,,{\blur4}然后二级就失去了控制 对吧
 Dialogue: 0,0:01:04.13,0:01:05.36,1080P-sgbd-42,,0,0,0,,{\blur4}It spun out of control.
 Dialogue: 0,0:01:04.13,0:01:05.36,1080P-shss-90,,0,0,0,,{\blur4}它在旋转中失去了控制
-Dialogue: 0,0:01:05.36,0:01:07.43,1080P-sgbd-42,,0,0,0,,{\blur4}So what what do we know.
-Dialogue: 0,0:01:05.36,0:01:07.43,1080P-shss-90,,0,0,0,,{\blur4}关于此事我们知道什么呢
+Dialogue: 0,0:01:05.36,0:01:07.43,1080P-sgbd-42,,0,0,0,,{\blur4}So what do we know.
+Dialogue: 0,0:01:05.36,0:01:07.43,1080P-shss-90,,0,0,0,,{\blur4}那么关于此事我们知道些什么呢
 Dialogue: 0,0:01:07.43,0:01:10.55,1080P-sgbd-42,,0,0,0,,{\blur4}Well we actually have a couple of foot cameras on board
-Dialogue: 0,0:01:07.43,0:01:10.55,1080P-shss-90,,0,0,0,,{\blur4}好吧 实际上火箭里有几台底部摄像机
+Dialogue: 0,0:01:07.43,0:01:10.55,1080P-shss-90,,0,0,0,,{\blur4}好吧 实际上火箭里有几台底部相机
 Dialogue: 0,0:01:10.58,0:01:14.63,1080P-sgbd-42,,0,0,0,,{\blur4}that gave us pretty much all the information we needed along with the telemetry.
 Dialogue: 0,0:01:10.58,0:01:14.63,1080P-shss-90,,0,0,0,,{\blur4}几乎给了所有我们需要的信息 还有遥测数据
 Dialogue: 0,0:01:14.97,0:01:19.60,1080P-sgbd-42,,0,0,0,,{\blur4}So there was an external camera on the outside of the second stage that looks down
-Dialogue: 0,0:01:14.97,0:01:19.60,1080P-shss-90,,0,0,0,,{\blur4}第二级的外面有一台外部摄像机 可以向下看
+Dialogue: 0,0:01:14.97,0:01:19.60,1080P-shss-90,,0,0,0,,{\blur4}那么 二级的外面有一台外部相机 可以向下看
 Dialogue: 0,0:01:19.60,0:01:22.21,1080P-sgbd-42,,0,0,0,,{\blur4}and that showed us most of the video of the launch.
 Dialogue: 0,0:01:19.60,0:01:22.21,1080P-shss-90,,0,0,0,,{\blur4}它向我们展示了发射时的大部分的影像
 Dialogue: 0,0:01:22.50,0:01:26.96,1080P-sgbd-42,,0,0,0,,{\blur4}Inside the interstage there was a camera that looks at the rocket nozzle
-Dialogue: 0,0:01:22.50,0:01:26.96,1080P-shss-90,,0,0,0,,{\blur4}在中间级的内部有一个摄像头 对准着火箭的喷口
+Dialogue: 0,0:01:22.50,0:01:26.96,1080P-shss-90,,0,0,0,,{\blur4}在中间级的内部有一台相机 对准火箭的喷口
 Dialogue: 0,0:01:27.05,0:01:28.57,1080P-sgbd-42,,0,0,0,,{\blur4}and we've seen that for most of the flights.
 Dialogue: 0,0:01:27.05,0:01:28.57,1080P-shss-90,,0,0,0,,{\blur4}在大多数火箭发射中我们都能看到这个画面
 Dialogue: 0,0:01:29.28,0:01:33.11,1080P-sgbd-42,,0,0,0,,{\blur4}Now the one that looked at the nozzle froze during the stage separation
-Dialogue: 0,0:01:29.28,0:01:33.11,1080P-shss-90,,0,0,0,,{\blur4}当时观察喷嘴的摄像机在级间分离时冻住了
+Dialogue: 0,0:01:29.28,0:01:33.11,1080P-shss-90,,0,0,0,,{\blur4}那么观察喷嘴的相机在级间分离时卡住了
 Dialogue: 0,0:01:33.11,0:01:36.90,1080P-sgbd-42,,0,0,0,,{\blur4}but the external camera showed a clean stage separation.
-Dialogue: 0,0:01:33.11,0:01:36.90,1080P-shss-90,,0,0,0,,{\blur4}但外部摄像机显示这个分离十分成功
+Dialogue: 0,0:01:33.11,0:01:36.90,1080P-shss-90,,0,0,0,,{\blur4}但外部相机显示这个分离十分成功
 Dialogue: 0,0:01:36.93,0:01:38.64,1080P-sgbd-42,,0,0,0,,{\blur4}A little bit of wobble which is normal
 Dialogue: 0,0:01:36.93,0:01:38.64,1080P-shss-90,,0,0,0,,{\blur4}虽然有一点晃动 但是这是正常的
 Dialogue: 0,0:01:38.64,0:01:43.02,1080P-sgbd-42,,0,0,0,,{\blur4}and then as soon as the second stage Rutherford engine fired up
-Dialogue: 0,0:01:38.64,0:01:43.02,1080P-shss-90,,0,0,0,,{\blur4}然后当第二级卢瑟福发动机启动时
+Dialogue: 0,0:01:38.64,0:01:43.02,1080P-shss-90,,0,0,0,,{\blur4}然后当二级卢瑟福发动机启动时
 Dialogue: 0,0:01:43.51,0:01:47.68,1080P-sgbd-42,,0,0,0,,{\blur4}the view just swivels around out of shot and the thing is spinning.
-Dialogue: 0,0:01:43.51,0:01:47.68,1080P-shss-90,,0,0,0,,{\blur4}镜头中的画面显示第二级开始旋转
+Dialogue: 0,0:01:43.51,0:01:47.68,1080P-shss-90,,0,0,0,,{\blur4}镜头中的画面显示二级开始旋转
 Dialogue: 0,0:01:47.68,0:01:49.52,1080P-sgbd-42,,0,0,0,,{\blur4}And that's the end of it, right.
-Dialogue: 0,0:01:47.68,0:01:49.52,1080P-shss-90,,0,0,0,,{\blur4}这就是它最后的结局
+Dialogue: 0,0:01:47.68,0:01:49.52,1080P-shss-90,,0,0,0,,{\blur4}而这就是它最后的结局
 Dialogue: 0,0:01:49.61,0:01:50.96,1080P-sgbd-42,,0,0,0,,{\blur4}They can't recover from that.
 Dialogue: 0,0:01:49.61,0:01:50.96,1080P-shss-90,,0,0,0,,{\blur4}工作人员无法将其从旋转中恢复
 Dialogue: 0,0:01:51.38,0:01:52.88,1080P-sgbd-42,,0,0,0,,{\blur4}If you look at the telemetry
 Dialogue: 0,0:01:51.38,0:01:52.88,1080P-shss-90,,0,0,0,,{\blur4}如果你观察遥测数据
 Dialogue: 0,0:01:52.88,0:01:58.00,1080P-sgbd-42,,0,0,0,,{\blur4}you can actually see the velocity is sort of wobbling up and down every second or so
-Dialogue: 0,0:01:52.88,0:01:58.00,1080P-shss-90,,0,0,0,,{\blur4}你实际上可以看到速度每秒钟都在上下变化
+Dialogue: 0,0:01:52.88,0:01:58.00,1080P-shss-90,,0,0,0,,{\blur4}你实际上可以看到速度随时都在上下变化
 Dialogue: 0,0:01:58.00,0:02:01.04,1080P-sgbd-42,,0,0,0,,{\blur4}so the thing got put into a spin from which it couldn't recover
-Dialogue: 0,0:01:58.00,0:02:01.04,1080P-shss-90,,0,0,0,,{\blur4}所以这东西进入了一个无法恢复的旋转状态
+Dialogue: 0,0:01:58.00,0:02:01.04,1080P-shss-90,,0,0,0,,{\blur4}所以这东西进入了一种无法恢复的旋转状态
 Dialogue: 0,0:02:01.04,0:02:04.14,1080P-sgbd-42,,0,0,0,,{\blur4}and they probably just shut down the engine and let it fall into the ocean
-Dialogue: 0,0:02:01.04,0:02:04.14,1080P-shss-90,,0,0,0,,{\blur4}工作人员最后可能只是它的关闭了引擎 让它掉进了海里
+Dialogue: 0,0:02:01.04,0:02:04.14,1080P-shss-90,,0,0,0,,{\blur4}而工作人员最后可能只是关闭了它的发动机 让其掉进了海里
 Dialogue: 0,0:02:04.39,0:02:08.94,1080P-sgbd-42,,0,0,0,,{\blur4}rather than let it continue firing its engine and potentially go out of its launch corridor.
-Dialogue: 0,0:02:04.39,0:02:08.94,1080P-shss-90,,0,0,0,,{\blur4}而不是让它的引擎继续工作并有可能离开它的发射走廊
+Dialogue: 0,0:02:04.39,0:02:08.94,1080P-shss-90,,0,0,0,,{\blur4}而不是让发动机继续工作 并有可能使其离开发射通道
 Dialogue: 0,0:02:10.03,0:02:12.58,1080P-sgbd-42,,0,0,0,,{\blur4}Now as for what caused that spin
 Dialogue: 0,0:02:10.03,0:02:12.58,1080P-shss-90,,0,0,0,,{\blur4}至于是什么导致了旋转
 Dialogue: 0,0:02:13.31,0:02:20.64,1080P-sgbd-42,,0,0,0,,{\blur4}well if you look at the the camera that was inside the interstage that looked at the nozzle
-Dialogue: 0,0:02:13.31,0:02:20.64,1080P-shss-90,,0,0,0,,{\blur4} 如果你看一下在中间级观察喷嘴的摄像头
+Dialogue: 0,0:02:13.31,0:02:20.64,1080P-shss-90,,0,0,0,,{\blur4}如果你看一下在级间段观察喷嘴的相机
 Dialogue: 0,0:02:20.64,0:02:22.16,1080P-sgbd-42,,0,0,0,,{\blur4}you can't really see very much.
 Dialogue: 0,0:02:20.64,0:02:22.16,1080P-shss-90,,0,0,0,,{\blur4}你真的看不出什么
 Dialogue: 0,0:02:22.16,0:02:25.19,1080P-sgbd-42,,0,0,0,,{\blur4}What you can see is that the engine does light
@@ -102,55 +105,55 @@ Dialogue: 0,0:02:22.16,0:02:25.19,1080P-shss-90,,0,0,0,,{\blur4}你能看到的�
 Dialogue: 0,0:02:25.36,0:02:28.80,1080P-sgbd-42,,0,0,0,,{\blur4}but it doesn't seem to run very long and it cools down very quickly
 Dialogue: 0,0:02:25.36,0:02:28.80,1080P-shss-90,,0,0,0,,{\blur4}但它似乎并没有运行很久 而且很快就冷却了
 Dialogue: 0,0:02:28.80,0:02:35.04,1080P-sgbd-42,,0,0,0,,{\blur4}but if you actually compare it against the previous launch which was They Go Up So Fast
-Dialogue: 0,0:02:28.80,0:02:35.04,1080P-shss-90,,0,0,0,,{\blur4}但如果你把它与之前的发射进行比较 也就是它上升更快时
+Dialogue: 0,0:02:28.80,0:02:35.04,1080P-shss-90,,0,0,0,,{\blur4}但如果你把它与之前的发射进行比较 也就是{\i1}它们上升得真快{\i0}
 Dialogue: 0,0:02:35.04,0:02:38.56,1080P-sgbd-42,,0,0,0,,{\blur4}and look at the exact position of that engine nozzle
-Dialogue: 0,0:02:35.04,0:02:38.56,1080P-shss-90,,0,0,0,,{\blur4}观察那个发动机喷嘴的确切位置
+Dialogue: 0,0:02:35.04,0:02:38.56,1080P-shss-90,,0,0,0,,{\blur4}同时观察那个发动机喷嘴的确切位置
 Dialogue: 0,0:02:38.56,0:02:43.74,1080P-sgbd-42,,0,0,0,,{\blur4}you can see the nozzle is pushed over to the right in the one that launched last night.
 Dialogue: 0,0:02:38.56,0:02:43.74,1080P-shss-90,,0,0,0,,{\blur4}你可以看到在昨晚发射的中 喷嘴被推到了右边
 Dialogue: 0,0:02:44.35,0:02:48.64,1080P-sgbd-42,,0,0,0,,{\blur4}Basically the second stage steers by gimbaling this nozzle, right.
-Dialogue: 0,0:02:44.35,0:02:48.64,1080P-shss-90,,0,0,0,,{\blur4}第二级基本上是通过平衡环架来控制这个喷嘴的方向
+Dialogue: 0,0:02:44.35,0:02:48.64,1080P-shss-90,,0,0,0,,{\blur4}基本上 二级是通过矢量摆动装置来控制这个喷嘴方向的
 Dialogue: 0,0:02:48.64,0:02:50.31,1080P-sgbd-42,,0,0,0,,{\blur4}So it can adjust the direction of the thrust
 Dialogue: 0,0:02:48.64,0:02:50.31,1080P-shss-90,,0,0,0,,{\blur4}所以它可以调整推力的方向
 Dialogue: 0,0:02:50.34,0:02:52.95,1080P-sgbd-42,,0,0,0,,{\blur4}and in this case it seems to have pushed it all the way over to the right
-Dialogue: 0,0:02:50.34,0:02:52.95,1080P-shss-90,,0,0,0,,{\blur4}在这种情况下 它似乎把推力全部集中到了右边
+Dialogue: 0,0:02:50.34,0:02:52.95,1080P-shss-90,,0,0,0,,{\blur4}而在这种情况下 它似乎把推力全部集中到了右边
 Dialogue: 0,0:02:52.95,0:02:56.80,1080P-sgbd-42,,0,0,0,,{\blur4}and some sort of technical problem it could be that
-Dialogue: 0,0:02:52.95,0:02:56.80,1080P-shss-90,,0,0,0,,{\blur4}还有一些技术问题 可能是
+Dialogue: 0,0:02:52.95,0:02:56.80,1080P-shss-90,,0,0,0,,{\blur4}这可能是一些技术问题 比如
 Dialogue: 0,0:02:56.80,0:03:00.23,1080P-sgbd-42,,0,0,0,,{\blur4}they couldn't stop the actuator from moving.
-Dialogue: 0,0:02:56.80,0:03:00.23,1080P-shss-90,,0,0,0,,{\blur4}他们无法阻止推杆的移动
+Dialogue: 0,0:02:56.80,0:03:00.23,1080P-shss-90,,0,0,0,,{\blur4}他们无法阻止促动器的移动
 Dialogue: 0,0:03:00.23,0:03:04.23,1080P-sgbd-42,,0,0,0,,{\blur4}Maybe their sensor didn't detect that it moved all the way.
 Dialogue: 0,0:03:00.23,0:03:04.23,1080P-shss-90,,0,0,0,,{\blur4}也许他们的传感器没有检测到它一直在移动
 Dialogue: 0,0:03:05.49,0:03:08.67,1080P-sgbd-42,,0,0,0,,{\blur4}There's one suggestion sometimes that we've seen cases
-Dialogue: 0,0:03:05.49,0:03:08.67,1080P-shss-90,,0,0,0,,{\blur4}这有一个迹象 我们在过去的案例中看到过
+Dialogue: 0,0:03:05.49,0:03:08.67,1080P-shss-90,,0,0,0,,{\blur4}这之中有一个迹象 我们在过去的案例中看到过
 Dialogue: 0,0:03:08.67,0:03:15.61,1080P-sgbd-42,,0,0,0,,{\blur4}where rockets have had the connections to adjust the position reversed
-Dialogue: 0,0:03:08.70,0:03:15.64,1080P-shss-90,,0,0,0,,{\blur4}那些案例中 火箭的调整姿态仪器的连接被颠倒了
+Dialogue: 0,0:03:08.70,0:03:15.64,1080P-shss-90,,0,0,0,,{\blur4}在那些案例中 火箭的调整姿态的仪器的连接被接反了
 Dialogue: 0,0:03:15.67,0:03:18.15,1080P-sgbd-42,,0,0,0,,{\blur4}so that it was to steer to the right, steers to the left.
-Dialogue: 0,0:03:15.67,0:03:18.15,1080P-shss-90,,0,0,0,,{\blur4}正常讲 它会是均衡地向右转 向左转
+Dialogue: 0,0:03:15.67,0:03:18.15,1080P-shss-90,,0,0,0,,{\blur4}于是 向右转的指令变成了向左转
 Dialogue: 0,0:03:18.15,0:03:19.84,1080P-sgbd-42,,0,0,0,,{\blur4}That means it steers to the right more
-Dialogue: 0,0:03:18.15,0:03:19.84,1080P-shss-90,,0,0,0,,{\blur4}错误连接后它会更多地向右转向
+Dialogue: 0,0:03:18.15,0:03:19.84,1080P-shss-90,,0,0,0,,{\blur4}这样就会导致(控制系统认为左转得不够而)向右转得更多
 Dialogue: 0,0:03:19.84,0:03:22.31,1080P-sgbd-42,,0,0,0,,{\blur4}and eventually loses control very quickly.
 Dialogue: 0,0:03:19.84,0:03:22.31,1080P-shss-90,,0,0,0,,{\blur4}最终火箭很快失去控制
 Dialogue: 0,0:03:22.31,0:03:23.92,1080P-sgbd-42,,0,0,0,,{\blur4}I don't think that happened in this case
-Dialogue: 0,0:03:22.31,0:03:23.92,1080P-shss-90,,0,0,0,,{\blur4}我不认为这种情况发生在这个案例中
+Dialogue: 0,0:03:22.31,0:03:23.92,1080P-shss-90,,0,0,0,,{\blur4}我不认为那种情况发生在这个案例中
 Dialogue: 0,0:03:23.92,0:03:26.40,1080P-sgbd-42,,0,0,0,,{\blur4}because if you look at the external camera
-Dialogue: 0,0:03:23.92,0:03:26.40,1080P-shss-90,,0,0,0,,{\blur4}因为如果你看一下外部摄像机
+Dialogue: 0,0:03:23.92,0:03:26.40,1080P-shss-90,,0,0,0,,{\blur4}因为如果你看一下外部相机
 Dialogue: 0,0:03:26.40,0:03:31.42,1080P-sgbd-42,,0,0,0,,{\blur4}the initial wobble carries it in one direction and then it compensates
 Dialogue: 0,0:03:26.40,0:03:31.42,1080P-shss-90,,0,0,0,,{\blur4}最初的晃动将它带向一个方向 然后它自己进行了补偿
 Dialogue: 0,0:03:31.46,0:03:33.12,1080P-sgbd-42,,0,0,0,,{\blur4}and spins out of control in the other direction
-Dialogue: 0,0:03:31.46,0:03:33.12,1080P-shss-90,,0,0,0,,{\blur4}然后在另一个方向上旋转失去了控制
+Dialogue: 0,0:03:31.46,0:03:33.12,1080P-shss-90,,0,0,0,,{\blur4}然后在另一个方向上旋转而失去了控制
 Dialogue: 0,0:03:33.12,0:03:34.48,1080P-sgbd-42,,0,0,0,,{\blur4}so that's not what happened.
-Dialogue: 0,0:03:33.12,0:03:34.48,1080P-shss-90,,0,0,0,,{\blur4}这不是刚才例子中会发生的现象
+Dialogue: 0,0:03:33.12,0:03:34.48,1080P-shss-90,,0,0,0,,{\blur4}所以这不是刚才例子中会发生的现象
 Dialogue: 0,0:03:34.48,0:03:35.50,1080P-sgbd-42,,0,0,0,,{\blur4}I don't think.
-Dialogue: 0,0:03:34.48,0:03:35.50,1080P-shss-90,,0,0,0,,{\blur4}所以我不认为那是事故的原因
+Dialogue: 0,0:03:34.48,0:03:35.50,1080P-shss-90,,0,0,0,,{\blur4}所以我不认为那是这次事故的原因
 Dialogue: 0,0:03:36.48,0:03:38.08,1080P-sgbd-42,,0,0,0,,{\blur4}So yes that's unfortunate
 Dialogue: 0,0:03:36.48,0:03:38.08,1080P-shss-90,,0,0,0,,{\blur4}所以是的 这次发射失败是不幸的
 Dialogue: 0,0:03:38.08,0:03:42.79,1080P-sgbd-42,,0,0,0,,{\blur4}because Rocket Lab's Electron has been a very successful small sat launcher
-Dialogue: 0,0:03:38.08,0:03:42.79,1080P-shss-90,,0,0,0,,{\blur4}因为电子号一直是一个非常成功的小卫星发射器
+Dialogue: 0,0:03:38.08,0:03:42.79,1080P-shss-90,,0,0,0,,{\blur4}因为火箭实验室的电子火箭已经是一个非常成功的小卫星运载火箭了
 Dialogue: 0,0:03:42.79,0:03:47.04,1080P-sgbd-42,,0,0,0,,{\blur4}and it's really now getting to position where it's going to be having some serious competition out there
-Dialogue: 0,0:03:42.79,0:03:47.04,1080P-shss-90,,0,0,0,,{\blur4}它现在已经到了一个竞争非常激烈的位置
+Dialogue: 0,0:03:42.79,0:03:47.04,1080P-shss-90,,0,0,0,,{\blur4}而它现在已经到了一个竞争非常激烈的位置
 Dialogue: 0,0:03:47.04,0:03:51.54,1080P-sgbd-42,,0,0,0,,{\blur4}and they can ill afford to have a failure like this on their chart.
-Dialogue: 0,0:03:47.04,0:03:51.54,1080P-shss-90,,0,0,0,,{\blur4}他们不能承受在他们的任务表上出现这样的失败
+Dialogue: 0,0:03:47.04,0:03:51.54,1080P-shss-90,,0,0,0,,{\blur4}而他们不能承受在任务表上出现这样的失败
 Dialogue: 0,0:03:52.23,0:03:57.88,1080P-sgbd-42,,0,0,0,,{\blur4}Now on the bright side Rocket Lab have confirmed that they've got the booster.
-Dialogue: 0,0:03:52.23,0:03:57.88,1080P-shss-90,,0,0,0,,{\blur4}现在好的一面是 火箭实验室已经确认他们找到了助推器
+Dialogue: 0,0:03:52.23,0:03:57.88,1080P-shss-90,,0,0,0,,{\blur4}那么好的一面是 火箭实验室已经确认他们找到了助推器
 Dialogue: 0,0:03:57.90,0:04:00.23,1080P-sgbd-42,,0,0,0,,{\blur4}The booster landed safely in the ocean.
 Dialogue: 0,0:03:57.90,0:04:00.23,1080P-shss-90,,0,0,0,,{\blur4}助推器安全地降落在了海里
 Dialogue: 0,0:04:00.56,0:04:03.20,1080P-sgbd-42,,0,0,0,,{\blur4}And they're working on recovery operations right now.
@@ -164,7 +167,7 @@ Dialogue: 0,0:04:12.15,0:04:15.76,1080P-shss-90,,0,0,0,,{\blur4}因为我们在�
 Dialogue: 0,0:04:15.76,0:04:17.91,1080P-sgbd-42,,0,0,0,,{\blur4}And this was a marvelous piece of video.
 Dialogue: 0,0:04:15.76,0:04:17.91,1080P-shss-90,,0,0,0,,{\blur4}而这是一段非凡的视频
 Dialogue: 0,0:04:17.91,0:04:22.88,1080P-sgbd-42,,0,0,0,,{\blur4}It looks beautiful watching the rocket separate off cleanly and then light its engine
-Dialogue: 0,0:04:17.91,0:04:22.88,1080P-shss-90,,0,0,0,,{\blur4}火箭干净利落地分离 然后点燃它的引擎的画面十分美妙
+Dialogue: 0,0:04:17.91,0:04:22.88,1080P-shss-90,,0,0,0,,{\blur4}火箭干净利落地分离 然后点燃它的发动机的画面十分美妙
 Dialogue: 0,0:04:22.88,0:04:27.36,1080P-sgbd-42,,0,0,0,,{\blur4}and you can hear that even although it's near vacuum of space
 Dialogue: 0,0:04:22.88,0:04:27.36,1080P-shss-90,,0,0,0,,{\blur4}尽管它在接近真空的空间里 你也可以听到声音
 Dialogue: 0,0:04:27.36,0:04:33.02,1080P-sgbd-42,,0,0,0,,{\blur4}because of course the rocket exhaust is gas pressure and that's what's driving the microphones.
@@ -172,42 +175,41 @@ Dialogue: 0,0:04:27.36,0:04:33.02,1080P-shss-90,,0,0,0,,{\blur4}因为火箭的�
 Dialogue: 0,0:04:33.36,0:04:37.26,1080P-sgbd-42,,0,0,0,,{\blur4}Now if they choose to share this and I'm not sure they will
 Dialogue: 0,0:04:33.36,0:04:37.26,1080P-shss-90,,0,0,0,,{\blur4}现在 如果他们选择分享这个视频 我不确定他们会这样做
 Dialogue: 0,0:04:37.68,0:04:39.68,1080P-sgbd-42,,0,0,0,,{\blur4}we would see this thing separate cleanly
-Dialogue: 0,0:04:37.68,0:04:39.68,1080P-shss-90,,0,0,0,,{\blur4}我们会看到火箭干净地分开 之后
+Dialogue: 0,0:04:37.68,0:04:39.68,1080P-shss-90,,0,0,0,,{\blur4}我们会看到火箭干净利落地分开
 Dialogue: 0,0:04:39.68,0:04:46.18,1080P-sgbd-42,,0,0,0,,{\blur4}and then possibly the nozzle vector over and the thing light up and start spinning out of control.
-Dialogue: 0,0:04:39.68,0:04:46.18,1080P-shss-90,,0,0,0,,{\blur4}可能是喷嘴的矢量运动 然后变亮 二级开始失去控制地旋转
+Dialogue: 0,0:04:39.68,0:04:46.18,1080P-shss-90,,0,0,0,,{\blur4}之后可能是喷嘴的矢量运动 然后发动机点火 二级开始失控并旋转
 Dialogue: 0,0:04:48.28,0:04:50.44,1080P-sgbd-42,,0,0,0,,{\blur4}I think that would confirm everything we knew
 Dialogue: 0,0:04:48.28,0:04:50.44,1080P-shss-90,,0,0,0,,{\blur4}我认为那将证实我们所知道的一切
 Dialogue: 0,0:04:50.47,0:04:53.52,1080P-sgbd-42,,0,0,0,,{\blur4}but if they don't want to share it, it would be totally understandable.
-Dialogue: 0,0:04:50.47,0:04:53.52,1080P-shss-90,,0,0,0,,{\blur4}但如果他们不想分享 这也是完全可以理解的
+Dialogue: 0,0:04:50.47,0:04:53.52,1080P-shss-90,,0,0,0,,{\blur4}但如果他们不想分享 那也是完全可以理解的
 Dialogue: 0,0:04:53.52,0:04:56.00,1080P-sgbd-42,,0,0,0,,{\blur4}They are in a commercial organization
-Dialogue: 0,0:04:53.52,0:04:56.00,1080P-shss-90,,0,0,0,,{\blur4}他们是一个商业组织
+Dialogue: 0,0:04:53.52,0:04:56.00,1080P-shss-90,,0,0,0,,{\blur4}他们是一个商业公司
 Dialogue: 0,0:04:56.68,0:04:59.80,1080P-sgbd-42,,0,0,0,,{\blur4}and they can ill afford bad news, right.
 Dialogue: 0,0:04:56.68,0:04:59.80,1080P-shss-90,,0,0,0,,{\blur4}他们不能承受坏消息的巨大影响 对吧
 Dialogue: 0,0:04:59.83,0:05:04.38,1080P-sgbd-42,,0,0,0,,{\blur4}So Rocket Lab have been hugely successful in the small site launch market.
-Dialogue: 0,0:04:59.83,0:05:04.38,1080P-shss-90,,0,0,0,,{\blur4}火箭实验室在小卫星发射市场上取得了巨大的成功
+Dialogue: 0,0:04:59.83,0:05:04.38,1080P-shss-90,,0,0,0,,{\blur4}那么火箭实验室在小卫星发射市场上取得了巨大的成功
 Dialogue: 0,0:05:04.42,0:05:07.68,1080P-sgbd-42,,0,0,0,,{\blur4}They are pretty much the de facto launcher for small vehicles now
-Dialogue: 0,0:05:04.42,0:05:07.68,1080P-shss-90,,0,0,0,,{\blur4}事实上他们现在差不多就是小型航天器的发射商
+Dialogue: 0,0:05:04.42,0:05:07.68,1080P-shss-90,,0,0,0,,{\blur4}事实上他们现在差不多就是小型航天器的(专属)发射商了
 Dialogue: 0,0:05:08.00,0:05:10.63,1080P-sgbd-42,,0,0,0,,{\blur4}but there's competitors now coming into this space
-Dialogue: 0,0:05:08.00,0:05:10.63,1080P-shss-90,,0,0,0,,{\blur4}但现在有竞争对手进入这一领域
+Dialogue: 0,0:05:08.00,0:05:10.63,1080P-shss-90,,0,0,0,,{\blur4}但现在有竞争对手进入了这一领域
 Dialogue: 0,0:05:10.63,0:05:14.12,1080P-sgbd-42,,0,0,0,,{\blur4}that have actually succeeded in demonstrating launch capabilities.
-Dialogue: 0,0:05:10.63,0:05:14.12,1080P-shss-90,,0,0,0,,{\blur4}并已经实际成功地展示了他们的发射能力
+Dialogue: 0,0:05:10.63,0:05:14.12,1080P-shss-90,,0,0,0,,{\blur4}实际上 已经成功地验证了他们的发射能力
 Dialogue: 0,0:05:14.14,0:05:16.02,1080P-sgbd-42,,0,0,0,,{\blur4}The Virgin Orbit have done this
 Dialogue: 0,0:05:14.14,0:05:16.02,1080P-shss-90,,0,0,0,,{\blur4}维珍轨道公司已经做到了这一点
 Dialogue: 0,0:05:16.63,0:05:22.23,1080P-sgbd-42,,0,0,0,,{\blur4}and Astra have got so close that everyone expects the next one to actually fly to orbit.
-Dialogue: 0,0:05:16.63,0:05:22.23,1080P-shss-90,,0,0,0,,{\blur4}阿斯特拉进展大到所有人都认为它将是下一个做到这点的公司
+Dialogue: 0,0:05:16.63,0:05:22.23,1080P-shss-90,,0,0,0,,{\blur4}而阿斯特拉的进展 大到所有人都认为它将是下一个做到这点的公司
 Dialogue: 0,0:05:22.52,0:05:25.36,1080P-sgbd-42,,0,0,0,,{\blur4}So there's competition at the low end of the market
 Dialogue: 0,0:05:22.52,0:05:25.36,1080P-shss-90,,0,0,0,,{\blur4}因此 在低端市场上存在着竞争
-Dialogue: 0,0:05:25.36,0:05:32.74,1080P-sgbd-42,,0,0,0,,{\blur4}but equally Rocket Lab are also losing a number of small sat launches to the Rideshare option that SpaceX offers.
-Dialogue: 0,0:05:25.36,0:05:29.72,1080P-shss-90,,0,0,0,,{\blur4}但同样地 火箭实验室由于SpaceX的“顺风车”服务
-Dialogue: 0,0:05:29.72,0:05:32.74,1080P-shss-90,,0,0,0,,{\blur4}也失去了很多订单
+Dialogue: 0,0:05:25.36,0:05:32.74,1080P-sgbd-42,,0,0,0,,{\blur4\fs40}but equally Rocket Lab are also losing a number of small sat launches to the Rideshare option that SpaceX offers.
+Dialogue: 0,0:05:25.36,0:05:32.74,1080P-shss-90,,0,0,0,,{\blur4\fs80}但同样地 火箭实验室由于SpaceX的搭车服务 也失去了很多小卫星发射订单
 Dialogue: 0,0:05:33.20,0:05:35.34,1080P-sgbd-42,,0,0,0,,{\blur4}Now that's not for everyone, right.
 Dialogue: 0,0:05:33.20,0:05:35.34,1080P-shss-90,,0,0,0,,{\blur4}但那并不适合所有人 对吧
 Dialogue: 0,0:05:35.34,0:05:37.31,1080P-sgbd-42,,0,0,0,,{\blur4}If you're going on a Rideshare it may be cheaper
-Dialogue: 0,0:05:35.34,0:05:37.31,1080P-shss-90,,0,0,0,,{\blur4}搭“顺风车” 发射可能更便宜
+Dialogue: 0,0:05:35.34,0:05:37.31,1080P-shss-90,,0,0,0,,{\blur4}搭车发射可能更便宜
 Dialogue: 0,0:05:37.34,0:05:39.52,1080P-sgbd-42,,0,0,0,,{\blur4}but you have to fly with a lot of other satellites
 Dialogue: 0,0:05:37.34,0:05:39.52,1080P-shss-90,,0,0,0,,{\blur4}但你必须与许多其他卫星一起发射
 Dialogue: 0,0:05:39.52,0:05:43.82,1080P-sgbd-42,,0,0,0,,{\blur4}which may smell or out gas as they say in the technical terms.
-Dialogue: 0,0:05:39.52,0:05:43.82,1080P-shss-90,,0,0,0,,{\blur4}这过程中 这些卫星可能受到其他卫星排出的气体的影响
+Dialogue: 0,0:05:39.52,0:05:43.82,1080P-shss-90,,0,0,0,,{\blur4}在这过程中 技术上来说 可能受到其他卫星的影响
 Dialogue: 0,0:05:44.08,0:05:47.19,1080P-sgbd-42,,0,0,0,,{\blur4}And then you may not get to pick the exact orbit you want.
 Dialogue: 0,0:05:44.08,0:05:47.19,1080P-shss-90,,0,0,0,,{\blur4}然后你就可能无法达到你想要的确切轨道
 Dialogue: 0,0:05:47.19,0:05:50.08,1080P-sgbd-42,,0,0,0,,{\blur4}So that works for some people but it doesn't work for everyone.
@@ -217,53 +219,53 @@ Dialogue: 0,0:05:50.08,0:05:53.12,1080P-shss-90,,0,0,0,,{\blur4}因此不难看�
 Dialogue: 0,0:05:53.12,0:05:57.44,1080P-sgbd-42,,0,0,0,,{\blur4}they were going to become publicly traded that the money they were going to get at from that
 Dialogue: 0,0:05:53.12,0:05:57.44,1080P-shss-90,,0,0,0,,{\blur4}他们将成为上市公司 为的是将从市场中筹得的资金
 Dialogue: 0,0:05:57.44,0:06:00.61,1080P-sgbd-42,,0,0,0,,{\blur4}was going to be invested in a bigger rocket the Neutron
-Dialogue: 0,0:05:57.44,0:06:00.61,1080P-shss-90,,0,0,0,,{\blur4}投资于更大的 "中子号“火箭的研发生产中
+Dialogue: 0,0:05:57.44,0:06:00.61,1080P-shss-90,,0,0,0,,{\blur4}投资到更大的中子火箭的研制中
 Dialogue: 0,0:06:00.66,0:06:04.08,1080P-sgbd-42,,0,0,0,,{\blur4}which should be able to carry 8 tons to orbit.
-Dialogue: 0,0:06:00.66,0:06:04.08,1080P-shss-90,,0,0,0,,{\blur4}该火箭应能携带8吨重的物品进入轨道
+Dialogue: 0,0:06:00.66,0:06:04.08,1080P-shss-90,,0,0,0,,{\blur4}这枚火箭应能携带8吨重的载荷进入轨道
 Dialogue: 0,0:06:04.08,0:06:07.34,1080P-sgbd-42,,0,0,0,,{\blur4}Rocket Lab also have developed spacecraft buses
-Dialogue: 0,0:06:04.08,0:06:07.34,1080P-shss-90,,0,0,0,,{\blur4}火箭实验室还开发了航天器平台
+Dialogue: 0,0:06:04.08,0:06:07.34,1080P-shss-90,,0,0,0,,{\blur4}火箭实验室还开发了航天器平台(总线)
 Dialogue: 0,0:06:07.35,0:06:11.55,1080P-sgbd-42,,0,0,0,,{\blur4}that can work in low earth orbit or even go to the moon or Venus.
-Dialogue: 0,0:06:07.35,0:06:11.55,1080P-shss-90,,0,0,0,,{\blur4}可以在低地球轨道工作 甚至可以去月球或金星
+Dialogue: 0,0:06:07.35,0:06:11.55,1080P-shss-90,,0,0,0,,{\blur4}可以在近地球轨道工作 甚至可以去月球或金星
 Dialogue: 0,0:06:11.58,0:06:16.76,1080P-sgbd-42,,0,0,0,,{\blur4}The Photon spacecraft is something that SpaceX doesn't have anything like this for
-Dialogue: 0,0:06:11.58,0:06:16.76,1080P-shss-90,,0,0,0,,{\blur4}“光子”这种航天器平台 是SpaceX没有的东西
+Dialogue: 0,0:06:11.58,0:06:16.76,1080P-shss-90,,0,0,0,,{\blur4}光子这种航天器平台 是SpaceX所没有的东西
 Dialogue: 0,0:06:16.77,0:06:22.74,1080P-sgbd-42,,0,0,0,,{\blur4}and it's a very attractive feature if you're wanting to develop sensors to go to either of those destinations
-Dialogue: 0,0:06:16.77,0:06:22.74,1080P-shss-90,,0,0,0,,{\blur4}如果你想开发去往这些地点的仪器 这一功能非常有吸引力
+Dialogue: 0,0:06:16.77,0:06:22.74,1080P-shss-90,,0,0,0,,{\blur4}而如果你想开发前往这些地点的传感器 这一功能就非常有吸引力
 Dialogue: 0,0:06:22.75,0:06:28.47,1080P-sgbd-42,,0,0,0,,{\blur4}so Rocket Lab is a organization which is pretty well diversified in this front
-Dialogue: 0,0:06:22.75,0:06:28.47,1080P-shss-90,,0,0,0,,{\blur4}所以火箭实验室是一个在这方面多样的组织
+Dialogue: 0,0:06:22.75,0:06:28.47,1080P-shss-90,,0,0,0,,{\blur4}所以火箭实验室是一个在这方面经营多样化的组织
 Dialogue: 0,0:06:28.47,0:06:30.33,1080P-sgbd-42,,0,0,0,,{\blur4}and I think they're doing great
-Dialogue: 0,0:06:28.47,0:06:30.33,1080P-shss-90,,0,0,0,,{\blur4}我认为他们做得很好
+Dialogue: 0,0:06:28.47,0:06:30.33,1080P-shss-90,,0,0,0,,{\blur4}而我认为他们做得很好
 Dialogue: 0,0:06:30.36,0:06:34.72,1080P-sgbd-42,,0,0,0,,{\blur4}and it's unfortunate that they've had this anomaly.
 Dialogue: 0,0:06:30.36,0:06:34.72,1080P-shss-90,,0,0,0,,{\blur4}很不幸的是 他们在这次发射中出现了这种异常情况
 Dialogue: 0,0:06:34.72,0:06:36.08,1080P-sgbd-42,,0,0,0,,{\blur4}I mean we call it an anomaly.
-Dialogue: 0,0:06:34.72,0:06:36.08,1080P-shss-90,,0,0,0,,{\blur4}我的意思是 我们称之为异常情况
+Dialogue: 0,0:06:34.72,0:06:36.08,1080P-shss-90,,0,0,0,,{\blur4}我是指 我们称之为异常情况
 Dialogue: 0,0:06:36.10,0:06:37.19,1080P-sgbd-42,,0,0,0,,{\blur4}When I hear the word anomaly
-Dialogue: 0,0:06:36.10,0:06:37.19,1080P-shss-90,,0,0,0,,{\blur4}当我听到“异常”这个词时
+Dialogue: 0,0:06:36.10,0:06:37.19,1080P-shss-90,,0,0,0,,{\blur4}当我听到{\i1}异常{\i0} 这个词时
 Dialogue: 0,0:06:37.19,0:06:40.63,1080P-sgbd-42,,0,0,0,,{\blur4}I think of the delta II taking off and exploding
-Dialogue: 0,0:06:37.19,0:06:40.63,1080P-shss-90,,0,0,0,,{\blur4}我就会想到德尔塔二号的起飞后的爆炸
+Dialogue: 0,0:06:37.19,0:06:40.63,1080P-shss-90,,0,0,0,,{\blur4}我就会想到德尔塔二号的起飞后爆炸
 Dialogue: 0,0:06:40.63,0:06:44.78,1080P-sgbd-42,,0,0,0,,{\blur4}and then the voice of the public affairs officer saying we've had an anomaly.
-Dialogue: 0,0:06:40.63,0:06:44.78,1080P-shss-90,,0,0,0,,{\blur4}然后公共事务官员说 我们出现了异常情况
+Dialogue: 0,0:06:40.63,0:06:44.78,1080P-shss-90,,0,0,0,,{\blur4}然后公共事务官就说 我们出现了异常情况
 Dialogue: 0,0:06:45.09,0:06:47.35,1080P-sgbd-42,,0,0,0,,{\blur4}We have had an anomaly.
-Dialogue: 0,0:06:45.09,0:06:47.35,1080P-shss-90,,0,0,0,,{\blur4}“我们有一个异常情况”
+Dialogue: 0,0:06:45.09,0:06:47.35,1080P-shss-90,,0,0,0,,{\blur4}我们出现了异常情况
 Dialogue: 0,0:06:48.00,0:06:48.93,1080P-sgbd-42,,0,0,0,,{\blur4}No kidding, right.
 Dialogue: 0,0:06:48.00,0:06:48.93,1080P-shss-90,,0,0,0,,{\blur4}别开玩笑了 对吧
 Dialogue: 0,0:06:50.60,0:06:53.70,1080P-sgbd-42,,0,0,0,,{\blur4}But yeah I mean I'll take that by the way any day.
 Dialogue: 0,0:06:50.60,0:06:53.70,1080P-shss-90,,0,0,0,,{\blur4}但是是的 我的意思是 我随时都会接受这个说法
+Dialogue: 0,0:06:53.84,0:06:55.84,1080P-sgbd-42,,0,0,0,,{\blur4}over China's approach
 Dialogue: 0,0:06:53.84,0:06:55.84,1080P-shss-90,,0,0,0,,{\blur4}相较中国闷声大发财的做法
-Dialogue: 0,0:06:53.84,0:06:55.84,Default,,0,0,0,,{\blur4}over China's approach
 Dialogue: 0,0:06:55.84,0:06:59.75,1080P-sgbd-42,,0,0,0,,{\blur4}which I've got to mention China successfully landed on Mars yesterday
-Dialogue: 0,0:06:55.84,0:06:59.75,1080P-shss-90,,0,0,0,,{\blur4}我顺便得提一下 中国昨天成功地在火星上登陆了
+Dialogue: 0,0:06:55.84,0:06:59.75,1080P-shss-90,,0,0,0,,{\blur4}我顺便得提一下 中国昨天成功地在火星上着陆了
 Dialogue: 0,0:06:59.75,0:07:01.59,1080P-sgbd-42,,0,0,0,,{\blur4}and depending how you count it
-Dialogue: 0,0:06:59.75,0:07:01.59,1080P-shss-90,,0,0,0,,{\blur4}而且取决于不同的计算方法
+Dialogue: 0,0:06:59.75,0:07:01.59,1080P-shss-90,,0,0,0,,{\blur4}而且取决于你的计算方法
 Dialogue: 0,0:07:01.59,0:07:06.63,1080P-sgbd-42,,0,0,0,,{\blur4}they are either the second, third or fourth nation to soft land something on Mars.
-Dialogue: 0,0:07:01.59,0:07:06.63,1080P-shss-90,,0,0,0,,{\blur4}他们可以是第二、第三或第四个在火星上着陆的国家
+Dialogue: 0,0:07:01.59,0:07:06.63,1080P-shss-90,,0,0,0,,{\blur4}他们可以是第二 第三或第四个在火星上着陆的国家
 Dialogue: 0,0:07:09.49,0:07:13.56,1080P-sgbd-42,,0,0,0,,{\blur4}But yeah they had the Tianwen spacecraft in Mars orbit right now.
-Dialogue: 0,0:07:09.49,0:07:13.56,1080P-shss-90,,0,0,0,,{\blur4}是的 他们的 "天问 "号探测器现在就在火星轨道上
+Dialogue: 0,0:07:09.49,0:07:13.56,1080P-shss-90,,0,0,0,,{\blur4}是的 他们的天问轨道器现在就在火星轨道上
 Dialogue: 0,0:07:13.58,0:07:15.84,1080P-sgbd-42,,0,0,0,,{\blur4}The lander is called Zhurong.
-Dialogue: 0,0:07:13.58,0:07:15.84,1080P-shss-90,,0,0,0,,{\blur4}着陆器被称为 "祝融"
+Dialogue: 0,0:07:13.58,0:07:15.84,1080P-shss-90,,0,0,0,,{\blur4}着陆器被称为祝融
 Dialogue: 0,0:07:15.92,0:07:20.40,1080P-sgbd-42,,0,0,0,,{\blur4}And we actually knew that it was going to be landing
 Dialogue: 0,0:07:15.92,0:07:20.40,1080P-shss-90,,0,0,0,,{\blur4}而我们实际上知道它将会登陆
 Dialogue: 0,0:07:20.40,0:07:26.08,1080P-sgbd-42,,0,0,0,,{\blur4}because amateur satellite nerds had their receivers pointed at Mars
-Dialogue: 0,0:07:20.40,0:07:26.08,1080P-shss-90,,0,0,0,,{\blur4}因为业余的卫星爱好者把他们的接收器对准火星
+Dialogue: 0,0:07:20.40,0:07:26.08,1080P-shss-90,,0,0,0,,{\blur4}因为业余的卫星爱好者把他们的接收器对准了火星
 Dialogue: 0,0:07:26.08,0:07:29.84,1080P-sgbd-42,,0,0,0,,{\blur4}and they could actually see the carrier signal from this spacecraft
 Dialogue: 0,0:07:26.08,0:07:29.84,1080P-shss-90,,0,0,0,,{\blur4}实际上他们可以收到来自这个航天器的载波信号
 Dialogue: 0,0:07:29.84,0:07:33.66,1080P-sgbd-42,,0,0,0,,{\blur4}and they could see that it changed as it began the de-orbit burn
@@ -280,53 +282,53 @@ Dialogue: 0,0:07:48.00,0:07:51.59,1080P-sgbd-42,,0,0,0,,{\blur4}Look so obviousl
 Dialogue: 0,0:07:48.00,0:07:51.59,1080P-shss-90,,0,0,0,,{\blur4}祝贺中国做到了这一点
 Dialogue: 0,0:07:51.59,0:07:56.87,1080P-sgbd-42,,0,0,0,,{\blur4}I wish you were a little more self-confident and could perhaps handle some criticism.
 Dialogue: 0,0:07:51.59,0:07:56.87,1080P-shss-90,,0,0,0,,{\blur4}我希望你能更自信一点 这也许能减少一些批评
-Dialogue: 0,0:07:57.06,0:08:01.88,1080P-sgbd-42,,0,0,0,,{\blur4}And I am actually really interested in what the ground penetrating radar on the rover delivers
-Dialogue: 0,0:07:57.06,0:08:01.88,1080P-shss-90,,0,0,0,,{\blur4}实际上 我对漫游车上的地面穿透雷达非常感兴趣
+Dialogue: 0,0:07:57.06,0:08:01.88,1080P-sgbd-42,,0,0,0,,{\blur4\pos(960,170)}And I am actually really interested in what the ground penetrating radar on the rover delivers
+Dialogue: 0,0:07:57.06,0:08:01.88,1080P-shss-90,,0,0,0,,{\blur4\pos(808,847)}实际上 我对漫游车上的次表层雷达非常感兴趣
 Dialogue: 0,0:08:01.91,0:08:04.96,1080P-sgbd-42,,0,0,0,,{\blur4}because I don't think we've seen anything like that on Mars before
-Dialogue: 0,0:08:01.91,0:08:04.96,1080P-shss-90,,0,0,0,,{\blur4}因为我不认为我们以前的火星探测器有这种仪器
+Dialogue: 0,0:08:01.91,0:08:04.96,1080P-shss-90,,0,0,0,,{\blur4}因为我不认为以前的火星探测器有这种仪器
 Dialogue: 0,0:08:04.96,0:08:07.44,1080P-sgbd-42,,0,0,0,,{\blur4}and obviously we're looking at a surface most of the time
-Dialogue: 0,0:08:04.96,0:08:07.44,1080P-shss-90,,0,0,0,,{\blur4}很明显 我们大部分时间都是在看火星的表面
+Dialogue: 0,0:08:04.96,0:08:07.44,1080P-shss-90,,0,0,0,,{\blur4}而且很明显 我们大部分时间都是在观察火星的表面
 Dialogue: 0,0:08:07.44,0:08:11.37,1080P-sgbd-42,,0,0,0,,{\blur4}but Mars has layers. It has depth and that could be some interesting stuff.
 Dialogue: 0,0:08:07.44,0:08:11.37,1080P-shss-90,,0,0,0,,{\blur4}但是火星地表有层次 它有深度 这可能带来一些有趣的东西
 Dialogue: 0,0:08:12.00,0:08:16.31,1080P-sgbd-42,,0,0,0,,{\blur4}On Rocket Lab side, unfortunately you lost that.
-Dialogue: 0,0:08:12.00,0:08:16.31,1080P-shss-90,,0,0,0,,{\blur4}关于火箭实验室方面 很不幸你们这次因故障失败了
+Dialogue: 0,0:08:12.00,0:08:16.31,1080P-shss-90,,0,0,0,,{\blur4}关于火箭实验室方面 为你们这次发射失败感到不幸
 Dialogue: 0,0:08:16.31,0:08:20.77,1080P-sgbd-42,,0,0,0,,{\blur4}I really hope the booster comes back and we get to see some more about how that works
-Dialogue: 0,0:08:16.31,0:08:20.77,1080P-shss-90,,0,0,0,,{\blur4}我真心希望助推器能成功回收 我们能看到造成事故的原因
+Dialogue: 0,0:08:16.31,0:08:20.77,1080P-shss-90,,0,0,0,,{\blur4}我真心希望助推器能成功回收 同时能找到造成事故的原因
 Dialogue: 0,0:08:21.36,0:08:24.80,1080P-sgbd-42,,0,0,0,,{\blur4}Rocket Lab their booster landing isn't like SpaceX.
 Dialogue: 0,0:08:21.36,0:08:24.80,1080P-shss-90,,0,0,0,,{\blur4}火箭实验室他们的助推器着陆不像SpaceX那样
 Dialogue: 0,0:08:24.80,0:08:29.44,1080P-sgbd-42,,0,0,0,,{\blur4}They ditched the booster or they detached the second stage at roughly the same time
-Dialogue: 0,0:08:24.80,0:08:29.44,1080P-shss-90,,0,0,0,,{\blur4}他们在大致相同的时间被抛弃 或者说脱离了第二级
+Dialogue: 0,0:08:24.80,0:08:29.44,1080P-shss-90,,0,0,0,,{\blur4}他们在大致相同的时间进行了一二级分离
 Dialogue: 0,0:08:29.44,0:08:31.94,1080P-sgbd-42,,0,0,0,,{\blur4}oh and by the way if you look at the telemetry
 Dialogue: 0,0:08:29.44,0:08:31.94,1080P-shss-90,,0,0,0,,{\blur4}哦 顺便说一下 如果你看一下遥测数据
 Dialogue: 0,0:08:32.57,0:08:35.36,1080P-sgbd-42,,0,0,0,,{\blur4}somebody pointed out that during the ascent
 Dialogue: 0,0:08:32.57,0:08:35.36,1080P-shss-90,,0,0,0,,{\blur4}有人指出 在上升过程中
 Dialogue: 0,0:08:36.88,0:08:41.12,1080P-sgbd-42,,0,0,0,,{\blur4}they throttle back the engines to maintain 3G during the launch last night
-Dialogue: 0,0:08:36.88,0:08:41.12,1080P-shss-90,,0,0,0,,{\blur4}他们在昨晚的发射中调节引擎的节流阀以维持3G的加速度
+Dialogue: 0,0:08:36.88,0:08:41.12,1080P-shss-90,,0,0,0,,{\blur4}他们在昨晚的发射中节流发动机以维持3G的加速度
 Dialogue: 0,0:08:41.12,0:08:44.80,1080P-sgbd-42,,0,0,0,,{\blur4}whereas previous launches they've just kept the thing accelerating faster and faster
 Dialogue: 0,0:08:41.12,0:08:44.80,1080P-shss-90,,0,0,0,,{\blur4}而以前的发射 他们只是让火箭加速度越来越快
 Dialogue: 0,0:08:44.80,0:08:48.32,1080P-sgbd-42,,0,0,0,,{\blur4}and I don't know if that's something the customer requested
-Dialogue: 0,0:08:44.80,0:08:48.32,1080P-shss-90,,0,0,0,,{\blur4}我不知道这是否是客户的要求
+Dialogue: 0,0:08:44.80,0:08:48.32,1080P-shss-90,,0,0,0,,{\blur4}而我不知道这是否是客户的要求
 Dialogue: 0,0:08:48.32,0:08:53.90,1080P-sgbd-42,,0,0,0,,{\blur4}or if it's something that's being done to perhaps make the re-entry interface a little smoother
-Dialogue: 0,0:08:48.32,0:08:53.90,1080P-shss-90,,0,0,0,,{\blur4}或者说是为了助推器使再入大气层更顺畅而做的事情
+Dialogue: 0,0:08:48.32,0:08:53.90,1080P-shss-90,,0,0,0,,{\blur4}或者说是为了让助推器再入大气层更顺利而做的事情
 Dialogue: 0,0:08:55.14,0:08:59.44,1080P-sgbd-42,,0,0,0,,{\blur4}but I mean the boosters that Rocket Lab recover
-Dialogue: 0,0:08:55.14,0:08:59.44,1080P-shss-90,,0,0,0,,{\blur4}我的意思是说 火箭实验室回收的助推器
+Dialogue: 0,0:08:55.14,0:08:59.44,1080P-shss-90,,0,0,0,,{\blur4}但我是指 火箭实验室回收的助推器
 Dialogue: 0,0:08:59.44,0:09:02.31,1080P-sgbd-42,,0,0,0,,{\blur4}they fall through the atmosphere unprotected.
 Dialogue: 0,0:08:59.44,0:09:02.31,1080P-shss-90,,0,0,0,,{\blur4}它在没有被保护的情况下穿过大气层
 Dialogue: 0,0:09:02.36,0:09:07.95,1080P-sgbd-42,,0,0,0,,{\blur4}They're not going to do an entry burn to slow them down to make the entry a little less rocky.
-Dialogue: 0,0:09:02.36,0:09:07.95,1080P-shss-90,,0,0,0,,{\blur4}它不会进行点火操作来降低再入速度 以使再入时更稳定
+Dialogue: 0,0:09:02.36,0:09:07.95,1080P-shss-90,,0,0,0,,{\blur4}它不会进行再入点火来减少再入速度这样来使得再入时更稳定
 Dialogue: 0,0:09:08.72,0:09:13.76,1080P-sgbd-42,,0,0,0,,{\blur4}They use parachutes and then drogue parachutes and then large parachutes to land themselves in the ocean
-Dialogue: 0,0:09:08.72,0:09:13.76,1080P-shss-90,,0,0,0,,{\blur4}它使用降落伞 引导伞和大型降落伞 来让自己降落在海洋里
+Dialogue: 0,0:09:08.72,0:09:13.76,1080P-shss-90,,0,0,0,,{\blur4}它会使用降落伞 也就是引导伞和大型降落伞 来让自己降落在海洋里
 Dialogue: 0,0:09:13.82,0:09:20.04,1080P-sgbd-42,,0,0,0,,{\blur4}and if they can demonstrate that it can handle re-entry and be flyable after that
-Dialogue: 0,0:09:13.82,0:09:20.04,1080P-shss-90,,0,0,0,,{\blur4}如果他们能证明它能够撑过再入大气层 回收后重复使用
+Dialogue: 0,0:09:13.82,0:09:20.04,1080P-shss-90,,0,0,0,,{\blur4}而如果他们能验证再入大气层的能力 同时还能在回收后重复使用
 Dialogue: 0,0:09:20.44,0:09:25.51,1080P-sgbd-42,,0,0,0,,{\blur4}then the next step will be to capture those boosters as they fall with a helicopter
 Dialogue: 0,0:09:20.44,0:09:25.51,1080P-shss-90,,0,0,0,,{\blur4}他们下一步将会在这些助推器下落时用直升机捕获它们
 Dialogue: 0,0:09:25.51,0:09:30.10,1080P-sgbd-42,,0,0,0,,{\blur4}so that they don't touch the ocean and so they are much easier to clean up and reuse.
-Dialogue: 0,0:09:25.51,0:09:30.10,1080P-shss-90,,0,0,0,,{\blur4}这样它就不会接触到海水 使清理和重新使用更加容易
+Dialogue: 0,0:09:25.51,0:09:30.10,1080P-shss-90,,0,0,0,,{\blur4}这样就不会接触到海水 使得清理和重复使用更加容易
 Dialogue: 0,0:09:30.12,0:09:31.81,1080P-sgbd-42,,0,0,0,,{\blur4}And that would be great.
-Dialogue: 0,0:09:30.12,0:09:31.81,1080P-shss-90,,0,0,0,,{\blur4}这将会很好
+Dialogue: 0,0:09:30.12,0:09:31.81,1080P-shss-90,,0,0,0,,{\blur4}而那将会很好
 Dialogue: 0,0:09:32.08,0:09:36.16,1080P-sgbd-42,,0,0,0,,{\blur4}So yeah I hope that some success comes from this flight for you Rocket Lab.
-Dialogue: 0,0:09:32.08,0:09:36.16,1080P-shss-90,,0,0,0,,{\blur4}所以 我希望你们火箭实验室能在这次飞行中能取得部分成功
+Dialogue: 0,0:09:32.08,0:09:36.16,1080P-shss-90,,0,0,0,,{\blur4}所以 我希望火箭实验室能在这次发射中能得到部分成功
 Dialogue: 0,0:09:36.30,0:09:38.29,1080P-sgbd-42,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
 Dialogue: 0,0:09:36.30,0:09:38.29,1080P-shss-90,,0,0,0,,{\blur4}我是Scott Manley 切记 注意飞行安全
-Dialogue: 0,0:09:38.31,0:09:57.07,1080P-shss-90,,0,0,0,,{\blur4}[Music]
-Dialogue: 0,0:09:38.31,0:09:57.07,1080P-shss-90,,0,0,0,,{\blur4}[音乐]
+Dialogue: 0,0:09:38.31,0:09:57.07,1080P-sgbd-4s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:09:38.31,0:09:57.07,1080P-sgsm-6s,,0,0,0,,{\blur4}[音乐]
