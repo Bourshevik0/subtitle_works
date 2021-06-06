@@ -14,6 +14,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-sgsm-50,更纱黑体 SC Semibold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
 Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,10,134
+Style: 1080P-sgbd-4s,更纱黑体 SC,42,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H80000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -263,7 +265,7 @@ Dialogue: 0,0:07:09.49,0:07:13.56,1080P-shss-90,,0,0,0,,{\blur4}是的 他们的
 Dialogue: 0,0:07:13.58,0:07:15.84,1080P-sgbd-42,,0,0,0,,{\blur4}The lander is called Zhurong.
 Dialogue: 0,0:07:13.58,0:07:15.84,1080P-shss-90,,0,0,0,,{\blur4}着陆器被称为祝融
 Dialogue: 0,0:07:15.92,0:07:20.40,1080P-sgbd-42,,0,0,0,,{\blur4}And we actually knew that it was going to be landing
-Dialogue: 0,0:07:15.92,0:07:20.40,1080P-shss-90,,0,0,0,,{\blur4}而我们实际上知道它将会登陆
+Dialogue: 0,0:07:15.92,0:07:20.40,1080P-shss-90,,0,0,0,,{\blur4}而我们实际上知道它将会着陆
 Dialogue: 0,0:07:20.40,0:07:26.08,1080P-sgbd-42,,0,0,0,,{\blur4}because amateur satellite nerds had their receivers pointed at Mars
 Dialogue: 0,0:07:20.40,0:07:26.08,1080P-shss-90,,0,0,0,,{\blur4}因为业余的卫星爱好者把他们的接收器对准了火星
 Dialogue: 0,0:07:26.08,0:07:29.84,1080P-sgbd-42,,0,0,0,,{\blur4}and they could actually see the carrier signal from this spacecraft
