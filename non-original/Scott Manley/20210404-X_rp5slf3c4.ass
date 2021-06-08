@@ -22,6 +22,9 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.00,0:00:07.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Why Spinning Was A Good Trick For America's First Space Launch\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/X_rp5slf3c4\N原视频发布日期：20210404\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:01:38.72,0:01:48.72,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}双关梗，lox意为熏鲑鱼，熏鲑鱼一般和百吉圈配合食用
+Dialogue: 0,0:09:03.92,0:09:08.92,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/1n-HMSCDYtM
 Dialogue: 0,0:00:04.00,0:00:05.75,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.00,0:00:05.75,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:06.16,0:00:09.76,1080P-sgbd-42,,0,0,0,,Every time I show this film of the launch of Explorer 1
@@ -33,41 +36,41 @@ Dialogue: 0,0:00:14.07,0:00:19.72,1080P-shss-90,,0,0,0,,而这个旋转是火箭
 Dialogue: 0,0:00:19.89,0:00:26.56,1080P-sgbd-42,,0,0,0,,At the time it was really a quick hack by the army's ballistic missiles team headed by Wernher von Braun
 Dialogue: 0,0:00:19.89,0:00:26.56,1080P-shss-90,,0,0,0,,当时 这是由冯布劳恩领导的陆军弹道导弹团队发明的一个巧妙的设计
 Dialogue: 0,0:00:26.56,0:00:31.70,1080P-sgbd-42,,0,0,0,,so that they would be in a position to be able to launch a satellite into orbit before anybody else.
-Dialogue: 0,0:00:26.56,0:00:31.70,1080P-shss-90,,0,0,0,,所以使他们能够先于其他人地将卫星发射到轨道上
+Dialogue: 0,0:00:26.56,0:00:31.70,1080P-shss-90,,0,0,0,,这样 他们就能比其他人先将卫星发射到轨道上
 Dialogue: 0,0:00:32.07,0:00:34.64,1080P-sgbd-42,,0,0,0,,They had the Jupiter C rocket and they developed it
-Dialogue: 0,0:00:32.07,0:00:34.64,1080P-shss-90,,0,0,0,,他们当时有木星C火箭 并基于它开发
+Dialogue: 0,0:00:32.07,0:00:34.64,1080P-shss-90,,0,0,0,,他们当时研发了木星C火箭
 Dialogue: 0,0:00:34.64,0:00:38.23,1080P-sgbd-42,,0,0,0,,and demonstrated everything they needed to put a satellite into orbit
-Dialogue: 0,0:00:34.64,0:00:38.23,1080P-shss-90,,0,0,0,,并论证了发射卫星进入轨道所需的一切条件
+Dialogue: 0,0:00:34.64,0:00:38.23,1080P-shss-90,,0,0,0,,并验证了发射卫星入轨所需的一切步骤
 Dialogue: 0,0:00:38.46,0:00:40.89,1080P-sgbd-42,,0,0,0,,but the politics at the time was a little sensitive
 Dialogue: 0,0:00:38.46,0:00:40.89,1080P-shss-90,,0,0,0,,但当时的政治有点敏感
 Dialogue: 0,0:00:41.30,0:00:44.99,1080P-sgbd-42,,0,0,0,,and they didn't get to go until after the navy's Vanguard had failed
-Dialogue: 0,0:00:41.30,0:00:44.99,1080P-shss-90,,0,0,0,,他们直到海军的先锋号失败后才开始行动
+Dialogue: 0,0:00:41.30,0:00:44.99,1080P-shss-90,,0,0,0,,直到海军的先锋号火箭失败后 他们才开始行动
 Dialogue: 0,0:00:45.02,0:00:49.03,1080P-sgbd-42,,0,0,0,,but then they would prove the design in January of 1958.
-Dialogue: 0,0:00:45.02,0:00:49.03,1080P-shss-90,,0,0,0,,后来 他们在1958年1月证明了这个设计的成功
+Dialogue: 0,0:00:45.02,0:00:49.03,1080P-shss-90,,0,0,0,,后来 在1958年1月 他们证明了这个设计的成功
 Dialogue: 0,0:00:49.87,0:00:53.60,1080P-sgbd-42,,0,0,0,,So this spinning is all about making a rocket fly straight.
 Dialogue: 0,0:00:49.87,0:00:53.60,1080P-shss-90,,0,0,0,,因此 这种旋转为的是让火箭沿直线飞行
 Dialogue: 0,0:00:53.68,0:00:59.12,1080P-sgbd-42,,0,0,0,,Now getting your rocket engine thrust aligned perfectly with the rest of the spacecraft is never guaranteed
-Dialogue: 0,0:00:53.68,0:00:59.12,1080P-shss-90,,0,0,0,,现在 你永远无法保证火箭的推力线在其他部分的中心线上
+Dialogue: 0,0:00:53.68,0:00:59.12,1080P-shss-90,,0,0,0,,那么 你永远无法保证火箭的推力线完美地经过航天器其他部分的质心
 Dialogue: 0,0:00:59.14,0:01:03.11,1080P-sgbd-42,,0,0,0,,and if even slightly off-center then the rocket will turn
 Dialogue: 0,0:00:59.14,0:01:03.11,1080P-shss-90,,0,0,0,,如果推力稍微偏离中心 火箭就会偏转
 Dialogue: 0,0:01:03.44,0:01:06.87,1080P-sgbd-42,,0,0,0,,so by spinning the rocket stages it helps them fly straight
-Dialogue: 0,0:01:03.44,0:01:06.87,1080P-shss-90,,0,0,0,,因此 通过旋转火箭 可以帮助它们沿直线飞行
+Dialogue: 0,0:01:03.44,0:01:06.87,1080P-shss-90,,0,0,0,,因此 通过旋转火箭 有助于其沿直线飞行
 Dialogue: 0,0:01:06.91,0:01:09.68,1080P-sgbd-42,,0,0,0,,and it's a combination of the Gyroscopic effect
-Dialogue: 0,0:01:06.91,0:01:09.68,1080P-shss-90,,0,0,0,,它是陀螺仪效应的一个结合运用
+Dialogue: 0,0:01:06.91,0:01:09.68,1080P-shss-90,,0,0,0,,而这是陀螺仪效应的一个结合运用
 Dialogue: 0,0:01:09.68,0:01:15.52,1080P-sgbd-42,,0,0,0,,and the fact that if there's any off-center thrust it will be averaged out by the rotation.
-Dialogue: 0,0:01:09.68,0:01:15.52,1080P-shss-90,,0,0,0,,事实是 如果有任何偏离中心的推力 它都将被旋转向四周平均化
+Dialogue: 0,0:01:09.68,0:01:15.52,1080P-shss-90,,0,0,0,,事实是 如果有任何偏离中心的推力 它都会因为旋转而向四周平均化
 Dialogue: 0,0:01:15.52,0:01:20.55,1080P-sgbd-42,,0,0,0,,So the Juno I launches of the Explorer satellites are the most obvious example of this
-Dialogue: 0,0:01:15.52,0:01:20.55,1080P-shss-90,,0,0,0,,所以 朱诺一号发射的探索者卫星就是最典型的例子
+Dialogue: 0,0:01:15.52,0:01:20.55,1080P-shss-90,,0,0,0,,那么 朱诺一号发射的探险者系列卫星就是最典型的例子
 Dialogue: 0,0:01:20.61,0:01:23.68,1080P-sgbd-42,,0,0,0,,since you can actually see the spinning upper stage on the pad.
-Dialogue: 0,0:01:20.61,0:01:23.68,1080P-shss-90,,0,0,0,,因为 你实际上可以看到在发射台上 火箭的上面级在旋转
+Dialogue: 0,0:01:20.61,0:01:23.68,1080P-shss-90,,0,0,0,,因为实际上 你可以在发射台上看到 火箭的上面级在旋转
 Dialogue: 0,0:01:24.57,0:01:30.24,1080P-sgbd-42,,0,0,0,,Juno I itself was an evolution of the Redstone missile with stretched fuel tanks
-Dialogue: 0,0:01:24.57,0:01:30.24,1080P-shss-90,,0,0,0,,朱诺一号本身是红石导弹的进化版 它有着拉伸扩大了的燃料箱
+Dialogue: 0,0:01:24.57,0:01:30.24,1080P-shss-90,,0,0,0,,朱诺一号本身是红石导弹的改进版 它有着拉长版的燃料箱
 Dialogue: 0,0:01:30.28,0:01:33.68,1080P-sgbd-42,,0,0,0,,and it used a higher energy fuel known as Hydyne.
 Dialogue: 0,0:01:30.28,0:01:33.68,1080P-shss-90,,0,0,0,,而且它使用了一种被称为Hydyne的高能燃料
 Dialogue: 0,0:01:33.86,0:01:38.37,1080P-sgbd-42,,0,0,0,,Although according to some accounts, the inventor of the fuel Mary Sherman Morgan
-Dialogue: 0,0:01:33.86,0:01:38.37,1080P-shss-90,,0,0,0,,尽管根据一些说法 这种燃料的发明者玛丽-谢尔曼-摩根
+Dialogue: 0,0:01:33.86,0:01:38.37,1080P-shss-90,,0,0,0,,尽管根据一些说法 这种燃料的发明者玛丽·谢尔曼·摩根
 Dialogue: 0,0:01:38.72,0:01:43.40,1080P-sgbd-42,,0,0,0,,She suggested it should be called bagel because it would be paired with liquid oxygen.
-Dialogue: 0,0:01:38.72,0:01:43.40,1080P-shss-90,,0,0,0,,她建议它应该被称为百吉饼 因为它将与液氧搭配
+Dialogue: 0,0:01:38.72,0:01:43.40,1080P-shss-90,,0,0,0,,她建议此种燃料应该被称为百吉圈 因为它将与液氧搭配
 Dialogue: 0,0:01:44.39,0:01:53.20,1080P-sgbd-42,,0,0,0,,Hydyne was 60% Unsymmetrical dimethylhydrazine, UDMH and 40% Diethylenetriamine, DETA
 Dialogue: 0,0:01:44.39,0:01:53.20,1080P-shss-90,,0,0,0,,Hydyne是由60%的偏二甲肼和40%的二乙烯三胺组成的
 Dialogue: 0,0:01:53.41,0:01:58.39,1080P-sgbd-42,,0,0,0,,and it delivered about 12% better performance than the standard fuel used in the Redstone.
@@ -79,7 +82,7 @@ Dialogue: 0,0:02:02.26,0:02:04.12,1080P-shss-90,,0,0,0,,而许多人已经证明
 Dialogue: 0,0:02:04.13,0:02:07.71,1080P-sgbd-42,,0,0,0,,the alcohol used to fuel the Redstone was safe enough to drink.
 Dialogue: 0,0:02:04.13,0:02:07.71,1080P-shss-90,,0,0,0,,红石导弹的燃料 酒精 是安全到可以饮用的
 Dialogue: 0,0:02:08.77,0:02:11.33,1080P-sgbd-42,,0,0,0,,the second third and fourth stages of the Juno
-Dialogue: 0,0:02:08.77,0:02:11.33,1080P-shss-90,,0,0,0,,朱诺一号的第二、第三和第四级
+Dialogue: 0,0:02:08.77,0:02:11.33,1080P-shss-90,,0,0,0,,朱诺一号的第二 第三和第四级
 Dialogue: 0,0:02:11.38,0:02:15.81,1080P-sgbd-42,,0,0,0,,were clusters of off-the-shelf solid rocket motors called baby Sergeants.
 Dialogue: 0,0:02:11.38,0:02:15.81,1080P-shss-90,,0,0,0,,是由一簇现成的小中士固体火箭发动机组成的
 Dialogue: 0,0:02:16.08,0:02:21.35,1080P-sgbd-42,,0,0,0,,Because they were basically small versions of the larger Sergeant missile the same fuel composition.
@@ -89,23 +92,23 @@ Dialogue: 0,0:02:22.52,0:02:27.12,1080P-shss-90,,0,0,0,,每台固体发动机长
 Dialogue: 0,0:02:27.12,0:02:31.73,1080P-sgbd-42,,0,0,0,,and it generated about 700 kilograms of thrust for six seconds.
 Dialogue: 0,0:02:27.12,0:02:31.73,1080P-shss-90,,0,0,0,,并可以在6秒钟内产生大约700公斤的推力
 Dialogue: 0,0:02:32.23,0:02:35.51,1080P-sgbd-42,,0,0,0,,So the second stage would have 11 of these in a ring.
-Dialogue: 0,0:02:32.23,0:02:35.51,1080P-shss-90,,0,0,0,,因此 第二级有11个这样的固体发动机呈环状分布
+Dialogue: 0,0:02:32.23,0:02:35.51,1080P-shss-90,,0,0,0,,因此 第二级有11个这样的固体发动机 呈环状分布
 Dialogue: 0,0:02:35.69,0:02:38.72,1080P-sgbd-42,,0,0,0,,Inside that there would be three more that would be the third stage
-Dialogue: 0,0:02:35.69,0:02:38.72,1080P-shss-90,,0,0,0,,在之中间 还有三个第三级的固体发动机
+Dialogue: 0,0:02:35.69,0:02:38.72,1080P-shss-90,,0,0,0,,在这中间 还有三台第三级的固体发动机
 Dialogue: 0,0:02:38.76,0:02:43.26,1080P-sgbd-42,,0,0,0,,and then on top of that you would have a final fourth stage with a single rocket motor
-Dialogue: 0,0:02:38.76,0:02:43.26,1080P-shss-90,,0,0,0,,然后这之上是最后的第四级 它由一个固体发动机
+Dialogue: 0,0:02:38.76,0:02:43.26,1080P-shss-90,,0,0,0,,然后这之上是最后的第四级 它有一台固体发动机
 Dialogue: 0,0:02:43.44,0:02:46.18,1080P-sgbd-42,,0,0,0,,and the Explorer satellite attached on top of that.
-Dialogue: 0,0:02:43.44,0:02:46.18,1080P-shss-90,,0,0,0,,和安装在上面的探索者号卫星组成
+Dialogue: 0,0:02:43.44,0:02:46.18,1080P-shss-90,,0,0,0,,以及安装在上面的探险者号卫星
 Dialogue: 0,0:02:46.98,0:02:49.52,1080P-sgbd-42,,0,0,0,,So the Juno I had these rocket clusters
-Dialogue: 0,0:02:46.98,0:02:49.52,1080P-shss-90,,0,0,0,,所以 朱诺一号有这些成簇的火箭发动机
+Dialogue: 0,0:02:46.98,0:02:49.52,1080P-shss-90,,0,0,0,,那么 朱诺一号有这些成簇的火箭发动机
 Dialogue: 0,0:02:49.54,0:02:51.58,1080P-sgbd-42,,0,0,0,,and they put them in a structure called the bucket
-Dialogue: 0,0:02:49.54,0:02:51.58,1080P-shss-90,,0,0,0,,他们把它们放在一个叫做桶的结构中
+Dialogue: 0,0:02:49.54,0:02:51.58,1080P-shss-90,,0,0,0,,然后他们将其放在一个叫做桶的结构中
 Dialogue: 0,0:02:51.85,0:02:55.37,1080P-sgbd-42,,0,0,0,,which added some aerodynamic covers so that it wouldn't get damaged
 Dialogue: 0,0:02:51.85,0:02:55.37,1080P-shss-90,,0,0,0,,这一结构增加了一些空气动力罩 以使火箭发动机不会被损坏
 Dialogue: 0,0:02:55.90,0:02:59.27,1080P-sgbd-42,,0,0,0,,and this itself sat on an electrically driven turntable
 Dialogue: 0,0:02:55.90,0:02:59.27,1080P-shss-90,,0,0,0,,而这结构本身就安装在一个电力驱动的转盘上
 Dialogue: 0,0:02:59.29,0:03:03.91,1080P-sgbd-42,,0,0,0,,which at time of launch would be spinning at about 560 rpm.
-Dialogue: 0,0:02:59.29,0:03:03.91,1080P-shss-90,,0,0,0,,在发射时 这一装置会以560rpm的速度旋转
+Dialogue: 0,0:02:59.29,0:03:03.91,1080P-shss-90,,0,0,0,,在发射时 这一装置会以560转每分(rpm)的速度旋转
 Dialogue: 0,0:03:04.31,0:03:07.36,1080P-sgbd-42,,0,0,0,,During the flight they would increase the spin rate
 Dialogue: 0,0:03:04.31,0:03:07.36,1080P-shss-90,,0,0,0,,在飞行过程中 他们会加快它的旋转速度
 Dialogue: 0,0:03:07.36,0:03:10.23,1080P-sgbd-42,,0,0,0,,and it would eventually reach about 750 rpm.
@@ -113,23 +116,23 @@ Dialogue: 0,0:03:07.36,0:03:10.23,1080P-shss-90,,0,0,0,,并最终达到约750rpm
 Dialogue: 0,0:03:10.23,0:03:12.40,1080P-sgbd-42,,0,0,0,,The reason you changed the spin rate by the way
 Dialogue: 0,0:03:10.23,0:03:12.40,1080P-shss-90,,0,0,0,,顺便说一下 他们改变旋转速度的原因是
 Dialogue: 0,0:03:13.18,0:03:17.44,1080P-sgbd-42,,0,0,0,,is that it stopped it lingering at any unfortunate frequencies
-Dialogue: 0,0:03:13.18,0:03:17.44,1080P-shss-90,,0,0,0,,是为了防止它在任何不安全的振动动频率上逗留
+Dialogue: 0,0:03:13.18,0:03:17.44,1080P-shss-90,,0,0,0,,是为了防止它停留在任何不安全的振动频率上
 Dialogue: 0,0:03:17.44,0:03:20.82,1080P-sgbd-42,,0,0,0,,which might be in resonance with the rest of the structure
 Dialogue: 0,0:03:17.44,0:03:20.82,1080P-shss-90,,0,0,0,,这些频率的振动可能使其与其他部分的结构发生共振
-Dialogue: 0,0:03:20.91,0:03:23.74,1080P-sgbd-42,,0,0,0,,which could lead to oscillations resonances and damage.
-Dialogue: 0,0:03:20.91,0:03:23.74,1080P-shss-90,,0,0,0,,这可能导致振荡谐振和损坏
+Dialogue: 0,0:03:20.91,0:03:23.74,1080P-sgbd-42,,0,0,0,,which could lead to oscillations, resonances and damage.
+Dialogue: 0,0:03:20.91,0:03:23.74,1080P-shss-90,,0,0,0,,这可能导致振荡 谐振和损坏
 Dialogue: 0,0:03:24.31,0:03:28.46,1080P-sgbd-42,,0,0,0,,So that spinning bucket is what we are seeing during the takeoff of Juno.
 Dialogue: 0,0:03:24.31,0:03:28.46,1080P-shss-90,,0,0,0,,因此 在朱诺一号起飞时我们所看到的 就是那个旋转的桶
 Dialogue: 0,0:03:29.42,0:03:33.66,1080P-sgbd-42,,0,0,0,,So the Juno rocket would fire its engines for 155 seconds
-Dialogue: 0,0:03:29.42,0:03:33.66,1080P-shss-90,,0,0,0,,因此 朱诺一号将点燃它的发动机 并持续工作155秒
+Dialogue: 0,0:03:29.42,0:03:33.66,1080P-shss-90,,0,0,0,,那么 朱诺一号将点燃它的发动机 并持续工作155秒
 Dialogue: 0,0:03:33.69,0:03:37.90,1080P-sgbd-42,,0,0,0,,and it would accelerate up downrange taking the spacecraft towards space.
-Dialogue: 0,0:03:33.69,0:03:37.90,1080P-shss-90,,0,0,0,,它将沿航向加速 将航天器带向太空
+Dialogue: 0,0:03:33.69,0:03:37.90,1080P-shss-90,,0,0,0,,它将沿目标弹道方向加速 将航天器带向太空
 Dialogue: 0,0:03:38.26,0:03:40.98,1080P-sgbd-42,,0,0,0,,After the engines cut the vehicle would coast upwards
 Dialogue: 0,0:03:38.26,0:03:40.98,1080P-shss-90,,0,0,0,,发动机关闭后 火箭将继续向上滑行
 Dialogue: 0,0:03:41.35,0:03:43.51,1080P-sgbd-42,,0,0,0,,then the guidance section would separate
-Dialogue: 0,0:03:41.35,0:03:43.51,1080P-shss-90,,0,0,0,,然后引导模块将会分离
+Dialogue: 0,0:03:41.35,0:03:43.51,1080P-shss-90,,0,0,0,,然后导航模块就会分离
 Dialogue: 0,0:03:43.51,0:03:48.48,1080P-sgbd-42,,0,0,0,,and it would use thrusters to orient the spinning section to point it downrange.
-Dialogue: 0,0:03:43.51,0:03:48.48,1080P-shss-90,,0,0,0,,它将使用推进器来确保旋转部分指向航向
+Dialogue: 0,0:03:43.51,0:03:48.48,1080P-shss-90,,0,0,0,,而它将使用推进器来确保旋转部分指向目标弹道方向
 Dialogue: 0,0:03:48.63,0:03:50.90,1080P-sgbd-42,,0,0,0,,And to be clear this isn't as simple as you might think
 Dialogue: 0,0:03:48.63,0:03:50.90,1080P-shss-90,,0,0,0,,而且需要明确的一点是 这一切并不像你想象的那么简单
 Dialogue: 0,0:03:51.21,0:03:53.76,1080P-sgbd-42,,0,0,0,,because a lot of it is a spinning mass on the top
@@ -141,37 +144,37 @@ Dialogue: 0,0:04:00.84,0:04:06.44,1080P-shss-90,,0,0,0,,火箭将在飞行六分
 Dialogue: 0,0:04:06.85,0:04:10.30,1080P-sgbd-42,,0,0,0,,and at that point they would then fire the three stages in sequence
 Dialogue: 0,0:04:06.85,0:04:10.30,1080P-shss-90,,0,0,0,,在那时 他们将依次点燃火箭其余三级的发动机
 Dialogue: 0,0:04:10.31,0:04:14.08,1080P-sgbd-42,,0,0,0,,and each would take like six seconds to fire two seconds to stage
-Dialogue: 0,0:04:10.31,0:04:14.08,1080P-shss-90,,0,0,0,,每级的固体发动机将工作6秒的时间 并需要2秒的时间来点火
+Dialogue: 0,0:04:10.31,0:04:14.08,1080P-shss-90,,0,0,0,,每级的固体发动机将工作6秒的时间 并需要2秒的时间来分级
 Dialogue: 0,0:04:14.08,0:04:19.12,1080P-sgbd-42,,0,0,0,,and so about 30 seconds later Explorer 1 would finally get into orbit.
-Dialogue: 0,0:04:14.08,0:04:19.12,1080P-shss-90,,0,0,0,,所以大约30秒后 探索者1号终于进入了轨道
+Dialogue: 0,0:04:14.08,0:04:19.12,1080P-shss-90,,0,0,0,,所以在大约30秒后 探险者1号终于进入了轨道
 Dialogue: 0,0:04:19.12,0:04:20.75,1080P-sgbd-42,,0,0,0,,And the beauty of this
 Dialogue: 0,0:04:19.12,0:04:20.75,1080P-shss-90,,0,0,0,,它的美妙之处在于
 Dialogue: 0,0:04:21.29,0:04:26.10,1080P-sgbd-42,,0,0,0,,is that the rocket's guidance hardware with the sensors gyroscopes thrusters
-Dialogue: 0,0:04:21.29,0:04:26.10,1080P-shss-90,,0,0,0,,火箭的制导硬件 陀螺仪传感器与推进器
+Dialogue: 0,0:04:21.29,0:04:26.10,1080P-shss-90,,0,0,0,,火箭的制导设备 传感器 陀螺仪 推进器
 Dialogue: 0,0:04:26.40,0:04:28.81,1080P-sgbd-42,,0,0,0,,that didn't need to go all the way into orbit.
 Dialogue: 0,0:04:26.40,0:04:28.81,1080P-shss-90,,0,0,0,,这些东西都不需要随载荷一并进入轨道
 Dialogue: 0,0:04:29.04,0:04:33.50,1080P-sgbd-42,,0,0,0,,They did the job of pointing the final dumb stages in the right direction
-Dialogue: 0,0:04:29.04,0:04:33.50,1080P-shss-90,,0,0,0,,它们的工作是将最后的非自航部分指向正确的方向
+Dialogue: 0,0:04:29.04,0:04:33.50,1080P-shss-90,,0,0,0,,它们的工作是将最后的无控分级指向正确的方向
 Dialogue: 0,0:04:33.54,0:04:35.52,1080P-sgbd-42,,0,0,0,,and then firing them at the right time.
-Dialogue: 0,0:04:33.54,0:04:35.52,1080P-shss-90,,0,0,0,,然后在正确的时间发射它们
+Dialogue: 0,0:04:33.54,0:04:35.52,1080P-shss-90,,0,0,0,,然后在正确的时间将其点火
 Dialogue: 0,0:04:35.74,0:04:39.78,1080P-sgbd-42,,0,0,0,,And that meant that the final three stages could be much lighter much simpler
 Dialogue: 0,0:04:35.74,0:04:39.78,1080P-shss-90,,0,0,0,,这意味着最后的三级可以设计的更轻更简单
 Dialogue: 0,0:04:39.81,0:04:41.81,1080P-sgbd-42,,0,0,0,,And that really helped them with performance.
 Dialogue: 0,0:04:39.81,0:04:41.81,1080P-shss-90,,0,0,0,,而这确实有助于提高火箭的性能
 Dialogue: 0,0:04:42.54,0:04:45.04,1080P-sgbd-42,,0,0,0,,Although I should say that the Explorer 1 satellite
-Dialogue: 0,0:04:42.54,0:04:45.04,1080P-shss-90,,0,0,0,,尽管 我应该说探索者1号卫星
+Dialogue: 0,0:04:42.54,0:04:45.04,1080P-shss-90,,0,0,0,,尽管 我应该说探险者1号卫星
 Dialogue: 0,0:04:45.04,0:04:50.05,1080P-sgbd-42,,0,0,0,,was easily the most complex scientific satellite launched at the time.
-Dialogue: 0,0:04:45.04,0:04:50.05,1080P-shss-90,,0,0,0,,毫无疑问是人类当时发射过最复杂的科学卫星
+Dialogue: 0,0:04:45.04,0:04:50.05,1080P-shss-90,,0,0,0,,毫无疑问是人类当时发射过的最复杂的科学卫星
 Dialogue: 0,0:04:50.34,0:04:54.42,1080P-sgbd-42,,0,0,0,,It was packed with more instruments than either Sputnik 1 or Vanguard.
 Dialogue: 0,0:04:50.34,0:04:54.42,1080P-shss-90,,0,0,0,,它所装的仪器比斯普特尼克1号和先锋号都要多
 Dialogue: 0,0:04:55.35,0:05:00.61,1080P-sgbd-42,,0,0,0,,So yeah spin stabilization it's still a very useful technique and it's still used.
-Dialogue: 0,0:04:55.35,0:05:00.61,1080P-shss-90,,0,0,0,,因此是的 自旋稳定仍然是一个非常有用的技术 而且至今仍在使用
+Dialogue: 0,0:04:55.35,0:05:00.61,1080P-shss-90,,0,0,0,,那么是的 自旋稳定仍然是一个非常有用的技术 而且至今仍在使用
 Dialogue: 0,0:05:01.28,0:05:05.05,1080P-sgbd-42,,0,0,0,,Many spacecraft use a solid rocket motor for the final stage
 Dialogue: 0,0:05:01.28,0:05:05.05,1080P-shss-90,,0,0,0,,今天 许多航天器在最后一级使用固体火箭发动机
-Dialogue: 0,0:05:05.38,0:05:09.01,1080P-sgbd-42,,0,0,0,,and the most common one in the US are the star series of motors
-Dialogue: 0,0:05:05.38,0:05:09.01,1080P-shss-90,,0,0,0,,美国最常使用的是星系列的固体火箭发动机
+Dialogue: 0,0:05:05.38,0:05:09.01,1080P-sgbd-42,,0,0,0,,and the most common one in the US are the Star series of motors
+Dialogue: 0,0:05:05.38,0:05:09.01,1080P-shss-90,,0,0,0,,而美国最常使用的是星系列的固体火箭发动机
 Dialogue: 0,0:05:09.02,0:05:12.70,1080P-sgbd-42,,0,0,0,,which were developed by Thiokol and I think Northrop Grumman sell them these days.
-Dialogue: 0,0:05:09.02,0:05:12.70,1080P-shss-90,,0,0,0,,这是由锡奥科尔公司开发的 我想诺格公司现在也在销售它们
+Dialogue: 0,0:05:09.02,0:05:12.70,1080P-shss-90,,0,0,0,,这是由锡奥科尔开发的 我想诺斯罗普格鲁曼现在也在销售它们
 Dialogue: 0,0:05:13.37,0:05:17.69,1080P-sgbd-42,,0,0,0,,The Star 37 was used as a final boost for Pioneer and Voyager.
 Dialogue: 0,0:05:13.37,0:05:17.69,1080P-shss-90,,0,0,0,,星37型被用作先锋号和旅行者号的最后助推器
 Dialogue: 0,0:05:18.09,0:05:20.72,1080P-sgbd-42,,0,0,0,,The Star 48 was used by New Horizons.
@@ -181,7 +184,7 @@ Dialogue: 0,0:05:20.94,0:05:25.32,1080P-shss-90,,0,0,0,,这个型号里的数字
 Dialogue: 0,0:05:26.18,0:05:28.47,1080P-sgbd-42,,0,0,0,,So depending upon the mission requirements
 Dialogue: 0,0:05:26.18,0:05:28.47,1080P-shss-90,,0,0,0,,因此 根据任务的要求
 Dialogue: 0,0:05:28.64,0:05:32.46,1080P-sgbd-42,,0,0,0,,these motors can be available with steerable thrust vectoring nozzles
-Dialogue: 0,0:05:28.64,0:05:32.46,1080P-shss-90,,0,0,0,,这些固体发动机可以配置可控推力的矢量喷嘴
+Dialogue: 0,0:05:28.64,0:05:32.46,1080P-shss-90,,0,0,0,,这些固体发动机可以配置矢量喷嘴
 Dialogue: 0,0:05:32.47,0:05:34.55,1080P-sgbd-42,,0,0,0,,so they can control and make it fly straight
 Dialogue: 0,0:05:32.47,0:05:34.55,1080P-shss-90,,0,0,0,,所以他们可以控制航天器 并使其沿直线飞行
 Dialogue: 0,0:05:34.98,0:05:39.68,1080P-sgbd-42,,0,0,0,,or they can ditch that extra mass and complexity and they can be spin stabilized
@@ -191,7 +194,7 @@ Dialogue: 0,0:05:39.85,0:05:43.06,1080P-shss-90,,0,0,0,,并希望借此能提高
 Dialogue: 0,0:05:43.60,0:05:48.24,1080P-sgbd-42,,0,0,0,,But that does mean that when they're finished the spacecraft is spinning rapidly
 Dialogue: 0,0:05:43.60,0:05:48.24,1080P-shss-90,,0,0,0,,但这确实意味着 当固体发动机燃尽时 航天器正在快速旋转
 Dialogue: 0,0:05:48.44,0:05:51.25,1080P-sgbd-42,,0,0,0,,and the spacecraft has to handle that spin afterwards
-Dialogue: 0,0:05:48.44,0:05:51.25,1080P-shss-90,,0,0,0,,而且航天器必须在之后处理这种旋转
+Dialogue: 0,0:05:48.44,0:05:51.25,1080P-shss-90,,0,0,0,,而且航天器必须在这之后能应对这种旋转
 Dialogue: 0,0:05:51.50,0:05:56.20,1080P-sgbd-42,,0,0,0,,so some spacecraft actually just live with that spin as part of their operation
 Dialogue: 0,0:05:51.50,0:05:56.20,1080P-shss-90,,0,0,0,,因此 一些航天器实际上只是将这种旋转看作其运作的一部分
 Dialogue: 0,0:05:56.24,0:05:57.98,1080P-sgbd-42,,0,0,0,,because it didn't matter what way they're oriented
@@ -201,19 +204,19 @@ Dialogue: 0,0:05:58.00,0:06:02.97,1080P-shss-90,,0,0,0,,但另一些航天器则
 Dialogue: 0,0:06:03.33,0:06:08.25,1080P-sgbd-42,,0,0,0,,Now de-spin can be performed with just regular RCS thrusters
 Dialogue: 0,0:06:03.33,0:06:08.25,1080P-shss-90,,0,0,0,,现在 消旋可以用普通的RCS推进器来执行
 Dialogue: 0,0:06:08.74,0:06:12.89,1080P-sgbd-42,,0,0,0,,but there's actually a really cool trick called yo-yo de-spin
-Dialogue: 0,0:06:08.74,0:06:12.89,1080P-shss-90,,0,0,0,,但实际上还有一个非常酷的消旋方式 叫做yo yo式消旋
+Dialogue: 0,0:06:08.74,0:06:12.89,1080P-shss-90,,0,0,0,,但实际上还有一个非常酷的消旋方式 叫做悠悠式消旋
 Dialogue: 0,0:06:13.63,0:06:17.37,1080P-sgbd-42,,0,0,0,,and what you have here is there's a pair of heavy masses attached to wires
-Dialogue: 0,0:06:13.63,0:06:17.37,1080P-shss-90,,0,0,0,,你在这里能看到的是 有一对连接在绳缆上的配重
+Dialogue: 0,0:06:13.63,0:06:17.37,1080P-shss-90,,0,0,0,,那么你在这里能看到的是 有一对连接在绳缆上的配重
 Dialogue: 0,0:06:17.39,0:06:20.80,1080P-sgbd-42,,0,0,0,,that as the thing is spinning these wires extend out
-Dialogue: 0,0:06:17.39,0:06:20.80,1080P-shss-90,,0,0,0,,当整个航天器在旋转的时候 这些绳缆就会展开出来
+Dialogue: 0,0:06:17.39,0:06:20.80,1080P-shss-90,,0,0,0,,当整个航天器在旋转的时候 这些绳缆就会展开
 Dialogue: 0,0:06:20.86,0:06:25.66,1080P-sgbd-42,,0,0,0,,and it slows down the rotation because of the conservation of angular momentum.
-Dialogue: 0,0:06:20.86,0:06:25.66,1080P-shss-90,,0,0,0,,由于角动量的守恒的原因 它降低了旋转的速度
+Dialogue: 0,0:06:20.86,0:06:25.66,1080P-shss-90,,0,0,0,,由于角动量守恒 它降低了旋转的速度
 Dialogue: 0,0:06:26.21,0:06:29.27,1080P-sgbd-42,,0,0,0,,The angular momentum of a mass rotating around a central point
 Dialogue: 0,0:06:26.21,0:06:29.27,1080P-shss-90,,0,0,0,,一个围绕中心点旋转的物体质量的角动量
 Dialogue: 0,0:06:29.29,0:06:33.36,1080P-sgbd-42,,0,0,0,,is proportional to the square of the distance to the center.
 Dialogue: 0,0:06:29.29,0:06:33.36,1080P-shss-90,,0,0,0,,与物体到旋转中心的距离的平方成正比
 Dialogue: 0,0:06:33.88,0:06:37.60,1080P-sgbd-42,,0,0,0,,So the cables used in yo-yo de-spin systems are long.
-Dialogue: 0,0:06:33.88,0:06:37.60,1080P-shss-90,,0,0,0,,所以yo yo式消旋系统中所使用的绳缆是很长的
+Dialogue: 0,0:06:33.88,0:06:37.60,1080P-shss-90,,0,0,0,,所以悠悠式消旋系统中所使用的绳缆是很长的
 Dialogue: 0,0:06:37.82,0:06:43.34,1080P-sgbd-42,,0,0,0,,I know that the Dawn mission it used 12 meter cables with three kilogram masses
 Dialogue: 0,0:06:37.82,0:06:43.34,1080P-shss-90,,0,0,0,,我知道的是 黎明号任务使用了12米长的绳缆 其质量为3公斤
 Dialogue: 0,0:06:44.31,0:06:49.12,1080P-sgbd-42,,0,0,0,,Also in the case of dawn the dynamics of the unspooling masses were tuned
@@ -221,9 +224,9 @@ Dialogue: 0,0:06:44.31,0:06:49.12,1080P-shss-90,,0,0,0,,此外 在黎明号的�
 Dialogue: 0,0:06:49.12,0:06:52.24,1080P-sgbd-42,,0,0,0,,so that they didn't just slow the rotation of the spacecraft
 Dialogue: 0,0:06:49.12,0:06:52.24,1080P-shss-90,,0,0,0,,所以它们不只是减慢航天器的旋转速度
 Dialogue: 0,0:06:52.47,0:06:55.07,1080P-sgbd-42,,0,0,0,,they actually reversed it a little just before release.
-Dialogue: 0,0:06:52.47,0:06:55.07,1080P-shss-90,,0,0,0,,他们实际上在释放前还将其逆旋转了一下
+Dialogue: 0,0:06:52.47,0:06:55.07,1080P-shss-90,,0,0,0,,他们实际上在释放前还将其朝反方向旋转了一点
 Dialogue: 0,0:06:55.66,0:06:57.44,1080P-sgbd-42,,0,0,0,,And they actually needed to do this
-Dialogue: 0,0:06:55.66,0:06:57.44,1080P-shss-90,,0,0,0,,而且他们实际上需要这样做
+Dialogue: 0,0:06:55.66,0:06:57.44,1080P-shss-90,,0,0,0,,而且实际上他们需要这样做
 Dialogue: 0,0:06:57.44,0:06:59.78,1080P-sgbd-42,,0,0,0,,because when the satellite is spinning
 Dialogue: 0,0:06:57.44,0:06:59.78,1080P-shss-90,,0,0,0,,因为当卫星在旋转的时候
 Dialogue: 0,0:06:59.96,0:07:04.16,1080P-sgbd-42,,0,0,0,,the fuel tanks inside it the liquid is spinning inside that
@@ -231,13 +234,13 @@ Dialogue: 0,0:06:59.96,0:07:04.16,1080P-shss-90,,0,0,0,,它燃料罐里面的液
 Dialogue: 0,0:07:04.23,0:07:07.54,1080P-sgbd-42,,0,0,0,,and when they stopped it spinning the fuel continues to spin
 Dialogue: 0,0:07:04.23,0:07:07.54,1080P-shss-90,,0,0,0,,而当它们停止旋转时 燃料仍在继续旋转
 Dialogue: 0,0:07:07.58,0:07:15.43,1080P-sgbd-42,,0,0,0,,so by having it giving a little backwards spin as the fuel slows down and equalizes
-Dialogue: 0,0:07:07.58,0:07:15.43,1080P-shss-90,,0,0,0,,所以通过在燃料旋转减慢和平衡的时候给予它一点反向的旋转
+Dialogue: 0,0:07:07.58,0:07:15.43,1080P-shss-90,,0,0,0,,那么在燃料旋转减慢和平衡的时候给予它一点反向的旋转
 Dialogue: 0,0:07:16.00,0:07:20.86,1080P-sgbd-42,,0,0,0,,it all ends up cancelling out and the entire satellite stops spinning neatly
 Dialogue: 0,0:07:16.00,0:07:20.86,1080P-shss-90,,0,0,0,,所有这些最终都被相互抵消了 整个卫星整齐地停止了旋转
 Dialogue: 0,0:07:20.87,0:07:22.50,1080P-sgbd-42,,0,0,0,,and then it can go about and do its mission.
 Dialogue: 0,0:07:20.87,0:07:22.50,1080P-shss-90,,0,0,0,,然后它就可以去执行它的任务了
 Dialogue: 0,0:07:23.10,0:07:29.61,1080P-sgbd-42,,0,0,0,,So yo-yo de-spin is generally not used for spacecraft that are intended to stay in earth orbit
-Dialogue: 0,0:07:23.10,0:07:29.61,1080P-shss-90,,0,0,0,,所以 yo yo式消旋法一般不用于打算留在地球轨道上的航天器
+Dialogue: 0,0:07:23.10,0:07:29.61,1080P-shss-90,,0,0,0,,所以 悠悠式消旋法一般不用于打算留在地球轨道上的航天器
 Dialogue: 0,0:07:29.63,0:07:31.97,1080P-sgbd-42,,0,0,0,,because it creates extra space debris.
 Dialogue: 0,0:07:29.63,0:07:31.97,1080P-shss-90,,0,0,0,,因为它会产生额外的空间碎片
 Dialogue: 0,0:07:32.30,0:07:35.84,1080P-sgbd-42,,0,0,0,,It's used for sub-orbital sounding rockets because they are falling back to earth
@@ -251,31 +254,31 @@ Dialogue: 0,0:07:42.24,0:07:46.96,1080P-shss-90,,0,0,0,,关于用于消旋系统
 Dialogue: 0,0:07:46.98,0:07:49.78,1080P-sgbd-42,,0,0,0,,was a collision hazard for the international space station.
 Dialogue: 0,0:07:46.98,0:07:49.78,1080P-shss-90,,0,0,0,,是国际空间站的一个碰撞风险
 Dialogue: 0,0:07:50.13,0:07:54.63,1080P-sgbd-42,,0,0,0,,But also it's kind of cool to think there's a pair of these like dumb masses
-Dialogue: 0,0:07:50.13,0:07:54.63,1080P-shss-90,,0,0,0,,但是 有时想到有一对这样非航向的物体 也是一种很酷的事情
+Dialogue: 0,0:07:50.13,0:07:54.63,1080P-shss-90,,0,0,0,,但是 有这样一对死重 也是一件很酷的事情
 Dialogue: 0,0:07:54.96,0:07:57.28,1080P-sgbd-42,,0,0,0,,headed out of the solar system at escape velocity
 Dialogue: 0,0:07:54.96,0:07:57.28,1080P-shss-90,,0,0,0,,它们可能会以逃逸速度离开太阳系
 Dialogue: 0,0:07:57.28,0:07:59.75,1080P-sgbd-42,,0,0,0,,and because they were used in the New Horizons spacecraft
 Dialogue: 0,0:07:57.28,0:07:59.75,1080P-shss-90,,0,0,0,,因为它们被用在新视野号探测器上
 Dialogue: 0,0:07:59.75,0:08:00.84,1080P-sgbd-42,,0,0,0,,and if you think about it
-Dialogue: 0,0:07:59.75,0:08:00.84,1080P-shss-90,,0,0,0,,如果你想一想
+Dialogue: 0,0:07:59.75,0:08:00.84,1080P-shss-90,,0,0,0,,而如果你想一想
 Dialogue: 0,0:08:01.28,0:08:05.28,1080P-sgbd-42,,0,0,0,,these discarded masses they're effectively lost in space.
 Dialogue: 0,0:08:01.28,0:08:05.28,1080P-shss-90,,0,0,0,,这些被丢弃的配重 它们实际上已经在太空中迷失了
-Dialogue: 0,0:08:05.28,0:08:11.90,1080P-sgbd-42,,0,0,0,,In fact these ones New Horizons are probably the most lost in space object created by humans
-Dialogue: 0,0:08:05.28,0:08:11.90,1080P-shss-90,,0,0,0,,事实上 新视野号产生的废物 可能是人类创造过在宇宙中最迷失的物体
+Dialogue: 0,0:08:05.28,0:08:11.90,1080P-sgbd-42,,0,0,0,,In fact these ones on New Horizons are probably the most lost in space object created by humans
+Dialogue: 0,0:08:05.28,0:08:11.90,1080P-shss-90,,0,0,0,,{\fs76}事实上 新视野号上的这些配重 可能是人类创造过的在宇宙中迷失得最厉害的物体
 Dialogue: 0,0:08:11.92,0:08:12.87,1080P-sgbd-42,,0,0,0,,because they're so small
 Dialogue: 0,0:08:11.92,0:08:12.87,1080P-shss-90,,0,0,0,,因为它们是如此之小
-Dialogue: 0,0:08:13.12,0:08:16.22,1080P-shss-90,,0,0,0,,我们永远无法再次看到它们 我们也不知道它们的原始轨道数据
 Dialogue: 0,0:08:13.12,0:08:16.22,1080P-sgbd-42,,0,0,0,,we could never see them and we don't know their original orbit
+Dialogue: 0,0:08:13.12,0:08:16.22,1080P-shss-90,,0,0,0,,我们永远无法再次看到它们 也不知道它们的原始轨道数据
 Dialogue: 0,0:08:16.24,0:08:18.84,1080P-sgbd-42,,0,0,0,,so they're total mysteries out there.
 Dialogue: 0,0:08:16.24,0:08:18.84,1080P-shss-90,,0,0,0,,所以它们就成为了宇宙中的一个谜
 Dialogue: 0,0:08:19.59,0:08:23.66,1080P-sgbd-42,,0,0,0,,But finally I want to come back to Explorer 1
-Dialogue: 0,0:08:19.59,0:08:23.66,1080P-shss-90,,0,0,0,,但在最后 我想回到探索者1号上
+Dialogue: 0,0:08:19.59,0:08:23.66,1080P-shss-90,,0,0,0,,但在最后 我想回到探险者1号上
 Dialogue: 0,0:08:24.00,0:08:28.30,1080P-sgbd-42,,0,0,0,,because the spin actually led to an unexpected scientific observation
 Dialogue: 0,0:08:24.00,0:08:28.30,1080P-shss-90,,0,0,0,,因为旋转实际上导致了一次意料之外的科学观察
 Dialogue: 0,0:08:28.74,0:08:34.39,1080P-sgbd-42,,0,0,0,,so the satellite was originally rotating around its longitudinal axis around its long axis like a bullet
-Dialogue: 0,0:08:28.74,0:08:34.39,1080P-shss-90,,0,0,0,,所以这颗卫星最初是像一颗子弹一样 围绕其纵轴旋转的
+Dialogue: 0,0:08:28.74,0:08:34.39,1080P-shss-90,,0,0,0,,那么这颗卫星最初是像一颗子弹一样 围绕其纵轴旋转的
 Dialogue: 0,0:08:34.67,0:08:40.26,1080P-sgbd-42,,0,0,0,,but over time it transitioned to a slower rotation mode when an end over ends tumbling motion
-Dialogue: 0,0:08:34.67,0:08:40.26,1080P-shss-90,,0,0,0,,但一段时间后 它转化成了较慢的旋转 并做两端调换的运动
+Dialogue: 0,0:08:34.67,0:08:40.26,1080P-shss-90,,0,0,0,,但一段时间后 它转化成了较慢的旋转 并做两端调换的翻转运动
 Dialogue: 0,0:08:40.56,0:08:42.24,1080P-sgbd-42,,0,0,0,,and this actually confused the engineers
 Dialogue: 0,0:08:40.56,0:08:42.24,1080P-shss-90,,0,0,0,,而这实际上使工程师们感到困惑
 Dialogue: 0,0:08:42.28,0:08:47.46,1080P-sgbd-42,,0,0,0,,because conservation of energy and angular momentum should have kept it stable.
@@ -283,25 +286,25 @@ Dialogue: 0,0:08:42.28,0:08:47.46,1080P-shss-90,,0,0,0,,因为能量和角动量
 Dialogue: 0,0:08:47.49,0:08:50.47,1080P-sgbd-42,,0,0,0,,It's objects spinning in a vacuum what's going to change things.
 Dialogue: 0,0:08:47.49,0:08:50.47,1080P-shss-90,,0,0,0,,它是个在真空中旋转的物体 什么会改变它的运动呢
 Dialogue: 0,0:08:51.68,0:08:55.94,1080P-sgbd-42,,0,0,0,,Generally objects will spin around preferred axis
-Dialogue: 0,0:08:51.68,0:08:55.94,1080P-shss-90,,0,0,0,,一般来说 物体会围绕从优轴旋转
-Dialogue: 0,0:08:55.95,0:08:59.27,1080P-sgbd-42,,0,0,0,,if you try to spin it around another axis which is not stable
-Dialogue: 0,0:08:55.95,0:08:59.27,1080P-shss-90,,0,0,0,,如果你试图让它围绕另一个不稳定的轴旋转
-Dialogue: 0,0:08:59.40,0:09:03.42,1080P-sgbd-42,,0,0,0,,it will flip orientation and there's this great video on the space station of this.
-Dialogue: 0,0:08:59.40,0:09:03.42,1080P-shss-90,,0,0,0,,它就会翻转方向 在空间站上录制过一个非常好的与此相关的视频
+Dialogue: 0,0:08:51.68,0:08:55.94,1080P-shss-90,,0,0,0,,一般来说 物体会围绕其择优轴旋转
+Dialogue: 0,0:08:55.95,0:09:00.98,1080P-sgbd-42,,0,0,0,,if you try to spin it around another axis which is not stable it will flip orientation
+Dialogue: 0,0:08:55.95,0:09:00.98,1080P-shss-90,,0,0,0,,如果你试图让它围绕另一个不稳定的轴旋转 它就会翻转方向
+Dialogue: 0,0:09:01.00,0:09:03.42,1080P-sgbd-42,,0,0,0,,and there's this great video on the space station of this.
+Dialogue: 0,0:09:01.00,0:09:03.42,1080P-shss-90,,0,0,0,,在国际空间站上曾录制过一个非常好的与此相关的视频
 Dialogue: 0,0:09:03.92,0:09:07.42,1080P-sgbd-42,,0,0,0,,T-shaped handle flipping between two rotational orientations
 Dialogue: 0,0:09:03.92,0:09:07.42,1080P-shss-90,,0,0,0,,T型手柄在两个旋转方向之间的翻转
 Dialogue: 0,0:09:07.74,0:09:11.46,1080P-sgbd-42,,0,0,0,,because that's not one of his preferred orientations.
-Dialogue: 0,0:09:07.74,0:09:11.46,1080P-shss-90,,0,0,0,,因为这不是他首选方向之一
+Dialogue: 0,0:09:07.74,0:09:11.46,1080P-shss-90,,0,0,0,,因为这不是其择优方向
 Dialogue: 0,0:09:12.06,0:09:16.68,1080P-sgbd-42,,0,0,0,,So Explorer 1 should have been stable around its original rotational axis
-Dialogue: 0,0:09:12.06,0:09:16.68,1080P-shss-90,,0,0,0,,所以探索者1号应该是围绕其原始的旋转轴稳定旋转的
+Dialogue: 0,0:09:12.06,0:09:16.68,1080P-shss-90,,0,0,0,,那么探险者1号应该是围绕其原始的旋转轴稳定旋转的
 Dialogue: 0,0:09:16.69,0:09:19.54,1080P-sgbd-42,,0,0,0,,because a change to any other rotational axis
 Dialogue: 0,0:09:16.69,0:09:19.54,1080P-shss-90,,0,0,0,,因为如果改变成任何其他的旋转轴
 Dialogue: 0,0:09:19.80,0:09:23.08,1080P-sgbd-42,,0,0,0,,would require it to change its rotational kinetic energy
 Dialogue: 0,0:09:19.80,0:09:23.08,1080P-shss-90,,0,0,0,,就需要改变它的旋转动能
 Dialogue: 0,0:09:23.94,0:09:27.54,1080P-sgbd-42,,0,0,0,,and that in a vacuum is hard right where's it getting rid of it
 Dialogue: 0,0:09:23.94,0:09:27.54,1080P-shss-90,,0,0,0,,而这在真空中是很难做到的 你能怎么能摆脱它呢
-Dialogue: 0,0:09:27.52,0:09:32.66,1080P-shss-90,,0,0,0,,原来 在它被释放后 它部署了挠性天线
-Dialogue: 0,0:09:27.52,0:09:32.66,1080P-sgbd-42,,0,0,0,,but it turns out that after it was released it deployed flexible antenna
+Dialogue: 0,0:09:27.54,0:09:32.66,1080P-sgbd-42,,0,0,0,,but it turns out that after it was released it deployed flexible antenna
+Dialogue: 0,0:09:27.54,0:09:32.66,1080P-shss-90,,0,0,0,,原来 在它被释放后 它部署了柔性天线
 Dialogue: 0,0:09:33.18,0:09:36.81,1080P-sgbd-42,,0,0,0,,and as these were perturbed they would flex
 Dialogue: 0,0:09:33.18,0:09:36.81,1080P-shss-90,,0,0,0,,当这些天线受到扰动时 它们就会弯曲
 Dialogue: 0,0:09:36.84,0:09:41.12,1080P-sgbd-42,,0,0,0,,and the flexing would actually convert a small amount of the kinetic energy into heat
@@ -311,7 +314,7 @@ Dialogue: 0,0:09:41.38,0:09:45.50,1080P-shss-90,,0,0,0,,当它这样做的时候
 Dialogue: 0,0:09:45.72,0:09:48.94,1080P-sgbd-42,,0,0,0,,and to rotate more slowly it had to change its rotational axis
 Dialogue: 0,0:09:45.72,0:09:48.94,1080P-shss-90,,0,0,0,,为了旋转得更慢 它就必须改变它的旋转轴线
 Dialogue: 0,0:09:48.95,0:09:55.40,1080P-sgbd-42,,0,0,0,,so over time these flexible antennas drove the rotation into the slower end over end state.
-Dialogue: 0,0:09:48.95,0:09:55.40,1080P-shss-90,,0,0,0,,因此 随着时间的推移 这些扰性天线使旋转进入较慢的两端调换状态
+Dialogue: 0,0:09:48.95,0:09:55.40,1080P-shss-90,,0,0,0,,因此 随着时间的推移 这些柔性天线使旋转进入较慢的两端调换状态
 Dialogue: 0,0:09:56.14,0:09:59.64,1080P-sgbd-42,,0,0,0,,And that's actually important for modern satellite design
 Dialogue: 0,0:09:56.14,0:09:59.64,1080P-shss-90,,0,0,0,,而这点发现实际上对现代卫星的设计非常重要
 Dialogue: 0,0:09:59.67,0:10:04.22,1080P-sgbd-42,,0,0,0,,because you want to make sure that if your satellite is going to be rotating
@@ -319,11 +322,11 @@ Dialogue: 0,0:09:59.67,0:10:04.22,1080P-shss-90,,0,0,0,,因为你要确保 如�
 Dialogue: 0,0:10:04.45,0:10:08.44,1080P-sgbd-42,,0,0,0,,that it's not going to flip into another rotational state because it dissipates energy.
 Dialogue: 0,0:10:04.45,0:10:08.44,1080P-shss-90,,0,0,0,,它不会因为耗散能量而翻转到另一个旋转状态
 Dialogue: 0,0:10:09.22,0:10:14.87,1080P-sgbd-42,,0,0,0,,And yeah this is a cool thing because Explorer 1 would never have observed this
-Dialogue: 0,0:10:09.22,0:10:14.87,1080P-shss-90,,0,0,0,,是的 这是一个很酷的事情 因为探索者1号永远不会观察到这个现象
+Dialogue: 0,0:10:09.22,0:10:14.87,1080P-shss-90,,0,0,0,,是的 这是一件很酷的事情 因为探险者1号永远不会观察到这个现象
 Dialogue: 0,0:10:15.27,0:10:20.60,1080P-sgbd-42,,0,0,0,,if it wasn't for the design of the spacecraft being optimized around this spin stabilized hack
-Dialogue: 0,0:10:15.27,0:10:20.60,1080P-shss-90,,0,0,0,,如果当初这个航天器不是围绕着此优化稳定性的方法设计的话
+Dialogue: 0,0:10:15.27,0:10:20.60,1080P-shss-90,,0,0,0,,如果当初这个航天器不是围绕着此旋转稳定的方法来优化设计的话
 Dialogue: 0,0:10:20.82,0:10:23.86,1080P-sgbd-42,,0,0,0,,trying to put things into orbit as quickly as possible.
-Dialogue: 0,0:10:20.82,0:10:23.86,1080P-shss-90,,0,0,0,,并试图尽最快把东西送入轨道
+Dialogue: 0,0:10:20.82,0:10:23.86,1080P-shss-90,,0,0,0,,(而之所以采用这种方法) 是因为其试图尽最快把东西送入轨道
 Dialogue: 0,0:10:24.28,0:10:26.64,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
 Dialogue: 0,0:10:24.28,0:10:26.64,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
 Dialogue: 0,0:10:26.90,0:10:45.13,1080P-sgbd-4s,,0,0,0,,[Music]
