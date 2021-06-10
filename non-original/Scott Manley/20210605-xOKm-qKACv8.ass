@@ -25,261 +25,261 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.24,0:00:11.24,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Will The US Military Use SpaceX Rockets To Transport Cargo\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/xOKm-qKACv8\N原视频发布日期：20210605\N字幕翻译：WJIJKKH，校对：旋火
 Dialogue: 0,0:01:52.88,0:01:58.88,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)\fs40}不过，相对论空间20210608就发布了Terran R的概念，一个尺寸较小的类Starship火箭 www.relativityspace.com/rockets
 Dialogue: 0,0:07:48.32,0:07:53.20,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Scott这里口胡了，应该是Prompt Global Strike
-Dialogue: 0,0:00:04.24,0:00:05.75,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.24,0:00:05.75,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:05.75,0:00:08.32,1080P-sgbd-42,,0,0,0,,Yesterday we took another step towards science fiction
-Dialogue: 0,0:00:05.75,0:00:08.32,1080P-shss-90,,0,0,0,,昨天 我们又向科幻小说中的世界迈进了一步
-Dialogue: 0,0:00:08.32,0:00:14.86,1080P-sgbd-42,,0,0,0,,when it was announced that the US Air Force Research Laboratory was going to start taking a serious look at
-Dialogue: 0,0:00:08.32,0:00:14.86,1080P-shss-90,,0,0,0,,当美国空军研究实验室宣布 其将开始认真研究
-Dialogue: 0,0:00:14.87,0:00:22.25,1080P-sgbd-42,,0,0,0,,suborbital transportation of materials cargo whatever around the world using rockets right.
-Dialogue: 0,0:00:14.87,0:00:22.25,1080P-shss-90,,0,0,0,,使用火箭在世界范围内进行货物亚轨道运输 对吗
-Dialogue: 0,0:00:22.50,0:00:27.03,1080P-sgbd-42,,0,0,0,,I mean the official announcements talking about the this being a Vanguard program
-Dialogue: 0,0:00:22.50,0:00:27.03,1080P-shss-90,,0,0,0,,我的意思是 官方的公告说这是一个先锋计划
-Dialogue: 0,0:00:27.03,0:00:30.56,1080P-sgbd-42,,0,0,0,,as part of their science and technology strategy for the next decade.
-Dialogue: 0,0:00:27.03,0:00:30.56,1080P-shss-90,,0,0,0,,作为他们未来十年的科技战略的一部分
-Dialogue: 0,0:00:30.56,0:00:33.76,1080P-sgbd-42,,0,0,0,,And that Space Force would be the lead service for the program.
-Dialogue: 0,0:00:30.56,0:00:33.76,1080P-shss-90,,0,0,0,,而太空军将是该计划的主要服务对象
-Dialogue: 0,0:00:33.76,0:00:38.03,1080P-sgbd-42,,0,0,0,,And I'm not really sure what lead service means in this context
-Dialogue: 0,0:00:33.76,0:00:38.03,1080P-shss-90,,0,0,0,,而我不太清楚在这种情况下主要的服务对象意味着什么
-Dialogue: 0,0:00:38.03,0:00:43.25,1080P-sgbd-42,,0,0,0,,but I'm sure the concept of Space Force sending military assets around the world using rockets
-Dialogue: 0,0:00:38.03,0:00:43.25,1080P-shss-90,,0,0,0,,但我确信 太空军使用火箭将军事资产送到世界各地的概念
-Dialogue: 0,0:00:43.25,0:00:45.38,1080P-sgbd-42,,0,0,0,,sounds a lot like science fiction.
-Dialogue: 0,0:00:43.25,0:00:45.38,1080P-shss-90,,0,0,0,,听起来很像科幻小说里的事
-Dialogue: 0,0:00:45.98,0:00:49.03,1080P-sgbd-42,,0,0,0,,Well at least sending military hardware in that manner
-Dialogue: 0,0:00:45.98,0:00:49.03,1080P-shss-90,,0,0,0,,嗯 至少打算以这种方式发送军事设备
-Dialogue: 0,0:00:49.15,0:00:54.64,1080P-sgbd-42,,0,0,0,,without intending them to well explode on arrival, ICBMs, right.
-Dialogue: 0,0:00:49.15,0:00:54.64,1080P-shss-90,,0,0,0,,而不是打算让它们在抵达时爆炸 比如洲际弹道导弹 对吧
-Dialogue: 0,0:00:54.64,0:01:00.16,1080P-sgbd-42,,0,0,0,,Sci-fI has things like Starship troopers dropping onto the battlefield and pods
-Dialogue: 0,0:00:54.64,0:01:00.16,1080P-shss-90,,0,0,0,,科幻小说里有 像用星舰使用空降舱将士兵投送到战场上 这样的情节
-Dialogue: 0,0:01:00.16,0:01:07.57,1080P-sgbd-42,,0,0,0,,and in the 1950s and 1960s the idea of deploying troops via rocket was actually investigated broadly
-Dialogue: 0,0:01:00.16,0:01:07.57,1080P-shss-90,,0,0,0,,而在上世纪五六十年代 通过火箭部署部队的想法就已经得到了广泛研究
-Dialogue: 0,0:01:07.91,0:01:11.28,1080P-sgbd-42,,0,0,0,,and it produced like this marvelous concept art showing something
-Dialogue: 0,0:01:07.91,0:01:11.28,1080P-shss-90,,0,0,0,,而且 这些研究中产生的非凡的概念图里展示了一些东西
-Dialogue: 0,0:01:11.28,0:01:15.10,1080P-sgbd-42,,0,0,0,,that would make Starship look pretty small in comparison.
-Dialogue: 0,0:01:11.28,0:01:15.10,1080P-shss-90,,0,0,0,,这些东西都使SpaceX的星船看起来相当地小
-Dialogue: 0,0:01:15.68,0:01:18.88,1080P-sgbd-42,,0,0,0,,But in this case it's not about building anything new.
-Dialogue: 0,0:01:15.68,0:01:18.88,1080P-shss-90,,0,0,0,,但在当下这种情况下 这计划并不是打算要建造什么新东西
-Dialogue: 0,0:01:18.88,0:01:23.19,1080P-sgbd-42,,0,0,0,,The official wording announcing the program specifically says
-Dialogue: 0,0:01:18.88,0:01:23.19,1080P-shss-90,,0,0,0,,在宣布该计划的声明里 官方措辞中特别说到
-Dialogue: 0,0:01:23.20,0:01:27.68,1080P-sgbd-42,,0,0,0,,that the Air Force Research Laboratory will lead a science and technology effort
-Dialogue: 0,0:01:23.20,0:01:27.68,1080P-shss-90,,0,0,0,,空军研究实验室将领导一项科学和技术的研究
-Dialogue: 0,0:01:27.68,0:01:31.27,1080P-sgbd-42,,0,0,0,,to determine the viability and utility of
-Dialogue: 0,0:01:27.68,0:01:31.27,1080P-shss-90,,0,0,0,,以确定在该计划中 将现有的大型商业火箭
-Dialogue: 0,0:01:31.29,0:01:36.79,1080P-sgbd-42,,0,0,0,,using existing large commercial rockets for the Department of Defense global logistics.
-Dialogue: 0,0:01:31.29,0:01:36.79,1080P-shss-90,,0,0,0,,用于国防部的全球后勤的可行性和实用性
-Dialogue: 0,0:01:36.84,0:01:40.96,1080P-sgbd-42,,0,0,0,,So look this kind of restricts it to things that are already in existence.
-Dialogue: 0,0:01:36.84,0:01:40.96,1080P-shss-90,,0,0,0,,所以 这看起来有点像是把这个计划限制在已经存在的东西上了
-Dialogue: 0,0:01:40.96,0:01:43.65,1080P-sgbd-42,,0,0,0,,It's very likely just going to be a bunch of people
-Dialogue: 0,0:01:40.96,0:01:43.65,1080P-shss-90,,0,0,0,,这个研究很可能就是 一群研究人员
-Dialogue: 0,0:01:44.15,0:01:49.43,1080P-sgbd-42,,0,0,0,,sitting in a room and doing math and running simulations playing Kerbal Space Program
-Dialogue: 0,0:01:44.15,0:01:49.43,1080P-shss-90,,0,0,0,,坐在一个房间里 做做数学计算 运行下模拟器 玩玩坎巴拉太空计划
-Dialogue: 0,0:01:49.43,0:01:52.45,1080P-sgbd-42,,0,0,0,,and writing a report based on what's commercially available.
-Dialogue: 0,0:01:49.43,0:01:52.45,1080P-shss-90,,0,0,0,,并根据商业上现有的东西写一份报告
-Dialogue: 0,0:01:52.88,0:01:58.88,1080P-sgbd-42,,0,0,0,,And based on the current market the only thing that seriously fits the bill is SpaceX's Starship right.
-Dialogue: 0,0:01:52.88,0:01:58.88,1080P-shss-90,,0,0,0,,而根据目前的发射市场 唯一非常符合条件的就是SpaceX的星船
-Dialogue: 0,0:01:59.28,0:02:05.45,1080P-sgbd-42,,0,0,0,,I mean the concept art pretty much screams make it not quite look like SpaceX
-Dialogue: 0,0:01:59.28,0:02:05.45,1080P-shss-90,,0,0,0,,我的意思是 概念图几乎是在大声宣称着它跟SpaceX的星船不一样
-Dialogue: 0,0:02:05.98,0:02:11.77,1080P-sgbd-42,,0,0,0,,and the truth is however the Starship is not really an ideal design for many technical reasons
-Dialogue: 0,0:02:05.98,0:02:11.77,1080P-shss-90,,0,0,0,,而事实是 由于许多技术原因 星船并不是一个理想的设计
-Dialogue: 0,0:02:11.78,0:02:13.22,1080P-sgbd-42,,0,0,0,,but we'll get back to that.
-Dialogue: 0,0:02:11.78,0:02:13.22,1080P-shss-90,,0,0,0,,但我们之后会回到这个问题上
-Dialogue: 0,0:02:14.40,0:02:18.87,1080P-sgbd-42,,0,0,0,,Right now the fastest way to move stuff around the world is probably aircraft.
-Dialogue: 0,0:02:14.40,0:02:18.87,1080P-shss-90,,0,0,0,,现在 在世界范围内能最快运输物资的东西可能是飞机
-Dialogue: 0,0:02:18.97,0:02:21.92,1080P-sgbd-42,,0,0,0,,Things like the C-130 Hercules, the C-5 Galaxy.
-Dialogue: 0,0:02:18.97,0:02:21.92,1080P-shss-90,,0,0,0,,像是C-130大力士 C-5银河 这些运输机
-Dialogue: 0,0:02:21.92,0:02:23.12,1080P-sgbd-42,,0,0,0,,These are subsonic.
-Dialogue: 0,0:02:21.92,0:02:23.12,1080P-shss-90,,0,0,0,,这些都是亚音速的飞行器
-Dialogue: 0,0:02:23.12,0:02:28.50,1080P-sgbd-42,,0,0,0,,They will take a day to get around to the other side of the world with your precious cargo.
-Dialogue: 0,0:02:23.12,0:02:28.50,1080P-shss-90,,0,0,0,,它们需要一天的时间才能把你的珍贵货物运到世界的另一端
-Dialogue: 0,0:02:28.94,0:02:33.46,1080P-sgbd-42,,0,0,0,,But the US military already has bases all over the world
-Dialogue: 0,0:02:28.94,0:02:33.46,1080P-shss-90,,0,0,0,,但美国军方已经在世界各地拥有了基地
-Dialogue: 0,0:02:33.66,0:02:37.02,1080P-sgbd-42,,0,0,0,,and so if you've got something that's needed to be transported over that distance
-Dialogue: 0,0:02:33.66,0:02:37.02,1080P-shss-90,,0,0,0,,因此 如果你有东西需要被运输这么远的距离
-Dialogue: 0,0:02:37.06,0:02:42.49,1080P-sgbd-42,,0,0,0,,it actually makes some sense to have caches of this stuff at bases around the world.
-Dialogue: 0,0:02:37.06,0:02:42.49,1080P-shss-90,,0,0,0,,实际上 在世界各地的基地存放这些东西的备份是有意义的
-Dialogue: 0,0:02:43.14,0:02:45.44,1080P-sgbd-42,,0,0,0,,And the nice thing about air transport is
-Dialogue: 0,0:02:43.14,0:02:45.44,1080P-shss-90,,0,0,0,,而空中运输的好处是
-Dialogue: 0,0:02:45.44,0:02:49.08,1080P-sgbd-42,,0,0,0,,it is actually possible to air drop some of these things into locations
-Dialogue: 0,0:02:45.44,0:02:49.08,1080P-shss-90,,0,0,0,,它实际上能够将一些东西空投到有需要的地方
-Dialogue: 0,0:02:49.14,0:02:51.98,1080P-sgbd-42,,0,0,0,,where it's needed and where the aircraft can't land.
-Dialogue: 0,0:02:49.14,0:02:51.98,1080P-shss-90,,0,0,0,,而在这些需要它的地方 飞机不能降落
-Dialogue: 0,0:02:52.53,0:02:57.46,1080P-sgbd-42,,0,0,0,,So my question is is there a real need for suborbital transport
-Dialogue: 0,0:02:52.53,0:02:57.46,1080P-shss-90,,0,0,0,,所以我的问题是 亚轨道运输是否真的有需要
-Dialogue: 0,0:02:57.48,0:03:01.59,1080P-sgbd-42,,0,0,0,,which is again able to move stuff anywhere on the earth in under an hour.
-Dialogue: 0,0:02:57.48,0:03:01.59,1080P-shss-90,,0,0,0,,再重申一遍 它能在一小时内把东西送到地球上的任何地方
-Dialogue: 0,0:03:01.59,0:03:03.26,1080P-sgbd-42,,0,0,0,,And I'm very skeptical.
-Dialogue: 0,0:03:01.59,0:03:03.26,1080P-shss-90,,0,0,0,,我对这种运输方式的应用场景非常怀疑
-Dialogue: 0,0:03:03.44,0:03:06.49,1080P-sgbd-42,,0,0,0,,I think the scenarios where it works are very narrow.
-Dialogue: 0,0:03:03.44,0:03:06.49,1080P-shss-90,,0,0,0,,我认为它能发挥作用的场景非常有限
-Dialogue: 0,0:03:06.72,0:03:09.72,1080P-sgbd-42,,0,0,0,,But you know the US Department of Defense has deep pockets
-Dialogue: 0,0:03:06.72,0:03:09.72,1080P-shss-90,,0,0,0,,但你知道 美国国防部的预算口袋很深
-Dialogue: 0,0:03:10.04,0:03:14.46,1080P-sgbd-42,,0,0,0,,and might end up investing in something even if it never actually gets used.
-Dialogue: 0,0:03:10.04,0:03:14.46,1080P-shss-90,,0,0,0,,并且 这些预算可能最终投资于一些东西从未被实际使用的东西
-Dialogue: 0,0:03:15.40,0:03:18.87,1080P-sgbd-42,,0,0,0,,Suborbital transportation makes the transport very fast
-Dialogue: 0,0:03:15.40,0:03:18.87,1080P-shss-90,,0,0,0,,亚轨道运输使运输速度极大地提高
-Dialogue: 0,0:03:19.07,0:03:22.28,1080P-sgbd-42,,0,0,0,,but it still takes time to load and unload at each end.
-Dialogue: 0,0:03:19.07,0:03:22.28,1080P-shss-90,,0,0,0,,但其在运输的两地仍需要花费时间进行装载和卸载
-Dialogue: 0,0:03:22.65,0:03:26.36,1080P-sgbd-42,,0,0,0,,And the loading time you also have to account for things like propellant loading time
-Dialogue: 0,0:03:22.65,0:03:26.36,1080P-shss-90,,0,0,0,,而且 装载时间还必须考虑到推进剂加注时间等其他因素
-Dialogue: 0,0:03:26.39,0:03:29.84,1080P-sgbd-42,,0,0,0,,which is non-trivial for a 5000 ton rocket.
-Dialogue: 0,0:03:26.39,0:03:29.84,1080P-shss-90,,0,0,0,,对于5000吨的火箭来说 这可是件不平常的事
-Dialogue: 0,0:03:30.31,0:03:35.26,1080P-sgbd-42,,0,0,0,,You can't keep a cryogenically fueled Starship on the pad ready to go at a moment.
-Dialogue: 0,0:03:30.31,0:03:35.26,1080P-shss-90,,0,0,0,,你不可能把装有低温燃料的星船放在发射平台上 以准备随时出发
-Dialogue: 0,0:03:35.40,0:03:39.11,1080P-sgbd-42,,0,0,0,,Notice it takes about 30 minutes to fuel up the Falcon 9
-Dialogue: 0,0:03:35.40,0:03:39.11,1080P-shss-90,,0,0,0,,需要注意的是 给猎鹰9号加注推进剂大约需要30分钟
-Dialogue: 0,0:03:39.11,0:03:42.87,1080P-sgbd-42,,0,0,0,,and it will probably take longer to load up Starship with all its propellants.
-Dialogue: 0,0:03:39.11,0:03:42.87,1080P-shss-90,,0,0,0,,而给星船加注推进剂可能需要更多的时间
-Dialogue: 0,0:03:43.77,0:03:45.36,1080P-sgbd-42,,0,0,0,,Now it can be presumed that
-Dialogue: 0,0:03:43.77,0:03:45.36,1080P-shss-90,,0,0,0,,那么可以推测的是
-Dialogue: 0,0:03:45.37,0:03:51.38,1080P-sgbd-42,,0,0,0,,the massive extra resources needed for suborbital delivery will make it much more expensive than aircraft.
-Dialogue: 0,0:03:45.37,0:03:51.38,1080P-shss-90,,0,0,0,,使用亚轨道运送大量额外的物资 会比使用飞机运输昂贵得多
-Dialogue: 0,0:03:51.70,0:03:58.10,1080P-sgbd-42,,0,0,0,,Currently the Falcon 9 rideshare program costs of about 5000 dollars per kilogram.
-Dialogue: 0,0:03:51.70,0:03:58.10,1080P-shss-90,,0,0,0,,目前 猎鹰9号搭车服务的发射成本约为每公斤5000美元
-Dialogue: 0,0:03:58.56,0:04:02.56,1080P-sgbd-42,,0,0,0,,Now the scale of something like Starship might reduce that to a fraction of this.
-Dialogue: 0,0:03:58.56,0:04:02.56,1080P-shss-90,,0,0,0,,那么 像星船这样大小的火箭可能会将成本降低到这个数字的一小部分
-Dialogue: 0,0:04:02.56,0:04:05.27,1080P-sgbd-42,,0,0,0,,Whatever you want to ship around the world
-Dialogue: 0,0:04:02.56,0:04:05.27,1080P-shss-90,,0,0,0,,无论你想在世界范围内运输什么
-Dialogue: 0,0:04:05.28,0:04:09.76,1080P-sgbd-42,,0,0,0,,it will have to justify this cost of getting there a day before other supplies.
-Dialogue: 0,0:04:05.28,0:04:09.76,1080P-shss-90,,0,0,0,,它都将必须证明这一成本 对于它的速度优势来说是合理的
-Dialogue: 0,0:04:09.76,0:04:12.22,1080P-sgbd-42,,0,0,0,,And the good news ofcourse on this is
-Dialogue: 0,0:04:09.76,0:04:12.22,1080P-shss-90,,0,0,0,,当然 这方面的好消息是
-Dialogue: 0,0:04:12.24,0:04:17.44,1080P-sgbd-42,,0,0,0,,that the US military has lots of stuff that costs more than five thousand dollars per kilogram.
-Dialogue: 0,0:04:12.24,0:04:17.44,1080P-shss-90,,0,0,0,,美军有很多东西 每公斤的成本都超过5000美元
-Dialogue: 0,0:04:18.38,0:04:21.91,1080P-sgbd-42,,0,0,0,,So let's look at that glorious concept art again.
-Dialogue: 0,0:04:18.38,0:04:21.91,1080P-shss-90,,0,0,0,,因此 让我们再看看那幅非凡的概念图
-Dialogue: 0,0:04:21.91,0:04:26.00,1080P-sgbd-42,,0,0,0,,It shows trucks driving away from a rocket with red cross flags
-Dialogue: 0,0:04:21.91,0:04:26.00,1080P-shss-90,,0,0,0,,画面上 有很多带有红十字标识的卡车从火箭上驶离
-Dialogue: 0,0:04:26.02,0:04:29.60,1080P-sgbd-42,,0,0,0,,suggesting that this monster rocket dropped into some disaster zone
-Dialogue: 0,0:04:26.02,0:04:29.60,1080P-shss-90,,0,0,0,,表明这个巨大的火箭降落在了某个灾区
-Dialogue: 0,0:04:29.60,0:04:32.40,1080P-sgbd-42,,0,0,0,,with materials to help the locals get back on their feet.
-Dialogue: 0,0:04:29.60,0:04:32.40,1080P-shss-90,,0,0,0,,带有帮助当地人重建的物资
-Dialogue: 0,0:04:32.59,0:04:37.02,1080P-sgbd-42,,0,0,0,,And the US military is actually regularly involved in disaster relief operations
-Dialogue: 0,0:04:32.59,0:04:37.02,1080P-shss-90,,0,0,0,,而事实是 美军经常参与救灾行动
-Dialogue: 0,0:04:37.34,0:04:41.04,1080P-sgbd-42,,0,0,0,,but if you're watching something like a hurricane or floods or bad weather
-Dialogue: 0,0:04:37.34,0:04:41.04,1080P-shss-90,,0,0,0,,但如果发生的是飓风 洪水 恶劣天气这样的灾害
-Dialogue: 0,0:04:41.04,0:04:47.19,1080P-sgbd-42,,0,0,0,,then the odds are the planners already have enough of a head start to be preparing for the recovery
-Dialogue: 0,0:04:41.04,0:04:47.19,1080P-shss-90,,0,0,0,,{\fs85}那么 规划者们很可能可以提前足够多时间来为恢复做准备(因为天气预报)
-Dialogue: 0,0:04:47.38,0:04:51.34,1080P-sgbd-42,,0,0,0,,by moving materials closer to the place they'll be needed as soon as landing as possible.
-Dialogue: 0,0:04:47.38,0:04:51.34,1080P-shss-90,,0,0,0,,{\fs73}也就是一降落以后 就把所需的物资运输到足够靠近灾区的地方(不需要亚轨道那么快)
-Dialogue: 0,0:04:51.64,0:04:53.95,1080P-sgbd-42,,0,0,0,,Assuming that someone competent is in charge.
-Dialogue: 0,0:04:51.64,0:04:53.95,1080P-shss-90,,0,0,0,,假设十分有能力的人在对此负责
-Dialogue: 0,0:04:54.32,0:04:58.63,1080P-sgbd-42,,0,0,0,,Earthquakes and tsunami on the other hand they don't have offer any warning.
-Dialogue: 0,0:04:54.32,0:04:58.63,1080P-shss-90,,0,0,0,,另一方面 地震 海啸的发生是没有任何警告的
-Dialogue: 0,0:04:58.63,0:05:00.81,1080P-sgbd-42,,0,0,0,,So sure there might be some advantage in
-Dialogue: 0,0:04:58.63,0:05:00.81,1080P-shss-90,,0,0,0,,因此 可以肯定的是
-Dialogue: 0,0:05:00.82,0:05:05.91,1080P-sgbd-42,,0,0,0,,getting relief to some people hours afterwards rather than days afterwards.
-Dialogue: 0,0:05:00.82,0:05:05.91,1080P-shss-90,,0,0,0,,让一些人在几小时后获得救济要好于几天后才获得救济
-Dialogue: 0,0:05:06.06,0:05:09.30,1080P-sgbd-42,,0,0,0,,But again this is very much a niche application.
-Dialogue: 0,0:05:06.06,0:05:09.30,1080P-shss-90,,0,0,0,,但再说一下 这是一个非常小众的应用
-Dialogue: 0,0:05:10.23,0:05:13.79,1080P-sgbd-42,,0,0,0,,The image also shows a rocket landed vertically
-Dialogue: 0,0:05:10.23,0:05:13.79,1080P-shss-90,,0,0,0,,这张概念图还显示了这个火箭是垂直降落的
-Dialogue: 0,0:05:14.16,0:05:16.24,1080P-sgbd-42,,0,0,0,,and this is what Starship intends to do
-Dialogue: 0,0:05:14.16,0:05:16.24,1080P-shss-90,,0,0,0,,而这正是星船打算做的事情
-Dialogue: 0,0:05:16.44,0:05:19.75,1080P-sgbd-42,,0,0,0,,but it's not really a great option for loading and unloading.
-Dialogue: 0,0:05:16.44,0:05:19.75,1080P-shss-90,,0,0,0,,但对于装卸货物来说 这种着陆方法并不是一个真正的好选择
-Dialogue: 0,0:05:20.16,0:05:24.00,1080P-sgbd-42,,0,0,0,,Starship has to land vertically because the engines are in the bottom
-Dialogue: 0,0:05:20.16,0:05:24.00,1080P-shss-90,,0,0,0,,星船必须垂直着陆 因为其发动机在飞船的底部
-Dialogue: 0,0:05:24.00,0:05:28.17,1080P-sgbd-42,,0,0,0,,and it uses the same engines for boosting into orbit and for landing back from space
-Dialogue: 0,0:05:24.00,0:05:28.17,1080P-shss-90,,0,0,0,,而且它使用相同的发动机来入轨和从太空着陆返回
-Dialogue: 0,0:05:28.19,0:05:30.35,1080P-sgbd-42,,0,0,0,,because you're trying to optimize for the mass.
-Dialogue: 0,0:05:28.19,0:05:30.35,1080P-shss-90,,0,0,0,,因为你要使飞船重量最优化
-Dialogue: 0,0:05:30.89,0:05:33.77,1080P-sgbd-42,,0,0,0,,But let's be clear the wording surrounding the program
-Dialogue: 0,0:05:30.89,0:05:33.77,1080P-shss-90,,0,0,0,,但我们要搞清楚该计划的措辞
-Dialogue: 0,0:05:34.08,0:05:38.49,1080P-sgbd-42,,0,0,0,,it does give them flexibility to consider other options from other contractors
-Dialogue: 0,0:05:34.08,0:05:38.49,1080P-shss-90,,0,0,0,,它确实给了他们考虑来自其他承包商方案的灵活性
-Dialogue: 0,0:05:38.53,0:05:43.70,1080P-sgbd-42,,0,0,0,,who might want to throw their hat in the ring if they smell some DoD contract money.
-Dialogue: 0,0:05:38.53,0:05:43.70,1080P-shss-90,,0,0,0,,如果他们闻到了国防部合同资金的味道 也可能会参与到这个计划中
-Dialogue: 0,0:05:44.40,0:05:47.26,1080P-sgbd-42,,0,0,0,,If you were wanting to build something more appropriate for
-Dialogue: 0,0:05:44.40,0:05:47.26,1080P-shss-90,,0,0,0,,如果你想建造一个更适用于
-Dialogue: 0,0:05:47.27,0:05:50.24,1080P-sgbd-42,,0,0,0,,landing in an unprepared area and offloading cargo
-Dialogue: 0,0:05:47.27,0:05:50.24,1080P-shss-90,,0,0,0,,在没有条件的地方着陆 并卸载货物的航天器
-Dialogue: 0,0:05:50.40,0:05:53.46,1080P-sgbd-42,,0,0,0,,I still don't think that parachutes are going to be a viable option
-Dialogue: 0,0:05:50.40,0:05:53.46,1080P-shss-90,,0,0,0,,我仍然不认为降落伞将是一个可行的选择
-Dialogue: 0,0:05:53.50,0:05:56.38,1080P-sgbd-42,,0,0,0,,simply because we're talking something very large.
-Dialogue: 0,0:05:53.50,0:05:56.38,1080P-shss-90,,0,0,0,,仅仅是因为我们谈论的东西都非常巨大
-Dialogue: 0,0:05:56.87,0:06:01.34,1080P-sgbd-42,,0,0,0,,But redesigned rocket-based lander which puts the cargo closer to the ground
-Dialogue: 0,0:05:56.87,0:06:01.34,1080P-shss-90,,0,0,0,,但 重新设计一个装载的货物离地面更近的火箭着陆器
-Dialogue: 0,0:06:01.59,0:06:07.78,1080P-sgbd-42,,0,0,0,,would solve the massive problems of unloading cargo quickly from Starship after landing in the location
-Dialogue: 0,0:06:01.59,0:06:07.78,1080P-shss-90,,0,0,0,,将会解决星船着陆后无法迅速卸下货物的巨大问题
-Dialogue: 0,0:06:08.20,0:06:11.39,1080P-sgbd-42,,0,0,0,,which may not have any specialist cargo handling gear.
-Dialogue: 0,0:06:08.20,0:06:11.39,1080P-shss-90,,0,0,0,,而在卸载货物的过程中 它可能没有任何专业设备的帮助
-Dialogue: 0,0:06:12.17,0:06:17.73,1080P-sgbd-42,,0,0,0,,I mean on the other hand Starship might work well if you're delivering cargo between US bases
-Dialogue: 0,0:06:12.17,0:06:17.73,1080P-shss-90,,0,0,0,,我的意思是 另一方面 在美军基地间使用星船运输货物可能很合适
-Dialogue: 0,0:06:17.92,0:06:23.03,1080P-sgbd-42,,0,0,0,,but again if you're delivering it between bases you have to ask what kind of cargo is so valuable
-Dialogue: 0,0:06:17.92,0:06:23.03,1080P-shss-90,,0,0,0,,但是 如果要在基地间送货 就得再次考虑是什么货物如此昂贵
-Dialogue: 0,0:06:23.18,0:06:27.70,1080P-sgbd-42,,0,0,0,,that it isn't just cheaper to have extra copies on hand at bases around the world.
-Dialogue: 0,0:06:23.18,0:06:27.70,1080P-shss-90,,0,0,0,,以至于在世界各地的基地都不会有额外的备份
-Dialogue: 0,0:06:29.12,0:06:32.88,1080P-sgbd-42,,0,0,0,,One item actually which can't be easily copied is people
-Dialogue: 0,0:06:29.12,0:06:32.88,1080P-shss-90,,0,0,0,,实际上 有一个东西是不容易被复制的 那就是人
-Dialogue: 0,0:06:33.36,0:06:37.62,1080P-sgbd-42,,0,0,0,,if there's some situation that requires a specific person or specific group of people
-Dialogue: 0,0:06:33.36,0:06:37.62,1080P-shss-90,,0,0,0,,如果有一些情况 需要特定的一个或一群人
-Dialogue: 0,0:06:37.65,0:06:41.31,1080P-sgbd-42,,0,0,0,,to be on the ground in a specific place as soon as possible.
-Dialogue: 0,0:06:37.65,0:06:41.31,1080P-shss-90,,0,0,0,,尽快赶到一个特定的地方
-Dialogue: 0,0:06:42.09,0:06:45.39,1080P-sgbd-42,,0,0,0,,Sure this is something that might actually work might offer an advantage.
-Dialogue: 0,0:06:42.09,0:06:45.39,1080P-shss-90,,0,0,0,,当然 在这种情况下 这种运输方法能真正带来优势
-Dialogue: 0,0:06:45.91,0:06:51.70,1080P-sgbd-42,,0,0,0,,The 1960s concept are actually shows troops deploying via a giant inflatable slide
-Dialogue: 0,0:06:45.91,0:06:51.70,1080P-shss-90,,0,0,0,,60年代的概念图实际上显示了部队通过一个巨大的充气滑梯进行部署
-Dialogue: 0,0:06:51.72,0:06:53.68,1080P-sgbd-42,,0,0,0,,which seems sub-optimal.
-Dialogue: 0,0:06:51.72,0:06:53.68,1080P-shss-90,,0,0,0,,这似乎是不太好的方法
-Dialogue: 0,0:06:54.22,0:06:57.36,1080P-sgbd-42,,0,0,0,,After a rocket launch hot re-entry and fiery landing
-Dialogue: 0,0:06:54.22,0:06:57.36,1080P-shss-90,,0,0,0,,在经历了火箭发射 高温再入和点火着陆之后
-Dialogue: 0,0:06:57.36,0:07:01.74,1080P-sgbd-42,,0,0,0,,it would be unfortunate to injure yourself on a giant inflatable slide.
-Dialogue: 0,0:06:57.36,0:07:01.74,1080P-shss-90,,0,0,0,,如果你在一个巨大的充气滑梯上受伤 那将是极为不幸的
-Dialogue: 0,0:07:02.47,0:07:08.69,1080P-sgbd-42,,0,0,0,,The trajectory that a sub-orbital flight has to follow means that there's no flexibility on routes.
-Dialogue: 0,0:07:02.47,0:07:08.69,1080P-shss-90,,0,0,0,,亚轨道飞行必须遵循一定的弹道 意味着其在路线上没有灵活性
-Dialogue: 0,0:07:08.71,0:07:10.16,1080P-sgbd-42,,0,0,0,,You have to follow a great circle
-Dialogue: 0,0:07:08.71,0:07:10.16,1080P-shss-90,,0,0,0,,你的路线必须是大圆(过球心的平面与球体表面的交线)
-Dialogue: 0,0:07:10.16,0:07:15.03,1080P-sgbd-42,,0,0,0,,and that means the vehicle from certain destinations will override territories
-Dialogue: 0,0:07:10.16,0:07:15.03,1080P-shss-90,,0,0,0,,而这意味着 从某些地点发射的航天器将飞跃他国领土
-Dialogue: 0,0:07:15.03,0:07:18.21,1080P-sgbd-42,,0,0,0,,at an altitude that might would be considered in orbit.
-Dialogue: 0,0:07:15.03,0:07:18.21,1080P-shss-90,,0,0,0,,在一个可能会被认为是在轨道上的高度
-Dialogue: 0,0:07:18.68,0:07:21.15,1080P-sgbd-42,,0,0,0,,And this will probably lead to complaints from some
-Dialogue: 0,0:07:18.68,0:07:21.15,1080P-shss-90,,0,0,0,,而这可能会导致一些方面的抱怨
-Dialogue: 0,0:07:21.45,0:07:24.80,1080P-sgbd-42,,0,0,0,,but there's basically very little that can be done to stop it
-Dialogue: 0,0:07:21.45,0:07:24.80,1080P-shss-90,,0,0,0,,但基本上没有什么方式可以来阻止它越过领土
-Dialogue: 0,0:07:24.80,0:07:28.82,1080P-sgbd-42,,0,0,0,,unless a country wants to actually go to war and deploy anti-satellite things.
-Dialogue: 0,0:07:24.80,0:07:28.82,1080P-shss-90,,0,0,0,,除非一个国家想真正开战并部署反卫星的武器
-Dialogue: 0,0:07:29.53,0:07:34.72,1080P-sgbd-42,,0,0,0,,Launching suborbital military rockets as well to fly over somebody else's territory
-Dialogue: 0,0:07:29.53,0:07:34.72,1080P-shss-90,,0,0,0,,发射亚轨道军用火箭 并飞越别人的领土
-Dialogue: 0,0:07:34.72,0:07:37.44,1080P-sgbd-42,,0,0,0,,is also going to be a political minefield.
-Dialogue: 0,0:07:34.72,0:07:37.44,1080P-shss-90,,0,0,0,,也将是一个政治雷区
-Dialogue: 0,0:07:38.00,0:07:43.22,1080P-sgbd-42,,0,0,0,,Not just because it's like flying over other people's territory with military stuff
-Dialogue: 0,0:07:38.00,0:07:43.22,1080P-shss-90,,0,0,0,,不仅仅因为 它是飞跃他国领土的军用飞行器
-Dialogue: 0,0:07:43.53,0:07:47.74,1080P-sgbd-42,,0,0,0,,but hey how do that that's not a nuclear missile strike incoming.
-Dialogue: 0,0:07:43.53,0:07:47.74,1080P-shss-90,,0,0,0,,但更是因为 嘿 你怎么知道那不是一个来袭的核导弹
-Dialogue: 0,0:07:48.32,0:07:53.20,1080P-sgbd-42,,0,0,0,,The US actually has an ongoing project called Prompt Global Response(Strike)
-Dialogue: 0,0:07:48.32,0:07:53.20,1080P-shss-90,,0,0,0,,美国实际上有一个正在进行的项目 叫做全球快速打击
-Dialogue: 0,0:07:53.44,0:07:57.75,1080P-sgbd-42,,0,0,0,,to deliver conventional weapons via something like an ICBM.
-Dialogue: 0,0:07:53.44,0:07:57.75,1080P-shss-90,,0,0,0,,也就是通过类似洲际弹道导弹类的东西来运送常规武器
-Dialogue: 0,0:07:57.75,0:08:03.69,1080P-sgbd-42,,0,0,0,,And one of the major sticking points is the potential confusion and potential for retaliation
-Dialogue: 0,0:07:57.75,0:08:03.69,1080P-shss-90,,0,0,0,,而这其中一个主要的症结是潜在的混乱和报复
-Dialogue: 0,0:08:03.72,0:08:06.78,1080P-sgbd-42,,0,0,0,,if another nation suspects that the launch is nuclear.
-Dialogue: 0,0:08:03.72,0:08:06.78,1080P-shss-90,,0,0,0,,如果另一个国家怀疑在飞行的是发射的核弹
-Dialogue: 0,0:08:07.35,0:08:12.56,1080P-sgbd-42,,0,0,0,,When the global policy on averting nuclear conflict is mutually assured destruction
-Dialogue: 0,0:08:07.35,0:08:12.56,1080P-shss-90,,0,0,0,,当避免核冲突的全球政策是确保相互摧毁时
-Dialogue: 0,0:08:12.77,0:08:18.82,1080P-sgbd-42,,0,0,0,,there's not a huge room amount of room for nuance in responses to launches in other territories.
-Dialogue: 0,0:08:12.77,0:08:18.82,1080P-shss-90,,0,0,0,,在对其他领土上的(这类)发射 我们没有很大的空间做出细微的反应
-Dialogue: 0,0:08:19.67,0:08:23.37,1080P-sgbd-42,,0,0,0,,So look I don't see this ever being deployed at least not in the near term.
-Dialogue: 0,0:08:19.67,0:08:23.37,1080P-shss-90,,0,0,0,,因此 我认为这种火箭永远不会被部署 至少在短期内不会
-Dialogue: 0,0:08:23.69,0:08:27.99,1080P-sgbd-42,,0,0,0,,Technologically it's absolutely possible to build something that does this.
-Dialogue: 0,0:08:23.69,0:08:27.99,1080P-shss-90,,0,0,0,,从技术上讲 制造这样的火箭是绝对可能的
-Dialogue: 0,0:08:28.16,0:08:30.18,1080P-sgbd-42,,0,0,0,,Starship isn't quite right for the task.
-Dialogue: 0,0:08:28.16,0:08:30.18,1080P-shss-90,,0,0,0,,(而)星船并不完全适合这项任务
-Dialogue: 0,0:08:30.19,0:08:35.01,1080P-sgbd-42,,0,0,0,,But if the DoD wanted I'm sure they could get something more in line with their needs.
-Dialogue: 0,0:08:30.19,0:08:35.01,1080P-shss-90,,0,0,0,,但如果国防部想要 我相信他们可以得到更符合他们需求的东西
-Dialogue: 0,0:08:35.34,0:08:37.54,1080P-sgbd-42,,0,0,0,,And there's a lot of defense contractors out there
-Dialogue: 0,0:08:35.34,0:08:37.54,1080P-shss-90,,0,0,0,,而且还有很多国防承包商在那里
-Dialogue: 0,0:08:37.56,0:08:40.44,1080P-sgbd-42,,0,0,0,,that would be more than happy to take the money for such a project.
-Dialogue: 0,0:08:37.56,0:08:40.44,1080P-shss-90,,0,0,0,,他们会非常乐意接受这样一个项目的资金
-Dialogue: 0,0:08:40.86,0:08:45.32,1080P-sgbd-42,,0,0,0,,But I will say that I'd see suborbital transportation of military hardware
-Dialogue: 0,0:08:40.86,0:08:45.32,1080P-shss-90,,0,0,0,,但我会说的是 我认为军事物资的亚轨道运输
-Dialogue: 0,0:08:45.70,0:08:50.24,1080P-sgbd-42,,0,0,0,,as much more likely to happen than point-to-point civilian passenger transport
-Dialogue: 0,0:08:45.70,0:08:50.24,1080P-shss-90,,0,0,0,,比点对点民用亚轨道客运更有可能实现
-Dialogue: 0,0:08:50.24,0:08:53.87,1080P-sgbd-42,,0,0,0,,because you both actually have similar problems in terms of politics.
-Dialogue: 0,0:08:50.24,0:08:53.87,1080P-shss-90,,0,0,0,,因为它们在政治方面实际上都有类似的问题
-Dialogue: 0,0:08:54.13,0:08:58.48,1080P-sgbd-42,,0,0,0,,But the military actually have the connections to help circumvent these problems.
-Dialogue: 0,0:08:54.13,0:08:58.48,1080P-shss-90,,0,0,0,,但军方实际上有沟通的方式以帮助规避这些政治问题
-Dialogue: 0,0:08:59.01,0:09:01.23,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:08:59.01,0:09:01.23,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
-Dialogue: 0,0:09:01.70,0:09:20.41,1080P-sgbd-4s,,0,0,0,,[Music]
-Dialogue: 0,0:09:01.70,0:09:20.41,1080P-sgsm-6s,,0,0,0,,[音乐]
+Dialogue: 0,0:00:04.24,0:00:05.75,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Dialogue: 0,0:00:04.24,0:00:05.75,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
+Dialogue: 0,0:00:05.75,0:00:08.32,1080P-sgbd-42,,0,0,0,,{\blur4}Yesterday we took another step towards science fiction
+Dialogue: 0,0:00:05.75,0:00:08.32,1080P-shss-90,,0,0,0,,{\blur4}昨天 我们又向科幻小说中的世界迈进了一步
+Dialogue: 0,0:00:08.32,0:00:14.86,1080P-sgbd-42,,0,0,0,,{\blur4}when it was announced that the US Air Force Research Laboratory was going to start taking a serious look at
+Dialogue: 0,0:00:08.32,0:00:14.86,1080P-shss-90,,0,0,0,,{\blur4}当美国空军研究实验室宣布 其将开始认真研究
+Dialogue: 0,0:00:14.87,0:00:22.25,1080P-sgbd-42,,0,0,0,,{\blur4}suborbital transportation of materials cargo whatever around the world using rockets right.
+Dialogue: 0,0:00:14.87,0:00:22.25,1080P-shss-90,,0,0,0,,{\blur4}使用火箭在世界范围内进行货物亚轨道运输 对吗
+Dialogue: 0,0:00:22.50,0:00:27.03,1080P-sgbd-42,,0,0,0,,{\blur4}I mean the official announcements talking about the this being a Vanguard program
+Dialogue: 0,0:00:22.50,0:00:27.03,1080P-shss-90,,0,0,0,,{\blur4}我的意思是 官方的公告说这是一个先锋计划
+Dialogue: 0,0:00:27.03,0:00:30.56,1080P-sgbd-42,,0,0,0,,{\blur4}as part of their science and technology strategy for the next decade.
+Dialogue: 0,0:00:27.03,0:00:30.56,1080P-shss-90,,0,0,0,,{\blur4}作为他们未来十年的科技战略的一部分
+Dialogue: 0,0:00:30.56,0:00:33.76,1080P-sgbd-42,,0,0,0,,{\blur4}And that Space Force would be the lead service for the program.
+Dialogue: 0,0:00:30.56,0:00:33.76,1080P-shss-90,,0,0,0,,{\blur4}而太空军将是该计划的主要服务对象
+Dialogue: 0,0:00:33.76,0:00:38.03,1080P-sgbd-42,,0,0,0,,{\blur4}And I'm not really sure what lead service means in this context
+Dialogue: 0,0:00:33.76,0:00:38.03,1080P-shss-90,,0,0,0,,{\blur4}而我不太清楚在这种情况下主要的服务对象意味着什么
+Dialogue: 0,0:00:38.03,0:00:43.25,1080P-sgbd-42,,0,0,0,,{\blur4}but I'm sure the concept of Space Force sending military assets around the world using rockets
+Dialogue: 0,0:00:38.03,0:00:43.25,1080P-shss-90,,0,0,0,,{\blur4}但我确信 太空军使用火箭将军事资产送到世界各地的概念
+Dialogue: 0,0:00:43.25,0:00:45.38,1080P-sgbd-42,,0,0,0,,{\blur4}sounds a lot like science fiction.
+Dialogue: 0,0:00:43.25,0:00:45.38,1080P-shss-90,,0,0,0,,{\blur4}听起来很像科幻小说里的事
+Dialogue: 0,0:00:45.98,0:00:49.03,1080P-sgbd-42,,0,0,0,,{\blur4}Well at least sending military hardware in that manner
+Dialogue: 0,0:00:45.98,0:00:49.03,1080P-shss-90,,0,0,0,,{\blur4}嗯 至少打算以这种方式发送军事设备
+Dialogue: 0,0:00:49.15,0:00:54.64,1080P-sgbd-42,,0,0,0,,{\blur4}without intending them to well explode on arrival, ICBMs, right.
+Dialogue: 0,0:00:49.15,0:00:54.64,1080P-shss-90,,0,0,0,,{\blur4}而不是打算让它们在抵达时爆炸 比如洲际弹道导弹 对吧
+Dialogue: 0,0:00:54.64,0:01:00.16,1080P-sgbd-42,,0,0,0,,{\blur4}Sci-fI has things like Starship troopers dropping onto the battlefield and pods
+Dialogue: 0,0:00:54.64,0:01:00.16,1080P-shss-90,,0,0,0,,{\blur4}科幻小说里有 像用星舰使用空降舱将士兵投送到战场上 这样的情节
+Dialogue: 0,0:01:00.16,0:01:07.57,1080P-sgbd-42,,0,0,0,,{\blur4}and in the 1950s and 1960s the idea of deploying troops via rocket was actually investigated broadly
+Dialogue: 0,0:01:00.16,0:01:07.57,1080P-shss-90,,0,0,0,,{\blur4}而在上世纪五六十年代 通过火箭部署部队的想法就已经得到了广泛研究
+Dialogue: 0,0:01:07.91,0:01:11.28,1080P-sgbd-42,,0,0,0,,{\blur4}and it produced like this marvelous concept art showing something
+Dialogue: 0,0:01:07.91,0:01:11.28,1080P-shss-90,,0,0,0,,{\blur4}而且 这些研究中产生的非凡的概念图里展示了一些东西
+Dialogue: 0,0:01:11.28,0:01:15.10,1080P-sgbd-42,,0,0,0,,{\blur4}that would make Starship look pretty small in comparison.
+Dialogue: 0,0:01:11.28,0:01:15.10,1080P-shss-90,,0,0,0,,{\blur4}这些东西都使SpaceX的星船看起来相当地小
+Dialogue: 0,0:01:15.68,0:01:18.88,1080P-sgbd-42,,0,0,0,,{\blur4}But in this case it's not about building anything new.
+Dialogue: 0,0:01:15.68,0:01:18.88,1080P-shss-90,,0,0,0,,{\blur4}但在当下这种情况下 这计划并不是打算要建造什么新东西
+Dialogue: 0,0:01:18.88,0:01:23.19,1080P-sgbd-42,,0,0,0,,{\blur4}The official wording announcing the program specifically says
+Dialogue: 0,0:01:18.88,0:01:23.19,1080P-shss-90,,0,0,0,,{\blur4}在宣布该计划的声明里 官方措辞中特别说到
+Dialogue: 0,0:01:23.20,0:01:27.68,1080P-sgbd-42,,0,0,0,,{\blur4}that the Air Force Research Laboratory will lead a science and technology effort
+Dialogue: 0,0:01:23.20,0:01:27.68,1080P-shss-90,,0,0,0,,{\blur4}空军研究实验室将领导一项科学和技术的研究
+Dialogue: 0,0:01:27.68,0:01:31.27,1080P-sgbd-42,,0,0,0,,{\blur4}to determine the viability and utility of
+Dialogue: 0,0:01:27.68,0:01:31.27,1080P-shss-90,,0,0,0,,{\blur4}以确定在该计划中 将现有的大型商业火箭
+Dialogue: 0,0:01:31.29,0:01:36.79,1080P-sgbd-42,,0,0,0,,{\blur4}using existing large commercial rockets for the Department of Defense global logistics.
+Dialogue: 0,0:01:31.29,0:01:36.79,1080P-shss-90,,0,0,0,,{\blur4}用于国防部的全球后勤的可行性和实用性
+Dialogue: 0,0:01:36.84,0:01:40.96,1080P-sgbd-42,,0,0,0,,{\blur4}So look this kind of restricts it to things that are already in existence.
+Dialogue: 0,0:01:36.84,0:01:40.96,1080P-shss-90,,0,0,0,,{\blur4}所以 这看起来有点像是把这个计划限制在已经存在的东西上了
+Dialogue: 0,0:01:40.96,0:01:43.65,1080P-sgbd-42,,0,0,0,,{\blur4}It's very likely just going to be a bunch of people
+Dialogue: 0,0:01:40.96,0:01:43.65,1080P-shss-90,,0,0,0,,{\blur4}这个研究很可能就是 一群研究人员
+Dialogue: 0,0:01:44.15,0:01:49.43,1080P-sgbd-42,,0,0,0,,{\blur4}sitting in a room and doing math and running simulations playing Kerbal Space Program
+Dialogue: 0,0:01:44.15,0:01:49.43,1080P-shss-90,,0,0,0,,{\blur4}坐在一个房间里 做做数学计算 运行下模拟器 玩玩坎巴拉太空计划
+Dialogue: 0,0:01:49.43,0:01:52.45,1080P-sgbd-42,,0,0,0,,{\blur4}and writing a report based on what's commercially available.
+Dialogue: 0,0:01:49.43,0:01:52.45,1080P-shss-90,,0,0,0,,{\blur4}并根据商业上现有的东西写一份报告
+Dialogue: 0,0:01:52.88,0:01:58.88,1080P-sgbd-42,,0,0,0,,{\blur4}And based on the current market the only thing that seriously fits the bill is SpaceX's Starship right.
+Dialogue: 0,0:01:52.88,0:01:58.88,1080P-shss-90,,0,0,0,,{\blur4}而根据目前的发射市场 唯一非常符合条件的就是SpaceX的星船
+Dialogue: 0,0:01:59.28,0:02:05.45,1080P-sgbd-42,,0,0,0,,{\blur4}I mean the concept art pretty much screams make it not quite look like SpaceX
+Dialogue: 0,0:01:59.28,0:02:05.45,1080P-shss-90,,0,0,0,,{\blur4}我的意思是 概念图几乎是在大声宣称着它跟SpaceX的星船不一样
+Dialogue: 0,0:02:05.98,0:02:11.77,1080P-sgbd-42,,0,0,0,,{\blur4}and the truth is however the Starship is not really an ideal design for many technical reasons
+Dialogue: 0,0:02:05.98,0:02:11.77,1080P-shss-90,,0,0,0,,{\blur4}而事实是 由于许多技术原因 星船并不是一个理想的设计
+Dialogue: 0,0:02:11.78,0:02:13.22,1080P-sgbd-42,,0,0,0,,{\blur4}but we'll get back to that.
+Dialogue: 0,0:02:11.78,0:02:13.22,1080P-shss-90,,0,0,0,,{\blur4}但我们之后会回到这个问题上
+Dialogue: 0,0:02:14.40,0:02:18.87,1080P-sgbd-42,,0,0,0,,{\blur4}Right now the fastest way to move stuff around the world is probably aircraft.
+Dialogue: 0,0:02:14.40,0:02:18.87,1080P-shss-90,,0,0,0,,{\blur4}现在 在世界范围内能最快运输物资的东西可能是飞机
+Dialogue: 0,0:02:18.97,0:02:21.92,1080P-sgbd-42,,0,0,0,,{\blur4}Things like the C-130 Hercules, the C-5 Galaxy.
+Dialogue: 0,0:02:18.97,0:02:21.92,1080P-shss-90,,0,0,0,,{\blur4}像是C-130大力士 C-5银河 这些运输机
+Dialogue: 0,0:02:21.92,0:02:23.12,1080P-sgbd-42,,0,0,0,,{\blur4}These are subsonic.
+Dialogue: 0,0:02:21.92,0:02:23.12,1080P-shss-90,,0,0,0,,{\blur4}这些都是亚音速的飞行器
+Dialogue: 0,0:02:23.12,0:02:28.50,1080P-sgbd-42,,0,0,0,,{\blur4}They will take a day to get around to the other side of the world with your precious cargo.
+Dialogue: 0,0:02:23.12,0:02:28.50,1080P-shss-90,,0,0,0,,{\blur4}它们需要一天的时间才能把你的珍贵货物运到世界的另一端
+Dialogue: 0,0:02:28.94,0:02:33.46,1080P-sgbd-42,,0,0,0,,{\blur4}But the US military already has bases all over the world
+Dialogue: 0,0:02:28.94,0:02:33.46,1080P-shss-90,,0,0,0,,{\blur4}但美国军方已经在世界各地拥有了基地
+Dialogue: 0,0:02:33.66,0:02:37.02,1080P-sgbd-42,,0,0,0,,{\blur4}and so if you've got something that's needed to be transported over that distance
+Dialogue: 0,0:02:33.66,0:02:37.02,1080P-shss-90,,0,0,0,,{\blur4}因此 如果你有东西需要被运输这么远的距离
+Dialogue: 0,0:02:37.06,0:02:42.49,1080P-sgbd-42,,0,0,0,,{\blur4}it actually makes some sense to have caches of this stuff at bases around the world.
+Dialogue: 0,0:02:37.06,0:02:42.49,1080P-shss-90,,0,0,0,,{\blur4}实际上 在世界各地的基地存放这些东西的备份是有意义的
+Dialogue: 0,0:02:43.14,0:02:45.44,1080P-sgbd-42,,0,0,0,,{\blur4}And the nice thing about air transport is
+Dialogue: 0,0:02:43.14,0:02:45.44,1080P-shss-90,,0,0,0,,{\blur4}而空中运输的好处是
+Dialogue: 0,0:02:45.44,0:02:49.08,1080P-sgbd-42,,0,0,0,,{\blur4}it is actually possible to air drop some of these things into locations
+Dialogue: 0,0:02:45.44,0:02:49.08,1080P-shss-90,,0,0,0,,{\blur4}它实际上能够将一些东西空投到有需要的地方
+Dialogue: 0,0:02:49.14,0:02:51.98,1080P-sgbd-42,,0,0,0,,{\blur4}where it's needed and where the aircraft can't land.
+Dialogue: 0,0:02:49.14,0:02:51.98,1080P-shss-90,,0,0,0,,{\blur4}而在这些需要它的地方 飞机不能降落
+Dialogue: 0,0:02:52.53,0:02:57.46,1080P-sgbd-42,,0,0,0,,{\blur4}So my question is is there a real need for suborbital transport
+Dialogue: 0,0:02:52.53,0:02:57.46,1080P-shss-90,,0,0,0,,{\blur4}所以我的问题是 亚轨道运输是否真的有需要
+Dialogue: 0,0:02:57.48,0:03:01.59,1080P-sgbd-42,,0,0,0,,{\blur4}which is again able to move stuff anywhere on the earth in under an hour.
+Dialogue: 0,0:02:57.48,0:03:01.59,1080P-shss-90,,0,0,0,,{\blur4}再重申一遍 它能在一小时内把东西送到地球上的任何地方
+Dialogue: 0,0:03:01.59,0:03:03.26,1080P-sgbd-42,,0,0,0,,{\blur4}And I'm very skeptical.
+Dialogue: 0,0:03:01.59,0:03:03.26,1080P-shss-90,,0,0,0,,{\blur4}我对这种运输方式的应用场景非常怀疑
+Dialogue: 0,0:03:03.44,0:03:06.49,1080P-sgbd-42,,0,0,0,,{\blur4}I think the scenarios where it works are very narrow.
+Dialogue: 0,0:03:03.44,0:03:06.49,1080P-shss-90,,0,0,0,,{\blur4}我认为它能发挥作用的场景非常有限
+Dialogue: 0,0:03:06.72,0:03:09.72,1080P-sgbd-42,,0,0,0,,{\blur4}But you know the US Department of Defense has deep pockets
+Dialogue: 0,0:03:06.72,0:03:09.72,1080P-shss-90,,0,0,0,,{\blur4}但你知道 美国国防部的预算口袋很深
+Dialogue: 0,0:03:10.04,0:03:14.46,1080P-sgbd-42,,0,0,0,,{\blur4}and might end up investing in something even if it never actually gets used.
+Dialogue: 0,0:03:10.04,0:03:14.46,1080P-shss-90,,0,0,0,,{\blur4}并且 这些预算可能最终投资于一些东西从未被实际使用的东西
+Dialogue: 0,0:03:15.40,0:03:18.87,1080P-sgbd-42,,0,0,0,,{\blur4}Suborbital transportation makes the transport very fast
+Dialogue: 0,0:03:15.40,0:03:18.87,1080P-shss-90,,0,0,0,,{\blur4}亚轨道运输使运输速度极大地提高
+Dialogue: 0,0:03:19.07,0:03:22.28,1080P-sgbd-42,,0,0,0,,{\blur4}but it still takes time to load and unload at each end.
+Dialogue: 0,0:03:19.07,0:03:22.28,1080P-shss-90,,0,0,0,,{\blur4}但其在运输的两地仍需要花费时间进行装载和卸载
+Dialogue: 0,0:03:22.65,0:03:26.36,1080P-sgbd-42,,0,0,0,,{\blur4}And the loading time you also have to account for things like propellant loading time
+Dialogue: 0,0:03:22.65,0:03:26.36,1080P-shss-90,,0,0,0,,{\blur4}而且 装载时间还必须考虑到推进剂加注时间等其他因素
+Dialogue: 0,0:03:26.39,0:03:29.84,1080P-sgbd-42,,0,0,0,,{\blur4}which is non-trivial for a 5000 ton rocket.
+Dialogue: 0,0:03:26.39,0:03:29.84,1080P-shss-90,,0,0,0,,{\blur4}对于5000吨的火箭来说 这可是件不平常的事
+Dialogue: 0,0:03:30.31,0:03:35.26,1080P-sgbd-42,,0,0,0,,{\blur4}You can't keep a cryogenically fueled Starship on the pad ready to go at a moment.
+Dialogue: 0,0:03:30.31,0:03:35.26,1080P-shss-90,,0,0,0,,{\blur4}你不可能把装有低温燃料的星船放在发射平台上 以准备随时出发
+Dialogue: 0,0:03:35.40,0:03:39.11,1080P-sgbd-42,,0,0,0,,{\blur4}Notice it takes about 30 minutes to fuel up the Falcon 9
+Dialogue: 0,0:03:35.40,0:03:39.11,1080P-shss-90,,0,0,0,,{\blur4}需要注意的是 给猎鹰9号加注推进剂大约需要30分钟
+Dialogue: 0,0:03:39.11,0:03:42.87,1080P-sgbd-42,,0,0,0,,{\blur4}and it will probably take longer to load up Starship with all its propellants.
+Dialogue: 0,0:03:39.11,0:03:42.87,1080P-shss-90,,0,0,0,,{\blur4}而给星船加注推进剂可能需要更多的时间
+Dialogue: 0,0:03:43.77,0:03:45.36,1080P-sgbd-42,,0,0,0,,{\blur4}Now it can be presumed that
+Dialogue: 0,0:03:43.77,0:03:45.36,1080P-shss-90,,0,0,0,,{\blur4}那么可以推测的是
+Dialogue: 0,0:03:45.37,0:03:51.38,1080P-sgbd-42,,0,0,0,,{\blur4}the massive extra resources needed for suborbital delivery will make it much more expensive than aircraft.
+Dialogue: 0,0:03:45.37,0:03:51.38,1080P-shss-90,,0,0,0,,{\blur4}使用亚轨道运送大量额外的物资 会比使用飞机运输昂贵得多
+Dialogue: 0,0:03:51.70,0:03:58.10,1080P-sgbd-42,,0,0,0,,{\blur4}Currently the Falcon 9 rideshare program costs of about 5000 dollars per kilogram.
+Dialogue: 0,0:03:51.70,0:03:58.10,1080P-shss-90,,0,0,0,,{\blur4}目前 猎鹰9号搭车服务的发射成本约为每公斤5000美元
+Dialogue: 0,0:03:58.56,0:04:02.56,1080P-sgbd-42,,0,0,0,,{\blur4}Now the scale of something like Starship might reduce that to a fraction of this.
+Dialogue: 0,0:03:58.56,0:04:02.56,1080P-shss-90,,0,0,0,,{\blur4}那么 像星船这样大小的火箭可能会将成本降低到这个数字的一小部分
+Dialogue: 0,0:04:02.56,0:04:05.27,1080P-sgbd-42,,0,0,0,,{\blur4}Whatever you want to ship around the world
+Dialogue: 0,0:04:02.56,0:04:05.27,1080P-shss-90,,0,0,0,,{\blur4}无论你想在世界范围内运输什么
+Dialogue: 0,0:04:05.28,0:04:09.76,1080P-sgbd-42,,0,0,0,,{\blur4}it will have to justify this cost of getting there a day before other supplies.
+Dialogue: 0,0:04:05.28,0:04:09.76,1080P-shss-90,,0,0,0,,{\blur4}它都将必须证明这一成本 对于它的速度优势来说是合理的
+Dialogue: 0,0:04:09.76,0:04:12.22,1080P-sgbd-42,,0,0,0,,{\blur4}And the good news ofcourse on this is
+Dialogue: 0,0:04:09.76,0:04:12.22,1080P-shss-90,,0,0,0,,{\blur4}当然 这方面的好消息是
+Dialogue: 0,0:04:12.24,0:04:17.44,1080P-sgbd-42,,0,0,0,,{\blur4}that the US military has lots of stuff that costs more than five thousand dollars per kilogram.
+Dialogue: 0,0:04:12.24,0:04:17.44,1080P-shss-90,,0,0,0,,{\blur4}美军有很多东西 每公斤的成本都超过5000美元
+Dialogue: 0,0:04:18.38,0:04:21.91,1080P-sgbd-42,,0,0,0,,{\blur4}So let's look at that glorious concept art again.
+Dialogue: 0,0:04:18.38,0:04:21.91,1080P-shss-90,,0,0,0,,{\blur4}因此 让我们再看看那幅非凡的概念图
+Dialogue: 0,0:04:21.91,0:04:26.00,1080P-sgbd-42,,0,0,0,,{\blur4}It shows trucks driving away from a rocket with red cross flags
+Dialogue: 0,0:04:21.91,0:04:26.00,1080P-shss-90,,0,0,0,,{\blur4}画面上 有很多带有红十字标识的卡车从火箭上驶离
+Dialogue: 0,0:04:26.02,0:04:29.60,1080P-sgbd-42,,0,0,0,,{\blur4}suggesting that this monster rocket dropped into some disaster zone
+Dialogue: 0,0:04:26.02,0:04:29.60,1080P-shss-90,,0,0,0,,{\blur4}表明这个巨大的火箭降落在了某个灾区
+Dialogue: 0,0:04:29.60,0:04:32.40,1080P-sgbd-42,,0,0,0,,{\blur4}with materials to help the locals get back on their feet.
+Dialogue: 0,0:04:29.60,0:04:32.40,1080P-shss-90,,0,0,0,,{\blur4}带有帮助当地人重建的物资
+Dialogue: 0,0:04:32.59,0:04:37.02,1080P-sgbd-42,,0,0,0,,{\blur4}And the US military is actually regularly involved in disaster relief operations
+Dialogue: 0,0:04:32.59,0:04:37.02,1080P-shss-90,,0,0,0,,{\blur4}而事实是 美军经常参与救灾行动
+Dialogue: 0,0:04:37.34,0:04:41.04,1080P-sgbd-42,,0,0,0,,{\blur4}but if you're watching something like a hurricane or floods or bad weather
+Dialogue: 0,0:04:37.34,0:04:41.04,1080P-shss-90,,0,0,0,,{\blur4}但如果发生的是飓风 洪水 恶劣天气这样的灾害
+Dialogue: 0,0:04:41.04,0:04:47.19,1080P-sgbd-42,,0,0,0,,{\blur4}then the odds are the planners already have enough of a head start to be preparing for the recovery
+Dialogue: 0,0:04:41.04,0:04:47.19,1080P-shss-90,,0,0,0,,{\blur4}{\fs85}那么 规划者们很可能可以提前足够多时间来为恢复做准备(因为天气预报)
+Dialogue: 0,0:04:47.38,0:04:51.34,1080P-sgbd-42,,0,0,0,,{\blur4}by moving materials closer to the place they'll be needed as soon as landing as possible.
+Dialogue: 0,0:04:47.38,0:04:51.34,1080P-shss-90,,0,0,0,,{\blur4}{\fs73}也就是一降落以后 就把所需的物资运输到足够靠近灾区的地方(不需要亚轨道那么快)
+Dialogue: 0,0:04:51.64,0:04:53.95,1080P-sgbd-42,,0,0,0,,{\blur4}Assuming that someone competent is in charge.
+Dialogue: 0,0:04:51.64,0:04:53.95,1080P-shss-90,,0,0,0,,{\blur4}假设十分有能力的人在对此负责
+Dialogue: 0,0:04:54.32,0:04:58.63,1080P-sgbd-42,,0,0,0,,{\blur4}Earthquakes and tsunami on the other hand they don't have offer any warning.
+Dialogue: 0,0:04:54.32,0:04:58.63,1080P-shss-90,,0,0,0,,{\blur4}另一方面 地震 海啸的发生是没有任何警告的
+Dialogue: 0,0:04:58.63,0:05:00.81,1080P-sgbd-42,,0,0,0,,{\blur4}So sure there might be some advantage in
+Dialogue: 0,0:04:58.63,0:05:00.81,1080P-shss-90,,0,0,0,,{\blur4}因此 可以肯定的是
+Dialogue: 0,0:05:00.82,0:05:05.91,1080P-sgbd-42,,0,0,0,,{\blur4}getting relief to some people hours afterwards rather than days afterwards.
+Dialogue: 0,0:05:00.82,0:05:05.91,1080P-shss-90,,0,0,0,,{\blur4}让一些人在几小时后获得救济要好于几天后才获得救济
+Dialogue: 0,0:05:06.06,0:05:09.30,1080P-sgbd-42,,0,0,0,,{\blur4}But again this is very much a niche application.
+Dialogue: 0,0:05:06.06,0:05:09.30,1080P-shss-90,,0,0,0,,{\blur4}但再说一下 这是一个非常小众的应用
+Dialogue: 0,0:05:10.23,0:05:13.79,1080P-sgbd-42,,0,0,0,,{\blur4}The image also shows a rocket landed vertically
+Dialogue: 0,0:05:10.23,0:05:13.79,1080P-shss-90,,0,0,0,,{\blur4}这张概念图还显示了这个火箭是垂直降落的
+Dialogue: 0,0:05:14.16,0:05:16.24,1080P-sgbd-42,,0,0,0,,{\blur4}and this is what Starship intends to do
+Dialogue: 0,0:05:14.16,0:05:16.24,1080P-shss-90,,0,0,0,,{\blur4}而这正是星船打算做的事情
+Dialogue: 0,0:05:16.44,0:05:19.75,1080P-sgbd-42,,0,0,0,,{\blur4}but it's not really a great option for loading and unloading.
+Dialogue: 0,0:05:16.44,0:05:19.75,1080P-shss-90,,0,0,0,,{\blur4}但对于装卸货物来说 这种着陆方法并不是一个真正的好选择
+Dialogue: 0,0:05:20.16,0:05:24.00,1080P-sgbd-42,,0,0,0,,{\blur4}Starship has to land vertically because the engines are in the bottom
+Dialogue: 0,0:05:20.16,0:05:24.00,1080P-shss-90,,0,0,0,,{\blur4}星船必须垂直着陆 因为其发动机在飞船的底部
+Dialogue: 0,0:05:24.00,0:05:28.17,1080P-sgbd-42,,0,0,0,,{\blur4}and it uses the same engines for boosting into orbit and for landing back from space
+Dialogue: 0,0:05:24.00,0:05:28.17,1080P-shss-90,,0,0,0,,{\blur4}而且它使用相同的发动机来入轨和从太空着陆返回
+Dialogue: 0,0:05:28.19,0:05:30.35,1080P-sgbd-42,,0,0,0,,{\blur4}because you're trying to optimize for the mass.
+Dialogue: 0,0:05:28.19,0:05:30.35,1080P-shss-90,,0,0,0,,{\blur4}因为你要使飞船重量最优化
+Dialogue: 0,0:05:30.89,0:05:33.77,1080P-sgbd-42,,0,0,0,,{\blur4}But let's be clear the wording surrounding the program
+Dialogue: 0,0:05:30.89,0:05:33.77,1080P-shss-90,,0,0,0,,{\blur4}但我们要搞清楚该计划的措辞
+Dialogue: 0,0:05:34.08,0:05:38.49,1080P-sgbd-42,,0,0,0,,{\blur4}it does give them flexibility to consider other options from other contractors
+Dialogue: 0,0:05:34.08,0:05:38.49,1080P-shss-90,,0,0,0,,{\blur4}它确实给了他们考虑来自其他承包商方案的灵活性
+Dialogue: 0,0:05:38.53,0:05:43.70,1080P-sgbd-42,,0,0,0,,{\blur4}who might want to throw their hat in the ring if they smell some DoD contract money.
+Dialogue: 0,0:05:38.53,0:05:43.70,1080P-shss-90,,0,0,0,,{\blur4}如果他们闻到了国防部合同资金的味道 也可能会参与到这个计划中
+Dialogue: 0,0:05:44.40,0:05:47.26,1080P-sgbd-42,,0,0,0,,{\blur4}If you were wanting to build something more appropriate for
+Dialogue: 0,0:05:44.40,0:05:47.26,1080P-shss-90,,0,0,0,,{\blur4}如果你想建造一个更适用于
+Dialogue: 0,0:05:47.27,0:05:50.24,1080P-sgbd-42,,0,0,0,,{\blur4}landing in an unprepared area and offloading cargo
+Dialogue: 0,0:05:47.27,0:05:50.24,1080P-shss-90,,0,0,0,,{\blur4}在没有条件的地方着陆 并卸载货物的航天器
+Dialogue: 0,0:05:50.40,0:05:53.46,1080P-sgbd-42,,0,0,0,,{\blur4}I still don't think that parachutes are going to be a viable option
+Dialogue: 0,0:05:50.40,0:05:53.46,1080P-shss-90,,0,0,0,,{\blur4}我仍然不认为降落伞将是一个可行的选择
+Dialogue: 0,0:05:53.50,0:05:56.38,1080P-sgbd-42,,0,0,0,,{\blur4}simply because we're talking something very large.
+Dialogue: 0,0:05:53.50,0:05:56.38,1080P-shss-90,,0,0,0,,{\blur4}仅仅是因为我们谈论的东西都非常巨大
+Dialogue: 0,0:05:56.87,0:06:01.34,1080P-sgbd-42,,0,0,0,,{\blur4}But redesigned rocket-based lander which puts the cargo closer to the ground
+Dialogue: 0,0:05:56.87,0:06:01.34,1080P-shss-90,,0,0,0,,{\blur4}但 重新设计一个装载的货物离地面更近的火箭着陆器
+Dialogue: 0,0:06:01.59,0:06:07.78,1080P-sgbd-42,,0,0,0,,{\blur4}would solve the massive problems of unloading cargo quickly from Starship after landing in the location
+Dialogue: 0,0:06:01.59,0:06:07.78,1080P-shss-90,,0,0,0,,{\blur4}将会解决星船着陆后无法迅速卸下货物的巨大问题
+Dialogue: 0,0:06:08.20,0:06:11.39,1080P-sgbd-42,,0,0,0,,{\blur4}which may not have any specialist cargo handling gear.
+Dialogue: 0,0:06:08.20,0:06:11.39,1080P-shss-90,,0,0,0,,{\blur4}而在卸载货物的过程中 它可能没有任何专业设备的帮助
+Dialogue: 0,0:06:12.17,0:06:17.73,1080P-sgbd-42,,0,0,0,,{\blur4}I mean on the other hand Starship might work well if you're delivering cargo between US bases
+Dialogue: 0,0:06:12.17,0:06:17.73,1080P-shss-90,,0,0,0,,{\blur4}我的意思是 另一方面 在美军基地间使用星船运输货物可能很合适
+Dialogue: 0,0:06:17.92,0:06:23.03,1080P-sgbd-42,,0,0,0,,{\blur4}but again if you're delivering it between bases you have to ask what kind of cargo is so valuable
+Dialogue: 0,0:06:17.92,0:06:23.03,1080P-shss-90,,0,0,0,,{\blur4}但是 如果要在基地间送货 就得再次考虑是什么货物如此昂贵
+Dialogue: 0,0:06:23.18,0:06:27.70,1080P-sgbd-42,,0,0,0,,{\blur4}that it isn't just cheaper to have extra copies on hand at bases around the world.
+Dialogue: 0,0:06:23.18,0:06:27.70,1080P-shss-90,,0,0,0,,{\blur4}以至于在世界各地的基地都不会有额外的备份
+Dialogue: 0,0:06:29.12,0:06:32.88,1080P-sgbd-42,,0,0,0,,{\blur4}One item actually which can't be easily copied is people
+Dialogue: 0,0:06:29.12,0:06:32.88,1080P-shss-90,,0,0,0,,{\blur4}实际上 有一个东西是不容易被复制的 那就是人
+Dialogue: 0,0:06:33.36,0:06:37.62,1080P-sgbd-42,,0,0,0,,{\blur4}if there's some situation that requires a specific person or specific group of people
+Dialogue: 0,0:06:33.36,0:06:37.62,1080P-shss-90,,0,0,0,,{\blur4}如果有一些情况 需要特定的一个或一群人
+Dialogue: 0,0:06:37.65,0:06:41.31,1080P-sgbd-42,,0,0,0,,{\blur4}to be on the ground in a specific place as soon as possible.
+Dialogue: 0,0:06:37.65,0:06:41.31,1080P-shss-90,,0,0,0,,{\blur4}尽快赶到一个特定的地方
+Dialogue: 0,0:06:42.09,0:06:45.39,1080P-sgbd-42,,0,0,0,,{\blur4}Sure this is something that might actually work might offer an advantage.
+Dialogue: 0,0:06:42.09,0:06:45.39,1080P-shss-90,,0,0,0,,{\blur4}当然 在这种情况下 这种运输方法能真正带来优势
+Dialogue: 0,0:06:45.91,0:06:51.70,1080P-sgbd-42,,0,0,0,,{\blur4}The 1960s concept are actually shows troops deploying via a giant inflatable slide
+Dialogue: 0,0:06:45.91,0:06:51.70,1080P-shss-90,,0,0,0,,{\blur4}60年代的概念图实际上显示了部队通过一个巨大的充气滑梯进行部署
+Dialogue: 0,0:06:51.72,0:06:53.68,1080P-sgbd-42,,0,0,0,,{\blur4}which seems sub-optimal.
+Dialogue: 0,0:06:51.72,0:06:53.68,1080P-shss-90,,0,0,0,,{\blur4}这似乎是不太好的方法
+Dialogue: 0,0:06:54.22,0:06:57.36,1080P-sgbd-42,,0,0,0,,{\blur4}After a rocket launch hot re-entry and fiery landing
+Dialogue: 0,0:06:54.22,0:06:57.36,1080P-shss-90,,0,0,0,,{\blur4}在经历了火箭发射 高温再入和点火着陆之后
+Dialogue: 0,0:06:57.36,0:07:01.74,1080P-sgbd-42,,0,0,0,,{\blur4}it would be unfortunate to injure yourself on a giant inflatable slide.
+Dialogue: 0,0:06:57.36,0:07:01.74,1080P-shss-90,,0,0,0,,{\blur4}如果你在一个巨大的充气滑梯上受伤 那将是极为不幸的
+Dialogue: 0,0:07:02.47,0:07:08.69,1080P-sgbd-42,,0,0,0,,{\blur4}The trajectory that a sub-orbital flight has to follow means that there's no flexibility on routes.
+Dialogue: 0,0:07:02.47,0:07:08.69,1080P-shss-90,,0,0,0,,{\blur4}亚轨道飞行必须遵循一定的弹道 意味着其在路线上没有灵活性
+Dialogue: 0,0:07:08.71,0:07:10.16,1080P-sgbd-42,,0,0,0,,{\blur4}You have to follow a great circle
+Dialogue: 0,0:07:08.71,0:07:10.16,1080P-shss-90,,0,0,0,,{\blur4}你的路线必须是大圆(过球心的平面与球体表面的交线)
+Dialogue: 0,0:07:10.16,0:07:15.03,1080P-sgbd-42,,0,0,0,,{\blur4}and that means the vehicle from certain destinations will override territories
+Dialogue: 0,0:07:10.16,0:07:15.03,1080P-shss-90,,0,0,0,,{\blur4}而这意味着 从某些地点发射的航天器将飞跃他国领土
+Dialogue: 0,0:07:15.03,0:07:18.21,1080P-sgbd-42,,0,0,0,,{\blur4}at an altitude that might would be considered in orbit.
+Dialogue: 0,0:07:15.03,0:07:18.21,1080P-shss-90,,0,0,0,,{\blur4}在一个可能会被认为是在轨道上的高度
+Dialogue: 0,0:07:18.68,0:07:21.15,1080P-sgbd-42,,0,0,0,,{\blur4}And this will probably lead to complaints from some
+Dialogue: 0,0:07:18.68,0:07:21.15,1080P-shss-90,,0,0,0,,{\blur4}而这可能会导致一些方面的抱怨
+Dialogue: 0,0:07:21.45,0:07:24.80,1080P-sgbd-42,,0,0,0,,{\blur4}but there's basically very little that can be done to stop it
+Dialogue: 0,0:07:21.45,0:07:24.80,1080P-shss-90,,0,0,0,,{\blur4}但基本上没有什么方式可以来阻止它越过领土
+Dialogue: 0,0:07:24.80,0:07:28.82,1080P-sgbd-42,,0,0,0,,{\blur4}unless a country wants to actually go to war and deploy anti-satellite things.
+Dialogue: 0,0:07:24.80,0:07:28.82,1080P-shss-90,,0,0,0,,{\blur4}除非一个国家想真正开战并部署反卫星的武器
+Dialogue: 0,0:07:29.53,0:07:34.72,1080P-sgbd-42,,0,0,0,,{\blur4}Launching suborbital military rockets as well to fly over somebody else's territory
+Dialogue: 0,0:07:29.53,0:07:34.72,1080P-shss-90,,0,0,0,,{\blur4}发射亚轨道军用火箭 并飞越别人的领土
+Dialogue: 0,0:07:34.72,0:07:37.44,1080P-sgbd-42,,0,0,0,,{\blur4}is also going to be a political minefield.
+Dialogue: 0,0:07:34.72,0:07:37.44,1080P-shss-90,,0,0,0,,{\blur4}也将是一个政治雷区
+Dialogue: 0,0:07:38.00,0:07:43.22,1080P-sgbd-42,,0,0,0,,{\blur4}Not just because it's like flying over other people's territory with military stuff
+Dialogue: 0,0:07:38.00,0:07:43.22,1080P-shss-90,,0,0,0,,{\blur4}不仅仅因为 它是飞跃他国领土的军用飞行器
+Dialogue: 0,0:07:43.53,0:07:47.74,1080P-sgbd-42,,0,0,0,,{\blur4}but hey how do that that's not a nuclear missile strike incoming.
+Dialogue: 0,0:07:43.53,0:07:47.74,1080P-shss-90,,0,0,0,,{\blur4}但更是因为 嘿 你怎么知道那不是一个来袭的核导弹
+Dialogue: 0,0:07:48.32,0:07:53.20,1080P-sgbd-42,,0,0,0,,{\blur4}The US actually has an ongoing project called Prompt Global Response(Strike)
+Dialogue: 0,0:07:48.32,0:07:53.20,1080P-shss-90,,0,0,0,,{\blur4}美国实际上有一个正在进行的项目 叫做全球快速打击
+Dialogue: 0,0:07:53.44,0:07:57.75,1080P-sgbd-42,,0,0,0,,{\blur4}to deliver conventional weapons via something like an ICBM.
+Dialogue: 0,0:07:53.44,0:07:57.75,1080P-shss-90,,0,0,0,,{\blur4}也就是通过类似洲际弹道导弹类的东西来运送常规武器
+Dialogue: 0,0:07:57.75,0:08:03.69,1080P-sgbd-42,,0,0,0,,{\blur4}And one of the major sticking points is the potential confusion and potential for retaliation
+Dialogue: 0,0:07:57.75,0:08:03.69,1080P-shss-90,,0,0,0,,{\blur4}而这其中一个主要的症结是潜在的混乱和报复
+Dialogue: 0,0:08:03.72,0:08:06.78,1080P-sgbd-42,,0,0,0,,{\blur4}if another nation suspects that the launch is nuclear.
+Dialogue: 0,0:08:03.72,0:08:06.78,1080P-shss-90,,0,0,0,,{\blur4}如果另一个国家怀疑在飞行的是发射的核弹
+Dialogue: 0,0:08:07.35,0:08:12.56,1080P-sgbd-42,,0,0,0,,{\blur4}When the global policy on averting nuclear conflict is mutually assured destruction
+Dialogue: 0,0:08:07.35,0:08:12.56,1080P-shss-90,,0,0,0,,{\blur4}当避免核冲突的全球政策是确保相互摧毁时
+Dialogue: 0,0:08:12.77,0:08:18.82,1080P-sgbd-42,,0,0,0,,{\blur4}there's not a huge room amount of room for nuance in responses to launches in other territories.
+Dialogue: 0,0:08:12.77,0:08:18.82,1080P-shss-90,,0,0,0,,{\blur4}在对其他领土上的(这类)发射 我们没有很大的空间做出细微的反应
+Dialogue: 0,0:08:19.67,0:08:23.37,1080P-sgbd-42,,0,0,0,,{\blur4}So look I don't see this ever being deployed at least not in the near term.
+Dialogue: 0,0:08:19.67,0:08:23.37,1080P-shss-90,,0,0,0,,{\blur4}因此 我认为这种火箭永远不会被部署 至少在短期内不会
+Dialogue: 0,0:08:23.69,0:08:27.99,1080P-sgbd-42,,0,0,0,,{\blur4}Technologically it's absolutely possible to build something that does this.
+Dialogue: 0,0:08:23.69,0:08:27.99,1080P-shss-90,,0,0,0,,{\blur4}从技术上讲 制造这样的火箭是绝对可能的
+Dialogue: 0,0:08:28.16,0:08:30.18,1080P-sgbd-42,,0,0,0,,{\blur4}Starship isn't quite right for the task.
+Dialogue: 0,0:08:28.16,0:08:30.18,1080P-shss-90,,0,0,0,,{\blur4}(而)星船并不完全适合这项任务
+Dialogue: 0,0:08:30.19,0:08:35.01,1080P-sgbd-42,,0,0,0,,{\blur4}But if the DoD wanted I'm sure they could get something more in line with their needs.
+Dialogue: 0,0:08:30.19,0:08:35.01,1080P-shss-90,,0,0,0,,{\blur4}但如果国防部想要 我相信他们可以得到更符合他们需求的东西
+Dialogue: 0,0:08:35.34,0:08:37.54,1080P-sgbd-42,,0,0,0,,{\blur4}And there's a lot of defense contractors out there
+Dialogue: 0,0:08:35.34,0:08:37.54,1080P-shss-90,,0,0,0,,{\blur4}而且还有很多国防承包商在那里
+Dialogue: 0,0:08:37.56,0:08:40.44,1080P-sgbd-42,,0,0,0,,{\blur4}that would be more than happy to take the money for such a project.
+Dialogue: 0,0:08:37.56,0:08:40.44,1080P-shss-90,,0,0,0,,{\blur4}他们会非常乐意接受这样一个项目的资金
+Dialogue: 0,0:08:40.86,0:08:45.32,1080P-sgbd-42,,0,0,0,,{\blur4}But I will say that I'd see suborbital transportation of military hardware
+Dialogue: 0,0:08:40.86,0:08:45.32,1080P-shss-90,,0,0,0,,{\blur4}但我会说的是 我认为军事物资的亚轨道运输
+Dialogue: 0,0:08:45.70,0:08:50.24,1080P-sgbd-42,,0,0,0,,{\blur4}as much more likely to happen than point-to-point civilian passenger transport
+Dialogue: 0,0:08:45.70,0:08:50.24,1080P-shss-90,,0,0,0,,{\blur4}比点对点民用亚轨道客运更有可能实现
+Dialogue: 0,0:08:50.24,0:08:53.87,1080P-sgbd-42,,0,0,0,,{\blur4}because you both actually have similar problems in terms of politics.
+Dialogue: 0,0:08:50.24,0:08:53.87,1080P-shss-90,,0,0,0,,{\blur4}因为它们在政治方面实际上都有类似的问题
+Dialogue: 0,0:08:54.13,0:08:58.48,1080P-sgbd-42,,0,0,0,,{\blur4}But the military actually have the connections to help circumvent these problems.
+Dialogue: 0,0:08:54.13,0:08:58.48,1080P-shss-90,,0,0,0,,{\blur4}但军方实际上有沟通的方式以帮助规避这些政治问题
+Dialogue: 0,0:08:59.01,0:09:01.23,1080P-sgbd-42,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
+Dialogue: 0,0:08:59.01,0:09:01.23,1080P-shss-90,,0,0,0,,{\blur4}我是Scott Manley 切记 注意飞行安全
+Dialogue: 0,0:09:01.70,0:09:20.41,1080P-sgbd-4s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:09:01.70,0:09:20.41,1080P-sgsm-6s,,0,0,0,,{\blur4}[音乐]
