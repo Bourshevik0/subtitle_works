@@ -22,10 +22,17 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.16,0:00:11.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}What Do We Hope To Learn By Sending New Probes To Venus\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/1_zLezYh1VQ\N原视频发布日期：20210608\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:22.88,0:00:28.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}TRIDENT，飞掠海卫一特里同的任务
+Dialogue: 0,0:00:28.16,0:00:32.38,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Io Volcano Observer (IVO)，木卫一伊俄火山观测者
+Dialogue: 0,0:00:43.68,0:00:49.03,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}youtu.be/1DEvcJgBy0c
+Dialogue: 0,0:00:49.10,0:00:56.10,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}此处的纯机械漫游车指的是NASA先进概念创新计划中的极端环境自动漫游车 (AREE)
+Dialogue: 0,0:02:48.08,0:02:55.08,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}实际上是撞击金星的轨道，整个探测器直接进入了金星大气
+Dialogue: 0,0:05:04.16,0:05:10.40,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}金星计划（Venera）是1961年至1984年期间，苏联为收集有关金星信息而开发的系列太空探测器
 Dialogue: 0,0:00:04.16,0:00:05.92,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.16,0:00:05.92,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.92,0:00:10.32,1080P-sgbd-42,,0,0,0,,In the last week we have found out that NASA are going back to Venus
-Dialogue: 0,0:00:05.92,0:00:10.32,1080P-shss-90,,0,0,0,,在上周 我们得知了美国宇航局将要重返金星
+Dialogue: 0,0:00:05.92,0:00:10.32,1080P-shss-90,,0,0,0,,在上周 我们得知了美国国家航空航天局(NASA)将要重返金星
 Dialogue: 0,0:00:10.32,0:00:12.97,1080P-sgbd-42,,0,0,0,,with not one but two missions.
 Dialogue: 0,0:00:10.32,0:00:12.97,1080P-shss-90,,0,0,0,,带着不是一项而是两项任务
 Dialogue: 0,0:00:13.28,0:00:18.88,1080P-sgbd-42,,0,0,0,,So these are two missions are selected from the latest batch of Discovery program candidates.
@@ -37,14 +44,13 @@ Dialogue: 0,0:00:22.88,0:00:28.16,1080P-shss-90,,0,0,0,,同时不幸的是 这�
 Dialogue: 0,0:00:28.16,0:00:32.38,1080P-sgbd-42,,0,0,0,,And we're not going to be sending an explorer to look at the volcanoes of Io
 Dialogue: 0,0:00:28.16,0:00:32.38,1080P-shss-90,,0,0,0,,并且我们也不会发射一个探测器去看看木卫一的火山了
 Dialogue: 0,0:00:32.92,0:00:38.51,1080P-sgbd-42,,0,0,0,,but we are going to be sending an atmosphere probe and lander in the form of DAVINCI+
-Dialogue: 0,0:00:32.92,0:00:38.51,1080P-shss-90,,0,0,0,,但我们将发射一个大气层探测器和着陆器 即达芬奇号
+Dialogue: 0,0:00:32.92,0:00:38.51,1080P-shss-90,,0,0,0,,但我们将发射一个大气层探测器和着陆器 即达芬奇+号
 Dialogue: 0,0:00:38.51,0:00:43.26,1080P-sgbd-42,,0,0,0,,and an orbiter which will map the planet in the form of VERITAS.
 Dialogue: 0,0:00:38.51,0:00:43.26,1080P-shss-90,,0,0,0,,和一个名为真相号的轨道器 它将绘制金星的地图
 Dialogue: 0,0:00:43.68,0:00:49.03,1080P-sgbd-42,,0,0,0,,Now I have talked in the past about various ways of exploring the surface of Venus long term.
 Dialogue: 0,0:00:43.68,0:00:49.03,1080P-shss-90,,0,0,0,,那么 我在过去已经讲过了长期探索金星表面的各种方法
 Dialogue: 0,0:00:49.10,0:00:53.18,1080P-sgbd-42,,0,0,0,,Things like clockwork rovers or high temperature semiconductors.
 Dialogue: 0,0:00:49.10,0:00:53.18,1080P-shss-90,,0,0,0,,诸如纯机械的漫游车和使用高温半导体电子电路的探测器
-Dialogue: 0,0:00:49.10,0:00:53.18,1080P-sgsm-50,,0,0,0,,此处的纯机械漫游车指的是NASA先进概念创新计划中的极端环境自动漫游车 (AREE)
 Dialogue: 0,0:00:53.18,0:00:55.94,1080P-sgbd-42,,0,0,0,,But neither of these things are on display here.
 Dialogue: 0,0:00:53.22,0:00:55.94,1080P-shss-90,,0,0,0,,但是在这两个任务中 都没有那些东西
 Dialogue: 0,0:00:56.07,0:01:01.63,1080P-sgbd-42,,0,0,0,,This is two missions which are very much similar to older missions
@@ -52,13 +58,13 @@ Dialogue: 0,0:00:56.07,0:01:01.63,1080P-shss-90,,0,0,0,,这两项任务与先前
 Dialogue: 0,0:01:01.92,0:01:05.51,1080P-sgbd-42,,0,0,0,,albeit with 30 plus years of technological advancement.
 Dialogue: 0,0:01:01.92,0:01:05.51,1080P-shss-90,,0,0,0,,尽管现在已经有30多年的技术进步
 Dialogue: 0,0:01:05.53,0:01:10.24,1080P-sgbd-42,,0,0,0,,The last time NASA sent a spacecraft to Venus was Magellan in 1989
-Dialogue: 0,0:01:05.53,0:01:10.24,1080P-shss-90,,0,0,0,,美国宇航局上一次向金星发射的航天器是1989年的麦哲伦号
+Dialogue: 0,0:01:05.53,0:01:10.24,1080P-shss-90,,0,0,0,,NASA上一次向金星发射的航天器是1989年的麦哲伦号
 Dialogue: 0,0:01:10.24,0:01:14.30,1080P-sgbd-42,,0,0,0,,and that spacecraft was actually mostly built from spare parts.
 Dialogue: 0,0:01:10.24,0:01:14.30,1080P-shss-90,,0,0,0,,而那个航天器实际上大部分是用备用零部件制造的
 Dialogue: 0,0:01:14.72,0:01:22.22,1080P-sgbd-42,,0,0,0,,The DAVINCI lander is going to be the first lander to go to Venus since Vega in the mid 1980s.
-Dialogue: 0,0:01:14.72,0:01:22.22,1080P-shss-90,,0,0,0,,达芬奇号的着陆器将是自1980年中期的织女星1号后第一个前往金星的着陆器
+Dialogue: 0,0:01:14.72,0:01:22.22,1080P-shss-90,,0,0,0,,{\fs80}达芬奇+的着陆器将是自1980年中期的织女星1号后第一个前往金星的着陆器
 Dialogue: 0,0:01:22.79,0:01:27.43,1080P-sgbd-42,,0,0,0,,The DAVINCI+ descent probe will only return data for a couple of hours
-Dialogue: 0,0:01:22.79,0:01:27.43,1080P-shss-90,,0,0,0,,达芬奇号的下降探测器将只会传回几个小时的数据
+Dialogue: 0,0:01:22.79,0:01:27.43,1080P-shss-90,,0,0,0,,达芬奇+的下降探测器将只会传回几个小时的数据
 Dialogue: 0,0:01:27.43,0:01:30.47,1080P-sgbd-42,,0,0,0,,but the technology will have moved on a whole lot
 Dialogue: 0,0:01:27.43,0:01:30.47,1080P-shss-90,,0,0,0,,但那也将会是很大的技术进步
 Dialogue: 0,0:01:30.47,0:01:35.13,1080P-sgbd-42,,0,0,0,,and there's a lot of questions that this can answer in that very limited time span.
@@ -74,13 +80,13 @@ Dialogue: 0,0:01:45.11,0:01:48.00,1080P-shss-90,,0,0,0,,它的温度高到足以
 Dialogue: 0,0:01:48.15,0:01:49.92,1080P-sgbd-42,,0,0,0,,It is acidic.
 Dialogue: 0,0:01:48.15,0:01:49.92,1080P-shss-90,,0,0,0,,它的大气是酸性的
 Dialogue: 0,0:01:50.06,0:01:51.21,1080P-sgbd-42,,0,0,0,,It is choking.
-Dialogue: 0,0:01:50.06,0:01:51.21,1080P-shss-90,,0,0,0,,它令人窒息的
+Dialogue: 0,0:01:50.06,0:01:51.21,1080P-shss-90,,0,0,0,,它是令人窒息的
 Dialogue: 0,0:01:51.25,0:01:53.91,1080P-sgbd-42,,0,0,0,,It will asphyxiate you. You do not want to go there.
-Dialogue: 0,0:01:51.25,0:01:53.91,1080P-shss-90,,0,0,0,,它将使你窒息 你绝不会想去那里的
+Dialogue: 0,0:01:51.25,0:01:53.91,1080P-shss-90,,0,0,0,,它会把你闷死 你绝不会想去那里的
 Dialogue: 0,0:01:54.23,0:02:00.88,1080P-sgbd-42,,0,0,0,,And yet many people didn't realize how what kind of hell whole Venus was until like the start of the space age.
 Dialogue: 0,0:01:54.23,0:02:00.88,1080P-shss-90,,0,0,0,,然而 许多人没有意识到金星是个怎样的地狱 直到太空时代的开始
 Dialogue: 0,0:02:00.88,0:02:06.24,1080P-sgbd-42,,0,0,0,,My dad had a bunch of books I remember him showing me things that he had when he was a child.
-Dialogue: 0,0:02:00.88,0:02:06.24,1080P-shss-90,,0,0,0,,我爸爸有过一堆书 我记得他给我看过他小时候有的这些东西
+Dialogue: 0,0:02:00.88,0:02:06.24,1080P-shss-90,,0,0,0,,我爸爸有过一堆书 我记得他给我看过他小时候的这些东西
 Dialogue: 0,0:02:06.35,0:02:09.87,1080P-sgbd-42,,0,0,0,,And it talked about what could be under the clouds of Venus.
 Dialogue: 0,0:02:06.35,0:02:09.87,1080P-shss-90,,0,0,0,,这些书中谈到了金星云层下可能存在的东西
 Dialogue: 0,0:02:10.16,0:02:12.00,1080P-sgbd-42,,0,0,0,,Telescopes couldn't see under it
@@ -90,7 +96,7 @@ Dialogue: 0,0:02:12.00,0:02:16.31,1080P-shss-90,,0,0,0,,所以由于看不到 �
 Dialogue: 0,0:02:16.31,0:02:22.67,1080P-sgbd-42,,0,0,0,,and they imagined crazy things like jungles with dinosaurs that we could go and hunt.
 Dialogue: 0,0:02:16.31,0:02:22.67,1080P-shss-90,,0,0,0,,并且 他们想象了一些疯狂的事情 比如我们可以去狩猎的有恐龙的丛林
 Dialogue: 0,0:02:23.20,0:02:26.56,1080P-sgbd-42,,0,0,0,,Unfortunately those clouds on Venus are sulfuric acid
-Dialogue: 0,0:02:23.20,0:02:26.56,1080P-shss-90,,0,0,0,,不幸的事实是 金星上的那些云层是由硫酸组层的
+Dialogue: 0,0:02:23.20,0:02:26.56,1080P-shss-90,,0,0,0,,不幸的事实是 金星上的那些云层是由硫酸组成的
 Dialogue: 0,0:02:26.56,0:02:31.00,1080P-sgbd-42,,0,0,0,,and yet they contain the majority of the water that is left on Venus.
 Dialogue: 0,0:02:26.56,0:02:31.00,1080P-shss-90,,0,0,0,,然而 它们却包含了金星上所剩的大部分水
 Dialogue: 0,0:02:31.51,0:02:37.06,1080P-sgbd-42,,0,0,0,,It's now known that Venus was very much wet in its distant history
@@ -100,7 +106,7 @@ Dialogue: 0,0:02:37.48,0:02:41.06,1080P-shss-90,,0,0,0,,你可能会想知道 �
 Dialogue: 0,0:02:41.07,0:02:43.36,1080P-sgbd-42,,0,0,0,,And of course the answer is science.
 Dialogue: 0,0:02:41.07,0:02:43.36,1080P-shss-90,,0,0,0,,当然 答案是科学
 Dialogue: 0,0:02:43.84,0:02:48.08,1080P-sgbd-42,,0,0,0,,In 1978 a spacecraft was launched called the Pioneer Multiprobe.
-Dialogue: 0,0:02:43.84,0:02:48.08,1080P-shss-90,,0,0,0,,在1978年 美国宇航局发射了一个名为先驱者联合探测器的航天器
+Dialogue: 0,0:02:43.84,0:02:48.08,1080P-shss-90,,0,0,0,,在1978年 NASA发射了一个名为先驱者联合探测器的航天器
 Dialogue: 0,0:02:48.08,0:02:51.44,1080P-sgbd-42,,0,0,0,,It flew past Venus and it dropped a number of probes in
 Dialogue: 0,0:02:48.08,0:02:51.44,1080P-shss-90,,0,0,0,,它飞越了金星 并在金星上投放了一些探测器
 Dialogue: 0,0:02:51.44,0:02:54.72,1080P-sgbd-42,,0,0,0,,and one large probe contained a mass spectrometer.
@@ -130,7 +136,7 @@ Dialogue: 0,0:03:48.14,0:03:52.08,1080P-shss-90,,0,0,0,,那么在期望中 二�
 Dialogue: 0,0:03:52.20,0:03:56.48,1080P-sgbd-42,,0,0,0,,but since Venus has 100 times more deuterium
 Dialogue: 0,0:03:52.20,0:03:56.48,1080P-shss-90,,0,0,0,,但是 由于金星大气中氘的含量是地球大气中含量100倍
 Dialogue: 0,0:03:56.48,0:04:01.59,1080P-sgbd-42,,0,0,0,,you have to imagine at some point it had 100 times more regular hydrogen
-Dialogue: 0,0:03:56.48,0:04:01.59,1080P-shss-90,,0,0,0,,你可以想象 过去的某些时候它氢气的含量也是地球的100倍
+Dialogue: 0,0:03:56.48,0:04:01.59,1080P-shss-90,,0,0,0,,你可以想象 过去的某些时候它氢原子的含量也是地球的100倍
 Dialogue: 0,0:04:01.59,0:04:06.20,1080P-sgbd-42,,0,0,0,,and therefore at least 100 times more water in the past.
 Dialogue: 0,0:04:01.59,0:04:06.20,1080P-shss-90,,0,0,0,,因此 金星在过去有的水 至少是地球现有的水的100倍
 Dialogue: 0,0:04:06.55,0:04:11.42,1080P-sgbd-42,,0,0,0,,And that is of course a lower estimate assuming that no deuterium at all escapes.
@@ -152,18 +158,17 @@ Dialogue: 0,0:04:36.24,0:04:40.43,1080P-shss-90,,0,0,0,,因此 你最终会有�
 Dialogue: 0,0:04:40.44,0:04:44.44,1080P-sgbd-42,,0,0,0,,until you get the modern day hell hole that is Venus.
 Dialogue: 0,0:04:40.44,0:04:44.44,1080P-shss-90,,0,0,0,,直到你得到如今金星这种地狱
 Dialogue: 0,0:04:45.12,0:04:50.16,1080P-sgbd-42,,0,0,0,,So we can imagine that DAVINCI+ will do this a whole lot better than the Pioneer probes.
-Dialogue: 0,0:04:45.12,0:04:50.16,1080P-shss-90,,0,0,0,,因此 我们可以想象 在大气探测这方面达芬奇号将比先驱者号做得更好
+Dialogue: 0,0:04:45.12,0:04:50.16,1080P-shss-90,,0,0,0,,因此 我们可以想象 在大气探测这方面达芬奇+号将比先驱者联合探测器做得更好
 Dialogue: 0,0:04:50.16,0:04:52.32,1080P-sgbd-42,,0,0,0,,I mean the Pioneer probes were obviously great
-Dialogue: 0,0:04:50.16,0:04:52.32,1080P-shss-90,,0,0,0,,我的意思是 先驱者号探测器显然是伟大的
+Dialogue: 0,0:04:50.16,0:04:52.32,1080P-shss-90,,0,0,0,,我的意思是 先驱者联合探测器显然是伟大的
 Dialogue: 0,0:04:52.32,0:04:58.40,1080P-sgbd-42,,0,0,0,,but the data bandwidth they used for mass spectrometer was 40 bits per second.
 Dialogue: 0,0:04:52.32,0:04:58.40,1080P-shss-90,,0,0,0,,但他们当时用于质谱仪的数据传输带宽只有每秒40比特
 Dialogue: 0,0:04:58.40,0:05:00.32,1080P-sgbd-42,,0,0,0,,Nowadays we'll do a lot better.
 Dialogue: 0,0:04:58.40,0:05:00.32,1080P-shss-90,,0,0,0,,而现在我们会在这方面做的更好
 Dialogue: 0,0:05:00.53,0:05:03.84,1080P-sgbd-42,,0,0,0,,The other thing it's going to do is take pictures a lot of pictures.
-Dialogue: 0,0:05:00.53,0:05:03.84,1080P-shss-90,,0,0,0,,达芬奇号要做的另一件事是拍照 拍大量的照片
+Dialogue: 0,0:05:00.53,0:05:03.84,1080P-shss-90,,0,0,0,,达芬奇+号要做的另一件事是拍照 拍大量的照片
 Dialogue: 0,0:05:04.16,0:05:10.40,1080P-sgbd-42,,0,0,0,,You know that there's less than 10 pictures of the surface of Venus all taken by the Venera landers
 Dialogue: 0,0:05:04.16,0:05:10.40,1080P-shss-90,,0,0,0,,你知道吗 不到10张的金星表面照片 都是由金星计划的着陆器拍摄的
-Dialogue: 0,0:05:04.16,0:05:10.40,1080P-sgsm-50,,0,0,0,,金星计划（Venera）是1961年至1984年期间 苏联为收集有关金星信息而开发的系列太空探测器
 Dialogue: 0,0:05:10.40,0:05:12.30,1080P-sgbd-42,,0,0,0,,and they were all very similar in design.
 Dialogue: 0,0:05:10.40,0:05:12.30,1080P-shss-90,,0,0,0,,而且它们在设计上都非常相似
 Dialogue: 0,0:05:12.33,0:05:14.72,1080P-sgbd-42,,0,0,0,,They had a spherical pressure vessel.
@@ -185,7 +190,7 @@ Dialogue: 0,0:05:32.47,0:05:35.91,1080P-shss-90,,0,0,0,,金星11号和12号都�
 Dialogue: 0,0:05:36.07,0:05:41.40,1080P-sgbd-42,,0,0,0,,But the lens caps failed to separate so these images are from Venera 13 and 14.
 Dialogue: 0,0:05:36.07,0:05:41.40,1080P-shss-90,,0,0,0,,但它们的镜头盖都未能分离 所以这些图像都是来自金星13号和14号
 Dialogue: 0,0:05:41.84,0:05:45.60,1080P-sgbd-42,,0,0,0,,So DAVINCI+ on its way down will be capturing imagery
-Dialogue: 0,0:05:41.84,0:05:45.60,1080P-shss-90,,0,0,0,,同样 达芬奇号在其下降途中也将拍摄照片
+Dialogue: 0,0:05:41.84,0:05:45.60,1080P-shss-90,,0,0,0,,同样 达芬奇+号在其下降途中也将拍摄照片
 Dialogue: 0,0:05:45.60,0:05:49.48,1080P-sgbd-42,,0,0,0,,giving us good resolutions all the way down to impact.
 Dialogue: 0,0:05:45.60,0:05:49.48,1080P-shss-90,,0,0,0,,它会给我们提供有良好分辨率的图像 一直到其撞击表面为止
 Dialogue: 0,0:05:49.79,0:05:53.99,1080P-sgbd-42,,0,0,0,,But obviously this is only off a very small section of the surface.
@@ -201,17 +206,17 @@ Dialogue: 0,0:06:04.13,0:06:10.18,1080P-shss-90,,0,0,0,,在1970年代末 它使�
 Dialogue: 0,0:06:10.82,0:06:15.60,1080P-sgbd-42,,0,0,0,,Several of the Venera probes followed up and did their own version
 Dialogue: 0,0:06:10.82,0:06:15.60,1080P-shss-90,,0,0,0,,苏联的一些金星号探测器对此跟进 并绘制了他们自己的版本
 Dialogue: 0,0:06:15.60,0:06:19.52,1080P-sgbd-42,,0,0,0,,but the sort of definitive map that is used for everything
-Dialogue: 0,0:06:15.60,0:06:19.52,1080P-shss-90,,0,0,0,,但这种最初的权威地图之后往往会被广泛地使用
+Dialogue: 0,0:06:15.60,0:06:19.52,1080P-shss-90,,0,0,0,,但这种最初的权威地图发布之后往往会被广泛地使用
 Dialogue: 0,0:06:19.52,0:06:25.00,1080P-sgbd-42,,0,0,0,,including those visualizations I used earlier for space engine was Magellan
 Dialogue: 0,0:06:19.52,0:06:25.00,1080P-shss-90,,0,0,0,,包括我先前用于太空引擎的那些视觉化的图像就是由麦哲伦号拍摄的
 Dialogue: 0,0:06:25.38,0:06:29.00,1080P-sgbd-42,,0,0,0,,And this was the last mission that NASA sent to Venus
-Dialogue: 0,0:06:25.38,0:06:29.00,1080P-shss-90,,0,0,0,,而那是美国宇航局派往金星的最后一次任务
+Dialogue: 0,0:06:25.38,0:06:29.00,1080P-shss-90,,0,0,0,,而那是NASA派往金星的最后一次任务
 Dialogue: 0,0:06:29.22,0:06:30.08,1080P-sgbd-42,,0,0,0,,Actually that's not true
-Dialogue: 0,0:06:29.22,0:06:30.08,1080P-shss-90,,0,0,0,,实际上 这并不是事实
+Dialogue: 0,0:06:29.22,0:06:30.08,1080P-shss-90,,0,0,0,,然而这并不是事实
 Dialogue: 0,0:06:30.08,0:06:33.85,1080P-sgbd-42,,0,0,0,,because several NASA missions have flown past Venus
-Dialogue: 0,0:06:30.08,0:06:33.85,1080P-shss-90,,0,0,0,,因为美国宇航局之后的一些任务也飞越了金星
+Dialogue: 0,0:06:30.08,0:06:33.85,1080P-shss-90,,0,0,0,,因为NASA之后的一些任务也飞越了金星
 Dialogue: 0,0:06:33.86,0:06:36.63,1080P-sgbd-42,,0,0,0,,because it's a great place to get a gravity assist from.
-Dialogue: 0,0:06:33.86,0:06:36.63,1080P-shss-90,,0,0,0,,因为金星是一个可以获得引力助力的好地方
+Dialogue: 0,0:06:33.86,0:06:36.63,1080P-shss-90,,0,0,0,,因为金星是一个可以获得重力助推的好地方
 Dialogue: 0,0:06:37.03,0:06:38.44,1080P-sgbd-42,,0,0,0,,Galileo went there.
 Dialogue: 0,0:06:37.03,0:06:38.44,1080P-shss-90,,0,0,0,,伽利略号去了那里
 Dialogue: 0,0:06:38.66,0:06:39.91,1080P-sgbd-42,,0,0,0,,Cassini went there.
@@ -219,25 +224,25 @@ Dialogue: 0,0:06:38.66,0:06:39.91,1080P-shss-90,,0,0,0,,卡西尼号去了那里
 Dialogue: 0,0:06:40.05,0:06:43.52,1080P-sgbd-42,,0,0,0,,But Magellan that launched from the Space Shuttle
 Dialogue: 0,0:06:40.05,0:06:43.52,1080P-shss-90,,0,0,0,,但是从航天飞机上发射的麦哲伦号
 Dialogue: 0,0:06:43.52,0:06:46.73,1080P-sgbd-42,,0,0,0,,it was the first interplanetary spacecraft to launch from the Space Shuttle.
-Dialogue: 0,0:06:43.52,0:06:46.73,1080P-shss-90,,0,0,0,,它是第一个从航天飞机上发射的行星探测器
+Dialogue: 0,0:06:43.52,0:06:46.73,1080P-shss-90,,0,0,0,,它(也)是第一个从航天飞机上发射的行星探测器
 Dialogue: 0,0:06:47.11,0:06:51.29,1080P-sgbd-42,,0,0,0,,And it spent several years mapping the surface using SAR.
 Dialogue: 0,0:06:47.11,0:06:51.29,1080P-shss-90,,0,0,0,,并且 它花了几年时间 用合成孔径雷达绘制金星的表面地图
 Dialogue: 0,0:06:51.59,0:06:55.17,1080P-sgbd-42,,0,0,0,,Now I find this to be a fascinating mission because it will in part.
-Dialogue: 0,0:06:51.59,0:06:55.17,1080P-shss-90,,0,0,0,,现在 我发现这是一个很迷人的任务 因为在一定程度上
+Dialogue: 0,0:06:51.59,0:06:55.17,1080P-shss-90,,0,0,0,,那么 我发现这是一个很迷人的任务 因为在一定程度上
 Dialogue: 0,0:06:55.44,0:06:59.28,1080P-sgbd-42,,0,0,0,,Because it's built from a bunch of pieces that were designed for other spacecraft.
 Dialogue: 0,0:06:55.44,0:06:59.28,1080P-shss-90,,0,0,0,,它是由一堆为其他航天器设计的备用零件组装而成的
 Dialogue: 0,0:06:59.28,0:07:02.60,1080P-sgbd-42,,0,0,0,,The main bus is from a Voyager.
-Dialogue: 0,0:06:59.28,0:07:02.60,1080P-shss-90,,0,0,0,,主总线是来自旅行者号
+Dialogue: 0,0:06:59.28,0:07:02.60,1080P-shss-90,,0,0,0,,主平台(总线)是来自旅行者号的
 Dialogue: 0,0:07:02.79,0:07:06.89,1080P-sgbd-42,,0,0,0,,That antenna is designed for Voyager. The thrusters are Voyager.
 Dialogue: 0,0:07:02.79,0:07:06.89,1080P-shss-90,,0,0,0,,那个天线和推进器也是为旅行者号设计的
 Dialogue: 0,0:07:07.19,0:07:14.68,1080P-sgbd-42,,0,0,0,,Then there's a lot of electronics, avionics, attitude control systems that were for the Galileo spacecraft.
 Dialogue: 0,0:07:07.19,0:07:14.68,1080P-shss-90,,0,0,0,,然后有很多电子器件 航空电子设备 姿态控制系统是为伽利略号设计的
 Dialogue: 0,0:07:15.12,0:07:21.91,1080P-sgbd-42,,0,0,0,,So thanks to the work of Magellan we have maps of Venus that are good to about 100 meter resolution.
-Dialogue: 0,0:07:15.12,0:07:21.91,1080P-shss-90,,0,0,0,,所以由于麦哲伦号 我们有了金星的地图 其分辨率可达100米左右
-Dialogue: 0,0:07:21.91,0:07:24.47,1080P-sgbd-42,,0,0,0,,That means you can go to google maps
-Dialogue: 0,0:07:21.91,0:07:24.47,1080P-shss-90,,0,0,0,,这意味着你可以上谷歌地图
-Dialogue: 0,0:07:24.47,0:07:29.10,1080P-sgbd-42,,0,0,0,,and look at a map of Venus with a bunch of the terrain already laid out for you.
-Dialogue: 0,0:07:24.47,0:07:29.10,1080P-shss-90,,0,0,0,,并查看金星的地图 地图上面已经为你标注了大量地形的名称
+Dialogue: 0,0:07:15.12,0:07:21.91,1080P-shss-90,,0,0,0,,那么得益于麦哲伦号的工作 我们获得了100米左右分辨率的金星地图
+Dialogue: 0,0:07:21.91,0:07:26.27,1080P-sgbd-42,,0,0,0,,That means you can go to google maps and look at a map of Venus
+Dialogue: 0,0:07:21.91,0:07:26.27,1080P-shss-90,,0,0,0,,这意味着你可以在谷歌地图上查看金星的地图
+Dialogue: 0,0:07:26.30,0:07:29.10,1080P-sgbd-42,,0,0,0,,with a bunch of the terrain already laid out for you.
+Dialogue: 0,0:07:26.30,0:07:29.10,1080P-shss-90,,0,0,0,,地图上面已经为你标注了大量地形的名称
 Dialogue: 0,0:07:29.12,0:07:32.72,1080P-sgbd-42,,0,0,0,,It's great although it looks decidedly 2D.
 Dialogue: 0,0:07:29.12,0:07:32.72,1080P-shss-90,,0,0,0,,这很好 尽管看起来很明显 它是2D的
 Dialogue: 0,0:07:32.72,0:07:37.86,1080P-sgbd-42,,0,0,0,,If you really want to fly over Venus I highly recommend you get Space Engine.
@@ -279,13 +284,13 @@ Dialogue: 0,0:08:44.56,0:08:47.26,1080P-shss-90,,0,0,0,,还是现在仍有活跃
 Dialogue: 0,0:08:47.60,0:08:52.12,1080P-sgbd-42,,0,0,0,,One of the interesting things about Venus is there are these areas called Tesserae
 Dialogue: 0,0:08:47.60,0:08:52.12,1080P-shss-90,,0,0,0,,关于金星的一个有趣的事情是 金星有这些被称为镶嵌地块的区域
 Dialogue: 0,0:08:52.52,0:08:58.91,1080P-sgbd-42,,0,0,0,,which we think may actually be the Venusian equivalent of continents like we're formed on earth
-Dialogue: 0,0:08:52.52,0:08:58.91,1080P-shss-90,,0,0,0,,我们认为它们可能相当于金星上的大陆 就像我们在地球上的形成那样
+Dialogue: 0,0:08:52.52,0:08:58.91,1080P-shss-90,,0,0,0,,我们认为它们可能相当于金星上的大陆 就像地球上形成的那样
 Dialogue: 0,0:08:59.30,0:09:01.52,1080P-sgbd-42,,0,0,0,,but in the absence of water
 Dialogue: 0,0:08:59.30,0:09:01.52,1080P-shss-90,,0,0,0,,但在没有水的情况下
 Dialogue: 0,0:09:01.81,0:09:06.02,1080P-sgbd-42,,0,0,0,,is these being formed by the same mechanic or is there something else going on.
 Dialogue: 0,0:09:01.81,0:09:06.02,1080P-shss-90,,0,0,0,,这些大陆形成的原因是与地球相同 还是因为有其他的原因呢
-Dialogue: 0,0:09:06.70,0:09:10.32,1080P-sgbd-42,,0,0,0,,A second instrument carried is the Venus emissivity mapper
-Dialogue: 0,0:09:06.70,0:09:10.32,1080P-shss-90,,0,0,0,,真相号所携带的第二个仪器是金星发射率测绘仪
+Dialogue: 0,0:09:06.70,0:09:10.32,1080P-sgbd-42,,0,0,0,,A second instrument carried is the Venus Emissivity Mapper
+Dialogue: 0,0:09:06.70,0:09:10.32,1080P-shss-90,,0,0,0,,真相号所携带的第二个仪器是金星辐射率测绘仪
 Dialogue: 0,0:09:10.32,0:09:14.09,1080P-sgbd-42,,0,0,0,,and this is a basically a thermal imaging spectrometer.
 Dialogue: 0,0:09:10.32,0:09:14.09,1080P-shss-90,,0,0,0,,它基本上是一个热成像光谱仪
 Dialogue: 0,0:09:14.24,0:09:16.22,1080P-sgbd-42,,0,0,0,,It's going to look through the clouds.
@@ -293,19 +298,19 @@ Dialogue: 0,0:09:14.24,0:09:16.22,1080P-shss-90,,0,0,0,,它将透过云层来观
 Dialogue: 0,0:09:16.26,0:09:18.85,1080P-sgbd-42,,0,0,0,,They've carefully chosen specific band passes
 Dialogue: 0,0:09:16.26,0:09:18.85,1080P-shss-90,,0,0,0,,他们精心选择了特定波段的观测通道
 Dialogue: 0,0:09:18.85,0:09:23.90,1080P-sgbd-42,,0,0,0,,where the infrared light passes through the clouds with less interference.
-Dialogue: 0,0:09:18.85,0:09:23.90,1080P-shss-90,,0,0,0,,在那里 红外线能在较少的干扰下穿过云层
+Dialogue: 0,0:09:18.85,0:09:23.90,1080P-shss-90,,0,0,0,,对于这些通道的红外线 能在较少的干扰下穿过云层
 Dialogue: 0,0:09:24.18,0:09:27.63,1080P-sgbd-42,,0,0,0,,And basically they'll be able to sample areas of the surface
-Dialogue: 0,0:09:24.18,0:09:27.63,1080P-shss-90,,0,0,0,,基本上 他们将能够对表面的区域进行数据采样
+Dialogue: 0,0:09:24.18,0:09:27.63,1080P-shss-90,,0,0,0,,而且基本上 他们将能够对地表的区域进行数据采样
 Dialogue: 0,0:09:27.83,0:09:30.75,1080P-sgbd-42,,0,0,0,,and view them in multiple infrared wave bands
 Dialogue: 0,0:09:27.83,0:09:30.75,1080P-shss-90,,0,0,0,,并从不同波段的红外线观察他们
 Dialogue: 0,0:09:30.76,0:09:34.69,1080P-sgbd-42,,0,0,0,,and what they're looking for is the light being emitted by the surface because it's hot.
-Dialogue: 0,0:09:30.76,0:09:34.69,1080P-shss-90,,0,0,0,,而且他们正在寻找的是由表面炽热部分发出的光
+Dialogue: 0,0:09:30.76,0:09:34.69,1080P-shss-90,,0,0,0,,而且他们正在寻找 由炽热的表面部分辐射的电磁波
 Dialogue: 0,0:09:34.95,0:09:39.73,1080P-sgbd-42,,0,0,0,,And well you might imagine the surface of Venus is being kept at a pretty constant temperature
 Dialogue: 0,0:09:34.95,0:09:39.73,1080P-shss-90,,0,0,0,,而且你可以想象 金星的表面一直被保持在一个相当稳定的温度下
 Dialogue: 0,0:09:40.08,0:09:45.44,1080P-sgbd-42,,0,0,0,,due to like the temperature of Venus being very heavily controlled by that thick atmosphere
-Dialogue: 0,0:09:40.08,0:09:45.44,1080P-shss-90,,0,0,0,,由于金星的温度很大程度上被那厚重的大气层控制
+Dialogue: 0,0:09:40.08,0:09:45.44,1080P-shss-90,,0,0,0,,由于金星(表面)的温度很大程度上被那厚重的大气层所控制
 Dialogue: 0,0:09:45.44,0:09:48.79,1080P-sgbd-42,,0,0,0,,there will be differences in how the surface emits.
-Dialogue: 0,0:09:45.44,0:09:48.79,1080P-shss-90,,0,0,0,,因此 表面的发光方式会有所差异
+Dialogue: 0,0:09:45.44,0:09:48.79,1080P-shss-90,,0,0,0,,因此 表面的辐射方式会有所差异
 Dialogue: 0,0:09:49.06,0:09:51.04,1080P-sgbd-42,,0,0,0,,And that will tell you the materials it's made of.
 Dialogue: 0,0:09:49.06,0:09:51.04,1080P-shss-90,,0,0,0,,而这将告诉你它是由什么物质构成的
 Dialogue: 0,0:09:51.04,0:09:53.30,1080P-sgbd-42,,0,0,0,,It'll give you clues to the ground structure
@@ -313,17 +318,17 @@ Dialogue: 0,0:09:51.04,0:09:53.30,1080P-shss-90,,0,0,0,,它将给你关于地面
 Dialogue: 0,0:09:53.62,0:09:56.24,1080P-sgbd-42,,0,0,0,,and so it may actually be possible to see differences
 Dialogue: 0,0:09:53.62,0:09:56.24,1080P-shss-90,,0,0,0,,因此 真相号实际上有可能观测到
 Dialogue: 0,0:09:56.24,0:10:01.81,1080P-sgbd-42,,0,0,0,,between relatively recent lava flows and weathered lava flows
-Dialogue: 0,0:09:56.24,0:10:01.81,1080P-shss-90,,0,0,0,,相对较新的岩浆流和被风化过的的岩浆流之间的差异
+Dialogue: 0,0:09:56.24,0:10:01.81,1080P-shss-90,,0,0,0,,相对较新的熔岩和被风化过的的熔岩之间的差异
 Dialogue: 0,0:10:01.85,0:10:04.21,1080P-sgbd-42,,0,0,0,,that have been exposed to the atmosphere over time.
 Dialogue: 0,0:10:01.85,0:10:04.21,1080P-shss-90,,0,0,0,,后者随着时间的推移被暴露在大气中
 Dialogue: 0,0:10:04.88,0:10:08.56,1080P-sgbd-42,,0,0,0,,It's a multi-band instrument operating at about one micrometer.
-Dialogue: 0,0:10:04.88,0:10:08.56,1080P-shss-90,,0,0,0,,它是一个工作在大约1微米波段的多波段的仪器
+Dialogue: 0,0:10:04.88,0:10:08.56,1080P-shss-90,,0,0,0,,它是一个工作在大约1微米波段的多光谱仪器
 Dialogue: 0,0:10:08.56,0:10:10.63,1080P-sgbd-42,,0,0,0,,From the six bands they're going to use
-Dialogue: 0,0:10:08.56,0:10:10.63,1080P-shss-90,,0,0,0,,从他们将要使用的六个波段中
+Dialogue: 0,0:10:08.56,0:10:10.63,1080P-shss-90,,0,0,0,,从将要使用的六个波段中
 Dialogue: 0,0:10:11.02,0:10:14.69,1080P-sgbd-42,,0,0,0,,it will allow them to distinguish certain mineralogy differences.
-Dialogue: 0,0:10:11.02,0:10:14.69,1080P-shss-90,,0,0,0,,他们将能够通过些矿物学上的差异区分物质
+Dialogue: 0,0:10:11.02,0:10:14.69,1080P-shss-90,,0,0,0,,他们能够通过这些矿物学上的差异来区分物质
 Dialogue: 0,0:10:14.90,0:10:19.12,1080P-sgbd-42,,0,0,0,,And obviously the whole thing is going to be operating primarily on the night side of Venus
-Dialogue: 0,0:10:14.90,0:10:19.12,1080P-shss-90,,0,0,0,,很明显 整个仪器将主要会在金星的背阳面工作
+Dialogue: 0,0:10:14.90,0:10:19.12,1080P-shss-90,,0,0,0,,而很明显 整个仪器将主要会在金星的背阳面工作
 Dialogue: 0,0:10:19.15,0:10:23.46,1080P-sgbd-42,,0,0,0,,because you don't want to contaminate your light with well light from the sun.
 Dialogue: 0,0:10:19.15,0:10:23.46,1080P-shss-90,,0,0,0,,因为你不想让来自太阳的光线污染你的光线
 Dialogue: 0,0:10:23.76,0:10:28.64,1080P-sgbd-42,,0,0,0,,And finally a lot of consideration is being given to how it communicates with the deep space network
@@ -347,9 +352,9 @@ Dialogue: 0,0:11:01.74,0:11:05.57,1080P-shss-90,,0,0,0,,而第一次成功飞越
 Dialogue: 0,0:11:06.57,0:11:10.90,1080P-sgbd-42,,0,0,0,,Humanity has sent dozens of missions to Venus over the decades.
 Dialogue: 0,0:11:06.57,0:11:10.90,1080P-shss-90,,0,0,0,,几十年来 人类已经向金星派出了许多次任务
 Dialogue: 0,0:11:11.16,0:11:16.80,1080P-sgbd-42,,0,0,0,,And yet we still don't have a good answer for whether Venus is a geologically active world
-Dialogue: 0,0:11:11.16,0:11:16.80,1080P-shss-90,,0,0,0,,然而 对于金星是一个地质运动活跃的行星
+Dialogue: 0,0:11:11.16,0:11:16.80,1080P-shss-90,,0,0,0,,然而 对于金星到底是一个地质运动活跃的行星
 Dialogue: 0,0:11:16.80,0:11:21.54,1080P-sgbd-42,,0,0,0,,or whether its interior is as quiet as its surface is lifeless.
-Dialogue: 0,0:11:16.80,0:11:21.54,1080P-shss-90,,0,0,0,,还是它的内部像它的表面一样安静 死气沉沉  我们仍没有一个好的答案
+Dialogue: 0,0:11:16.80,0:11:21.54,1080P-shss-90,,0,0,0,,{\fs85}还是它的内部像它的表面一样安静 死气沉沉  我们仍没有一个好的答案
 Dialogue: 0,0:11:21.98,0:11:24.48,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
 Dialogue: 0,0:11:21.98,0:11:24.48,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
 Dialogue: 0,0:11:24.48,0:11:29.48,1080P-sgbd-4s,,0,0,0,,[Music]
