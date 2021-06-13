@@ -9,10 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Scroll Position: 318
-Active Line: 336
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -138,11 +134,11 @@ Dialogue: 0,0:03:43.23,0:03:47.86,1080P-shss-90,,0,0,0,,{\blur4}因此 如果我
 Dialogue: 0,0:03:48.14,0:03:52.08,1080P-sgbd-42,,0,0,0,,{\blur4}then you would expect the ratios of hydrogen deuterium to be the same
 Dialogue: 0,0:03:48.14,0:03:52.08,1080P-shss-90,,0,0,0,,{\blur4}那么在期望中 二者的氢氘的比例应该是相同的
 Dialogue: 0,0:03:52.20,0:03:56.48,1080P-sgbd-42,,0,0,0,,{\blur4}but since Venus has 100 times more deuterium
-Dialogue: 0,0:03:52.20,0:03:56.48,1080P-shss-90,,0,0,0,,{\blur4}但是 由于金星大气中氘的含量是地球大气中含量100倍
+Dialogue: 0,0:03:52.20,0:03:56.48,1080P-shss-90,,0,0,0,,{\blur4}但是 由于金星大气中氘的含量是地球大气中含量的100倍
 Dialogue: 0,0:03:56.48,0:04:01.59,1080P-sgbd-42,,0,0,0,,{\blur4}you have to imagine at some point it had 100 times more regular hydrogen
-Dialogue: 0,0:03:56.48,0:04:01.59,1080P-shss-90,,0,0,0,,{\blur4}你可以想象 过去的某些时候它氢原子的含量也是地球的100倍
+Dialogue: 0,0:03:56.48,0:04:01.59,1080P-shss-90,,0,0,0,,{\blur4}你可以想象 过去的某些时候它氕原子的含量也是金星现在的100倍
 Dialogue: 0,0:04:01.59,0:04:06.20,1080P-sgbd-42,,0,0,0,,{\blur4}and therefore at least 100 times more water in the past.
-Dialogue: 0,0:04:01.59,0:04:06.20,1080P-shss-90,,0,0,0,,{\blur4}因此 金星在过去有的水 至少是地球现有的水的100倍
+Dialogue: 0,0:04:01.59,0:04:06.20,1080P-shss-90,,0,0,0,,{\blur4}因此 金星在过去有的水 至少是金星现有的水的100倍
 Dialogue: 0,0:04:06.55,0:04:11.42,1080P-sgbd-42,,0,0,0,,{\blur4}And that is of course a lower estimate assuming that no deuterium at all escapes.
 Dialogue: 0,0:04:06.55,0:04:11.42,1080P-shss-90,,0,0,0,,{\blur4}而这当然还是一个保守的估计 因为其假设根本就没有氘逃逸
 Dialogue: 0,0:04:12.30,0:04:17.44,1080P-sgbd-42,,0,0,0,,{\blur4}And the lack of water on Venus can also be responsible for its really thick atmosphere.
