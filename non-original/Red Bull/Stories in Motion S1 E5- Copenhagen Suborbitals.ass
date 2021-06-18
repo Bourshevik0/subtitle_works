@@ -31,148 +31,148 @@ Dialogue: 0,0:03:27.95,0:03:32.87,1080P-sgsm-50,,0,0,0,,{\pos(255,760)\fad(500,5
 Dialogue: 0,0:03:40.75,0:03:44.75,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\an3\pos(1675,885)}最近一次成功的发射 NEXO II火箭 2018年
 Dialogue: 0,0:04:34.82,0:04:37.92,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}角宿一火箭将集中过去13年的所有技术
 Dialogue: 0,0:04:38.50,0:04:41.95,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}它将把一位航天业余爱好者宇航员送入太空
-Dialogue: 0,0:00:06.52,0:00:09.84,1080P-sgbd-42,,0,0,0,,Copenhagen Suborbitals's goal is to send a person into space.
-Dialogue: 0,0:00:06.52,0:00:09.84,1080P-shss-90,,0,0,0,,哥本哈根亚轨道组织的目标是将人送入太空
-Dialogue: 0,0:00:10.00,0:00:13.32,1080P-sgbd-42,,0,0,0,,And they are hopefully doing that by the beginning of the 2030s.
-Dialogue: 0,0:00:10.00,0:00:13.32,1080P-shss-90,,0,0,0,,而且他们有希望在2030年代初做到这一点
-Dialogue: 0,0:00:17.98,0:00:20.68,1080P-sgbd-42,,0,0,0,,When we succeed in sending a person into space
-Dialogue: 0,0:00:17.98,0:00:20.68,1080P-shss-90,,0,0,0,,当我们成功地将一个人送入太空时
-Dialogue: 0,0:00:20.79,0:00:27.78,1080P-sgbd-42,,0,0,0,,it would show the world it's possible for regular people to do a very technically challenging task.
-Dialogue: 0,0:00:20.79,0:00:27.78,1080P-shss-90,,0,0,0,,它将向世界表明 普通人也有可能完成一项非常具有技术挑战性的任务
-Dialogue: 0,0:00:28.20,0:00:33.60,1080P-sgbd-42,,0,0,0,,And also we'll have shown that Denmark has become the fourth nation to send a person to space.
-Dialogue: 0,0:00:28.20,0:00:33.60,1080P-shss-90,,0,0,0,,而且我们也将证明 丹麦成为了第四个能将人送入太空的国家
-Dialogue: 0,0:00:33.76,0:00:34.76,1080P-sgbd-42,,0,0,0,,{\i1}Ignition.{\i0}
-Dialogue: 0,0:00:33.76,0:00:34.76,1080P-shss-90,,0,0,0,,点火
-Dialogue: 0,0:00:34.92,0:00:37.52,1080P-sgbd-4s,,0,0,0,,[ENGINES FIRING]
-Dialogue: 0,0:00:34.92,0:00:37.52,1080P-sgsm-6s,,0,0,0,,发动机点火
-Dialogue: 0,0:00:43.04,0:00:45.84,1080P-sgbd-42,,0,0,0,,I am the chairman of Copenhagen Suborbitals.
-Dialogue: 0,0:00:43.04,0:00:45.84,1080P-shss-90,,0,0,0,,我是哥本哈根亚轨道组织的主席
-Dialogue: 0,0:00:46.00,0:00:51.12,1080P-sgbd-42,,0,0,0,,We're in our rocket workshop just four kilometers from Copenhagen center.
-Dialogue: 0,0:00:46.00,0:00:51.12,1080P-shss-90,,0,0,0,,我们现在正在离哥本哈根市中心仅四公里的火箭车间里
-Dialogue: 0,0:00:52.88,0:00:56.96,1080P-sgbd-42,,0,0,0,,In my daytime job, I'm a pricing manager at a sanitary company.
-Dialogue: 0,0:00:52.88,0:00:56.96,1080P-shss-90,,0,0,0,,在白天 我的工作是一家卫生用品公司的价格经理
-Dialogue: 0,0:00:57.12,0:01:03.86,1080P-sgbd-42,,0,0,0,,Here, I'm responsible for the design and testing of parachutes used for the space capsule
-Dialogue: 0,0:00:57.12,0:01:03.86,1080P-shss-90,,0,0,0,,在这里 我负责设计和测试用于太空舱的降落伞
-Dialogue: 0,0:01:03.88,0:01:07.71,1080P-sgbd-42,,0,0,0,,and the rocket that will bring it to space and safely back again.
-Dialogue: 0,0:01:03.88,0:01:07.71,1080P-shss-90,,0,0,0,,以及将把太空舱带入太空并使其全返回的火箭的降落伞
-Dialogue: 0,0:01:11.52,0:01:14.36,1080P-sgbd-42,,0,0,0,,We have engineers, we have artists
-Dialogue: 0,0:01:11.52,0:01:14.36,1080P-shss-90,,0,0,0,,我们团队中有人是工程师 有人是艺术家
-Dialogue: 0,0:01:14.52,0:01:17.08,1080P-sgbd-42,,0,0,0,,we have a kindergarten teacher.
-Dialogue: 0,0:01:14.52,0:01:17.08,1080P-shss-90,,0,0,0,,我们之中还有一位幼儿园老师
-Dialogue: 0,0:01:17.24,0:01:19.53,1080P-sgbd-42,,0,0,0,,What brings us together is the passion of
-Dialogue: 0,0:01:17.24,0:01:19.53,1080P-shss-90,,0,0,0,,把我们聚集在一起的 是这样一种激情
-Dialogue: 0,0:01:19.55,0:01:25.20,1080P-sgbd-42,,0,0,0,,trying to solve the almost impossible quest of sending a person safely to space.
-Dialogue: 0,0:01:19.55,0:01:25.20,1080P-shss-90,,0,0,0,,试图解决将人安全送入太空这一几乎不可能完成的任务
-Dialogue: 0,0:01:28.92,0:01:33.76,1080P-sgbd-42,,0,0,0,,I work as a student assistant in the hydraulics department at MAN Energy Solutions.
-Dialogue: 0,0:01:28.92,0:01:33.76,1080P-shss-90,,0,0,0,,我在曼恩动力裝置公司的液压部门担任学生助理
-Dialogue: 0,0:01:33.89,0:01:35.52,1080P-sgbd-42,,0,0,0,,Here at Copenhagen Suborbitals
-Dialogue: 0,0:01:33.89,0:01:35.52,1080P-shss-90,,0,0,0,,在哥本哈根亚轨道组织
-Dialogue: 0,0:01:35.52,0:01:39.66,1080P-sgbd-42,,0,0,0,,I'm looking into the guidance navigation control subsystem of the Spica rocket.
-Dialogue: 0,0:01:35.52,0:01:39.66,1080P-shss-90,,0,0,0,,我正在研究角宿一火箭的制导导航控制子系统
-Dialogue: 0,0:01:44.48,0:01:46.96,1080P-sgbd-42,,0,0,0,,In daily work I'm a software engineer.
-Dialogue: 0,0:01:44.48,0:01:46.96,1080P-shss-90,,0,0,0,,在日常工作中 我是一名软件工程师
-Dialogue: 0,0:01:47.12,0:01:54.08,1080P-sgbd-42,,0,0,0,,Here at Copenhagen Suborbitals I work on mainly electronics, radio communications to and from the rocket
-Dialogue: 0,0:01:47.12,0:01:54.08,1080P-shss-90,,0,0,0,,在这里 我的工作是火箭的主要电路以及无线电通信
-Dialogue: 0,0:01:54.45,0:01:57.68,1080P-sgbd-42,,0,0,0,,and some of the electronics support systems on the ground.
-Dialogue: 0,0:01:54.45,0:01:57.68,1080P-shss-90,,0,0,0,,以及我们在地面上的一些电子支持系统
-Dialogue: 0,0:02:00.40,0:02:03.56,1080P-sgbd-42,,0,0,0,,Space ought to be accessible for anyone on Earth.
-Dialogue: 0,0:02:00.40,0:02:03.56,1080P-shss-90,,0,0,0,,太空应该是地球上任何人都可以进入的
-Dialogue: 0,0:02:03.72,0:02:08.05,1080P-sgbd-42,,0,0,0,,Of course, access to space requires a bit of money
-Dialogue: 0,0:02:03.72,0:02:08.05,1080P-shss-90,,0,0,0,,当然 进入太空需要一定的资金
-Dialogue: 0,0:02:08.15,0:02:09.70,1080P-sgbd-42,,0,0,0,,but we're trying to show
-Dialogue: 0,0:02:08.15,0:02:09.70,1080P-shss-90,,0,0,0,,但我们正在试图证明
-Dialogue: 0,0:02:09.74,0:02:16.16,1080P-sgbd-42,,0,0,0,,that we can actually do it on a quite limited budget compared to the big players in the market.
-Dialogue: 0,0:02:09.74,0:02:16.16,1080P-shss-90,,0,0,0,,与大公司相比 我们实际上可以在相当有限的预算内做到这一点
-Dialogue: 0,0:02:20.12,0:02:20.94,1080P-sgbd-42,,0,0,0,,We're crowdfunded.
-Dialogue: 0,0:02:20.12,0:02:20.94,1080P-shss-90,,0,0,0,,我们的资金是众筹的
-Dialogue: 0,0:02:21.31,0:02:27.00,1080P-sgbd-42,,0,0,0,,500-600 people all over the world are donating roughly nine thousand euros per month.
-Dialogue: 0,0:02:21.31,0:02:27.00,1080P-shss-90,,0,0,0,,世界各地的500到600人 每月共捐赠大约九千欧元
-Dialogue: 0,0:02:27.88,0:02:33.72,1080P-sgbd-42,,0,0,0,,Meaning that we have what corresponds to roughly 10% of NASA's budget for coffee.
-Dialogue: 0,0:02:27.88,0:02:33.72,1080P-shss-90,,0,0,0,,这意味着我们的预算差不多相当于NASA咖啡预算的10%
-Dialogue: 0,0:02:33.88,0:02:38.28,1080P-sgbd-42,,0,0,0,,We have to be very creative with what we do, how we do it
-Dialogue: 0,0:02:33.88,0:02:38.28,1080P-shss-90,,0,0,0,,对于我们所做的事情 所做的方法
-Dialogue: 0,0:02:38.44,0:02:40.72,1080P-sgbd-42,,0,0,0,,and what we can afford to buy for the rockets.
-Dialogue: 0,0:02:38.44,0:02:40.72,1080P-shss-90,,0,0,0,,以及我们能为火箭购买的东西 我们必须发挥最大的创意
-Dialogue: 0,0:02:41.36,0:02:43.00,1080P-sgbd-42,,0,0,0,,In one of the first rockets
-Dialogue: 0,0:02:41.36,0:02:43.00,1080P-shss-90,,0,0,0,,在第一批火箭中
-Dialogue: 0,0:02:43.06,0:02:48.53,1080P-sgbd-42,,0,0,0,,we had an urgent need for heat, for a large valve, to avoid it from freezing over.
-Dialogue: 0,0:02:43.06,0:02:48.53,1080P-shss-90,,0,0,0,,我们急需热量 以避免一个大阀门被冻坏
-Dialogue: 0,0:02:48.56,0:02:53.07,1080P-sgbd-42,,0,0,0,,So the quick and dirty solution was a hair dryer from a shop in the harbor
-Dialogue: 0,0:02:48.56,0:02:53.07,1080P-shss-90,,0,0,0,,因此 临时应急的解决方案是使用了一个来自港口商店的吹风机
-Dialogue: 0,0:02:53.07,0:02:55.72,1080P-sgbd-42,,0,0,0,,that we could use to keep that valve heated.
-Dialogue: 0,0:02:53.07,0:02:55.72,1080P-shss-90,,0,0,0,,我们可以用它来保持阀门的温度
-Dialogue: 0,0:02:57.96,0:03:03.72,1080P-sgbd-42,,0,0,0,,One of the first prototypes I had to make for a ballute contained some air vents
-Dialogue: 0,0:02:57.96,0:03:03.72,1080P-shss-90,,0,0,0,,我为气球式降落伞做的第一个原型中包含了一些通气口
-Dialogue: 0,0:03:03.72,0:03:08.12,1080P-sgbd-42,,0,0,0,,and I tried to design them so that they were kept open by something.
-Dialogue: 0,0:03:03.72,0:03:08.12,1080P-shss-90,,0,0,0,,我试图通过某些设计来使他们保持打开
-Dialogue: 0,0:03:08.24,0:03:12.62,1080P-sgbd-42,,0,0,0,,So in the end I had the idea to use bra underwires.
-Dialogue: 0,0:03:08.24,0:03:12.62,1080P-shss-90,,0,0,0,,所以最后我想到了使用胸罩的钢圈
-Dialogue: 0,0:03:13.08,0:03:16.79,1080P-sgbd-42,,0,0,0,,So basically the first prototype I made was of size 75A.
-Dialogue: 0,0:03:13.08,0:03:16.79,1080P-shss-90,,0,0,0,,所以基本上我做的第一个原型排气孔的尺寸是75A
-Dialogue: 0,0:03:19.42,0:03:24.96,1080P-shss-90,,0,0,0,,气球式降落伞系统测试 2018年
-Dialogue: 0,0:03:31.52,0:03:36.43,1080P-sgbd-42,,0,0,0,,JDenmark's too small and the population density too high to launch such rockets from land
-Dialogue: 0,0:03:31.52,0:03:36.43,1080P-shss-90,,0,0,0,,丹麦太小 人口密度太高 所以无法从陆地上发射这种火箭
-Dialogue: 0,0:03:36.43,0:03:37.76,1080P-sgbd-42,,0,0,0,,which everyone else does.
-Dialogue: 0,0:03:36.43,0:03:37.76,1080P-shss-90,,0,0,0,,就像其他国家通常做的那样
-Dialogue: 0,0:03:40.88,0:03:45.92,1080P-sgbd-42,,0,0,0,,Fortunately, in the middle of the Baltic there's an old naval training area
-Dialogue: 0,0:03:40.88,0:03:45.92,1080P-shss-90,,0,0,0,,幸运的是 在波罗的海中间有一个古老的海军训练区
-Dialogue: 0,0:03:46.08,0:03:51.64,1080P-sgbd-42,,0,0,0,,which has about 2.5 thousand km of flat, uninhabited water
-Dialogue: 0,0:03:46.08,0:03:51.64,1080P-shss-90,,0,0,0,,它有大约2500公里的平坦的 杳无人迹的水域
-Dialogue: 0,0:03:52.28,0:03:55.08,1080P-sgbd-42,,0,0,0,,which is a good place to launch from a safety point of view.
-Dialogue: 0,0:03:52.28,0:03:55.08,1080P-shss-90,,0,0,0,,从安全的角度来看 那里是一个发射火箭的好地方
-Dialogue: 0,0:03:58.44,0:04:01.28,1080P-sgbd-42,,0,0,0,,We're standing in front of the Nexo II rocket.
-Dialogue: 0,0:03:58.44,0:04:01.28,1080P-shss-90,,0,0,0,,我们正站在Nexo II火箭的前面
-Dialogue: 0,0:04:01.44,0:04:04.04,1080P-sgbd-42,,0,0,0,,This is the section where we have the guidance and control computer.
-Dialogue: 0,0:04:01.44,0:04:04.04,1080P-shss-90,,0,0,0,,火箭的这一部分里有我们的制导和控制计算机
-Dialogue: 0,0:04:04.20,0:04:09.68,1080P-sgbd-42,,0,0,0,,We have the GPS systems, the power distribution systems and the telemetry systems.
-Dialogue: 0,0:04:04.20,0:04:09.68,1080P-shss-90,,0,0,0,,这一部分里有GPS系统 配电系统和遥测系统
-Dialogue: 0,0:04:09.83,0:04:12.46,1080P-sgbd-42,,0,0,0,,This, here, is the fuel tank.
-Dialogue: 0,0:04:09.83,0:04:12.46,1080P-shss-90,,0,0,0,,这里 是燃料箱
-Dialogue: 0,0:04:12.62,0:04:16.31,1080P-sgbd-42,,0,0,0,,The fuel is an ethanol-water mix.
-Dialogue: 0,0:04:12.62,0:04:16.31,1080P-shss-90,,0,0,0,,火箭使用的燃料是乙醇和水的混合物
-Dialogue: 0,0:04:16.56,0:04:19.92,1080P-sgbd-42,,0,0,0,,We use ethanol not because it's the best rocket fuel
-Dialogue: 0,0:04:16.56,0:04:19.92,1080P-shss-90,,0,0,0,,我们使用乙醇并不是因为它是世界最好的火箭燃料
-Dialogue: 0,0:04:20.06,0:04:24.89,1080P-sgbd-42,,0,0,0,,but because it's water soluble and it's not causing any environmental problems.
-Dialogue: 0,0:04:20.06,0:04:24.89,1080P-shss-90,,0,0,0,,而是因为它是水溶性的 不会造成任何环境问题
-Dialogue: 0,0:04:25.16,0:04:28.84,1080P-sgbd-42,,0,0,0,,The Nexo class rockets are basically flying laboratories.
-Dialogue: 0,0:04:25.16,0:04:28.84,1080P-shss-90,,0,0,0,,Nexo这级火箭基本上是飞行的实验室
-Dialogue: 0,0:04:29.00,0:04:33.56,1080P-sgbd-42,,0,0,0,,It's all a test flight of what we intend to use for the Spica rocket.
-Dialogue: 0,0:04:29.00,0:04:33.56,1080P-shss-90,,0,0,0,,它进行的都是我们打算用于角宿一火箭技术的试飞
-Dialogue: 0,0:04:43.36,0:04:46.27,1080P-sgbd-42,,0,0,0,,Spica is going to be launched off the rail
-Dialogue: 0,0:04:43.36,0:04:46.27,1080P-shss-90,,0,0,0,,角宿一火箭会沿着发射塔上的轨道被发射出去
-Dialogue: 0,0:04:46.27,0:04:53.00,1080P-sgbd-42,,0,0,0,, and then it'll go supersonic and reach a point where it'll have the engine cut off.
-Dialogue: 0,0:04:46.27,0:04:53.00,1080P-shss-90,,0,0,0,,然后 它将以超音速飞行 并达到一个时刻 在那时它的发动机将会关机
-Dialogue: 0,0:04:53.16,0:04:56.88,1080P-sgbd-42,,0,0,0,,At that point, it should go 3600 km/h.
-Dialogue: 0,0:04:53.16,0:04:56.88,1080P-shss-90,,0,0,0,,在那一刻 它的速度应该达到了3600公里每小时
-Dialogue: 0,0:04:58.00,0:05:05.84,1080P-sgbd-42,,0,0,0,,And the capsule is going to reach an altitude of 100 km above the earth's surface, which is the Kármán line.
-Dialogue: 0,0:04:58.00,0:05:05.84,1080P-shss-90,,0,0,0,,同时太空舱将达到距离地球表面100公里的高度 也就是卡门线
-Dialogue: 0,0:05:07.60,0:05:11.44,1080P-sgbd-42,,0,0,0,,Both the rocket and the capsule will be separated from each other.
-Dialogue: 0,0:05:07.60,0:05:11.44,1080P-shss-90,,0,0,0,,火箭和太空舱都将彼此分离
-Dialogue: 0,0:05:11.60,0:05:13.96,1080P-sgbd-42,,0,0,0,,They'll be recovered by parachutes.
-Dialogue: 0,0:05:11.60,0:05:13.96,1080P-shss-90,,0,0,0,,它们都将通过降落伞进行回收
-Dialogue: 0,0:05:16.64,0:05:19.38,1080P-sgbd-42,,0,0,0,,I'd very much love to be the one that goes into Spica
-Dialogue: 0,0:05:16.64,0:05:19.38,1080P-shss-90,,0,0,0,,我非常希望成为进入角宿一火箭的那个人
-Dialogue: 0,0:05:19.64,0:05:23.58,1080P-sgbd-42,,0,0,0,,and it's also been suggested as a joke in a way
-Dialogue: 0,0:05:19.64,0:05:23.58,1080P-shss-90,,0,0,0,,同时 这一举动也会被认为是一个笑话
-Dialogue: 0,0:05:23.63,0:05:27.72,1080P-sgbd-42,,0,0,0,,because I'm the one who wants to work on the guidance navigation control of the rocket
-Dialogue: 0,0:05:23.63,0:05:27.72,1080P-shss-90,,0,0,0,,因为我是那个想研究火箭的导航控制的人
-Dialogue: 0,0:05:27.83,0:05:31.82,1080P-sgbd-42,,0,0,0,,I might as well be the person testing it on myself, right?
-Dialogue: 0,0:05:27.83,0:05:31.82,1080P-shss-90,,0,0,0,,我也可以成为用自己测试它的人 对吗
-Dialogue: 0,0:05:31.94,0:05:34.92,1080P-sgbd-42,,0,0,0,,And I would probably fit the requirements as well.
-Dialogue: 0,0:05:31.94,0:05:34.92,1080P-shss-90,,0,0,0,,而且我可能也会符合进入的要求
-Dialogue: 0,0:05:35.72,0:05:38.00,1080P-sgbd-42,,0,0,0,,So that would be... something.
-Dialogue: 0,0:05:35.72,0:05:38.00,1080P-shss-90,,0,0,0,,所以 这将是很了不起的
-Dialogue: 0,0:05:39.52,0:05:42.08,1080P-sgbd-42,,0,0,0,,Why do we do this? We do it because we can.
-Dialogue: 0,0:05:39.52,0:05:42.08,1080P-shss-90,,0,0,0,,我们为什么要做这件事 我们做它是因为我们可以
-Dialogue: 0,0:05:42.24,0:05:47.41,1080P-sgbd-42,,0,0,0,,And we want to be able to solve this gigantic, near impossible thing.
-Dialogue: 0,0:05:42.24,0:05:47.41,1080P-shss-90,,0,0,0,,并且我们希望能够解决这个浩大的 几乎不可能解决的事情
-Dialogue: 0,0:05:48.52,0:05:53.08,1080P-sgbd-42,,0,0,0,,Amateurs having the possibility of launching humans into space
-Dialogue: 0,0:05:48.52,0:05:53.08,1080P-shss-90,,0,0,0,,航天业余爱好者有可能将人类送入太空
-Dialogue: 0,0:05:53.27,0:05:56.92,1080P-sgbd-42,,0,0,0,,is a complete game changer as there's none of the budgets involved
-Dialogue: 0,0:05:53.27,0:05:56.92,1080P-shss-90,,0,0,0,,将是一个完全的规则改变者 因为其之中没有任何的财政预算参与
-Dialogue: 0,0:05:56.98,0:05:58.79,1080P-sgbd-42,,0,0,0,,none of the staff involved.
-Dialogue: 0,0:05:56.98,0:05:58.79,1080P-shss-90,,0,0,0,,也没有任何专业工作人员参与
-Dialogue: 0,0:05:58.82,0:06:03.21,1080P-sgbd-42,,0,0,0,,If space can become accessible by a number of amateurs doing this
-Dialogue: 0,0:05:58.82,0:06:03.21,1080P-shss-90,,0,0,0,,如果太空会因为这些航天业余爱好者所做的事变得容易进入
-Dialogue: 0,0:06:03.22,0:06:06.16,1080P-sgbd-42,,0,0,0,,it's a whole new benchmark for how to get to space.
-Dialogue: 0,0:06:03.22,0:06:06.16,1080P-shss-90,,0,0,0,,这将是关于如何进入太空的一个全新的基准
+Dialogue: 0,0:00:06.52,0:00:09.84,1080P-sgbd-42,,0,0,0,,{\blur4}Copenhagen Suborbitals's goal is to send a person into space.
+Dialogue: 0,0:00:06.52,0:00:09.84,1080P-shss-90,,0,0,0,,{\blur4}哥本哈根亚轨道组织的目标是将人送入太空
+Dialogue: 0,0:00:10.00,0:00:13.32,1080P-sgbd-42,,0,0,0,,{\blur4}And they are hopefully doing that by the beginning of the 2030s.
+Dialogue: 0,0:00:10.00,0:00:13.32,1080P-shss-90,,0,0,0,,{\blur4}而且他们有希望在2030年代初做到这一点
+Dialogue: 0,0:00:17.98,0:00:20.68,1080P-sgbd-42,,0,0,0,,{\blur4}When we succeed in sending a person into space
+Dialogue: 0,0:00:17.98,0:00:20.68,1080P-shss-90,,0,0,0,,{\blur4}当我们成功地将一个人送入太空时
+Dialogue: 0,0:00:20.79,0:00:27.78,1080P-sgbd-42,,0,0,0,,{\blur4}it would show the world it's possible for regular people to do a very technically challenging task.
+Dialogue: 0,0:00:20.79,0:00:27.78,1080P-shss-90,,0,0,0,,{\blur4}它将向世界表明 普通人也有可能完成一项非常具有技术挑战性的任务
+Dialogue: 0,0:00:28.20,0:00:33.60,1080P-sgbd-42,,0,0,0,,{\blur4}And also we'll have shown that Denmark has become the fourth nation to send a person to space.
+Dialogue: 0,0:00:28.20,0:00:33.60,1080P-shss-90,,0,0,0,,{\blur4}而且我们也将证明 丹麦成为了第四个能将人送入太空的国家
+Dialogue: 0,0:00:33.76,0:00:34.76,1080P-sgbd-42,,0,0,0,,{\blur4}{\i1}Ignition.{\i0}
+Dialogue: 0,0:00:33.76,0:00:34.76,1080P-shss-90,,0,0,0,,{\blur4}点火
+Dialogue: 0,0:00:34.92,0:00:37.52,1080P-sgbd-4s,,0,0,0,,{\blur4}[ENGINES FIRING]
+Dialogue: 0,0:00:34.92,0:00:37.52,1080P-sgsm-6s,,0,0,0,,{\blur4}发动机点火
+Dialogue: 0,0:00:43.04,0:00:45.84,1080P-sgbd-42,,0,0,0,,{\blur4}I am the chairman of Copenhagen Suborbitals.
+Dialogue: 0,0:00:43.04,0:00:45.84,1080P-shss-90,,0,0,0,,{\blur4}我是哥本哈根亚轨道组织的主席
+Dialogue: 0,0:00:46.00,0:00:51.12,1080P-sgbd-42,,0,0,0,,{\blur4}We're in our rocket workshop just four kilometers from Copenhagen center.
+Dialogue: 0,0:00:46.00,0:00:51.12,1080P-shss-90,,0,0,0,,{\blur4}我们现在正在离哥本哈根市中心仅四公里的火箭车间里
+Dialogue: 0,0:00:52.88,0:00:56.96,1080P-sgbd-42,,0,0,0,,{\blur4}In my daytime job, I'm a pricing manager at a sanitary company.
+Dialogue: 0,0:00:52.88,0:00:56.96,1080P-shss-90,,0,0,0,,{\blur4}在白天 我的工作是一家卫生用品公司的价格经理
+Dialogue: 0,0:00:57.12,0:01:03.86,1080P-sgbd-42,,0,0,0,,{\blur4}Here, I'm responsible for the design and testing of parachutes used for the space capsule
+Dialogue: 0,0:00:57.12,0:01:03.86,1080P-shss-90,,0,0,0,,{\blur4}在这里 我负责设计和测试用于太空舱的降落伞
+Dialogue: 0,0:01:03.88,0:01:07.71,1080P-sgbd-42,,0,0,0,,{\blur4}and the rocket that will bring it to space and safely back again.
+Dialogue: 0,0:01:03.88,0:01:07.71,1080P-shss-90,,0,0,0,,{\blur4}以及将把太空舱带入太空并使其全返回的火箭的降落伞
+Dialogue: 0,0:01:11.52,0:01:14.36,1080P-sgbd-42,,0,0,0,,{\blur4}We have engineers, we have artists
+Dialogue: 0,0:01:11.52,0:01:14.36,1080P-shss-90,,0,0,0,,{\blur4}我们团队中有人是工程师 有人是艺术家
+Dialogue: 0,0:01:14.52,0:01:17.08,1080P-sgbd-42,,0,0,0,,{\blur4}we have a kindergarten teacher.
+Dialogue: 0,0:01:14.52,0:01:17.08,1080P-shss-90,,0,0,0,,{\blur4}我们之中还有一位幼儿园老师
+Dialogue: 0,0:01:17.24,0:01:19.53,1080P-sgbd-42,,0,0,0,,{\blur4}What brings us together is the passion of
+Dialogue: 0,0:01:17.24,0:01:19.53,1080P-shss-90,,0,0,0,,{\blur4}把我们聚集在一起的 是这样一种激情
+Dialogue: 0,0:01:19.55,0:01:25.20,1080P-sgbd-42,,0,0,0,,{\blur4}trying to solve the almost impossible quest of sending a person safely to space.
+Dialogue: 0,0:01:19.55,0:01:25.20,1080P-shss-90,,0,0,0,,{\blur4}试图解决将人安全送入太空这一几乎不可能完成的任务
+Dialogue: 0,0:01:28.92,0:01:33.76,1080P-sgbd-42,,0,0,0,,{\blur4}I work as a student assistant in the hydraulics department at MAN Energy Solutions.
+Dialogue: 0,0:01:28.92,0:01:33.76,1080P-shss-90,,0,0,0,,{\blur4}我在曼恩动力裝置公司的液压部门担任学生助理
+Dialogue: 0,0:01:33.89,0:01:35.52,1080P-sgbd-42,,0,0,0,,{\blur4}Here at Copenhagen Suborbitals
+Dialogue: 0,0:01:33.89,0:01:35.52,1080P-shss-90,,0,0,0,,{\blur4}在哥本哈根亚轨道组织
+Dialogue: 0,0:01:35.52,0:01:39.66,1080P-sgbd-42,,0,0,0,,{\blur4}I'm looking into the guidance navigation control subsystem of the Spica rocket.
+Dialogue: 0,0:01:35.52,0:01:39.66,1080P-shss-90,,0,0,0,,{\blur4}我正在研究角宿一火箭的制导导航控制子系统
+Dialogue: 0,0:01:44.48,0:01:46.96,1080P-sgbd-42,,0,0,0,,{\blur4}In daily work I'm a software engineer.
+Dialogue: 0,0:01:44.48,0:01:46.96,1080P-shss-90,,0,0,0,,{\blur4}在日常工作中 我是一名软件工程师
+Dialogue: 0,0:01:47.12,0:01:54.08,1080P-sgbd-42,,0,0,0,,{\blur4}Here at Copenhagen Suborbitals I work on mainly electronics, radio communications to and from the rocket
+Dialogue: 0,0:01:47.12,0:01:54.08,1080P-shss-90,,0,0,0,,{\blur4}在这里 我的工作是火箭的主要电路以及无线电通信
+Dialogue: 0,0:01:54.45,0:01:57.68,1080P-sgbd-42,,0,0,0,,{\blur4}and some of the electronics support systems on the ground.
+Dialogue: 0,0:01:54.45,0:01:57.68,1080P-shss-90,,0,0,0,,{\blur4}以及我们在地面上的一些电子支持系统
+Dialogue: 0,0:02:00.40,0:02:03.56,1080P-sgbd-42,,0,0,0,,{\blur4}Space ought to be accessible for anyone on Earth.
+Dialogue: 0,0:02:00.40,0:02:03.56,1080P-shss-90,,0,0,0,,{\blur4}太空应该是地球上任何人都可以进入的
+Dialogue: 0,0:02:03.72,0:02:08.05,1080P-sgbd-42,,0,0,0,,{\blur4}Of course, access to space requires a bit of money
+Dialogue: 0,0:02:03.72,0:02:08.05,1080P-shss-90,,0,0,0,,{\blur4}当然 进入太空需要一定的资金
+Dialogue: 0,0:02:08.15,0:02:09.70,1080P-sgbd-42,,0,0,0,,{\blur4}but we're trying to show
+Dialogue: 0,0:02:08.15,0:02:09.70,1080P-shss-90,,0,0,0,,{\blur4}但我们正在试图证明
+Dialogue: 0,0:02:09.74,0:02:16.16,1080P-sgbd-42,,0,0,0,,{\blur4}that we can actually do it on a quite limited budget compared to the big players in the market.
+Dialogue: 0,0:02:09.74,0:02:16.16,1080P-shss-90,,0,0,0,,{\blur4}与大公司相比 我们实际上可以在相当有限的预算内做到这一点
+Dialogue: 0,0:02:20.12,0:02:20.94,1080P-sgbd-42,,0,0,0,,{\blur4}We're crowdfunded.
+Dialogue: 0,0:02:20.12,0:02:20.94,1080P-shss-90,,0,0,0,,{\blur4}我们的资金是众筹的
+Dialogue: 0,0:02:21.31,0:02:27.00,1080P-sgbd-42,,0,0,0,,{\blur4}500-600 people all over the world are donating roughly nine thousand euros per month.
+Dialogue: 0,0:02:21.31,0:02:27.00,1080P-shss-90,,0,0,0,,{\blur4}世界各地的500到600人 每月共捐赠大约九千欧元
+Dialogue: 0,0:02:27.88,0:02:33.72,1080P-sgbd-42,,0,0,0,,{\blur4}Meaning that we have what corresponds to roughly 10% of NASA's budget for coffee.
+Dialogue: 0,0:02:27.88,0:02:33.72,1080P-shss-90,,0,0,0,,{\blur4}这意味着我们的预算差不多相当于NASA咖啡预算的10%
+Dialogue: 0,0:02:33.88,0:02:38.28,1080P-sgbd-42,,0,0,0,,{\blur4}We have to be very creative with what we do, how we do it
+Dialogue: 0,0:02:33.88,0:02:38.28,1080P-shss-90,,0,0,0,,{\blur4}对于我们所做的事情 所做的方法
+Dialogue: 0,0:02:38.44,0:02:40.72,1080P-sgbd-42,,0,0,0,,{\blur4}and what we can afford to buy for the rockets.
+Dialogue: 0,0:02:38.44,0:02:40.72,1080P-shss-90,,0,0,0,,{\blur4}以及我们能为火箭购买的东西 我们必须发挥最大的创意
+Dialogue: 0,0:02:41.36,0:02:43.00,1080P-sgbd-42,,0,0,0,,{\blur4}In one of the first rockets
+Dialogue: 0,0:02:41.36,0:02:43.00,1080P-shss-90,,0,0,0,,{\blur4}在第一批火箭中
+Dialogue: 0,0:02:43.06,0:02:48.53,1080P-sgbd-42,,0,0,0,,{\blur4}we had an urgent need for heat, for a large valve, to avoid it from freezing over.
+Dialogue: 0,0:02:43.06,0:02:48.53,1080P-shss-90,,0,0,0,,{\blur4}我们急需热量 以避免一个大阀门被冻坏
+Dialogue: 0,0:02:48.56,0:02:53.07,1080P-sgbd-42,,0,0,0,,{\blur4}So the quick and dirty solution was a hair dryer from a shop in the harbor
+Dialogue: 0,0:02:48.56,0:02:53.07,1080P-shss-90,,0,0,0,,{\blur4}因此 临时应急的解决方案是使用了一个来自港口商店的吹风机
+Dialogue: 0,0:02:53.07,0:02:55.72,1080P-sgbd-42,,0,0,0,,{\blur4}that we could use to keep that valve heated.
+Dialogue: 0,0:02:53.07,0:02:55.72,1080P-shss-90,,0,0,0,,{\blur4}我们可以用它来保持阀门的温度
+Dialogue: 0,0:02:57.96,0:03:03.72,1080P-sgbd-42,,0,0,0,,{\blur4}One of the first prototypes I had to make for a ballute contained some air vents
+Dialogue: 0,0:02:57.96,0:03:03.72,1080P-shss-90,,0,0,0,,{\blur4}我为气球式降落伞做的第一个原型中包含了一些通气口
+Dialogue: 0,0:03:03.72,0:03:08.12,1080P-sgbd-42,,0,0,0,,{\blur4}and I tried to design them so that they were kept open by something.
+Dialogue: 0,0:03:03.72,0:03:08.12,1080P-shss-90,,0,0,0,,{\blur4}我试图通过某些设计来使他们保持打开
+Dialogue: 0,0:03:08.24,0:03:12.62,1080P-sgbd-42,,0,0,0,,{\blur4}So in the end I had the idea to use bra underwires.
+Dialogue: 0,0:03:08.24,0:03:12.62,1080P-shss-90,,0,0,0,,{\blur4}所以最后我想到了使用胸罩的钢圈
+Dialogue: 0,0:03:13.08,0:03:16.79,1080P-sgbd-42,,0,0,0,,{\blur4}So basically the first prototype I made was of size 75A.
+Dialogue: 0,0:03:13.08,0:03:16.79,1080P-shss-90,,0,0,0,,{\blur4}所以基本上我做的第一个原型排气孔的尺寸是75A
+Dialogue: 0,0:03:19.42,0:03:24.96,1080P-shss-90,,0,0,0,,{\blur4}气球式降落伞系统测试 2018年
+Dialogue: 0,0:03:31.52,0:03:36.43,1080P-sgbd-42,,0,0,0,,{\blur4}JDenmark's too small and the population density too high to launch such rockets from land
+Dialogue: 0,0:03:31.52,0:03:36.43,1080P-shss-90,,0,0,0,,{\blur4}丹麦太小 人口密度太高 所以无法从陆地上发射这种火箭
+Dialogue: 0,0:03:36.43,0:03:37.76,1080P-sgbd-42,,0,0,0,,{\blur4}which everyone else does.
+Dialogue: 0,0:03:36.43,0:03:37.76,1080P-shss-90,,0,0,0,,{\blur4}就像其他国家通常做的那样
+Dialogue: 0,0:03:40.88,0:03:45.92,1080P-sgbd-42,,0,0,0,,{\blur4}Fortunately, in the middle of the Baltic there's an old naval training area
+Dialogue: 0,0:03:40.88,0:03:45.92,1080P-shss-90,,0,0,0,,{\blur4}幸运的是 在波罗的海中间有一个古老的海军训练区
+Dialogue: 0,0:03:46.08,0:03:51.64,1080P-sgbd-42,,0,0,0,,{\blur4}which has about 2.5 thousand km of flat, uninhabited water
+Dialogue: 0,0:03:46.08,0:03:51.64,1080P-shss-90,,0,0,0,,{\blur4}它有大约2500公里的平坦的 杳无人迹的水域
+Dialogue: 0,0:03:52.28,0:03:55.08,1080P-sgbd-42,,0,0,0,,{\blur4}which is a good place to launch from a safety point of view.
+Dialogue: 0,0:03:52.28,0:03:55.08,1080P-shss-90,,0,0,0,,{\blur4}从安全的角度来看 那里是一个发射火箭的好地方
+Dialogue: 0,0:03:58.44,0:04:01.28,1080P-sgbd-42,,0,0,0,,{\blur4}We're standing in front of the Nexo II rocket.
+Dialogue: 0,0:03:58.44,0:04:01.28,1080P-shss-90,,0,0,0,,{\blur4}我们正站在Nexo II火箭的前面
+Dialogue: 0,0:04:01.44,0:04:04.04,1080P-sgbd-42,,0,0,0,,{\blur4}This is the section where we have the guidance and control computer.
+Dialogue: 0,0:04:01.44,0:04:04.04,1080P-shss-90,,0,0,0,,{\blur4}火箭的这一部分里有我们的制导和控制计算机
+Dialogue: 0,0:04:04.20,0:04:09.68,1080P-sgbd-42,,0,0,0,,{\blur4}We have the GPS systems, the power distribution systems and the telemetry systems.
+Dialogue: 0,0:04:04.20,0:04:09.68,1080P-shss-90,,0,0,0,,{\blur4}这一部分里有GPS系统 配电系统和遥测系统
+Dialogue: 0,0:04:09.83,0:04:12.46,1080P-sgbd-42,,0,0,0,,{\blur4}This, here, is the fuel tank.
+Dialogue: 0,0:04:09.83,0:04:12.46,1080P-shss-90,,0,0,0,,{\blur4}这里 是燃料箱
+Dialogue: 0,0:04:12.62,0:04:16.31,1080P-sgbd-42,,0,0,0,,{\blur4}The fuel is an ethanol-water mix.
+Dialogue: 0,0:04:12.62,0:04:16.31,1080P-shss-90,,0,0,0,,{\blur4}火箭使用的燃料是乙醇和水的混合物
+Dialogue: 0,0:04:16.56,0:04:19.92,1080P-sgbd-42,,0,0,0,,{\blur4}We use ethanol not because it's the best rocket fuel
+Dialogue: 0,0:04:16.56,0:04:19.92,1080P-shss-90,,0,0,0,,{\blur4}我们使用乙醇并不是因为它是世界最好的火箭燃料
+Dialogue: 0,0:04:20.06,0:04:24.89,1080P-sgbd-42,,0,0,0,,{\blur4}but because it's water soluble and it's not causing any environmental problems.
+Dialogue: 0,0:04:20.06,0:04:24.89,1080P-shss-90,,0,0,0,,{\blur4}而是因为它是水溶性的 不会造成任何环境问题
+Dialogue: 0,0:04:25.16,0:04:28.84,1080P-sgbd-42,,0,0,0,,{\blur4}The Nexo class rockets are basically flying laboratories.
+Dialogue: 0,0:04:25.16,0:04:28.84,1080P-shss-90,,0,0,0,,{\blur4}Nexo这级火箭基本上是飞行的实验室
+Dialogue: 0,0:04:29.00,0:04:33.56,1080P-sgbd-42,,0,0,0,,{\blur4}It's all a test flight of what we intend to use for the Spica rocket.
+Dialogue: 0,0:04:29.00,0:04:33.56,1080P-shss-90,,0,0,0,,{\blur4}它进行的都是我们打算用于角宿一火箭技术的试飞
+Dialogue: 0,0:04:43.36,0:04:46.27,1080P-sgbd-42,,0,0,0,,{\blur4}Spica is going to be launched off the rail
+Dialogue: 0,0:04:43.36,0:04:46.27,1080P-shss-90,,0,0,0,,{\blur4}角宿一火箭会沿着发射塔上的轨道被发射出去
+Dialogue: 0,0:04:46.27,0:04:53.00,1080P-sgbd-42,,0,0,0,,{\blur4} and then it'll go supersonic and reach a point where it'll have the engine cut off.
+Dialogue: 0,0:04:46.27,0:04:53.00,1080P-shss-90,,0,0,0,,{\blur4}然后 它将以超音速飞行 并达到一个时刻 在那时它的发动机将会关机
+Dialogue: 0,0:04:53.16,0:04:56.88,1080P-sgbd-42,,0,0,0,,{\blur4}At that point, it should go 3600 km/h.
+Dialogue: 0,0:04:53.16,0:04:56.88,1080P-shss-90,,0,0,0,,{\blur4}在那一刻 它的速度应该达到了3600公里每小时
+Dialogue: 0,0:04:58.00,0:05:05.84,1080P-sgbd-42,,0,0,0,,{\blur4}And the capsule is going to reach an altitude of 100 km above the earth's surface, which is the Kármán line.
+Dialogue: 0,0:04:58.00,0:05:05.84,1080P-shss-90,,0,0,0,,{\blur4}同时太空舱将达到距离地球表面100公里的高度 也就是卡门线
+Dialogue: 0,0:05:07.60,0:05:11.44,1080P-sgbd-42,,0,0,0,,{\blur4}Both the rocket and the capsule will be separated from each other.
+Dialogue: 0,0:05:07.60,0:05:11.44,1080P-shss-90,,0,0,0,,{\blur4}火箭和太空舱都将彼此分离
+Dialogue: 0,0:05:11.60,0:05:13.96,1080P-sgbd-42,,0,0,0,,{\blur4}They'll be recovered by parachutes.
+Dialogue: 0,0:05:11.60,0:05:13.96,1080P-shss-90,,0,0,0,,{\blur4}它们都将通过降落伞进行回收
+Dialogue: 0,0:05:16.64,0:05:19.38,1080P-sgbd-42,,0,0,0,,{\blur4}I'd very much love to be the one that goes into Spica
+Dialogue: 0,0:05:16.64,0:05:19.38,1080P-shss-90,,0,0,0,,{\blur4}我非常希望成为进入角宿一火箭的那个人
+Dialogue: 0,0:05:19.64,0:05:23.58,1080P-sgbd-42,,0,0,0,,{\blur4}and it's also been suggested as a joke in a way
+Dialogue: 0,0:05:19.64,0:05:23.58,1080P-shss-90,,0,0,0,,{\blur4}同时 这一举动也会被认为是一个笑话
+Dialogue: 0,0:05:23.63,0:05:27.72,1080P-sgbd-42,,0,0,0,,{\blur4}because I'm the one who wants to work on the guidance navigation control of the rocket
+Dialogue: 0,0:05:23.63,0:05:27.72,1080P-shss-90,,0,0,0,,{\blur4}因为我是那个想研究火箭的导航控制的人
+Dialogue: 0,0:05:27.83,0:05:31.82,1080P-sgbd-42,,0,0,0,,{\blur4}I might as well be the person testing it on myself, right?
+Dialogue: 0,0:05:27.83,0:05:31.82,1080P-shss-90,,0,0,0,,{\blur4}我也可以成为用自己测试它的人 对吗
+Dialogue: 0,0:05:31.94,0:05:34.92,1080P-sgbd-42,,0,0,0,,{\blur4}And I would probably fit the requirements as well.
+Dialogue: 0,0:05:31.94,0:05:34.92,1080P-shss-90,,0,0,0,,{\blur4}而且我可能也会符合进入的要求
+Dialogue: 0,0:05:35.72,0:05:38.00,1080P-sgbd-42,,0,0,0,,{\blur4}So that would be... something.
+Dialogue: 0,0:05:35.72,0:05:38.00,1080P-shss-90,,0,0,0,,{\blur4}所以 这将是很了不起的
+Dialogue: 0,0:05:39.52,0:05:42.08,1080P-sgbd-42,,0,0,0,,{\blur4}Why do we do this? We do it because we can.
+Dialogue: 0,0:05:39.52,0:05:42.08,1080P-shss-90,,0,0,0,,{\blur4}我们为什么要做这件事 我们做它是因为我们可以
+Dialogue: 0,0:05:42.24,0:05:47.41,1080P-sgbd-42,,0,0,0,,{\blur4}And we want to be able to solve this gigantic, near impossible thing.
+Dialogue: 0,0:05:42.24,0:05:47.41,1080P-shss-90,,0,0,0,,{\blur4}并且我们希望能够解决这个浩大的 几乎不可能解决的事情
+Dialogue: 0,0:05:48.52,0:05:53.08,1080P-sgbd-42,,0,0,0,,{\blur4}Amateurs having the possibility of launching humans into space
+Dialogue: 0,0:05:48.52,0:05:53.08,1080P-shss-90,,0,0,0,,{\blur4}航天业余爱好者有可能将人类送入太空
+Dialogue: 0,0:05:53.27,0:05:56.92,1080P-sgbd-42,,0,0,0,,{\blur4}is a complete game changer as there's none of the budgets involved
+Dialogue: 0,0:05:53.27,0:05:56.92,1080P-shss-90,,0,0,0,,{\blur4}将是一个完全的规则改变者 因为其之中没有任何的财政预算参与
+Dialogue: 0,0:05:56.98,0:05:58.79,1080P-sgbd-42,,0,0,0,,{\blur4}none of the staff involved.
+Dialogue: 0,0:05:56.98,0:05:58.79,1080P-shss-90,,0,0,0,,{\blur4}也没有任何专业工作人员参与
+Dialogue: 0,0:05:58.82,0:06:03.21,1080P-sgbd-42,,0,0,0,,{\blur4}If space can become accessible by a number of amateurs doing this
+Dialogue: 0,0:05:58.82,0:06:03.21,1080P-shss-90,,0,0,0,,{\blur4}如果太空会因为这些航天业余爱好者所做的事变得容易进入
+Dialogue: 0,0:06:03.22,0:06:06.16,1080P-sgbd-42,,0,0,0,,{\blur4}it's a whole new benchmark for how to get to space.
+Dialogue: 0,0:06:03.22,0:06:06.16,1080P-shss-90,,0,0,0,,{\blur4}这将是关于如何进入太空的一个全新的基准
