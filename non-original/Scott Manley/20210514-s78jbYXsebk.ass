@@ -22,6 +22,10 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.26,0:00:11.26,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Space Tourism Reborn  - Twelve People Will Fly To Space In The Next 12 Months!\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/s78jbYXsebk\N原视频发布日期：20210514\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:44.66,0:00:48.31,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}截至20210620，此次任务预计在20210720进行
+Dialogue: 0,0:01:44.15,0:01:51.15,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}太空船2号是由缩尺复合体公司及维珍集团共同的合资企业，太空船公司开发的亚轨道飞机
+Dialogue: 0,0:07:27.26,0:07:30.46,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}挑战者深渊是太平洋马里亚纳海沟的最深处，深约11000米，\N同时也是世界上海洋最深处和地表最深的地方
 Dialogue: 0,0:00:04.26,0:00:05.60,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.26,0:00:05.60,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.83,0:00:09.48,1080P-sgbd-42,,0,0,0,,Yesterday Roscosmos announced the crew for two Soyuz missions
@@ -29,11 +33,11 @@ Dialogue: 0,0:00:05.83,0:00:09.48,1080P-shss-90,,0,0,0,,昨天 俄罗斯航空�
 Dialogue: 0,0:00:09.51,0:00:14.90,1080P-sgbd-42,,0,0,0,,which will carry tourists to the International Space Station in October and December.
 Dialogue: 0,0:00:09.51,0:00:14.90,1080P-shss-90,,0,0,0,,它们将分别在10月和12月携带游客前往国际空间站
 Dialogue: 0,0:00:15.12,0:00:18.86,1080P-sgbd-42,,0,0,0,,Now if we add that into Inspiration 4 which will fly in September.
-Dialogue: 0,0:00:15.12,0:00:18.86,1080P-shss-90,,0,0,0,,那么 如果我们把它们算到将于9月发射的灵感4号
-Dialogue: 0,0:00:19.14,0:00:23.76,1080P-sgbd-42,,0,0,0,,Axiom's AX-1 flight which could be as early as January 2022
+Dialogue: 0,0:00:15.12,0:00:18.86,1080P-shss-90,,0,0,0,,那么 如果我们把它们算到将于9月发射的启迪4号
+Dialogue: 0,0:00:19.14,0:00:23.76,1080P-sgbd-42,,0,0,0,,Axiom's Ax-1 flight which could be as early as January 2022
 Dialogue: 0,0:00:19.14,0:00:23.76,1080P-shss-90,,0,0,0,,发射可能最早于2022年1月进行的公理1号
 Dialogue: 0,0:00:23.87,0:00:26.89,1080P-sgbd-42,,0,0,0,,and a possible future flight by Tom Cruise to shoot a movie.
-Dialogue: 0,0:00:23.87,0:00:26.89,1080P-shss-90,,0,0,0,,以及未来可能搭载汤姆克鲁斯去拍摄电影的这些任务之中
+Dialogue: 0,0:00:23.87,0:00:26.89,1080P-shss-90,,0,0,0,,以及未来可能搭载汤姆·克鲁斯去拍摄电影的这些任务之中
 Dialogue: 0,0:00:26.93,0:00:31.27,1080P-sgbd-42,,0,0,0,,This means there's gonna be a lot more tourists in space than ever before.
 Dialogue: 0,0:00:26.93,0:00:31.27,1080P-shss-90,,0,0,0,,这意味着 将有比以往更多的游客进入太空
 Dialogue: 0,0:00:31.27,0:00:37.44,1080P-sgbd-42,,0,0,0,,And actually before that we are expecting the first flight of New Shepard with an actual paying passenger
@@ -70,7 +74,6 @@ Dialogue: 0,0:01:41.01,0:01:44.15,1080P-sgbd-42,,0,0,0,,with much larger windows
 Dialogue: 0,0:01:41.01,0:01:44.15,1080P-shss-90,,0,0,0,,其有更大的窗户和更多的活动空间
 Dialogue: 0,0:01:44.15,0:01:47.82,1080P-sgbd-42,,0,0,0,,although you can't look straight down as you can in spaceship two
 Dialogue: 0,0:01:44.15,0:01:47.82,1080P-shss-90,,0,0,0,,尽管你不能像在太空船二号里那样直视下方
-Dialogue: 0,0:01:44.15,0:01:47.82,1080P-sgsm-50,,0,0,0,,太空船2号是由缩尺复合体公司及维珍集团共同的合资企业 太空船公司 开发的亚轨道飞机
 Dialogue: 0,0:01:47.84,0:01:50.35,1080P-sgbd-42,,0,0,0,,because it flips on its back during apogee
 Dialogue: 0,0:01:47.84,0:01:50.35,1080P-shss-90,,0,0,0,,因为太空船2号会在远地点将飞船主体翻转到背面
 Dialogue: 0,0:01:50.36,0:01:52.94,1080P-sgbd-42,,0,0,0,,so you can actually see the earth laid out below you.
@@ -90,15 +93,15 @@ Dialogue: 0,0:02:10.00,0:02:16.86,1080P-shss-90,,0,0,0,,而它们只需几千美
 Dialogue: 0,0:02:17.80,0:02:23.70,1080P-sgbd-42,,0,0,0,,but anyway for the orbital flights in the next 12 months we can expect to have a number of flights.
 Dialogue: 0,0:02:17.80,0:02:23.70,1080P-shss-90,,0,0,0,,但无论如何 在未来12个月的轨道飞行任务中 我们可以期待一些任务
 Dialogue: 0,0:02:23.74,0:02:26.12,1080P-sgbd-42,,0,0,0,,We're going to start with Inspiration 4 in September
-Dialogue: 0,0:02:23.74,0:02:26.12,1080P-shss-90,,0,0,0,,我们将从9月的灵感4号开始
+Dialogue: 0,0:02:23.74,0:02:26.12,1080P-shss-90,,0,0,0,,我们将从9月的启迪4号开始
 Dialogue: 0,0:02:26.60,0:02:29.30,1080P-sgbd-42,,0,0,0,,and this is going to be a free-flying Dragon flight
 Dialogue: 0,0:02:26.60,0:02:29.30,1080P-shss-90,,0,0,0,,并且 这将是一次独立飞行的龙飞船任务
 Dialogue: 0,0:02:29.34,0:02:31.63,1080P-sgbd-42,,0,0,0,,which won't go to the International Space Station
 Dialogue: 0,0:02:29.34,0:02:31.63,1080P-shss-90,,0,0,0,,这意味着它不会前往国际空间站
 Dialogue: 0,0:02:31.86,0:02:36.94,1080P-sgbd-42,,0,0,0,,and that meant that it avoided scheduling problems with the station's very limited docking adapters.
 Dialogue: 0,0:02:31.86,0:02:36.94,1080P-shss-90,,0,0,0,,而这意味着它避免了由于空间站对接适配器有限造成的任务安排问题
-Dialogue: 0,0:02:37.47,0:02:40.56,1080P-shss-90,,0,0,0,,四名成员将在轨道上停留三天
 Dialogue: 0,0:02:37.47,0:02:40.56,1080P-sgbd-42,,0,0,0,,The crew of four will spend three days in orbit.
+Dialogue: 0,0:02:37.47,0:02:40.56,1080P-shss-90,,0,0,0,,四名成员将在轨道上停留三天
 Dialogue: 0,0:02:40.81,0:02:44.19,1080P-sgbd-42,,0,0,0,,And they'll be actually at a higher altitude than the International Space Station
 Dialogue: 0,0:02:40.81,0:02:44.19,1080P-shss-90,,0,0,0,,并且他们实际上将处于比国际空间站更高的轨道上
 Dialogue: 0,0:02:44.40,0:02:46.75,1080P-sgbd-42,,0,0,0,,but because they're inside a single Dragon capsule
@@ -122,15 +125,15 @@ Dialogue: 0,0:03:12.86,0:03:15.50,1080P-shss-90,,0,0,0,,那是SpaceX的载人1�
 Dialogue: 0,0:03:15.92,0:03:19.62,1080P-sgbd-42,,0,0,0,,which just returned to earth after their six-month flight to the ISS.
 Dialogue: 0,0:03:15.92,0:03:19.62,1080P-shss-90,,0,0,0,,其在结束国际空间站6个月的任务后刚刚返回地球
 Dialogue: 0,0:03:20.15,0:03:24.87,1080P-sgbd-42,,0,0,0,,So the crew for Inspiration for are Jared Isaacman who's a pilot and a businessman.
-Dialogue: 0,0:03:20.15,0:03:24.87,1080P-shss-90,,0,0,0,,灵感号的成员有贾里德 艾萨曼 他是一名飞行员 也是一名商人
+Dialogue: 0,0:03:20.15,0:03:24.87,1080P-shss-90,,0,0,0,,启迪任务的成员有贾里德·艾萨克曼 他是一名飞行员 也是一名商人
 Dialogue: 0,0:03:24.87,0:03:27.59,1080P-sgbd-42,,0,0,0,,He's footing the bill for the whole thing.
 Dialogue: 0,0:03:24.87,0:03:27.59,1080P-shss-90,,0,0,0,,他为整个任务买单
 Dialogue: 0,0:03:27.75,0:03:31.83,1080P-sgbd-42,,0,0,0,,There's Hayley Arceneaux who's a physician within St. Jude.
-Dialogue: 0,0:03:27.75,0:03:31.83,1080P-shss-90,,0,0,0,,海莉 阿尔塞诺是圣裘德医院的一名内科医生
+Dialogue: 0,0:03:27.75,0:03:31.83,1080P-shss-90,,0,0,0,,海莉·阿尔塞诺是圣裘德医院的一名内科医生
 Dialogue: 0,0:03:32.16,0:03:36.18,1080P-sgbd-42,,0,0,0,,There's Dr. Sian Proctor, a science communicator on youtube and everything.
-Dialogue: 0,0:03:32.16,0:03:36.18,1080P-shss-90,,0,0,0,,还有肖恩 普罗克特博士 她是个在YouTube和其他平台上的科普博主
+Dialogue: 0,0:03:32.16,0:03:36.18,1080P-shss-90,,0,0,0,,还有肖恩·普罗克特博士 她是个在YouTube和其他平台上的科普博主
 Dialogue: 0,0:03:36.23,0:03:41.04,1080P-sgbd-42,,0,0,0,,And Christopher Sembroski who he's been a space fan for a long time.
-Dialogue: 0,0:03:36.23,0:03:41.04,1080P-shss-90,,0,0,0,,还有克里斯多福 森布罗斯基 他是一个老太空迷
+Dialogue: 0,0:03:36.23,0:03:41.04,1080P-shss-90,,0,0,0,,还有克里斯多福·森布罗斯基 他是一个老太空迷
 Dialogue: 0,0:03:41.04,0:03:44.08,1080P-sgbd-42,,0,0,0,,And he more or less won a lottery ticket to get on his flight.
 Dialogue: 0,0:03:41.04,0:03:44.08,1080P-shss-90,,0,0,0,,他赢得了一张与船票差不多金额彩票 以使他登上飞船
 Dialogue: 0,0:03:44.08,0:03:47.51,1080P-sgbd-42,,0,0,0,,Technically someone he knew won the lottery ticket and gave it to him.
@@ -138,13 +141,13 @@ Dialogue: 0,0:03:44.08,0:03:47.51,1080P-shss-90,,0,0,0,,严格地说 是他认�
 Dialogue: 0,0:03:47.88,0:03:49.41,1080P-sgbd-42,,0,0,0,,And yeah I want friends like that.
 Dialogue: 0,0:03:47.88,0:03:49.41,1080P-shss-90,,0,0,0,,所以是的 我想要这样的朋友
 Dialogue: 0,0:03:50.03,0:03:53.78,1080P-sgbd-42,,0,0,0,,But honestly if Inspiration four is probably my favorite one of the missions
-Dialogue: 0,0:03:50.03,0:03:53.78,1080P-shss-90,,0,0,0,,但说实话 如果灵感4号可能是我最喜欢的任务之一
+Dialogue: 0,0:03:50.03,0:03:53.78,1080P-shss-90,,0,0,0,,但说实话 如果启迪4号可能是我最喜欢的任务之一
 Dialogue: 0,0:03:53.80,0:03:56.66,1080P-sgbd-42,,0,0,0,,because it's just doing something very different with a lot of cool people.
 Dialogue: 0,0:03:53.80,0:03:56.66,1080P-shss-90,,0,0,0,,因为它就是和很多很酷的人一起做一些非常不同的事情
 Dialogue: 0,0:03:57.43,0:04:01.28,1080P-sgbd-42,,0,0,0,,So next up there's going to be Soyuz MS-19 and that's in October
 Dialogue: 0,0:03:57.43,0:04:01.28,1080P-shss-90,,0,0,0,,因此 接下来将是联盟MS-19 那将是在10月
 Dialogue: 0,0:04:01.28,0:04:06.42,1080P-sgbd-42,,0,0,0,,and that's going to have movie director Klim Shipenko and an actress Yulia Peresild
-Dialogue: 0,0:04:01.28,0:04:06.42,1080P-shss-90,,0,0,0,,电影导演克里姆 斯彭科和女演员尤利娅 佩雷西尔德将参加那次任务
+Dialogue: 0,0:04:01.28,0:04:06.42,1080P-shss-90,,0,0,0,,电影导演克里姆·斯彭科和女演员尤利娅·佩雷西尔德将参加那次任务
 Dialogue: 0,0:04:06.64,0:04:12.48,1080P-sgbd-42,,0,0,0,,who they're going to stay on the ISS for a week to shoot scenes for a movie which is titled the Challenge.
 Dialogue: 0,0:04:06.64,0:04:12.48,1080P-shss-90,,0,0,0,,他们将在国际空间站上停留一周 为一部名为挑战的电影拍摄场景
 Dialogue: 0,0:04:12.66,0:04:15.59,1080P-sgbd-42,,0,0,0,,Now Klim Shipenko was the director of Salyut 7
@@ -217,43 +220,42 @@ Dialogue: 0,0:06:20.88,0:06:26.77,1080P-sgbd-42,,0,0,0,,instead of using a short
 Dialogue: 0,0:06:20.88,0:06:26.77,1080P-shss-90,,0,0,0,,而不是利用短暂的任务作为一个机会 为空间站里的成员更换飞船
 Dialogue: 0,0:06:26.79,0:06:30.39,1080P-sgbd-42,,0,0,0,,So this is the first time they've actually done a dedicated tourist flight up and down.
 Dialogue: 0,0:06:26.79,0:06:30.39,1080P-shss-90,,0,0,0,,因此 这实际上是他们第一次专门的旅游飞行
-Dialogue: 0,0:06:31.74,0:06:37.84,1080P-sgbd-42,,0,0,0,,Now the first US tourist flight to the ISS will be on Axioms AX-1
+Dialogue: 0,0:06:31.74,0:06:37.84,1080P-sgbd-42,,0,0,0,,Now the first US tourist flight to the ISS will be on Axioms Ax-1
 Dialogue: 0,0:06:31.74,0:06:37.84,1080P-shss-90,,0,0,0,,那么 美国第一次前往国际空间站的旅游飞行将由公理1号执行
 Dialogue: 0,0:06:37.84,0:06:41.55,1080P-sgbd-42,,0,0,0,,and that will happen no earlier than January 2021.
 Dialogue: 0,0:06:37.84,0:06:41.55,1080P-shss-90,,0,0,0,,而那将不早于2021年1月发射
 Dialogue: 0,0:06:41.84,0:06:46.24,1080P-sgbd-42,,0,0,0,,It's going to use a Dragon spacecraft and this was actually pitched as the original.
 Dialogue: 0,0:06:41.84,0:06:46.24,1080P-shss-90,,0,0,0,,它将使用载人龙飞船 并且这实际上它最初的计划
 Dialogue: 0,0:06:46.42,0:06:49.72,1080P-sgbd-42,,0,0,0,,Well this was originally going to be the flight that took Tom Cruise and his director
-Dialogue: 0,0:06:46.42,0:06:49.72,1080P-shss-90,,0,0,0,,好吧 这原本是计划带着汤姆 克鲁斯和他的导演的飞行
+Dialogue: 0,0:06:46.42,0:06:49.72,1080P-shss-90,,0,0,0,,好吧 这原本是计划带着汤姆·克鲁斯和他的导演的飞行
 Dialogue: 0,0:06:49.75,0:06:52.24,1080P-sgbd-42,,0,0,0,,who I think is Doug Liman to spaced
-Dialogue: 0,0:06:49.75,0:06:52.24,1080P-shss-90,,0,0,0,,我记得要去的导演应该是道格 李曼
+Dialogue: 0,0:06:49.75,0:06:52.24,1080P-shss-90,,0,0,0,,我记得要去的导演应该是道格·李曼
 Dialogue: 0,0:06:52.24,0:06:58.52,1080P-sgbd-42,,0,0,0,,and that project has apparently been pushed out a bit for unspecified reasons.
 Dialogue: 0,0:06:52.24,0:06:58.52,1080P-shss-90,,0,0,0,,而这个项目显然由于不明原因被推迟了一些
 Dialogue: 0,0:06:59.14,0:07:01.24,1080P-sgbd-42,,0,0,0,,It's still on but we just don't know when.
 Dialogue: 0,0:06:59.14,0:07:01.24,1080P-shss-90,,0,0,0,,它仍然在进行 但我们只是不知道什么时候会实施
-Dialogue: 0,0:07:01.96,0:07:08.54,1080P-sgbd-42,,0,0,0,,So the crew of AX-1 has veteran astronaut Michael López-Alegría as a commander.
-Dialogue: 0,0:07:01.96,0:07:08.54,1080P-shss-90,,0,0,0,,因此 公理1号的成员有资深宇航员迈克尔 阿莱格里亚作为指挥官
+Dialogue: 0,0:07:01.96,0:07:08.54,1080P-sgbd-42,,0,0,0,,So the crew of Ax-1 has veteran astronaut Michael López-Alegría as a commander.
+Dialogue: 0,0:07:01.96,0:07:08.54,1080P-shss-90,,0,0,0,,因此 公理1号的成员有资深宇航员迈克尔·阿莱格里亚作为指挥官
 Dialogue: 0,0:07:08.84,0:07:14.47,1080P-sgbd-42,,0,0,0,,He's also the vp of Axiom and then on top of him or next to him technically sorry.
 Dialogue: 0,0:07:08.84,0:07:14.47,1080P-shss-90,,0,0,0,,他也是Axiom公司的副总裁 然后在他上面 技术上讲是在旁边的
 Dialogue: 0,0:07:14.63,0:07:20.16,1080P-sgbd-42,,0,0,0,,There are three paying passengers. Larry Connor, real estate investor, entrepreneur.
-Dialogue: 0,0:07:14.63,0:07:20.16,1080P-shss-90,,0,0,0,,有三名付费乘客 拉里 康納 他是房地产投资者 企业家
+Dialogue: 0,0:07:14.63,0:07:20.16,1080P-shss-90,,0,0,0,,有三名付费乘客 拉里·康納 他是房地产投资者 企业家
 Dialogue: 0,0:07:20.20,0:07:25.31,1080P-sgbd-42,,0,0,0,,but he's cool he's also a pilot racer. He races cars off-road and stuff.
 Dialogue: 0,0:07:20.20,0:07:25.31,1080P-shss-90,,0,0,0,,但他很酷 他也是飞行员和赛车手 他参加汽车越野赛之类的比赛
 Dialogue: 0,0:07:25.34,0:07:27.12,1080P-sgbd-42,,0,0,0,,He also went to the bottom of the ocean.
 Dialogue: 0,0:07:25.34,0:07:27.12,1080P-shss-90,,0,0,0,,他还去过了海底
 Dialogue: 0,0:07:27.26,0:07:30.46,1080P-sgbd-42,,0,0,0,,The bottom of the Challenger Deep in a submarine called the Limiting Factor.
 Dialogue: 0,0:07:27.26,0:07:30.46,1080P-shss-90,,0,0,0,,他乘坐一艘名为限制因素的潜水艇 到达过挑战者深渊的底部
-Dialogue: 0,0:07:27.26,0:07:30.46,1080P-sgsm-50,,0,0,0,,挑战者深渊是太平洋马里亚纳海沟的最深处 深约11000米 同时也是世界上海洋最深处和地表最深的地方
 Dialogue: 0,0:07:30.83,0:07:35.19,1080P-sgbd-42,,0,0,0,,there's Eytan Stibbe who's Israeli businessman and an investor.
-Dialogue: 0,0:07:30.83,0:07:35.19,1080P-shss-90,,0,0,0,,还有伊坦 史蒂比 他是以色列商人  投资者
+Dialogue: 0,0:07:30.83,0:07:35.19,1080P-shss-90,,0,0,0,,还有伊坦·史蒂比 他是以色列商人 投资者
 Dialogue: 0,0:07:35.19,0:07:37.44,1080P-sgbd-42,,0,0,0,,He also flew with the Israeli air force.
 Dialogue: 0,0:07:35.19,0:07:37.44,1080P-shss-90,,0,0,0,,他还曾在以色列空军中当过飞行员
 Dialogue: 0,0:07:37.59,0:07:42.69,1080P-sgbd-42,,0,0,0,,And that included a stint as an F-16 pilot in a squadron commanded by Ilan Ramon
-Dialogue: 0,0:07:37.59,0:07:42.69,1080P-shss-90,,0,0,0,,其履历中包括在伊兰 拉蒙指挥的一个中队担任F-16飞行员
+Dialogue: 0,0:07:37.59,0:07:42.69,1080P-shss-90,,0,0,0,,其履历中包括在伊兰·拉蒙指挥的一个中队担任F-16飞行员
 Dialogue: 0,0:07:42.96,0:07:47.38,1080P-sgbd-42,,0,0,0,,who was Israel's first astronaut and he died in the Columbia disaster.
-Dialogue: 0,0:07:42.96,0:07:47.38,1080P-shss-90,,0,0,0,,伊兰 拉蒙是以色列的第一位宇航员 在哥伦比亚号的那场灾难中去世
+Dialogue: 0,0:07:42.96,0:07:47.38,1080P-shss-90,,0,0,0,,伊兰·拉蒙是以色列的第一位宇航员 在哥伦比亚号的那场灾难中去世
 Dialogue: 0,0:07:47.68,0:07:52.96,1080P-sgbd-42,,0,0,0,,Finally there's Canadian Mark Pathy who's a yeah he's an investor, businessman
-Dialogue: 0,0:07:47.68,0:07:52.96,1080P-shss-90,,0,0,0,,最后是加拿大人马克 帕西 他也是一个投资者 商人
+Dialogue: 0,0:07:47.68,0:07:52.96,1080P-shss-90,,0,0,0,,最后是加拿大人马克·帕西 他也是一个投资者 商人
 Dialogue: 0,0:07:52.96,0:07:56.08,1080P-sgbd-42,,0,0,0,,and I'm sure he has some cool stories if you look up his background.
 Dialogue: 0,0:07:52.96,0:07:56.08,1080P-shss-90,,0,0,0,,并且我肯定他有一些很酷的故事 如果你查一下他个人的背景
 Dialogue: 0,0:07:56.21,0:08:00.24,1080P-sgbd-42,,0,0,0,,But look each of these people are there because they're investors that have made a lot of money
@@ -268,8 +270,8 @@ Dialogue: 0,0:08:13.36,0:08:16.30,1080P-sgbd-42,,0,0,0,,for the time that they'r
 Dialogue: 0,0:08:13.36,0:08:16.30,1080P-shss-90,,0,0,0,,为承担他们在国际空间站停留的时间中
 Dialogue: 0,0:08:16.32,0:08:21.12,1080P-sgbd-42,,0,0,0,,to cover consumables, astronaut time and things like that.
 Dialogue: 0,0:08:16.32,0:08:21.12,1080P-shss-90,,0,0,0,,消耗的消耗品 宇航员时间和类似的东西的费用
-Dialogue: 0,0:08:21.64,0:08:24.71,1080P-sgbd-42,,0,0,0,,So Axioms actually an interesting company for another reason
-Dialogue: 0,0:08:21.64,0:08:24.71,1080P-shss-90,,0,0,0,,因此 Axioms实际上是一家有趣的公司还有另一个原因
+Dialogue: 0,0:08:21.64,0:08:24.71,1080P-sgbd-42,,0,0,0,,So Axiom's actually an interesting company for another reason
+Dialogue: 0,0:08:21.64,0:08:24.71,1080P-shss-90,,0,0,0,,那么 Axioms实际上在另一方面也相当有趣
 Dialogue: 0,0:08:24.74,0:08:29.58,1080P-sgbd-42,,0,0,0,,because they are also contracted to develop and deliver new modules to the ISS
 Dialogue: 0,0:08:24.74,0:08:29.58,1080P-shss-90,,0,0,0,,因为他们也被签约来开发并提供新的舱段给国际空间站
 Dialogue: 0,0:08:29.96,0:08:32.23,1080P-sgbd-42,,0,0,0,,to expand its commercial capabilities
@@ -305,11 +307,11 @@ Dialogue: 0,0:09:27.34,0:09:28.39,1080P-shss-90,,0,0,0,,这真是太酷了
 Dialogue: 0,0:09:28.39,0:09:31.44,1080P-sgbd-42,,0,0,0,,I mean sure it is way out of my price range.
 Dialogue: 0,0:09:28.39,0:09:31.44,1080P-shss-90,,0,0,0,,我的意思是 这种旅游的价格显然远超出了我能承受的价格范围
 Dialogue: 0,0:09:31.44,0:09:38.56,1080P-sgbd-42,,0,0,0,,I mean even the suborbital stuff would probably need me to like work with the bank and remortgage my house
-Dialogue: 0,0:09:31.44,0:09:38.56,1080P-shss-90,,0,0,0,,我的意思是 即使是亚轨道旅游也可能需要我与银行合作 并抵押我的房子
-Dialogue: 0,0:09:38.56,0:09:43.11,1080P-shss-90,,0,0,0,,而且坦率地说 我还有一个家庭要抚养 所以我不打算这样做
+Dialogue: 0,0:09:31.44,0:09:38.56,1080P-shss-90,,0,0,0,,我是指 即使是亚轨道旅游也可能需要我与银行合作 并抵押我的房子
 Dialogue: 0,0:09:38.59,0:09:43.14,1080P-sgbd-42,,0,0,0,,and frankly I have a family to raise and I'm not going to do that
+Dialogue: 0,0:09:38.56,0:09:43.11,1080P-shss-90,,0,0,0,,而且坦率地说 我还有一个家庭要供养 所以我不打算这样做
 Dialogue: 0,0:09:43.14,0:09:47.35,1080P-sgbd-42,,0,0,0,,but maybe by the time I'm done with that the prices will have dropped to a more manageable level
-Dialogue: 0,0:09:43.14,0:09:47.35,1080P-shss-90,,0,0,0,,但也许在我结束工作的时候 其价格会下降到一个更容易应付的水平
+Dialogue: 0,0:09:43.14,0:09:47.35,1080P-shss-90,,0,0,0,,但也许在我退休的时候 其价格会下降到一个更容易应付的水平
 Dialogue: 0,0:09:47.36,0:09:50.07,1080P-sgbd-42,,0,0,0,,and I might actually get to fly on one of these things.
 Dialogue: 0,0:09:47.36,0:09:50.07,1080P-shss-90,,0,0,0,,那样的话 我可能真的会有机会乘坐这些东西
 Dialogue: 0,0:09:50.56,0:09:54.68,1080P-sgbd-42,,0,0,0,,So here's hoping for a great future of tourism and accessibility to space.
