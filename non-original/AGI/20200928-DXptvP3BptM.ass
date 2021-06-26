@@ -20,10 +20,12 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.56,0:00:10.56,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Large Constellations and Safety of Flight - Spacecast 35\N{\fs50}原作者名：AGI, An Ansys Company\N视频来源：youtu.be/DXptvP3BptM\N原视频发布日期：20200928\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:02:06.85,0:02:13.85,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)\fs39}在2021年1月12日OneWeb已申请将其二期星座数量削减至6372颗，而SpaceX在2020年4月申请将所有卫星轨道降至600km以下
 Dialogue: 0,0:00:03.56,0:00:06.60,1080P-sgbd-42,,0,0,0,,Greetings, fellow space citizens. I'm Jim Cooper.
 Dialogue: 0,0:00:03.56,0:00:06.60,1080P-shss-90,,0,0,0,,向各位太空公民问好 我是Jim Cooper
 Dialogue: 0,0:00:06.64,0:00:10.76,1080P-sgbd-42,,0,0,0,,I'm here today as a member of AGI's ComSpOC corporation
-Dialogue: 0,0:00:06.64,0:00:10.76,1080P-shss-90,,0,0,0,,我今天是作为AGI ComSpOC公司的成员来到这里
+Dialogue: 0,0:00:06.64,0:00:10.76,1080P-shss-90,,0,0,0,,{\fs87}我今天是作为AGI ComSpOC(商业航天任务中心)公司的成员来到这里
 Dialogue: 0,0:00:11.14,0:00:13.90,1080P-sgbd-42,,0,0,0,,and I'll be bringing to you today our latest spacecast.
 Dialogue: 0,0:00:11.14,0:00:13.90,1080P-shss-90,,0,0,0,,并且今天我将为大家带来我们最新一期的Spacecast节目
 Dialogue: 0,0:00:14.42,0:00:16.06,1080P-sgbd-42,,0,0,0,,We're trying something a little bit different today.
@@ -96,8 +98,8 @@ Dialogue: 0,0:01:58.32,0:02:02.39,1080P-sgbd-42,,0,0,0,,and how drastic that the
 Dialogue: 0,0:01:58.32,0:02:02.39,1080P-shss-90,,0,0,0,,以及它们在未来十年的过程中增长的将会多么急剧
 Dialogue: 0,0:02:02.39,0:02:06.83,1080P-sgbd-42,,0,0,0,,And of course this includes things like the SpaceX Starlink constellation
 Dialogue: 0,0:02:02.39,0:02:06.83,1080P-shss-90,,0,0,0,,当然 这里面包括像SpaceX的Starlink星座
-Dialogue: 0,0:02:06.85,0:02:09.90,1080P-sgbd-42,,0,0,0,,the OneWeb satellites which are here listed in the world view
-Dialogue: 0,0:02:06.85,0:02:09.90,1080P-shss-90,,0,0,0,,OneWeb的卫星 这些公司的卫星在这里被列左侧在世界视图中
+Dialogue: 0,0:02:06.85,0:02:09.90,1080P-sgbd-42,,0,0,0,,the OneWeb satellites which are here listed in the WorldVu
+Dialogue: 0,0:02:06.85,0:02:09.90,1080P-shss-90,,0,0,0,,列为WorldVu的OneWeb的卫星
 Dialogue: 0,0:02:10.31,0:02:13.59,1080P-sgbd-42,,0,0,0,,the boeing satellites amazon and everything.
 Dialogue: 0,0:02:10.31,0:02:13.59,1080P-shss-90,,0,0,0,,这里面还有波音 亚马逊和一些其他公司的卫星
 Dialogue: 0,0:02:13.92,0:02:16.23,1080P-sgbd-42,,0,0,0,,Recently the last time we did this video
@@ -123,15 +125,15 @@ Dialogue: 0,0:02:41.28,0:02:43.33,1080P-shss-90,,0,0,0,,这其中哪些是会真
 Dialogue: 0,0:02:43.35,0:02:48.48,1080P-sgbd-42,,0,0,0,,to being operational flight-capable and end up operating as constellations.
 Dialogue: 0,0:02:43.35,0:02:48.48,1080P-shss-90,,0,0,0,,能拥有可运行的飞行能力 并最终作为卫星星座运行
 Dialogue: 0,0:02:48.48,0:02:55.20,1080P-sgbd-42,,0,0,0,,However even any substantial amount of these that makes it, if it's 20% 30% 50%
-Dialogue: 0,0:02:48.48,0:02:55.20,1080P-shss-90,,0,0,0,,然而 即使它们成功的卫星只占20%30%50% 卫星数量也会大量增加
+Dialogue: 0,0:02:48.48,0:02:55.20,1080P-shss-90,,0,0,0,,{\fs87}然而 即使成功运营的卫星只占20% 30% 50% 卫星数量也会大量增加
 Dialogue: 0,0:02:55.20,0:02:59.04,1080P-sgbd-42,,0,0,0,,give it some number if it's a substantial percentage of all those satellites
 Dialogue: 0,0:02:55.20,0:02:59.04,1080P-shss-90,,0,0,0,,给它们假设一些比例 如果它们在所有那些卫星中占相当大的比例
 Dialogue: 0,0:02:59.42,0:03:05.03,1080P-sgbd-42,,0,0,0,,that's going to obviously represent a sea change or I don't know a space change maybe is a better term here
-Dialogue: 0,0:02:59.42,0:03:05.03,1080P-shss-90,,0,0,0,,这显然将展现一个巨大的变化 或者说太空级的变化 这也许有更专业的说法
+Dialogue: 0,0:02:59.42,0:03:05.03,1080P-shss-90,,0,0,0,,{\fs82}这显然将展现一个巨大的变化 或者说太空级的变化 也许这是更专业的说法
 Dialogue: 0,0:03:05.37,0:03:09.54,1080P-sgbd-42,,0,0,0,,in the actual operational environment today
 Dialogue: 0,0:03:05.37,0:03:09.54,1080P-shss-90,,0,0,0,,在今天的实际卫星运行环境下
 Dialogue: 0,0:03:09.56,0:03:15.16,1080P-sgbd-42,,0,0,0,,and the concerns that we have today as a result of this burgeoning space population.
-Dialogue: 0,0:03:09.56,0:03:15.16,1080P-shss-90,,0,0,0,,我们现在由于不断增长的卫星数量而产生了担忧
+Dialogue: 0,0:03:09.56,0:03:15.16,1080P-shss-90,,0,0,0,,以及我们现在由于不断增长的卫星数量而产生了担忧
 Dialogue: 0,0:03:15.20,0:03:18.69,1080P-sgbd-42,,0,0,0,,Now since I'm the only one in the studio today and there's nobody here to do this
 Dialogue: 0,0:03:15.20,0:03:18.69,1080P-shss-90,,0,0,0,,现在 由于我是今天演播室只有我一个人 所以这里没有人做这个
 Dialogue: 0,0:03:18.69,0:03:20.26,1080P-sgbd-42,,0,0,0,,I'm gonna go ahead and ask myself a question.
@@ -207,7 +209,7 @@ Dialogue: 0,0:05:25.02,0:05:30.88,1080P-shss-90,,0,0,0,,他们想要在有物体
 Dialogue: 0,0:05:31.20,0:05:34.84,1080P-sgbd-42,,0,0,0,,they're going to have to perform a million and a half collision avoidance maneuvers.
 Dialogue: 0,0:05:31.20,0:05:34.84,1080P-shss-90,,0,0,0,,那他们将不得不进行150万次为了避免碰撞的机动
 Dialogue: 0,0:05:36.04,0:05:39.86,1080P-sgbd-42,,0,0,0,,Now that's already operationally untenable from an operation standpoint.
-Dialogue: 0,0:05:36.04,0:05:39.86,1080P-shss-90,,0,0,0,,现在 从操作的角度来看 这在已经是难以实现的了
+Dialogue: 0,0:05:36.04,0:05:39.86,1080P-shss-90,,0,0,0,,现在 从运营的角度来看 这在已经是难以实现的了
 Dialogue: 0,0:05:40.18,0:05:46.39,1080P-sgbd-42,,0,0,0,,If you are continuing to use today's standards and today's processes for space flight safety
 Dialogue: 0,0:05:40.18,0:05:46.39,1080P-shss-90,,0,0,0,,如果你继续沿用今天的标准和太空飞行安全程序的话
 Dialogue: 0,0:05:46.43,0:05:48.29,1080P-sgbd-42,,0,0,0,,it's kind of a heads up warning if you will.
@@ -247,9 +249,9 @@ Dialogue: 0,0:06:53.18,0:06:54.85,1080P-shss-90,,0,0,0,,你可以看到这些新
 Dialogue: 0,0:06:55.18,0:07:00.84,1080P-sgbd-42,,0,0,0,,We're upwards of 400 collisions over a 10-year period with one of those pieces of debris
 Dialogue: 0,0:06:55.18,0:07:00.84,1080P-shss-90,,0,0,0,,我们在10年的内将会与这些碎片发生400次以上的碰撞
 Dialogue: 0,0:07:01.26,0:07:09.34,1080P-sgbd-42,,0,0,0,,157 million warnings and 17 million plus maneuvers to avoid collisions right.
-Dialogue: 0,0:07:01.26,0:07:09.34,1080P-shss-90,,0,0,0,,收到1.57亿次警告和进行1700多万次为了避免碰撞的机动 对吗
+Dialogue: 0,0:07:01.26,0:07:09.34,1080P-shss-90,,0,0,0,,收到1.57亿次警告和进行1700多万次为了避免碰撞的机动 对吧
 Dialogue: 0,0:07:09.95,0:07:13.30,1080P-sgbd-42,,0,0,0,,So obviously that's all operationally untenable
-Dialogue: 0,0:07:09.95,0:07:13.30,1080P-shss-90,,0,0,0,,所以显然这在操作上是难以实现的
+Dialogue: 0,0:07:09.95,0:07:13.30,1080P-shss-90,,0,0,0,,所以显然这在运营上是难以实现的
 Dialogue: 0,0:07:13.33,0:07:18.20,1080P-sgbd-42,,0,0,0,,and what that's driving really is the need for better space flight safety.
 Dialogue: 0,0:07:13.33,0:07:18.20,1080P-shss-90,,0,0,0,,而这也促使我们追求太空飞行更好的安全性
 Dialogue: 0,0:07:18.34,0:07:21.95,1080P-sgbd-42,,0,0,0,,Essentially building up a regime for space traffic management
@@ -261,7 +263,7 @@ Dialogue: 0,0:07:24.14,0:07:29.14,1080P-shss-90,,0,0,0,,这将会推动对高级
 Dialogue: 0,0:07:29.17,0:07:31.06,1080P-sgbd-42,,0,0,0,,to be able to essentially automatically
 Dialogue: 0,0:07:29.17,0:07:31.06,1080P-shss-90,,0,0,0,,以使该系统能基本上实现自动
 Dialogue: 0,0:07:31.09,0:07:36.07,1080P-sgbd-42,,0,0,0,,ingest and process data across all formats and phenomenologies and standards
-Dialogue: 0,0:07:31.09,0:07:36.07,1080P-shss-90,,0,0,0,,吸收和处理所有格式 唯象学和标准的数据
+Dialogue: 0,0:07:31.09,0:07:36.07,1080P-shss-90,,0,0,0,,吸收和处理所有格式 现象学和标准的数据
 Dialogue: 0,0:07:36.09,0:07:38.62,1080P-sgbd-42,,0,0,0,,so that you can work with all the authoritative data that's out there
 Dialogue: 0,0:07:36.09,0:07:38.62,1080P-shss-90,,0,0,0,,这样 你就可以方便地利用所有的权威数据
 Dialogue: 0,0:07:39.06,0:07:40.56,1080P-sgbd-42,,0,0,0,,and realistic error portrayals.
@@ -269,7 +271,7 @@ Dialogue: 0,0:07:39.06,0:07:40.56,1080P-shss-90,,0,0,0,,和现实中出现的错
 Dialogue: 0,0:07:40.86,0:07:43.87,1080P-sgbd-42,,0,0,0,,You need this stuff so that you can essentially make correct
 Dialogue: 0,0:07:40.86,0:07:43.87,1080P-shss-90,,0,0,0,,你需要这些数据 这样你就可以基本上做出正确的
 Dialogue: 0,0:07:44.10,0:07:49.36,1080P-sgbd-42,,0,0,0,,essentially informed with decision quality information.
-Dialogue: 0,0:07:44.10,0:07:49.36,1080P-shss-90,,0,0,0,,如果你基本上收到的信息都有高的决策质量
+Dialogue: 0,0:07:44.10,0:07:49.36,1080P-shss-90,,0,0,0,,如果你收到的信息基本上都有较高的决策质量
 Dialogue: 0,0:07:49.36,0:07:52.62,1080P-sgbd-42,,0,0,0,,You can make informed decisions on whether or not to maneuver.
 Dialogue: 0,0:07:49.36,0:07:52.62,1080P-shss-90,,0,0,0,,你就可以在是否进行机动的问题上做出明智的决定
 Dialogue: 0,0:07:52.94,0:07:55.84,1080P-sgbd-42,,0,0,0,,Obviously when you maneuver you're expending fuel.
@@ -297,7 +299,7 @@ Dialogue: 0,0:08:29.06,0:08:35.41,1080P-shss-90,,0,0,0,,当时SPD-3从一个总�
 Dialogue: 0,0:08:35.45,0:08:38.19,1080P-sgbd-42,,0,0,0,,There are numerous roles and responsibilities across the board
 Dialogue: 0,0:08:35.45,0:08:38.19,1080P-shss-90,,0,0,0,,它全面地规定了许多的规则和界定了许多责任
 Dialogue: 0,0:08:38.22,0:08:40.86,1080P-sgbd-42,,0,0,0,,from an operations standpoint and management standpoint.
-Dialogue: 0,0:08:38.22,0:08:40.86,1080P-shss-90,,0,0,0,,包括从运营的角度和管理的角度
+Dialogue: 0,0:08:38.22,0:08:40.86,1080P-shss-90,,0,0,0,,包括从运营和管理的角度
 Dialogue: 0,0:08:41.26,0:08:46.47,1080P-sgbd-42,,0,0,0,,Some things on research and development, international cooperation and everything
 Dialogue: 0,0:08:41.26,0:08:46.47,1080P-shss-90,,0,0,0,,还有一些关于研究 发展 国际合作的事情以及其他等等
 Dialogue: 0,0:08:46.48,0:08:51.44,1080P-sgbd-42,,0,0,0,,but writ large writ SPD-3 at the time assigned the main responsibility for this
