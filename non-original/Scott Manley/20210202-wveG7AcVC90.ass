@@ -22,24 +22,25 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.27,0:00:11.27,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Curiosity's Trek Across Mars\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/wveG7AcVC90\N原视频发布日期：20210202\N字幕翻译：旋火
 Dialogue: 0,0:00:04.27,0:00:05.97,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.27,0:00:05.97,1080P-shss-90,,0,0,0,,你好 我是斯科特-曼利
+Dialogue: 0,0:00:04.27,0:00:05.97,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:06.24,0:00:11.79,1080P-sgbd-42,,0,0,0,,A couple of weeks from now a spacecraft will streak across the skies of Mars,
 Dialogue: 0,0:00:06.24,0:00:11.79,1080P-shss-90,,0,0,0,,几周后 一个航天器将在火星的天空中疾驰而过
 Dialogue: 0,0:00:11.79,0:00:16.64,1080P-sgbd-42,,0,0,0,,decelerating from hyperbolic velocities protected by its heat shield
-Dialogue: 0,0:00:11.79,0:00:16.64,1080P-shss-90,,0,0,0,,在热防护罩的保护下 在夸张的速度下减速前进
+Dialogue: 0,0:00:11.79,0:00:16.64,1080P-shss-90,,0,0,0,,在热防护罩的保护下 从夸张的速度中减速前进
 Dialogue: 0,0:00:16.64,0:00:22.84,1080P-sgbd-42,,0,0,0,,and containing the Mars 2020 rover now known as Perseverance.
-Dialogue: 0,0:00:16.64,0:00:22.84,1080P-shss-90,,0,0,0,,并携带现在被称为 "毅力 "的火星2020探测器
+Dialogue: 0,0:00:16.64,0:00:22.84,1080P-shss-90,,0,0,0,,并携带现在被称为毅力的火星2020探测器
 Dialogue: 0,0:00:23.03,0:00:26.80,1080P-sgbd-42,,0,0,0,,Now I was lucky enough to actually visit JPL twice
 Dialogue: 0,0:00:23.03,0:00:26.80,1080P-shss-90,,0,0,0,,现在 我很幸运地两次访问了JPL
 Dialogue: 0,0:00:26.80,0:00:30.80,1080P-sgbd-42,,0,0,0,,and get to see Perseverance getting built in the clean room.
-Dialogue: 0,0:00:26.80,0:00:30.80,1080P-shss-90,,0,0,0,,并能看到毅力号在无尘室中建造
+Dialogue: 0,0:00:26.80,0:00:30.80,1080P-shss-90,,0,0,0,,并能看到毅力号在无尘室中的建造过程
 Dialogue: 0,0:00:30.80,0:00:33.28,1080P-sgbd-42,,0,0,0,,Obviously it was on the other side of a sheet of glass
 Dialogue: 0,0:00:30.80,0:00:33.28,1080P-shss-90,,0,0,0,,很明显 它是在玻璃的另一面
 Dialogue: 0,0:00:33.28,0:00:38.61,1080P-sgbd-42,,0,0,0,,but it was really cool to see this piece of hardware getting ready to go to Mars.
 Dialogue: 0,0:00:33.28,0:00:38.61,1080P-shss-90,,0,0,0,,但看到这台机器准备去火星 真的很酷
 Dialogue: 0,0:00:39.04,0:00:44.87,1080P-sgbd-42,,0,0,0,,In many ways it's identical to Mars science laboratory better known as Curiosity
-Dialogue: 0,0:00:39.04,0:00:44.87,1080P-shss-90,,0,0,0,,在许多方面 它与火星科学实验室（即好奇号）是一样的
+Dialogue: 0,0:00:39.04,0:00:44.87,1080P-shss-90,,0,0,0,,在许多方面 它与火星科学实验室即好奇号 是一样的
 Dialogue: 0,0:00:44.87,0:00:49.44,1080P-sgbd-42,,0,0,0,,which landed back in 2012 using the sky crane system.
 Dialogue: 0,0:00:44.87,0:00:49.44,1080P-shss-90,,0,0,0,,它在2012年使用天空起重机系统登陆
 Dialogue: 0,0:00:49.44,0:00:52.74,1080P-sgbd-42,,0,0,0,,The sky crane is something that seemed a little crazy.
@@ -47,19 +48,19 @@ Dialogue: 0,0:00:49.44,0:00:52.74,1080P-shss-90,,0,0,0,,天空起重机是一个
 Dialogue: 0,0:00:52.82,0:00:55.58,1080P-sgbd-42,,0,0,0,,At first we would probably use the word Kerbal
 Dialogue: 0,0:00:52.82,0:00:55.58,1080P-shss-90,,0,0,0,,起初 我们可能会使用坎巴拉这个词
 Dialogue: 0,0:00:55.92,0:01:00.80,1080P-sgbd-42,,0,0,0,,except that back in 2012 Kerbal Space Program was only a year old
-Dialogue: 0,0:00:55.92,0:01:00.80,1080P-shss-90,,0,0,0,,但在2012年坎巴拉只有一年的历史
+Dialogue: 0,0:00:55.92,0:01:00.80,1080P-shss-90,,0,0,0,,但在2012年 坎巴拉也只有一年的历史
 Dialogue: 0,0:01:00.80,0:01:05.58,1080P-sgbd-42,,0,0,0,,and it hadn't quite infected the psyche of everyone that was into space stuff.
 Dialogue: 0,0:01:00.80,0:01:05.58,1080P-shss-90,,0,0,0,,而且它还没有完全感染到每个人对太空事物的心理
 Dialogue: 0,0:01:05.94,0:01:08.40,1080P-sgbd-42,,0,0,0,,The reasoning behind this design is that
-Dialogue: 0,0:01:05.94,0:01:08.40,1080P-shss-90,,0,0,0,,这个设计背后的原因是
+Dialogue: 0,0:01:05.94,0:01:08.40,1080P-shss-90,,0,0,0,,在这个设计背后的原因是
 Dialogue: 0,0:01:08.40,0:01:14.88,1080P-sgbd-42,,0,0,0,,you can't build a parachute that is big enough to softly land a vehicle of this size and mass
-Dialogue: 0,0:01:08.40,0:01:14.88,1080P-shss-90,,0,0,0,,你不可能造出一个足够大的降落伞来让这样大小和质量的飞行器软着陆
+Dialogue: 0,0:01:08.40,0:01:14.88,1080P-shss-90,,0,0,0,,你不可能造出一个足够大的降落伞来让这样大小和质量的航天器软着陆
 Dialogue: 0,0:01:15.02,0:01:18.53,1080P-sgbd-42,,0,0,0,,so you need rockets but rockets kick up a lot of dirt.
 Dialogue: 0,0:01:15.02,0:01:18.53,1080P-shss-90,,0,0,0,,所以你需要火箭 但火箭会扬起很多土
 Dialogue: 0,0:01:18.80,0:01:22.65,1080P-sgbd-42,,0,0,0,,So the sky crane allows the vehicle to be set down carefully
 Dialogue: 0,0:01:18.80,0:01:22.65,1080P-shss-90,,0,0,0,,因此天空起重机必须可以让火星车小心翼翼地降落
 Dialogue: 0,0:01:22.86,0:01:28.79,1080P-sgbd-42,,0,0,0,,detached and the sky crane can then fly away to its doom really.
-Dialogue: 0,0:01:22.86,0:01:28.79,1080P-shss-90,,0,0,0,,并令其脱离 然后天空起重机就可以飞走了
+Dialogue: 0,0:01:22.86,0:01:28.79,1080P-shss-90,,0,0,0,,并令其脱离 然后天空起重机就可以飞走并坠毁了
 Dialogue: 0,0:01:29.18,0:01:32.33,1080P-sgbd-42,,0,0,0,,And one of the things I'm most looking forward to is the fact that
 Dialogue: 0,0:01:29.18,0:01:32.33,1080P-shss-90,,0,0,0,,我最期待的事情之一就是
 Dialogue: 0,0:01:32.35,0:01:39.24,1080P-sgbd-42,,0,0,0,,this process will be documented by a multitude of cameras and microphones.
@@ -73,7 +74,7 @@ Dialogue: 0,0:01:47.92,0:01:50.54,1080P-shss-90,,0,0,0,,它是一个简单的彩
 Dialogue: 0,0:01:51.14,0:01:55.86,1080P-sgbd-42,,0,0,0,,You'll see that I've corrected the shape of the frame to account for lens curvature.
 Dialogue: 0,0:01:51.14,0:01:55.86,1080P-shss-90,,0,0,0,,你会看到 我已经纠正了画面的形状 以修正镜头的弯曲度造成的影响
 Dialogue: 0,0:01:56.32,0:02:00.81,1080P-sgbd-42,,0,0,0,,It was dumping jpeg images into an eight gigabyte buffer
-Dialogue: 0,0:01:56.32,0:02:00.81,1080P-shss-90,,0,0,0,,它将jpeg图像转入一个八千兆字节的缓冲区
+Dialogue: 0,0:01:56.32,0:02:00.81,1080P-shss-90,,0,0,0,,它将jpeg图像转存到一个8GB的缓冲区
 Dialogue: 0,0:02:00.84,0:02:03.60,1080P-sgbd-42,,0,0,0,,so it could take just enough images to get through the landing.
 Dialogue: 0,0:02:00.84,0:02:03.60,1080P-shss-90,,0,0,0,,所以它可以在整个着陆期间拍摄足够多的图像
 Dialogue: 0,0:02:03.60,0:02:08.36,1080P-sgbd-42,,0,0,0,,It would take images five times per second and it can compress those in real time.
@@ -89,7 +90,7 @@ Dialogue: 0,0:02:16.80,0:02:18.72,1080P-shss-90,,0,0,0,,这是我们第一次真
 Dialogue: 0,0:02:19.22,0:02:24.70,1080P-sgbd-42,,0,0,0,,an automated spacecraft in somewhat real time performing a landing on Mars.
 Dialogue: 0,0:02:19.22,0:02:24.70,1080P-shss-90,,0,0,0,,一个自动化的航天器在某种程度上实时地在火星上进行着陆
 Dialogue: 0,0:02:24.98,0:02:28.11,1080P-sgbd-42,,0,0,0,,I say real time these images came down days later
-Dialogue: 0,0:02:24.98,0:02:28.11,1080P-shss-90,,0,0,0,,我说实时 这些图像是几天后才到达的
+Dialogue: 0,0:02:24.98,0:02:28.11,1080P-shss-90,,0,0,0,,我说实时(是不准确的 因为)这些图像是几天后才到达的
 Dialogue: 0,0:02:28.14,0:02:31.02,1080P-sgbd-42,,0,0,0,,but when they were assembled it was really exciting.
 Dialogue: 0,0:02:28.14,0:02:31.02,1080P-shss-90,,0,0,0,,但是当它们被拼装起来的时候 真的很令人兴奋
 Dialogue: 0,0:02:31.67,0:02:36.16,1080P-sgbd-42,,0,0,0,,So to just put some orientation on this to the right here is north.
@@ -101,7 +102,7 @@ Dialogue: 0,0:02:39.59,0:02:42.59,1080P-shss-90,,0,0,0,,那个黑色的区域是
 Dialogue: 0,0:02:42.87,0:02:46.94,1080P-sgbd-42,,0,0,0,,And the thing about Gale Crater is it was probably filled with water
 Dialogue: 0,0:02:42.87,0:02:46.94,1080P-shss-90,,0,0,0,,关于盖尔陨石坑的事情是它可能曾经被水填满了
 Dialogue: 0,0:02:46.96,0:02:50.68,1080P-sgbd-42,,0,0,0,,and it contains lots of sedimentary features
-Dialogue: 0,0:02:46.96,0:02:50.68,1080P-shss-90,,0,0,0,,它包含许多沉积特征
+Dialogue: 0,0:02:46.96,0:02:50.68,1080P-shss-90,,0,0,0,,所以它包含许多沉积特征
 Dialogue: 0,0:02:50.74,0:02:52.70,1080P-sgbd-42,,0,0,0,,and you can see channels and shorelines.
 Dialogue: 0,0:02:50.74,0:02:52.70,1080P-shss-90,,0,0,0,,你可以看到河道和海岸线
 Dialogue: 0,0:02:52.72,0:02:56.70,1080P-sgbd-42,,0,0,0,,Now we're falling onto the parachute and about 1800 meters up from the surface
@@ -109,13 +110,13 @@ Dialogue: 0,0:02:52.72,0:02:56.70,1080P-shss-90,,0,0,0,,现在我们正依靠降
 Dialogue: 0,0:02:57.12,0:03:02.14,1080P-sgbd-42,,0,0,0,,the parachute of the spacecraft will drop out and now it's under rocket thrust
 Dialogue: 0,0:02:57.12,0:03:02.14,1080P-shss-90,,0,0,0,,航天器的降落伞将脱落 现在它处于火箭的推力之下
 Dialogue: 0,0:03:02.16,0:03:06.03,1080P-sgbd-42,,0,0,0,,and you can actually see the vehicle banking to the the left
-Dialogue: 0,0:03:02.16,0:03:06.03,1080P-shss-90,,0,0,0,,你实际上可以看到飞行器向左倾斜
+Dialogue: 0,0:03:02.16,0:03:06.03,1080P-shss-90,,0,0,0,,你实际上可以看到航天器向左倾斜
 Dialogue: 0,0:03:06.05,0:03:08.98,1080P-sgbd-42,,0,0,0,,and now it's banking over and looking out to the right.
-Dialogue: 0,0:03:06.05,0:03:08.98,1080P-shss-90,,0,0,0,,现在它正向右倾斜并向右看去
+Dialogue: 0,0:03:06.05,0:03:08.98,1080P-shss-90,,0,0,0,,而它现正向右倾斜并向右看去
 Dialogue: 0,0:03:09.04,0:03:15.40,1080P-sgbd-42,,0,0,0,,This is just basically nulling out its horizontal velocity picking a landing site
 Dialogue: 0,0:03:09.04,0:03:15.40,1080P-shss-90,,0,0,0,,这基本上是在抵消它的水平速度 选择一个着陆点
 Dialogue: 0,0:03:15.76,0:03:18.64,1080P-sgbd-42,,0,0,0,,and now we start to get close to the surface.
-Dialogue: 0,0:03:15.76,0:03:18.64,1080P-shss-90,,0,0,0,,现在我们开始接近表面了
+Dialogue: 0,0:03:15.76,0:03:18.64,1080P-shss-90,,0,0,0,,而现在我们开始接近表面了
 Dialogue: 0,0:03:18.67,0:03:22.22,1080P-sgbd-42,,0,0,0,,It's slowing down and it will start deploying the vehicle.
 Dialogue: 0,0:03:18.67,0:03:22.22,1080P-shss-90,,0,0,0,,它正在减速 将开始部署火星车
 Dialogue: 0,0:03:22.24,0:03:27.19,1080P-sgbd-42,,0,0,0,,So it's now less than 100 feet above the surface less than 30 meters.
@@ -127,15 +128,15 @@ Dialogue: 0,0:03:29.78,0:03:31.84,1080P-shss-90,,0,0,0,,它现在正在向地面
 Dialogue: 0,0:03:31.87,0:03:34.95,1080P-sgbd-42,,0,0,0,,You can't see much because of the debris getting thrown up
 Dialogue: 0,0:03:31.87,0:03:34.95,1080P-shss-90,,0,0,0,,由于被抛起的碎片 你看不太清楚
 Dialogue: 0,0:03:35.26,0:03:41.90,1080P-sgbd-42,,0,0,0,,but this is a lot less debris than would be thrown up if the rockets were attached to the vehicle itself.
-Dialogue: 0,0:03:35.26,0:03:41.90,1080P-shss-90,,0,0,0,,但这比火箭与飞行器本身相连时抛出的碎片要少得多
+Dialogue: 0,0:03:35.26,0:03:41.90,1080P-shss-90,,0,0,0,,{\fs88}但这比火箭与航天器自身相连时(处在较低的位置)抛出的碎片要少得多
 Dialogue: 0,0:03:42.31,0:03:45.36,1080P-sgbd-42,,0,0,0,,And that's good because you don't want stuff blowing about.
-Dialogue: 0,0:03:42.31,0:03:45.36,1080P-shss-90,,0,0,0,,这很好 因为你不希望东西被吹起来
+Dialogue: 0,0:03:42.31,0:03:45.36,1080P-shss-90,,0,0,0,,而这是很好的 因为你不希望东西被吹起来
 Dialogue: 0,0:03:45.49,0:03:50.15,1080P-sgbd-42,,0,0,0,,It would cause potentially cause damage to the rover.
 Dialogue: 0,0:03:45.49,0:03:50.15,1080P-shss-90,,0,0,0,,它们可能会导致火星车的损伤
 Dialogue: 0,0:03:50.34,0:03:51.34,1080P-sgbd-42,,0,0,0,,And now it's on the surface.
 Dialogue: 0,0:03:50.34,0:03:51.34,1080P-shss-90,,0,0,0,,而现在它已经在着陆在表面了
 Dialogue: 0,0:03:51.35,0:03:56.36,1080P-sgbd-42,,0,0,0,,That camera can still be used to look at stuff directly under the vehicle.
-Dialogue: 0,0:03:51.35,0:03:56.36,1080P-shss-90,,0,0,0,,那台相机仍然可以用来观察车辆下面的东西
+Dialogue: 0,0:03:51.35,0:03:56.36,1080P-shss-90,,0,0,0,,那台相机仍然可以用来观察航天器下面的东西
 Dialogue: 0,0:03:56.76,0:04:01.23,1080P-sgbd-42,,0,0,0,,Now I actually discovered something pretty cool while trying to clean this thing up.
 Dialogue: 0,0:03:56.76,0:04:01.23,1080P-shss-90,,0,0,0,,现在我在试图清理这个东西的时候 实际上发现了一些很酷的东西
 Dialogue: 0,0:04:01.60,0:04:06.79,1080P-sgbd-42,,0,0,0,,And see this heat shield, this heat shield you can actually follow all the way down.
@@ -153,7 +154,7 @@ Dialogue: 0,0:04:17.69,0:04:20.98,1080P-shss-90,,0,0,0,,或者当角度正确时
 Dialogue: 0,0:04:21.84,0:04:25.59,1080P-sgbd-42,,0,0,0,,This is the last time that I honestly say that I can see the heat shield.
 Dialogue: 0,0:04:21.84,0:04:25.59,1080P-shss-90,,0,0,0,,诚实地说这是我最后一次可以看到隔热罩
 Dialogue: 0,0:04:25.88,0:04:28.02,1080P-sgbd-42,,0,0,0,,It's just between those two craters.
-Dialogue: 0,0:04:25.88,0:04:28.02,1080P-shss-90,,0,0,0,,它就在那两个火山口之间
+Dialogue: 0,0:04:25.88,0:04:28.02,1080P-shss-90,,0,0,0,,它就在那两个陨石坑之间
 Dialogue: 0,0:04:28.04,0:04:30.18,1080P-sgbd-42,,0,0,0,,It catches the light for a few frames.
 Dialogue: 0,0:04:28.04,0:04:30.18,1080P-shss-90,,0,0,0,,它捕捉到了几帧的光线
 Dialogue: 0,0:04:30.21,0:04:32.57,1080P-sgbd-42,,0,0,0,,And you can see the pixels are just slightly brighter.
@@ -185,7 +186,7 @@ Dialogue: 0,0:05:12.00,0:05:14.99,1080P-shss-90,,0,0,0,,它能够在第二天拍
 Dialogue: 0,0:05:15.01,0:05:16.71,1080P-sgbd-42,,0,0,0,,showing the landing site of
 Dialogue: 0,0:05:15.01,0:05:16.71,1080P-shss-90,,0,0,0,,显示飞船的着陆点
 Dialogue: 0,0:05:16.79,0:05:23.36,1080P-sgbd-42,,0,0,0,,the spacecraft, the heat shield, the parachute, the aeroshell, the sky crane.
-Dialogue: 0,0:05:16.79,0:05:23.36,1080P-shss-90,,0,0,0,,航天器、隔热罩、降落伞、气囊、天空起重机
+Dialogue: 0,0:05:16.79,0:05:23.36,1080P-shss-90,,0,0,0,,航天器 隔热罩 降落伞 气囊 天空起重机
 Dialogue: 0,0:05:23.36,0:05:27.34,1080P-sgbd-42,,0,0,0,,All that stuff was scattered out over the area over a few kilometers.
 Dialogue: 0,0:05:23.36,0:05:27.34,1080P-shss-90,,0,0,0,,所有这些东西都散落在几公里的区域内
 Dialogue: 0,0:05:27.86,0:05:28.72,1080P-sgbd-42,,0,0,0,,And during the landing
@@ -197,17 +198,17 @@ Dialogue: 0,0:05:34.47,0:05:36.97,1080P-shss-90,,0,0,0,,这样他们就能真正
 Dialogue: 0,0:05:37.00,0:05:38.81,1080P-sgbd-42,,0,0,0,,and they picked out the parachute.
 Dialogue: 0,0:05:37.00,0:05:38.81,1080P-shss-90,,0,0,0,,而他们找出了降落伞
 Dialogue: 0,0:05:38.87,0:05:41.21,1080P-sgbd-42,,0,0,0,,The vehicle aren't falling under the parachute.
-Dialogue: 0,0:05:38.87,0:05:41.21,1080P-shss-90,,0,0,0,,车辆并没有在降落伞下方降落
+Dialogue: 0,0:05:38.87,0:05:41.21,1080P-shss-90,,0,0,0,,航天器并没有在降落伞下方降落
 Dialogue: 0,0:05:41.55,0:05:45.75,1080P-sgbd-42,,0,0,0,,Now of course the Mars Reconnaissance Orbiter takes strips of data
-Dialogue: 0,0:05:41.55,0:05:45.75,1080P-shss-90,,0,0,0,,当然 火星勘测轨道飞行器采取的是条状的数据
+Dialogue: 0,0:05:41.55,0:05:45.75,1080P-shss-90,,0,0,0,,当然 火星勘测轨道航天器拍下的是条状的数据
 Dialogue: 0,0:05:45.76,0:05:47.94,1080P-sgbd-42,,0,0,0,,so this is part of a much larger image.
-Dialogue: 0,0:05:45.76,0:05:47.94,1080P-shss-90,,0,0,0,,所以这是一张更大的图像的一部分
+Dialogue: 0,0:05:45.76,0:05:47.94,1080P-shss-90,,0,0,0,,那么这是一张更大的图像的一部分
 Dialogue: 0,0:05:48.48,0:05:52.06,1080P-sgbd-42,,0,0,0,,There is the thing under the parachute there.
 Dialogue: 0,0:05:48.48,0:05:52.06,1080P-shss-90,,0,0,0,,那里是降落伞下的东西
 Dialogue: 0,0:05:52.10,0:05:55.42,1080P-sgbd-42,,0,0,0,,But yeah down here this is actually where the landing occurred
-Dialogue: 0,0:05:52.10,0:05:55.42,1080P-shss-90,,0,0,0,,但是 是的 在这里 这实际上是着陆的地方
+Dialogue: 0,0:05:52.10,0:05:55.42,1080P-shss-90,,0,0,0,,但是 是的 在这里 这是实际上着陆的地方
 Dialogue: 0,0:05:55.45,0:05:58.16,1080P-sgbd-42,,0,0,0,,so the camera is kind of looking down.
-Dialogue: 0,0:05:55.45,0:05:58.16,1080P-shss-90,,0,0,0,,所以相机是往下看的
+Dialogue: 0,0:05:55.45,0:05:58.16,1080P-shss-90,,0,0,0,,那么相机差不多是往下看的
 Dialogue: 0,0:05:58.26,0:06:00.86,1080P-sgbd-42,,0,0,0,,It's roughly 45 degree angle.
 Dialogue: 0,0:05:58.26,0:06:00.86,1080P-shss-90,,0,0,0,,这大概是45度角
 Dialogue: 0,0:06:00.88,0:06:04.84,1080P-sgbd-42,,0,0,0,,It says 42 degrees but the point is that it's coming down at an angle
@@ -215,11 +216,11 @@ Dialogue: 0,0:06:00.88,0:06:04.84,1080P-shss-90,,0,0,0,,它说是42度 但重点
 Dialogue: 0,0:06:05.29,0:06:07.01,1080P-sgbd-42,,0,0,0,,therefore you can actually estimate that
 Dialogue: 0,0:06:05.29,0:06:07.01,1080P-shss-90,,0,0,0,,因此你实际上可以估计到
 Dialogue: 0,0:06:07.02,0:06:12.23,1080P-sgbd-42,,0,0,0,,this is about two and a half kilometers up based upon the landing site being roughly here.
-Dialogue: 0,0:06:07.02,0:06:12.23,1080P-shss-90,,0,0,0,,这大约是两公里半的高度 根据着陆点大致在这里
+Dialogue: 0,0:06:07.02,0:06:12.23,1080P-shss-90,,0,0,0,,这大约是两公里半的高度 根据着陆点的大致位置
 Dialogue: 0,0:06:13.13,0:06:19.28,1080P-sgbd-42,,0,0,0,,Stepping up a bit this is what the crater Gale Crater looks like from orbit.
 Dialogue: 0,0:06:13.13,0:06:19.28,1080P-shss-90,,0,0,0,,再往上走一点 这是从轨道上看盖尔陨石坑的样子
 Dialogue: 0,0:06:19.60,0:06:23.86,1080P-sgbd-42,,0,0,0,,And the Curiosity landed in the top left region here.
-Dialogue: 0,0:06:19.60,0:06:23.86,1080P-shss-90,,0,0,0,,好奇号在这里的左上方区域着陆
+Dialogue: 0,0:06:19.60,0:06:23.86,1080P-shss-90,,0,0,0,,而好奇号在这里的左上方区域着陆
 Dialogue: 0,0:06:23.89,0:06:25.34,1080P-sgbd-42,,0,0,0,,That's to the northwest.
 Dialogue: 0,0:06:23.89,0:06:25.34,1080P-shss-90,,0,0,0,,那是在西北部
 Dialogue: 0,0:06:26.06,0:06:29.70,1080P-sgbd-42,,0,0,0,,You can see the big long black sand dune area there.
@@ -229,9 +230,9 @@ Dialogue: 0,0:06:30.12,0:06:31.31,1080P-shss-90,,0,0,0,,再放大一点
 Dialogue: 0,0:06:31.38,0:06:36.60,1080P-sgbd-42,,0,0,0,,you can see the channel right in the top left, the channel that flows in from the north
 Dialogue: 0,0:06:31.38,0:06:36.60,1080P-shss-90,,0,0,0,,你可以看到左上方的通道 从北边流进来的通道
 Dialogue: 0,0:06:37.28,0:06:41.19,1080P-sgbd-42,,0,0,0,,and beyond that channel you get an outflow area, a relatively flat area
-Dialogue: 0,0:06:37.28,0:06:41.19,1080P-shss-90,,0,0,0,,而在这个通道之外 你会看到一个流出的区域 一个相对平坦的区域
+Dialogue: 0,0:06:37.28,0:06:41.19,1080P-shss-90,,0,0,0,,而在这个通道之外 你会看到一片流出的区域 一片相对平坦的区域
 Dialogue: 0,0:06:41.19,0:06:43.86,1080P-sgbd-42,,0,0,0,,and on the left side of this dune area
-Dialogue: 0,0:06:41.19,0:06:43.86,1080P-shss-90,,0,0,0,,在这个沙丘区的左侧
+Dialogue: 0,0:06:41.19,0:06:43.86,1080P-shss-90,,0,0,0,,而在这个沙丘区的左侧
 Dialogue: 0,0:06:43.88,0:06:49.40,1080P-sgbd-42,,0,0,0,,you come to see a sort of gap where they plan to cross it onto Mount Sharp.
 Dialogue: 0,0:06:43.88,0:06:49.40,1080P-shss-90,,0,0,0,,你会看到一个缺口 他们计划在那里穿越到夏普山
 Dialogue: 0,0:06:50.39,0:06:57.11,1080P-sgbd-42,,0,0,0,,Okay so here we have a 3D model based upon satellite data from the Mars Reconnaissance Orbiter
@@ -239,7 +240,7 @@ Dialogue: 0,0:06:50.39,0:06:57.11,1080P-shss-90,,0,0,0,,好的 所以这里我�
 Dialogue: 0,0:06:57.11,0:06:59.14,1080P-sgbd-42,,0,0,0,,and this shows the same landing site
 Dialogue: 0,0:06:57.11,0:06:59.14,1080P-shss-90,,0,0,0,,这显示了同一个着陆点
 Dialogue: 0,0:06:59.19,0:07:01.76,1080P-sgbd-42,,0,0,0,,and you can see a lot of the same features that we saw.
-Dialogue: 0,0:06:59.19,0:07:01.76,1080P-shss-90,,0,0,0,,你可以看到很多与我们看到的相同的特征
+Dialogue: 0,0:06:59.19,0:07:01.76,1080P-shss-90,,0,0,0,,而你可以看到很多与我们看到的相同的特征
 Dialogue: 0,0:07:01.79,0:07:03.87,1080P-sgbd-42,,0,0,0,,I mean obviously you see that dune area.
 Dialogue: 0,0:07:01.79,0:07:03.87,1080P-shss-90,,0,0,0,,我的意思是 很明显 你看到了那个沙丘区
 Dialogue: 0,0:07:03.88,0:07:05.13,1080P-sgbd-42,,0,0,0,,You can see these shorelines
@@ -249,7 +250,7 @@ Dialogue: 0,0:07:05.14,0:07:08.16,1080P-shss-90,,0,0,0,,实际上 如果你这�
 Dialogue: 0,0:07:09.31,0:07:11.56,1080P-sgbd-42,,0,0,0,,This is obviously me sliding towards the north
 Dialogue: 0,0:07:09.31,0:07:11.56,1080P-shss-90,,0,0,0,,这显然是我向北滑动
 Dialogue: 0,0:07:11.66,0:07:14.92,1080P-sgbd-42,,0,0,0,,This is a channel that flowed into Gale Crater.
-Dialogue: 0,0:07:11.66,0:07:14.92,1080P-shss-90,,0,0,0,,这是一条流入盖尔火山口的河道
+Dialogue: 0,0:07:11.66,0:07:14.92,1080P-shss-90,,0,0,0,,这是一条流入盖尔陨石坑的河道
 Dialogue: 0,0:07:15.12,0:07:17.28,1080P-sgbd-42,,0,0,0,,It forms this alluvial flan.
 Dialogue: 0,0:07:15.12,0:07:17.28,1080P-shss-90,,0,0,0,,它形成了这个冲积板
 Dialogue: 0,0:07:17.44,0:07:20.27,1080P-sgbd-42,,0,0,0,,So the landing site is roughly about here.
@@ -271,7 +272,7 @@ Dialogue: 0,0:07:49.84,0:07:53.57,1080P-shss-90,,0,0,0,,慢慢地绕过这些沙
 Dialogue: 0,0:07:54.58,0:07:59.02,1080P-sgbd-42,,0,0,0,,It basically headed down this way through this area here.
 Dialogue: 0,0:07:54.58,0:07:59.02,1080P-shss-90,,0,0,0,,它基本上是以这种方式穿过这个区域
 Dialogue: 0,0:07:59.42,0:08:03.05,1080P-sgbd-42,,0,0,0,,It had made a number of diversions and it's going around this.
-Dialogue: 0,0:07:59.42,0:08:03.05,1080P-shss-90,,0,0,0,,它已经做了一些分流并绕过这里
+Dialogue: 0,0:07:59.42,0:08:03.05,1080P-shss-90,,0,0,0,,它已经绕了很多路
 Dialogue: 0,0:08:03.49,0:08:05.42,1080P-sgbd-42,,0,0,0,,And going to be climbing up here.
 Dialogue: 0,0:08:03.49,0:08:05.42,1080P-shss-90,,0,0,0,,并将在这里爬升
 Dialogue: 0,0:08:05.66,0:08:08.62,1080P-sgbd-42,,0,0,0,,And eventually hoping to head up here into that mountain.
@@ -289,19 +290,19 @@ Dialogue: 0,0:08:26.38,0:08:27.26,1080P-shss-90,,0,0,0,,而这是非常好的
 Dialogue: 0,0:08:27.27,0:08:31.86,1080P-sgbd-42,,0,0,0,,because it can help you reconstruct the geological history of this planet.
 Dialogue: 0,0:08:27.27,0:08:31.86,1080P-shss-90,,0,0,0,,因为它可以帮助你重建这个星球的地质历史
 Dialogue: 0,0:08:32.68,0:08:35.44,1080P-sgbd-42,,0,0,0,,And this is what Curiosity sees of Mount Sharp.
-Dialogue: 0,0:08:32.68,0:08:35.44,1080P-shss-90,,0,0,0,,这就是好奇号看到的夏普山
+Dialogue: 0,0:08:32.68,0:08:35.44,1080P-shss-90,,0,0,0,,而这就是好奇号看到的夏普山
 Dialogue: 0,0:08:35.44,0:08:39.87,1080P-sgbd-42,,0,0,0,,So it's a large mount in the middle of Gale Crater.
 Dialogue: 0,0:08:35.44,0:08:39.87,1080P-shss-90,,0,0,0,,它是位于盖尔陨石坑中间的一个大山
 Dialogue: 0,0:08:39.90,0:08:41.56,1080P-sgbd-42,,0,0,0,,It was formed during the impact
 Dialogue: 0,0:08:39.90,0:08:41.56,1080P-shss-90,,0,0,0,,它是在撞击过程中形成的
 Dialogue: 0,0:08:41.86,0:08:45.14,1080P-sgbd-42,,0,0,0,,when you have a large enough of energy large enough scales
-Dialogue: 0,0:08:41.86,0:08:45.14,1080P-shss-90,,0,0,0,,当你有足够大的能量和足够大的尺度时
+Dialogue: 0,0:08:41.86,0:08:45.14,1080P-shss-90,,0,0,0,,当你有足够大的能量和足够大的规模时
 Dialogue: 0,0:08:45.17,0:08:47.64,1080P-sgbd-42,,0,0,0,,the ground actually behaves like a liquid
 Dialogue: 0,0:08:45.17,0:08:47.64,1080P-shss-90,,0,0,0,,地面实际上表现得像液体
 Dialogue: 0,0:08:47.66,0:08:51.00,1080P-sgbd-42,,0,0,0,,and it rebounds a little during the crater forming process.
-Dialogue: 0,0:08:47.66,0:08:51.00,1080P-shss-90,,0,0,0,,它在火山口形成过程中会有一些反弹
+Dialogue: 0,0:08:47.66,0:08:51.00,1080P-shss-90,,0,0,0,,它在陨石坑形成过程中会有一些反弹
 Dialogue: 0,0:08:51.31,0:08:53.88,1080P-sgbd-42,,0,0,0,,And that is what stood for billions of years.
-Dialogue: 0,0:08:51.31,0:08:53.88,1080P-shss-90,,0,0,0,,这就是几十亿年来的情况
+Dialogue: 0,0:08:51.31,0:08:53.88,1080P-shss-90,,0,0,0,,而这就是几十亿年来的情况
 Dialogue: 0,0:08:54.11,0:08:58.80,1080P-sgbd-42,,0,0,0,,And so there's all this geology up the side of the mountain that we want to investigate.
 Dialogue: 0,0:08:54.11,0:08:58.80,1080P-shss-90,,0,0,0,,因此我们想要调查在山的一侧的所有这些地质
 Dialogue: 0,0:08:58.97,0:09:02.88,1080P-sgbd-42,,0,0,0,,But to get there they had to take a bit of a circuitous route.
@@ -315,9 +316,9 @@ Dialogue: 0,0:09:16.35,0:09:22.47,1080P-shss-90,,0,0,0,,当然 将地图和图�
 Dialogue: 0,0:09:22.78,0:09:24.39,1080P-sgbd-42,,0,0,0,,which is why I find it great that
 Dialogue: 0,0:09:22.78,0:09:24.39,1080P-shss-90,,0,0,0,,这就是为什么我发现它真的很不错
 Dialogue: 0,0:09:24.39,0:09:29.58,1080P-sgbd-42,,0,0,0,,there's a few sites that NASA has gone and essentially constructed 3d environments for.
-Dialogue: 0,0:09:24.39,0:09:29.58,1080P-shss-90,,0,0,0,,有几个地方美国宇航局已经去过了并基本上构建了3D环境
+Dialogue: 0,0:09:24.39,0:09:29.58,1080P-shss-90,,0,0,0,,有几个地方NASA已经去过了并基本上构建了3D环境
 Dialogue: 0,0:09:30.72,0:09:32.08,1080P-sgbd-42,,0,0,0,,This is Dingle Gap.
-Dialogue: 0,0:09:30.72,0:09:32.08,1080P-shss-90,,0,0,0,,这就是Dingle Gap
+Dialogue: 0,0:09:30.72,0:09:32.08,1080P-shss-90,,0,0,0,,这就是丁格尔峡谷
 Dialogue: 0,0:09:32.08,0:09:35.08,1080P-sgbd-42,,0,0,0,,Yes it's named after an Australian site. There you go.
 Dialogue: 0,0:09:32.08,0:09:35.08,1080P-shss-90,,0,0,0,,是的 它是以澳大利亚的一个地点命名的 就是这样
 Dialogue: 0,0:09:35.10,0:09:37.11,1080P-sgbd-42,,0,0,0,,And it's located where a bunch of sand dunes are.
@@ -333,13 +334,13 @@ Dialogue: 0,0:09:49.84,0:09:52.08,1080P-shss-90,,0,0,0,,你只需点击它 就�
 Dialogue: 0,0:09:52.20,0:09:57.77,1080P-sgbd-42,,0,0,0,,And you can actually see where that corresponds to in the various navigation cameras.
 Dialogue: 0,0:09:52.20,0:09:57.77,1080P-shss-90,,0,0,0,,然后你就可以看到这在各种导航相机中对应的位置
 Dialogue: 0,0:09:58.14,0:10:00.24,1080P-sgbd-42,,0,0,0,,They have a bunch of different sites in here.
-Dialogue: 0,0:09:58.14,0:10:00.24,1080P-shss-90,,0,0,0,,他们在这里有一堆不同地点
+Dialogue: 0,0:09:58.14,0:10:00.24,1080P-shss-90,,0,0,0,,他们在这里有一堆不同的地点
 Dialogue: 0,0:10:00.47,0:10:01.90,1080P-sgbd-42,,0,0,0,,It's not a huge number.
 Dialogue: 0,0:10:00.47,0:10:01.90,1080P-shss-90,,0,0,0,,并不是很多
 Dialogue: 0,0:10:02.31,0:10:05.06,1080P-sgbd-42,,0,0,0,,I guess it takes a lot of time to do all the photogrammetry.
 Dialogue: 0,0:10:02.31,0:10:05.06,1080P-shss-90,,0,0,0,,我想这需要大量的时间来做所有的摄影测量
 Dialogue: 0,0:10:05.08,0:10:08.90,1080P-sgbd-42,,0,0,0,,This is a standing looking at this very interesting wall here.
-Dialogue: 0,0:10:05.08,0:10:08.90,1080P-shss-90,,0,0,0,,这是一个站在这里看这个非常有趣的墙
+Dialogue: 0,0:10:05.08,0:10:08.90,1080P-shss-90,,0,0,0,,这是一个站在这里看这个非常有趣的墙的照片
 Dialogue: 0,0:10:09.26,0:10:12.60,1080P-sgbd-42,,0,0,0,,And again you can just click on it and find the various parts.
 Dialogue: 0,0:10:09.26,0:10:12.60,1080P-shss-90,,0,0,0,,而且同样的你可以点击它 找到各个部分
 Dialogue: 0,0:10:13.07,0:10:14.92,1080P-sgbd-42,,0,0,0,,This is the Kimberley.
@@ -379,7 +380,7 @@ Dialogue: 0,0:11:19.18,0:11:20.50,1080P-shss-90,,0,0,0,,相当不真实
 Dialogue: 0,0:11:20.95,0:11:24.07,1080P-sgbd-42,,0,0,0,,Teally glad that they actually include the scaling on here.
 Dialogue: 0,0:11:20.95,0:11:24.07,1080P-shss-90,,0,0,0,,我很高兴他们真的在这里加入了缩放功能
 Dialogue: 0,0:11:24.31,0:11:29.27,1080P-sgbd-42,,0,0,0,,I mean this is what happens when you leave sand to get blown around and have all the dynamics work on.
-Dialogue: 0,0:11:24.31,0:11:29.27,1080P-shss-90,,0,0,0,,我的意思是 这就是当沙子被吹来吹去 同时所有的力互相作用发生的情况
+Dialogue: 0,0:11:24.31,0:11:29.27,1080P-shss-90,,0,0,0,,我是指 这就是当沙子被吹来吹去 同时所有的力互相作用发生的情况
 Dialogue: 0,0:11:29.27,0:11:36.42,1080P-sgbd-42,,0,0,0,,It's black basalt based sand which there may have been a whole lot more of this in the past
 Dialogue: 0,0:11:29.27,0:11:36.42,1080P-shss-90,,0,0,0,,这是以黑色玄武岩为基础的沙子 在过去可能有很多这样的情况
 Dialogue: 0,0:11:36.43,0:11:41.97,1080P-sgbd-42,,0,0,0,,but even then you get these big dunes that are migrating across the bottom of the crater.
@@ -391,7 +392,7 @@ Dialogue: 0,0:11:49.50,0:11:53.36,1080P-shss-90,,0,0,0,,这张图片向我们展
 Dialogue: 0,0:11:53.49,0:11:55.90,1080P-sgbd-42,,0,0,0,,and one thing I want you to notice is that
 Dialogue: 0,0:11:53.49,0:11:55.90,1080P-shss-90,,0,0,0,,我想让你注意到的一件事是
 Dialogue: 0,0:11:55.94,0:11:58.77,1080P-sgbd-42,,0,0,0,,the names are all sort of appropriate to each other
-Dialogue: 0,0:11:55.94,0:11:58.77,1080P-shss-90,,0,0,0,,我想让你注意的是 这些名字都是相互对应的
+Dialogue: 0,0:11:55.94,0:11:58.77,1080P-shss-90,,0,0,0,,这些名字都是相互对应的
 Dialogue: 0,0:11:58.80,0:12:01.14,1080P-sgbd-42,,0,0,0,,so as they move down the themes are changing
 Dialogue: 0,0:11:58.80,0:12:01.14,1080P-shss-90,,0,0,0,,所以当他们向下移动时 主题也在变化
 Dialogue: 0,0:12:01.15,0:12:02.29,1080P-sgbd-42,,0,0,0,,and right down the bottom
@@ -415,15 +416,15 @@ Dialogue: 0,0:12:27.82,0:12:31.44,1080P-shss-90,,0,0,0,,这是因为它的光谱
 Dialogue: 0,0:12:31.78,0:12:34.88,1080P-sgbd-42,,0,0,0,,Very interesting if you're of course looking for ancient water.
 Dialogue: 0,0:12:31.78,0:12:34.88,1080P-shss-90,,0,0,0,,如果你要寻找古代的水 那就非常有趣了
 Dialogue: 0,0:12:35.12,0:12:38.28,1080P-sgbd-42,,0,0,0,,They're going to have to go up through this channel
-Dialogue: 0,0:12:35.12,0:12:38.28,1080P-shss-90,,0,0,0,,他们将不得不穿过这条通道
+Dialogue: 0,0:12:35.12,0:12:38.28,1080P-shss-90,,0,0,0,,他们将不得不穿过这条沟道
 Dialogue: 0,0:12:38.30,0:12:42.00,1080P-sgbd-42,,0,0,0,,that has been cut down the side of the mountain through the sulphate unit.
 Dialogue: 0,0:12:38.30,0:12:42.00,1080P-shss-90,,0,0,0,,从山的一侧切入 穿过硫酸盐单元
 Dialogue: 0,0:12:42.06,0:12:46.51,1080P-sgbd-42,,0,0,0,,Again the evidence from orbit points to high sulfate levels in these rocks.
 Dialogue: 0,0:12:42.06,0:12:46.51,1080P-shss-90,,0,0,0,,来自轨道的证据再次表明这些岩石中的硫酸盐含量很高
 Dialogue: 0,0:12:47.38,0:12:48.98,1080P-sgbd-42,,0,0,0,,But yeah this is a channel
-Dialogue: 0,0:12:47.38,0:12:48.98,1080P-shss-90,,0,0,0,,但是 这是一个通道
+Dialogue: 0,0:12:47.38,0:12:48.98,1080P-shss-90,,0,0,0,,但是 这是一个沟道
 Dialogue: 0,0:12:49.01,0:12:55.04,1080P-sgbd-42,,0,0,0,,that has been cut through it by a water flow from higher up Mount Sharp down the side
-Dialogue: 0,0:12:49.01,0:12:55.04,1080P-shss-90,,0,0,0,,被从夏普山更高处流下的水切割成的通道
+Dialogue: 0,0:12:49.01,0:12:55.04,1080P-shss-90,,0,0,0,,它是被夏普山高处流下的水切割而形成的
 Dialogue: 0,0:12:55.04,0:12:59.46,1080P-sgbd-42,,0,0,0,,and so this is great because not only is it an easier path
 Dialogue: 0,0:12:55.04,0:12:59.46,1080P-shss-90,,0,0,0,,所以这很好 因为它不仅是一个更容易的路径
 Dialogue: 0,0:12:59.46,0:13:03.72,1080P-sgbd-42,,0,0,0,,but it also has cut down through the layers giving access to geology
@@ -437,13 +438,13 @@ Dialogue: 0,0:13:11.76,0:13:14.87,1080P-shss-90,,0,0,0,,这是从1月开始的 �
 Dialogue: 0,0:13:14.90,0:13:18.25,1080P-sgbd-42,,0,0,0,,but they're now moving headed into the french region of Mars.
 Dialogue: 0,0:13:14.90,0:13:18.25,1080P-shss-90,,0,0,0,,但他们现在正向火星的法国地区前进
 Dialogue: 0,0:13:18.71,0:13:24.72,1080P-sgbd-42,,0,0,0,,But the vehicle is powered by a radioisotope thermoelectric generator.
-Dialogue: 0,0:13:18.71,0:13:24.72,1080P-shss-90,,0,0,0,,但该火星车是由放射性同位素热电发电机提供动力
+Dialogue: 0,0:13:18.71,0:13:24.72,1080P-shss-90,,0,0,0,,但好奇号是由放射性同位素热电发电机提供动力的
 Dialogue: 0,0:13:24.72,0:13:26.21,1080P-sgbd-42,,0,0,0,,Its lifetime is limited.
 Dialogue: 0,0:13:24.72,0:13:26.21,1080P-shss-90,,0,0,0,,它的寿命是有限的
 Dialogue: 0,0:13:26.32,0:13:30.00,1080P-sgbd-42,,0,0,0,,The plutonium that powers that has a half-life of like 80 odd years.
 Dialogue: 0,0:13:26.32,0:13:30.00,1080P-shss-90,,0,0,0,,为其提供动力的钚的半衰期为80年左右
 Dialogue: 0,0:13:30.63,0:13:35.23,1080P-sgbd-42,,0,0,0,,And as this power decays they're going to have to start taking steps to reduce the power usage.
-Dialogue: 0,0:13:30.63,0:13:35.23,1080P-shss-90,,0,0,0,,随着这种动力的衰减 他们将不得不开始采取措施 减少动力的使用
+Dialogue: 0,0:13:30.63,0:13:35.23,1080P-shss-90,,0,0,0,,随着这种能源的衰减 他们将不得不开始采取措施 减少其使用
 Dialogue: 0,0:13:35.64,0:13:38.63,1080P-sgbd-42,,0,0,0,,It's not just the RTG because that charges batteries
 Dialogue: 0,0:13:35.64,0:13:38.63,1080P-shss-90,,0,0,0,,这不仅仅是RTG 因为它为电池充电
 Dialogue: 0,0:13:38.63,0:13:40.86,1080P-sgbd-42,,0,0,0,,and the batteries also degrade over time.
@@ -455,8 +456,8 @@ Dialogue: 0,0:13:43.43,0:13:46.63,1080P-shss-90,,0,0,0,,但最有可能的是 �
 Dialogue: 0,0:13:46.75,0:13:48.10,1080P-sgbd-42,,0,0,0,,And it's really a question of
 Dialogue: 0,0:13:46.75,0:13:48.10,1080P-shss-90,,0,0,0,,而这实际上是一个问题
 Dialogue: 0,0:13:48.11,0:13:52.63,1080P-sgbd-42,,0,0,0,,how far up it gets Mount Sharp before it has to take its leave.
-Dialogue: 0,0:13:48.11,0:13:52.63,1080P-shss-90,,0,0,0,,在它不得不离开之前 它还能在夏普山上走多远
+Dialogue: 0,0:13:48.11,0:13:52.63,1080P-shss-90,,0,0,0,,它在失效之前 还能在夏普山上走多远
 Dialogue: 0,0:13:52.82,0:13:55.00,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:13:52.82,0:13:55.00,1080P-shss-90,,0,0,0,,我是斯科特-曼利 飞行安全
+Dialogue: 0,0:13:52.82,0:13:55.00,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
 Dialogue: 0,0:13:55.38,0:14:14.14,1080P-sgbd-4s,,0,0,0,,[Music]
 Dialogue: 0,0:13:55.38,0:14:14.14,1080P-sgsm-6s,,0,0,0,,[音乐]
