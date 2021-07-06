@@ -20,6 +20,9 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.38,0:00:11.38,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}10 Years Of Kerbal Space Program - On Final Approach\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/1nRAMNSWlhM\N原视频发布日期：20210626\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:08:42.92,0:08:45.73,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Made on Earth by humans
+Dialogue: 0,0:11:23.72,0:11:31.89,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,820)}魔法巨石 永远不要嘲弄魔法巨石
 Dialogue: 0,0:00:04.38,0:00:05.75,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.38,0:00:05.75,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.75,0:00:11.37,1080P-sgbd-42,,0,0,0,,Back from Hawaii and it is the tenth anniversary of the release of Kerbal Space Program
@@ -63,7 +66,7 @@ Dialogue: 0,0:01:27.85,0:01:29.31,1080P-shss-90,,0,0,0,,很多图标与今天相
 Dialogue: 0,0:01:29.39,0:01:32.07,1080P-sgbd-42,,0,0,0,,You can click on your various parts.
 Dialogue: 0,0:01:29.39,0:01:32.07,1080P-shss-90,,0,0,0,,你可以点击你的各种部件
 Dialogue: 0,0:01:32.26,0:01:38.30,1080P-sgbd-42,,0,0,0,,Interestingly they have decals which didn't actually turn up in the game until about a year ago.
-Dialogue: 0,0:01:32.26,0:01:38.30,1080P-shss-90,,0,0,0,,有趣的是 直到一年前它们的贴花才真正出现了在游戏中
+Dialogue: 0,0:01:32.26,0:01:38.30,1080P-shss-90,,0,0,0,,有趣的是 直到一年前它们的贴花才真正出现在了游戏中
 Dialogue: 0,0:01:38.66,0:01:42.94,1080P-sgbd-42,,0,0,0,,But you have a little command pod there.
 Dialogue: 0,0:01:38.66,0:01:42.94,1080P-shss-90,,0,0,0,,而在这里 你有一个小小的指令舱
 Dialogue: 0,0:01:42.98,0:01:44.72,1080P-sgbd-42,,0,0,0,,And you could start assembling bits on it.
@@ -79,7 +82,7 @@ Dialogue: 0,0:01:54.46,0:01:55.70,1080P-shss-90,,0,0,0,,好吧 至少向上移�
 Dialogue: 0,0:01:55.97,0:01:59.78,1080P-sgbd-42,,0,0,0,,There's a lot of stuff in this that you expect to work if you've played the game
 Dialogue: 0,0:01:55.97,0:01:59.78,1080P-shss-90,,0,0,0,,如果你玩过这个游戏 你会期待这里面许多操作能奏效
 Dialogue: 0,0:02:01.06,0:02:03.91,1080P-sgbd-42,,0,0,0,,which doesn't actually work because it wasn't implemented.
-Dialogue: 0,0:02:01.06,0:02:03.91,1080P-shss-90,,0,0,0,,但实际上 很多这些操作有时并不会奏效 因为它们没有被执行
+Dialogue: 0,0:02:01.06,0:02:03.91,1080P-shss-90,,0,0,0,,但实际上 很多这些操作有时并不会奏效 因为(在代码里)没有被实现
 Dialogue: 0,0:02:06.81,0:02:10.00,1080P-sgbd-42,,0,0,0,,Let's put an FL-T500 in here.
 Dialogue: 0,0:02:06.81,0:02:10.00,1080P-shss-90,,0,0,0,,让我们在这里放一个FL-T500燃料箱
 Dialogue: 0,0:02:10.22,0:02:14.55,1080P-sgbd-42,,0,0,0,,Now you'll notice I'm doing one tank here and not multiple tanks.
@@ -92,24 +95,24 @@ Dialogue: 0,0:02:26.15,0:02:28.36,1080P-sgbd-42,,0,0,0,,Let's do this.
 Dialogue: 0,0:02:26.15,0:02:28.36,1080P-shss-90,,0,0,0,,让我们现在这样做
 Dialogue: 0,0:02:29.04,0:02:30.31,1080P-sgbd-42,,0,0,0,,And we'll do another tank.
 Dialogue: 0,0:02:29.04,0:02:30.31,1080P-shss-90,,0,0,0,,然后我们再放一个燃料箱
-Dialogue: 0,0:02:30.43,0:02:33.61,1080P-sgbd-42,,0,0,0,,And we'll also try to put some Radial boosters on right?
+Dialogue: 0,0:02:30.43,0:02:33.61,1080P-sgbd-42,,0,0,0,,And we'll also try to put some radial boosters on right?
 Dialogue: 0,0:02:30.43,0:02:33.61,1080P-shss-90,,0,0,0,,我们还将尝试安装一些径向助推器 对吗
-Dialogue: 0,0:02:34.13,0:02:38.46,1080P-sgbd-42,,0,0,0,,So Radial decouplers are things you attached to the side.
-Dialogue: 0,0:02:34.13,0:02:38.46,1080P-shss-90,,0,0,0,,径向分离器是你要安装到火箭侧面的东西
+Dialogue: 0,0:02:34.13,0:02:38.46,1080P-sgbd-42,,0,0,0,,So Radial Decouplers are things you attached to the side.
+Dialogue: 0,0:02:34.13,0:02:38.46,1080P-shss-90,,0,0,0,,那么 径向分离器是你要安装到火箭侧面的东西
 Dialogue: 0,0:02:38.87,0:02:40.93,1080P-sgbd-42,,0,0,0,,And in this version there's no symmetry.
 Dialogue: 0,0:02:38.87,0:02:40.93,1080P-shss-90,,0,0,0,,在这个版本中 没有对称功能
 Dialogue: 0,0:02:41.00,0:02:46.40,1080P-sgbd-42,,0,0,0,,You just have to sort of guess where it is and slap them on there.
 Dialogue: 0,0:02:41.00,0:02:46.40,1080P-shss-90,,0,0,0,,你只能猜测它的位置 然后把它们安在上面
 Dialogue: 0,0:02:46.60,0:02:50.33,1080P-sgbd-42,,0,0,0,,And hope that they are lined up sufficiently well
-Dialogue: 0,0:02:46.60,0:02:50.33,1080P-shss-90,,0,0,0,,并希望它们能充分地排成一行
+Dialogue: 0,0:02:46.60,0:02:50.33,1080P-shss-90,,0,0,0,,并希望它们能完全排成一行
 Dialogue: 0,0:02:50.38,0:02:54.62,1080P-sgbd-42,,0,0,0,,that they don't actually spin you off and cause you to fall over.
 Dialogue: 0,0:02:50.38,0:02:54.62,1080P-shss-90,,0,0,0,,以免它们造成火箭旋转 使火箭倾倒
 Dialogue: 0,0:02:56.43,0:02:59.80,1080P-sgbd-42,,0,0,0,,There are also little fins there
-Dialogue: 0,0:02:56.43,0:02:59.80,1080P-shss-90,,0,0,0,,这里还有一些小舵
+Dialogue: 0,0:02:56.43,0:02:59.80,1080P-shss-90,,0,0,0,,这里还有一些小翼面
 Dialogue: 0,0:02:59.82,0:03:02.78,1080P-sgbd-42,,0,0,0,,but those don't actually work as control surfaces.
-Dialogue: 0,0:02:59.82,0:03:02.78,1080P-shss-90,,0,0,0,,但实际上 它们并不作为操纵面工作
+Dialogue: 0,0:02:59.82,0:03:02.78,1080P-shss-90,,0,0,0,,但实际上 它们并不是操纵面
 Dialogue: 0,0:03:02.81,0:03:04.82,1080P-sgbd-42,,0,0,0,,They don't move. They don't actuate.
-Dialogue: 0,0:03:02.81,0:03:04.82,1080P-shss-90,,0,0,0,,它们不会移动 它们不能被驱动
+Dialogue: 0,0:03:02.81,0:03:04.82,1080P-shss-90,,0,0,0,,它们不会移动 也不能被驱动
 Dialogue: 0,0:03:05.47,0:03:08.05,1080P-sgbd-42,,0,0,0,,And again of course you have to worry about symmetry.
 Dialogue: 0,0:03:05.47,0:03:08.05,1080P-shss-90,,0,0,0,,当然 你还得担心对称问题
 Dialogue: 0,0:03:08.51,0:03:10.22,1080P-sgbd-42,,0,0,0,,No aerodynamic nosecone
@@ -117,7 +120,7 @@ Dialogue: 0,0:03:08.51,0:03:10.22,1080P-shss-90,,0,0,0,,这个版本里没有空
 Dialogue: 0,0:03:10.26,0:03:15.34,1080P-sgbd-42,,0,0,0,,because well the aerodynamics in this game are very primitive at this time
 Dialogue: 0,0:03:10.26,0:03:15.34,1080P-shss-90,,0,0,0,,因为这个游戏的空气动力学在那时还是非常原始的
 Dialogue: 0,0:03:15.36,0:03:19.32,1080P-sgbd-42,,0,0,0,,so I can actually adjust the staging here which is great.
-Dialogue: 0,0:03:15.36,0:03:19.32,1080P-shss-90,,0,0,0,,我实际上可以再这里调整分级 这点很好
+Dialogue: 0,0:03:15.36,0:03:19.32,1080P-shss-90,,0,0,0,,所以我实际上可以再这里调整分级 这点很好
 Dialogue: 0,0:03:20.21,0:03:22.30,1080P-sgbd-42,,0,0,0,,One thing I haven't put on is the parachute
 Dialogue: 0,0:03:20.21,0:03:22.30,1080P-shss-90,,0,0,0,,有一个东西我还没有装上 那就是降落伞
 Dialogue: 0,0:03:22.32,0:03:27.15,1080P-sgbd-42,,0,0,0,,and you'll notice in the description that it still has that comedic outlook on life.
@@ -141,42 +144,44 @@ Dialogue: 0,0:03:48.30,0:03:49.81,1080P-shss-90,,0,0,0,,它最终被移除
 Dialogue: 0,0:03:50.47,0:03:53.14,1080P-sgbd-42,,0,0,0,,Because players began building rockets so large
 Dialogue: 0,0:03:50.47,0:03:53.14,1080P-shss-90,,0,0,0,,因为玩家们开始把火箭造得太大了
 Dialogue: 0,0:03:53.14,0:03:56.28,1080P-sgbd-42,,0,0,0,, that they would just clip through that tower and explode on spawning.
-Dialogue: 0,0:03:53.14,0:03:56.28,1080P-shss-90,,0,0,0,,以至于火箭会直接穿过发射塔 并如天女散花般爆炸
+Dialogue: 0,0:03:53.14,0:03:56.28,1080P-shss-90,,0,0,0,,以至于火箭会直接穿过发射塔 并在(游戏中)出生的时候爆炸
 Dialogue: 0,0:03:56.28,0:04:00.71,1080P-sgbd-42,,0,0,0,,Now. I remember actually an early version where one of the things I did
 Dialogue: 0,0:03:56.28,0:04:00.71,1080P-shss-90,,0,0,0,,那么 我记得在早期版本中 我做过的一件事
 Dialogue: 0,0:04:00.71,0:04:03.03,1080P-sgbd-42,,0,0,0,,was lift off and try to land on top of that.
 Dialogue: 0,0:04:00.71,0:04:03.03,1080P-shss-90,,0,0,0,,就是升空并试图降落在发射台上面
 Dialogue: 0,0:04:03.69,0:04:06.27,1080P-sgbd-42,,0,0,0,,So the landscape is still procedureally generated
-Dialogue: 0,0:04:03.69,0:04:06.27,1080P-shss-90,,0,0,0,,所以 景观仍然是按程序生成的
+Dialogue: 0,0:04:03.69,0:04:06.27,1080P-shss-90,,0,0,0,,所以 地面的景观仍然是按程序生成的
 Dialogue: 0,0:04:06.27,0:04:13.22,1080P-sgbd-42,,0,0,0,,although you'll notice there's a lot of like giggle as a terrainrerenders at different detail levels
-Dialogue: 0,0:04:06.27,0:04:13.22,1080P-shss-90,,0,0,0,,尽管随着地形在不同的分辨率下重新渲染 你能看到像傻笑样的地形
+Dialogue: 0,0:04:06.27,0:04:13.22,1080P-shss-90,,0,0,0,,尽管地形在不同的分辨率下重新渲染显得有点滑稽
 Dialogue: 0,0:04:13.22,0:04:15.55,1080P-sgbd-42,,0,0,0,,obviously that got improved a whole lot
 Dialogue: 0,0:04:13.22,0:04:15.55,1080P-shss-90,,0,0,0,,显然 这一点在现在得到了很大的改善
-Dialogue: 0,0:04:15.55,0:04:20.18,1080P-sgbd-42,,0,0,0,,but yeah um Look at those boosters on the outside
-Dialogue: 0,0:04:15.55,0:04:20.18,1080P-shss-90,,0,0,0,,但是的 看看周围的那些助推器
+Dialogue: 0,0:04:15.55,0:04:20.18,1080P-sgbd-42,,0,0,0,,but yeah look at those boosters on the outside
+Dialogue: 0,0:04:15.55,0:04:20.18,1080P-shss-90,,0,0,0,,但是 看看周围的那些助推器
 Dialogue: 0,0:04:20.18,0:04:22.24,1080P-sgbd-42,,0,0,0,,straining against their Radial mounts.
 Dialogue: 0,0:04:20.18,0:04:22.24,1080P-shss-90,,0,0,0,,对它们的径向支架施加着拉力
-Dialogue: 0,0:04:22.24,0:04:27.36,1080P-sgbd-42,,0,0,0,,That soft joint physics. Was very much core to the Kerbal design.
-Dialogue: 0,0:04:22.24,0:04:27.36,1080P-shss-90,,0,0,0,,那个软节点物理学 是坎巴拉设计的核心
-Dialogue: 0,0:04:27.36,0:04:31.22,1080P-sgbd-42,,0,0,0,,In fact I think the very first internal build of Kerbal space program
-Dialogue: 0,0:04:27.36,0:04:31.22,1080P-shss-90,,0,0,0,,事实上 我记得坎巴拉太空计划的第一个内部版本中
+Dialogue: 0,0:04:22.24,0:04:27.36,1080P-sgbd-42,,0,0,0,,That soft joint physics was very much core to the Kerbal design.
+Dialogue: 0,0:04:22.24,0:04:27.36,1080P-shss-90,,0,0,0,,其所涉及的软节点物理学 是坎巴拉设计的核心
+Dialogue: 0,0:04:27.36,0:04:31.22,1080P-sgbd-42,,0,0,0,,In fact I think the very first internal build of Kerbal Space Program
+Dialogue: 0,0:04:27.36,0:04:31.22,1080P-shss-90,,0,0,0,,事实上 我记得在坎巴拉太空计划的第一个内部版本中
 Dialogue: 0,0:04:31.22,0:04:37.90,1080P-sgbd-42,,0,0,0,,had the boosters fly up for a couple of seconds and then sheer off due to excess stress.
 Dialogue: 0,0:04:31.22,0:04:37.90,1080P-shss-90,,0,0,0,,助推器可能会在飞行一段时间后 由于过大的压力而脱落
 Dialogue: 0,0:04:39.46,0:04:43.82,1080P-sgbd-42,,0,0,0,,You'll notice that we do actually have fuel gauges for the solid rocket boosters not for the regular engine.
-Dialogue: 0,0:04:39.46,0:04:43.82,1080P-shss-90,,0,0,0,,你会注意到 游戏中固体火箭发动机有燃料表 而液体发动机则没有
+Dialogue: 0,0:04:42.71,0:04:43.82,1080P-shss-90,,0,0,0,,你会注意到 游戏中固体火箭发动机有燃料表 而液体发动机则没有
 Dialogue: 0,0:04:43.82,0:04:46.02,1080P-sgbd-42,,0,0,0,,We have no idea what's going on.
 Dialogue: 0,0:04:43.82,0:04:46.02,1080P-shss-90,,0,0,0,,我们不知道这是怎么回事
 Dialogue: 0,0:04:46.61,0:04:49.42,1080P-sgbd-42,,0,0,0,,Also one of the sort of original game design features
 Dialogue: 0,0:04:46.61,0:04:49.42,1080P-shss-90,,0,0,0,,另外 游戏的一个原始设计特色
 Dialogue: 0,0:04:49.42,0:04:54.37,1080P-sgbd-42,,0,0,0,,was supposed to be flying as high as possible before your rocket overheated.
 Dialogue: 0,0:04:49.42,0:04:54.37,1080P-shss-90,,0,0,0,,本来是要你在火箭过热之前飞的尽可能的高
-Dialogue: 0,0:04:55.41,0:04:57.58,1080P-sgbd-42,,0,0,0,,That Ken had stopped being a thing until now
+Dialogue: 0,0:04:55.41,0:04:57.58,1080P-sgbd-42,,0,0,0,,That kinda had stopped being a thing until now
 Dialogue: 0,0:04:55.41,0:04:57.58,1080P-shss-90,,0,0,0,,而在现在 这点早已不值一提
-Dialogue: 0,0:04:57.58,0:05:05.01,1080P-sgbd-42,,0,0,0,,and it would be a long time before thermal control became a core part of the game that had been properly designed.
-Dialogue: 0,0:04:57.58,0:05:05.01,1080P-shss-90,,0,0,0,,并且在很长时间后 热控制才被看作游戏的核心部分并被正确设计
+Dialogue: 0,0:04:57.58,0:05:03.66,1080P-sgbd-42,,0,0,0,,and it would be a long time before thermal control became a core part of the game
+Dialogue: 0,0:04:57.58,0:05:03.66,1080P-shss-90,,0,0,0,,并且在很长时间后 热控制才被看作游戏的核心部分
+Dialogue: 0,0:05:03.68,0:05:05.25,1080P-sgbd-42,,0,0,0,,that had been properly designed.
+Dialogue: 0,0:05:03.68,0:05:05.25,1080P-shss-90,,0,0,0,,并被正确设计
 Dialogue: 0,0:05:05.70,0:05:10.89,1080P-sgbd-42,,0,0,0,,Look we stage those off and they drop back to earth to land on some Kerbal villagers
 Dialogue: 0,0:05:05.70,0:05:10.89,1080P-shss-90,,0,0,0,,看我们把这些部件分离 然后它们落回地面 掉在一些坎巴拉村民身上
-Dialogue: 0,0:05:10.91,0:05:14.46,1080P-sgbd-42,,0,0,0,,except of course in this version of Kerbal Space program
+Dialogue: 0,0:05:10.91,0:05:14.46,1080P-sgbd-42,,0,0,0,,except of course in this version of Kerbal Space Program
 Dialogue: 0,0:05:10.91,0:05:14.46,1080P-shss-90,,0,0,0,,当然 除了在这个版本的坎巴拉太空计划中
 Dialogue: 0,0:05:14.49,0:05:17.95,1080P-sgbd-42,,0,0,0,,there were no villages or cities anywhere else on the planet.
 Dialogue: 0,0:05:14.49,0:05:17.95,1080P-shss-90,,0,0,0,,星球上没有任何村庄或城市
@@ -190,8 +195,8 @@ Dialogue: 0,0:05:30.94,0:05:34.53,1080P-sgbd-42,,0,0,0,,but ultimately it would 
 Dialogue: 0,0:05:30.94,0:05:34.53,1080P-shss-90,,0,0,0,,但最终它还是被称为坎星
 Dialogue: 0,0:05:35.23,0:05:40.55,1080P-sgbd-42,,0,0,0,,And with this early alpha of Kerbal Space Program was downloaded 5000 times
 Dialogue: 0,0:05:35.23,0:05:40.55,1080P-shss-90,,0,0,0,,就这样 坎巴拉太空计划的最初版本被下载了5000左右次
-Dialogue: 0,0:05:40.55,0:05:42.62,1080P-sgbd-42,,0,0,0,, and played by people like me.
-Dialogue: 0,0:05:40.55,0:05:42.62,1080P-shss-90,,0,0,0,, 并被像我这样的人玩过
+Dialogue: 0,0:05:40.55,0:05:42.62,1080P-sgbd-42,,0,0,0,,and played by people like me.
+Dialogue: 0,0:05:40.55,0:05:42.62,1080P-shss-90,,0,0,0,,并被像我这样的人玩过
 Dialogue: 0,0:05:42.65,0:05:46.94,1080P-sgbd-42,,0,0,0,,And it basically got itself a following very quickly it was developed
 Dialogue: 0,0:05:42.65,0:05:46.94,1080P-shss-90,,0,0,0,,而且基本上在它刚被开发后不久 它就拥有了自己的一批追随者
 Dialogue: 0,0:05:46.96,0:05:50.34,1080P-sgbd-42,,0,0,0,,it would be several years before they released the 1.0 version
@@ -243,7 +248,7 @@ Dialogue: 0,0:07:13.54,0:07:19.38,1080P-shss-90,,0,0,0,,就是那个在被大规
 Dialogue: 0,0:07:20.03,0:07:25.26,1080P-sgbd-42,,0,0,0,,And just in front of it to the right of that little spherical tank.
 Dialogue: 0,0:07:20.03,0:07:25.26,1080P-shss-90,,0,0,0,,而就在它的前面 在那个小型球形燃料箱的右边
 Dialogue: 0,0:07:25.67,0:07:31.73,1080P-sgbd-42,,0,0,0,,There is a monument. A monument to the original Mark one part.
-Dialogue: 0,0:07:25.67,0:07:31.73,1080P-shss-90,,0,0,0,,那里有一个纪念碑 以纪念原来的马克1号部件
+Dialogue: 0,0:07:25.67,0:07:31.73,1080P-shss-90,,0,0,0,,那里有一个纪念碑 以纪念原来的1号部件
 Dialogue: 0,0:07:32.14,0:07:37.07,1080P-sgbd-42,,0,0,0,,Hewn out of solid stone which probably doesn't help with water recovery.
 Dialogue: 0,0:07:32.14,0:07:37.07,1080P-shss-90,,0,0,0,,指令舱由坚硬的石头雕刻而成 这可能对水上回收没什么好处
 Dialogue: 0,0:07:37.53,0:07:40.86,1080P-sgbd-42,,0,0,0,,And a couple of hundred kilometers north of the desert launch site
@@ -284,7 +289,6 @@ Dialogue: 0,0:08:34.26,0:08:38.89,1080P-sgbd-42,,0,0,0,,You can just slide them 
 Dialogue: 0,0:08:34.26,0:08:38.89,1080P-shss-90,,0,0,0,,你可以直接让它们从滑道上滑下来 让它们看起来像真的船一样
 Dialogue: 0,0:08:39.56,0:08:42.92,1080P-sgbd-42,,0,0,0,,There are a few other easter eggs have been added in the final release.
 Dialogue: 0,0:08:39.56,0:08:42.92,1080P-shss-90,,0,0,0,,最终的版本中还添加了其他一些彩蛋
-Dialogue: 0,0:08:42.92,0:08:45.73,1080P-sgsm-50,,0,0,0,,Made on Earth by humans
 Dialogue: 0,0:08:42.93,0:08:45.73,1080P-sgbd-42,,0,0,0,,Here's one that was made on Kerbin by Kerbals.
 Dialogue: 0,0:08:42.93,0:08:45.73,1080P-shss-90,,0,0,0,,这里有一个 由坎星人在坎星制造
 Dialogue: 0,0:08:45.99,0:08:49.66,1080P-sgbd-42,,0,0,0,,And here's me having a bit of an oopsy with opportunity.
@@ -313,7 +317,7 @@ Dialogue: 0,0:09:26.89,0:09:29.17,1080P-sgbd-42,,0,0,0,,and look it's gone and c
 Dialogue: 0,0:09:26.89,0:09:29.17,1080P-shss-90,,0,0,0,,看 它已经完成了计算 并为我创建了节点
 Dialogue: 0,0:09:29.19,0:09:34.70,1080P-sgbd-42,,0,0,0,,it's created a node and I can actually run a count down to that and perform the maneuver.
 Dialogue: 0,0:09:29.19,0:09:34.70,1080P-shss-90,,0,0,0,,它已经创建了一个节点 我可以把时间加速到那个时候 然后执行机动
-Dialogue: 0,0:09:35.08,0:09:38.82,1080P-sgbd-42,,0,0,0,,It will also create an alarm clock a scheduling system
+Dialogue: 0,0:09:35.08,0:09:38.82,1080P-sgbd-42,,0,0,0,,It will also create an alarm clock, a scheduling system
 Dialogue: 0,0:09:35.08,0:09:38.82,1080P-shss-90,,0,0,0,,它还会创建一个闹钟 一个任务安排系统
 Dialogue: 0,0:09:38.86,0:09:42.39,1080P-sgbd-42,,0,0,0,,so that if you have other missions doing other things
 Dialogue: 0,0:09:38.86,0:09:42.39,1080P-shss-90,,0,0,0,,这样 如果你有正在做其他事情的任务
@@ -339,8 +343,8 @@ Dialogue: 0,0:10:11.57,0:10:14.71,1080P-sgbd-42,,0,0,0,,If you're in deep space 
 Dialogue: 0,0:10:11.57,0:10:14.71,1080P-shss-90,,0,0,0,,如果你在深空 那么你可能无法使用它
 Dialogue: 0,0:10:15.07,0:10:17.58,1080P-sgbd-42,,0,0,0,,And the latest release brings a few new parts.
 Dialogue: 0,0:10:15.07,0:10:17.58,1080P-shss-90,,0,0,0,,而且最新的版本还带来了一些新的部件
-Dialogue: 0,0:10:17.60,0:10:21.57,1080P-shss-90,,0,0,0,,在坎巴拉太空计划的第一个版本中 只有11个不同的部件
 Dialogue: 0,0:10:17.77,0:10:21.74,1080P-sgbd-42,,0,0,0,,In the very first release of Kerbal Space Program there were eleven different parts.
+Dialogue: 0,0:10:17.77,0:10:21.57,1080P-shss-90,,0,0,0,,在坎巴拉太空计划的第一个版本中 只有11个不同的部件
 Dialogue: 0,0:10:21.74,0:10:24.00,1080P-sgbd-42,,0,0,0,,Now there's over 400.
 Dialogue: 0,0:10:21.74,0:10:24.00,1080P-shss-90,,0,0,0,,而现在则有超过400个部件
 Dialogue: 0,0:10:24.23,0:10:27.40,1080P-sgbd-42,,0,0,0,,This release brings four new types of solar panels.
@@ -375,7 +379,6 @@ Dialogue: 0,0:11:16.84,0:11:22.34,1080P-sgbd-42,,0,0,0,,and you know what you mi
 Dialogue: 0,0:11:16.84,0:11:22.34,1080P-shss-90,,0,0,0,,你知道吗 你可能会想知道坎巴拉太空计划背后的团队发生了什么
 Dialogue: 0,0:11:22.42,0:11:24.19,1080P-sgbd-42,,0,0,0,,What they're going to be doing from now on.
 Dialogue: 0,0:11:22.42,0:11:24.19,1080P-shss-90,,0,0,0,,他们从现在开始将会去做什么
-Dialogue: 0,0:11:23.72,0:11:31.89,1080P-sgsm-50,,0,0,0,,魔法巨石 永远不要嘲弄魔法巨石
 Dialogue: 0,0:11:24.50,0:11:26.89,1080P-sgbd-42,,0,0,0,,Well there can be working on Kerbal Space Program 2.
 Dialogue: 0,0:11:24.50,0:11:26.89,1080P-shss-90,,0,0,0,,其实 他们有可能会在坎巴拉太空计划2上工作
 Dialogue: 0,0:11:26.91,0:11:31.49,1080P-sgbd-42,,0,0,0,,There is another team that has been working on that game for several years
@@ -386,9 +389,9 @@ Dialogue: 0,0:11:35.85,0:11:37.18,1080P-sgbd-42,,0,0,0,,and frankly I'm okay wit
 Dialogue: 0,0:11:35.85,0:11:37.18,1080P-shss-90,,0,0,0,,坦率地说 我对此并不反对
 Dialogue: 0,0:11:37.19,0:11:39.32,1080P-sgbd-42,,0,0,0,,because I prefer them to deliver a product
 Dialogue: 0,0:11:37.19,0:11:39.32,1080P-shss-90,,0,0,0,,因为我更希望他们提供的产品
-Dialogue: 0,0:11:39.56,0:11:43.12,1080P-sgbd-42,,0,0,0,,which captures everything that is great about Kerbal space program.
+Dialogue: 0,0:11:39.56,0:11:43.12,1080P-sgbd-42,,0,0,0,,which captures everything that is great about Kerbal Space Program.
 Dialogue: 0,0:11:39.56,0:11:43.12,1080P-shss-90,,0,0,0,,能涵盖到坎巴拉太空计划的所有优点
-Dialogue: 0,0:11:43.81,0:11:48.15,1080P-sgbd-42,,0,0,0,,Now I could go on and on about how important Kerbal space program has been
+Dialogue: 0,0:11:43.81,0:11:48.15,1080P-sgbd-42,,0,0,0,,Now I could go on and on about how important Kerbal Space Program has been
 Dialogue: 0,0:11:43.81,0:11:48.15,1080P-shss-90,,0,0,0,,现在我可以继续讲 坎巴拉太空计划有多么重要
 Dialogue: 0,0:11:48.21,0:11:51.15,1080P-sgbd-42,,0,0,0,,how it's such a your powerful educational tool
 Dialogue: 0,0:11:48.21,0:11:51.15,1080P-shss-90,,0,0,0,,它怎样是如此强大的教育工具
@@ -406,8 +409,8 @@ Dialogue: 0,0:12:08.02,0:12:11.38,1080P-sgbd-42,,0,0,0,,the CEO of the United La
 Dialogue: 0,0:12:08.02,0:12:11.38,1080P-shss-90,,0,0,0,,ULA的首席执行官
 Dialogue: 0,0:12:12.18,0:12:19.02,1080P-sgbd-42,,0,0,0,,Basically people who are absolutely qualified talk about space and rocket science because that is their job.
 Dialogue: 0,0:12:12.18,0:12:19.02,1080P-shss-90,,0,0,0,,基本上是那些绝对有资格谈太空和火箭科学的人 因为那是他们的工作
-Dialogue: 0,0:12:19.53,0:12:25.03,1080P-shss-90,,0,0,0,,对于坎巴拉太空计划 我们已经有了十年惊人的发展和更新
 Dialogue: 0,0:12:19.53,0:12:25.03,1080P-sgbd-42,,0,0,0,,And for Kerbal Space Program we've had ten amazing years of development and updates.
+Dialogue: 0,0:12:19.53,0:12:25.03,1080P-shss-90,,0,0,0,,对于坎巴拉太空计划 我们已经有了十年惊人的发展和更新
 Dialogue: 0,0:12:25.06,0:12:26.95,1080P-sgbd-42,,0,0,0,,But I don't think the story ends here.
 Dialogue: 0,0:12:25.06,0:12:26.95,1080P-shss-90,,0,0,0,,但我不认为它的故事会到此结束
 Dialogue: 0,0:12:26.97,0:12:30.43,1080P-sgbd-42,,0,0,0,,Or first of all there is one more update coming at least
@@ -416,7 +419,7 @@ Dialogue: 0,0:12:30.62,0:12:36.81,1080P-sgbd-42,,0,0,0,,and I think now that we'
 Dialogue: 0,0:12:30.62,0:12:36.81,1080P-shss-90,,0,0,0,,我认为现在我们看到的是一个可以基于开发的固定版本
 Dialogue: 0,0:12:37.21,0:12:40.96,1080P-sgbd-42,,0,0,0,,The mod developers will finally update all their mods
 Dialogue: 0,0:12:37.21,0:12:40.96,1080P-shss-90,,0,0,0,,模组开发者会最后更新他们所有的模组
-Dialogue: 0,0:12:41.01,0:12:46.10,1080P-sgbd-42,,0,0,0,,and we will have a glorious future of Kerbal Space program forever.
+Dialogue: 0,0:12:41.01,0:12:46.10,1080P-sgbd-42,,0,0,0,,and we will have a glorious future of Kerbal Space Program forever.
 Dialogue: 0,0:12:41.01,0:12:46.10,1080P-shss-90,,0,0,0,,而我们将会永远拥有坎巴拉太空计划美好的未来
 Dialogue: 0,0:12:46.45,0:12:49.17,1080P-sgbd-42,,0,0,0,,I'm Scott Manly. Fly safe.
 Dialogue: 0,0:12:46.45,0:12:49.17,1080P-shss-90,,0,0,0,,我是Scott Manly 切记 注意飞行安全
