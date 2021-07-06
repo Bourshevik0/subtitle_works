@@ -11,415 +11,419 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-sgbd-4k,更纱黑体 SC,42,&H5AFFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,240,134
 Style: 1080P-sgsm-50,更纱黑体 SC Semibold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
-Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,10,134
+Style: 1080P-shss-9k,思源宋体,90,&H5AFFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,240,134
 Style: 720P-shss-60,思源宋体,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,4.3,0,2,10,10,10,134
 Style: 720P-sgbd-27,更纱黑体 SC,27,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
 Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,7,10,10,10,134
+Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,10,134
+Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
+Style: 1080P-sgbd-4p,更纱黑体 SC,42,&H5AFFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,120,134
+Style: 1080P-shss-9p,思源宋体,90,&H5AFFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,6.5,0,2,10,10,120,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.38,0:00:11.38,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}10 Years Of Kerbal Space Program - On Final Approach\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/1nRAMNSWlhM\N原视频发布日期：20210626\N字幕翻译：WJIJKKH，校对：旋火
 Dialogue: 0,0:08:42.92,0:08:45.73,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}Made on Earth by humans
 Dialogue: 0,0:11:23.72,0:11:31.89,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,820)}魔法巨石 永远不要嘲弄魔法巨石
-Dialogue: 0,0:00:04.38,0:00:05.75,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.38,0:00:05.75,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:05.75,0:00:11.37,1080P-sgbd-42,,0,0,0,,Back from Hawaii and it is the tenth anniversary of the release of Kerbal Space Program
-Dialogue: 0,0:00:05.75,0:00:11.37,1080P-shss-90,,0,0,0,,我刚从夏威夷回来 今天是坎巴拉太空计划发布十周年的纪念日
-Dialogue: 0,0:00:11.38,0:00:15.13,1080P-sgbd-42,,0,0,0,,a game which well if you watch me you probably know about
-Dialogue: 0,0:00:11.38,0:00:15.13,1080P-shss-90,,0,0,0,,如果你看过我的节目 你可能知道这个游戏
-Dialogue: 0,0:00:15.19,0:00:18.72,1080P-sgbd-42,,0,0,0,,but if you don't before I talked about real rockets all the time
-Dialogue: 0,0:00:15.19,0:00:18.72,1080P-shss-90,,0,0,0,,但如果你没看过 在我开始整天谈论真正的火箭之前
-Dialogue: 0,0:00:18.73,0:00:22.26,1080P-sgbd-42,,0,0,0,,I kind of started playing video games with video game rockets.
-Dialogue: 0,0:00:18.73,0:00:22.26,1080P-shss-90,,0,0,0,,我在这个频道最初是玩火箭相关的电子游戏的
-Dialogue: 0,0:00:22.67,0:00:27.11,1080P-sgbd-42,,0,0,0,,And Kerbal Space Program was the game that can put me out there.
-Dialogue: 0,0:00:22.67,0:00:27.11,1080P-shss-90,,0,0,0,,而坎巴拉太空计划就是让我向今天迈出那一步的游戏
-Dialogue: 0,0:00:28.50,0:00:33.10,1080P-sgbd-42,,0,0,0,,Basically gave me an audience that actually made me interested in talking about these things.
-Dialogue: 0,0:00:28.50,0:00:33.10,1080P-shss-90,,0,0,0,,基本上它带给了我一些观众 使我对谈论这些事情真正的感兴趣
-Dialogue: 0,0:00:33.15,0:00:39.20,1080P-sgbd-42,,0,0,0,,So Kerbal Space Program was originally released on June 24th 2011.
-Dialogue: 0,0:00:33.15,0:00:39.20,1080P-shss-90,,0,0,0,,那么 坎巴拉太空计划最初是在2011年6月24日发布的
-Dialogue: 0,0:00:39.24,0:00:43.58,1080P-sgbd-42,,0,0,0,,That was just less than a month I think before the final launch of the space Shuttle.
-Dialogue: 0,0:00:39.24,0:00:43.58,1080P-shss-90,,0,0,0,,我记得那是在航天飞机谢幕发射前的不到一个月
-Dialogue: 0,0:00:43.87,0:00:48.95,1080P-sgbd-42,,0,0,0,,The very earliest alpha release was Version 0.7.3.
-Dialogue: 0,0:00:43.87,0:00:48.95,1080P-shss-90,,0,0,0,,最早发布的版本是0.7.3版
-Dialogue: 0,0:00:49.41,0:00:55.12,1080P-sgbd-42,,0,0,0,,And it had these little green men which turned out to be a great selling factor
-Dialogue: 0,0:00:49.41,0:00:55.12,1080P-shss-90,,0,0,0,,并且游戏中有这些小绿人 这也变成了游戏一个很好的卖点
-Dialogue: 0,0:00:55.14,0:01:00.37,1080P-sgbd-42,,0,0,0,,I know like the physics is great. The rocket science is fantastic.
-Dialogue: 0,0:00:55.14,0:01:00.37,1080P-shss-90,,0,0,0,,我知道像是 游戏里的物理学和火箭科学是非常棒的
-Dialogue: 0,0:01:00.57,0:01:05.18,1080P-sgbd-42,,0,0,0,,But having three little green men in the bottom right corner of your screen
-Dialogue: 0,0:01:00.57,0:01:05.18,1080P-shss-90,,0,0,0,,但是在你的屏幕右下角有三个小绿人
-Dialogue: 0,0:01:05.34,0:01:10.46,1080P-sgbd-42,,0,0,0,,screaming whenever anything explodes really made it stick with a lot more gamers.
-Dialogue: 0,0:01:05.34,0:01:10.46,1080P-shss-90,,0,0,0,,在每当有东西爆炸时尖叫 这真的吸引了很多玩家们继续玩下去
-Dialogue: 0,0:01:11.26,0:01:15.35,1080P-sgbd-42,,0,0,0,,The version we have here has a very simple space center.
-Dialogue: 0,0:01:11.26,0:01:15.35,1080P-shss-90,,0,0,0,,我们在这一版本中有一个非常简单的太空中心
-Dialogue: 0,0:01:15.36,0:01:18.14,1080P-sgbd-42,,0,0,0,,The only thing you can click on is the vehicle assembly building.
-Dialogue: 0,0:01:15.36,0:01:18.14,1080P-shss-90,,0,0,0,,你唯一可以点击的东西就是航天器装配大楼
-Dialogue: 0,0:01:18.14,0:01:20.86,1080P-sgbd-42,,0,0,0,,This is after all an alpha release
-Dialogue: 0,0:01:18.14,0:01:20.86,1080P-shss-90,,0,0,0,,这毕竟是一个最初的版本
-Dialogue: 0,0:01:21.19,0:01:24.51,1080P-sgbd-42,,0,0,0,,six months after they started developing the game.
-Dialogue: 0,0:01:21.19,0:01:24.51,1080P-shss-90,,0,0,0,,并且这个版本是在他们开始开发游戏的6个月后就发布的
-Dialogue: 0,0:01:25.34,0:01:27.59,1080P-sgbd-42,,0,0,0,,So you have a very familiar looking screen here.
-Dialogue: 0,0:01:25.34,0:01:27.59,1080P-shss-90,,0,0,0,,那么 你在这里可以看到一个非常熟悉的界面
-Dialogue: 0,0:01:27.85,0:01:29.31,1080P-sgbd-42,,0,0,0,,A lot of the same icons.
-Dialogue: 0,0:01:27.85,0:01:29.31,1080P-shss-90,,0,0,0,,很多图标与今天相同
-Dialogue: 0,0:01:29.39,0:01:32.07,1080P-sgbd-42,,0,0,0,,You can click on your various parts.
-Dialogue: 0,0:01:29.39,0:01:32.07,1080P-shss-90,,0,0,0,,你可以点击你的各种部件
-Dialogue: 0,0:01:32.26,0:01:38.30,1080P-sgbd-42,,0,0,0,,Interestingly they have decals which didn't actually turn up in the game until about a year ago.
-Dialogue: 0,0:01:32.26,0:01:38.30,1080P-shss-90,,0,0,0,,有趣的是 直到一年前它们的贴花才真正出现在了游戏中
-Dialogue: 0,0:01:38.66,0:01:42.94,1080P-sgbd-42,,0,0,0,,But you have a little command pod there.
-Dialogue: 0,0:01:38.66,0:01:42.94,1080P-shss-90,,0,0,0,,而在这里 你有一个小小的指令舱
-Dialogue: 0,0:01:42.98,0:01:44.72,1080P-sgbd-42,,0,0,0,,And you could start assembling bits on it.
-Dialogue: 0,0:01:42.98,0:01:44.72,1080P-shss-90,,0,0,0,,并且你可以开始在上面装配部件
-Dialogue: 0,0:01:44.74,0:01:47.19,1080P-sgbd-42,,0,0,0,,So put a stack decoupler under there.
-Dialogue: 0,0:01:44.74,0:01:47.19,1080P-shss-90,,0,0,0,,所以 让我们在那下面放一个分离器
-Dialogue: 0,0:01:47.73,0:01:50.00,1080P-sgbd-42,,0,0,0,,Put ourselves Rocket engine.
-Dialogue: 0,0:01:47.73,0:01:50.00,1080P-shss-90,,0,0,0,,给我们的航天器装上火箭发动机
-Dialogue: 0,0:01:50.61,0:01:54.42,1080P-sgbd-42,,0,0,0,,And underneath that well we probably need to move the whole thing upward.
-Dialogue: 0,0:01:50.61,0:01:54.42,1080P-shss-90,,0,0,0,,而在这下面 好吧我们现在可能需要把整个东西往上移
-Dialogue: 0,0:01:54.46,0:01:55.70,1080P-sgbd-42,,0,0,0,,Well at least that works.
-Dialogue: 0,0:01:54.46,0:01:55.70,1080P-shss-90,,0,0,0,,好吧 至少向上移动的操作奏效了
-Dialogue: 0,0:01:55.97,0:01:59.78,1080P-sgbd-42,,0,0,0,,There's a lot of stuff in this that you expect to work if you've played the game
-Dialogue: 0,0:01:55.97,0:01:59.78,1080P-shss-90,,0,0,0,,如果你玩过这个游戏 你会期待这里面许多操作能奏效
-Dialogue: 0,0:02:01.06,0:02:03.91,1080P-sgbd-42,,0,0,0,,which doesn't actually work because it wasn't implemented.
-Dialogue: 0,0:02:01.06,0:02:03.91,1080P-shss-90,,0,0,0,,但实际上 很多这些操作有时并不会奏效 因为(在代码里)没有被实现
-Dialogue: 0,0:02:06.81,0:02:10.00,1080P-sgbd-42,,0,0,0,,Let's put an FL-T500 in here.
-Dialogue: 0,0:02:06.81,0:02:10.00,1080P-shss-90,,0,0,0,,让我们在这里放一个FL-T500燃料箱
-Dialogue: 0,0:02:10.22,0:02:14.55,1080P-sgbd-42,,0,0,0,,Now you'll notice I'm doing one tank here and not multiple tanks.
-Dialogue: 0,0:02:10.22,0:02:14.55,1080P-shss-90,,0,0,0,,现在你会注意到 我在这里只放了一个而非多个燃料箱
-Dialogue: 0,0:02:14.96,0:02:21.01,1080P-sgbd-42,,0,0,0,,The reason is back in this very earliest version only one tank could feed one engine.
-Dialogue: 0,0:02:14.96,0:02:21.01,1080P-shss-90,,0,0,0,,这是因为 在早期版本中 一个发动机只能由一个燃料箱提供燃料
-Dialogue: 0,0:02:21.13,0:02:25.56,1080P-sgbd-42,,0,0,0,,So you couldn't stack tanks the way that we're all used to these days.
-Dialogue: 0,0:02:21.13,0:02:25.56,1080P-shss-90,,0,0,0,,所以 你不能像我们现在所习惯的那样堆放燃料箱
-Dialogue: 0,0:02:26.15,0:02:28.36,1080P-sgbd-42,,0,0,0,,Let's do this.
-Dialogue: 0,0:02:26.15,0:02:28.36,1080P-shss-90,,0,0,0,,让我们现在这样做
-Dialogue: 0,0:02:29.04,0:02:30.31,1080P-sgbd-42,,0,0,0,,And we'll do another tank.
-Dialogue: 0,0:02:29.04,0:02:30.31,1080P-shss-90,,0,0,0,,然后我们再放一个燃料箱
-Dialogue: 0,0:02:30.43,0:02:33.61,1080P-sgbd-42,,0,0,0,,And we'll also try to put some radial boosters on right?
-Dialogue: 0,0:02:30.43,0:02:33.61,1080P-shss-90,,0,0,0,,我们还将尝试安装一些径向助推器 对吗
-Dialogue: 0,0:02:34.13,0:02:38.46,1080P-sgbd-42,,0,0,0,,So Radial Decouplers are things you attached to the side.
-Dialogue: 0,0:02:34.13,0:02:38.46,1080P-shss-90,,0,0,0,,那么 径向分离器是你要安装到火箭侧面的东西
-Dialogue: 0,0:02:38.87,0:02:40.93,1080P-sgbd-42,,0,0,0,,And in this version there's no symmetry.
-Dialogue: 0,0:02:38.87,0:02:40.93,1080P-shss-90,,0,0,0,,在这个版本中 没有对称功能
-Dialogue: 0,0:02:41.00,0:02:46.40,1080P-sgbd-42,,0,0,0,,You just have to sort of guess where it is and slap them on there.
-Dialogue: 0,0:02:41.00,0:02:46.40,1080P-shss-90,,0,0,0,,你只能猜测它的位置 然后把它们安在上面
-Dialogue: 0,0:02:46.60,0:02:50.33,1080P-sgbd-42,,0,0,0,,And hope that they are lined up sufficiently well
-Dialogue: 0,0:02:46.60,0:02:50.33,1080P-shss-90,,0,0,0,,并希望它们能完全排成一行
-Dialogue: 0,0:02:50.38,0:02:54.62,1080P-sgbd-42,,0,0,0,,that they don't actually spin you off and cause you to fall over.
-Dialogue: 0,0:02:50.38,0:02:54.62,1080P-shss-90,,0,0,0,,以免它们造成火箭旋转 使火箭倾倒
-Dialogue: 0,0:02:56.43,0:02:59.80,1080P-sgbd-42,,0,0,0,,There are also little fins there
-Dialogue: 0,0:02:56.43,0:02:59.80,1080P-shss-90,,0,0,0,,这里还有一些小翼面
-Dialogue: 0,0:02:59.82,0:03:02.78,1080P-sgbd-42,,0,0,0,,but those don't actually work as control surfaces.
-Dialogue: 0,0:02:59.82,0:03:02.78,1080P-shss-90,,0,0,0,,但实际上 它们并不是操纵面
-Dialogue: 0,0:03:02.81,0:03:04.82,1080P-sgbd-42,,0,0,0,,They don't move. They don't actuate.
-Dialogue: 0,0:03:02.81,0:03:04.82,1080P-shss-90,,0,0,0,,它们不会移动 也不能被驱动
-Dialogue: 0,0:03:05.47,0:03:08.05,1080P-sgbd-42,,0,0,0,,And again of course you have to worry about symmetry.
-Dialogue: 0,0:03:05.47,0:03:08.05,1080P-shss-90,,0,0,0,,当然 你还得担心对称问题
-Dialogue: 0,0:03:08.51,0:03:10.22,1080P-sgbd-42,,0,0,0,,No aerodynamic nosecone
-Dialogue: 0,0:03:08.51,0:03:10.22,1080P-shss-90,,0,0,0,,这个版本里没有空气动力鼻锥
-Dialogue: 0,0:03:10.26,0:03:15.34,1080P-sgbd-42,,0,0,0,,because well the aerodynamics in this game are very primitive at this time
-Dialogue: 0,0:03:10.26,0:03:15.34,1080P-shss-90,,0,0,0,,因为这个游戏的空气动力学在那时还是非常原始的
-Dialogue: 0,0:03:15.36,0:03:19.32,1080P-sgbd-42,,0,0,0,,so I can actually adjust the staging here which is great.
-Dialogue: 0,0:03:15.36,0:03:19.32,1080P-shss-90,,0,0,0,,所以我实际上可以再这里调整分级 这点很好
-Dialogue: 0,0:03:20.21,0:03:22.30,1080P-sgbd-42,,0,0,0,,One thing I haven't put on is the parachute
-Dialogue: 0,0:03:20.21,0:03:22.30,1080P-shss-90,,0,0,0,,有一个东西我还没有装上 那就是降落伞
-Dialogue: 0,0:03:22.32,0:03:27.15,1080P-sgbd-42,,0,0,0,,and you'll notice in the description that it still has that comedic outlook on life.
-Dialogue: 0,0:03:22.32,0:03:27.15,1080P-shss-90,,0,0,0,,并且你会注意到在它的描述中 仍饱含那种喜剧性的人生观
-Dialogue: 0,0:03:27.86,0:03:32.14,1080P-sgbd-42,,0,0,0,,Widely accepted this is a better alternative to being in free fall.
-Dialogue: 0,0:03:27.86,0:03:32.14,1080P-shss-90,,0,0,0,,这个降落伞被广泛认为是比自由落体更好的选择
-Dialogue: 0,0:03:32.42,0:03:36.46,1080P-sgbd-42,,0,0,0,,Okay. I'm gonna see if this thing actually flies. It probably won't.
-Dialogue: 0,0:03:32.42,0:03:36.46,1080P-shss-90,,0,0,0,,好的 我要看看这东西是否真的能飞起来 它也许不能
-Dialogue: 0,0:03:36.71,0:03:38.26,1080P-sgbd-42,,0,0,0,,It could well crash.
-Dialogue: 0,0:03:36.71,0:03:38.26,1080P-shss-90,,0,0,0,,它可能会坠毁
-Dialogue: 0,0:03:39.35,0:03:41.59,1080P-sgbd-42,,0,0,0,,And so here we are on the launch pad.
-Dialogue: 0,0:03:39.35,0:03:41.59,1080P-shss-90,,0,0,0,,因此 我们现在在发射台上
-Dialogue: 0,0:03:41.61,0:03:44.42,1080P-sgbd-42,,0,0,0,,And you'll notice by the way if you're a regular player
-Dialogue: 0,0:03:41.61,0:03:44.42,1080P-shss-90,,0,0,0,,顺便一说 如果你是一个普通玩家的话 你会注意到
-Dialogue: 0,0:03:44.46,0:03:46.74,1080P-sgbd-42,,0,0,0,,that we have this massive launch tower here.
-Dialogue: 0,0:03:44.46,0:03:46.74,1080P-shss-90,,0,0,0,,我们在这里有一个巨大的发射塔
-Dialogue: 0,0:03:46.93,0:03:48.30,1080P-sgbd-42,,0,0,0,,That was in all the early versions.
-Dialogue: 0,0:03:46.93,0:03:48.30,1080P-shss-90,,0,0,0,,在所有早期版本中都有这个发射塔
-Dialogue: 0,0:03:48.30,0:03:49.81,1080P-sgbd-42,,0,0,0,,It was eventually removed.
-Dialogue: 0,0:03:48.30,0:03:49.81,1080P-shss-90,,0,0,0,,它最终被移除
-Dialogue: 0,0:03:50.47,0:03:53.14,1080P-sgbd-42,,0,0,0,,Because players began building rockets so large
-Dialogue: 0,0:03:50.47,0:03:53.14,1080P-shss-90,,0,0,0,,因为玩家们开始把火箭造得太大了
-Dialogue: 0,0:03:53.14,0:03:56.28,1080P-sgbd-42,,0,0,0,, that they would just clip through that tower and explode on spawning.
-Dialogue: 0,0:03:53.14,0:03:56.28,1080P-shss-90,,0,0,0,,以至于火箭会直接穿过发射塔 并在(游戏中)出生的时候爆炸
-Dialogue: 0,0:03:56.28,0:04:00.71,1080P-sgbd-42,,0,0,0,,Now. I remember actually an early version where one of the things I did
-Dialogue: 0,0:03:56.28,0:04:00.71,1080P-shss-90,,0,0,0,,那么 我记得在早期版本中 我做过的一件事
-Dialogue: 0,0:04:00.71,0:04:03.03,1080P-sgbd-42,,0,0,0,,was lift off and try to land on top of that.
-Dialogue: 0,0:04:00.71,0:04:03.03,1080P-shss-90,,0,0,0,,就是升空并试图降落在发射台上面
-Dialogue: 0,0:04:03.69,0:04:06.27,1080P-sgbd-42,,0,0,0,,So the landscape is still procedureally generated
-Dialogue: 0,0:04:03.69,0:04:06.27,1080P-shss-90,,0,0,0,,所以 地面的景观仍然是按程序生成的
-Dialogue: 0,0:04:06.27,0:04:13.22,1080P-sgbd-42,,0,0,0,,although you'll notice there's a lot of like giggle as a terrainrerenders at different detail levels
-Dialogue: 0,0:04:06.27,0:04:13.22,1080P-shss-90,,0,0,0,,尽管地形在不同的分辨率下重新渲染显得有点滑稽
-Dialogue: 0,0:04:13.22,0:04:15.55,1080P-sgbd-42,,0,0,0,,obviously that got improved a whole lot
-Dialogue: 0,0:04:13.22,0:04:15.55,1080P-shss-90,,0,0,0,,显然 这一点在现在得到了很大的改善
-Dialogue: 0,0:04:15.55,0:04:20.18,1080P-sgbd-42,,0,0,0,,but yeah look at those boosters on the outside
-Dialogue: 0,0:04:15.55,0:04:20.18,1080P-shss-90,,0,0,0,,但是 看看周围的那些助推器
-Dialogue: 0,0:04:20.18,0:04:22.24,1080P-sgbd-42,,0,0,0,,straining against their Radial mounts.
-Dialogue: 0,0:04:20.18,0:04:22.24,1080P-shss-90,,0,0,0,,对它们的径向支架施加着拉力
-Dialogue: 0,0:04:22.24,0:04:27.36,1080P-sgbd-42,,0,0,0,,That soft joint physics was very much core to the Kerbal design.
-Dialogue: 0,0:04:22.24,0:04:27.36,1080P-shss-90,,0,0,0,,其所涉及的软节点物理学 是坎巴拉设计的核心
-Dialogue: 0,0:04:27.36,0:04:31.22,1080P-sgbd-42,,0,0,0,,In fact I think the very first internal build of Kerbal Space Program
-Dialogue: 0,0:04:27.36,0:04:31.22,1080P-shss-90,,0,0,0,,事实上 我记得在坎巴拉太空计划的第一个内部版本中
-Dialogue: 0,0:04:31.22,0:04:37.90,1080P-sgbd-42,,0,0,0,,had the boosters fly up for a couple of seconds and then sheer off due to excess stress.
-Dialogue: 0,0:04:31.22,0:04:37.90,1080P-shss-90,,0,0,0,,助推器可能会在飞行一段时间后 由于过大的压力而脱落
-Dialogue: 0,0:04:39.46,0:04:43.82,1080P-sgbd-42,,0,0,0,,You'll notice that we do actually have fuel gauges for the solid rocket boosters not for the regular engine.
-Dialogue: 0,0:04:42.71,0:04:43.82,1080P-shss-90,,0,0,0,,你会注意到 游戏中固体火箭发动机有燃料表 而液体发动机则没有
-Dialogue: 0,0:04:43.82,0:04:46.02,1080P-sgbd-42,,0,0,0,,We have no idea what's going on.
-Dialogue: 0,0:04:43.82,0:04:46.02,1080P-shss-90,,0,0,0,,我们不知道这是怎么回事
-Dialogue: 0,0:04:46.61,0:04:49.42,1080P-sgbd-42,,0,0,0,,Also one of the sort of original game design features
-Dialogue: 0,0:04:46.61,0:04:49.42,1080P-shss-90,,0,0,0,,另外 游戏的一个原始设计特色
-Dialogue: 0,0:04:49.42,0:04:54.37,1080P-sgbd-42,,0,0,0,,was supposed to be flying as high as possible before your rocket overheated.
-Dialogue: 0,0:04:49.42,0:04:54.37,1080P-shss-90,,0,0,0,,本来是要你在火箭过热之前飞的尽可能的高
-Dialogue: 0,0:04:55.41,0:04:57.58,1080P-sgbd-42,,0,0,0,,That kinda had stopped being a thing until now
-Dialogue: 0,0:04:55.41,0:04:57.58,1080P-shss-90,,0,0,0,,而在现在 这点早已不值一提
-Dialogue: 0,0:04:57.58,0:05:03.66,1080P-sgbd-42,,0,0,0,,and it would be a long time before thermal control became a core part of the game
-Dialogue: 0,0:04:57.58,0:05:03.66,1080P-shss-90,,0,0,0,,并且在很长时间后 热控制才被看作游戏的核心部分
-Dialogue: 0,0:05:03.68,0:05:05.25,1080P-sgbd-42,,0,0,0,,that had been properly designed.
-Dialogue: 0,0:05:03.68,0:05:05.25,1080P-shss-90,,0,0,0,,并被正确设计
-Dialogue: 0,0:05:05.70,0:05:10.89,1080P-sgbd-42,,0,0,0,,Look we stage those off and they drop back to earth to land on some Kerbal villagers
-Dialogue: 0,0:05:05.70,0:05:10.89,1080P-shss-90,,0,0,0,,看我们把这些部件分离 然后它们落回地面 掉在一些坎巴拉村民身上
-Dialogue: 0,0:05:10.91,0:05:14.46,1080P-sgbd-42,,0,0,0,,except of course in this version of Kerbal Space Program
-Dialogue: 0,0:05:10.91,0:05:14.46,1080P-shss-90,,0,0,0,,当然 除了在这个版本的坎巴拉太空计划中
-Dialogue: 0,0:05:14.49,0:05:17.95,1080P-sgbd-42,,0,0,0,,there were no villages or cities anywhere else on the planet.
-Dialogue: 0,0:05:14.49,0:05:17.95,1080P-shss-90,,0,0,0,,星球上没有任何村庄或城市
-Dialogue: 0,0:05:18.17,0:05:25.06,1080P-sgbd-42,,0,0,0,,And indeed in the most recent version there are no other cities or villages anywhere else on the planet.
-Dialogue: 0,0:05:18.17,0:05:25.06,1080P-shss-90,,0,0,0,,而事实上 在最新的版本中 星球上也没有任何城市或村庄
-Dialogue: 0,0:05:25.07,0:05:27.20,1080P-sgbd-42,,0,0,0,,At this point the planet didn't have a name.
-Dialogue: 0,0:05:25.07,0:05:27.20,1080P-shss-90,,0,0,0,,那时候 这个星球还没有名字
-Dialogue: 0,0:05:27.48,0:05:30.58,1080P-sgbd-42,,0,0,0,,Many people called it Kearth after with a K
-Dialogue: 0,0:05:27.48,0:05:30.58,1080P-shss-90,,0,0,0,,许多人称它为Kearth 以K开头
-Dialogue: 0,0:05:30.94,0:05:34.53,1080P-sgbd-42,,0,0,0,,but ultimately it would become known as Kerbin.
-Dialogue: 0,0:05:30.94,0:05:34.53,1080P-shss-90,,0,0,0,,但最终它还是被称为坎星
-Dialogue: 0,0:05:35.23,0:05:40.55,1080P-sgbd-42,,0,0,0,,And with this early alpha of Kerbal Space Program was downloaded 5000 times
-Dialogue: 0,0:05:35.23,0:05:40.55,1080P-shss-90,,0,0,0,,就这样 坎巴拉太空计划的最初版本被下载了5000左右次
-Dialogue: 0,0:05:40.55,0:05:42.62,1080P-sgbd-42,,0,0,0,,and played by people like me.
-Dialogue: 0,0:05:40.55,0:05:42.62,1080P-shss-90,,0,0,0,,并被像我这样的人玩过
-Dialogue: 0,0:05:42.65,0:05:46.94,1080P-sgbd-42,,0,0,0,,And it basically got itself a following very quickly it was developed
-Dialogue: 0,0:05:42.65,0:05:46.94,1080P-shss-90,,0,0,0,,而且基本上在它刚被开发后不久 它就拥有了自己的一批追随者
-Dialogue: 0,0:05:46.96,0:05:50.34,1080P-sgbd-42,,0,0,0,,it would be several years before they released the 1.0 version
-Dialogue: 0,0:05:46.96,0:05:50.34,1080P-shss-90,,0,0,0,,他们在好几年之后才发布游戏的1.0版本
-Dialogue: 0,0:05:50.59,0:05:54.66,1080P-sgbd-42,,0,0,0,,but there was always things to do and and always things to learn.
-Dialogue: 0,0:05:50.59,0:05:54.66,1080P-shss-90,,0,0,0,,但总是有事情要做 总是有事情要学
-Dialogue: 0,0:05:55.67,0:05:58.50,1080P-sgbd-42,,0,0,0,,Still there's lots of fun stuff to see in this early version.
-Dialogue: 0,0:05:55.67,0:05:58.50,1080P-shss-90,,0,0,0,,但在这个早期版本中 仍然有很多有趣的东西
-Dialogue: 0,0:05:58.54,0:06:00.89,1080P-sgbd-42,,0,0,0,,First of all you'll notice the camera is shaking around.
-Dialogue: 0,0:05:58.54,0:06:00.89,1080P-shss-90,,0,0,0,,首先 你会注意到相机在晃动
-Dialogue: 0,0:06:00.94,0:06:03.12,1080P-sgbd-42,,0,0,0,,That's an early version of the Kraken
-Dialogue: 0,0:06:00.94,0:06:03.12,1080P-shss-90,,0,0,0,,这是深空海妖的早期版本
-Dialogue: 0,0:06:03.38,0:06:07.56,1080P-sgbd-42,,0,0,0,,where floating point math leads to all sorts of problems with noise and forces.
-Dialogue: 0,0:06:03.38,0:06:07.56,1080P-shss-90,,0,0,0,,浮点数学导致了各种噪音和力的问题
-Dialogue: 0,0:06:08.04,0:06:12.52,1080P-sgbd-42,,0,0,0,,The texture on the base of this command pod is a car wheel.
-Dialogue: 0,0:06:08.04,0:06:12.52,1080P-shss-90,,0,0,0,,这个指挥舱底座上的贴图是一个车轮
-Dialogue: 0,0:06:12.57,0:06:16.95,1080P-sgbd-42,,0,0,0,,You can actually see the inflation valve and what are these
-Dialogue: 0,0:06:12.57,0:06:16.95,1080P-shss-90,,0,0,0,,你实际上可以看到车轮的充气阀
-Dialogue: 0,0:06:17.44,0:06:18.99,1080P-sgbd-42,,0,0,0,,It's kind of hilarious.
-Dialogue: 0,0:06:17.44,0:06:18.99,1080P-shss-90,,0,0,0,,这有点滑稽
-Dialogue: 0,0:06:19.22,0:06:24.49,1080P-sgbd-42,,0,0,0,,The parachute design is practically the same as it is in the current version today.
-Dialogue: 0,0:06:19.22,0:06:24.49,1080P-shss-90,,0,0,0,,早期版中降落伞的设计实际上和现在版本中的设计是一样的
-Dialogue: 0,0:06:24.66,0:06:27.30,1080P-sgbd-42,,0,0,0,,Now that capsule disappeared from the game
-Dialogue: 0,0:06:24.66,0:06:27.30,1080P-shss-90,,0,0,0,,现在 这个指令舱从游戏中消失了
-Dialogue: 0,0:06:27.37,0:06:31.70,1080P-sgbd-42,,0,0,0,,because that when they added Kerbals as characters that could walk around
-Dialogue: 0,0:06:27.37,0:06:31.70,1080P-shss-90,,0,0,0,,因为当他们为坎巴拉人添加了行走的功能后
-Dialogue: 0,0:06:31.70,0:06:35.32,1080P-sgbd-42,,0,0,0,,they had to rescale all the parts and that turned out to be too small.
-Dialogue: 0,0:06:31.70,0:06:35.32,1080P-shss-90,,0,0,0,,他们不得不重新调整所有部件的比例 最后他们发现指令舱太小了
-Dialogue: 0,0:06:35.67,0:06:39.94,1080P-sgbd-42,,0,0,0,,But the capsule still exists in the game if you know where to look
-Dialogue: 0,0:06:35.67,0:06:39.94,1080P-shss-90,,0,0,0,,但是 如果你知道去哪里找 你仍然能在游戏中找到它
-Dialogue: 0,0:06:39.95,0:06:44.77,1080P-sgbd-42,,0,0,0,,so this is actually the brand new version which was just released earlier this week.
-Dialogue: 0,0:06:39.95,0:06:44.77,1080P-shss-90,,0,0,0,,现在显示的实际上是本周初刚刚发布的最新版本
-Dialogue: 0,0:06:45.23,0:06:50.19,1080P-sgbd-42,,0,0,0,,The main thing that adds are firework launchers because it's the tenth anniversary.
-Dialogue: 0,0:06:45.23,0:06:50.19,1080P-shss-90,,0,0,0,,主要新加入的内容是烟花发射器 因为现在是十周年纪念日
-Dialogue: 0,0:06:50.22,0:06:53.96,1080P-sgbd-42,,0,0,0,,They add some new textures for some of the older planets.
-Dialogue: 0,0:06:50.22,0:06:53.96,1080P-shss-90,,0,0,0,,他们为一些旧的行星增加了新的材质贴图
-Dialogue: 0,0:06:54.20,0:06:56.41,1080P-sgbd-42,,0,0,0,,There's a few other items in here.
-Dialogue: 0,0:06:54.20,0:06:56.41,1080P-shss-90,,0,0,0,,这里面还有其他一些更新的内容
-Dialogue: 0,0:06:56.73,0:07:00.33,1080P-sgbd-42,,0,0,0,,The save and load manager is completely redesigned which is great
-Dialogue: 0,0:06:56.73,0:07:00.33,1080P-shss-90,,0,0,0,,保存和加载管理器被完全重新设计 这是非常好的
-Dialogue: 0,0:07:00.36,0:07:05.56,1080P-sgbd-42,,0,0,0,,because you you know you play the game for a long time you end up with a lot of different spacecraft.
-Dialogue: 0,0:07:00.36,0:07:05.56,1080P-shss-90,,0,0,0,,因为你知道 当你玩了很长时间的游戏后 你会有很多不同的航天器
-Dialogue: 0,0:07:05.76,0:07:08.46,1080P-sgbd-42,,0,0,0,,But this is one that is downloaded from Steam.
-Dialogue: 0,0:07:05.76,0:07:08.46,1080P-shss-90,,0,0,0,,但我现在画面中的这个是从Steam里下载的
-Dialogue: 0,0:07:08.73,0:07:13.44,1080P-sgbd-42,,0,0,0,,So yeah you can head out off the runway towards the vehicle assembly building
-Dialogue: 0,0:07:08.73,0:07:13.44,1080P-shss-90,,0,0,0,,所以是的 你可以从跑道出来 飞向飞行器组装大楼
-Dialogue: 0,0:07:13.54,0:07:19.38,1080P-sgbd-42,,0,0,0,,which is the big building in the middle of that massively redesigned Space Center right?
-Dialogue: 0,0:07:13.54,0:07:19.38,1080P-shss-90,,0,0,0,,就是那个在被大规模重新设计的太空中心中间的大建筑 对吗
-Dialogue: 0,0:07:20.03,0:07:25.26,1080P-sgbd-42,,0,0,0,,And just in front of it to the right of that little spherical tank.
-Dialogue: 0,0:07:20.03,0:07:25.26,1080P-shss-90,,0,0,0,,而就在它的前面 在那个小型球形燃料箱的右边
-Dialogue: 0,0:07:25.67,0:07:31.73,1080P-sgbd-42,,0,0,0,,There is a monument. A monument to the original Mark one part.
-Dialogue: 0,0:07:25.67,0:07:31.73,1080P-shss-90,,0,0,0,,那里有一个纪念碑 以纪念原来的1号部件
-Dialogue: 0,0:07:32.14,0:07:37.07,1080P-sgbd-42,,0,0,0,,Hewn out of solid stone which probably doesn't help with water recovery.
-Dialogue: 0,0:07:32.14,0:07:37.07,1080P-shss-90,,0,0,0,,指令舱由坚硬的石头雕刻而成 这可能对水上回收没什么好处
-Dialogue: 0,0:07:37.53,0:07:40.86,1080P-sgbd-42,,0,0,0,,And a couple of hundred kilometers north of the desert launch site
-Dialogue: 0,0:07:37.53,0:07:40.86,1080P-shss-90,,0,0,0,,接着 在沙漠发射场以北几百公里的地方
-Dialogue: 0,0:07:40.87,0:07:43.25,1080P-sgbd-42,,0,0,0,,there is a small hidden valley.
-Dialogue: 0,0:07:40.87,0:07:43.25,1080P-shss-90,,0,0,0,,有一个隐秘的小山谷
-Dialogue: 0,0:07:43.28,0:07:46.98,1080P-sgbd-42,,0,0,0,,And inside that there is the old version of the launch site.
-Dialogue: 0,0:07:43.28,0:07:46.98,1080P-shss-90,,0,0,0,,而在那里面有旧版的发射场
-Dialogue: 0,0:07:47.01,0:07:50.63,1080P-sgbd-42,,0,0,0,,Although the graphics have been upgraded just a little bit
-Dialogue: 0,0:07:47.01,0:07:50.63,1080P-shss-90,,0,0,0,,虽然它的图像已经被升级了一点点
-Dialogue: 0,0:07:50.66,0:07:54.10,1080P-sgbd-42,,0,0,0,,to bring them up to date with the rest of the game.
-Dialogue: 0,0:07:50.66,0:07:54.10,1080P-shss-90,,0,0,0,,以使其与游戏的其他部分保持同步
-Dialogue: 0,0:07:54.55,0:07:56.05,1080P-sgbd-42,,0,0,0,,But now in the new release
-Dialogue: 0,0:07:54.55,0:07:56.05,1080P-shss-90,,0,0,0,,但现在在新版本中
-Dialogue: 0,0:07:56.18,0:08:00.72,1080P-sgbd-42,,0,0,0,,there are a number of other launch sites which have been added around Kerbin
-Dialogue: 0,0:07:56.18,0:08:00.72,1080P-shss-90,,0,0,0,,在坎星上还增加了一些其他的发射场
-Dialogue: 0,0:08:00.74,0:08:04.19,1080P-sgbd-42,,0,0,0,,and these are sort of easter eggs that you have to find
-Dialogue: 0,0:08:00.74,0:08:04.19,1080P-shss-90,,0,0,0,,这些发射场有点像是彩蛋 你必须找到它们
-Dialogue: 0,0:08:04.22,0:08:07.83,1080P-sgbd-42,,0,0,0,,and of course thankfully there's some mods to help you out with this.
-Dialogue: 0,0:08:04.22,0:08:07.83,1080P-shss-90,,0,0,0,,当然 值得庆幸的是 有一些模组可以帮助你解决这些问题
-Dialogue: 0,0:08:08.10,0:08:11.02,1080P-sgbd-42,,0,0,0,,So this is one that's actually pretty near to the launch site.
-Dialogue: 0,0:08:08.10,0:08:11.02,1080P-shss-90,,0,0,0,,所以 这个发射场在一个离原先发射场很近的地方
-Dialogue: 0,0:08:11.39,0:08:14.38,1080P-sgbd-42,,0,0,0,,You fly up to it and you get this message at the top telling you
-Dialogue: 0,0:08:11.39,0:08:14.38,1080P-shss-90,,0,0,0,,你飞到它面前 然后你会在画面上面看到这个信息 告诉你
-Dialogue: 0,0:08:14.46,0:08:16.59,1080P-sgbd-42,,0,0,0,,you have unlocked it in the game.
-Dialogue: 0,0:08:14.46,0:08:16.59,1080P-shss-90,,0,0,0,,你已经在游戏中解锁了它
-Dialogue: 0,0:08:16.72,0:08:18.23,1080P-sgbd-42,,0,0,0,,The great thing about this one
-Dialogue: 0,0:08:16.72,0:08:18.23,1080P-shss-90,,0,0,0,,这个发射场最棒的地方是
-Dialogue: 0,0:08:18.28,0:08:23.46,1080P-sgbd-42,,0,0,0,,which is just north of launch site is that it has a ramp that goes into the water.
-Dialogue: 0,0:08:18.28,0:08:23.46,1080P-shss-90,,0,0,0,,就在发射场的北面的那个 它有一个没入水中的斜坡
-Dialogue: 0,0:08:23.62,0:08:27.70,1080P-sgbd-42,,0,0,0,,Finally in well the final major release of the game
-Dialogue: 0,0:08:23.62,0:08:27.70,1080P-shss-90,,0,0,0,,终于 在游戏的最后一个主要版本中
-Dialogue: 0,0:08:27.81,0:08:30.56,1080P-sgbd-42,,0,0,0,,we get official support for boats.
-Dialogue: 0,0:08:27.81,0:08:30.56,1080P-shss-90,,0,0,0,,我们得到了官方对船只的正式支持
-Dialogue: 0,0:08:30.58,0:08:34.25,1080P-sgbd-42,,0,0,0,,you don't have to fly them out to sea and drop them in the water anymore.
-Dialogue: 0,0:08:30.58,0:08:34.25,1080P-shss-90,,0,0,0,,你不必再把它们飞到海上 然后让它们落进水里
-Dialogue: 0,0:08:34.26,0:08:38.89,1080P-sgbd-42,,0,0,0,,You can just slide them down the slipway and make them look like real ships.
-Dialogue: 0,0:08:34.26,0:08:38.89,1080P-shss-90,,0,0,0,,你可以直接让它们从滑道上滑下来 让它们看起来像真的船一样
-Dialogue: 0,0:08:39.56,0:08:42.92,1080P-sgbd-42,,0,0,0,,There are a few other easter eggs have been added in the final release.
-Dialogue: 0,0:08:39.56,0:08:42.92,1080P-shss-90,,0,0,0,,最终的版本中还添加了其他一些彩蛋
-Dialogue: 0,0:08:42.93,0:08:45.73,1080P-sgbd-42,,0,0,0,,Here's one that was made on Kerbin by Kerbals.
-Dialogue: 0,0:08:42.93,0:08:45.73,1080P-shss-90,,0,0,0,,这里有一个 由坎星人在坎星制造
-Dialogue: 0,0:08:45.99,0:08:49.66,1080P-sgbd-42,,0,0,0,,And here's me having a bit of an oopsy with opportunity.
-Dialogue: 0,0:08:45.99,0:08:49.66,1080P-shss-90,,0,0,0,,这是我用机遇号制造的一起小事故
-Dialogue: 0,0:08:50.01,0:08:52.34,1080P-sgbd-42,,0,0,0,,But beyond the easter eggs and the fireworks
-Dialogue: 0,0:08:50.01,0:08:52.34,1080P-shss-90,,0,0,0,,但除了彩蛋和烟火
-Dialogue: 0,0:08:52.37,0:08:57.02,1080P-sgbd-42,,0,0,0,,there is some actual gameplay changes which are really good especially for new players.
-Dialogue: 0,0:08:52.37,0:08:57.02,1080P-shss-90,,0,0,0,,游戏玩法还有一些变化 这点特别是对新玩家来说真的很好
-Dialogue: 0,0:08:57.07,0:08:59.29,1080P-sgbd-42,,0,0,0,,So there's something called the maneuver tool
-Dialogue: 0,0:08:57.07,0:08:59.29,1080P-shss-90,,0,0,0,,所以 游戏中新增了一种叫做机动工具的东西
-Dialogue: 0,0:08:59.29,0:09:04.78,1080P-sgbd-42,,0,0,0,,and the maneuver tool is here to help you plot courses to planets and the moons and everything.
-Dialogue: 0,0:08:59.29,0:09:04.78,1080P-shss-90,,0,0,0,,机动工具是用来帮助你规划前往行星 卫星这类地方的路线的
-Dialogue: 0,0:09:04.80,0:09:08.37,1080P-sgbd-42,,0,0,0,,So you select your target it does some computation.
-Dialogue: 0,0:09:04.80,0:09:08.37,1080P-shss-90,,0,0,0,,所以你选择你要前往的目标 它会进行一些计算
-Dialogue: 0,0:09:08.42,0:09:09.30,1080P-sgbd-42,,0,0,0,,You can create a node.
-Dialogue: 0,0:09:08.42,0:09:09.30,1080P-shss-90,,0,0,0,,之后你可以创建一个节点
-Dialogue: 0,0:09:09.33,0:09:15.02,1080P-sgbd-42,,0,0,0,,So if I want to go to the asteroid in the middle of asteroid belt called Dres, it's done the math.
-Dialogue: 0,0:09:09.33,0:09:15.02,1080P-shss-90,,0,0,0,,所以 如果我想去小行星带中一个叫Dres的小行星 它已经做了计算
-Dialogue: 0,0:09:15.02,0:09:19.12,1080P-sgbd-42,,0,0,0,,It told me that the next maneuver is in 116 days.
-Dialogue: 0,0:09:15.02,0:09:19.12,1080P-shss-90,,0,0,0,,它告诉我 下一次机动是在116天后
-Dialogue: 0,0:09:19.76,0:09:23.37,1080P-sgbd-42,,0,0,0,,You'll take 1.5 kilometers per second of Delta V to escape.
-Dialogue: 0,0:09:19.76,0:09:23.37,1080P-shss-90,,0,0,0,,你要消耗1.5公里每秒的DV来逃逸
-Dialogue: 0,0:09:23.37,0:09:26.58,1080P-sgbd-42,,0,0,0,,And 1.75 to arrive so I create it
-Dialogue: 0,0:09:23.37,0:09:26.58,1080P-shss-90,,0,0,0,,并最终消耗1.75公里每秒的DV到达 现在我创建了节点
-Dialogue: 0,0:09:26.89,0:09:29.17,1080P-sgbd-42,,0,0,0,,and look it's gone and created that for me.
-Dialogue: 0,0:09:26.89,0:09:29.17,1080P-shss-90,,0,0,0,,看 它已经完成了计算 并为我创建了节点
-Dialogue: 0,0:09:29.19,0:09:34.70,1080P-sgbd-42,,0,0,0,,it's created a node and I can actually run a count down to that and perform the maneuver.
-Dialogue: 0,0:09:29.19,0:09:34.70,1080P-shss-90,,0,0,0,,它已经创建了一个节点 我可以把时间加速到那个时候 然后执行机动
-Dialogue: 0,0:09:35.08,0:09:38.82,1080P-sgbd-42,,0,0,0,,It will also create an alarm clock, a scheduling system
-Dialogue: 0,0:09:35.08,0:09:38.82,1080P-shss-90,,0,0,0,,它还会创建一个闹钟 一个任务安排系统
-Dialogue: 0,0:09:38.86,0:09:42.39,1080P-sgbd-42,,0,0,0,,so that if you have other missions doing other things
-Dialogue: 0,0:09:38.86,0:09:42.39,1080P-shss-90,,0,0,0,,这样 如果你有正在做其他事情的任务
-Dialogue: 0,0:09:42.42,0:09:45.64,1080P-sgbd-42,,0,0,0,,it will remind you when you have maneuvers that you need to do
-Dialogue: 0,0:09:42.42,0:09:45.64,1080P-shss-90,,0,0,0,,它将提醒你什么时候需要进行机动操作
-Dialogue: 0,0:09:45.68,0:09:48.82,1080P-sgbd-42,,0,0,0,,so this is these are features are been in mods for a long time
-Dialogue: 0,0:09:45.68,0:09:48.82,1080P-shss-90,,0,0,0,,这些功能在模组中已经有了很长时间
-Dialogue: 0,0:09:48.87,0:09:51.07,1080P-sgbd-42,,0,0,0,,but it's nice to see them in the core game.
-Dialogue: 0,0:09:48.87,0:09:51.07,1080P-shss-90,,0,0,0,,但还是很高兴在游戏主体中看到它们
-Dialogue: 0,0:09:51.62,0:09:54.70,1080P-sgbd-42,,0,0,0,,Of course the game is still entirely manual control.
-Dialogue: 0,0:09:51.62,0:09:54.70,1080P-shss-90,,0,0,0,,当然 游戏仍然是完全手动控制
-Dialogue: 0,0:09:54.72,0:09:56.06,1080P-sgbd-42,,0,0,0,,There's no autopilot.
-Dialogue: 0,0:09:54.72,0:09:56.06,1080P-shss-90,,0,0,0,,没有自动驾驶
-Dialogue: 0,0:09:56.39,0:10:01.31,1080P-sgbd-42,,0,0,0,,This is just telling you when to fire your engines in what direction to fire them in.
-Dialogue: 0,0:09:56.39,0:10:01.31,1080P-shss-90,,0,0,0,,这个工具只是告诉你什么时候进行发动机点火 向什么方向点火
-Dialogue: 0,0:10:01.56,0:10:04.46,1080P-sgbd-42,,0,0,0,,And even then it still doesn't work for a lot of maneuvers.
-Dialogue: 0,0:10:01.56,0:10:04.46,1080P-shss-90,,0,0,0,,即使如此 它仍然无法执行许多机动
-Dialogue: 0,0:10:04.50,0:10:08.23,1080P-sgbd-42,,0,0,0,,These are just for basic transfer maneuvers from circular orbits
-Dialogue: 0,0:10:04.50,0:10:08.23,1080P-shss-90,,0,0,0,,它只能用于从圆形轨道的基本转移机动
-Dialogue: 0,0:10:08.53,0:10:11.34,1080P-sgbd-42,,0,0,0,,around one planet to a circular orbit on another.
-Dialogue: 0,0:10:08.53,0:10:11.34,1080P-shss-90,,0,0,0,,从围绕一个星球的圆形轨道转移到另一个星球的圆形轨道
-Dialogue: 0,0:10:11.57,0:10:14.71,1080P-sgbd-42,,0,0,0,,If you're in deep space then you might not be able to use it.
-Dialogue: 0,0:10:11.57,0:10:14.71,1080P-shss-90,,0,0,0,,如果你在深空 那么你可能无法使用它
-Dialogue: 0,0:10:15.07,0:10:17.58,1080P-sgbd-42,,0,0,0,,And the latest release brings a few new parts.
-Dialogue: 0,0:10:15.07,0:10:17.58,1080P-shss-90,,0,0,0,,而且最新的版本还带来了一些新的部件
-Dialogue: 0,0:10:17.77,0:10:21.74,1080P-sgbd-42,,0,0,0,,In the very first release of Kerbal Space Program there were eleven different parts.
-Dialogue: 0,0:10:17.77,0:10:21.57,1080P-shss-90,,0,0,0,,在坎巴拉太空计划的第一个版本中 只有11个不同的部件
-Dialogue: 0,0:10:21.74,0:10:24.00,1080P-sgbd-42,,0,0,0,,Now there's over 400.
-Dialogue: 0,0:10:21.74,0:10:24.00,1080P-shss-90,,0,0,0,,而现在则有超过400个部件
-Dialogue: 0,0:10:24.23,0:10:27.40,1080P-sgbd-42,,0,0,0,,This release brings four new types of solar panels.
-Dialogue: 0,0:10:24.23,0:10:27.40,1080P-shss-90,,0,0,0,,这次更新还带来了四种新的太阳能电池板
-Dialogue: 0,0:10:27.43,0:10:28.78,1080P-sgbd-42,,0,0,0,,These are some of them.
-Dialogue: 0,0:10:27.43,0:10:28.78,1080P-shss-90,,0,0,0,,这些是其中的一些
-Dialogue: 0,0:10:28.96,0:10:31.34,1080P-sgbd-42,,0,0,0,,There's the circular design on solar panels.
-Dialogue: 0,0:10:28.96,0:10:31.34,1080P-shss-90,,0,0,0,,这之中有圆形设计的太阳能电池板
-Dialogue: 0,0:10:31.37,0:10:34.80,1080P-sgbd-42,,0,0,0,,So you have basically four types of solar panels are now added.
-Dialogue: 0,0:10:31.37,0:10:34.80,1080P-shss-90,,0,0,0,,所以你基本上有四种新添加的太阳能电池板
-Dialogue: 0,0:10:35.17,0:10:38.13,1080P-sgbd-42,,0,0,0,,And the docking ports have been completely redesigned
-Dialogue: 0,0:10:35.17,0:10:38.13,1080P-shss-90,,0,0,0,,而且 对接端口已经被完全重新设计了
-Dialogue: 0,0:10:38.15,0:10:42.06,1080P-sgbd-42,,0,0,0,,and they now feature the ability to provide some inline rotation
-Dialogue: 0,0:10:38.15,0:10:42.06,1080P-shss-90,,0,0,0,,它们现在能够提供一些轴向旋转的能力
-Dialogue: 0,0:10:42.11,0:10:44.18,1080P-sgbd-42,,0,0,0,,to make sure your parts are aligning correctly.
-Dialogue: 0,0:10:42.11,0:10:44.18,1080P-shss-90,,0,0,0,,以确保你的部件能正确对齐
-Dialogue: 0,0:10:44.89,0:10:49.18,1080P-sgbd-42,,0,0,0,,One item though that didn't make it into release was the stamp-o-tron ground anchor.
-Dialogue: 0,0:10:44.89,0:10:49.18,1080P-shss-90,,0,0,0,,不过 有一个部件没有发布 那就是纵向印戳地锚
-Dialogue: 0,0:10:49.18,0:10:53.05,1080P-sgbd-42,,0,0,0,,People wanted ways to anchor their hardware onto a planet's surface.
-Dialogue: 0,0:10:49.18,0:10:53.05,1080P-shss-90,,0,0,0,,人们希望有办法能将他们的部件固定在星球的表面上
-Dialogue: 0,0:10:53.10,0:10:54.70,1080P-sgbd-42,,0,0,0,,They had all sorts of cool ideas for it.
-Dialogue: 0,0:10:53.10,0:10:54.70,1080P-shss-90,,0,0,0,,对此 他们有各种很酷的想法
-Dialogue: 0,0:10:54.71,0:10:59.16,1080P-sgbd-42,,0,0,0,,Unfortunately during testing was found that it kept on coming unstuck.
-Dialogue: 0,0:10:54.71,0:10:59.16,1080P-shss-90,,0,0,0,,但不幸的是 在测试过程中 他们发现它一直无法卡住地面
-Dialogue: 0,0:10:59.47,0:11:05.73,1080P-sgbd-42,,0,0,0,,and so that means that the final release of Kerbal Space Program isn't actually the final release.
-Dialogue: 0,0:10:59.47,0:11:05.73,1080P-shss-90,,0,0,0,,因此 这意味着坎巴拉太空计划发布的最终版本实际上并不是最终版本
-Dialogue: 0,0:11:05.76,0:11:11.13,1080P-sgbd-42,,0,0,0,,There's definitely going to be a 1.12.1 release at some point in the future.
-Dialogue: 0,0:11:05.76,0:11:11.13,1080P-shss-90,,0,0,0,,在未来的某个时间点 肯定会发布一个1.12.1版本
-Dialogue: 0,0:11:11.14,0:11:16.54,1080P-sgbd-42,,0,0,0,,And that will fix a few things that will probably add a few other bits and pieces that were missed
-Dialogue: 0,0:11:11.14,0:11:16.54,1080P-shss-90,,0,0,0,,那个版本将会修复一些问题 并可能增加其他一些被遗漏的部分
-Dialogue: 0,0:11:16.84,0:11:22.34,1080P-sgbd-42,,0,0,0,,and you know what you might be wondering what happens to the team behind Kerbal Space Program.
-Dialogue: 0,0:11:16.84,0:11:22.34,1080P-shss-90,,0,0,0,,你知道吗 你可能会想知道坎巴拉太空计划背后的团队发生了什么
-Dialogue: 0,0:11:22.42,0:11:24.19,1080P-sgbd-42,,0,0,0,,What they're going to be doing from now on.
-Dialogue: 0,0:11:22.42,0:11:24.19,1080P-shss-90,,0,0,0,,他们从现在开始将会去做什么
-Dialogue: 0,0:11:24.50,0:11:26.89,1080P-sgbd-42,,0,0,0,,Well there can be working on Kerbal Space Program 2.
-Dialogue: 0,0:11:24.50,0:11:26.89,1080P-shss-90,,0,0,0,,其实 他们有可能会在坎巴拉太空计划2上工作
-Dialogue: 0,0:11:26.91,0:11:31.49,1080P-sgbd-42,,0,0,0,,There is another team that has been working on that game for several years
-Dialogue: 0,0:11:26.91,0:11:31.49,1080P-shss-90,,0,0,0,,已经有另一个团队已经在那个游戏上工作了好几年
-Dialogue: 0,0:11:31.89,0:11:35.82,1080P-sgbd-42,,0,0,0,,but it has had this released date pushed back by 2 years
-Dialogue: 0,0:11:31.89,0:11:35.82,1080P-shss-90,,0,0,0,,但它的发布日期被延后了两年
-Dialogue: 0,0:11:35.85,0:11:37.18,1080P-sgbd-42,,0,0,0,,and frankly I'm okay with that
-Dialogue: 0,0:11:35.85,0:11:37.18,1080P-shss-90,,0,0,0,,坦率地说 我对此并不反对
-Dialogue: 0,0:11:37.19,0:11:39.32,1080P-sgbd-42,,0,0,0,,because I prefer them to deliver a product
-Dialogue: 0,0:11:37.19,0:11:39.32,1080P-shss-90,,0,0,0,,因为我更希望他们提供的产品
-Dialogue: 0,0:11:39.56,0:11:43.12,1080P-sgbd-42,,0,0,0,,which captures everything that is great about Kerbal Space Program.
-Dialogue: 0,0:11:39.56,0:11:43.12,1080P-shss-90,,0,0,0,,能涵盖到坎巴拉太空计划的所有优点
-Dialogue: 0,0:11:43.81,0:11:48.15,1080P-sgbd-42,,0,0,0,,Now I could go on and on about how important Kerbal Space Program has been
-Dialogue: 0,0:11:43.81,0:11:48.15,1080P-shss-90,,0,0,0,,现在我可以继续讲 坎巴拉太空计划有多么重要
-Dialogue: 0,0:11:48.21,0:11:51.15,1080P-sgbd-42,,0,0,0,,how it's such a your powerful educational tool
-Dialogue: 0,0:11:48.21,0:11:51.15,1080P-shss-90,,0,0,0,,它怎样是如此强大的教育工具
-Dialogue: 0,0:11:51.18,0:11:52.88,1080P-sgbd-42,,0,0,0,,how it has inspired many people.
-Dialogue: 0,0:11:51.18,0:11:52.88,1080P-shss-90,,0,0,0,,它是如何启发了许多人
-Dialogue: 0,0:11:53.28,0:11:54.77,1080P-sgbd-42,,0,0,0,,But I am just one person.
-Dialogue: 0,0:11:53.28,0:11:54.77,1080P-shss-90,,0,0,0,,但这样只会是我的一家之言
-Dialogue: 0,0:11:54.94,0:12:00.07,1080P-sgbd-42,,0,0,0,,And over at the official channel they've actually got a many documentary called The Kerbal Effect
-Dialogue: 0,0:11:54.94,0:12:00.07,1080P-shss-90,,0,0,0,,而在他们官方频道上 他们实际上有许多部名为坎巴拉效应的纪录片
-Dialogue: 0,0:12:00.13,0:12:03.92,1080P-sgbd-42,,0,0,0,,that interviews people from NASA, European Space Agency
-Dialogue: 0,0:12:00.13,0:12:03.92,1080P-shss-90,,0,0,0,,片中采访了来自NASA和ESA的人
-Dialogue: 0,0:12:04.02,0:12:07.73,1080P-sgbd-42,,0,0,0,,amateur rocketry of aficionados
-Dialogue: 0,0:12:04.02,0:12:07.73,1080P-shss-90,,0,0,0,,业余火箭技术爱好者
-Dialogue: 0,0:12:08.02,0:12:11.38,1080P-sgbd-42,,0,0,0,,the CEO of the United Launch Alliance.
-Dialogue: 0,0:12:08.02,0:12:11.38,1080P-shss-90,,0,0,0,,ULA的首席执行官
-Dialogue: 0,0:12:12.18,0:12:19.02,1080P-sgbd-42,,0,0,0,,Basically people who are absolutely qualified talk about space and rocket science because that is their job.
-Dialogue: 0,0:12:12.18,0:12:19.02,1080P-shss-90,,0,0,0,,基本上是那些绝对有资格谈太空和火箭科学的人 因为那是他们的工作
-Dialogue: 0,0:12:19.53,0:12:25.03,1080P-sgbd-42,,0,0,0,,And for Kerbal Space Program we've had ten amazing years of development and updates.
-Dialogue: 0,0:12:19.53,0:12:25.03,1080P-shss-90,,0,0,0,,对于坎巴拉太空计划 我们已经有了十年惊人的发展和更新
-Dialogue: 0,0:12:25.06,0:12:26.95,1080P-sgbd-42,,0,0,0,,But I don't think the story ends here.
-Dialogue: 0,0:12:25.06,0:12:26.95,1080P-shss-90,,0,0,0,,但我不认为它的故事会到此结束
-Dialogue: 0,0:12:26.97,0:12:30.43,1080P-sgbd-42,,0,0,0,,Or first of all there is one more update coming at least
-Dialogue: 0,0:12:26.97,0:12:30.43,1080P-shss-90,,0,0,0,,或者说 首先 至少还有一次版本的更新
-Dialogue: 0,0:12:30.62,0:12:36.81,1080P-sgbd-42,,0,0,0,,and I think now that we're seeing a fixed version to work against.
-Dialogue: 0,0:12:30.62,0:12:36.81,1080P-shss-90,,0,0,0,,我认为现在我们看到的是一个可以基于开发的固定版本
-Dialogue: 0,0:12:37.21,0:12:40.96,1080P-sgbd-42,,0,0,0,,The mod developers will finally update all their mods
-Dialogue: 0,0:12:37.21,0:12:40.96,1080P-shss-90,,0,0,0,,模组开发者会最后更新他们所有的模组
-Dialogue: 0,0:12:41.01,0:12:46.10,1080P-sgbd-42,,0,0,0,,and we will have a glorious future of Kerbal Space Program forever.
-Dialogue: 0,0:12:41.01,0:12:46.10,1080P-shss-90,,0,0,0,,而我们将会永远拥有坎巴拉太空计划美好的未来
-Dialogue: 0,0:12:46.45,0:12:49.17,1080P-sgbd-42,,0,0,0,,I'm Scott Manly. Fly safe.
-Dialogue: 0,0:12:46.45,0:12:49.17,1080P-shss-90,,0,0,0,,我是Scott Manly 切记 注意飞行安全
+Dialogue: 0,0:00:04.38,0:00:05.75,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Dialogue: 0,0:00:04.38,0:00:05.75,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
+Dialogue: 0,0:00:05.75,0:00:11.37,1080P-sgbd-42,,0,0,0,,{\blur4}Back from Hawaii and it is the tenth anniversary of the release of Kerbal Space Program
+Dialogue: 0,0:00:05.75,0:00:11.37,1080P-shss-90,,0,0,0,,{\blur4}我刚从夏威夷回来 今天是坎巴拉太空计划发布十周年的纪念日
+Dialogue: 0,0:00:11.38,0:00:15.13,1080P-sgbd-42,,0,0,0,,{\blur4}a game which well if you watch me you probably know about
+Dialogue: 0,0:00:11.38,0:00:15.13,1080P-shss-90,,0,0,0,,{\blur4}如果你看过我的节目 你可能知道这个游戏
+Dialogue: 0,0:00:15.19,0:00:18.72,1080P-sgbd-42,,0,0,0,,{\blur4}but if you don't before I talked about real rockets all the time
+Dialogue: 0,0:00:15.19,0:00:18.72,1080P-shss-90,,0,0,0,,{\blur4}但如果你没看过 在我开始整天谈论真正的火箭之前
+Dialogue: 0,0:00:18.73,0:00:22.26,1080P-sgbd-42,,0,0,0,,{\blur4}I kind of started playing video games with video game rockets.
+Dialogue: 0,0:00:18.73,0:00:22.26,1080P-shss-90,,0,0,0,,{\blur4}我在这个频道最初是玩火箭相关的电子游戏的
+Dialogue: 0,0:00:22.67,0:00:27.11,1080P-sgbd-42,,0,0,0,,{\blur4}And Kerbal Space Program was the game that can put me out there.
+Dialogue: 0,0:00:22.67,0:00:27.11,1080P-shss-90,,0,0,0,,{\blur4}而坎巴拉太空计划就是让我向今天迈出那一步的游戏
+Dialogue: 0,0:00:28.50,0:00:33.10,1080P-sgbd-42,,0,0,0,,{\blur4}Basically gave me an audience that actually made me interested in talking about these things.
+Dialogue: 0,0:00:28.50,0:00:33.10,1080P-shss-90,,0,0,0,,{\blur4}基本上它带给了我一些观众 使我对谈论这些事情真正的感兴趣
+Dialogue: 0,0:00:33.15,0:00:39.20,1080P-sgbd-42,,0,0,0,,{\blur4}So Kerbal Space Program was originally released on June 24th 2011.
+Dialogue: 0,0:00:33.15,0:00:39.20,1080P-shss-90,,0,0,0,,{\blur4}那么 坎巴拉太空计划最初是在2011年6月24日发布的
+Dialogue: 0,0:00:39.24,0:00:43.58,1080P-sgbd-42,,0,0,0,,{\blur4}That was just less than a month I think before the final launch of the space Shuttle.
+Dialogue: 0,0:00:39.24,0:00:43.58,1080P-shss-90,,0,0,0,,{\blur4}我记得那是在航天飞机谢幕发射前的不到一个月
+Dialogue: 0,0:00:43.87,0:00:48.95,1080P-sgbd-42,,0,0,0,,{\blur4}The very earliest alpha release was Version 0.7.3.
+Dialogue: 0,0:00:43.87,0:00:48.95,1080P-shss-90,,0,0,0,,{\blur4}最早发布的版本是0.7.3版
+Dialogue: 0,0:00:49.41,0:00:55.12,1080P-sgbd-42,,0,0,0,,{\blur4}And it had these little green men which turned out to be a great selling factor
+Dialogue: 0,0:00:49.41,0:00:55.12,1080P-shss-90,,0,0,0,,{\blur4}并且游戏中有这些小绿人 这也变成了游戏一个很好的卖点
+Dialogue: 0,0:00:55.14,0:01:00.37,1080P-sgbd-42,,0,0,0,,{\blur4}I know like the physics is great. The rocket science is fantastic.
+Dialogue: 0,0:00:55.14,0:01:00.37,1080P-shss-90,,0,0,0,,{\blur4}我知道像是 游戏里的物理学和火箭科学是非常棒的
+Dialogue: 0,0:01:00.57,0:01:05.18,1080P-sgbd-42,,0,0,0,,{\blur4}But having three little green men in the bottom right corner of your screen
+Dialogue: 0,0:01:00.57,0:01:05.18,1080P-shss-90,,0,0,0,,{\blur4}但是在你的屏幕右下角有三个小绿人
+Dialogue: 0,0:01:05.34,0:01:10.46,1080P-sgbd-42,,0,0,0,,{\blur4}screaming whenever anything explodes really made it stick with a lot more gamers.
+Dialogue: 0,0:01:05.34,0:01:10.46,1080P-shss-90,,0,0,0,,{\blur4}在每当有东西爆炸时尖叫 这真的吸引了很多玩家们继续玩下去
+Dialogue: 0,0:01:11.26,0:01:15.35,1080P-sgbd-42,,0,0,0,,{\blur4}The version we have here has a very simple space center.
+Dialogue: 0,0:01:11.26,0:01:15.35,1080P-shss-90,,0,0,0,,{\blur4}我们在这一版本中有一个非常简单的太空中心
+Dialogue: 0,0:01:15.36,0:01:18.14,1080P-sgbd-42,,0,0,0,,{\blur4}The only thing you can click on is the vehicle assembly building.
+Dialogue: 0,0:01:15.36,0:01:18.14,1080P-shss-90,,0,0,0,,{\blur4}你唯一可以点击的东西就是航天器装配大楼
+Dialogue: 0,0:01:18.14,0:01:20.86,1080P-sgbd-42,,0,0,0,,{\blur4}This is after all an alpha release
+Dialogue: 0,0:01:18.14,0:01:20.86,1080P-shss-90,,0,0,0,,{\blur4}这毕竟是一个最初的版本
+Dialogue: 0,0:01:21.19,0:01:24.51,1080P-sgbd-42,,0,0,0,,{\blur4}six months after they started developing the game.
+Dialogue: 0,0:01:21.19,0:01:24.51,1080P-shss-90,,0,0,0,,{\blur4}并且这个版本是在他们开始开发游戏的6个月后就发布的
+Dialogue: 0,0:01:25.34,0:01:27.59,1080P-sgbd-42,,0,0,0,,{\blur4}So you have a very familiar looking screen here.
+Dialogue: 0,0:01:25.34,0:01:27.59,1080P-shss-90,,0,0,0,,{\blur4}那么 你在这里可以看到一个非常熟悉的界面
+Dialogue: 0,0:01:27.85,0:01:29.31,1080P-sgbd-42,,0,0,0,,{\blur4}A lot of the same icons.
+Dialogue: 0,0:01:27.85,0:01:29.31,1080P-shss-90,,0,0,0,,{\blur4}很多图标与今天相同
+Dialogue: 0,0:01:29.39,0:01:32.07,1080P-sgbd-42,,0,0,0,,{\blur4}You can click on your various parts.
+Dialogue: 0,0:01:29.39,0:01:32.07,1080P-shss-90,,0,0,0,,{\blur4}你可以点击你的各种部件
+Dialogue: 0,0:01:32.26,0:01:38.30,1080P-sgbd-42,,0,0,0,,{\blur4}Interestingly they have decals which didn't actually turn up in the game until about a year ago.
+Dialogue: 0,0:01:32.26,0:01:38.30,1080P-shss-90,,0,0,0,,{\blur4}有趣的是 直到一年前它们的贴花才真正出现在了游戏中
+Dialogue: 0,0:01:38.66,0:01:42.94,1080P-sgbd-42,,0,0,0,,{\blur4}But you have a little command pod there.
+Dialogue: 0,0:01:38.66,0:01:42.94,1080P-shss-90,,0,0,0,,{\blur4}而在这里 你有一个小小的指令舱
+Dialogue: 0,0:01:42.98,0:01:44.72,1080P-sgbd-42,,0,0,0,,{\blur4}And you could start assembling bits on it.
+Dialogue: 0,0:01:42.98,0:01:44.72,1080P-shss-90,,0,0,0,,{\blur4}并且你可以开始在上面装配部件
+Dialogue: 0,0:01:44.74,0:01:47.19,1080P-sgbd-42,,0,0,0,,{\blur4}So put a stack decoupler under there.
+Dialogue: 0,0:01:44.74,0:01:47.19,1080P-shss-90,,0,0,0,,{\blur4}所以 让我们在那下面放一个分离器
+Dialogue: 0,0:01:47.73,0:01:50.00,1080P-sgbd-42,,0,0,0,,{\blur4}Put ourselves Rocket engine.
+Dialogue: 0,0:01:47.73,0:01:50.00,1080P-shss-90,,0,0,0,,{\blur4}给我们的航天器装上火箭发动机
+Dialogue: 0,0:01:50.61,0:01:54.42,1080P-sgbd-42,,0,0,0,,{\blur4}And underneath that well we probably need to move the whole thing upward.
+Dialogue: 0,0:01:50.61,0:01:54.42,1080P-shss-90,,0,0,0,,{\blur4}而在这下面 好吧我们现在可能需要把整个东西往上移
+Dialogue: 0,0:01:54.46,0:01:55.70,1080P-sgbd-42,,0,0,0,,{\blur4}Well at least that works.
+Dialogue: 0,0:01:54.46,0:01:55.70,1080P-shss-90,,0,0,0,,{\blur4}好吧 至少向上移动的操作奏效了
+Dialogue: 0,0:01:55.97,0:01:59.78,1080P-sgbd-42,,0,0,0,,{\blur4}There's a lot of stuff in this that you expect to work if you've played the game
+Dialogue: 0,0:01:55.97,0:01:59.78,1080P-shss-90,,0,0,0,,{\blur4}如果你玩过这个游戏 你会期待这里面许多操作能奏效
+Dialogue: 0,0:02:01.06,0:02:03.91,1080P-sgbd-42,,0,0,0,,{\blur4}which doesn't actually work because it wasn't implemented.
+Dialogue: 0,0:02:01.06,0:02:03.91,1080P-shss-90,,0,0,0,,{\blur4}但实际上 很多这些操作有时并不会奏效 因为(在代码里)没有被实现
+Dialogue: 0,0:02:06.81,0:02:10.00,1080P-sgbd-42,,0,0,0,,{\blur4}Let's put an FL-T500 in here.
+Dialogue: 0,0:02:06.81,0:02:10.00,1080P-shss-90,,0,0,0,,{\blur4}让我们在这里放一个FL-T500燃料箱
+Dialogue: 0,0:02:10.22,0:02:14.55,1080P-sgbd-42,,0,0,0,,{\blur4}Now you'll notice I'm doing one tank here and not multiple tanks.
+Dialogue: 0,0:02:10.22,0:02:14.55,1080P-shss-90,,0,0,0,,{\blur4}现在你会注意到 我在这里只放了一个而非多个燃料箱
+Dialogue: 0,0:02:14.96,0:02:21.01,1080P-sgbd-42,,0,0,0,,{\blur4}The reason is back in this very earliest version only one tank could feed one engine.
+Dialogue: 0,0:02:14.96,0:02:21.01,1080P-shss-90,,0,0,0,,{\blur4}这是因为 在早期版本中 一个发动机只能由一个燃料箱提供燃料
+Dialogue: 0,0:02:21.13,0:02:25.56,1080P-sgbd-42,,0,0,0,,{\blur4}So you couldn't stack tanks the way that we're all used to these days.
+Dialogue: 0,0:02:21.13,0:02:25.56,1080P-shss-90,,0,0,0,,{\blur4}所以 你不能像我们现在所习惯的那样堆放燃料箱
+Dialogue: 0,0:02:26.15,0:02:28.36,1080P-sgbd-42,,0,0,0,,{\blur4}Let's do this.
+Dialogue: 0,0:02:26.15,0:02:28.36,1080P-shss-90,,0,0,0,,{\blur4}让我们现在这样做
+Dialogue: 0,0:02:29.04,0:02:30.31,1080P-sgbd-42,,0,0,0,,{\blur4}And we'll do another tank.
+Dialogue: 0,0:02:29.04,0:02:30.31,1080P-shss-90,,0,0,0,,{\blur4}然后我们再放一个燃料箱
+Dialogue: 0,0:02:30.43,0:02:33.61,1080P-sgbd-42,,0,0,0,,{\blur4}And we'll also try to put some radial boosters on right?
+Dialogue: 0,0:02:30.43,0:02:33.61,1080P-shss-90,,0,0,0,,{\blur4}我们还将尝试安装一些径向助推器 对吗
+Dialogue: 0,0:02:34.13,0:02:38.46,1080P-sgbd-42,,0,0,0,,{\blur4}So Radial Decouplers are things you attached to the side.
+Dialogue: 0,0:02:34.13,0:02:38.46,1080P-shss-90,,0,0,0,,{\blur4}那么 径向分离器是你要安装到火箭侧面的东西
+Dialogue: 0,0:02:38.87,0:02:40.93,1080P-sgbd-42,,0,0,0,,{\blur4}And in this version there's no symmetry.
+Dialogue: 0,0:02:38.87,0:02:40.93,1080P-shss-90,,0,0,0,,{\blur4}在这个版本中 没有对称功能
+Dialogue: 0,0:02:41.00,0:02:46.40,1080P-sgbd-42,,0,0,0,,{\blur4}You just have to sort of guess where it is and slap them on there.
+Dialogue: 0,0:02:41.00,0:02:46.40,1080P-shss-90,,0,0,0,,{\blur4}你只能猜测它的位置 然后把它们安在上面
+Dialogue: 0,0:02:46.60,0:02:50.33,1080P-sgbd-42,,0,0,0,,{\blur4}And hope that they are lined up sufficiently well
+Dialogue: 0,0:02:46.60,0:02:50.33,1080P-shss-90,,0,0,0,,{\blur4}并希望它们能完全排成一行
+Dialogue: 0,0:02:50.38,0:02:54.62,1080P-sgbd-42,,0,0,0,,{\blur4}that they don't actually spin you off and cause you to fall over.
+Dialogue: 0,0:02:50.38,0:02:54.62,1080P-shss-90,,0,0,0,,{\blur4}以免它们造成火箭旋转 使火箭倾倒
+Dialogue: 0,0:02:56.43,0:02:59.80,1080P-sgbd-42,,0,0,0,,{\blur4}There are also little fins there
+Dialogue: 0,0:02:56.43,0:02:59.80,1080P-shss-90,,0,0,0,,{\blur4}这里还有一些小翼面
+Dialogue: 0,0:02:59.82,0:03:02.78,1080P-sgbd-42,,0,0,0,,{\blur4}but those don't actually work as control surfaces.
+Dialogue: 0,0:02:59.82,0:03:02.78,1080P-shss-90,,0,0,0,,{\blur4}但实际上 它们并不是操纵面
+Dialogue: 0,0:03:02.81,0:03:04.82,1080P-sgbd-42,,0,0,0,,{\blur4}They don't move. They don't actuate.
+Dialogue: 0,0:03:02.81,0:03:04.82,1080P-shss-90,,0,0,0,,{\blur4}它们不会移动 也不能被驱动
+Dialogue: 0,0:03:05.47,0:03:08.05,1080P-sgbd-42,,0,0,0,,{\blur4}And again of course you have to worry about symmetry.
+Dialogue: 0,0:03:05.47,0:03:08.05,1080P-shss-90,,0,0,0,,{\blur4}当然 你还得担心对称问题
+Dialogue: 0,0:03:08.51,0:03:10.22,1080P-sgbd-42,,0,0,0,,{\blur4}No aerodynamic nosecone
+Dialogue: 0,0:03:08.51,0:03:10.22,1080P-shss-90,,0,0,0,,{\blur4}这个版本里没有空气动力鼻锥
+Dialogue: 0,0:03:10.26,0:03:15.34,1080P-sgbd-42,,0,0,0,,{\blur4}because well the aerodynamics in this game are very primitive at this time
+Dialogue: 0,0:03:10.26,0:03:15.34,1080P-shss-90,,0,0,0,,{\blur4}因为这个游戏的空气动力学在那时还是非常原始的
+Dialogue: 0,0:03:15.36,0:03:19.32,1080P-sgbd-42,,0,0,0,,{\blur4}so I can actually adjust the staging here which is great.
+Dialogue: 0,0:03:15.36,0:03:19.32,1080P-shss-90,,0,0,0,,{\blur4}所以我实际上可以再这里调整分级 这点很好
+Dialogue: 0,0:03:20.21,0:03:22.30,1080P-sgbd-42,,0,0,0,,{\blur4}One thing I haven't put on is the parachute
+Dialogue: 0,0:03:20.21,0:03:22.30,1080P-shss-90,,0,0,0,,{\blur4}有一个东西我还没有装上 那就是降落伞
+Dialogue: 0,0:03:22.32,0:03:27.15,1080P-sgbd-42,,0,0,0,,{\blur4}and you'll notice in the description that it still has that comedic outlook on life.
+Dialogue: 0,0:03:22.32,0:03:27.15,1080P-shss-90,,0,0,0,,{\blur4}并且你会注意到在它的描述中 仍饱含那种喜剧性的人生观
+Dialogue: 0,0:03:27.86,0:03:32.14,1080P-sgbd-42,,0,0,0,,{\blur4}Widely accepted this is a better alternative to being in free fall.
+Dialogue: 0,0:03:27.86,0:03:32.14,1080P-shss-90,,0,0,0,,{\blur4}这个降落伞被广泛认为是比自由落体更好的选择
+Dialogue: 0,0:03:32.42,0:03:36.46,1080P-sgbd-42,,0,0,0,,{\blur4}Okay. I'm gonna see if this thing actually flies. It probably won't.
+Dialogue: 0,0:03:32.42,0:03:36.46,1080P-shss-90,,0,0,0,,{\blur4}好的 我要看看这东西是否真的能飞起来 它也许不能
+Dialogue: 0,0:03:36.71,0:03:38.26,1080P-sgbd-42,,0,0,0,,{\blur4}It could well crash.
+Dialogue: 0,0:03:36.71,0:03:38.26,1080P-shss-90,,0,0,0,,{\blur4}它可能会坠毁
+Dialogue: 0,0:03:39.35,0:03:41.59,1080P-sgbd-4k,,0,0,0,,{\blur4}And so here we are on the launch pad.
+Dialogue: 0,0:03:39.35,0:03:41.59,1080P-shss-9k,,0,0,0,,{\blur4}因此 我们现在在发射台上
+Dialogue: 0,0:03:41.61,0:03:44.42,1080P-sgbd-4k,,0,0,0,,{\blur4}And you'll notice by the way if you're a regular player
+Dialogue: 0,0:03:41.61,0:03:44.42,1080P-shss-9k,,0,0,0,,{\blur4}顺便一说 如果你是一个普通玩家的话 你会注意到
+Dialogue: 0,0:03:44.46,0:03:46.74,1080P-sgbd-4k,,0,0,0,,{\blur4}that we have this massive launch tower here.
+Dialogue: 0,0:03:44.46,0:03:46.74,1080P-shss-9k,,0,0,0,,{\blur4}我们在这里有一个巨大的发射塔
+Dialogue: 0,0:03:46.93,0:03:48.30,1080P-sgbd-4k,,0,0,0,,{\blur4}That was in all the early versions.
+Dialogue: 0,0:03:46.93,0:03:48.30,1080P-shss-9k,,0,0,0,,{\blur4}在所有早期版本中都有这个发射塔
+Dialogue: 0,0:03:48.30,0:03:49.81,1080P-sgbd-4k,,0,0,0,,{\blur4}It was eventually removed.
+Dialogue: 0,0:03:48.30,0:03:49.81,1080P-shss-9k,,0,0,0,,{\blur4}它最终被移除
+Dialogue: 0,0:03:50.47,0:03:53.14,1080P-sgbd-4k,,0,0,0,,{\blur4}Because players began building rockets so large
+Dialogue: 0,0:03:50.47,0:03:53.14,1080P-shss-9k,,0,0,0,,{\blur4}因为玩家们开始把火箭造得太大了
+Dialogue: 0,0:03:53.14,0:03:56.28,1080P-sgbd-4k,,0,0,0,,{\blur4} that they would just clip through that tower and explode on spawning.
+Dialogue: 0,0:03:53.14,0:03:56.28,1080P-shss-9k,,0,0,0,,{\blur4}以至于火箭会直接穿过发射塔 并在(游戏中)出生的时候爆炸
+Dialogue: 0,0:03:56.28,0:04:00.71,1080P-sgbd-4k,,0,0,0,,{\blur4}Now. I remember actually an early version where one of the things I did
+Dialogue: 0,0:03:56.28,0:04:00.71,1080P-shss-9k,,0,0,0,,{\blur4}那么 我记得在早期版本中 我做过的一件事
+Dialogue: 0,0:04:00.71,0:04:03.03,1080P-sgbd-4k,,0,0,0,,{\blur4}was lift off and try to land on top of that.
+Dialogue: 0,0:04:00.71,0:04:03.03,1080P-shss-9k,,0,0,0,,{\blur4}就是升空并试图降落在发射台上面
+Dialogue: 0,0:04:03.69,0:04:06.27,1080P-sgbd-4k,,0,0,0,,{\blur4}So the landscape is still procedureally generated
+Dialogue: 0,0:04:03.69,0:04:06.27,1080P-shss-9k,,0,0,0,,{\blur4}所以 地面的景观仍然是按程序生成的
+Dialogue: 0,0:04:06.27,0:04:13.22,1080P-sgbd-4k,,0,0,0,,{\blur4}although you'll notice there's a lot of like giggle as a terrainrerenders at different detail levels
+Dialogue: 0,0:04:06.27,0:04:13.22,1080P-shss-9k,,0,0,0,,{\blur4}尽管地形在不同的分辨率下重新渲染显得有点滑稽
+Dialogue: 0,0:04:13.22,0:04:15.55,1080P-sgbd-4k,,0,0,0,,{\blur4}obviously that got improved a whole lot
+Dialogue: 0,0:04:13.22,0:04:15.55,1080P-shss-9k,,0,0,0,,{\blur4}显然 这一点在现在得到了很大的改善
+Dialogue: 0,0:04:15.55,0:04:20.18,1080P-sgbd-4k,,0,0,0,,{\blur4}but yeah look at those boosters on the outside
+Dialogue: 0,0:04:15.55,0:04:20.18,1080P-shss-9k,,0,0,0,,{\blur4}但是 看看周围的那些助推器
+Dialogue: 0,0:04:20.18,0:04:22.24,1080P-sgbd-4k,,0,0,0,,{\blur4}straining against their Radial mounts.
+Dialogue: 0,0:04:20.18,0:04:22.24,1080P-shss-9k,,0,0,0,,{\blur4}对它们的径向支架施加着拉力
+Dialogue: 0,0:04:22.24,0:04:27.36,1080P-sgbd-4k,,0,0,0,,{\blur4}That soft joint physics was very much core to the Kerbal design.
+Dialogue: 0,0:04:22.24,0:04:27.36,1080P-shss-9k,,0,0,0,,{\blur4}其所涉及的软节点物理学 是坎巴拉设计的核心
+Dialogue: 0,0:04:27.36,0:04:31.22,1080P-sgbd-4k,,0,0,0,,{\blur4}In fact I think the very first internal build of Kerbal Space Program
+Dialogue: 0,0:04:27.36,0:04:31.22,1080P-shss-9k,,0,0,0,,{\blur4}事实上 我记得在坎巴拉太空计划的第一个内部版本中
+Dialogue: 0,0:04:31.22,0:04:37.90,1080P-sgbd-4k,,0,0,0,,{\blur4}had the boosters fly up for a couple of seconds and then sheer off due to excess stress.
+Dialogue: 0,0:04:31.22,0:04:37.90,1080P-shss-9k,,0,0,0,,{\blur4}助推器可能会在飞行一段时间后 由于过大的压力而脱落
+Dialogue: 0,0:04:39.46,0:04:43.82,1080P-sgbd-4k,,0,0,0,,{\blur4}You'll notice that we do actually have fuel gauges for the solid rocket boosters not for the regular engine.
+Dialogue: 0,0:04:42.71,0:04:43.82,1080P-shss-9k,,0,0,0,,{\blur4}你会注意到 游戏中固体火箭发动机有燃料表 而液体发动机则没有
+Dialogue: 0,0:04:43.82,0:04:46.02,1080P-sgbd-4k,,0,0,0,,{\blur4}We have no idea what's going on.
+Dialogue: 0,0:04:43.82,0:04:46.02,1080P-shss-9k,,0,0,0,,{\blur4}我们不知道这是怎么回事
+Dialogue: 0,0:04:46.61,0:04:49.42,1080P-sgbd-4k,,0,0,0,,{\blur4}Also one of the sort of original game design features
+Dialogue: 0,0:04:46.61,0:04:49.42,1080P-shss-9k,,0,0,0,,{\blur4}另外 游戏的一个原始设计特色
+Dialogue: 0,0:04:49.42,0:04:54.37,1080P-sgbd-4k,,0,0,0,,{\blur4}was supposed to be flying as high as possible before your rocket overheated.
+Dialogue: 0,0:04:49.42,0:04:54.37,1080P-shss-9k,,0,0,0,,{\blur4}本来是要你在火箭过热之前飞的尽可能的高
+Dialogue: 0,0:04:55.41,0:04:57.58,1080P-sgbd-4k,,0,0,0,,{\blur4}That kinda had stopped being a thing until now
+Dialogue: 0,0:04:55.41,0:04:57.58,1080P-shss-9k,,0,0,0,,{\blur4}而在现在 这点早已不值一提
+Dialogue: 0,0:04:57.58,0:05:03.66,1080P-sgbd-4k,,0,0,0,,{\blur4}and it would be a long time before thermal control became a core part of the game
+Dialogue: 0,0:04:57.58,0:05:03.66,1080P-shss-9k,,0,0,0,,{\blur4}并且在很长时间后 热控制才被看作游戏的核心部分
+Dialogue: 0,0:05:03.68,0:05:05.25,1080P-sgbd-4k,,0,0,0,,{\blur4}that had been properly designed.
+Dialogue: 0,0:05:03.68,0:05:05.25,1080P-shss-9k,,0,0,0,,{\blur4}并被正确设计
+Dialogue: 0,0:05:05.70,0:05:10.89,1080P-sgbd-4k,,0,0,0,,{\blur4}Look we stage those off and they drop back to earth to land on some Kerbal villagers
+Dialogue: 0,0:05:05.70,0:05:10.89,1080P-shss-9k,,0,0,0,,{\blur4}看我们把这些部件分离 然后它们落回地面 掉在一些坎巴拉村民身上
+Dialogue: 0,0:05:10.91,0:05:14.46,1080P-sgbd-4k,,0,0,0,,{\blur4}except of course in this version of Kerbal Space Program
+Dialogue: 0,0:05:10.91,0:05:14.46,1080P-shss-9k,,0,0,0,,{\blur4}当然 除了在这个版本的坎巴拉太空计划中
+Dialogue: 0,0:05:14.49,0:05:17.95,1080P-sgbd-4k,,0,0,0,,{\blur4}there were no villages or cities anywhere else on the planet.
+Dialogue: 0,0:05:14.49,0:05:17.95,1080P-shss-9k,,0,0,0,,{\blur4}星球上没有任何村庄或城市
+Dialogue: 0,0:05:18.17,0:05:25.06,1080P-sgbd-4k,,0,0,0,,{\blur4}And indeed in the most recent version there are no other cities or villages anywhere else on the planet.
+Dialogue: 0,0:05:18.17,0:05:25.06,1080P-shss-9k,,0,0,0,,{\blur4}而事实上 在最新的版本中 星球上也没有任何城市或村庄
+Dialogue: 0,0:05:25.07,0:05:27.20,1080P-sgbd-4k,,0,0,0,,{\blur4}At this point the planet didn't have a name.
+Dialogue: 0,0:05:25.07,0:05:27.20,1080P-shss-9k,,0,0,0,,{\blur4}那时候 这个星球还没有名字
+Dialogue: 0,0:05:27.48,0:05:30.58,1080P-sgbd-4k,,0,0,0,,{\blur4}Many people called it Kearth after with a K
+Dialogue: 0,0:05:27.48,0:05:30.58,1080P-shss-9k,,0,0,0,,{\blur4}许多人称它为Kearth 以K开头
+Dialogue: 0,0:05:30.94,0:05:34.53,1080P-sgbd-4k,,0,0,0,,{\blur4}but ultimately it would become known as Kerbin.
+Dialogue: 0,0:05:30.94,0:05:34.53,1080P-shss-9k,,0,0,0,,{\blur4}但最终它还是被称为坎星
+Dialogue: 0,0:05:35.23,0:05:40.55,1080P-sgbd-4k,,0,0,0,,{\blur4}And with this early alpha of Kerbal Space Program was downloaded 5000 times
+Dialogue: 0,0:05:35.23,0:05:40.55,1080P-shss-9k,,0,0,0,,{\blur4}就这样 坎巴拉太空计划的最初版本被下载了5000左右次
+Dialogue: 0,0:05:40.55,0:05:42.62,1080P-sgbd-4k,,0,0,0,,{\blur4}and played by people like me.
+Dialogue: 0,0:05:40.55,0:05:42.62,1080P-shss-9k,,0,0,0,,{\blur4}并被像我这样的人玩过
+Dialogue: 0,0:05:42.65,0:05:46.94,1080P-sgbd-4k,,0,0,0,,{\blur4}And it basically got itself a following very quickly it was developed
+Dialogue: 0,0:05:42.65,0:05:46.94,1080P-shss-9k,,0,0,0,,{\blur4}而且基本上在它刚被开发后不久 它就拥有了自己的一批追随者
+Dialogue: 0,0:05:46.96,0:05:50.34,1080P-sgbd-4k,,0,0,0,,{\blur4}it would be several years before they released the 1.0 version
+Dialogue: 0,0:05:46.96,0:05:50.34,1080P-shss-9k,,0,0,0,,{\blur4}他们在好几年之后才发布游戏的1.0版本
+Dialogue: 0,0:05:50.59,0:05:54.66,1080P-sgbd-4k,,0,0,0,,{\blur4}but there was always things to do and and always things to learn.
+Dialogue: 0,0:05:50.59,0:05:54.66,1080P-shss-9k,,0,0,0,,{\blur4}但总是有事情要做 总是有事情要学
+Dialogue: 0,0:05:55.67,0:05:58.50,1080P-sgbd-4k,,0,0,0,,{\blur4}Still there's lots of fun stuff to see in this early version.
+Dialogue: 0,0:05:55.67,0:05:58.50,1080P-shss-9k,,0,0,0,,{\blur4}但在这个早期版本中 仍然有很多有趣的东西
+Dialogue: 0,0:05:58.54,0:06:00.89,1080P-sgbd-4k,,0,0,0,,{\blur4}First of all you'll notice the camera is shaking around.
+Dialogue: 0,0:05:58.54,0:06:00.89,1080P-shss-9k,,0,0,0,,{\blur4}首先 你会注意到相机在晃动
+Dialogue: 0,0:06:00.94,0:06:03.12,1080P-sgbd-4k,,0,0,0,,{\blur4}That's an early version of the Kraken
+Dialogue: 0,0:06:00.94,0:06:03.12,1080P-shss-9k,,0,0,0,,{\blur4}这是深空海妖的早期版本
+Dialogue: 0,0:06:03.38,0:06:07.56,1080P-sgbd-4k,,0,0,0,,{\blur4}where floating point math leads to all sorts of problems with noise and forces.
+Dialogue: 0,0:06:03.38,0:06:07.56,1080P-shss-9k,,0,0,0,,{\blur4}浮点数学导致了各种噪音和力的问题
+Dialogue: 0,0:06:08.04,0:06:12.52,1080P-sgbd-4k,,0,0,0,,{\blur4}The texture on the base of this command pod is a car wheel.
+Dialogue: 0,0:06:08.04,0:06:12.52,1080P-shss-9k,,0,0,0,,{\blur4}这个指挥舱底座上的贴图是一个车轮
+Dialogue: 0,0:06:12.57,0:06:16.95,1080P-sgbd-4k,,0,0,0,,{\blur4}You can actually see the inflation valve and what are these
+Dialogue: 0,0:06:12.57,0:06:16.95,1080P-shss-9k,,0,0,0,,{\blur4}你实际上可以看到车轮的充气阀
+Dialogue: 0,0:06:17.44,0:06:18.99,1080P-sgbd-4k,,0,0,0,,{\blur4}It's kind of hilarious.
+Dialogue: 0,0:06:17.44,0:06:18.99,1080P-shss-9k,,0,0,0,,{\blur4}这有点滑稽
+Dialogue: 0,0:06:19.22,0:06:24.49,1080P-sgbd-4k,,0,0,0,,{\blur4}The parachute design is practically the same as it is in the current version today.
+Dialogue: 0,0:06:19.22,0:06:24.49,1080P-shss-9k,,0,0,0,,{\blur4}早期版中降落伞的设计实际上和现在版本中的设计是一样的
+Dialogue: 0,0:06:24.66,0:06:27.30,1080P-sgbd-4k,,0,0,0,,{\blur4}Now that capsule disappeared from the game
+Dialogue: 0,0:06:24.66,0:06:27.30,1080P-shss-9k,,0,0,0,,{\blur4}现在 这个指令舱从游戏中消失了
+Dialogue: 0,0:06:27.37,0:06:31.70,1080P-sgbd-4k,,0,0,0,,{\blur4}because that when they added Kerbals as characters that could walk around
+Dialogue: 0,0:06:27.37,0:06:31.70,1080P-shss-9k,,0,0,0,,{\blur4}因为当他们为坎巴拉人添加了行走的功能后
+Dialogue: 0,0:06:31.70,0:06:35.32,1080P-sgbd-4k,,0,0,0,,{\blur4}they had to rescale all the parts and that turned out to be too small.
+Dialogue: 0,0:06:31.70,0:06:35.32,1080P-shss-9k,,0,0,0,,{\blur4}他们不得不重新调整所有部件的比例 最后他们发现指令舱太小了
+Dialogue: 0,0:06:35.67,0:06:39.94,1080P-sgbd-42,,0,0,0,,{\blur4}But the capsule still exists in the game if you know where to look
+Dialogue: 0,0:06:35.67,0:06:39.94,1080P-shss-90,,0,0,0,,{\blur4}但是 如果你知道去哪里找 你仍然能在游戏中找到它
+Dialogue: 0,0:06:39.95,0:06:44.77,1080P-sgbd-42,,0,0,0,,{\blur4}so this is actually the brand new version which was just released earlier this week.
+Dialogue: 0,0:06:39.95,0:06:44.77,1080P-shss-90,,0,0,0,,{\blur4}现在显示的实际上是本周初刚刚发布的最新版本
+Dialogue: 0,0:06:45.23,0:06:50.19,1080P-sgbd-42,,0,0,0,,{\blur4}The main thing that adds are firework launchers because it's the tenth anniversary.
+Dialogue: 0,0:06:45.23,0:06:50.19,1080P-shss-90,,0,0,0,,{\blur4}主要新加入的内容是烟花发射器 因为现在是十周年纪念日
+Dialogue: 0,0:06:50.22,0:06:53.96,1080P-sgbd-42,,0,0,0,,{\blur4}They add some new textures for some of the older planets.
+Dialogue: 0,0:06:50.22,0:06:53.96,1080P-shss-90,,0,0,0,,{\blur4}他们为一些旧的行星增加了新的材质贴图
+Dialogue: 0,0:06:54.20,0:06:56.41,1080P-sgbd-42,,0,0,0,,{\blur4}There's a few other items in here.
+Dialogue: 0,0:06:54.20,0:06:56.41,1080P-shss-90,,0,0,0,,{\blur4}这里面还有其他一些更新的内容
+Dialogue: 0,0:06:56.73,0:07:00.33,1080P-sgbd-42,,0,0,0,,{\blur4}The save and load manager is completely redesigned which is great
+Dialogue: 0,0:06:56.73,0:07:00.33,1080P-shss-90,,0,0,0,,{\blur4}保存和加载管理器被完全重新设计 这是非常好的
+Dialogue: 0,0:07:00.36,0:07:05.56,1080P-sgbd-42,,0,0,0,,{\blur4}because you you know you play the game for a long time you end up with a lot of different spacecraft.
+Dialogue: 0,0:07:00.36,0:07:05.56,1080P-shss-90,,0,0,0,,{\blur4}因为你知道 当你玩了很长时间的游戏后 你会有很多不同的航天器
+Dialogue: 0,0:07:05.76,0:07:08.46,1080P-sgbd-42,,0,0,0,,{\blur4}But this is one that is downloaded from Steam.
+Dialogue: 0,0:07:05.76,0:07:08.46,1080P-shss-90,,0,0,0,,{\blur4}但我现在画面中的这个是从Steam里下载的
+Dialogue: 0,0:07:08.73,0:07:13.44,1080P-sgbd-42,,0,0,0,,{\blur4}So yeah you can head out off the runway towards the vehicle assembly building
+Dialogue: 0,0:07:08.73,0:07:13.44,1080P-shss-90,,0,0,0,,{\blur4}所以是的 你可以从跑道出来 飞向飞行器组装大楼
+Dialogue: 0,0:07:13.54,0:07:19.38,1080P-sgbd-42,,0,0,0,,{\blur4}which is the big building in the middle of that massively redesigned Space Center right?
+Dialogue: 0,0:07:13.54,0:07:19.38,1080P-shss-90,,0,0,0,,{\blur4}就是那个在被大规模重新设计的太空中心中间的大建筑 对吗
+Dialogue: 0,0:07:20.03,0:07:25.26,1080P-sgbd-42,,0,0,0,,{\blur4}And just in front of it to the right of that little spherical tank.
+Dialogue: 0,0:07:20.03,0:07:25.26,1080P-shss-90,,0,0,0,,{\blur4}而就在它的前面 在那个小型球形燃料箱的右边
+Dialogue: 0,0:07:25.67,0:07:31.73,1080P-sgbd-42,,0,0,0,,{\blur4}There is a monument. A monument to the original Mark one part.
+Dialogue: 0,0:07:25.67,0:07:31.73,1080P-shss-90,,0,0,0,,{\blur4}那里有一个纪念碑 以纪念原来的1号部件
+Dialogue: 0,0:07:32.14,0:07:37.07,1080P-sgbd-42,,0,0,0,,{\blur4}Hewn out of solid stone which probably doesn't help with water recovery.
+Dialogue: 0,0:07:32.14,0:07:37.07,1080P-shss-90,,0,0,0,,{\blur4}指令舱由坚硬的石头雕刻而成 这可能对水上回收没什么好处
+Dialogue: 0,0:07:37.53,0:07:40.86,1080P-sgbd-42,,0,0,0,,{\blur4}And a couple of hundred kilometers north of the desert launch site
+Dialogue: 0,0:07:37.53,0:07:40.86,1080P-shss-90,,0,0,0,,{\blur4}接着 在沙漠发射场以北几百公里的地方
+Dialogue: 0,0:07:40.87,0:07:43.25,1080P-sgbd-4p,,0,0,0,,{\blur4}there is a small hidden valley.
+Dialogue: 0,0:07:40.87,0:07:43.25,1080P-shss-9p,,0,0,0,,{\blur4}有一个隐秘的小山谷
+Dialogue: 0,0:07:43.28,0:07:46.98,1080P-sgbd-4p,,0,0,0,,{\blur4}And inside that there is the old version of the launch site.
+Dialogue: 0,0:07:43.28,0:07:46.98,1080P-shss-9p,,0,0,0,,{\blur4}而在那里面有旧版的发射场
+Dialogue: 0,0:07:47.01,0:07:50.63,1080P-sgbd-4p,,0,0,0,,{\blur4}Although the graphics have been upgraded just a little bit
+Dialogue: 0,0:07:47.01,0:07:50.63,1080P-shss-9p,,0,0,0,,{\blur4}虽然它的图像已经被升级了一点点
+Dialogue: 0,0:07:50.66,0:07:54.10,1080P-sgbd-4p,,0,0,0,,{\blur4}to bring them up to date with the rest of the game.
+Dialogue: 0,0:07:50.66,0:07:54.10,1080P-shss-9p,,0,0,0,,{\blur4}以使其与游戏的其他部分保持同步
+Dialogue: 0,0:07:54.55,0:07:56.05,1080P-sgbd-4p,,0,0,0,,{\blur4}But now in the new release
+Dialogue: 0,0:07:54.55,0:07:56.05,1080P-shss-9p,,0,0,0,,{\blur4}但现在在新版本中
+Dialogue: 0,0:07:56.18,0:08:00.72,1080P-sgbd-4p,,0,0,0,,{\blur4}there are a number of other launch sites which have been added around Kerbin
+Dialogue: 0,0:07:56.18,0:08:00.72,1080P-shss-9p,,0,0,0,,{\blur4}在坎星上还增加了一些其他的发射场
+Dialogue: 0,0:08:00.74,0:08:04.19,1080P-sgbd-4p,,0,0,0,,{\blur4}and these are sort of easter eggs that you have to find
+Dialogue: 0,0:08:00.74,0:08:04.19,1080P-shss-9p,,0,0,0,,{\blur4}这些发射场有点像是彩蛋 你必须找到它们
+Dialogue: 0,0:08:04.22,0:08:07.83,1080P-sgbd-4p,,0,0,0,,{\blur4}and of course thankfully there's some mods to help you out with this.
+Dialogue: 0,0:08:04.22,0:08:07.83,1080P-shss-9p,,0,0,0,,{\blur4}当然 值得庆幸的是 有一些模组可以帮助你解决这些问题
+Dialogue: 0,0:08:08.10,0:08:11.02,1080P-sgbd-4p,,0,0,0,,{\blur4}So this is one that's actually pretty near to the launch site.
+Dialogue: 0,0:08:08.10,0:08:11.02,1080P-shss-9p,,0,0,0,,{\blur4}所以 这个发射场在一个离原先发射场很近的地方
+Dialogue: 0,0:08:11.39,0:08:14.38,1080P-sgbd-4p,,0,0,0,,{\blur4}You fly up to it and you get this message at the top telling you
+Dialogue: 0,0:08:11.39,0:08:14.38,1080P-shss-9p,,0,0,0,,{\blur4}你飞到它面前 然后你会在画面上面看到这个信息 告诉你
+Dialogue: 0,0:08:14.46,0:08:16.59,1080P-sgbd-4p,,0,0,0,,{\blur4}you have unlocked it in the game.
+Dialogue: 0,0:08:14.46,0:08:16.59,1080P-shss-9p,,0,0,0,,{\blur4}你已经在游戏中解锁了它
+Dialogue: 0,0:08:16.72,0:08:18.23,1080P-sgbd-4p,,0,0,0,,{\blur4}The great thing about this one
+Dialogue: 0,0:08:16.72,0:08:18.23,1080P-shss-9p,,0,0,0,,{\blur4}这个发射场最棒的地方是
+Dialogue: 0,0:08:18.28,0:08:23.46,1080P-sgbd-4p,,0,0,0,,{\blur4}which is just north of launch site is that it has a ramp that goes into the water.
+Dialogue: 0,0:08:18.28,0:08:23.46,1080P-shss-9p,,0,0,0,,{\blur4}就在发射场的北面的那个 它有一个没入水中的斜坡
+Dialogue: 0,0:08:23.62,0:08:27.70,1080P-sgbd-4p,,0,0,0,,{\blur4}Finally in well the final major release of the game
+Dialogue: 0,0:08:23.62,0:08:27.70,1080P-shss-9p,,0,0,0,,{\blur4}终于 在游戏的最后一个主要版本中
+Dialogue: 0,0:08:27.81,0:08:30.56,1080P-sgbd-4p,,0,0,0,,{\blur4}we get official support for boats.
+Dialogue: 0,0:08:27.81,0:08:30.56,1080P-shss-9p,,0,0,0,,{\blur4}我们得到了官方对船只的正式支持
+Dialogue: 0,0:08:30.58,0:08:34.25,1080P-sgbd-4p,,0,0,0,,{\blur4}you don't have to fly them out to sea and drop them in the water anymore.
+Dialogue: 0,0:08:30.58,0:08:34.25,1080P-shss-9p,,0,0,0,,{\blur4}你不必再把它们飞到海上 然后让它们落进水里
+Dialogue: 0,0:08:34.26,0:08:38.89,1080P-sgbd-4p,,0,0,0,,{\blur4}You can just slide them down the slipway and make them look like real ships.
+Dialogue: 0,0:08:34.26,0:08:38.89,1080P-shss-9p,,0,0,0,,{\blur4}你可以直接让它们从滑道上滑下来 让它们看起来像真的船一样
+Dialogue: 0,0:08:39.56,0:08:42.92,1080P-sgbd-4p,,0,0,0,,{\blur4}There are a few other easter eggs have been added in the final release.
+Dialogue: 0,0:08:39.56,0:08:42.92,1080P-shss-9p,,0,0,0,,{\blur4}最终的版本中还添加了其他一些彩蛋
+Dialogue: 0,0:08:42.93,0:08:45.73,1080P-sgbd-4p,,0,0,0,,{\blur4}Here's one that was made on Kerbin by Kerbals.
+Dialogue: 0,0:08:42.93,0:08:45.73,1080P-shss-9p,,0,0,0,,{\blur4}这里有一个 由坎星人在坎星制造
+Dialogue: 0,0:08:45.99,0:08:49.66,1080P-sgbd-4p,,0,0,0,,{\blur4}And here's me having a bit of an oopsy with opportunity.
+Dialogue: 0,0:08:45.99,0:08:49.66,1080P-shss-9p,,0,0,0,,{\blur4}这是我用机遇号制造的一起小事故
+Dialogue: 0,0:08:50.01,0:08:52.34,1080P-sgbd-4k,,0,0,0,,{\blur4}But beyond the easter eggs and the fireworks
+Dialogue: 0,0:08:50.01,0:08:52.34,1080P-shss-9k,,0,0,0,,{\blur4}但除了彩蛋和烟火
+Dialogue: 0,0:08:52.37,0:08:57.02,1080P-sgbd-4k,,0,0,0,,{\blur4}there is some actual gameplay changes which are really good especially for new players.
+Dialogue: 0,0:08:52.37,0:08:57.02,1080P-shss-9k,,0,0,0,,{\blur4}游戏玩法还有一些变化 这点特别是对新玩家来说真的很好
+Dialogue: 0,0:08:57.07,0:08:59.29,1080P-sgbd-4k,,0,0,0,,{\blur4}So there's something called the maneuver tool
+Dialogue: 0,0:08:57.07,0:08:59.29,1080P-shss-9k,,0,0,0,,{\blur4}所以 游戏中新增了一种叫做机动工具的东西
+Dialogue: 0,0:08:59.29,0:09:04.78,1080P-sgbd-4k,,0,0,0,,{\blur4}and the maneuver tool is here to help you plot courses to planets and the moons and everything.
+Dialogue: 0,0:08:59.29,0:09:04.78,1080P-shss-9k,,0,0,0,,{\blur4}机动工具是用来帮助你规划前往行星 卫星这类地方的路线的
+Dialogue: 0,0:09:04.80,0:09:08.37,1080P-sgbd-4k,,0,0,0,,{\blur4}So you select your target it does some computation.
+Dialogue: 0,0:09:04.80,0:09:08.37,1080P-shss-9k,,0,0,0,,{\blur4}所以你选择你要前往的目标 它会进行一些计算
+Dialogue: 0,0:09:08.42,0:09:09.30,1080P-sgbd-4k,,0,0,0,,{\blur4}You can create a node.
+Dialogue: 0,0:09:08.42,0:09:09.30,1080P-shss-9k,,0,0,0,,{\blur4}之后你可以创建一个节点
+Dialogue: 0,0:09:09.33,0:09:15.02,1080P-sgbd-4k,,0,0,0,,{\blur4}So if I want to go to the asteroid in the middle of asteroid belt called Dres, it's done the math.
+Dialogue: 0,0:09:09.33,0:09:15.02,1080P-shss-9k,,0,0,0,,{\blur4}所以 如果我想去小行星带中一个叫Dres的小行星 它已经做了计算
+Dialogue: 0,0:09:15.02,0:09:19.12,1080P-sgbd-4k,,0,0,0,,{\blur4}It told me that the next maneuver is in 116 days.
+Dialogue: 0,0:09:15.02,0:09:19.12,1080P-shss-9k,,0,0,0,,{\blur4}它告诉我 下一次机动是在116天后
+Dialogue: 0,0:09:19.76,0:09:23.37,1080P-sgbd-4k,,0,0,0,,{\blur4}You'll take 1.5 kilometers per second of Delta V to escape.
+Dialogue: 0,0:09:19.76,0:09:23.37,1080P-shss-9k,,0,0,0,,{\blur4}你要消耗1.5公里每秒的DV来逃逸
+Dialogue: 0,0:09:23.37,0:09:26.58,1080P-sgbd-4k,,0,0,0,,{\blur4}And 1.75 to arrive so I create it
+Dialogue: 0,0:09:23.37,0:09:26.58,1080P-shss-9k,,0,0,0,,{\blur4}并最终消耗1.75公里每秒的DV到达 现在我创建了节点
+Dialogue: 0,0:09:26.89,0:09:29.17,1080P-sgbd-4k,,0,0,0,,{\blur4}and look it's gone and created that for me.
+Dialogue: 0,0:09:26.89,0:09:29.17,1080P-shss-9k,,0,0,0,,{\blur4}看 它已经完成了计算 并为我创建了节点
+Dialogue: 0,0:09:29.19,0:09:34.70,1080P-sgbd-4k,,0,0,0,,{\blur4}it's created a node and I can actually run a count down to that and perform the maneuver.
+Dialogue: 0,0:09:29.19,0:09:34.70,1080P-shss-9k,,0,0,0,,{\blur4}它已经创建了一个节点 我可以把时间加速到那个时候 然后执行机动
+Dialogue: 0,0:09:35.08,0:09:38.82,1080P-sgbd-4k,,0,0,0,,{\blur4}It will also create an alarm clock, a scheduling system
+Dialogue: 0,0:09:35.08,0:09:38.82,1080P-shss-9k,,0,0,0,,{\blur4}它还会创建一个闹钟 一个任务安排系统
+Dialogue: 0,0:09:38.86,0:09:42.39,1080P-sgbd-4k,,0,0,0,,{\blur4}so that if you have other missions doing other things
+Dialogue: 0,0:09:38.86,0:09:42.39,1080P-shss-9k,,0,0,0,,{\blur4}这样 如果你有正在做其他事情的任务
+Dialogue: 0,0:09:42.42,0:09:45.64,1080P-sgbd-4k,,0,0,0,,{\blur4}it will remind you when you have maneuvers that you need to do
+Dialogue: 0,0:09:42.42,0:09:45.64,1080P-shss-9k,,0,0,0,,{\blur4}它将提醒你什么时候需要进行机动操作
+Dialogue: 0,0:09:45.68,0:09:48.82,1080P-sgbd-4k,,0,0,0,,{\blur4}so this is these are features are been in mods for a long time
+Dialogue: 0,0:09:45.68,0:09:48.82,1080P-shss-9k,,0,0,0,,{\blur4}这些功能在模组中已经有了很长时间
+Dialogue: 0,0:09:48.87,0:09:51.07,1080P-sgbd-4k,,0,0,0,,{\blur4}but it's nice to see them in the core game.
+Dialogue: 0,0:09:48.87,0:09:51.07,1080P-shss-9k,,0,0,0,,{\blur4}但还是很高兴在游戏主体中看到它们
+Dialogue: 0,0:09:51.62,0:09:54.70,1080P-sgbd-4k,,0,0,0,,{\blur4}Of course the game is still entirely manual control.
+Dialogue: 0,0:09:51.62,0:09:54.70,1080P-shss-9k,,0,0,0,,{\blur4}当然 游戏仍然是完全手动控制
+Dialogue: 0,0:09:54.72,0:09:56.06,1080P-sgbd-4k,,0,0,0,,{\blur4}There's no autopilot.
+Dialogue: 0,0:09:54.72,0:09:56.06,1080P-shss-9k,,0,0,0,,{\blur4}没有自动驾驶
+Dialogue: 0,0:09:56.39,0:10:01.31,1080P-sgbd-4k,,0,0,0,,{\blur4}This is just telling you when to fire your engines in what direction to fire them in.
+Dialogue: 0,0:09:56.39,0:10:01.31,1080P-shss-9k,,0,0,0,,{\blur4}这个工具只是告诉你什么时候进行发动机点火 向什么方向点火
+Dialogue: 0,0:10:01.56,0:10:04.46,1080P-sgbd-4k,,0,0,0,,{\blur4}And even then it still doesn't work for a lot of maneuvers.
+Dialogue: 0,0:10:01.56,0:10:04.46,1080P-shss-9k,,0,0,0,,{\blur4}即使如此 它仍然无法执行许多机动
+Dialogue: 0,0:10:04.50,0:10:08.23,1080P-sgbd-4k,,0,0,0,,{\blur4}These are just for basic transfer maneuvers from circular orbits
+Dialogue: 0,0:10:04.50,0:10:08.23,1080P-shss-9k,,0,0,0,,{\blur4}它只能用于从圆形轨道的基本转移机动
+Dialogue: 0,0:10:08.53,0:10:11.34,1080P-sgbd-4k,,0,0,0,,{\blur4}around one planet to a circular orbit on another.
+Dialogue: 0,0:10:08.53,0:10:11.34,1080P-shss-9k,,0,0,0,,{\blur4}从围绕一个星球的圆形轨道转移到另一个星球的圆形轨道
+Dialogue: 0,0:10:11.57,0:10:14.71,1080P-sgbd-4k,,0,0,0,,{\blur4}If you're in deep space then you might not be able to use it.
+Dialogue: 0,0:10:11.57,0:10:14.71,1080P-shss-9k,,0,0,0,,{\blur4}如果你在深空 那么你可能无法使用它
+Dialogue: 0,0:10:15.07,0:10:17.58,1080P-sgbd-4k,,0,0,0,,{\blur4}And the latest release brings a few new parts.
+Dialogue: 0,0:10:15.07,0:10:17.58,1080P-shss-9k,,0,0,0,,{\blur4}而且最新的版本还带来了一些新的部件
+Dialogue: 0,0:10:17.77,0:10:21.74,1080P-sgbd-4k,,0,0,0,,{\blur4}In the very first release of Kerbal Space Program there were eleven different parts.
+Dialogue: 0,0:10:17.77,0:10:21.57,1080P-shss-9k,,0,0,0,,{\blur4}在坎巴拉太空计划的第一个版本中 只有11个不同的部件
+Dialogue: 0,0:10:21.74,0:10:24.00,1080P-sgbd-4k,,0,0,0,,{\blur4}Now there's over 400.
+Dialogue: 0,0:10:21.74,0:10:24.00,1080P-shss-9k,,0,0,0,,{\blur4}而现在则有超过400个部件
+Dialogue: 0,0:10:24.23,0:10:27.40,1080P-sgbd-4k,,0,0,0,,{\blur4}This release brings four new types of solar panels.
+Dialogue: 0,0:10:24.23,0:10:27.40,1080P-shss-9k,,0,0,0,,{\blur4}这次更新还带来了四种新的太阳能电池板
+Dialogue: 0,0:10:27.43,0:10:28.78,1080P-sgbd-42,,0,0,0,,{\blur4}These are some of them.
+Dialogue: 0,0:10:27.43,0:10:28.78,1080P-shss-90,,0,0,0,,{\blur4}这些是其中的一些
+Dialogue: 0,0:10:28.96,0:10:31.34,1080P-sgbd-42,,0,0,0,,{\blur4}There's the circular design on solar panels.
+Dialogue: 0,0:10:28.96,0:10:31.34,1080P-shss-90,,0,0,0,,{\blur4}这之中有圆形设计的太阳能电池板
+Dialogue: 0,0:10:31.37,0:10:34.80,1080P-sgbd-42,,0,0,0,,{\blur4}So you have basically four types of solar panels are now added.
+Dialogue: 0,0:10:31.37,0:10:34.80,1080P-shss-90,,0,0,0,,{\blur4}所以你基本上有四种新添加的太阳能电池板
+Dialogue: 0,0:10:35.17,0:10:38.13,1080P-sgbd-42,,0,0,0,,{\blur4}And the docking ports have been completely redesigned
+Dialogue: 0,0:10:35.17,0:10:38.13,1080P-shss-90,,0,0,0,,{\blur4}而且 对接端口已经被完全重新设计了
+Dialogue: 0,0:10:38.15,0:10:42.06,1080P-sgbd-42,,0,0,0,,{\blur4}and they now feature the ability to provide some inline rotation
+Dialogue: 0,0:10:38.15,0:10:42.06,1080P-shss-90,,0,0,0,,{\blur4}它们现在能够提供一些轴向旋转的能力
+Dialogue: 0,0:10:42.11,0:10:44.18,1080P-sgbd-42,,0,0,0,,{\blur4}to make sure your parts are aligning correctly.
+Dialogue: 0,0:10:42.11,0:10:44.18,1080P-shss-90,,0,0,0,,{\blur4}以确保你的部件能正确对齐
+Dialogue: 0,0:10:44.89,0:10:49.18,1080P-sgbd-42,,0,0,0,,{\blur4}One item though that didn't make it into release was the stamp-o-tron ground anchor.
+Dialogue: 0,0:10:44.89,0:10:49.18,1080P-shss-90,,0,0,0,,{\blur4}不过 有一个部件没有发布 那就是纵向印戳地锚
+Dialogue: 0,0:10:49.18,0:10:53.05,1080P-sgbd-42,,0,0,0,,{\blur4}People wanted ways to anchor their hardware onto a planet's surface.
+Dialogue: 0,0:10:49.18,0:10:53.05,1080P-shss-90,,0,0,0,,{\blur4}人们希望有办法能将他们的部件固定在星球的表面上
+Dialogue: 0,0:10:53.10,0:10:54.70,1080P-sgbd-42,,0,0,0,,{\blur4}They had all sorts of cool ideas for it.
+Dialogue: 0,0:10:53.10,0:10:54.70,1080P-shss-90,,0,0,0,,{\blur4}对此 他们有各种很酷的想法
+Dialogue: 0,0:10:54.71,0:10:59.16,1080P-sgbd-42,,0,0,0,,{\blur4}Unfortunately during testing was found that it kept on coming unstuck.
+Dialogue: 0,0:10:54.71,0:10:59.16,1080P-shss-90,,0,0,0,,{\blur4}但不幸的是 在测试过程中 他们发现它一直无法卡住地面
+Dialogue: 0,0:10:59.47,0:11:05.73,1080P-sgbd-4p,,0,0,0,,{\blur4}and so that means that the final release of Kerbal Space Program isn't actually the final release.
+Dialogue: 0,0:10:59.47,0:11:05.73,1080P-shss-9p,,0,0,0,,{\blur4}因此 这意味着坎巴拉太空计划发布的最终版本实际上并不是最终版本
+Dialogue: 0,0:11:05.76,0:11:11.13,1080P-sgbd-4p,,0,0,0,,{\blur4}There's definitely going to be a 1.12.1 release at some point in the future.
+Dialogue: 0,0:11:05.76,0:11:11.13,1080P-shss-9p,,0,0,0,,{\blur4}在未来的某个时间点 肯定会发布一个1.12.1版本
+Dialogue: 0,0:11:11.14,0:11:16.54,1080P-sgbd-4p,,0,0,0,,{\blur4}And that will fix a few things that will probably add a few other bits and pieces that were missed
+Dialogue: 0,0:11:11.14,0:11:16.54,1080P-shss-9p,,0,0,0,,{\blur4}那个版本将会修复一些问题 并可能增加其他一些被遗漏的部分
+Dialogue: 0,0:11:16.84,0:11:22.34,1080P-sgbd-4p,,0,0,0,,{\blur4}and you know what you might be wondering what happens to the team behind Kerbal Space Program.
+Dialogue: 0,0:11:16.84,0:11:22.34,1080P-shss-9p,,0,0,0,,{\blur4}你知道吗 你可能会想知道坎巴拉太空计划背后的团队发生了什么
+Dialogue: 0,0:11:22.42,0:11:24.19,1080P-sgbd-4p,,0,0,0,,{\blur4}What they're going to be doing from now on.
+Dialogue: 0,0:11:22.42,0:11:24.19,1080P-shss-9p,,0,0,0,,{\blur4}他们从现在开始将会去做什么
+Dialogue: 0,0:11:24.50,0:11:26.89,1080P-sgbd-4p,,0,0,0,,{\blur4}Well there can be working on Kerbal Space Program 2.
+Dialogue: 0,0:11:24.50,0:11:26.89,1080P-shss-9p,,0,0,0,,{\blur4}其实 他们有可能会在坎巴拉太空计划2上工作
+Dialogue: 0,0:11:26.91,0:11:31.49,1080P-sgbd-4p,,0,0,0,,{\blur4}There is another team that has been working on that game for several years
+Dialogue: 0,0:11:26.91,0:11:31.49,1080P-shss-9p,,0,0,0,,{\blur4}已经有另一个团队已经在那个游戏上工作了好几年
+Dialogue: 0,0:11:31.89,0:11:35.82,1080P-sgbd-4p,,0,0,0,,{\blur4}but it has had this released date pushed back by 2 years
+Dialogue: 0,0:11:31.89,0:11:35.82,1080P-shss-9p,,0,0,0,,{\blur4}但它的发布日期被延后了两年
+Dialogue: 0,0:11:35.85,0:11:37.18,1080P-sgbd-4k,,0,0,0,,{\blur4}and frankly I'm okay with that
+Dialogue: 0,0:11:35.85,0:11:37.18,1080P-shss-9k,,0,0,0,,{\blur4}坦率地说 我对此并不反对
+Dialogue: 0,0:11:37.19,0:11:39.32,1080P-sgbd-4k,,0,0,0,,{\blur4}because I prefer them to deliver a product
+Dialogue: 0,0:11:37.19,0:11:39.32,1080P-shss-9k,,0,0,0,,{\blur4}因为我更希望他们提供的产品
+Dialogue: 0,0:11:39.56,0:11:43.12,1080P-sgbd-4k,,0,0,0,,{\blur4}which captures everything that is great about Kerbal Space Program.
+Dialogue: 0,0:11:39.56,0:11:43.12,1080P-shss-9k,,0,0,0,,{\blur4}能涵盖到坎巴拉太空计划的所有优点
+Dialogue: 0,0:11:43.81,0:11:48.15,1080P-sgbd-4k,,0,0,0,,{\blur4}Now I could go on and on about how important Kerbal Space Program has been
+Dialogue: 0,0:11:43.81,0:11:48.15,1080P-shss-9k,,0,0,0,,{\blur4}现在我可以继续讲 坎巴拉太空计划有多么重要
+Dialogue: 0,0:11:48.21,0:11:51.15,1080P-sgbd-4k,,0,0,0,,{\blur4}how it's such a your powerful educational tool
+Dialogue: 0,0:11:48.21,0:11:51.15,1080P-shss-9k,,0,0,0,,{\blur4}它怎样是如此强大的教育工具
+Dialogue: 0,0:11:51.18,0:11:52.88,1080P-sgbd-4k,,0,0,0,,{\blur4}how it has inspired many people.
+Dialogue: 0,0:11:51.18,0:11:52.88,1080P-shss-9k,,0,0,0,,{\blur4}它是如何启发了许多人
+Dialogue: 0,0:11:53.28,0:11:54.77,1080P-sgbd-4k,,0,0,0,,{\blur4}But I am just one person.
+Dialogue: 0,0:11:53.28,0:11:54.77,1080P-shss-9k,,0,0,0,,{\blur4}但这样只会是我的一家之言
+Dialogue: 0,0:11:54.94,0:12:00.07,1080P-sgbd-4k,,0,0,0,,{\blur4}And over at the official channel they've actually got a many documentary called The Kerbal Effect
+Dialogue: 0,0:11:54.94,0:12:00.07,1080P-shss-9k,,0,0,0,,{\blur4}而在他们官方频道上 他们实际上有许多部名为坎巴拉效应的纪录片
+Dialogue: 0,0:12:00.13,0:12:03.92,1080P-sgbd-4k,,0,0,0,,{\blur4}that interviews people from NASA, European Space Agency
+Dialogue: 0,0:12:00.13,0:12:03.92,1080P-shss-9k,,0,0,0,,{\blur4}片中采访了来自NASA和ESA的人
+Dialogue: 0,0:12:04.02,0:12:07.73,1080P-sgbd-4k,,0,0,0,,{\blur4}amateur rocketry of aficionados
+Dialogue: 0,0:12:04.02,0:12:07.73,1080P-shss-9k,,0,0,0,,{\blur4}业余火箭技术爱好者
+Dialogue: 0,0:12:08.02,0:12:11.38,1080P-sgbd-4k,,0,0,0,,{\blur4}the CEO of the United Launch Alliance.
+Dialogue: 0,0:12:08.02,0:12:11.38,1080P-shss-9k,,0,0,0,,{\blur4}ULA的首席执行官
+Dialogue: 0,0:12:12.18,0:12:19.02,1080P-sgbd-4k,,0,0,0,,{\blur4}Basically people who are absolutely qualified talk about space and rocket science because that is their job.
+Dialogue: 0,0:12:12.18,0:12:19.02,1080P-shss-9k,,0,0,0,,{\blur4}基本上是那些绝对有资格谈太空和火箭科学的人 因为那是他们的工作
+Dialogue: 0,0:12:19.53,0:12:25.03,1080P-sgbd-4k,,0,0,0,,{\blur4}And for Kerbal Space Program we've had ten amazing years of development and updates.
+Dialogue: 0,0:12:19.53,0:12:25.03,1080P-shss-9k,,0,0,0,,{\blur4}对于坎巴拉太空计划 我们已经有了十年惊人的发展和更新
+Dialogue: 0,0:12:25.06,0:12:26.95,1080P-sgbd-4k,,0,0,0,,{\blur4}But I don't think the story ends here.
+Dialogue: 0,0:12:25.06,0:12:26.95,1080P-shss-9k,,0,0,0,,{\blur4}但我不认为它的故事会到此结束
+Dialogue: 0,0:12:26.97,0:12:30.43,1080P-sgbd-4k,,0,0,0,,{\blur4}Or first of all there is one more update coming at least
+Dialogue: 0,0:12:26.97,0:12:30.43,1080P-shss-9k,,0,0,0,,{\blur4}或者说 首先 至少还有一次版本的更新
+Dialogue: 0,0:12:30.62,0:12:36.81,1080P-sgbd-4k,,0,0,0,,{\blur4}and I think now that we're seeing a fixed version to work against.
+Dialogue: 0,0:12:30.62,0:12:36.81,1080P-shss-9k,,0,0,0,,{\blur4}我认为现在我们看到的是一个可以基于开发的固定版本
+Dialogue: 0,0:12:37.21,0:12:40.96,1080P-sgbd-4k,,0,0,0,,{\blur4}The mod developers will finally update all their mods
+Dialogue: 0,0:12:37.21,0:12:40.96,1080P-shss-9k,,0,0,0,,{\blur4}模组开发者会最后更新他们所有的模组
+Dialogue: 0,0:12:41.01,0:12:46.10,1080P-sgbd-4k,,0,0,0,,{\blur4}and we will have a glorious future of Kerbal Space Program forever.
+Dialogue: 0,0:12:41.01,0:12:46.10,1080P-shss-9k,,0,0,0,,{\blur4}而我们将会永远拥有坎巴拉太空计划美好的未来
+Dialogue: 0,0:12:46.45,0:12:49.17,1080P-sgbd-4k,,0,0,0,,{\blur4}I'm Scott Manly. Fly safe.
+Dialogue: 0,0:12:46.45,0:12:49.17,1080P-shss-9k,,0,0,0,,{\blur4}我是Scott Manly 切记 注意飞行安全
