@@ -22,14 +22,14 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.16,0:00:06.00,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.16,0:00:06.00,1080P-shss-90,,0,0,0,,你好 我是斯科特-曼利
-Dialogue: 0,0:00:06.00,0:00:10.16,1080P-sgbd-42,,0,0,0,,Today I want to talk to you about a little bit of local history for me.
+Dialogue: 0,0:00:06.00,0:00:10.16,1080P-sgbd-42,,0,0,0,,Today I want to talk to you about a little bit of local history form me.
 Dialogue: 0,0:00:06.00,0:00:10.16,1080P-shss-90,,0,0,0,,今天我想和你们谈谈我的一段地方历史
 Dialogue: 0,0:00:10.20,0:00:15.64,1080P-sgbd-42,,0,0,0,,And well it's linked to the US space program of the 1960s and 1970s
 Dialogue: 0,0:00:10.20,0:00:15.64,1080P-shss-90,,0,0,0,,它与美国20世纪60年代和70年代的太空计划有关
 Dialogue: 0,0:00:15.68,0:00:20.16,1080P-sgbd-42,,0,0,0,,so I occasionally go kayaking out of a place in Sausalito
 Dialogue: 0,0:00:15.68,0:00:20.16,1080P-shss-90,,0,0,0,,所以我偶尔会去索萨利托的一个地方划皮划艇
-Dialogue: 0,0:00:20.16,0:00:23.90,1080P-sgbd-42,,0,0,0,,and in that area there's a building that's currently being destroyed(restored)
-Dialogue: 0,0:00:20.16,0:00:23.90,1080P-shss-90,,0,0,0,,在那个地方 有一座建筑目前正在被摧毁（修复）
+Dialogue: 0,0:00:20.16,0:00:23.90,1080P-sgbd-42,,0,0,0,,and in that area there's a building that's currently been destroyed
+Dialogue: 0,0:00:20.16,0:00:23.90,1080P-shss-90,,0,0,0,,在那个地方 有一座被摧毁了的建筑
 Dialogue: 0,0:00:23.93,0:00:26.00,1080P-sgbd-42,,0,0,0,,and on the side it says machine shop.
 Dialogue: 0,0:00:23.93,0:00:26.00,1080P-shss-90,,0,0,0,,边上写着机械车间
 Dialogue: 0,0:00:26.00,0:00:33.41,1080P-sgbd-42,,0,0,0,,It was well the machine shop for the Marine shipbuilding division of W. A. Bechtel company
@@ -49,27 +49,27 @@ Dialogue: 0,0:00:55.26,0:00:59.47,1080P-shss-90,,0,0,0,,但在20世纪60年代 �
 Dialogue: 0,0:00:59.48,0:01:02.45,1080P-sgbd-42,,0,0,0,,and rebuilt as tracking ships for the Apollo program.
 Dialogue: 0,0:00:59.48,0:01:02.45,1080P-shss-90,,0,0,0,,并被重建为阿波罗计划的追踪船
 Dialogue: 0,0:01:02.88,0:01:07.26,1080P-sgbd-42,,0,0,0,,And these would become the USNS Redstone Vanguard and Mercury
-Dialogue: 0,0:01:02.88,0:01:07.26,1080P-shss-90,,0,0,0,,这些船将成为美国海军红石号先锋号和水星号
+Dialogue: 0,0:01:02.88,0:01:07.26,1080P-shss-90,,0,0,0,,这些船将成为美国海军红石号 先锋号 和水星号
 Dialogue: 0,0:01:07.65,0:01:11.40,1080P-sgbd-42,,0,0,0,,but they weren't the first ships the US built to track rockets.
 Dialogue: 0,0:01:07.65,0:01:11.40,1080P-shss-90,,0,0,0,,但它们并不是美国建造的第一艘用于追踪火箭的船只
 Dialogue: 0,0:01:11.95,0:01:16.50,1080P-sgbd-42,,0,0,0,,So the US has operated tracking ships for rockets since like 1950.
-Dialogue: 0,0:01:11.95,0:01:16.50,1080P-shss-90,,0,0,0,,因此 美国从1950年起就开始运营追踪火箭的船只
+Dialogue: 0,0:01:11.95,0:01:16.50,1080P-shss-90,,0,0,0,,其实 美国从1950年起就开始使用追踪火箭的船只
 Dialogue: 0,0:01:16.55,0:01:20.66,1080P-sgbd-42,,0,0,0,,This was the bumper test of the V2 where there were sub-orbital launches
-Dialogue: 0,0:01:16.55,0:01:20.66,1080P-shss-90,,0,0,0,,这是V2的大丰收测试 有亚轨道发射
+Dialogue: 0,0:01:16.55,0:01:20.66,1080P-shss-90,,0,0,0,,在V2的保险测试时进行了亚轨道发射
 Dialogue: 0,0:01:21.20,0:01:23.47,1080P-sgbd-42,,0,0,0,,and they flew these over the Atlantic
-Dialogue: 0,0:01:21.20,0:01:23.47,1080P-shss-90,,0,0,0,,他们把这些东西飞过大西洋
+Dialogue: 0,0:01:21.20,0:01:23.47,1080P-shss-90,,0,0,0,,他们让这些东西飞过大西洋
 Dialogue: 0,0:01:23.48,0:01:26.35,1080P-sgbd-42,,0,0,0,,so to track them they borrowed a pair of destroyers
 Dialogue: 0,0:01:23.48,0:01:26.35,1080P-shss-90,,0,0,0,,所以为了追踪它们 他们借了一对驱逐舰
 Dialogue: 0,0:01:26.37,0:01:32.58,1080P-sgbd-42,,0,0,0,,and they pretty much used their like fire control radar and optical systems to track the hardware.
 Dialogue: 0,0:01:26.37,0:01:32.58,1080P-shss-90,,0,0,0,,他们几乎是用他们的火控雷达和光学系统来追踪这些硬件
 Dialogue: 0,0:01:33.36,0:01:37.75,1080P-sgbd-42,,0,0,0,,But the first time the dedicated set of tracking ships were stood up
-Dialogue: 0,0:01:33.36,0:01:37.75,1080P-shss-90,,0,0,0,,但是 第一次建立专门的跟踪船是为了开发 "斯纳克 "号
+Dialogue: 0,0:01:33.36,0:01:37.75,1080P-shss-90,,0,0,0,,但是 第一次建立专用的跟踪船
 Dialogue: 0,0:01:37.75,0:01:40.85,1080P-sgbd-42,,0,0,0,,was for the development of the Snark cruise missile
 Dialogue: 0,0:01:37.75,0:01:40.85,1080P-shss-90,,0,0,0,,是为了开发 "斯纳克 "巡航导弹
 Dialogue: 0,0:01:40.87,0:01:45.26,1080P-sgbd-42,,0,0,0,,so this was a cruise missile that would have a range of about 5500 miles.
 Dialogue: 0,0:01:40.87,0:01:45.26,1080P-shss-90,,0,0,0,,所以这是一种巡航导弹 射程约为5500英里
 Dialogue: 0,0:01:45.78,0:01:50.42,1080P-sgbd-42,,0,0,0,,And in the testing it would carry it over thousands of miles of the Atlantic ocean
-Dialogue: 0,0:01:45.78,0:01:50.42,1080P-shss-90,,0,0,0,,在测试中 它将带着它穿越数千英里的大西洋
+Dialogue: 0,0:01:45.78,0:01:50.42,1080P-shss-90,,0,0,0,,在测试中 它将穿越数千英里的大西洋
 Dialogue: 0,0:01:50.46,0:01:53.46,1080P-sgbd-42,,0,0,0,,before it reached final target tracking station.
 Dialogue: 0,0:01:50.46,0:01:53.46,1080P-shss-90,,0,0,0,,然后才到达最终的目标跟踪站
 Dialogue: 0,0:01:53.84,0:01:58.30,1080P-sgbd-42,,0,0,0,,Now if anything went wrong in that thousands of miles of empty no ocean
@@ -77,11 +77,11 @@ Dialogue: 0,0:01:53.84,0:01:58.30,1080P-shss-90,,0,0,0,,现在 如果在这几�
 Dialogue: 0,0:01:58.58,0:02:02.71,1080P-sgbd-42,,0,0,0,,they would have had a very hard time to figure out what really went on there.
 Dialogue: 0,0:01:58.58,0:02:02.71,1080P-shss-90,,0,0,0,,他们将很难弄清那里到底发生了什么
 Dialogue: 0,0:02:03.30,0:02:08.90,1080P-sgbd-42,,0,0,0,,So to fill this literal gap they got six ships from the ready reserve fleet.
-Dialogue: 0,0:02:03.30,0:02:08.90,1080P-shss-90,,0,0,0,,因此 为了填补这个文字上的空白 他们从预备役舰队中得到了六艘船
+Dialogue: 0,0:02:03.30,0:02:08.90,1080P-shss-90,,0,0,0,,因此 为了填补这个字面上的的空白 他们从预备役舰队中得到了六艘船
 Dialogue: 0,0:02:08.95,0:02:15.63,1080P-sgbd-42,,0,0,0,,Ships which had been built for use in World War II and then they modified them to be tracking ships.
 Dialogue: 0,0:02:08.95,0:02:15.63,1080P-shss-90,,0,0,0,,这些船是为第二次世界大战建造的 然后他们把它们改装成追踪船
 Dialogue: 0,0:02:16.31,0:02:19.31,1080P-sgbd-42,,0,0,0,,So these were like small freight supply ships.
-Dialogue: 0,0:02:16.31,0:02:19.31,1080P-shss-90,,0,0,0,,所以这些就像小型货运补给船
+Dialogue: 0,0:02:16.31,0:02:19.31,1080P-shss-90,,0,0,0,,所以这些就是小型货运补给船
 Dialogue: 0,0:02:19.37,0:02:23.19,1080P-sgbd-42,,0,0,0,,They were 54 meters long and about 550 tons.
 Dialogue: 0,0:02:19.37,0:02:23.19,1080P-shss-90,,0,0,0,,它们长54米 大约550吨
 Dialogue: 0,0:02:23.36,0:02:28.59,1080P-sgbd-42,,0,0,0,,The army had built hundreds of these as small ships to supply troops in the field.
@@ -89,21 +89,21 @@ Dialogue: 0,0:02:23.36,0:02:28.59,1080P-shss-90,,0,0,0,,军队建造了数百艘
 Dialogue: 0,0:02:28.96,0:02:30.29,1080P-sgbd-42,,0,0,0,,They weren't even given names.
 Dialogue: 0,0:02:28.96,0:02:30.29,1080P-shss-90,,0,0,0,,它们甚至没有被赋予名称
 Dialogue: 0,0:02:30.34,0:02:31.56,1080P-sgbd-42,,0,0,0,,They were just given numbers.
-Dialogue: 0,0:02:30.34,0:02:31.56,1080P-shss-90,,0,0,0,,它们只是被赋予号码
+Dialogue: 0,0:02:30.34,0:02:31.56,1080P-shss-90,,0,0,0,,它们只是被赋予编号
 Dialogue: 0,0:02:31.85,0:02:33.50,1080P-sgbd-42,,0,0,0,,So when the air force took control,
 Dialogue: 0,0:02:31.85,0:02:33.50,1080P-shss-90,,0,0,0,,所以当空军控制了这些船后
 Dialogue: 0,0:02:33.53,0:02:38.05,1080P-sgbd-42,,0,0,0,,they were given simple call signs from the phonetic alphabet echo through kilo.
-Dialogue: 0,0:02:33.53,0:02:38.05,1080P-shss-90,,0,0,0,,他们被赋予了简单的呼号 从拼音字母的回声到公斤
+Dialogue: 0,0:02:33.53,0:02:38.05,1080P-shss-90,,0,0,0,,他们被赋予了简单的呼号 从字母表的回声到公斤
 Dialogue: 0,0:02:38.70,0:02:42.34,1080P-sgbd-42,,0,0,0,,And they give them the antennas and the other tracking equipment for their mission
-Dialogue: 0,0:02:38.70,0:02:42.34,1080P-shss-90,,0,0,0,,他们为他们的任务提供天线和其他跟踪设备
+Dialogue: 0,0:02:38.70,0:02:42.34,1080P-shss-90,,0,0,0,,并给他们提供天线和其他追踪设备 以便他们执行任务。
 Dialogue: 0,0:02:42.72,0:02:48.58,1080P-sgbd-42,,0,0,0,,and they would spend weeks at sea to collect like 15 minutes worth of telemetry as the missiles flew past them.
 Dialogue: 0,0:02:42.72,0:02:48.58,1080P-shss-90,,0,0,0,,他们在海上花了几周的时间来收集导弹飞过时的15分钟的遥测数据
 Dialogue: 0,0:02:49.66,0:02:55.15,1080P-sgbd-42,,0,0,0,,So anyway after that the next batch of tracking ships that were developed by the US
-Dialogue: 0,0:02:49.66,0:02:55.15,1080P-shss-90,,0,0,0,,因此 在那之后 美国开发的下一批跟踪船
+Dialogue: 0,0:02:49.66,0:02:55.15,1080P-shss-90,,0,0,0,,在那之后 美国开发了下一批跟踪船
 Dialogue: 0,0:02:55.68,0:02:58.98,1080P-sgbd-42,,0,0,0,,were for the bigger rockets that would actually go into space.
-Dialogue: 0,0:02:55.68,0:02:58.98,1080P-shss-90,,0,0,0,,是为那些真正进入太空的大型火箭开发的
+Dialogue: 0,0:02:55.68,0:02:58.98,1080P-shss-90,,0,0,0,,他们是为那些真正进入太空的大型火箭开发的
 Dialogue: 0,0:02:59.01,0:03:01.75,1080P-sgbd-42,,0,0,0,,Things like the Thor the Atlas and the Titan.
-Dialogue: 0,0:02:59.01,0:03:01.75,1080P-shss-90,,0,0,0,,像雷神号、阿特拉斯号和泰坦号
+Dialogue: 0,0:02:59.01,0:03:01.75,1080P-shss-90,,0,0,0,,像雷神、阿特拉斯和泰坦
 Dialogue: 0,0:03:02.42,0:03:07.04,1080P-sgbd-42,,0,0,0,,So this group of ships were converted from the larger C1 cargo ships
 Dialogue: 0,0:03:02.42,0:03:07.04,1080P-shss-90,,0,0,0,,所以这批船是由较大的C1货船改装的
 Dialogue: 0,0:03:07.14,0:03:13.51,1080P-sgbd-42,,0,0,0,,and they were about like they were twice as long like 120 meters 4000 tons
@@ -117,13 +117,13 @@ Dialogue: 0,0:03:21.78,0:03:26.23,1080P-shss-90,,0,0,0,,这将是USNS玫瑰结�
 Dialogue: 0,0:03:26.36,0:03:30.62,1080P-sgbd-42,,0,0,0,,and they would get extra equipment to allow them to actually send commands to the spacecraft.
 Dialogue: 0,0:03:26.36,0:03:30.62,1080P-shss-90,,0,0,0,,他们将得到额外的设备 使他们能够真正向航天器发送指令
 Dialogue: 0,0:03:30.73,0:03:32.46,1080P-sgbd-42,,0,0,0,,They wouldn't be passive observers.
-Dialogue: 0,0:03:30.73,0:03:32.46,1080P-shss-90,,0,0,0,,他们不会是被动的观察员
+Dialogue: 0,0:03:30.73,0:03:32.46,1080P-shss-90,,0,0,0,,他们不再是被动的观察员
 Dialogue: 0,0:03:33.23,0:03:38.26,1080P-sgbd-42,,0,0,0,,So like previous satellite experiments hadn't really needed continuous communications
 Dialogue: 0,0:03:33.23,0:03:38.26,1080P-shss-90,,0,0,0,,所以像以前的卫星实验并不真正需要连续的通信
 Dialogue: 0,0:03:38.27,0:03:41.47,1080P-sgbd-42,,0,0,0,,but for project Mercury NASA's medical experts
-Dialogue: 0,0:03:38.27,0:03:41.47,1080P-shss-90,,0,0,0,,但对于水星项目 美国航空航天局的医疗专家
+Dialogue: 0,0:03:38.27,0:03:41.47,1080P-shss-90,,0,0,0,,但对于水星项目 美国航空航天局的医疗任务专家
 Dialogue: 0,0:03:41.67,0:03:46.17,1080P-sgbd-42,,0,0,0,,they wanted the flight surgeons to have continuous availability throughout the orbit.
-Dialogue: 0,0:03:41.67,0:03:46.17,1080P-shss-90,,0,0,0,,他们希望飞行外科医生在整个轨道上有持续的可用性
+Dialogue: 0,0:03:41.67,0:03:46.17,1080P-shss-90,,0,0,0,,他们希望医生在整个航天器在轨期间可以持续性的执行任务
 Dialogue: 0,0:03:46.64,0:03:49.86,1080P-sgbd-42,,0,0,0,,So they came up with a network of tracking stations around the world
 Dialogue: 0,0:03:46.64,0:03:49.86,1080P-shss-90,,0,0,0,,所以他们想出了一个由世界各地的跟踪站组成的网络
 Dialogue: 0,0:03:49.86,0:03:53.04,1080P-sgbd-42,,0,0,0,,and mostly in friendly countries and territories.
@@ -145,15 +145,15 @@ Dialogue: 0,0:04:23.08,0:04:25.22,1080P-shss-90,,0,0,0,,他们也许能够通过
 Dialogue: 0,0:04:25.24,0:04:27.80,1080P-sgbd-42,,0,0,0,,but they certainly couldn't send the real-time telemetry.
 Dialogue: 0,0:04:25.24,0:04:27.80,1080P-shss-90,,0,0,0,,但他们肯定无法发送实时遥测信息
 Dialogue: 0,0:04:28.05,0:04:34.21,1080P-sgbd-42,,0,0,0,,so every ship would have a small team dedicated to them with like capcom and flight surgeons.
-Dialogue: 0,0:04:28.05,0:04:34.21,1080P-shss-90,,0,0,0,,因此 每艘船都会有一个小团队专门负责他们 比如说Capcom和飞行外科医生
+Dialogue: 0,0:04:28.05,0:04:34.21,1080P-shss-90,,0,0,0,,因此 每艘船都会有一个小团队专门负责他们 比如说地面通讯主任和飞行医生
 Dialogue: 0,0:04:34.60,0:04:38.60,1080P-sgbd-42,,0,0,0,,Now John Glenn was actually the capcom on the Coastal Sentry
-Dialogue: 0,0:04:34.60,0:04:38.60,1080P-shss-90,,0,0,0,,现在 约翰-格伦实际上是 "海岸哨兵 "号上的通讯员
+Dialogue: 0,0:04:34.60,0:04:38.60,1080P-shss-90,,0,0,0,,约翰-格伦实际上是 "海岸哨兵 "号上的地面通讯主任
 Dialogue: 0,0:04:38.62,0:04:40.94,1080P-sgbd-42,,0,0,0,,for the final flight of the Mercury program
 Dialogue: 0,0:04:38.62,0:04:40.94,1080P-shss-90,,0,0,0,,在水星计划的最后一次飞行中
 Dialogue: 0,0:04:41.24,0:04:45.28,1080P-sgbd-42,,0,0,0,,supporting Gordon Cooper on a mission which would last 34 hours.
-Dialogue: 0,0:04:41.24,0:04:45.28,1080P-shss-90,,0,0,0,,在一次持续34小时的任务中支持戈登-库珀
+Dialogue: 0,0:04:41.24,0:04:45.28,1080P-shss-90,,0,0,0,,支持戈登-库珀执行一项将持续34小时的任务。
 Dialogue: 0,0:04:45.61,0:04:48.22,1080P-sgbd-42,,0,0,0,,Now because of that duration being so long
-Dialogue: 0,0:04:45.61,0:04:48.22,1080P-shss-90,,0,0,0,,现在 由于时间如此之长
+Dialogue: 0,0:04:45.61,0:04:48.22,1080P-shss-90,,0,0,0,,由于时间如此之长
 Dialogue: 0,0:04:48.32,0:04:52.69,1080P-sgbd-42,,0,0,0,,not every tracking site would be able to communicate for every single orbit.
 Dialogue: 0,0:04:48.32,0:04:52.69,1080P-shss-90,,0,0,0,,不是每个跟踪点都能在每个轨道上进行通信
 Dialogue: 0,0:04:53.19,0:04:57.84,1080P-sgbd-42,,0,0,0,,And when the flight started having technical problems on the 19th orbit
@@ -177,7 +177,7 @@ Dialogue: 0,0:05:31.52,0:05:35.70,1080P-shss-90,,0,0,0,,而玫瑰结和海岸哨
 Dialogue: 0,0:05:35.70,0:05:40.78,1080P-sgbd-42,,0,0,0,,They've been upgraded a little but they're still very much autonomous mission control systems.
 Dialogue: 0,0:05:35.70,0:05:40.78,1080P-shss-90,,0,0,0,,它们已经被升级了一点 但它们仍然是非常自主的任务控制系统
 Dialogue: 0,0:05:41.12,0:05:43.19,1080P-sgbd-42,,0,0,0,,Now during the drama of Gemini 8
-Dialogue: 0,0:05:41.12,0:05:43.19,1080P-shss-90,,0,0,0,,现在 在双子座8号的剧情中
+Dialogue: 0,0:05:41.12,0:05:43.19,1080P-shss-90,,0,0,0,,现在 在双子座8号的任务单中
 Dialogue: 0,0:05:43.19,0:05:47.45,1080P-sgbd-42,,0,0,0,,they were both in a position to communicate with the capsule during those orbits
 Dialogue: 0,0:05:43.19,0:05:47.45,1080P-shss-90,,0,0,0,,它们在那些轨道上都能与太空舱进行交流
 Dialogue: 0,0:05:47.84,0:05:52.86,1080P-sgbd-42,,0,0,0,,when the stuck thruster caused the spacecraft to enter a rapid uncommanded roll.
@@ -215,7 +215,7 @@ Dialogue: 0,0:06:52.80,0:06:56.42,1080P-shss-90,,0,0,0,,它们被用于重返大
 Dialogue: 0,0:06:56.93,0:07:01.90,1080P-sgbd-42,,0,0,0,,So now that brings me to the three ships practically built in my backyard.
 Dialogue: 0,0:06:56.93,0:07:01.90,1080P-shss-90,,0,0,0,,因此 现在让我来看看这三艘几乎是在我家后院建造的船
 Dialogue: 0,0:07:02.34,0:07:03.86,1080P-sgbd-42,,0,0,0,,These are larger still.
-Dialogue: 0,0:07:02.34,0:07:03.86,1080P-shss-90,,0,0,0,,这些都是更大的
+Dialogue: 0,0:07:02.34,0:07:03.86,1080P-shss-90,,0,0,0,,还是这样 这些都是更大的船
 Dialogue: 0,0:07:03.87,0:07:06.10,1080P-sgbd-42,,0,0,0,,They're based on T2 tankers.
 Dialogue: 0,0:07:03.87,0:07:06.10,1080P-shss-90,,0,0,0,,它们以T2油轮为基础
 Dialogue: 0,0:07:06.14,0:07:08.69,1080P-sgbd-42,,0,0,0,,now these tankers were 160 meters long
@@ -237,19 +237,19 @@ Dialogue: 0,0:07:34.82,0:07:38.08,1080P-shss-90,,0,0,0,,这些船的特点是拥
 Dialogue: 0,0:07:38.11,0:07:43.82,1080P-sgbd-42,,0,0,0,,which delivered something like 35% to 40% more power than the more common versions.
 Dialogue: 0,0:07:38.11,0:07:43.82,1080P-shss-90,,0,0,0,,比普通版本多出35%到40%的动力
 Dialogue: 0,0:07:44.58,0:07:48.18,1080P-sgbd-42,,0,0,0,,Now many of these ones were named for the fortified missions
-Dialogue: 0,0:07:44.58,0:07:48.18,1080P-shss-90,,0,0,0,,现在 这些船中有许多是以强化的传教士命名的
+Dialogue: 0,0:07:44.58,0:07:48.18,1080P-shss-90,,0,0,0,,现在 这些船中有许多是以设防的传教团命名的
 Dialogue: 0,0:07:48.25,0:07:54.10,1080P-sgbd-42,,0,0,0,,which were established in California by order of the king of Spain in the 18th and 19th century.
 Dialogue: 0,0:07:48.25,0:07:54.10,1080P-shss-90,,0,0,0,,在18和19世纪 根据西班牙国王的命令在加利福尼亚建立的
 Dialogue: 0,0:07:54.67,0:07:57.26,1080P-sgbd-42,,0,0,0,,The mission San Juan would become the Mercury.
-Dialogue: 0,0:07:54.67,0:07:57.26,1080P-shss-90,,0,0,0,,圣胡安传教团将成为水星号
+Dialogue: 0,0:07:54.67,0:07:57.26,1080P-shss-90,,0,0,0,,圣胡安传教团将成为水星
 Dialogue: 0,0:07:57.43,0:07:59.52,1080P-sgbd-42,,0,0,0,,The mission De Pala became the Redstone
-Dialogue: 0,0:07:57.43,0:07:59.52,1080P-shss-90,,0,0,0,,德帕拉传教所成为红石号
+Dialogue: 0,0:07:57.43,0:07:59.52,1080P-shss-90,,0,0,0,,德帕拉传教所成为红石
 Dialogue: 0,0:07:59.52,0:08:02.63,1080P-sgbd-42,,0,0,0,,and the mission San Fernando became the Vanguard.
-Dialogue: 0,0:07:59.52,0:08:02.63,1080P-shss-90,,0,0,0,,而圣费尔南多传教所则成为先锋队
+Dialogue: 0,0:07:59.52,0:08:02.63,1080P-shss-90,,0,0,0,,而圣费尔南多传教所则成为先锋
 Dialogue: 0,0:08:02.80,0:08:07.42,1080P-sgbd-42,,0,0,0,,And of course since you're all space fans you can see the theme behind those names right.
 Dialogue: 0,0:08:02.80,0:08:07.42,1080P-shss-90,,0,0,0,,当然 由于你们都是太空迷 你们可以看到这些名字背后的主题吧
 Dialogue: 0,0:08:08.68,0:08:14.13,1080P-sgbd-42,,0,0,0,,The modified ships would be 21 meters longer at a total of 181 meters.
-Dialogue: 0,0:08:08.68,0:08:14.13,1080P-shss-90,,0,0,0,,改造后的飞船将长21米 总共181米
+Dialogue: 0,0:08:08.68,0:08:14.13,1080P-shss-90,,0,0,0,,改造后的船将长21米 总共181米
 Dialogue: 0,0:08:14.15,0:08:18.49,1080P-sgbd-42,,0,0,0,,But they didn't simply cut them in half and add an extra chunk of hull in the middle.
 Dialogue: 0,0:08:14.15,0:08:18.49,1080P-shss-90,,0,0,0,,但他们并不是简单地把它们切成两半 并在中间增加一大块船体
 Dialogue: 0,0:08:18.70,0:08:23.46,1080P-sgbd-42,,0,0,0,,They actually cut out the entire midsection of the ship which was mostly fuel tanks.
@@ -307,7 +307,7 @@ Dialogue: 0,0:10:21.16,0:10:24.74,1080P-shss-90,,0,0,0,,对于阿波罗11号 这
 Dialogue: 0,0:10:25.52,0:10:30.92,1080P-sgbd-42,,0,0,0,,But all of this it really just served to confirm the reliability of the onboard systems
 Dialogue: 0,0:10:25.52,0:10:30.92,1080P-shss-90,,0,0,0,,但所有这一切实际上只是为了确认机载系统的可靠性
 Dialogue: 0,0:10:30.96,0:10:35.78,1080P-sgbd-42,,0,0,0,,and after the success of Apollo 11 most of the ships stopped being used.
-Dialogue: 0,0:10:30.96,0:10:35.78,1080P-shss-90,,0,0,0,,在阿波罗11号的成功之后 大部分的飞船都停止了使用
+Dialogue: 0,0:10:30.96,0:10:35.78,1080P-shss-90,,0,0,0,,在阿波罗11号的成功之后 大部分的船都停止了使用
 Dialogue: 0,0:10:36.26,0:10:41.83,1080P-sgbd-42,,0,0,0,,The Redstone the Mercury and Huntsville weren't used for future launches after Apollo 11.
 Dialogue: 0,0:10:36.26,0:10:41.83,1080P-shss-90,,0,0,0,,红石号、水星号和亨茨维尔号在阿波罗11号之后没有用于未来的发射
 Dialogue: 0,0:10:41.87,0:10:44.81,1080P-sgbd-42,,0,0,0,,And they were all returned to the reserve for other uses.
@@ -317,7 +317,7 @@ Dialogue: 0,0:10:45.18,0:10:51.78,1080P-shss-90,,0,0,0,,只有 "先锋 "号仍�
 Dialogue: 0,0:10:52.78,0:10:57.51,1080P-sgbd-42,,0,0,0,,And it performed the job for all the launches in of the Saturn rockets
 Dialogue: 0,0:10:52.78,0:10:57.51,1080P-shss-90,,0,0,0,,它为土星火箭的所有发射执行了这项工作
 Dialogue: 0,0:10:57.51,0:11:01.96,1080P-sgbd-42,,0,0,0,,all the way through Apollo skylab and of course Apollo–Soyuz.
-Dialogue: 0,0:10:57.51,0:11:01.96,1080P-shss-90,,0,0,0,,一直到阿波罗太空舱 当然还有阿波罗-联盟号
+Dialogue: 0,0:10:57.51,0:11:01.96,1080P-shss-90,,0,0,0,,一直到阿波罗天空实验室空间站 当然还有阿波罗-联盟号
 Dialogue: 0,0:11:02.49,0:11:08.22,1080P-sgbd-42,,0,0,0,,Technology had basically made the dedicated tracking ships largely redundant.
 Dialogue: 0,0:11:02.49,0:11:08.22,1080P-shss-90,,0,0,0,,技术基本上已经使专门的跟踪船在很大程度上成为多余的了
 Dialogue: 0,0:11:08.66,0:11:11.95,1080P-sgbd-42,,0,0,0,,Like improved onboard systems on the rockets meant that they are the spacecraft
@@ -333,15 +333,15 @@ Dialogue: 0,0:11:24.62,0:11:29.73,1080P-shss-90,,0,0,0,,这意味着 他们不�
 Dialogue: 0,0:11:30.71,0:11:37.12,1080P-sgbd-42,,0,0,0,,So eventually all the tracking ships involved in Mercury, Gemini and Apollo have been scrapped.
 Dialogue: 0,0:11:30.71,0:11:37.12,1080P-shss-90,,0,0,0,,因此 最终所有参与水星、双子星和阿波罗的跟踪船都已经报废
 Dialogue: 0,0:11:37.14,0:11:44.21,1080P-sgbd-42,,0,0,0,,I mean some have had limited careers after this after their role in the space race.
-Dialogue: 0,0:11:37.14,0:11:44.21,1080P-shss-90,,0,0,0,,我的意思是 有些人在太空竞赛中发挥作用后 此后的职业生涯也很有限
+Dialogue: 0,0:11:37.14,0:11:44.21,1080P-shss-90,,0,0,0,,我的意思是 有些东西在太空竞赛中发挥作用后 此后的生涯依旧很有限
 Dialogue: 0,0:11:44.80,0:11:49.65,1080P-sgbd-42,,0,0,0,,Vanguard actually worked on the development of submarine navigation systems in the 1980s
-Dialogue: 0,0:11:44.80,0:11:49.65,1080P-shss-90,,0,0,0,,Vanguard公司实际上在20世纪80年代就从事潜艇导航系统的开发工作
+Dialogue: 0,0:11:44.80,0:11:49.65,1080P-shss-90,,0,0,0,,先锋实际上在20世纪80年代就从事潜艇导航系统的开发工作
 Dialogue: 0,0:11:49.66,0:11:53.65,1080P-sgbd-42,,0,0,0,,and it was still doing stuff in 1998 when it was retired.
-Dialogue: 0,0:11:49.66,0:11:53.65,1080P-shss-90,,0,0,0,,而且它在1998年退役的时候还在做事情
+Dialogue: 0,0:11:49.66,0:11:53.65,1080P-shss-90,,0,0,0,,而且它在1998年退役的时候还在执行一些任务
 Dialogue: 0,0:11:54.06,0:11:59.86,1080P-sgbd-42,,0,0,0,,And in 2013 it eventually made its last voyage to Brownsville Texas to be scrapped
-Dialogue: 0,0:11:54.06,0:11:59.86,1080P-shss-90,,0,0,0,,而在2013年 它最终在德克萨斯州的布朗斯维尔进行了最后一次航行 被报废了
+Dialogue: 0,0:11:54.06,0:11:59.86,1080P-shss-90,,0,0,0,,而在2013年 它最后一次航行去德克萨斯州的布朗斯维尔进行报废
 Dialogue: 0,0:12:00.30,0:12:04.55,1080P-sgbd-42,,0,0,0,,just down the road from where Spacex has been making lots of more scrap metal.
-Dialogue: 0,0:12:00.30,0:12:04.55,1080P-shss-90,,0,0,0,,就在Spacex一直在制造大量废金属的路上
+Dialogue: 0,0:12:00.30,0:12:04.55,1080P-shss-90,,0,0,0,,就在Spacex一直在制造大量废金属的地方边上
 Dialogue: 0,0:12:05.14,0:12:09.38,1080P-sgbd-42,,0,0,0,,There is one tracking vessel that's still pretty recognizable
 Dialogue: 0,0:12:05.14,0:12:09.38,1080P-shss-90,,0,0,0,,有一艘追踪船仍然很容易辨认
 Dialogue: 0,0:12:09.41,0:12:12.13,1080P-sgbd-42,,0,0,0,,but it wasn't involved in any of the human space flight missions.
@@ -351,18 +351,18 @@ Dialogue: 0,0:12:12.77,0:12:16.32,1080P-shss-90,,0,0,0,,范登堡号是在加州
 Dialogue: 0,0:12:16.32,0:12:17.98,1080P-sgbd-42,,0,0,0,,again pretty close to me.
 Dialogue: 0,0:12:16.32,0:12:17.98,1080P-shss-90,,0,0,0,,离我也很近
 Dialogue: 0,0:12:18.42,0:12:21.73,1080P-sgbd-42,,0,0,0,,And in the 1960s it was converted to track missile tests
-Dialogue: 0,0:12:18.42,0:12:21.73,1080P-shss-90,,0,0,0,,在20世纪60年代 它被改装为跟踪导弹试验
+Dialogue: 0,0:12:18.42,0:12:21.73,1080P-shss-90,,0,0,0,,在20世纪60年代 为跟踪导弹试验它经过改装
 Dialogue: 0,0:12:22.00,0:12:25.70,1080P-sgbd-42,,0,0,0,,specifically measuring the re-entry dynamics of warheads.
-Dialogue: 0,0:12:22.00,0:12:25.70,1080P-shss-90,,0,0,0,,特别是测量弹头的再入动力学
+Dialogue: 0,0:12:22.00,0:12:25.70,1080P-shss-90,,0,0,0,,特别是测量弹头再入时的动力学数据
 Dialogue: 0,0:12:26.06,0:12:29.84,1080P-sgbd-42,,0,0,0,,And in the late 1990s it was actually used for the movie Virus.
-Dialogue: 0,0:12:26.06,0:12:29.84,1080P-shss-90,,0,0,0,,在20世纪90年代末 它实际上被用于电影《病毒》的拍摄
+Dialogue: 0,0:12:26.06,0:12:29.84,1080P-shss-90,,0,0,0,,它实际上在20世纪90年代末 被用于电影《病毒》的拍摄
 Dialogue: 0,0:12:29.88,0:12:32.70,1080P-sgbd-42,,0,0,0,,It was redecorated to look like a russian research ship
 Dialogue: 0,0:12:29.88,0:12:32.70,1080P-shss-90,,0,0,0,,它被重新装饰成俄罗斯研究船的样子
 Dialogue: 0,0:12:33.40,0:12:40.39,1080P-sgbd-42,,0,0,0,,but finally in 2009 it was intentionally sunk near Key West to form an artificial reef.
-Dialogue: 0,0:12:33.40,0:12:40.39,1080P-shss-90,,0,0,0,,但最终在2009年 它被故意沉入基韦斯特附近 形成一个人工礁
+Dialogue: 0,0:12:33.40,0:12:40.39,1080P-shss-90,,0,0,0,,最终在2009年 它在基韦斯特附近自沉 用以形成一个人工礁
 Dialogue: 0,0:12:40.62,0:12:44.32,1080P-sgbd-42,,0,0,0,,It would become a tourist attraction for sports divers to explore
 Dialogue: 0,0:12:40.62,0:12:44.32,1080P-shss-90,,0,0,0,,它将成为一个旅游景点 供运动潜水员探索
 Dialogue: 0,0:12:44.49,0:12:47.39,1080P-sgbd-42,,0,0,0,,and of course for marine life to call home.
 Dialogue: 0,0:12:44.49,0:12:47.39,1080P-shss-90,,0,0,0,,当然也是海洋生物的家
 Dialogue: 0,0:12:47.76,0:12:50.92,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:12:47.76,0:12:50.92,1080P-shss-90,,0,0,0,,我是斯科特-曼利 飞行安全
+Dialogue: 0,0:12:47.76,0:12:50.92,1080P-shss-90,,0,0,0,,我是scott Manley 切记 注意飞行安全
