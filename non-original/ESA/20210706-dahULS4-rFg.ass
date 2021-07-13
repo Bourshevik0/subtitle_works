@@ -17,9 +17,14 @@ Style: 1080P-shss-90,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000
 Style: 720P-shss-60,思源宋体,60,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,4.3,0,2,10,10,10,134
 Style: 720P-sgbd-27,更纱黑体 SC,27,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,3.3,0,2,10,10,10,134
 Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,3.3,0,7,10,10,10,134
+Style: 1080P-sgbd-48,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,8,10,10,10,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.06,0:00:11.06,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}European Robotic Arm ready for space\N{\fs50}原作者名：European Space Agency, ESA\N视频来源：youtu.be/dahULS4-rFg\N原视频发布日期：20210706\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:47.06,0:00:51.62,1080P-sgsm-50,,0,0,0,,{\blur4\pos(941,924)\fad(140,180)}西采·坎彭，ERA项目经理，空客国防航天荷兰分公司
+Dialogue: 0,0:02:16.70,0:02:21.22,1080P-sgsm-50,,0,0,0,,{\blur4\pos(941,924)\fad(140,180)}安德烈·库佩斯，欧空局宇航员
+Dialogue: 0,0:03:49.54,0:03:54.10,1080P-sgsm-50,,0,0,0,,{\blur4\pos(941,924)\fad(140,180)}菲利普·肖内扬斯，ERA项目经理，欧空局
 Dialogue: 0,0:00:04.06,0:00:09.90,1080P-sgbd-42,,0,0,0,,Soon another piece of cutting-edge European technology will be delivered to the International Space Station.
 Dialogue: 0,0:00:04.06,0:00:09.90,1080P-shss-90,,0,0,0,,不久 另一项前沿的欧洲科技将被送往国际空间站
 Dialogue: 0,0:00:11.02,0:00:13.51,1080P-sgbd-42,,0,0,0,,ERA, short for European Robotic Arm
@@ -38,10 +43,10 @@ Dialogue: 0,0:00:38.15,0:00:40.90,1080P-sgbd-42,,0,0,0,,One of the most impressi
 Dialogue: 0,0:00:38.15,0:00:40.90,1080P-shss-90,,0,0,0,,该机械臂最令人印象深刻的特点之一是
 Dialogue: 0,0:00:41.30,0:00:44.84,1080P-sgbd-42,,0,0,0,,that it can move hand-over-hand over the Russian module.
 Dialogue: 0,0:00:41.30,0:00:44.84,1080P-shss-90,,0,0,0,,它可以在俄罗斯舱段上手拉手似的移动
-Dialogue: 0,0:00:45.66,0:00:47.88,1080P-sgbd-42,,0,0,0,,The ERA-arm is almost completely symmetrical.
-Dialogue: 0,0:00:45.66,0:00:47.88,1080P-shss-90,,0,0,0,,ERA臂几乎是完全对称的
-Dialogue: 0,0:00:48.19,0:00:51.62,1080P-sgbd-42,,0,0,0,,This means it has a hand or an end-effector at both sides
-Dialogue: 0,0:00:48.19,0:00:51.62,1080P-shss-90,,0,0,0,,这意味着它在两边都有一只手 或着说是都有一个末端执行器
+Dialogue: 0,0:00:45.66,0:00:47.88,1080P-sgbd-48,,0,0,0,,The ERA-arm is almost completely symmetrical.
+Dialogue: 0,0:00:45.66,0:00:47.88,1080P-shss-90,,0,0,0,,{\pos(960,910)}ERA臂几乎是完全对称的
+Dialogue: 0,0:00:48.19,0:00:51.62,1080P-sgbd-48,,0,0,0,,This means it has a hand or an end-effector at both sides
+Dialogue: 0,0:00:48.19,0:00:51.62,1080P-shss-90,,0,0,0,,{\pos(960,910)}这意味着它在两边都有一只手 或着说是都有一个末端执行器
 Dialogue: 0,0:00:52.41,0:00:56.57,1080P-sgbd-42,,0,0,0,,and that each side can serve as the tip as well as the shoulder.
 Dialogue: 0,0:00:52.41,0:00:56.57,1080P-shss-90,,0,0,0,,而且每一侧都可以作为末端和肩部摇摆工作
 Dialogue: 0,0:00:56.63,0:01:00.54,1080P-sgbd-42,,0,0,0,,So it means that if you have multiple base points on the on the Russian segment
@@ -84,10 +89,10 @@ Dialogue: 0,0:02:08.62,0:02:12.34,1080P-sgbd-42,,0,0,0,,the arm can be used for 
 Dialogue: 0,0:02:08.62,0:02:12.34,1080P-shss-90,,0,0,0,,该机械臂可用于被称为三个D的任务
 Dialogue: 0,0:02:12.76,0:02:14.85,1080P-sgbd-42,,0,0,0,,Dull, Dangerous and Difficult.
 Dialogue: 0,0:02:12.76,0:02:14.85,1080P-shss-90,,0,0,0,,分别是 无趣的 危险的和困难的
-Dialogue: 0,0:02:15.38,0:02:18.10,1080P-sgbd-42,,0,0,0,,The robotic arm can be used for, for example
-Dialogue: 0,0:02:15.38,0:02:18.10,1080P-shss-90,,0,0,0,,该机械臂可用于 例如
-Dialogue: 0,0:02:18.21,0:02:25.27,1080P-sgbd-42,,0,0,0,,take payloads out of an airlock autonomously without the risk of an extra vehicular activity
-Dialogue: 0,0:02:18.21,0:02:25.27,1080P-shss-90,,0,0,0,,它可以自主地将有效载荷从气密舱中取出 这避免了舱外活动的风险
+Dialogue: 0,0:02:15.38,0:02:18.10,1080P-sgbd-48,,0,0,0,,The robotic arm can be used for, for example
+Dialogue: 0,0:02:15.38,0:02:18.10,1080P-shss-90,,0,0,0,,{\pos(960,910)}该机械臂可用于 例如
+Dialogue: 0,0:02:18.21,0:02:25.27,1080P-sgbd-48,,0,0,0,,take payloads out of an airlock autonomously without the risk of an extra vehicular activity
+Dialogue: 0,0:02:18.21,0:02:25.27,1080P-shss-90,,0,0,0,,{\pos(960,910)}它可以自主地将有效载荷从气闸舱中取出 这避免了舱外活动的风险
 Dialogue: 0,0:02:25.30,0:02:28.47,1080P-sgbd-42,,0,0,0,,for example, and put equipment on the outside.
 Dialogue: 0,0:02:25.30,0:02:28.47,1080P-shss-90,,0,0,0,,还有例如 将设备放置在外面
 Dialogue: 0,0:02:28.87,0:02:30.34,1080P-sgbd-42,,0,0,0,,It can be used for inspection.
@@ -119,15 +124,15 @@ Dialogue: 0,0:03:22.81,0:03:25.90,1080P-shss-90,,0,0,0,,随后 宇航员马蒂�
 Dialogue: 0,0:03:26.25,0:03:31.21,1080P-sgbd-42,,0,0,0,,will take part in the installation and operation of ERA through various spacewalks.
 Dialogue: 0,0:03:26.25,0:03:31.21,1080P-shss-90,,0,0,0,,将通过多次太空行走参与ERA的安装和运行工作
 Dialogue: 0,0:03:32.50,0:03:37.79,1080P-sgbd-42,,0,0,0,,One of ERA's first tasks will be to install the radiator and airlock of the NAUKA module
-Dialogue: 0,0:03:32.50,0:03:37.79,1080P-shss-90,,0,0,0,,ERA的首要任务之一 将是安装科学号舱段的散热器和气密舱
+Dialogue: 0,0:03:32.50,0:03:37.79,1080P-shss-90,,0,0,0,,ERA的首要任务之一 将是安装科学号舱段的散热器和气闸舱
 Dialogue: 0,0:03:38.28,0:03:40.64,1080P-sgbd-42,,0,0,0,,so the laboratory can become operational
 Dialogue: 0,0:03:38.28,0:03:40.64,1080P-shss-90,,0,0,0,,以便该实验舱能够开始运作
 Dialogue: 0,0:03:41.28,0:03:47.18,1080P-sgbd-42,,0,0,0,,and ERA can use this airlock to move payloads from inside the Station to outside.
-Dialogue: 0,0:03:41.28,0:03:47.18,1080P-shss-90,,0,0,0,,ERA可以利用这个气密舱将有效载荷从空间站内转移到站外
-Dialogue: 0,0:03:47.63,0:03:50.32,1080P-sgbd-42,,0,0,0,,When we operate the ERA on the ISS
-Dialogue: 0,0:03:47.63,0:03:50.32,1080P-shss-90,,0,0,0,,当我们在国际空间站上操作ERA的时候
-Dialogue: 0,0:03:50.99,0:03:55.45,1080P-sgbd-42,,0,0,0,,We're obviously going to learn a lot about how to use robots in space
-Dialogue: 0,0:03:50.99,0:03:55.45,1080P-shss-90,,0,0,0,,我们显然会学到很多关于如何在太空中使用机器人
+Dialogue: 0,0:03:41.28,0:03:47.18,1080P-shss-90,,0,0,0,,ERA可以利用这个气闸舱将有效载荷从空间站内转移到站外
+Dialogue: 0,0:03:47.63,0:03:50.32,1080P-sgbd-48,,0,0,0,,When we operate the ERA on the ISS
+Dialogue: 0,0:03:47.63,0:03:50.32,1080P-shss-90,,0,0,0,,{\pos(960,910)}当我们在国际空间站上操作ERA的时候
+Dialogue: 0,0:03:50.99,0:03:55.45,1080P-sgbd-48,,0,0,0,,We're obviously going to learn a lot about how to use robots in space
+Dialogue: 0,0:03:50.99,0:03:55.45,1080P-shss-90,,0,0,0,,{\pos(960,910)}我们显然会学到很多关于如何在太空中使用机器人
 Dialogue: 0,0:03:56.17,0:03:58.68,1080P-sgbd-42,,0,0,0,,and how the robots work in space.
 Dialogue: 0,0:03:56.17,0:03:58.68,1080P-shss-90,,0,0,0,,以及机器人如何在太空中工作的知识
 Dialogue: 0,0:03:58.79,0:04:02.09,1080P-sgbd-42,,0,0,0,,We'll have feedback to our engineering process
@@ -153,7 +158,7 @@ Dialogue: 0,0:04:35.22,0:04:37.85,1080P-shss-90,,0,0,0,,并且它也体现了欧
 Dialogue: 0,0:04:38.75,0:04:43.13,1080P-sgbd-42,,0,0,0,,The project was commissioned by ESA and largely funded by the Dutch government
 Dialogue: 0,0:04:38.75,0:04:43.13,1080P-shss-90,,0,0,0,,该项目由欧空局委托 主要由荷兰政府资助
 Dialogue: 0,0:04:43.27,0:04:47.05,1080P-sgbd-42,,0,0,0,,with Airbus Defence and Space Netherlands as its prime contractor.
-Dialogue: 0,0:04:43.27,0:04:47.05,1080P-shss-90,,0,0,0,,空中客车防务和太空部的荷兰分公司是其主要的承包商
+Dialogue: 0,0:04:43.27,0:04:47.05,1080P-shss-90,,0,0,0,,空客国防航天荷兰分公司是其主要的承包商
 Dialogue: 0,0:04:48.50,0:04:51.52,1080P-sgbd-42,,0,0,0,,Now the European Robotic Arm will fly to the ISS
 Dialogue: 0,0:04:48.50,0:04:51.52,1080P-shss-90,,0,0,0,,现在 欧洲机器臂将飞往国际空间站
 Dialogue: 0,0:04:51.90,0:04:55.87,1080P-sgbd-42,,0,0,0,,and with it a new era dawns for the International Space Station
