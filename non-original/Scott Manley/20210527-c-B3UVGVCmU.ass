@@ -9,6 +9,14 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: 20210527-c-B3UVGVCmU.mp4
+Video File: 20210527-c-B3UVGVCmU.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.200000
+Video Position: 132
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -22,303 +30,304 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.40,0:00:06.06,1080P-sgbd-42,,0,0,0,,Hello it's scott manley here.
-Dialogue: 0,0:00:04.40,0:00:06.06,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:06.39,0:00:10.80,1080P-sgbd-42,,0,0,0,,When I was a science obsessed child growing up, I learned all about plutonium.
-Dialogue: 0,0:00:06.39,0:00:10.80,1080P-shss-90,,0,0,0,,当我作为一个迷恋科学的孩子在成长时 学到了许多钚的知识
-Dialogue: 0,0:00:10.80,0:00:14.34,1080P-sgbd-42,,0,0,0,,That is the spicy rocks at the heart of atomic weapons.
-Dialogue: 0,0:00:10.80,0:00:14.34,1080P-shss-90,,0,0,0,,它是原子武器核心中那块辛辣的岩石
-Dialogue: 0,0:00:14.63,0:00:18.59,1080P-sgbd-42,,0,0,0,,but moreover I learned that plutonium was an artificial element
-Dialogue: 0,0:00:14.63,0:00:18.59,1080P-shss-90,,0,0,0,,但我更了解到 钚是一种人造元素
-Dialogue: 0,0:00:18.62,0:00:21.60,1080P-sgbd-42,,0,0,0,,which had been synthesized by humans in the laboratory.
-Dialogue: 0,0:00:18.62,0:00:21.60,1080P-shss-90,,0,0,0,,它是人类在实验室里合成的
-Dialogue: 0,0:00:21.60,0:00:25.08,1080P-sgbd-42,,0,0,0,,It didn't exist in nature and was entirely artificial
-Dialogue: 0,0:00:21.60,0:00:25.08,1080P-shss-90,,0,0,0,,它不存在于自然界 并且完全是人造的
-Dialogue: 0,0:00:25.35,0:00:29.08,1080P-sgbd-42,,0,0,0,,and of course as I grew up and learned more about physics
-Dialogue: 0,0:00:25.35,0:00:29.08,1080P-shss-90,,0,0,0,,当然 随着我的成长以及对物理学的进一步了解
-Dialogue: 0,0:00:29.36,0:00:34.17,1080P-sgbd-42,,0,0,0,,I learned that this was wrong because plutonium does in fact exist in nature.
-Dialogue: 0,0:00:29.36,0:00:34.17,1080P-shss-90,,0,0,0,,我了解到那是错误的 因为实际上自然界中存在有钚
-Dialogue: 0,0:00:34.64,0:00:38.69,1080P-sgbd-42,,0,0,0,,But the stuff we see in nature is generally not primordial.
-Dialogue: 0,0:00:34.64,0:00:38.69,1080P-shss-90,,0,0,0,,但是我们在自然界看到的钚通常不是原生的
-Dialogue: 0,0:00:38.72,0:00:40.72,1080P-sgbd-42,,0,0,0,,It didn't form with the earth.
-Dialogue: 0,0:00:38.72,0:00:40.72,1080P-shss-90,,0,0,0,,它并不是与地球一起形成的
-Dialogue: 0,0:00:41.10,0:00:43.64,1080P-sgbd-42,,0,0,0,,If you have any amount of uranium sitting around
-Dialogue: 0,0:00:41.10,0:00:43.64,1080P-shss-90,,0,0,0,,如果你身边有任何数量的铀
-Dialogue: 0,0:00:44.00,0:00:48.53,1080P-sgbd-42,,0,0,0,,then you will have spontaneous fissions happening in those uranium atoms.
-Dialogue: 0,0:00:44.00,0:00:48.53,1080P-shss-90,,0,0,0,,那么 在这些铀原子中将发生自发裂变
-Dialogue: 0,0:00:48.86,0:00:51.36,1080P-sgbd-42,,0,0,0,,And some of those fissions will produce neutrons.
-Dialogue: 0,0:00:48.86,0:00:51.36,1080P-shss-90,,0,0,0,,而其中一些裂变会产生中子
-Dialogue: 0,0:00:51.57,0:00:56.82,1080P-sgbd-42,,0,0,0,,Some of those neutrons can hit a uranium-238 and transform it into a plutonium-239.
-Dialogue: 0,0:00:51.57,0:00:56.82,1080P-shss-90,,0,0,0,,而这之中的一些中子可以击中铀-238并将其转化为钚-239
-Dialogue: 0,0:00:56.87,0:01:00.06,1080P-sgbd-42,,0,0,0,,So plutonium does exist naturally in the earth
-Dialogue: 0,0:00:56.87,0:01:00.06,1080P-shss-90,,0,0,0,,因此 钚确实会自然地存在于地球上
-Dialogue: 0,0:01:00.54,0:01:04.82,1080P-sgbd-42,,0,0,0,,but because plutonium-239 has a half-life of thousands of years
-Dialogue: 0,0:01:00.54,0:01:04.82,1080P-shss-90,,0,0,0,,但由于钚-239的半衰期仅为数千年
-Dialogue: 0,0:01:05.11,0:01:09.78,1080P-sgbd-42,,0,0,0,,none of that stuff that was there when the earth was formed is still in the earth right now.
-Dialogue: 0,0:01:05.11,0:01:09.78,1080P-shss-90,,0,0,0,,没有钚从地球形成时一直存在到现在
-Dialogue: 0,0:01:10.08,0:01:15.82,1080P-sgbd-42,,0,0,0,,But there is an isotope of plutonium called plutonium-244
-Dialogue: 0,0:01:10.08,0:01:15.82,1080P-shss-90,,0,0,0,,但是 有一种钚的同位素叫做钚-244
-Dialogue: 0,0:01:16.04,0:01:19.58,1080P-sgbd-42,,0,0,0,,which might exist in the earth entirely naturally.
-Dialogue: 0,0:01:16.04,0:01:19.58,1080P-shss-90,,0,0,0,,它可能完全自然地存在于地球上
-Dialogue: 0,0:01:19.89,0:01:23.56,1080P-sgbd-42,,0,0,0,,It has a half-life of 81 million years
-Dialogue: 0,0:01:19.89,0:01:23.56,1080P-shss-90,,0,0,0,,它的半衰期为8100万年
-Dialogue: 0,0:01:23.89,0:01:26.96,1080P-sgbd-42,,0,0,0,,and that's actually pretty long for an actinide.
-Dialogue: 0,0:01:23.89,0:01:26.96,1080P-shss-90,,0,0,0,,对于锕系元素来说 这样的半衰期实际上是相当长的
-Dialogue: 0,0:01:27.01,0:01:29.74,1080P-sgbd-42,,0,0,0,,It's the fourth longest half-life of any actinides.
-Dialogue: 0,0:01:27.01,0:01:29.74,1080P-shss-90,,0,0,0,,它的半衰期是所有锕系元素中第四长的
-Dialogue: 0,0:01:29.76,0:01:33.79,1080P-sgbd-42,,0,0,0,,There's thorium-232, uranium-235 and uranium-238.
-Dialogue: 0,0:01:29.76,0:01:33.79,1080P-shss-90,,0,0,0,,它前面的三个是钍-232 铀-235和铀-238
-Dialogue: 0,0:01:34.37,0:01:39.58,1080P-sgbd-42,,0,0,0,,Now 100 million years or 80 million years or whatever sounds like a pretty long time
-Dialogue: 0,0:01:34.37,0:01:39.58,1080P-shss-90,,0,0,0,,那么 1亿年或8000万年之类的 听起来是一个相当长的时间
-Dialogue: 0,0:01:40.10,0:01:41.74,1080P-sgbd-42,,0,0,0,,but the earth is very old
-Dialogue: 0,0:01:40.10,0:01:41.74,1080P-shss-90,,0,0,0,,但地球是非常古老的
-Dialogue: 0,0:01:41.77,0:01:48.52,1080P-sgbd-42,,0,0,0,,and by now any plutonium-244 that was in the crust has gone through like 60 half-lives.
-Dialogue: 0,0:01:41.77,0:01:48.52,1080P-shss-90,,0,0,0,,并且到现在 地壳中任何的钚-244都已经经历了大概60个半衰期
-Dialogue: 0,0:01:49.50,0:01:52.40,1080P-sgbd-42,,0,0,0,,One estimate of how much is in there in the earth
-Dialogue: 0,0:01:49.50,0:01:52.40,1080P-shss-90,,0,0,0,,关于在地球上有多少钚-244有一个估计
-Dialogue: 0,0:01:52.53,0:01:55.48,1080P-sgbd-42,,0,0,0,,would be something like seven grams through the entire planet
-Dialogue: 0,0:01:52.53,0:01:55.48,1080P-shss-90,,0,0,0,,估计整个地球上有7克左右的钚-244
-Dialogue: 0,0:01:55.51,0:01:58.18,1080P-sgbd-42,,0,0,0,,so very hard to find any trace of it.
-Dialogue: 0,0:01:55.51,0:01:58.18,1080P-shss-90,,0,0,0,,所以很难找到它的任何痕迹
-Dialogue: 0,0:01:59.22,0:02:05.02,1080P-sgbd-42,,0,0,0,,And the thing is you can't really form plutonium-244 by accident
-Dialogue: 0,0:01:59.22,0:02:05.02,1080P-shss-90,,0,0,0,,并且事情是这样的 你不可能真的意外地产生钚-244
-Dialogue: 0,0:02:05.13,0:02:10.21,1080P-sgbd-42,,0,0,0,,by the same process of having spicy rocks sitting around in the in the crust of the earth
-Dialogue: 0,0:02:05.13,0:02:10.21,1080P-shss-90,,0,0,0,,你不可能通过在地壳中放置辛辣岩石的同样方式来形成钚-244
-Dialogue: 0,0:02:10.74,0:02:15.83,1080P-sgbd-42,,0,0,0,,because to make plutonium-244 you have to keep bombarding it with neutrons
-Dialogue: 0,0:02:10.74,0:02:15.83,1080P-shss-90,,0,0,0,,因为要制造钚-244的话 你必须不断用中子撞击它
-Dialogue: 0,0:02:15.84,0:02:20.85,1080P-sgbd-42,,0,0,0,,and as you go up towards plutonium-244, the isotopes get less stable
-Dialogue: 0,0:02:15.84,0:02:20.85,1080P-shss-90,,0,0,0,,并且当你向钚-244的发展时 同位素变得不太稳定
-Dialogue: 0,0:02:20.90,0:02:23.86,1080P-sgbd-42,,0,0,0,,and so you need to hit them very quickly
-Dialogue: 0,0:02:20.90,0:02:23.86,1080P-shss-90,,0,0,0,,所以你需要非常迅速地击中它们
-Dialogue: 0,0:02:23.90,0:02:26.52,1080P-sgbd-42,,0,0,0,,and that just doesn't happen in natural forms.
-Dialogue: 0,0:02:23.90,0:02:26.52,1080P-shss-90,,0,0,0,,而这在自然界中是不可能发生的
-Dialogue: 0,0:02:27.68,0:02:32.13,1080P-sgbd-42,,0,0,0,,It is possible to make it in a high neutron flux nuclear reactor
-Dialogue: 0,0:02:27.68,0:02:32.13,1080P-shss-90,,0,0,0,,在有高中子通量的核反应堆中制造它是有可能
-Dialogue: 0,0:02:32.15,0:02:35.34,1080P-sgbd-42,,0,0,0,,where you design it so it generates lots of neutrons very quickly
-Dialogue: 0,0:02:32.15,0:02:35.34,1080P-shss-90,,0,0,0,,由于核反应堆的设计 它可以非常迅速地产生大量的中子
-Dialogue: 0,0:02:35.64,0:02:39.57,1080P-sgbd-42,,0,0,0,,and you get that plutonium up to 244 where it's stable again.
-Dialogue: 0,0:02:35.64,0:02:39.57,1080P-shss-90,,0,0,0,,然后你可以将钚提高到钚-244 并且在那时其再次稳定
-Dialogue: 0,0:02:39.94,0:02:44.60,1080P-sgbd-42,,0,0,0,,Or it's made in nuclear weapons and you'll find that in nuclear fallout.
-Dialogue: 0,0:02:39.94,0:02:44.60,1080P-shss-90,,0,0,0,,或者它可以由核武器制造 而且你会在核沉降物中发现它
-Dialogue: 0,0:02:44.98,0:02:51.62,1080P-sgbd-42,,0,0,0,,But there haven't been any evidence that it has been found in terrestrial geology
-Dialogue: 0,0:02:44.98,0:02:51.62,1080P-shss-90,,0,0,0,,但在陆地地质学和还没有被其探索过的地方中
-Dialogue: 0,0:02:51.65,0:02:56.06,1080P-sgbd-42,,0,0,0,,and places untouched by these kind of processes until now.
-Dialogue: 0,0:02:51.65,0:02:56.06,1080P-shss-90,,0,0,0,,还没有发现任何它存在的证据 直到现在
-Dialogue: 0,0:02:56.85,0:03:00.89,1080P-sgbd-42,,0,0,0,,So there's a group led by a guy called Dr Anton Wallner
-Dialogue: 0,0:02:56.85,0:03:00.89,1080P-shss-90,,0,0,0,,所以有一个由安东·沃尔纳博士领导的研究团队
-Dialogue: 0,0:03:00.94,0:03:04.15,1080P-sgbd-42,,0,0,0,,and they've been looking at deep ocean sediments.
-Dialogue: 0,0:03:00.94,0:03:04.15,1080P-shss-90,,0,0,0,,一直在研究深海沉积物
-Dialogue: 0,0:03:04.15,0:03:06.22,1080P-sgbd-42,,0,0,0,,They're like looking at the bottom of the pacific
-Dialogue: 0,0:03:04.15,0:03:06.22,1080P-shss-90,,0,0,0,,就像在观察太平洋的底部一样
-Dialogue: 0,0:03:06.26,0:03:10.40,1080P-sgbd-42,,0,0,0,,and one and a half kilometers below that they've taken out cores
-Dialogue: 0,0:03:06.26,0:03:10.40,1080P-shss-90,,0,0,0,,他们取出了在海底以下1.5公里深处的岩芯
-Dialogue: 0,0:03:10.40,0:03:15.58,1080P-sgbd-42,,0,0,0,,and they've looked for extraterrestrial dust that has fallen from space.
-Dialogue: 0,0:03:10.40,0:03:15.58,1080P-shss-90,,0,0,0,,并在那之中寻找从太空坠落的外星尘埃
-Dialogue: 0,0:03:15.95,0:03:20.00,1080P-sgbd-42,,0,0,0,,And of course the great thing about sediments is they're laid down over time.
-Dialogue: 0,0:03:15.95,0:03:20.00,1080P-shss-90,,0,0,0,,当然 很好的一点在于 沉积物是随着时间的推移 一点点沉积形成的
-Dialogue: 0,0:03:20.18,0:03:24.78,1080P-sgbd-42,,0,0,0,,So not only if they find these interstellar sediments or materials
-Dialogue: 0,0:03:20.18,0:03:24.78,1080P-shss-90,,0,0,0,,因此 他们不只能发现这些星际沉积物 或着说物质
-Dialogue: 0,0:03:25.04,0:03:27.20,1080P-sgbd-42,,0,0,0,,they can also correlate it with time
-Dialogue: 0,0:03:25.04,0:03:27.20,1080P-shss-90,,0,0,0,,还可以将这些发现与时间联系起来
-Dialogue: 0,0:03:27.26,0:03:33.30,1080P-sgbd-42,,0,0,0,,and guess what they found evidence for plutonium-244 down in these cores
-Dialogue: 0,0:03:27.26,0:03:33.30,1080P-shss-90,,0,0,0,,而猜猜怎么着 他们在这些岩芯中发现了钚-244存在的证据
-Dialogue: 0,0:03:33.76,0:03:39.48,1080P-sgbd-42,,0,0,0,,And of course the reason this is here is because this plutonium can form in space.
-Dialogue: 0,0:03:33.76,0:03:39.48,1080P-shss-90,,0,0,0,,当然 钚之所以出现在这里 是因为这种钚可以在太空中形成
-Dialogue: 0,0:03:39.88,0:03:43.41,1080P-sgbd-42,,0,0,0,,In space there's all sorts of processes that don't happen on Earth
-Dialogue: 0,0:03:39.88,0:03:43.41,1080P-shss-90,,0,0,0,,在太空中 有各种地球上没有的过程
-Dialogue: 0,0:03:43.53,0:03:49.03,1080P-sgbd-42,,0,0,0,,things like cosmic rays supernova possibly even more exotic processes
-Dialogue: 0,0:03:43.53,0:03:49.03,1080P-shss-90,,0,0,0,,像宇宙射线 超新星 甚至可能有一些更奇特的过程
-Dialogue: 0,0:03:49.30,0:03:51.74,1080P-sgbd-42,,0,0,0,,which can really throw those neutrons around.
-Dialogue: 0,0:03:49.30,0:03:51.74,1080P-shss-90,,0,0,0,,这些过程可以真正地把这些中子抛到周围
-Dialogue: 0,0:03:52.56,0:03:58.64,1080P-sgbd-42,,0,0,0,,So yeah turns out these same processes are important in making other radioisotopes
-Dialogue: 0,0:03:52.56,0:03:58.64,1080P-shss-90,,0,0,0,,因此事实证明 这些过程在制造其他放射性同位素方面也很重要
-Dialogue: 0,0:03:58.64,0:04:02.54,1080P-sgbd-42,,0,0,0,,and previously the team had been looking at iron-60.
-Dialogue: 0,0:03:58.64,0:04:02.54,1080P-shss-90,,0,0,0,,并且在这之前 该团队一直在研究铁-60
-Dialogue: 0,0:04:02.56,0:04:05.22,1080P-sgbd-42,,0,0,0,,So iron-60 is a slightly heavier version of iron.
-Dialogue: 0,0:04:02.56,0:04:05.22,1080P-shss-90,,0,0,0,,铁-60是铁的一个稍重的版本
-Dialogue: 0,0:04:05.30,0:04:07.36,1080P-sgbd-42,,0,0,0,,Iron-56 is the normal version.
-Dialogue: 0,0:04:05.30,0:04:07.36,1080P-shss-90,,0,0,0,,铁-56是一般的版本
-Dialogue: 0,0:04:07.95,0:04:11.63,1080P-sgbd-42,,0,0,0,,And it has a half-life of about 2.6 million years.
-Dialogue: 0,0:04:07.95,0:04:11.63,1080P-shss-90,,0,0,0,,并且它的半衰期约为260万年
-Dialogue: 0,0:04:12.22,0:04:15.02,1080P-sgbd-42,,0,0,0,,And that's actually way shorter than plutonium-244.
-Dialogue: 0,0:04:12.22,0:04:15.02,1080P-shss-90,,0,0,0,,而这实际上比钚-244的半衰期短得多
-Dialogue: 0,0:04:15.43,0:04:17.13,1080P-sgbd-42,,0,0,0,,But yeah back in 2015
-Dialogue: 0,0:04:15.43,0:04:17.13,1080P-shss-90,,0,0,0,,但是 是的 早在2015年
-Dialogue: 0,0:04:17.19,0:04:23.46,1080P-sgbd-42,,0,0,0,,they put a lot of effort into actually measuring the half-life of an iron-60
-Dialogue: 0,0:04:17.19,0:04:23.46,1080P-shss-90,,0,0,0,,他们就花了很多精力来实际测量铁-60的半衰期
-Dialogue: 0,0:04:23.49,0:04:28.14,1080P-sgbd-42,,0,0,0,,because this is so critical as a marker for various extraterrestrial processes.
-Dialogue: 0,0:04:23.49,0:04:28.14,1080P-shss-90,,0,0,0,,因为它是各种地外过程关键的标志
-Dialogue: 0,0:04:28.40,0:04:34.00,1080P-sgbd-42,,0,0,0,,At the time back in 2015 the half-life of iron 60
-Dialogue: 0,0:04:28.40,0:04:34.00,1080P-shss-90,,0,0,0,,在2015年的时候 铁-60的半衰期
-Dialogue: 0,0:04:34.00,0:04:39.43,1080P-sgbd-42,,0,0,0,,was thought to be between one and a half million years and 2.6 million years right
-Dialogue: 0,0:04:34.00,0:04:39.43,1080P-shss-90,,0,0,0,,被认为是在150万年到260万年之间
-Dialogue: 0,0:04:39.47,0:04:44.13,1080P-sgbd-42,,0,0,0,,so it's a huge error bar that they had to fix just by working on it.
-Dialogue: 0,0:04:39.47,0:04:44.13,1080P-shss-90,,0,0,0,,这是一个巨大的误差 他们不得不通过研究来解决这个问题
-Dialogue: 0,0:04:45.10,0:04:49.37,1080P-sgbd-42,,0,0,0,,So with that iron-60 data they were then looking at their sediments
-Dialogue: 0,0:04:45.10,0:04:49.37,1080P-shss-90,,0,0,0,,因此 有了铁-60的数据 他们就开始研究他们有的沉积物
-Dialogue: 0,0:04:49.39,0:04:53.06,1080P-sgbd-42,,0,0,0,,and they found a couple of periods in geological history
-Dialogue: 0,0:04:49.39,0:04:53.06,1080P-shss-90,,0,0,0,,并且他们发现在地质历史上有几个时期
-Dialogue: 0,0:04:53.72,0:04:58.95,1080P-sgbd-42,,0,0,0,,where they could see elevated levels of iron-60 getting deposited from interstellar grains
-Dialogue: 0,0:04:53.72,0:04:58.95,1080P-shss-90,,0,0,0,,铁-60从星际颗粒中沉淀下来的水平升高了
-Dialogue: 0,0:04:58.97,0:05:01.46,1080P-sgbd-42,,0,0,0,,so there's one period about eight million years ago
-Dialogue: 0,0:04:58.97,0:05:01.46,1080P-shss-90,,0,0,0,,所以有一个时期大约在800万年前
-Dialogue: 0,0:05:01.85,0:05:04.08,1080P-sgbd-42,,0,0,0,,where it looks like there might have been an event
-Dialogue: 0,0:05:01.85,0:05:04.08,1080P-shss-90,,0,0,0,,看起来当时可能发生了一个事件
-Dialogue: 0,0:05:04.29,0:05:10.77,1080P-sgbd-42,,0,0,0,,and then also a longer period about one and a half million years between 3.2 and 1.7 million years ago
-Dialogue: 0,0:05:04.29,0:05:10.77,1080P-shss-90,,0,0,0,,然后还有在320万年前到170万年前间的150万年这段较长的时间
-Dialogue: 0,0:05:11.44,0:05:14.62,1080P-sgbd-42,,0,0,0,,where they had a sort of continuous elevated level
-Dialogue: 0,0:05:11.44,0:05:14.62,1080P-shss-90,,0,0,0,,在那段时间里 铁-60的沉淀水平持续上升
-Dialogue: 0,0:05:14.65,0:05:19.26,1080P-sgbd-42,,0,0,0,,and one theory that was bandied around at the time and had some evidence to support it
-Dialogue: 0,0:05:14.65,0:05:19.26,1080P-shss-90,,0,0,0,,并且在当时有一个理论被传得沸沸扬扬 而且有还一些证据来支持它
-Dialogue: 0,0:05:19.52,0:05:23.05,1080P-sgbd-42,,0,0,0,,was the sun was near a star cluster
-Dialogue: 0,0:05:19.52,0:05:23.05,1080P-shss-90,,0,0,0,,那个理论是 太阳在一个星团附近
-Dialogue: 0,0:05:23.30,0:05:25.96,1080P-sgbd-42,,0,0,0,,and in star clusters all the stars form at the same time.
-Dialogue: 0,0:05:23.30,0:05:25.96,1080P-shss-90,,0,0,0,,而在星团中 所有的恒星都是在同一时间形成的
-Dialogue: 0,0:05:26.35,0:05:30.92,1080P-sgbd-42,,0,0,0,,So if you get a bunch of massive stars they all reach their retirement age
-Dialogue: 0,0:05:26.35,0:05:30.92,1080P-shss-90,,0,0,0,,所以如果你有一堆大质量的恒星 它们都达到了退休年龄
-Dialogue: 0,0:05:30.97,0:05:35.49,1080P-sgbd-42,,0,0,0,,their very violent retirement age where they go supernova at around the same time.
-Dialogue: 0,0:05:30.97,0:05:35.49,1080P-shss-90,,0,0,0,,于是在这段猛烈的时期内 它们都会在差不多的时间里会变成超新星
-Dialogue: 0,0:05:35.50,0:05:39.13,1080P-sgbd-42,,0,0,0,,So you could have a period of supernova in this cluster
-Dialogue: 0,0:05:35.50,0:05:39.13,1080P-shss-90,,0,0,0,,那么在这个星团里的这么一段超新星的时期内
-Dialogue: 0,0:05:39.89,0:05:44.28,1080P-sgbd-42,,0,0,0,,throwing material sort of continuously at the earth for about one and a half million years.
-Dialogue: 0,0:05:39.89,0:05:44.28,1080P-shss-90,,0,0,0,,在大约150万年的时间里不断向地球抛射物质
-Dialogue: 0,0:05:44.78,0:05:50.34,1080P-sgbd-42,,0,0,0,,Anyway back to plutonium-244, finding this is much rarer material.
-Dialogue: 0,0:05:44.78,0:05:50.34,1080P-shss-90,,0,0,0,,无论如何 回到钚-244的发现 发现这种物质是更为罕见的
-Dialogue: 0,0:05:50.38,0:05:53.85,1080P-sgbd-42,,0,0,0,,It required all sorts of new techniques for processing the cores
-Dialogue: 0,0:05:50.38,0:05:53.85,1080P-shss-90,,0,0,0,,它的发现需要通过各种新的技术来处理岩芯
-Dialogue: 0,0:05:54.16,0:05:57.17,1080P-sgbd-42,,0,0,0,,and trying to tease out that tiny signature
-Dialogue: 0,0:05:54.16,0:05:57.17,1080P-shss-90,,0,0,0,,并且试图从中找出那个微小的特征
-Dialogue: 0,0:05:57.23,0:05:58.43,1080P-sgbd-42,,0,0,0,,but they eventually found it.
-Dialogue: 0,0:05:57.23,0:05:58.43,1080P-shss-90,,0,0,0,,但他们最终发现了它
-Dialogue: 0,0:05:58.86,0:06:00.40,1080P-sgbd-42,,0,0,0,,I mean it was a very tiny one.
-Dialogue: 0,0:05:58.86,0:06:00.40,1080P-shss-90,,0,0,0,,我的意思是 那是一个非常微小的特征
-Dialogue: 0,0:06:00.40,0:06:02.54,1080P-sgbd-42,,0,0,0,,I saw one interview with Wallner
-Dialogue: 0,0:06:00.40,0:06:02.54,1080P-shss-90,,0,0,0,,我看过一个对沃尔纳博士的采访
-Dialogue: 0,0:06:02.55,0:06:08.20,1080P-sgbd-42,,0,0,0,,where he talked about finding the six to ten atoms of extraterrestrial material in a sample
-Dialogue: 0,0:06:02.55,0:06:08.20,1080P-shss-90,,0,0,0,,他在采访中谈到在一个样本中找到6到10个地外物质的原子
-Dialogue: 0,0:06:08.24,0:06:10.46,1080P-sgbd-42,,0,0,0,,and I'm just sort of mind blown that
-Dialogue: 0,0:06:08.24,0:06:10.46,1080P-shss-90,,0,0,0,,而且我只是觉得这很不可思议
-Dialogue: 0,0:06:10.50,0:06:14.34,1080P-sgbd-42,,0,0,0,,they're able to find such a small amount of material in the sample.
-Dialogue: 0,0:06:10.50,0:06:14.34,1080P-shss-90,,0,0,0,,他们只能够在样本中找到这么少的物质
-Dialogue: 0,0:06:15.10,0:06:20.40,1080P-sgbd-42,,0,0,0,,But yeah they still have enough measurements of plutonium-244 in these cores
-Dialogue: 0,0:06:15.10,0:06:20.40,1080P-shss-90,,0,0,0,,但是 是的 他们仍然在这些岩芯中测量出了足够量的钚-244
-Dialogue: 0,0:06:20.59,0:06:23.22,1080P-sgbd-42,,0,0,0,,that they can find correlations in time.
-Dialogue: 0,0:06:20.59,0:06:23.22,1080P-shss-90,,0,0,0,,使他们可以找到时间上的关联性
-Dialogue: 0,0:06:23.91,0:06:28.35,1080P-sgbd-42,,0,0,0,,And it turns out that it's produced at roughly the same time as the iron-60
-Dialogue: 0,0:06:23.91,0:06:28.35,1080P-shss-90,,0,0,0,,而且事实证明 它的产生时间与铁-60的产生时间大致相同
-Dialogue: 0,0:06:28.38,0:06:33.74,1080P-sgbd-42,,0,0,0,,so that strongly suggests that the iron-60 and the 244 are coming from a similar source
-Dialogue: 0,0:06:28.38,0:06:33.74,1080P-shss-90,,0,0,0,,所以这强烈地表明铁-60和钚-244的来源类似
-Dialogue: 0,0:06:33.78,0:06:36.04,1080P-sgbd-42,,0,0,0,,and if that source is a supernova
-Dialogue: 0,0:06:33.78,0:06:36.04,1080P-shss-90,,0,0,0,,而如果这个来源是一颗超新星
-Dialogue: 0,0:06:36.84,0:06:40.82,1080P-sgbd-42,,0,0,0,,that would mean that supernovas can produce heavy actinide elements.
-Dialogue: 0,0:06:36.84,0:06:40.82,1080P-shss-90,,0,0,0,,那就意味着超新星可以产生重的锕系元素
-Dialogue: 0,0:06:41.66,0:06:45.72,1080P-sgbd-42,,0,0,0,,And there's a whole field of research wide open field
-Dialogue: 0,0:06:41.66,0:06:45.72,1080P-shss-90,,0,0,0,,而且关于这个 有一整个广阔的研究领域
-Dialogue: 0,0:06:45.80,0:06:50.01,1080P-sgbd-42,,0,0,0,,looking at the origin of the elements that make up the universe.
-Dialogue: 0,0:06:45.80,0:06:50.01,1080P-shss-90,,0,0,0,,在研究构成宇宙的元素的起源
-Dialogue: 0,0:06:50.42,0:06:54.97,1080P-sgbd-42,,0,0,0,,The very young universe when it forms has almost all hydrogen and helium
-Dialogue: 0,0:06:50.42,0:06:54.97,1080P-shss-90,,0,0,0,,在宇宙刚形成还非常年轻时 宇宙有的几乎全是氢和氦
-Dialogue: 0,0:06:54.99,0:06:58.81,1080P-sgbd-42,,0,0,0,,and maybe tiny amounts of lithium that were produced in a very early hot universe.
-Dialogue: 0,0:06:54.99,0:06:58.81,1080P-shss-90,,0,0,0,,也许还有少量在非常早期的热宇宙中产生的锂
-Dialogue: 0,0:07:00.16,0:07:02.73,1080P-sgbd-42,,0,0,0,,but after that it's very boring until stars form
-Dialogue: 0,0:07:00.16,0:07:02.73,1080P-shss-90,,0,0,0,,但在那之后 就非常无聊了 直到恒星形成
-Dialogue: 0,0:07:02.73,0:07:06.32,1080P-sgbd-42,,0,0,0,,and the stars in their cores they start fusing the hydrogen and the helium
-Dialogue: 0,0:07:02.73,0:07:06.32,1080P-shss-90,,0,0,0,,而恒星在它们的核心中开始融合氢和氦
-Dialogue: 0,0:07:06.88,0:07:09.28,1080P-sgbd-42,,0,0,0,,and they start making heavier and heavier elements
-Dialogue: 0,0:07:06.88,0:07:09.28,1080P-shss-90,,0,0,0,,并开始制造越来越重的元素
-Dialogue: 0,0:07:09.28,0:07:12.31,1080P-sgbd-42,,0,0,0,,and you get things like carbon oxygen silicon
-Dialogue: 0,0:07:09.28,0:07:12.31,1080P-shss-90,,0,0,0,,所以你会得到像碳 氧 硅这样的东西
-Dialogue: 0,0:07:12.31,0:07:15.36,1080P-sgbd-42,,0,0,0,,and eventually they get up to iron
-Dialogue: 0,0:07:12.31,0:07:15.36,1080P-shss-90,,0,0,0,,并且最终它们制造了铁
-Dialogue: 0,0:07:15.36,0:07:19.36,1080P-sgbd-42,,0,0,0,,and at that point they have to stop because there's no more energy available from fusion
-Dialogue: 0,0:07:15.36,0:07:19.36,1080P-shss-90,,0,0,0,,而在这时它们必须停止 因为聚变没有更多的能量可用
-Dialogue: 0,0:07:19.36,0:07:23.08,1080P-sgbd-42,,0,0,0,,and those stars that make iron their core collapses down
-Dialogue: 0,0:07:19.36,0:07:23.08,1080P-shss-90,,0,0,0,,并且那些制造了铁的恒星 它们的核心塌陷了
-Dialogue: 0,0:07:23.08,0:07:28.33,1080P-sgbd-42,,0,0,0,,and as it collapses that releases a lot of gravitational energy and blows off the exterior
-Dialogue: 0,0:07:23.08,0:07:28.33,1080P-shss-90,,0,0,0,,当它塌陷时会释放出大量的引力势能 并将外部喷发
-Dialogue: 0,0:07:28.72,0:07:34.16,1080P-sgbd-42,,0,0,0,,and it's thought that this while this is a collapse it's also an energy release
-Dialogue: 0,0:07:28.72,0:07:34.16,1080P-shss-90,,0,0,0,,而人们认为这既是一种坍缩 同时还是一种能量的释放
-Dialogue: 0,0:07:34.16,0:07:38.80,1080P-sgbd-42,,0,0,0,,which blows off material which has been transformed at the core of the star
-Dialogue: 0,0:07:34.16,0:07:38.80,1080P-shss-90,,0,0,0,,它喷发了在恒星核心处被转化的物质
-Dialogue: 0,0:07:38.80,0:07:40.36,1080P-sgbd-42,,0,0,0,,and it's not been clear
-Dialogue: 0,0:07:38.80,0:07:40.36,1080P-shss-90,,0,0,0,,而且目前还不清楚
-Dialogue: 0,0:07:40.36,0:07:47.94,1080P-sgbd-42,,0,0,0,,whether the conditions inside a supernova could make something as neutron rich and heavy as plutonium
-Dialogue: 0,0:07:40.36,0:07:47.94,1080P-shss-90,,0,0,0,,超新星内部的条件是否能制造出像钚这样富含中子的重元素
-Dialogue: 0,0:07:48.82,0:07:53.29,1080P-sgbd-42,,0,0,0,,and this is now some evidence that maybe a core collapse supernova can in fact do that
-Dialogue: 0,0:07:48.82,0:07:53.29,1080P-shss-90,,0,0,0,,现在有一些证据表明 也许核心塌陷的超新星可以做到这一点
-Dialogue: 0,0:07:54.88,0:08:00.15,1080P-sgbd-42,,0,0,0,,but the thing is like to make anything big and heavy it's not a slow process right
-Dialogue: 0,0:07:54.88,0:08:00.15,1080P-shss-90,,0,0,0,,但问题是要制造任何大而重的东西 都不是一个缓慢的过程 对吗
-Dialogue: 0,0:08:00.96,0:08:05.44,1080P-sgbd-42,,0,0,0,,there's so many when you're trying to take a an atom and make a heavier isotope
-Dialogue: 0,0:08:00.96,0:08:05.44,1080P-shss-90,,0,0,0,,当你想把一个原子制造成更重的同位素时 有很多过程
-Dialogue: 0,0:08:05.44,0:08:07.49,1080P-sgbd-42,,0,0,0,,and you're bombarding with various particles.
-Dialogue: 0,0:08:05.44,0:08:07.49,1080P-shss-90,,0,0,0,,而且你要用各种粒子对其进行撞击
-Dialogue: 0,0:08:07.55,0:08:09.94,1080P-sgbd-42,,0,0,0,,The problem is you will inevitably run into...
-Dialogue: 0,0:08:07.55,0:08:09.94,1080P-shss-90,,0,0,0,,问题是 你将不可避免地遇到
-Dialogue: 0,0:08:10.42,0:08:11.98,1080P-sgbd-42,,0,0,0,,You will hit it with a neutron
-Dialogue: 0,0:08:10.42,0:08:11.98,1080P-shss-90,,0,0,0,,你用一个中子撞击它
-Dialogue: 0,0:08:12.23,0:08:15.68,1080P-sgbd-42,,0,0,0,,and you'll make it heavier and then the heavier version is so unstable
-Dialogue: 0,0:08:12.23,0:08:15.68,1080P-shss-90,,0,0,0,,并且这会让它变得更重 然后更重的版本是如此不稳定
-Dialogue: 0,0:08:15.73,0:08:17.78,1080P-sgbd-42,,0,0,0,,it decays in with an alpha particle.
-Dialogue: 0,0:08:15.73,0:08:17.78,1080P-shss-90,,0,0,0,,以至于它会与一个阿尔法粒子一起衰变
-Dialogue: 0,0:08:17.80,0:08:19.29,1080P-sgbd-42,,0,0,0,,and you've been set back.
-Dialogue: 0,0:08:17.80,0:08:19.29,1080P-shss-90,,0,0,0,,而这时你已经被挫败了
-Dialogue: 0,0:08:19.75,0:08:24.44,1080P-sgbd-42,,0,0,0,,So there's a whole bunch of elements you can easily produce
-Dialogue: 0,0:08:19.75,0:08:24.44,1080P-shss-90,,0,0,0,,所以 你可以很容易地制造一大堆的元素
-Dialogue: 0,0:08:24.76,0:08:31.20,1080P-sgbd-42,,0,0,0,,unless you have atoms getting exposed to massive fluxes of neutrons.
-Dialogue: 0,0:08:24.76,0:08:31.20,1080P-shss-90,,0,0,0,,除非你让原子暴露在大量的中子通量下
-Dialogue: 0,0:08:31.46,0:08:36.66,1080P-sgbd-42,,0,0,0,,And it's thought that the plutoniums and the actinide elements are way up in that region.
-Dialogue: 0,0:08:31.46,0:08:36.66,1080P-shss-90,,0,0,0,,并且人们认为 钚和锕系元素就远在这个范围之上
-Dialogue: 0,0:08:37.34,0:08:42.22,1080P-sgbd-42,,0,0,0,,So another thing they did was they looked at the ratio of the iron-60 these samples to the plutonium
-Dialogue: 0,0:08:37.34,0:08:42.22,1080P-shss-90,,0,0,0,,因此 他们做的另一件事是 他们观察了这些样品中铁-60与钚的比例
-Dialogue: 0,0:08:42.22,0:08:46.04,1080P-sgbd-42,,0,0,0,,and they think that the ratio is wrong.
-Dialogue: 0,0:08:42.22,0:08:46.04,1080P-shss-90,,0,0,0,,并且他们认为这个比例是错误的
-Dialogue: 0,0:08:46.09,0:08:47.61,1080P-sgbd-42,,0,0,0,,There's too little plutonium.
-Dialogue: 0,0:08:46.09,0:08:47.61,1080P-shss-90,,0,0,0,,因为这里面钚太少了
-Dialogue: 0,0:08:48.36,0:08:54.18,1080P-sgbd-42,,0,0,0,,Now they can get estimates of what it should be in nature just by looking at things like meteorites
-Dialogue: 0,0:08:48.36,0:08:54.18,1080P-shss-90,,0,0,0,,那么 他们可以通过观察陨石等东西和查看衰变产物的比例
-Dialogue: 0,0:08:54.20,0:08:58.18,1080P-sgbd-42,,0,0,0,,and looking at the ratios of the decay products
-Dialogue: 0,0:08:54.20,0:08:58.18,1080P-shss-90,,0,0,0,,来确定自然界中钚应有的含量
-Dialogue: 0,0:08:58.22,0:09:03.01,1080P-sgbd-42,,0,0,0,,because of although the plutonium has decayed they're still trapped inside these meteorites
-Dialogue: 0,0:08:58.22,0:09:03.01,1080P-shss-90,,0,0,0,,因为虽然钚已经衰变 但它们仍然被困在这些陨石中
-Dialogue: 0,0:09:03.04,0:09:08.04,1080P-sgbd-42,,0,0,0,,or that have been sitting in space unmodified since the formation of the solar system.
-Dialogue: 0,0:09:03.04,0:09:08.04,1080P-shss-90,,0,0,0,,或自太阳系形成以来一直存在于太空中未被转变
-Dialogue: 0,0:09:08.35,0:09:11.25,1080P-sgbd-42,,0,0,0,,So you can estimate what might have been there in the past right.
-Dialogue: 0,0:09:08.35,0:09:11.25,1080P-shss-90,,0,0,0,,所以你可以估计过去可能存在的东西 对吗
-Dialogue: 0,0:09:11.29,0:09:13.48,1080P-sgbd-42,,0,0,0,,What have radioactive elements were there.
-Dialogue: 0,0:09:11.29,0:09:13.48,1080P-shss-90,,0,0,0,,过去那里有哪些放射性元素
-Dialogue: 0,0:09:14.31,0:09:20.76,1080P-sgbd-42,,0,0,0,,So if the plutonium is lower than is expected from versus this background.
-Dialogue: 0,0:09:14.31,0:09:20.76,1080P-shss-90,,0,0,0,,因此 如果钚的值比根据这个环境预期的值低
-Dialogue: 0,0:09:21.02,0:09:27.16,1080P-sgbd-42,,0,0,0,,Then maybe that indicates that supernova aren't actually the main generators of these heavy actinide elements.
-Dialogue: 0,0:09:21.02,0:09:27.16,1080P-shss-90,,0,0,0,,那么这也许表明超新星实际上并不是这些重的锕元素的主要产生者
-Dialogue: 0,0:09:27.19,0:09:31.44,1080P-sgbd-42,,0,0,0,,and that would actually make sense because we were never sure there was enough neutron flux there.
-Dialogue: 0,0:09:27.19,0:09:31.44,1080P-shss-90,,0,0,0,,并且这实际上是有道理的 因为我们从未确定那里有足够的中子通量
-Dialogue: 0,0:09:31.44,0:09:36.86,1080P-sgbd-42,,0,0,0,,And there is an alternate method for making these really heavy elements in large quantities
-Dialogue: 0,0:09:31.44,0:09:36.86,1080P-shss-90,,0,0,0,,还有另一种方法可以大量制造这些重元素
-Dialogue: 0,0:09:36.92,0:09:39.11,1080P-sgbd-42,,0,0,0,,and that is neutron star mergers
-Dialogue: 0,0:09:36.92,0:09:39.11,1080P-shss-90,,0,0,0,,而那就是中子星的合并
-Dialogue: 0,0:09:39.43,0:09:43.83,1080P-sgbd-42,,0,0,0,,where leftover neutron star cores they spiral into each other
-Dialogue: 0,0:09:39.43,0:09:43.83,1080P-shss-90,,0,0,0,,在那种情况下 剩余的中子星核心会螺旋式地融入对方
-Dialogue: 0,0:09:43.83,0:09:47.02,1080P-sgbd-42,,0,0,0,,and as they spiral in they release a lot of energy
-Dialogue: 0,0:09:43.83,0:09:47.02,1080P-shss-90,,0,0,0,,并且当它们螺旋式融入时 它们释放出大量的能量
-Dialogue: 0,0:09:47.04,0:09:51.11,1080P-sgbd-42,,0,0,0,,and this energy drives these neutrons off at relativistic speeds.
-Dialogue: 0,0:09:47.04,0:09:51.11,1080P-shss-90,,0,0,0,,而这些能量促使这些中子以相对论性的速度离开
-Dialogue: 0,0:09:51.13,0:09:52.36,1080P-sgbd-42,,0,0,0,,They smash into each other.
-Dialogue: 0,0:09:51.13,0:09:52.36,1080P-shss-90,,0,0,0,,它们互相撞击
-Dialogue: 0,0:09:52.69,0:09:57.32,1080P-sgbd-42,,0,0,0,,They form a glorious cascade of new elements
-Dialogue: 0,0:09:52.69,0:09:57.32,1080P-shss-90,,0,0,0,,它们形成了由新元素构成的壮丽瀑布
-Dialogue: 0,0:09:57.51,0:10:03.51,1080P-sgbd-42,,0,0,0,,unconstrained by weak processes relatively garden-variety processes like supernova.
-Dialogue: 0,0:09:57.51,0:10:03.51,1080P-shss-90,,0,0,0,,不受较弱过程的限制 相对像超新星这种普通的过程
-Dialogue: 0,0:10:03.54,0:10:06.88,1080P-sgbd-42,,0,0,0,,The neutron star mergers are incredibly violent events
-Dialogue: 0,0:10:03.54,0:10:06.88,1080P-shss-90,,0,0,0,,中子星合并是极为剧烈的事件
-Dialogue: 0,0:10:06.91,0:10:09.78,1080P-sgbd-42,,0,0,0,,and we did find evidence for this.
-Dialogue: 0,0:10:06.91,0:10:09.78,1080P-shss-90,,0,0,0,,而且我们确实找到了这方面的证据
-Dialogue: 0,0:10:09.81,0:10:14.34,1080P-sgbd-42,,0,0,0,,The very first gravitational wave event which had an optical counterpart
-Dialogue: 0,0:10:09.81,0:10:14.34,1080P-shss-90,,0,0,0,,第一个有光学对应体的引力波事件
-Dialogue: 0,0:10:14.37,0:10:17.36,1080P-sgbd-42,,0,0,0,,is thought to be a neutron star merger
-Dialogue: 0,0:10:14.37,0:10:17.36,1080P-shss-90,,0,0,0,,被认为是一个中子星的合并事件
-Dialogue: 0,0:10:17.69,0:10:24.14,1080P-sgbd-42,,0,0,0,,and these are very likely critical in seeding the universe with these really heavy elements.
-Dialogue: 0,0:10:17.69,0:10:24.14,1080P-shss-90,,0,0,0,,而这些很可能是向宇宙中扩散这些重元素的关键
-Dialogue: 0,0:10:24.50,0:10:26.77,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:10:24.50,0:10:26.77,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
-Dialogue: 0,0:10:27.22,0:10:47.83,1080P-sgsm-6s,,0,0,0,,[Music]
-Dialogue: 0,0:10:27.22,0:10:47.83,1080P-sgbd-4s,,0,0,0,,[音乐]
+Dialogue: 0,0:00:04.40,0:00:11.40,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Natural Plutonium Discovered Beneath The Oceans Shows Cataclysmic History\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/c-B3UVGVCmU\N原视频发布日期：20210527\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:04.40,0:00:06.06,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Dialogue: 0,0:00:04.40,0:00:06.06,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
+Dialogue: 0,0:00:06.39,0:00:10.80,1080P-sgbd-42,,0,0,0,,{\blur4}When I was a science obsessed child growing up, I learned all about plutonium.
+Dialogue: 0,0:00:06.39,0:00:10.80,1080P-shss-90,,0,0,0,,{\blur4}当我作为一个迷恋科学的孩子在成长时 学到了许多钚的知识
+Dialogue: 0,0:00:10.80,0:00:14.34,1080P-sgbd-42,,0,0,0,,{\blur4}That is the spicy rocks at the heart of atomic weapons.
+Dialogue: 0,0:00:10.80,0:00:14.34,1080P-shss-90,,0,0,0,,{\blur4}它是原子武器核心中那块辛辣的岩石
+Dialogue: 0,0:00:14.63,0:00:18.59,1080P-sgbd-42,,0,0,0,,{\blur4}but moreover I learned that plutonium was an artificial element
+Dialogue: 0,0:00:14.63,0:00:18.59,1080P-shss-90,,0,0,0,,{\blur4}但我更了解到 钚是一种人造元素
+Dialogue: 0,0:00:18.62,0:00:21.60,1080P-sgbd-42,,0,0,0,,{\blur4}which had been synthesized by humans in the laboratory.
+Dialogue: 0,0:00:18.62,0:00:21.60,1080P-shss-90,,0,0,0,,{\blur4}它是人类在实验室里合成的
+Dialogue: 0,0:00:21.60,0:00:25.08,1080P-sgbd-42,,0,0,0,,{\blur4}It didn't exist in nature and was entirely artificial
+Dialogue: 0,0:00:21.60,0:00:25.08,1080P-shss-90,,0,0,0,,{\blur4}它不存在于自然界 并且完全是人造的
+Dialogue: 0,0:00:25.35,0:00:29.08,1080P-sgbd-42,,0,0,0,,{\blur4}and of course as I grew up and learned more about physics
+Dialogue: 0,0:00:25.35,0:00:29.08,1080P-shss-90,,0,0,0,,{\blur4}当然 随着我的成长以及对物理学的进一步了解
+Dialogue: 0,0:00:29.36,0:00:34.17,1080P-sgbd-42,,0,0,0,,{\blur4}I learned that this was wrong because plutonium does in fact exist in nature.
+Dialogue: 0,0:00:29.36,0:00:34.17,1080P-shss-90,,0,0,0,,{\blur4}我了解到那是错误的 因为实际上自然界中存在有钚
+Dialogue: 0,0:00:34.64,0:00:38.69,1080P-sgbd-42,,0,0,0,,{\blur4}But the stuff we see in nature is generally not primordial.
+Dialogue: 0,0:00:34.64,0:00:38.69,1080P-shss-90,,0,0,0,,{\blur4}但是我们在自然界看到的钚通常不是原生的
+Dialogue: 0,0:00:38.72,0:00:40.72,1080P-sgbd-42,,0,0,0,,{\blur4}It didn't form with the earth.
+Dialogue: 0,0:00:38.72,0:00:40.72,1080P-shss-90,,0,0,0,,{\blur4}它并不是与地球一起形成的
+Dialogue: 0,0:00:41.10,0:00:43.64,1080P-sgbd-42,,0,0,0,,{\blur4}If you have any amount of uranium sitting around
+Dialogue: 0,0:00:41.10,0:00:43.64,1080P-shss-90,,0,0,0,,{\blur4}如果你身边有任何数量的铀
+Dialogue: 0,0:00:44.00,0:00:48.53,1080P-sgbd-42,,0,0,0,,{\blur4}then you will have spontaneous fissions happening in those uranium atoms.
+Dialogue: 0,0:00:44.00,0:00:48.53,1080P-shss-90,,0,0,0,,{\blur4}那么 在这些铀原子中将发生自发裂变
+Dialogue: 0,0:00:48.86,0:00:51.36,1080P-sgbd-42,,0,0,0,,{\blur4}And some of those fissions will produce neutrons.
+Dialogue: 0,0:00:48.86,0:00:51.36,1080P-shss-90,,0,0,0,,{\blur4}而其中一些裂变会产生中子
+Dialogue: 0,0:00:51.57,0:00:56.82,1080P-sgbd-42,,0,0,0,,{\blur4}Some of those neutrons can hit a uranium-238 and transform it into a plutonium-239.
+Dialogue: 0,0:00:51.57,0:00:56.82,1080P-shss-90,,0,0,0,,{\blur4}而这之中的一些中子可以击中铀-238并将其转化为钚-239
+Dialogue: 0,0:00:56.87,0:01:00.06,1080P-sgbd-42,,0,0,0,,{\blur4}So plutonium does exist naturally in the earth
+Dialogue: 0,0:00:56.87,0:01:00.06,1080P-shss-90,,0,0,0,,{\blur4}因此 钚确实会自然地存在于地球上
+Dialogue: 0,0:01:00.54,0:01:04.82,1080P-sgbd-42,,0,0,0,,{\blur4}but because plutonium-239 has a half-life of thousands of years
+Dialogue: 0,0:01:00.54,0:01:04.82,1080P-shss-90,,0,0,0,,{\blur4}但由于钚-239的半衰期仅为数千年
+Dialogue: 0,0:01:05.11,0:01:09.78,1080P-sgbd-42,,0,0,0,,{\blur4}none of that stuff that was there when the earth was formed is still in the earth right now.
+Dialogue: 0,0:01:05.11,0:01:09.78,1080P-shss-90,,0,0,0,,{\blur4}没有钚从地球形成时一直存在到现在
+Dialogue: 0,0:01:10.08,0:01:15.82,1080P-sgbd-42,,0,0,0,,{\blur4}But there is an isotope of plutonium called plutonium-244
+Dialogue: 0,0:01:10.08,0:01:15.82,1080P-shss-90,,0,0,0,,{\blur4}但是 有一种钚的同位素叫做钚-244
+Dialogue: 0,0:01:16.04,0:01:19.58,1080P-sgbd-42,,0,0,0,,{\blur4}which might exist in the earth entirely naturally.
+Dialogue: 0,0:01:16.04,0:01:19.58,1080P-shss-90,,0,0,0,,{\blur4}它可能完全自然地存在于地球上
+Dialogue: 0,0:01:19.89,0:01:23.56,1080P-sgbd-42,,0,0,0,,{\blur4}It has a half-life of 81 million years
+Dialogue: 0,0:01:19.89,0:01:23.56,1080P-shss-90,,0,0,0,,{\blur4}它的半衰期为8100万年
+Dialogue: 0,0:01:23.89,0:01:26.96,1080P-sgbd-42,,0,0,0,,{\blur4}and that's actually pretty long for an actinide.
+Dialogue: 0,0:01:23.89,0:01:26.96,1080P-shss-90,,0,0,0,,{\blur4}对于锕系元素来说 这样的半衰期实际上是相当长的
+Dialogue: 0,0:01:27.01,0:01:29.74,1080P-sgbd-42,,0,0,0,,{\blur4}It's the fourth longest half-life of any actinides.
+Dialogue: 0,0:01:27.01,0:01:29.74,1080P-shss-90,,0,0,0,,{\blur4}它的半衰期是所有锕系元素中第四长的
+Dialogue: 0,0:01:29.76,0:01:33.79,1080P-sgbd-42,,0,0,0,,{\blur4}There's thorium-232, uranium-235 and uranium-238.
+Dialogue: 0,0:01:29.76,0:01:33.79,1080P-shss-90,,0,0,0,,{\blur4}它前面的三个是钍-232 铀-235和铀-238
+Dialogue: 0,0:01:34.37,0:01:39.58,1080P-sgbd-42,,0,0,0,,{\blur4}Now 100 million years or 80 million years or whatever sounds like a pretty long time
+Dialogue: 0,0:01:34.37,0:01:39.58,1080P-shss-90,,0,0,0,,{\blur4}那么 1亿年或8000万年之类的 听起来是一个相当长的时间
+Dialogue: 0,0:01:40.10,0:01:41.74,1080P-sgbd-42,,0,0,0,,{\blur4}but the earth is very old
+Dialogue: 0,0:01:40.10,0:01:41.74,1080P-shss-90,,0,0,0,,{\blur4}但地球是非常古老的
+Dialogue: 0,0:01:41.77,0:01:48.52,1080P-sgbd-42,,0,0,0,,{\blur4}and by now any plutonium-244 that was in the crust has gone through like 60 half-lives.
+Dialogue: 0,0:01:41.77,0:01:48.52,1080P-shss-90,,0,0,0,,{\blur4}并且到现在 地壳中任何的钚-244都已经经历了大概60个半衰期
+Dialogue: 0,0:01:49.50,0:01:52.40,1080P-sgbd-42,,0,0,0,,{\blur4}One estimate of how much is in there in the earth
+Dialogue: 0,0:01:49.50,0:01:52.40,1080P-shss-90,,0,0,0,,{\blur4}关于在地球上有多少钚-244有一个估计
+Dialogue: 0,0:01:52.53,0:01:55.48,1080P-sgbd-42,,0,0,0,,{\blur4}would be something like seven grams through the entire planet
+Dialogue: 0,0:01:52.53,0:01:55.48,1080P-shss-90,,0,0,0,,{\blur4}估计整个地球上有7克左右的钚-244
+Dialogue: 0,0:01:55.51,0:01:58.18,1080P-sgbd-42,,0,0,0,,{\blur4}so very hard to find any trace of it.
+Dialogue: 0,0:01:55.51,0:01:58.18,1080P-shss-90,,0,0,0,,{\blur4}所以很难找到它的任何痕迹
+Dialogue: 0,0:01:59.22,0:02:05.02,1080P-sgbd-42,,0,0,0,,{\blur4}And the thing is you can't really form plutonium-244 by accident
+Dialogue: 0,0:01:59.22,0:02:05.02,1080P-shss-90,,0,0,0,,{\blur4}并且事情是这样的 你不可能真的意外地产生钚-244
+Dialogue: 0,0:02:05.13,0:02:10.21,1080P-sgbd-42,,0,0,0,,{\blur4}by the same process of having spicy rocks sitting around in the in the crust of the earth
+Dialogue: 0,0:02:05.13,0:02:10.21,1080P-shss-90,,0,0,0,,{\blur4}你不可能通过在地壳中放置辛辣岩石的同样方式来形成钚-244
+Dialogue: 0,0:02:10.74,0:02:15.83,1080P-sgbd-42,,0,0,0,,{\blur4}because to make plutonium-244 you have to keep bombarding it with neutrons
+Dialogue: 0,0:02:10.74,0:02:15.83,1080P-shss-90,,0,0,0,,{\blur4}因为要制造钚-244的话 你必须不断用中子撞击它
+Dialogue: 0,0:02:15.84,0:02:20.85,1080P-sgbd-42,,0,0,0,,{\blur4}and as you go up towards plutonium-244, the isotopes get less stable
+Dialogue: 0,0:02:15.84,0:02:20.85,1080P-shss-90,,0,0,0,,{\blur4}并且当你向钚-244的发展时 同位素变得不太稳定
+Dialogue: 0,0:02:20.90,0:02:23.86,1080P-sgbd-42,,0,0,0,,{\blur4}and so you need to hit them very quickly
+Dialogue: 0,0:02:20.90,0:02:23.86,1080P-shss-90,,0,0,0,,{\blur4}所以你需要非常迅速地击中它们
+Dialogue: 0,0:02:23.90,0:02:26.52,1080P-sgbd-42,,0,0,0,,{\blur4}and that just doesn't happen in natural forms.
+Dialogue: 0,0:02:23.90,0:02:26.52,1080P-shss-90,,0,0,0,,{\blur4}而这在自然界中是不可能发生的
+Dialogue: 0,0:02:27.68,0:02:32.13,1080P-sgbd-42,,0,0,0,,{\blur4}It is possible to make it in a high neutron flux nuclear reactor
+Dialogue: 0,0:02:27.68,0:02:32.13,1080P-shss-90,,0,0,0,,{\blur4}在有高中子通量的核反应堆中制造它是有可能
+Dialogue: 0,0:02:32.15,0:02:35.34,1080P-sgbd-42,,0,0,0,,{\blur4}where you design it so it generates lots of neutrons very quickly
+Dialogue: 0,0:02:32.15,0:02:35.34,1080P-shss-90,,0,0,0,,{\blur4}由于核反应堆的设计 它可以非常迅速地产生大量的中子
+Dialogue: 0,0:02:35.64,0:02:39.57,1080P-sgbd-42,,0,0,0,,{\blur4}and you get that plutonium up to 244 where it's stable again.
+Dialogue: 0,0:02:35.64,0:02:39.57,1080P-shss-90,,0,0,0,,{\blur4}然后你可以将钚提高到钚-244 并且在那时其再次稳定
+Dialogue: 0,0:02:39.94,0:02:44.60,1080P-sgbd-42,,0,0,0,,{\blur4}Or it's made in nuclear weapons and you'll find that in nuclear fallout.
+Dialogue: 0,0:02:39.94,0:02:44.60,1080P-shss-90,,0,0,0,,{\blur4}或者它可以由核武器制造 而且你会在核沉降物中发现它
+Dialogue: 0,0:02:44.98,0:02:51.62,1080P-sgbd-42,,0,0,0,,{\blur4}But there haven't been any evidence that it has been found in terrestrial geology
+Dialogue: 0,0:02:44.98,0:02:51.62,1080P-shss-90,,0,0,0,,{\blur4}但在陆地地质学和还没有被其探索过的地方中
+Dialogue: 0,0:02:51.65,0:02:56.06,1080P-sgbd-42,,0,0,0,,{\blur4}and places untouched by these kind of processes until now.
+Dialogue: 0,0:02:51.65,0:02:56.06,1080P-shss-90,,0,0,0,,{\blur4}还没有发现任何它存在的证据 直到现在
+Dialogue: 0,0:02:56.85,0:03:00.89,1080P-sgbd-42,,0,0,0,,{\blur4}So there's a group led by a guy called Dr Anton Wallner
+Dialogue: 0,0:02:56.85,0:03:00.89,1080P-shss-90,,0,0,0,,{\blur4}所以有一个由安东·沃尔纳博士领导的研究团队
+Dialogue: 0,0:03:00.94,0:03:04.15,1080P-sgbd-42,,0,0,0,,{\blur4}and they've been looking at deep ocean sediments.
+Dialogue: 0,0:03:00.94,0:03:04.15,1080P-shss-90,,0,0,0,,{\blur4}一直在研究深海沉积物
+Dialogue: 0,0:03:04.15,0:03:06.22,1080P-sgbd-42,,0,0,0,,{\blur4}They're like looking at the bottom of the pacific
+Dialogue: 0,0:03:04.15,0:03:06.22,1080P-shss-90,,0,0,0,,{\blur4}就像在观察太平洋的底部一样
+Dialogue: 0,0:03:06.26,0:03:10.40,1080P-sgbd-42,,0,0,0,,{\blur4}and one and a half kilometers below that they've taken out cores
+Dialogue: 0,0:03:06.26,0:03:10.40,1080P-shss-90,,0,0,0,,{\blur4}他们取出了在海底以下1.5公里深处的岩芯
+Dialogue: 0,0:03:10.40,0:03:15.58,1080P-sgbd-42,,0,0,0,,{\blur4}and they've looked for extraterrestrial dust that has fallen from space.
+Dialogue: 0,0:03:10.40,0:03:15.58,1080P-shss-90,,0,0,0,,{\blur4}并在那之中寻找从太空坠落的外星尘埃
+Dialogue: 0,0:03:15.95,0:03:20.00,1080P-sgbd-42,,0,0,0,,{\blur4}And of course the great thing about sediments is they're laid down over time.
+Dialogue: 0,0:03:15.95,0:03:20.00,1080P-shss-90,,0,0,0,,{\blur4}当然 很好的一点在于 沉积物是随着时间的推移 一点点沉积形成的
+Dialogue: 0,0:03:20.18,0:03:24.78,1080P-sgbd-42,,0,0,0,,{\blur4}So not only if they find these interstellar sediments or materials
+Dialogue: 0,0:03:20.18,0:03:24.78,1080P-shss-90,,0,0,0,,{\blur4}因此 他们不只能发现这些星际沉积物 或着说物质
+Dialogue: 0,0:03:25.04,0:03:27.20,1080P-sgbd-42,,0,0,0,,{\blur4}they can also correlate it with time
+Dialogue: 0,0:03:25.04,0:03:27.20,1080P-shss-90,,0,0,0,,{\blur4}还可以将这些发现与时间联系起来
+Dialogue: 0,0:03:27.26,0:03:33.30,1080P-sgbd-42,,0,0,0,,{\blur4}and guess what they found evidence for plutonium-244 down in these cores
+Dialogue: 0,0:03:27.26,0:03:33.30,1080P-shss-90,,0,0,0,,{\blur4}而猜猜怎么着 他们在这些岩芯中发现了钚-244存在的证据
+Dialogue: 0,0:03:33.76,0:03:39.48,1080P-sgbd-42,,0,0,0,,{\blur4}And of course the reason this is here is because this plutonium can form in space.
+Dialogue: 0,0:03:33.76,0:03:39.48,1080P-shss-90,,0,0,0,,{\blur4}当然 钚之所以出现在这里 是因为这种钚可以在太空中形成
+Dialogue: 0,0:03:39.88,0:03:43.41,1080P-sgbd-42,,0,0,0,,{\blur4}In space there's all sorts of processes that don't happen on Earth
+Dialogue: 0,0:03:39.88,0:03:43.41,1080P-shss-90,,0,0,0,,{\blur4}在太空中 有各种地球上没有的过程
+Dialogue: 0,0:03:43.53,0:03:49.03,1080P-sgbd-42,,0,0,0,,{\blur4}things like cosmic rays supernova possibly even more exotic processes
+Dialogue: 0,0:03:43.53,0:03:49.03,1080P-shss-90,,0,0,0,,{\blur4}像宇宙射线 超新星 甚至可能有一些更奇特的过程
+Dialogue: 0,0:03:49.30,0:03:51.74,1080P-sgbd-42,,0,0,0,,{\blur4}which can really throw those neutrons around.
+Dialogue: 0,0:03:49.30,0:03:51.74,1080P-shss-90,,0,0,0,,{\blur4}这些过程可以真正地把这些中子抛到周围
+Dialogue: 0,0:03:52.56,0:03:58.64,1080P-sgbd-42,,0,0,0,,{\blur4}So yeah turns out these same processes are important in making other radioisotopes
+Dialogue: 0,0:03:52.56,0:03:58.64,1080P-shss-90,,0,0,0,,{\blur4}因此事实证明 这些过程在制造其他放射性同位素方面也很重要
+Dialogue: 0,0:03:58.64,0:04:02.54,1080P-sgbd-42,,0,0,0,,{\blur4}and previously the team had been looking at iron-60.
+Dialogue: 0,0:03:58.64,0:04:02.54,1080P-shss-90,,0,0,0,,{\blur4}并且在这之前 该团队一直在研究铁-60
+Dialogue: 0,0:04:02.56,0:04:05.22,1080P-sgbd-42,,0,0,0,,{\blur4}So iron-60 is a slightly heavier version of iron.
+Dialogue: 0,0:04:02.56,0:04:05.22,1080P-shss-90,,0,0,0,,{\blur4}铁-60是铁的一个稍重的版本
+Dialogue: 0,0:04:05.30,0:04:07.36,1080P-sgbd-42,,0,0,0,,{\blur4}Iron-56 is the normal version.
+Dialogue: 0,0:04:05.30,0:04:07.36,1080P-shss-90,,0,0,0,,{\blur4}铁-56是一般的版本
+Dialogue: 0,0:04:07.95,0:04:11.63,1080P-sgbd-42,,0,0,0,,{\blur4}And it has a half-life of about 2.6 million years.
+Dialogue: 0,0:04:07.95,0:04:11.63,1080P-shss-90,,0,0,0,,{\blur4}并且它的半衰期约为260万年
+Dialogue: 0,0:04:12.22,0:04:15.02,1080P-sgbd-42,,0,0,0,,{\blur4}And that's actually way shorter than plutonium-244.
+Dialogue: 0,0:04:12.22,0:04:15.02,1080P-shss-90,,0,0,0,,{\blur4}而这实际上比钚-244的半衰期短得多
+Dialogue: 0,0:04:15.43,0:04:17.13,1080P-sgbd-42,,0,0,0,,{\blur4}But yeah back in 2015
+Dialogue: 0,0:04:15.43,0:04:17.13,1080P-shss-90,,0,0,0,,{\blur4}但是 是的 早在2015年
+Dialogue: 0,0:04:17.19,0:04:23.46,1080P-sgbd-42,,0,0,0,,{\blur4}they put a lot of effort into actually measuring the half-life of an iron-60
+Dialogue: 0,0:04:17.19,0:04:23.46,1080P-shss-90,,0,0,0,,{\blur4}他们就花了很多精力来实际测量铁-60的半衰期
+Dialogue: 0,0:04:23.49,0:04:28.14,1080P-sgbd-42,,0,0,0,,{\blur4}because this is so critical as a marker for various extraterrestrial processes.
+Dialogue: 0,0:04:23.49,0:04:28.14,1080P-shss-90,,0,0,0,,{\blur4}因为它是各种地外过程关键的标志
+Dialogue: 0,0:04:28.40,0:04:34.00,1080P-sgbd-42,,0,0,0,,{\blur4}At the time back in 2015 the half-life of iron 60
+Dialogue: 0,0:04:28.40,0:04:34.00,1080P-shss-90,,0,0,0,,{\blur4}在2015年的时候 铁-60的半衰期
+Dialogue: 0,0:04:34.00,0:04:39.43,1080P-sgbd-42,,0,0,0,,{\blur4}was thought to be between one and a half million years and 2.6 million years right
+Dialogue: 0,0:04:34.00,0:04:39.43,1080P-shss-90,,0,0,0,,{\blur4}被认为是在150万年到260万年之间
+Dialogue: 0,0:04:39.47,0:04:44.13,1080P-sgbd-42,,0,0,0,,{\blur4}so it's a huge error bar that they had to fix just by working on it.
+Dialogue: 0,0:04:39.47,0:04:44.13,1080P-shss-90,,0,0,0,,{\blur4}这是一个巨大的误差 他们不得不通过研究来解决这个问题
+Dialogue: 0,0:04:45.10,0:04:49.37,1080P-sgbd-42,,0,0,0,,{\blur4}So with that iron-60 data they were then looking at their sediments
+Dialogue: 0,0:04:45.10,0:04:49.37,1080P-shss-90,,0,0,0,,{\blur4}因此 有了铁-60的数据 他们就开始研究他们有的沉积物
+Dialogue: 0,0:04:49.39,0:04:53.06,1080P-sgbd-42,,0,0,0,,{\blur4}and they found a couple of periods in geological history
+Dialogue: 0,0:04:49.39,0:04:53.06,1080P-shss-90,,0,0,0,,{\blur4}并且他们发现在地质历史上有几个时期
+Dialogue: 0,0:04:53.72,0:04:58.95,1080P-sgbd-42,,0,0,0,,{\blur4}where they could see elevated levels of iron-60 getting deposited from interstellar grains
+Dialogue: 0,0:04:53.72,0:04:58.95,1080P-shss-90,,0,0,0,,{\blur4}铁-60从星际颗粒中沉淀下来的水平升高了
+Dialogue: 0,0:04:58.97,0:05:01.46,1080P-sgbd-42,,0,0,0,,{\blur4}so there's one period about eight million years ago
+Dialogue: 0,0:04:58.97,0:05:01.46,1080P-shss-90,,0,0,0,,{\blur4}所以有一个时期大约在800万年前
+Dialogue: 0,0:05:01.85,0:05:04.08,1080P-sgbd-42,,0,0,0,,{\blur4}where it looks like there might have been an event
+Dialogue: 0,0:05:01.85,0:05:04.08,1080P-shss-90,,0,0,0,,{\blur4}看起来当时可能发生了一个事件
+Dialogue: 0,0:05:04.29,0:05:10.77,1080P-sgbd-42,,0,0,0,,{\blur4}and then also a longer period about one and a half million years between 3.2 and 1.7 million years ago
+Dialogue: 0,0:05:04.29,0:05:10.77,1080P-shss-90,,0,0,0,,{\blur4}然后还有在320万年前到170万年前间的150万年这段较长的时间
+Dialogue: 0,0:05:11.44,0:05:14.62,1080P-sgbd-42,,0,0,0,,{\blur4}where they had a sort of continuous elevated level
+Dialogue: 0,0:05:11.44,0:05:14.62,1080P-shss-90,,0,0,0,,{\blur4}在那段时间里 铁-60的沉淀水平持续上升
+Dialogue: 0,0:05:14.65,0:05:19.26,1080P-sgbd-42,,0,0,0,,{\blur4}and one theory that was bandied around at the time and had some evidence to support it
+Dialogue: 0,0:05:14.65,0:05:19.26,1080P-shss-90,,0,0,0,,{\blur4}并且在当时有一个理论被传得沸沸扬扬 而且有还一些证据来支持它
+Dialogue: 0,0:05:19.52,0:05:23.05,1080P-sgbd-42,,0,0,0,,{\blur4}was the sun was near a star cluster
+Dialogue: 0,0:05:19.52,0:05:23.05,1080P-shss-90,,0,0,0,,{\blur4}那个理论是 太阳在一个星团附近
+Dialogue: 0,0:05:23.30,0:05:25.96,1080P-sgbd-42,,0,0,0,,{\blur4}and in star clusters all the stars form at the same time.
+Dialogue: 0,0:05:23.30,0:05:25.96,1080P-shss-90,,0,0,0,,{\blur4}而在星团中 所有的恒星都是在同一时间形成的
+Dialogue: 0,0:05:26.35,0:05:30.92,1080P-sgbd-42,,0,0,0,,{\blur4}So if you get a bunch of massive stars they all reach their retirement age
+Dialogue: 0,0:05:26.35,0:05:30.92,1080P-shss-90,,0,0,0,,{\blur4}所以如果你有一堆大质量的恒星 它们都达到了退休年龄
+Dialogue: 0,0:05:30.97,0:05:35.49,1080P-sgbd-42,,0,0,0,,{\blur4}their very violent retirement age where they go supernova at around the same time.
+Dialogue: 0,0:05:30.97,0:05:35.49,1080P-shss-90,,0,0,0,,{\blur4}于是在这段猛烈的时期内 它们都会在差不多的时间里会变成超新星
+Dialogue: 0,0:05:35.50,0:05:39.13,1080P-sgbd-42,,0,0,0,,{\blur4}So you could have a period of supernova in this cluster
+Dialogue: 0,0:05:35.50,0:05:39.13,1080P-shss-90,,0,0,0,,{\blur4}那么在这个星团里的这么一段超新星的时期内
+Dialogue: 0,0:05:39.89,0:05:44.28,1080P-sgbd-42,,0,0,0,,{\blur4}throwing material sort of continuously at the earth for about one and a half million years.
+Dialogue: 0,0:05:39.89,0:05:44.28,1080P-shss-90,,0,0,0,,{\blur4}在大约150万年的时间里不断向地球抛射物质
+Dialogue: 0,0:05:44.78,0:05:50.34,1080P-sgbd-42,,0,0,0,,{\blur4}Anyway back to plutonium-244, finding this is much rarer material.
+Dialogue: 0,0:05:44.78,0:05:50.34,1080P-shss-90,,0,0,0,,{\blur4}无论如何 回到钚-244的发现 发现这种物质是更为罕见的
+Dialogue: 0,0:05:50.38,0:05:53.85,1080P-sgbd-42,,0,0,0,,{\blur4}It required all sorts of new techniques for processing the cores
+Dialogue: 0,0:05:50.38,0:05:53.85,1080P-shss-90,,0,0,0,,{\blur4}它的发现需要通过各种新的技术来处理岩芯
+Dialogue: 0,0:05:54.16,0:05:57.17,1080P-sgbd-42,,0,0,0,,{\blur4}and trying to tease out that tiny signature
+Dialogue: 0,0:05:54.16,0:05:57.17,1080P-shss-90,,0,0,0,,{\blur4}并且试图从中找出那个微小的特征
+Dialogue: 0,0:05:57.23,0:05:58.43,1080P-sgbd-42,,0,0,0,,{\blur4}but they eventually found it.
+Dialogue: 0,0:05:57.23,0:05:58.43,1080P-shss-90,,0,0,0,,{\blur4}但他们最终发现了它
+Dialogue: 0,0:05:58.86,0:06:00.40,1080P-sgbd-42,,0,0,0,,{\blur4}I mean it was a very tiny one.
+Dialogue: 0,0:05:58.86,0:06:00.40,1080P-shss-90,,0,0,0,,{\blur4}我的意思是 那是一个非常微小的特征
+Dialogue: 0,0:06:00.40,0:06:02.54,1080P-sgbd-42,,0,0,0,,{\blur4}I saw one interview with Wallner
+Dialogue: 0,0:06:00.40,0:06:02.54,1080P-shss-90,,0,0,0,,{\blur4}我看过一个对沃尔纳博士的采访
+Dialogue: 0,0:06:02.55,0:06:08.20,1080P-sgbd-42,,0,0,0,,{\blur4}where he talked about finding the six to ten atoms of extraterrestrial material in a sample
+Dialogue: 0,0:06:02.55,0:06:08.20,1080P-shss-90,,0,0,0,,{\blur4}他在采访中谈到在一个样本中找到6到10个地外物质的原子
+Dialogue: 0,0:06:08.24,0:06:10.46,1080P-sgbd-42,,0,0,0,,{\blur4}and I'm just sort of mind blown that
+Dialogue: 0,0:06:08.24,0:06:10.46,1080P-shss-90,,0,0,0,,{\blur4}而且我只是觉得这很不可思议
+Dialogue: 0,0:06:10.50,0:06:14.34,1080P-sgbd-42,,0,0,0,,{\blur4}they're able to find such a small amount of material in the sample.
+Dialogue: 0,0:06:10.50,0:06:14.34,1080P-shss-90,,0,0,0,,{\blur4}他们只能够在样本中找到这么少的物质
+Dialogue: 0,0:06:15.10,0:06:20.40,1080P-sgbd-42,,0,0,0,,{\blur4}But yeah they still have enough measurements of plutonium-244 in these cores
+Dialogue: 0,0:06:15.10,0:06:20.40,1080P-shss-90,,0,0,0,,{\blur4}但是 是的 他们仍然在这些岩芯中测量出了足够量的钚-244
+Dialogue: 0,0:06:20.59,0:06:23.22,1080P-sgbd-42,,0,0,0,,{\blur4}that they can find correlations in time.
+Dialogue: 0,0:06:20.59,0:06:23.22,1080P-shss-90,,0,0,0,,{\blur4}使他们可以找到时间上的关联性
+Dialogue: 0,0:06:23.91,0:06:28.35,1080P-sgbd-42,,0,0,0,,{\blur4}And it turns out that it's produced at roughly the same time as the iron-60
+Dialogue: 0,0:06:23.91,0:06:28.35,1080P-shss-90,,0,0,0,,{\blur4}而且事实证明 它的产生时间与铁-60的产生时间大致相同
+Dialogue: 0,0:06:28.38,0:06:33.74,1080P-sgbd-42,,0,0,0,,{\blur4}so that strongly suggests that the iron-60 and the 244 are coming from a similar source
+Dialogue: 0,0:06:28.38,0:06:33.74,1080P-shss-90,,0,0,0,,{\blur4}所以这强烈地表明铁-60和钚-244的来源类似
+Dialogue: 0,0:06:33.78,0:06:36.04,1080P-sgbd-42,,0,0,0,,{\blur4}and if that source is a supernova
+Dialogue: 0,0:06:33.78,0:06:36.04,1080P-shss-90,,0,0,0,,{\blur4}而如果这个来源是一颗超新星
+Dialogue: 0,0:06:36.84,0:06:40.82,1080P-sgbd-42,,0,0,0,,{\blur4}that would mean that supernovas can produce heavy actinide elements.
+Dialogue: 0,0:06:36.84,0:06:40.82,1080P-shss-90,,0,0,0,,{\blur4}那就意味着超新星可以产生重的锕系元素
+Dialogue: 0,0:06:41.66,0:06:45.72,1080P-sgbd-42,,0,0,0,,{\blur4}And there's a whole field of research wide open field
+Dialogue: 0,0:06:41.66,0:06:45.72,1080P-shss-90,,0,0,0,,{\blur4}而且关于这个 有一整个广阔的研究领域
+Dialogue: 0,0:06:45.80,0:06:50.01,1080P-sgbd-42,,0,0,0,,{\blur4}looking at the origin of the elements that make up the universe.
+Dialogue: 0,0:06:45.80,0:06:50.01,1080P-shss-90,,0,0,0,,{\blur4}在研究构成宇宙的元素的起源
+Dialogue: 0,0:06:50.42,0:06:54.97,1080P-sgbd-42,,0,0,0,,{\blur4}The very young universe when it forms has almost all hydrogen and helium
+Dialogue: 0,0:06:50.42,0:06:54.97,1080P-shss-90,,0,0,0,,{\blur4}在宇宙刚形成还非常年轻时 宇宙有的几乎全是氢和氦
+Dialogue: 0,0:06:54.99,0:06:58.81,1080P-sgbd-42,,0,0,0,,{\blur4}and maybe tiny amounts of lithium that were produced in a very early hot universe.
+Dialogue: 0,0:06:54.99,0:06:58.81,1080P-shss-90,,0,0,0,,{\blur4}也许还有少量在非常早期的热宇宙中产生的锂
+Dialogue: 0,0:07:00.16,0:07:02.73,1080P-sgbd-42,,0,0,0,,{\blur4}but after that it's very boring until stars form
+Dialogue: 0,0:07:00.16,0:07:02.73,1080P-shss-90,,0,0,0,,{\blur4}但在那之后 就非常无聊了 直到恒星形成
+Dialogue: 0,0:07:02.73,0:07:06.32,1080P-sgbd-42,,0,0,0,,{\blur4}and the stars in their cores they start fusing the hydrogen and the helium
+Dialogue: 0,0:07:02.73,0:07:06.32,1080P-shss-90,,0,0,0,,{\blur4}而恒星在它们的核心中开始融合氢和氦
+Dialogue: 0,0:07:06.88,0:07:09.28,1080P-sgbd-42,,0,0,0,,{\blur4}and they start making heavier and heavier elements
+Dialogue: 0,0:07:06.88,0:07:09.28,1080P-shss-90,,0,0,0,,{\blur4}并开始制造越来越重的元素
+Dialogue: 0,0:07:09.28,0:07:12.31,1080P-sgbd-42,,0,0,0,,{\blur4}and you get things like carbon oxygen silicon
+Dialogue: 0,0:07:09.28,0:07:12.31,1080P-shss-90,,0,0,0,,{\blur4}所以你会得到像碳 氧 硅这样的东西
+Dialogue: 0,0:07:12.31,0:07:15.36,1080P-sgbd-42,,0,0,0,,{\blur4}and eventually they get up to iron
+Dialogue: 0,0:07:12.31,0:07:15.36,1080P-shss-90,,0,0,0,,{\blur4}并且最终它们制造了铁
+Dialogue: 0,0:07:15.36,0:07:19.36,1080P-sgbd-42,,0,0,0,,{\blur4}and at that point they have to stop because there's no more energy available from fusion
+Dialogue: 0,0:07:15.36,0:07:19.36,1080P-shss-90,,0,0,0,,{\blur4}而在这时它们必须停止 因为聚变没有更多的能量可用
+Dialogue: 0,0:07:19.36,0:07:23.08,1080P-sgbd-42,,0,0,0,,{\blur4}and those stars that make iron their core collapses down
+Dialogue: 0,0:07:19.36,0:07:23.08,1080P-shss-90,,0,0,0,,{\blur4}并且那些制造了铁的恒星 它们的核心塌陷了
+Dialogue: 0,0:07:23.08,0:07:28.33,1080P-sgbd-42,,0,0,0,,{\blur4}and as it collapses that releases a lot of gravitational energy and blows off the exterior
+Dialogue: 0,0:07:23.08,0:07:28.33,1080P-shss-90,,0,0,0,,{\blur4}当它塌陷时会释放出大量的引力势能 并将外部喷发
+Dialogue: 0,0:07:28.72,0:07:34.16,1080P-sgbd-42,,0,0,0,,{\blur4}and it's thought that this while this is a collapse it's also an energy release
+Dialogue: 0,0:07:28.72,0:07:34.16,1080P-shss-90,,0,0,0,,{\blur4}而人们认为这既是一种坍缩 同时还是一种能量的释放
+Dialogue: 0,0:07:34.16,0:07:38.80,1080P-sgbd-42,,0,0,0,,{\blur4}which blows off material which has been transformed at the core of the star
+Dialogue: 0,0:07:34.16,0:07:38.80,1080P-shss-90,,0,0,0,,{\blur4}它喷发了在恒星核心处被转化的物质
+Dialogue: 0,0:07:38.80,0:07:40.36,1080P-sgbd-42,,0,0,0,,{\blur4}and it's not been clear
+Dialogue: 0,0:07:38.80,0:07:40.36,1080P-shss-90,,0,0,0,,{\blur4}而且目前还不清楚
+Dialogue: 0,0:07:40.36,0:07:47.94,1080P-sgbd-42,,0,0,0,,{\blur4}whether the conditions inside a supernova could make something as neutron rich and heavy as plutonium
+Dialogue: 0,0:07:40.36,0:07:47.94,1080P-shss-90,,0,0,0,,{\blur4}超新星内部的条件是否能制造出像钚这样富含中子的重元素
+Dialogue: 0,0:07:48.82,0:07:53.29,1080P-sgbd-42,,0,0,0,,{\blur4}and this is now some evidence that maybe a core collapse supernova can in fact do that
+Dialogue: 0,0:07:48.82,0:07:53.29,1080P-shss-90,,0,0,0,,{\blur4}现在有一些证据表明 也许核心塌陷的超新星可以做到这一点
+Dialogue: 0,0:07:54.88,0:08:00.15,1080P-sgbd-42,,0,0,0,,{\blur4}but the thing is like to make anything big and heavy it's not a slow process right
+Dialogue: 0,0:07:54.88,0:08:00.15,1080P-shss-90,,0,0,0,,{\blur4}但问题是要制造任何大而重的东西 都不是一个缓慢的过程 对吗
+Dialogue: 0,0:08:00.96,0:08:05.44,1080P-sgbd-42,,0,0,0,,{\blur4}there's so many when you're trying to take a an atom and make a heavier isotope
+Dialogue: 0,0:08:00.96,0:08:05.44,1080P-shss-90,,0,0,0,,{\blur4}当你想把一个原子制造成更重的同位素时 有很多过程
+Dialogue: 0,0:08:05.44,0:08:07.49,1080P-sgbd-42,,0,0,0,,{\blur4}and you're bombarding with various particles.
+Dialogue: 0,0:08:05.44,0:08:07.49,1080P-shss-90,,0,0,0,,{\blur4}而且你要用各种粒子对其进行撞击
+Dialogue: 0,0:08:07.55,0:08:09.94,1080P-sgbd-42,,0,0,0,,{\blur4}The problem is you will inevitably run into...
+Dialogue: 0,0:08:07.55,0:08:09.94,1080P-shss-90,,0,0,0,,{\blur4}问题是 你将不可避免地遇到
+Dialogue: 0,0:08:10.42,0:08:11.98,1080P-sgbd-42,,0,0,0,,{\blur4}You will hit it with a neutron
+Dialogue: 0,0:08:10.42,0:08:11.98,1080P-shss-90,,0,0,0,,{\blur4}你用一个中子撞击它
+Dialogue: 0,0:08:12.23,0:08:15.68,1080P-sgbd-42,,0,0,0,,{\blur4}and you'll make it heavier and then the heavier version is so unstable
+Dialogue: 0,0:08:12.23,0:08:15.68,1080P-shss-90,,0,0,0,,{\blur4}并且这会让它变得更重 然后更重的版本是如此不稳定
+Dialogue: 0,0:08:15.73,0:08:17.78,1080P-sgbd-42,,0,0,0,,{\blur4}it decays in with an alpha particle.
+Dialogue: 0,0:08:15.73,0:08:17.78,1080P-shss-90,,0,0,0,,{\blur4}以至于它会与一个阿尔法粒子一起衰变
+Dialogue: 0,0:08:17.80,0:08:19.29,1080P-sgbd-42,,0,0,0,,{\blur4}and you've been set back.
+Dialogue: 0,0:08:17.80,0:08:19.29,1080P-shss-90,,0,0,0,,{\blur4}而这时你已经被挫败了
+Dialogue: 0,0:08:19.75,0:08:24.44,1080P-sgbd-42,,0,0,0,,{\blur4}So there's a whole bunch of elements you can easily produce
+Dialogue: 0,0:08:19.75,0:08:24.44,1080P-shss-90,,0,0,0,,{\blur4}所以 你可以很容易地制造一大堆的元素
+Dialogue: 0,0:08:24.76,0:08:31.20,1080P-sgbd-42,,0,0,0,,{\blur4}unless you have atoms getting exposed to massive fluxes of neutrons.
+Dialogue: 0,0:08:24.76,0:08:31.20,1080P-shss-90,,0,0,0,,{\blur4}除非你让原子暴露在大量的中子通量下
+Dialogue: 0,0:08:31.46,0:08:36.66,1080P-sgbd-42,,0,0,0,,{\blur4}And it's thought that the plutoniums and the actinide elements are way up in that region.
+Dialogue: 0,0:08:31.46,0:08:36.66,1080P-shss-90,,0,0,0,,{\blur4}并且人们认为 钚和锕系元素就远在这个范围之上
+Dialogue: 0,0:08:37.34,0:08:42.22,1080P-sgbd-42,,0,0,0,,{\blur4}So another thing they did was they looked at the ratio of the iron-60 these samples to the plutonium
+Dialogue: 0,0:08:37.34,0:08:42.22,1080P-shss-90,,0,0,0,,{\blur4}因此 他们做的另一件事是 他们观察了这些样品中铁-60与钚的比例
+Dialogue: 0,0:08:42.22,0:08:46.04,1080P-sgbd-42,,0,0,0,,{\blur4}and they think that the ratio is wrong.
+Dialogue: 0,0:08:42.22,0:08:46.04,1080P-shss-90,,0,0,0,,{\blur4}并且他们认为这个比例是错误的
+Dialogue: 0,0:08:46.09,0:08:47.61,1080P-sgbd-42,,0,0,0,,{\blur4}There's too little plutonium.
+Dialogue: 0,0:08:46.09,0:08:47.61,1080P-shss-90,,0,0,0,,{\blur4}因为这里面钚太少了
+Dialogue: 0,0:08:48.36,0:08:54.18,1080P-sgbd-42,,0,0,0,,{\blur4}Now they can get estimates of what it should be in nature just by looking at things like meteorites
+Dialogue: 0,0:08:48.36,0:08:54.18,1080P-shss-90,,0,0,0,,{\blur4}那么 他们可以通过观察陨石等东西和查看衰变产物的比例
+Dialogue: 0,0:08:54.20,0:08:58.18,1080P-sgbd-42,,0,0,0,,{\blur4}and looking at the ratios of the decay products
+Dialogue: 0,0:08:54.20,0:08:58.18,1080P-shss-90,,0,0,0,,{\blur4}来确定自然界中钚应有的含量
+Dialogue: 0,0:08:58.22,0:09:03.01,1080P-sgbd-42,,0,0,0,,{\blur4}because of although the plutonium has decayed they're still trapped inside these meteorites
+Dialogue: 0,0:08:58.22,0:09:03.01,1080P-shss-90,,0,0,0,,{\blur4}因为虽然钚已经衰变 但它们仍然被困在这些陨石中
+Dialogue: 0,0:09:03.04,0:09:08.04,1080P-sgbd-42,,0,0,0,,{\blur4}or that have been sitting in space unmodified since the formation of the solar system.
+Dialogue: 0,0:09:03.04,0:09:08.04,1080P-shss-90,,0,0,0,,{\blur4}或自太阳系形成以来一直存在于太空中未被转变
+Dialogue: 0,0:09:08.35,0:09:11.25,1080P-sgbd-42,,0,0,0,,{\blur4}So you can estimate what might have been there in the past right.
+Dialogue: 0,0:09:08.35,0:09:11.25,1080P-shss-90,,0,0,0,,{\blur4}所以你可以估计过去可能存在的东西 对吗
+Dialogue: 0,0:09:11.29,0:09:13.48,1080P-sgbd-42,,0,0,0,,{\blur4}What have radioactive elements were there.
+Dialogue: 0,0:09:11.29,0:09:13.48,1080P-shss-90,,0,0,0,,{\blur4}过去那里有哪些放射性元素
+Dialogue: 0,0:09:14.31,0:09:20.76,1080P-sgbd-42,,0,0,0,,{\blur4}So if the plutonium is lower than is expected from versus this background.
+Dialogue: 0,0:09:14.31,0:09:20.76,1080P-shss-90,,0,0,0,,{\blur4}因此 如果钚的值比根据这个环境预期的值低
+Dialogue: 0,0:09:21.02,0:09:27.16,1080P-sgbd-42,,0,0,0,,{\blur4}Then maybe that indicates that supernova aren't actually the main generators of these heavy actinide elements.
+Dialogue: 0,0:09:21.02,0:09:27.16,1080P-shss-90,,0,0,0,,{\blur4}那么这也许表明超新星实际上并不是这些重的锕元素的主要产生者
+Dialogue: 0,0:09:27.19,0:09:31.44,1080P-sgbd-42,,0,0,0,,{\blur4}and that would actually make sense because we were never sure there was enough neutron flux there.
+Dialogue: 0,0:09:27.19,0:09:31.44,1080P-shss-90,,0,0,0,,{\blur4}并且这实际上是有道理的 因为我们从未确定那里有足够的中子通量
+Dialogue: 0,0:09:31.44,0:09:36.86,1080P-sgbd-42,,0,0,0,,{\blur4}And there is an alternate method for making these really heavy elements in large quantities
+Dialogue: 0,0:09:31.44,0:09:36.86,1080P-shss-90,,0,0,0,,{\blur4}还有另一种方法可以大量制造这些重元素
+Dialogue: 0,0:09:36.92,0:09:39.11,1080P-sgbd-42,,0,0,0,,{\blur4}and that is neutron star mergers
+Dialogue: 0,0:09:36.92,0:09:39.11,1080P-shss-90,,0,0,0,,{\blur4}而那就是中子星的合并
+Dialogue: 0,0:09:39.43,0:09:43.83,1080P-sgbd-42,,0,0,0,,{\blur4}where leftover neutron star cores they spiral into each other
+Dialogue: 0,0:09:39.43,0:09:43.83,1080P-shss-90,,0,0,0,,{\blur4}在那种情况下 剩余的中子星核心会螺旋式地融入对方
+Dialogue: 0,0:09:43.83,0:09:47.02,1080P-sgbd-42,,0,0,0,,{\blur4}and as they spiral in they release a lot of energy
+Dialogue: 0,0:09:43.83,0:09:47.02,1080P-shss-90,,0,0,0,,{\blur4}并且当它们螺旋式融入时 它们释放出大量的能量
+Dialogue: 0,0:09:47.04,0:09:51.11,1080P-sgbd-42,,0,0,0,,{\blur4}and this energy drives these neutrons off at relativistic speeds.
+Dialogue: 0,0:09:47.04,0:09:51.11,1080P-shss-90,,0,0,0,,{\blur4}而这些能量促使这些中子以相对论性的速度离开
+Dialogue: 0,0:09:51.13,0:09:52.36,1080P-sgbd-42,,0,0,0,,{\blur4}They smash into each other.
+Dialogue: 0,0:09:51.13,0:09:52.36,1080P-shss-90,,0,0,0,,{\blur4}它们互相撞击
+Dialogue: 0,0:09:52.69,0:09:57.32,1080P-sgbd-42,,0,0,0,,{\blur4}They form a glorious cascade of new elements
+Dialogue: 0,0:09:52.69,0:09:57.32,1080P-shss-90,,0,0,0,,{\blur4}它们形成了由新元素构成的壮丽瀑布
+Dialogue: 0,0:09:57.51,0:10:03.51,1080P-sgbd-42,,0,0,0,,{\blur4}unconstrained by weak processes relatively garden-variety processes like supernova.
+Dialogue: 0,0:09:57.51,0:10:03.51,1080P-shss-90,,0,0,0,,{\blur4}不受较弱过程的限制 相对像超新星这种普通的过程
+Dialogue: 0,0:10:03.54,0:10:06.88,1080P-sgbd-42,,0,0,0,,{\blur4}The neutron star mergers are incredibly violent events
+Dialogue: 0,0:10:03.54,0:10:06.88,1080P-shss-90,,0,0,0,,{\blur4}中子星合并是极为剧烈的事件
+Dialogue: 0,0:10:06.91,0:10:09.78,1080P-sgbd-42,,0,0,0,,{\blur4}and we did find evidence for this.
+Dialogue: 0,0:10:06.91,0:10:09.78,1080P-shss-90,,0,0,0,,{\blur4}而且我们确实找到了这方面的证据
+Dialogue: 0,0:10:09.81,0:10:14.34,1080P-sgbd-42,,0,0,0,,{\blur4}The very first gravitational wave event which had an optical counterpart
+Dialogue: 0,0:10:09.81,0:10:14.34,1080P-shss-90,,0,0,0,,{\blur4}第一个有光学对应体的引力波事件
+Dialogue: 0,0:10:14.37,0:10:17.36,1080P-sgbd-42,,0,0,0,,{\blur4}is thought to be a neutron star merger
+Dialogue: 0,0:10:14.37,0:10:17.36,1080P-shss-90,,0,0,0,,{\blur4}被认为是一个中子星的合并事件
+Dialogue: 0,0:10:17.69,0:10:24.14,1080P-sgbd-42,,0,0,0,,{\blur4}and these are very likely critical in seeding the universe with these really heavy elements.
+Dialogue: 0,0:10:17.69,0:10:24.14,1080P-shss-90,,0,0,0,,{\blur4}而这些很可能是向宇宙中扩散这些重元素的关键
+Dialogue: 0,0:10:24.50,0:10:26.77,1080P-sgbd-42,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
+Dialogue: 0,0:10:24.50,0:10:26.77,1080P-shss-90,,0,0,0,,{\blur4}我是Scott Manley 切记 注意飞行安全
+Dialogue: 0,0:10:27.22,0:10:47.83,1080P-sgsm-6s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:10:27.22,0:10:47.83,1080P-sgbd-4s,,0,0,0,,{\blur4}[音乐]
