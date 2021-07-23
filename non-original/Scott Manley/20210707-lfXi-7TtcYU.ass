@@ -20,12 +20,13 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.54,0:00:11.54,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Is It Possible to Fly A Rocket To Space Without Autopilot\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/lfXi-7TtcYU\N原视频发布日期：20210707\N字幕翻译：Ryan，校对：旋火
 Dialogue: 0,0:00:04.54,0:00:05.82,1080P-sgbd-42,,0,0,0,,Hello, it's Scott Manley here.
 Dialogue: 0,0:00:04.54,0:00:05.82,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:06.18,0:00:09.44,1080P-sgbd-42,,0,0,0,,If you look at the big name heroes of space exploration,
 Dialogue: 0,0:00:06.18,0:00:09.44,1080P-shss-90,,0,0,0,,如果你看一下太空探索的大名鼎鼎的英雄们
 Dialogue: 0,0:00:09.48,0:00:15.54,1080P-sgbd-42,,0,0,0,,the likes of Yuri Gagarin, Neil Armstrong, Valentina Tereshkova, Yang Liwei and many more.
-Dialogue: 0,0:00:09.48,0:00:15.54,1080P-shss-90,,0,0,0,,像尤里-加加林、尼尔-阿姆斯特朗、瓦伦蒂娜-捷列什科娃、杨利伟和其它很多人
+Dialogue: 0,0:00:09.48,0:00:15.54,1080P-shss-90,,0,0,0,,{\fs82}像尤里·加加林 尼尔·阿姆斯特朗 瓦伦蒂娜·捷列什科娃 杨利伟和其它很多人
 Dialogue: 0,0:00:15.69,0:00:18.17,1080P-sgbd-42,,0,0,0,,You see that there are a lot of pilots.
 Dialogue: 0,0:00:15.69,0:00:18.17,1080P-shss-90,,0,0,0,,你会发现他们中有很多是飞行员
 Dialogue: 0,0:00:18.61,0:00:19.89,1080P-sgbd-42,,0,0,0,,The thing to realize, however,
@@ -33,29 +34,29 @@ Dialogue: 0,0:00:18.61,0:00:19.89,1080P-shss-90,,0,0,0,,然而 需要意识到�
 Dialogue: 0,0:00:19.93,0:00:24.18,1080P-sgbd-42,,0,0,0,,is that none of those legendary astronauts and cosmonauts and taikonaut
 Dialogue: 0,0:00:19.93,0:00:24.18,1080P-shss-90,,0,0,0,,这些传奇的宇航员没有一个人
 Dialogue: 0,0:00:24.21,0:00:27.32,1080P-sgbd-42,,0,0,0,,have ever actually piloted their vehicle to space.
-Dialogue: 0,0:00:24.21,0:00:27.32,1080P-shss-90,,0,0,0,,真正驾驶过他们的飞行器进入太空
+Dialogue: 0,0:00:24.21,0:00:27.32,1080P-shss-90,,0,0,0,,真正驾驶过他们的航天器进入太空
 Dialogue: 0,0:00:27.78,0:00:32.38,1080P-sgbd-42,,0,0,0,,Launch and boost of a rocket into orbit has always been something that's been handled by computers.
 Dialogue: 0,0:00:27.78,0:00:32.38,1080P-shss-90,,0,0,0,,火箭进入轨道的发射和助推一直都是由计算机处理的事情
 Dialogue: 0,0:00:33.03,0:00:35.01,1080P-sgbd-42,,0,0,0,,The crew might have important jobs to do
-Dialogue: 0,0:00:33.03,0:00:35.01,1080P-shss-90,,0,0,0,,船员们可能有重要的工作要做
+Dialogue: 0,0:00:33.03,0:00:35.01,1080P-shss-90,,0,0,0,,乘员们可能有重要的工作要做
 Dialogue: 0,0:00:35.03,0:00:37.76,1080P-sgbd-42,,0,0,0,,that could involve flipping switches to keep the computer happy.
 Dialogue: 0,0:00:35.03,0:00:37.76,1080P-shss-90,,0,0,0,,这可能包括了到翻动开关让计算机保持正常工作
 Dialogue: 0,0:00:38.07,0:00:42.90,1080P-sgbd-42,,0,0,0,,But it's not like they're sitting there holding a control stick and steering the rocket into space
-Dialogue: 0,0:00:38.07,0:00:42.90,1080P-shss-90,,0,0,0,,但这并不像他们坐在那里握着控制杆 引导火箭进入太空
+Dialogue: 0,0:00:38.07,0:00:42.90,1080P-shss-90,,0,0,0,,但这并不是那样 坐在那里握着控制杆 引导火箭进入太空
 Dialogue: 0,0:00:42.92,0:00:48.56,1080P-sgbd-42,,0,0,0,,like we do all the time inKerbal Space Program and orbiter and other simulations.
-Dialogue: 0,0:00:42.92,0:00:48.56,1080P-shss-90,,0,0,0,,就像我们在 坎巴拉太空计划 和 其他轨道模拟中一直在做的那样
+Dialogue: 0,0:00:42.92,0:00:48.56,1080P-shss-90,,0,0,0,,就像我们在坎巴拉太空计划和其他轨道模拟中一直在做的那样
 Dialogue: 0,0:00:48.82,0:00:50.57,1080P-sgbd-42,,0,0,0,,And certainly many of these astronauts
 Dialogue: 0,0:00:48.82,0:00:50.57,1080P-shss-90,,0,0,0,,当然 这些宇航员中的许多人
 Dialogue: 0,0:00:50.60,0:00:54.24,1080P-sgbd-42,,0,0,0,,have had more direct control over their vessels once they're in orbit,
 Dialogue: 0,0:00:50.60,0:00:54.24,1080P-shss-90,,0,0,0,,在他们进入轨道 就能更直接地控制他们的飞船
 Dialogue: 0,0:00:54.51,0:00:57.82,1080P-sgbd-42,,0,0,0,,for the things like rendezvous, docking and even landing on the moon.
-Dialogue: 0,0:00:54.51,0:00:57.82,1080P-shss-90,,0,0,0,,对于像会合、对接 甚至登陆月球的事情
+Dialogue: 0,0:00:54.51,0:00:57.82,1080P-shss-90,,0,0,0,,对于像交会 对接 甚至登陆月球的事情
 Dialogue: 0,0:00:58.04,0:01:02.06,1080P-sgbd-42,,0,0,0,,It's just not that critical first step of getting from the ground into space.
 Dialogue: 0,0:00:58.04,0:01:02.06,1080P-shss-90,,0,0,0,,只是没有从地面进入太空的那个关键的第一步
 Dialogue: 0,0:01:02.78,0:01:06.30,1080P-sgbd-42,,0,0,0,,There are, however, a small group of less well known astronauts
 Dialogue: 0,0:01:02.78,0:01:06.30,1080P-shss-90,,0,0,0,,然而 有一小群不太知名的宇航员
 Dialogue: 0,0:01:06.34,0:01:10.03,1080P-sgbd-42,,0,0,0,,who did steer their rocket propelled vehicles into space.
-Dialogue: 0,0:01:06.34,0:01:10.03,1080P-shss-90,,0,0,0,,他们确实驾驶着火箭推进的飞行器进入太空
+Dialogue: 0,0:01:06.34,0:01:10.03,1080P-shss-90,,0,0,0,,他们确实驾驶着火箭推进的航天器进入太空
 Dialogue: 0,0:01:10.37,0:01:15.21,1080P-sgbd-42,,0,0,0,,The funny thing is, over the last few days, I've seen a lot of people belittling these endeavors
 Dialogue: 0,0:01:10.37,0:01:15.21,1080P-shss-90,,0,0,0,,有趣的是 在过去几天里 我看到很多人在贬低这些努力
 Dialogue: 0,0:01:15.36,0:01:18.22,1080P-sgbd-42,,0,0,0,,and trying to tell me that they're not real astronauts,
@@ -67,19 +68,19 @@ Dialogue: 0,0:01:20.39,0:01:25.24,1080P-shss-90,,0,0,0,,让我们来看看为什
 Dialogue: 0,0:01:25.74,0:01:28.74,1080P-sgbd-42,,0,0,0,,If you look back at the very earliest launch vehicles,
 Dialogue: 0,0:01:25.74,0:01:28.74,1080P-shss-90,,0,0,0,,如果你回顾一下最早期的运载火箭
 Dialogue: 0,0:01:28.79,0:01:32.58,1080P-sgbd-42,,0,0,0,,the R-7, the Redstone, the Atlas and the Titan.
-Dialogue: 0,0:01:28.79,0:01:32.58,1080P-shss-90,,0,0,0,,R-7 红石 宇宙神和泰坦
+Dialogue: 0,0:01:28.79,0:01:32.58,1080P-shss-90,,0,0,0,,R-7 红石 宇宙神和大力神
 Dialogue: 0,0:01:32.62,0:01:35.72,1080P-sgbd-42,,0,0,0,,They were all developed first as intercontinental missiles.
 Dialogue: 0,0:01:32.62,0:01:35.72,1080P-shss-90,,0,0,0,,它们都是曾经最早作为洲际导弹开发的
 Dialogue: 0,0:01:36.16,0:01:39.77,1080P-sgbd-42,,0,0,0,,They were all designed to be flown by automated guidance systems.
-Dialogue: 0,0:01:36.16,0:01:39.77,1080P-shss-90,,0,0,0,,它们都被设计成由自动制导系统来飞行
+Dialogue: 0,0:01:36.16,0:01:39.77,1080P-shss-90,,0,0,0,,它们都被设计成由自主指导系统来飞行
 Dialogue: 0,0:01:40.18,0:01:43.06,1080P-sgbd-42,,0,0,0,,In fact, the engineers that developed the Mercury capsule
 Dialogue: 0,0:01:40.18,0:01:43.06,1080P-shss-90,,0,0,0,,事实上 开发水星太空舱的工程师们
 Dialogue: 0,0:01:43.29,0:01:46.98,1080P-sgbd-42,,0,0,0,,didn't even include a control stick or windows in the early designs,
-Dialogue: 0,0:01:43.29,0:01:46.98,1080P-shss-90,,0,0,0,,在早期设计中甚至没有包括控制杆或窗户
+Dialogue: 0,0:01:43.29,0:01:46.98,1080P-shss-90,,0,0,0,,在早期设计中甚至没有加入控制杆或窗户
 Dialogue: 0,0:01:46.98,0:01:51.50,1080P-sgbd-42,,0,0,0,,until the Mercury 7 complained about being spam in a can.
 Dialogue: 0,0:01:46.98,0:01:51.50,1080P-shss-90,,0,0,0,,直到水星7号的宇航员抱怨说自己是罐头里的午餐肉
 Dialogue: 0,0:01:52.33,0:01:55.58,1080P-sgbd-42,,0,0,0,,Yuri Gagarin, he was locked out of the controls,
-Dialogue: 0,0:01:52.33,0:01:55.58,1080P-shss-90,,0,0,0,,尤里-加加林 他被紧紧固定死
+Dialogue: 0,0:01:52.33,0:01:55.58,1080P-shss-90,,0,0,0,,尤里·加加林 他被紧紧固定死
 Dialogue: 0,0:01:55.61,0:01:58.68,1080P-sgbd-42,,0,0,0,,in case being in zero G made him space crazy.
 Dialogue: 0,0:01:55.61,0:01:58.68,1080P-shss-90,,0,0,0,,以防在零重力状态下使他在太空中发疯
 Dialogue: 0,0:01:59.30,0:02:03.02,1080P-sgbd-42,,0,0,0,,In that case if he needed to perform an emergency return to earth,
@@ -88,22 +89,22 @@ Dialogue: 0,0:02:03.06,0:02:06.52,1080P-sgbd-42,,0,0,0,,he would need to enter a
 Dialogue: 0,0:02:03.06,0:02:06.52,1080P-shss-90,,0,0,0,,他将需要输入一个三位数的密码来访问控制装置
 Dialogue: 0,0:02:06.73,0:02:09.64,1080P-sgbd-42,,0,0,0,,to orient the spacecraft and perform the diorbit burn.
 Dialogue: 0,0:02:06.73,0:02:09.64,1080P-shss-90,,0,0,0,,来确定航天器的方向 并且启动返回制动发动机
-Dialogue: 0,0:02:10.20,0:02:15.84,1080P-sgbd-42,,0,0,0,,So although Alan Shepherd's sub-orbital Mercury-Redstone 3 was after Gagarin's orbital flight,
-Dialogue: 0,0:02:10.20,0:02:15.84,1080P-shss-90,,0,0,0,,因此 尽管艾伦-谢泼德的亚轨道水星-红石3号是在加加林的轨道飞行之后
-Dialogue: 0,0:02:16.41,0:02:22.32,1080P-sgbd-42,,0,0,0,,Shepherd would actually be the first astronaut to have manual control over a spacecraft in flight.
+Dialogue: 0,0:02:10.20,0:02:15.84,1080P-sgbd-42,,0,0,0,,So although Alan Shepherd's sub·orbital Mercury-Redstone 3 was after Gagarin's orbital flight,
+Dialogue: 0,0:02:10.20,0:02:15.84,1080P-shss-90,,0,0,0,,{\fs75}因此 尽管艾伦·谢泼德的亚轨道飞行任务水星-红石3号是在加加林的轨道飞行之后
+Dialogue: 0,0:02:16.41,0:02:22.32,1080P-sgbd-42,,0,0,0,,Shepherd would actually be the first astronaut to have manual control over a spacecraft in flight,
 Dialogue: 0,0:02:16.41,0:02:22.32,1080P-shss-90,,0,0,0,,谢泼德实际上将是第一个在飞行中手动控制航天器的宇航员
-Dialogue: 0,0:02:22.66,0:02:26.12,1080P-sgbd-42,,0,0,0,,During that very limited, sub-orbital hop,
+Dialogue: 0,0:02:22.66,0:02:26.12,1080P-sgbd-42,,0,0,0,,during that very limited, sub-orbital hop.
 Dialogue: 0,0:02:22.66,0:02:26.12,1080P-shss-90,,0,0,0,,在那个非常有限的 亚轨道的跳跃中
-Dialogue: 0,0:02:27.47,0:02:32.10,1080P-sgbd-42,,0,0,0,,even though, of course the launch and the boost of the Redstone were entirely automated.
+Dialogue: 0,0:02:27.47,0:02:32.10,1080P-sgbd-42,,0,0,0,,Even though, of course the launch and the boost of the Redstone were entirely automated.
 Dialogue: 0,0:02:27.47,0:02:32.10,1080P-shss-90,,0,0,0,,即便如此 同样的 红石火箭的发射和助推是完全自动化的
 Dialogue: 0,0:02:32.88,0:02:37.81,1080P-sgbd-42,,0,0,0,,Like the early rockets weren't controlled by what we would consider an ordinary computer.
 Dialogue: 0,0:02:32.88,0:02:37.81,1080P-shss-90,,0,0,0,,像早期的火箭并不是由我们认为的普通计算机控制的
 Dialogue: 0,0:02:37.84,0:02:39.51,1080P-sgbd-42,,0,0,0,,They would use analog computers.
 Dialogue: 0,0:02:37.84,0:02:39.51,1080P-shss-90,,0,0,0,,他们会使用模拟计算机
-Dialogue: 0,0:02:39.54,0:02:43.38,1080P-sgbd-42,,0,0,0,,and that would be like a series of circuits that we take sensor information.
-Dialogue: 0,0:02:39.54,0:02:43.38,1080P-shss-90,,0,0,0,,那就像一系列的电路 我们接受传感器信息
+Dialogue: 0,0:02:39.54,0:02:43.38,1080P-sgbd-42,,0,0,0,,and that would be like a series of circuits that would take sensor information.
+Dialogue: 0,0:02:39.54,0:02:43.38,1080P-shss-90,,0,0,0,,那就像一系列的电路来接受传感器信息
 Dialogue: 0,0:02:43.67,0:02:47.28,1080P-sgbd-42,,0,0,0,,And adjust the vehicle steering to keep the rocket on the intended course.
-Dialogue: 0,0:02:43.67,0:02:47.28,1080P-shss-90,,0,0,0,,并调整飞行器的转向 使火箭保持在预定航线上
+Dialogue: 0,0:02:43.67,0:02:47.28,1080P-shss-90,,0,0,0,,并调整航天器的转向 使火箭保持在预定航线上
 Dialogue: 0,0:02:47.60,0:02:50.93,1080P-sgbd-42,,0,0,0,,On the ground, there would be a much more complex computer
 Dialogue: 0,0:02:47.60,0:02:50.93,1080P-shss-90,,0,0,0,,在地面上 将有一个更复杂的计算机
 Dialogue: 0,0:02:50.96,0:02:53.00,1080P-sgbd-42,,0,0,0,,that would then send up the actual commands,
@@ -113,49 +114,47 @@ Dialogue: 0,0:02:53.04,0:02:54.19,1080P-shss-90,,0,0,0,,而助推器的自动驾
 Dialogue: 0,0:02:54.25,0:02:57.95,1080P-sgbd-42,,0,0,0,,would just hold the attitude that was commanded by the ground systems.
 Dialogue: 0,0:02:54.25,0:02:57.95,1080P-shss-90,,0,0,0,,将只是保持由地面系统指挥的姿态
 Dialogue: 0,0:02:58.64,0:03:03.96,1080P-sgbd-42,,0,0,0,,Now  for Gemini the spacecraft flew on the larger Titan rocket,
-Dialogue: 0,0:02:58.64,0:03:03.96,1080P-shss-90,,0,0,0,,现在 双子座的航天器由较大的泰坦火箭运载
+Dialogue: 0,0:02:58.64,0:03:03.96,1080P-shss-90,,0,0,0,,那么 对于双子座 航天器由较大的大力神火箭运载
 Dialogue: 0,0:03:04.00,0:03:07.36,1080P-sgbd-42,,0,0,0,,and that again fully automated first and second stages.
-Dialogue: 0,0:03:04.00,0:03:07.36,1080P-shss-90,,0,0,0,,而这又是完全自动化的第一和第二级
+Dialogue: 0,0:03:04.00,0:03:07.36,1080P-shss-90,,0,0,0,,而这又是完全自主化的一二级
 Dialogue: 0,0:03:07.74,0:03:10.13,1080P-sgbd-42,,0,0,0,,But immediately after spacecraft separation
 Dialogue: 0,0:03:07.74,0:03:10.13,1080P-shss-90,,0,0,0,,但在航天器分离后
 Dialogue: 0,0:03:10.16,0:03:15.74,1080P-sgbd-42,,0,0,0,,the computer would very quickly calculate corrections needed for the final orbital insertion maneuver.
 Dialogue: 0,0:03:10.16,0:03:15.74,1080P-shss-90,,0,0,0,,计算机将非常迅速地计算出最后入轨机动所需的修正
 Dialogue: 0,0:03:16.09,0:03:18.68,1080P-sgbd-42,,0,0,0,,And those would be carried out by the crew
-Dialogue: 0,0:03:16.09,0:03:18.68,1080P-shss-90,,0,0,0,,而这些将由机组人员来执行
+Dialogue: 0,0:03:16.09,0:03:18.68,1080P-shss-90,,0,0,0,,而这些将由(舱内)乘员来执行
 Dialogue: 0,0:03:18.98,0:03:21.60,1080P-sgbd-42,,0,0,0,,to put them in exactly the right orbit for the mission.
-Dialogue: 0,0:03:18.98,0:03:21.60,1080P-shss-90,,0,0,0,,以使他们在正确的轨道上完成任务
+Dialogue: 0,0:03:18.98,0:03:21.60,1080P-shss-90,,0,0,0,,以使他们抵达正确的任务轨道
 Dialogue: 0,0:03:22.41,0:03:28.46,1080P-sgbd-42,,0,0,0,,The Gemini program was really the first to require extensive amounts of manual flying by the crew.
-Dialogue: 0,0:03:22.41,0:03:28.46,1080P-shss-90,,0,0,0,,双子座计划实际上是第一个需要机组人员进行大量手动飞行的计划
+Dialogue: 0,0:03:22.41,0:03:28.46,1080P-shss-90,,0,0,0,,双子座计划实际上是第一个需要乘员进行大量手动飞行的计划
 Dialogue: 0,0:03:28.57,0:03:32.26,1080P-sgbd-42,,0,0,0,,As they needed to learn how to rendezvous and dock in orbit.
-Dialogue: 0,0:03:28.57,0:03:32.26,1080P-shss-90,,0,0,0,,因为他们需要学习如何在轨道上进行会合和对接
+Dialogue: 0,0:03:28.57,0:03:32.26,1080P-shss-90,,0,0,0,,因为他们需要学习如何在轨道上进行交会对接
 Dialogue: 0,0:03:32.65,0:03:36.08,1080P-sgbd-42,,0,0,0,,It was quickly learned that this was a highly counterintuitive process.
 Dialogue: 0,0:03:32.65,0:03:36.08,1080P-shss-90,,0,0,0,,人们很快发现这是一个非常违反直觉的过程
 Dialogue: 0,0:03:36.21,0:03:41.67,1080P-sgbd-42,,0,0,0,,The crew of Gemini 4 found themselves unable to get close to the second stage booster
-Dialogue: 0,0:03:36.21,0:03:41.67,1080P-shss-90,,0,0,0,,双子座4号的机组人员发现他们无法适应将他们带入轨道的
+Dialogue: 0,0:03:36.21,0:03:41.67,1080P-shss-90,,0,0,0,,双子座4号的乘员发现他们无法接近二级
 Dialogue: 0,0:03:41.97,0:03:43.59,1080P-sgbd-42,,0,0,0,,which had brought them into orbit.
-Dialogue: 0,0:03:41.97,0:03:43.59,1080P-shss-90,,0,0,0,,第二级助推器
+Dialogue: 0,0:03:41.97,0:03:43.59,1080P-shss-90,,0,0,0,,也就是将他们带入轨道的那个分级
 Dialogue: 0,0:03:43.79,0:03:45.11,1080P-sgbd-42,,0,0,0,,It was a combination of
-Dialogue: 0,0:03:43.79,0:03:45.11,1080P-shss-90,,0,0,0,,这是一个综合因素
+Dialogue: 0,0:03:43.79,0:03:45.11,1080P-shss-90,,0,0,0,,这是因为
 Dialogue: 0,0:03:45.22,0:03:50.86,1080P-sgbd-42,,0,0,0,,like not having trained for the peculiarities of orbital maneuvering, proximity operations.
-Dialogue: 0,0:03:45.22,0:03:50.86,1080P-shss-90,,0,0,0,,就像没有为轨道机动的特殊性和近距离操作进行训练一样
+Dialogue: 0,0:03:45.22,0:03:50.86,1080P-shss-90,,0,0,0,,他们没有为轨道机动和抵近操作进行特定的训练
 Dialogue: 0,0:03:51.32,0:03:55.11,1080P-sgbd-42,,0,0,0,,And the spacecraft, not having sensors or instrumentation to a system,
-Dialogue: 0,0:03:51.32,0:03:55.11,1080P-shss-90,,0,0,0,,还有航天器 没有传感器或仪器系统
+Dialogue: 0,0:03:51.32,0:03:55.11,1080P-shss-90,,0,0,0,,还有就是航天器 没有配备(相应的)传感器或仪器系统
 Dialogue: 0,0:03:55.40,0:03:59.49,1080P-sgbd-42,,0,0,0,,and the stage was probably venting a bit of gas and pushing them around.
-Dialogue: 0,0:03:55.40,0:03:59.49,1080P-shss-90,,0,0,0,,而且平台可能会释放出一些气体 把他们推来推去
-Dialogue: 0,0:04:00.47,0:04:05.18,1080P-sgbd-42,,0,0,0,,The Soviet cosmonaut would also learn the same rendezvous and docking skills
-Dialogue: 0,0:04:00.47,0:04:05.18,1080P-shss-90,,0,0,0,,苏联宇航员也将学习同样的交会和对接技能
-Dialogue: 0,0:04:05.24,0:04:07.23,1080P-sgbd-42,,0,0,0,,with the development of the Soyuz spacecraft.
-Dialogue: 0,0:04:05.24,0:04:07.23,1080P-shss-90,,0,0,0,,随着联盟号飞船的发展
+Dialogue: 0,0:03:55.40,0:03:59.49,1080P-shss-90,,0,0,0,,而且二级也可能会释放出一些气体 产生一些(随机的)运动
+Dialogue: 0,0:04:00.47,0:04:07.23,1080P-sgbd-42,,0,0,0,,{\fs37}The Soviet cosmonaut would also learn the same rendezvous and docking skills with the development of the Soyuz spacecraft.
+Dialogue: 0,0:04:00.47,0:04:07.23,1080P-shss-90,,0,0,0,,随着联盟飞船的发展 苏联宇航员也将学习同样的交会和对接的技能
 Dialogue: 0,0:04:07.83,0:04:14.38,1080P-sgbd-42,,0,0,0,,Their first orbital docking would be Soyuz 4 and 5 in January of 1969.
-Dialogue: 0,0:04:07.83,0:04:14.38,1080P-shss-90,,0,0,0,,他们的第一次轨道对接是1969年1月的联盟4号和5号
+Dialogue: 0,0:04:07.83,0:04:14.38,1080P-shss-90,,0,0,0,,他们的第一次轨道对接发生在1969年1月的联盟4号和5号
 Dialogue: 0,0:04:15.01,0:04:18.91,1080P-sgbd-42,,0,0,0,,So the Apollo program. That was supposed to be peaceful from day one,
-Dialogue: 0,0:04:15.01,0:04:18.91,1080P-shss-90,,0,0,0,,而 阿波罗计划 它应该从第一天起就是很和平的
+Dialogue: 0,0:04:15.01,0:04:18.91,1080P-shss-90,,0,0,0,,而阿波罗计划 一开始就具有着和平的目的
 Dialogue: 0,0:04:18.91,0:04:21.30,1080P-sgbd-42,,0,0,0,,so they didn't use ICBMs.
-Dialogue: 0,0:04:18.91,0:04:21.30,1080P-shss-90,,0,0,0,,所以他们没有使用洲际弹道导弹
+Dialogue: 0,0:04:18.91,0:04:21.30,1080P-shss-90,,0,0,0,,也就没有使用洲际弹道导弹(衍生的运载火箭)
 Dialogue: 0,0:04:21.37,0:04:25.82,1080P-sgbd-42,,0,0,0,,The Saturn 1 and the Saturn 5 were developed as launch vehicles from the day one,
-Dialogue: 0,0:04:21.37,0:04:25.82,1080P-shss-90,,0,0,0,,土星1号和土星5号从第一天起就被开发为运载火箭
+Dialogue: 0,0:04:21.37,0:04:25.82,1080P-shss-90,,0,0,0,,土星1号和土星5号一开始就是作为(航天)运载火箭而开发的
 Dialogue: 0,0:04:26.10,0:04:30.32,1080P-sgbd-42,,0,0,0,,and this is the first time we see engineers and scientists seriously suggesting
-Dialogue: 0,0:04:26.10,0:04:30.32,1080P-shss-90,,0,0,0,,这是我们第一次看到工程师和科学家认真建议
+Dialogue: 0,0:04:26.10,0:04:30.32,1080P-shss-90,,0,0,0,,而这是我们第一次看到工程师和科学家在认真建议
 Dialogue: 0,0:04:30.34,0:04:33.48,1080P-sgbd-42,,0,0,0,,astronauts take manual control of their rockets during launch.
 Dialogue: 0,0:04:30.34,0:04:33.48,1080P-shss-90,,0,0,0,,宇航员在发射过程中对他们的火箭进行手动控制
 Dialogue: 0,0:04:33.75,0:04:36.74,1080P-sgbd-42,,0,0,0,,This is primarily as a backup, in case there were failures,
@@ -165,35 +164,35 @@ Dialogue: 0,0:04:37.29,0:04:40.73,1080P-shss-90,,0,0,0,,例如系统的某些部
 Dialogue: 0,0:04:40.87,0:04:43.50,1080P-sgbd-42,,0,0,0,,unable to execute its plan trajectory.
 Dialogue: 0,0:04:40.87,0:04:43.50,1080P-shss-90,,0,0,0,,无法执行其计划的轨道
 Dialogue: 0,0:04:44.02,0:04:47.06,1080P-sgbd-42,,0,0,0,,They actually studied this, and there's 1968 paper
-Dialogue: 0,0:04:44.02,0:04:47.06,1080P-shss-90,,0,0,0,,他们实际上研究了这一点 1968年有一篇论文
+Dialogue: 0,0:04:44.02,0:04:47.06,1080P-shss-90,,0,0,0,,他们实际上研究了这一点 而在1968年有一篇论文
 Dialogue: 0,0:04:47.10,0:04:51.38,1080P-sgbd-42,,0,0,0,,looking at just how well a human with good information and instrumentation
 Dialogue: 0,0:04:47.10,0:04:51.38,1080P-shss-90,,0,0,0,,研究了人类在拥有良好信息指引和仪器辅助的情况下
 Dialogue: 0,0:04:51.76,0:04:55.46,1080P-sgbd-42,,0,0,0,,could steer a Saturn 5 into orbit versus the computer.
-Dialogue: 0,0:04:51.76,0:04:55.46,1080P-shss-90,,0,0,0,,可以在引导土星5号进入轨道上做得有多好 而不是由计算机完成
+Dialogue: 0,0:04:51.76,0:04:55.46,1080P-shss-90,,0,0,0,,在土星5号入轨这件事上 相比计算机制导 人工制导的效果有多好
 Dialogue: 0,0:04:55.82,0:04:57.37,1080P-sgbd-42,,0,0,0,,The humans came pretty close,
-Dialogue: 0,0:04:55.82,0:04:57.37,1080P-shss-90,,0,0,0,,人类的表现非常接近（计算机的表现）
+Dialogue: 0,0:04:55.82,0:04:57.37,1080P-shss-90,,0,0,0,,(结果是) 人类的表现非常接近
 Dialogue: 0,0:04:57.73,0:05:04.11,1080P-sgbd-42,,0,0,0,,on average after the launch they would have an extra fuel consumption of 250 kilograms
-Dialogue: 0,0:04:57.73,0:05:04.11,1080P-shss-90,,0,0,0,,在发射之后 他们平均会多消耗250公斤的燃料
+Dialogue: 0,0:04:57.73,0:05:04.11,1080P-shss-90,,0,0,0,,在发射之后 他们平均会多消耗250千克的燃料
 Dialogue: 0,0:05:04.30,0:05:05.87,1080P-sgbd-42,,0,0,0,,which is pretty darn impressive,
-Dialogue: 0,0:05:04.30,0:05:05.87,1080P-shss-90,,0,0,0,,这是相当令人印象深刻的
+Dialogue: 0,0:05:04.30,0:05:05.87,1080P-shss-90,,0,0,0,,而这是相当令人印象深刻的
 Dialogue: 0,0:05:05.93,0:05:10.14,1080P-sgbd-42,,0,0,0,,given that we're talking about a rocket that burns thousands of tons of propellant.
 Dialogue: 0,0:05:05.93,0:05:10.14,1080P-shss-90,,0,0,0,,鉴于我们谈论的是一个燃烧数千吨推进剂的火箭
-Dialogue: 0,0:05:10.88,0:05:14.54,1080P-sgbd-42,,0,0,0,,The bigger concern is that early in the flight was very easy
-Dialogue: 0,0:05:10.88,0:05:14.54,1080P-shss-90,,0,0,0,,更令人担忧的是 （宇航员的操作）在飞行初期很容易
-Dialogue: 0,0:05:14.87,0:05:17.38,1080P-sgbd-42,,0,0,0,,to exceed the structural limits of the rocket
-Dialogue: 0,0:05:14.87,0:05:17.38,1080P-shss-90,,0,0,0,,超过火箭的结构极限
+Dialogue: 0,0:05:10.88,0:05:12.51,1080P-sgbd-42,,0,0,0,,The bigger concern is that
+Dialogue: 0,0:05:10.88,0:05:12.51,1080P-shss-90,,0,0,0,,更令人担忧的是
+Dialogue: 0,0:05:12.53,0:05:17.38,1080P-sgbd-42,,0,0,0,,early in the flight was very easy to exceed the structural limits of the rocket
+Dialogue: 0,0:05:12.53,0:05:17.38,1080P-shss-90,,0,0,0,,宇航员的操作在飞行初期很容易超过火箭的结构极限
 Dialogue: 0,0:05:17.40,0:05:20.99,1080P-sgbd-42,,0,0,0,,or cause huge amounts of fuel slosh or bending moments
 Dialogue: 0,0:05:17.40,0:05:20.99,1080P-shss-90,,0,0,0,,或造成大量的燃料晃动或弯矩
 Dialogue: 0,0:05:21.02,0:05:23.03,1080P-sgbd-42,,0,0,0,,that would lead to failure of a vehicle.
-Dialogue: 0,0:05:21.02,0:05:23.03,1080P-shss-90,,0,0,0,,导致飞行器的失败
+Dialogue: 0,0:05:21.02,0:05:23.03,1080P-shss-90,,0,0,0,,导致航天器发射失败
 Dialogue: 0,0:05:23.98,0:05:28.31,1080P-sgbd-42,,0,0,0,,So normally, the Saturn 5 was controlled by the launch vehicle digital computer
-Dialogue: 0,0:05:23.98,0:05:28.31,1080P-shss-90,,0,0,0,,所以通常情况下 土星5号是由位于火箭顶部的
+Dialogue: 0,0:05:23.98,0:05:28.31,1080P-shss-90,,0,0,0,,所以通常情况下 土星5号是运载火箭数字计算机控制的
 Dialogue: 0,0:05:28.36,0:05:29.62,1080P-sgbd-42,,0,0,0,,that sat at the top of the rocket.
-Dialogue: 0,0:05:28.36,0:05:29.62,1080P-shss-90,,0,0,0,,运载火箭数字计算机控制的
+Dialogue: 0,0:05:28.36,0:05:29.62,1080P-shss-90,,0,0,0,,该计算机位于火箭顶部
 Dialogue: 0,0:05:29.89,0:05:33.70,1080P-sgbd-42,,0,0,0,,This is distinct from the Apollo guidance computer in the command module.
-Dialogue: 0,0:05:29.89,0:05:33.70,1080P-shss-90,,0,0,0,,这与指令舱内的阿波罗引导计算机是不同的
+Dialogue: 0,0:05:29.89,0:05:33.70,1080P-shss-90,,0,0,0,,这与指令舱内的阿波罗制导计算机是不同的
 Dialogue: 0,0:05:34.51,0:05:39.74,1080P-sgbd-42,,0,0,0,,During launch, however, the Apollo guidance computer would run program 11, boost monitor,
-Dialogue: 0,0:05:34.51,0:05:39.74,1080P-shss-90,,0,0,0,,在发射期间 阿波罗引导计算机将运行程序11 推进监管
+Dialogue: 0,0:05:34.51,0:05:39.74,1080P-shss-90,,0,0,0,,在发射期间 阿波罗制导计算机将运行11号程序 推进监管
 Dialogue: 0,0:05:40.02,0:05:44.14,1080P-sgbd-42,,0,0,0,,and that would use its own inertial measurement unit to monitor the launch
 Dialogue: 0,0:05:40.02,0:05:44.14,1080P-shss-90,,0,0,0,,这将使用它自己的惯性测量单元来监测发射情况
 Dialogue: 0,0:05:44.42,0:05:46.45,1080P-sgbd-42,,0,0,0,,and to display information to the astronauts
@@ -203,7 +202,7 @@ Dialogue: 0,0:05:46.49,0:05:48.20,1080P-shss-90,,0,0,0,,所以他们知道飞行
 Dialogue: 0,0:05:48.46,0:05:51.36,1080P-sgbd-42,,0,0,0,,But in theory, it could tell if things were going wrong.
 Dialogue: 0,0:05:48.46,0:05:51.36,1080P-shss-90,,0,0,0,,但从理论上讲 它可以告知事情是否出了问题
 Dialogue: 0,0:05:51.63,0:05:53.58,1080P-sgbd-42,,0,0,0,,Now say something did go wrong.
-Dialogue: 0,0:05:51.63,0:05:53.58,1080P-shss-90,,0,0,0,,现在 假设确实出了些问题
+Dialogue: 0,0:05:51.63,0:05:53.58,1080P-shss-90,,0,0,0,,那么 假设确实出了些问题
 Dialogue: 0,0:05:54.09,0:05:58.70,1080P-sgbd-42,,0,0,0,,Assuming that there was time to remedy the situation, rather than just aborting the mission outright,
 Dialogue: 0,0:05:54.09,0:05:58.70,1080P-shss-90,,0,0,0,,假设有时间来补救 而不是直接中止任务
 Dialogue: 0,0:05:58.72,0:06:03.67,1080P-sgbd-42,,0,0,0,,it was possible to switch the command module computer over to control the booster.
@@ -213,15 +212,15 @@ Dialogue: 0,0:06:04.15,0:06:09.60,1080P-shss-90,,0,0,0,,相应地 将Verb 46输�
 Dialogue: 0,0:06:09.93,0:06:15.10,1080P-sgbd-42,,0,0,0,,to then have the digital lot of pilot take limited input from the commander's attitude controller.
 Dialogue: 0,0:06:09.93,0:06:15.10,1080P-shss-90,,0,0,0,,然后让飞行员的电子控制来指挥姿态控制器的限制性的输入
 Dialogue: 0,0:06:15.37,0:06:19.94,1080P-sgbd-42,,0,0,0,,Now I don't really see this in the documentation of the manuals for the Apollo Saturn 5.
-Dialogue: 0,0:06:15.37,0:06:19.94,1080P-shss-90,,0,0,0,,现在我在阿波罗土星5号的手册文件中并没有真正看到这一点
+Dialogue: 0,0:06:15.37,0:06:19.94,1080P-shss-90,,0,0,0,,那么我在阿波罗土星5号的手册文件中并没有真的看到这一部分
 Dialogue: 0,0:06:20.33,0:06:22.61,1080P-sgbd-42,,0,0,0,,I do see Gene Cernan mentioning it.
-Dialogue: 0,0:06:20.33,0:06:22.61,1080P-shss-90,,0,0,0,,我确实看到Gene Cernan提到过它
+Dialogue: 0,0:06:20.33,0:06:22.61,1080P-shss-90,,0,0,0,,我确实看到尤金·塞尔南提到过它
 Dialogue: 0,0:06:22.93,0:06:25.00,1080P-sgbd-42,,0,0,0,,And the manuals officially say that
 Dialogue: 0,0:06:22.93,0:06:25.00,1080P-shss-90,,0,0,0,,而手册上正式说明了
 Dialogue: 0,0:06:25.03,0:06:29.89,1080P-sgbd-42,,0,0,0,,you can take control of the booster and the third stage and the command module while in orbit.
-Dialogue: 0,0:06:25.03,0:06:29.89,1080P-shss-90,,0,0,0,,你可以在轨道上控制推进器 第三级火箭和指令舱
+Dialogue: 0,0:06:25.03,0:06:29.89,1080P-shss-90,,0,0,0,,你可以在轨道上控制推进器 三级火箭和指令舱
 Dialogue: 0,0:06:30.65,0:06:34.52,1080P-sgbd-42,,0,0,0,,But yeah, it's in the Apollo guidance computer code,
-Dialogue: 0,0:06:30.65,0:06:34.52,1080P-shss-90,,0,0,0,,但是 是的 它在阿波罗引导计算机代码中
+Dialogue: 0,0:06:30.65,0:06:34.52,1080P-shss-90,,0,0,0,,但是 是的 它在阿波罗制导计算机代码中
 Dialogue: 0,0:06:34.64,0:06:36.19,1080P-sgbd-42,,0,0,0,,so it looks like it would be possible.
 Dialogue: 0,0:06:34.64,0:06:36.19,1080P-shss-90,,0,0,0,,所以它看起来是可能的
 Dialogue: 0,0:06:36.27,0:06:37.51,1080P-sgbd-42,,0,0,0,,It would be like a cheat code.
@@ -229,31 +228,31 @@ Dialogue: 0,0:06:36.27,0:06:37.51,1080P-shss-90,,0,0,0,,这像是一个作弊代
 Dialogue: 0,0:06:38.27,0:06:43.14,1080P-sgbd-42,,0,0,0,,So what kind of emergency situation could possibly benefit from human input?
 Dialogue: 0,0:06:38.27,0:06:43.14,1080P-shss-90,,0,0,0,,那么 什么样的紧急情况可能会受益于人类的控制？
 Dialogue: 0,0:06:43.57,0:06:46.91,1080P-sgbd-42,,0,0,0,,Well, one case I see might be an early engine out scenario.
-Dialogue: 0,0:06:43.57,0:06:46.91,1080P-shss-90,,0,0,0,,好吧 我看到的一种情况可能是早期引擎失效的情况
+Dialogue: 0,0:06:43.57,0:06:46.91,1080P-shss-90,,0,0,0,,好吧 我看到的一种情况可能是发动机在飞行初期失效的情况
 Dialogue: 0,0:06:46.94,0:06:48.59,1080P-sgbd-42,,0,0,0,,There's five engines on the first stage.
-Dialogue: 0,0:06:46.94,0:06:48.59,1080P-shss-90,,0,0,0,,第一级有五个引擎
+Dialogue: 0,0:06:46.94,0:06:48.59,1080P-shss-90,,0,0,0,,一级有五台发动机
 Dialogue: 0,0:06:48.92,0:06:53.44,1080P-sgbd-42,,0,0,0,,The first stage guidance on the Saturn 5 was a simple, open-loop guidance plan.
-Dialogue: 0,0:06:48.92,0:06:53.44,1080P-shss-90,,0,0,0,,土星5号的第一级制导是一个简单的、开环制导计划
+Dialogue: 0,0:06:48.92,0:06:53.44,1080P-shss-90,,0,0,0,,土星5号的一级制导是一个简单的 开环制导方案
 Dialogue: 0,0:06:53.49,0:06:59.22,1080P-sgbd-42,,0,0,0,,It didn't account for changes in trajectory that caused by weather or over or under performance.
-Dialogue: 0,0:06:53.49,0:06:59.22,1080P-shss-90,,0,0,0,,它没有考虑到由天气或性能过剩或不足引起的轨迹变化
+Dialogue: 0,0:06:53.49,0:06:59.22,1080P-shss-90,,0,0,0,,它没有考虑到由天气或性能波动引起的轨迹变化
 Dialogue: 0,0:06:59.25,0:07:04.42,1080P-sgbd-42,,0,0,0,,It was defined by a polynomial that set the desired pitch and azimuth versus time.
 Dialogue: 0,0:06:59.25,0:07:04.42,1080P-shss-90,,0,0,0,,它是由一个多项式定义的 设定了所需的俯仰和方位角与时间的关系
 Dialogue: 0,0:07:05.07,0:07:08.09,1080P-sgbd-42,,0,0,0,,The second stage guidance is where it got to be more complex,
-Dialogue: 0,0:07:05.07,0:07:08.09,1080P-shss-90,,0,0,0,,第二阶段的引导是它变得更加复杂的地方
+Dialogue: 0,0:07:05.07,0:07:08.09,1080P-shss-90,,0,0,0,,二级的制导是更复杂的方案
 Dialogue: 0,0:07:08.18,0:07:10.37,1080P-sgbd-42,,0,0,0,,and they had to target their orbit,
-Dialogue: 0,0:07:08.18,0:07:10.37,1080P-shss-90,,0,0,0,,他们必须瞄准他们的轨道
+Dialogue: 0,0:07:08.18,0:07:10.37,1080P-shss-90,,0,0,0,,那么他们必须瞄准轨道
 Dialogue: 0,0:07:10.39,0:07:13.69,1080P-sgbd-42,,0,0,0,,and you will hear them in flight talking about how guidance is converged.
-Dialogue: 0,0:07:10.39,0:07:13.69,1080P-shss-90,,0,0,0,,你会听到他们在飞行中谈论引导是如何收敛的
+Dialogue: 0,0:07:10.39,0:07:13.69,1080P-shss-90,,0,0,0,,而你会听到他们在飞行中谈论制导是如何收敛的
 Dialogue: 0,0:07:13.77,0:07:15.46,1080P-sgbd-42,,0,0,0,,And that's what all about.
 Dialogue: 0,0:07:13.77,0:07:15.46,1080P-shss-90,,0,0,0,,而这就是所有的事情
 Dialogue: 0,0:07:16.34,0:07:19.74,1080P-sgbd-42,,0,0,0,,So if an engine went out early in the flight,
-Dialogue: 0,0:07:16.34,0:07:19.74,1080P-shss-90,,0,0,0,,因此 如果一个引擎在飞行初期熄火
+Dialogue: 0,0:07:16.34,0:07:19.74,1080P-shss-90,,0,0,0,,因此 如果一台发动机在飞行初期熄火
 Dialogue: 0,0:07:19.77,0:07:23.86,1080P-sgbd-42,,0,0,0,,the guidance would continue to point a booster, as if all five engines were working.
-Dialogue: 0,0:07:19.77,0:07:23.86,1080P-shss-90,,0,0,0,,制导系统将继续指向一个助推器 就像所有五个引擎都在工作一样
+Dialogue: 0,0:07:19.77,0:07:23.86,1080P-shss-90,,0,0,0,,{\fs85}制导系统将继续按照原有方案 即五台发动机都工作的情况 制导助推器
 Dialogue: 0,0:07:24.18,0:07:30.14,1080P-sgbd-42,,0,0,0,,So maybe human intervention could adjust this and save a mission that would otherwise fail.
 Dialogue: 0,0:07:24.18,0:07:30.14,1080P-shss-90,,0,0,0,,因此 也许人类的干预可以调整这一点 挽救一个本来会失败的任务
 Dialogue: 0,0:07:30.25,0:07:34.70,1080P-sgbd-42,,0,0,0,,But honestly, I think the scope for this is just outside what was expected of the crew,
-Dialogue: 0,0:07:30.25,0:07:34.70,1080P-shss-90,,0,0,0,,但说实话 我认为这个范围只是超出了机组人员的预期
+Dialogue: 0,0:07:30.25,0:07:34.70,1080P-shss-90,,0,0,0,,但说实话 我认为这个范围只是超出了乘员的预期
 Dialogue: 0,0:07:34.73,0:07:38.18,1080P-sgbd-42,,0,0,0,,and so I don't see any references to this capability.
 Dialogue: 0,0:07:34.73,0:07:38.18,1080P-shss-90,,0,0,0,,所以我没有看到任何关于这种能力的参考
 Dialogue: 0,0:07:38.61,0:07:41.77,1080P-sgbd-42,,0,0,0,,Of course, Apollo 12, we saw the reverse failure,
@@ -263,55 +262,55 @@ Dialogue: 0,0:07:41.81,0:07:45.40,1080P-shss-90,,0,0,0,,指令舱由于雷击而
 Dialogue: 0,0:07:45.67,0:07:49.56,1080P-sgbd-42,,0,0,0,,But the launch vehicle computer on the rocket just kept going without missing a beat.
 Dialogue: 0,0:07:45.67,0:07:49.56,1080P-shss-90,,0,0,0,,但火箭上的运载火箭计算机只是继续运行 没有错过任何一个环节
 Dialogue: 0,0:07:50.32,0:07:53.59,1080P-sgbd-42,,0,0,0,,So anyway, onwards to this Space Shuttle program.
-Dialogue: 0,0:07:50.32,0:07:53.59,1080P-shss-90,,0,0,0,,因此 无论如何 在这个航天飞机项目上
+Dialogue: 0,0:07:50.32,0:07:53.59,1080P-shss-90,,0,0,0,,因此 无论如何 往后讲到航天飞机
 Dialogue: 0,0:07:53.86,0:07:56.42,1080P-sgbd-42,,0,0,0,,That had even more options for human control.
-Dialogue: 0,0:07:53.86,0:07:56.42,1080P-shss-90,,0,0,0,,它有更多的人类控制选项
+Dialogue: 0,0:07:53.86,0:07:56.42,1080P-shss-90,,0,0,0,,它有更多的乘员控制选项
 Dialogue: 0,0:07:56.45,0:08:01.66,1080P-sgbd-42,,0,0,0,,In fact, it was built in such a way that it pretty much require humans in the loop for landing.
-Dialogue: 0,0:07:56.45,0:08:01.66,1080P-shss-90,,0,0,0,,事实上 它是以这样一种方式建造的 它几乎需要人类在控制循环中完成着陆
+Dialogue: 0,0:07:56.45,0:08:01.66,1080P-shss-90,,0,0,0,,事实上航天飞机设计上几乎必须得有乘员在控制循环中完成着陆
 Dialogue: 0,0:08:01.76,0:08:04.54,1080P-sgbd-42,,0,0,0,,And it was only late in the Shuttle's operational history
-Dialogue: 0,0:08:01.76,0:08:04.54,1080P-shss-90,,0,0,0,,而直到航天飞机运行历史的后期
+Dialogue: 0,0:08:01.76,0:08:04.54,1080P-shss-90,,0,0,0,,而直到航天飞机运营历史的后期
 Dialogue: 0,0:08:04.56,0:08:10.04,1080P-sgbd-42,,0,0,0,,that an official procedure was developed for deorbiting and landing a Shuttle without a crew on board.
-Dialogue: 0,0:08:04.56,0:08:10.04,1080P-shss-90,,0,0,0,,才制定了一个正式的程序 用于在没有机组人员的情况下使航天飞机脱离轨道和着陆
+Dialogue: 0,0:08:04.56,0:08:10.04,1080P-shss-90,,0,0,0,,才开发了一个正式的程序 用于在无人情况下使航天飞机离轨并着陆
 Dialogue: 0,0:08:10.83,0:08:13.90,1080P-sgbd-42,,0,0,0,,So for launch, it was actually possible for the commander
-Dialogue: 0,0:08:10.83,0:08:13.90,1080P-shss-90,,0,0,0,,因此 对于发射来说 指挥官实际上是可以
+Dialogue: 0,0:08:10.83,0:08:13.90,1080P-shss-90,,0,0,0,,因此 对于发射来说 指令长实际上是可以
 Dialogue: 0,0:08:13.94,0:08:18.57,1080P-sgbd-42,,0,0,0,,to take manual control of the vehicle at almost any point in the ascent.
-Dialogue: 0,0:08:13.94,0:08:18.57,1080P-shss-90,,0,0,0,,几乎在上升过程中的任何时候都可以对飞行器进行手动控制
+Dialogue: 0,0:08:13.94,0:08:18.57,1080P-shss-90,,0,0,0,,几乎在上升过程中的任何时候都可以对航天器进行手动控制
 Dialogue: 0,0:08:18.84,0:08:24.48,1080P-sgbd-42,,0,0,0,,And there were several contingencies in the checklists and procedures, which included the possibility.
 Dialogue: 0,0:08:18.84,0:08:24.48,1080P-shss-90,,0,0,0,,在检查表和程序中 有几个意外情况 其中包括这种可能性
-Dialogue: 0,0:08:25.03,0:08:29.10,1080P-sgbd-42,,0,0,0,,So the fly by wire system would accept control stick steering inputs
-Dialogue: 0,0:08:25.03,0:08:29.10,1080P-shss-90,,0,0,0,,所以线控飞行系统会接受控制杆的转向输入
+Dialogue: 0,0:08:25.03,0:08:29.10,1080P-sgbd-42,,0,0,0,,So the fly-by-wire system would accept control stick steering inputs
+Dialogue: 0,0:08:25.03,0:08:29.10,1080P-shss-90,,0,0,0,,那么电传飞控会接受控制杆的转向输入
 Dialogue: 0,0:08:29.15,0:08:34.09,1080P-sgbd-42,,0,0,0,,and translate those into thrust vector commands on the boosters and the main engines.
-Dialogue: 0,0:08:29.15,0:08:34.09,1080P-shss-90,,0,0,0,,并将其转化为助推器和主引擎的推力矢量指令
+Dialogue: 0,0:08:29.15,0:08:34.09,1080P-shss-90,,0,0,0,,并将其转化为助推器和主发动机的推力矢量指令
 Dialogue: 0,0:08:34.96,0:08:38.22,1080P-sgbd-42,,0,0,0,,The commander also by the way, had a throttle setting for the main engines.
 Dialogue: 0,0:08:34.96,0:08:38.22,1080P-shss-90,,0,0,0,,顺便说一下 指挥官也有一个主发动机的油门设置
 Dialogue: 0,0:08:38.23,0:08:40.96,1080P-sgbd-42,,0,0,0,,He could override that if that was necessary.
-Dialogue: 0,0:08:38.23,0:08:40.96,1080P-shss-90,,0,0,0,,如果有必要 他可以超越这个设定
+Dialogue: 0,0:08:38.23,0:08:40.96,1080P-shss-90,,0,0,0,,如果有必要 他可以超驰控制
 Dialogue: 0,0:08:41.47,0:08:45.88,1080P-sgbd-42,,0,0,0,,They were also higher than normal thrust settings that were available in emergencies
-Dialogue: 0,0:08:41.47,0:08:45.88,1080P-shss-90,,0,0,0,,他们也有比正常推力更高的设置 在紧急情况下可用
+Dialogue: 0,0:08:41.47,0:08:45.88,1080P-shss-90,,0,0,0,,在紧急情况下 也有比正常推力更高的设置可用
 Dialogue: 0,0:08:45.92,0:08:47.26,1080P-sgbd-42,,0,0,0,,if they needed extra power.
 Dialogue: 0,0:08:45.92,0:08:47.26,1080P-shss-90,,0,0,0,,如果他们需要额外的动力
 Dialogue: 0,0:08:48.53,0:08:53.16,1080P-sgbd-42,,0,0,0,,But in the first 90 seconds of flight, they were pretty much considered to be off limits.
-Dialogue: 0,0:08:48.53,0:08:53.16,1080P-shss-90,,0,0,0,,但在飞行的前90秒 它们几乎被认为是不允许的
+Dialogue: 0,0:08:48.53,0:08:53.16,1080P-shss-90,,0,0,0,,但在飞行的前90秒 超驰控制被认为几乎是不允许的
 Dialogue: 0,0:08:53.46,0:08:58.06,1080P-sgbd-42,,0,0,0,,During that period, you have the majority of the ascent through the lower atmosphere.
-Dialogue: 0,0:08:53.46,0:08:58.06,1080P-shss-90,,0,0,0,,在那段时间里 你有大部分的时间是通过低层大气上升的
+Dialogue: 0,0:08:53.46,0:08:58.06,1080P-shss-90,,0,0,0,,那段时间中的大部分 航天飞机都在低层大气中上升
 Dialogue: 0,0:08:58.18,0:09:03.02,1080P-sgbd-42,,0,0,0,,And the automatic guidance had to ensure the aerodynamic loads on the wings were minimized.
-Dialogue: 0,0:08:58.18,0:09:03.02,1080P-shss-90,,0,0,0,,而自动制导系统必须确保机翼上的空气动力负荷降到最低
+Dialogue: 0,0:08:58.18,0:09:03.02,1080P-shss-90,,0,0,0,,而自主指导系统必须确保机翼上的空气动力负荷降到最低
 Dialogue: 0,0:09:03.26,0:09:09.07,1080P-sgbd-42,,0,0,0,,If you turn too much, it will tear the wings off the Shuttle which would really ruin your day.
-Dialogue: 0,0:09:03.26,0:09:09.07,1080P-shss-90,,0,0,0,,如果你转得太多 就会把机翼从航天飞机上撕下来 这将真正毁掉你的完美的一天
+Dialogue: 0,0:09:03.26,0:09:09.07,1080P-shss-90,,0,0,0,,如果你转得太多 就会把机翼从航天飞机上撕下来 导致发射失败
 Dialogue: 0,0:09:09.39,0:09:11.55,1080P-sgbd-42,,0,0,0,,So to be clear, in theory,
 Dialogue: 0,0:09:09.39,0:09:11.55,1080P-shss-90,,0,0,0,,因此 从理论上讲 要明确的是
 Dialogue: 0,0:09:11.58,0:09:17.21,1080P-sgbd-42,,0,0,0,,the Shuttle would respond to the crew input during this critical 90-second-time period.
-Dialogue: 0,0:09:11.58,0:09:17.21,1080P-shss-90,,0,0,0,,在这个关键的90秒时间段内 航天飞机会对机组人员的输入做出反应
+Dialogue: 0,0:09:11.58,0:09:17.21,1080P-shss-90,,0,0,0,,在这个关键的90秒时间段内 航天飞机会对乘员的输入做出反应
 Dialogue: 0,0:09:17.43,0:09:23.22,1080P-sgbd-42,,0,0,0,,But it would be an extraordinarily bad idea to risk any control input during this time.
 Dialogue: 0,0:09:17.43,0:09:23.22,1080P-shss-90,,0,0,0,,但是 在这段时间内冒着任何控制输入的风险 将是一个非常糟糕的主意
 Dialogue: 0,0:09:24.39,0:09:29.04,1080P-sgbd-42,,0,0,0,,But after this of course, there's lots of things where the crew are possibly needed,
-Dialogue: 0,0:09:24.39,0:09:29.04,1080P-shss-90,,0,0,0,,当然 在这之后 有很多事情都可能需要机组人员
+Dialogue: 0,0:09:24.39,0:09:29.04,1080P-shss-90,,0,0,0,,当然 在这之后 有很多事情都可能需要乘员
 Dialogue: 0,0:09:29.10,0:09:32.14,1080P-sgbd-42,,0,0,0,,return to launch site abort is a fantastic example.
 Dialogue: 0,0:09:29.10,0:09:32.14,1080P-shss-90,,0,0,0,,返回发射场的中止是一个很好的例子
 Dialogue: 0,0:09:32.18,0:09:34.47,1080P-sgbd-42,,0,0,0,,That would require a lot of human control
 Dialogue: 0,0:09:32.18,0:09:34.47,1080P-shss-90,,0,0,0,,这将需要大量的人力控制
 Dialogue: 0,0:09:34.66,0:09:37.94,1080P-sgbd-42,,0,0,0,,to get the crew back home after an early engine failure.
-Dialogue: 0,0:09:34.66,0:09:37.94,1080P-shss-90,,0,0,0,,让机组人员在早期发动机故障后返回家园
+Dialogue: 0,0:09:34.66,0:09:37.94,1080P-shss-90,,0,0,0,,让乘员在早期发动机故障后返回地球
 Dialogue: 0,0:09:38.24,0:09:41.59,1080P-sgbd-42,,0,0,0,,It would also require several miracles to happen in quick succession,
 Dialogue: 0,0:09:38.24,0:09:41.59,1080P-shss-90,,0,0,0,,这也需要几个奇迹接二连三地发生
 Dialogue: 0,0:09:41.62,0:09:45.76,1080P-sgbd-42,,0,0,0,,but Space Shuttle pilots had a lot of training in manifesting those.
@@ -323,33 +322,33 @@ Dialogue: 0,0:09:48.13,0:09:52.94,1080P-shss-90,,0,0,0,,在航天飞机的职业
 Dialogue: 0,0:09:52.98,0:09:57.32,1080P-sgbd-42,,0,0,0,,So this, the capability, although it existed was never used or needed.
 Dialogue: 0,0:09:52.98,0:09:57.32,1080P-shss-90,,0,0,0,,因此 这种能力 虽然存在 但从未被使用或需要
 Dialogue: 0,0:09:58.08,0:10:02.18,1080P-sgbd-42,,0,0,0,,But there's one well documented case of re-entry and descent
-Dialogue: 0,0:09:58.08,0:10:02.18,1080P-shss-90,,0,0,0,,但有一个有据可查的案例 即重返大气层和下降时
+Dialogue: 0,0:09:58.08,0:10:02.18,1080P-shss-90,,0,0,0,,但有一个有据可查的案例 即再入和下降时
 Dialogue: 0,0:10:02.18,0:10:07.50,1080P-sgbd-42,,0,0,0,,being flown almost entirely manually by the legendary pilot Joe Engle.
-Dialogue: 0,0:10:02.18,0:10:07.50,1080P-shss-90,,0,0,0,,传奇飞行员Joe Engle几乎完全手动飞行的案例
+Dialogue: 0,0:10:02.18,0:10:07.50,1080P-shss-90,,0,0,0,,传奇飞行员约瑟夫·恩格几乎进行了完全的手动飞行
 Dialogue: 0,0:10:07.85,0:10:11.88,1080P-sgbd-42,,0,0,0,,Normally, the re-entry is pretty much automated right up to final approach,
-Dialogue: 0,0:10:07.85,0:10:11.88,1080P-shss-90,,0,0,0,,通常情况下 再入大气层的过程几乎是自动的 直到最后接近
+Dialogue: 0,0:10:07.85,0:10:11.88,1080P-shss-90,,0,0,0,,通常情况下 再入大气层的过程几乎是自动的 直到最终进近
 Dialogue: 0,0:10:11.93,0:10:14.42,1080P-sgbd-42,,0,0,0,,because you need to bleed off the energy
 Dialogue: 0,0:10:11.93,0:10:14.42,1080P-shss-90,,0,0,0,,因为你需要放掉能量
 Dialogue: 0,0:10:14.63,0:10:17.85,1080P-sgbd-42,,0,0,0,,and end up at exactly the right speed over landing site.
 Dialogue: 0,0:10:14.63,0:10:17.85,1080P-shss-90,,0,0,0,,并在着陆点上空以准确的速度结束
 Dialogue: 0,0:10:18.16,0:10:20.90,1080P-sgbd-42,,0,0,0,,But on the second arbital flight of the Space Shuttle,
-Dialogue: 0,0:10:18.16,0:10:20.90,1080P-shss-90,,0,0,0,,但在航天飞机的第二次轨道飞行中 工程师们想探索高超音速飞行的范围
+Dialogue: 0,0:10:18.16,0:10:20.90,1080P-shss-90,,0,0,0,,但在航天飞机的第二次轨道飞行中
 Dialogue: 0,0:10:21.10,0:10:24.70,1080P-sgbd-42,,0,0,0,,the engineers want to explore the hypersonic flight envelope.
-Dialogue: 0,0:10:21.10,0:10:24.70,1080P-shss-90,,0,0,0,,工程师们想要探索高超音速飞行的包络线
+Dialogue: 0,0:10:21.10,0:10:24.70,1080P-shss-90,,0,0,0,,工程师们想要探索高超音速的飞行包线
 Dialogue: 0,0:10:24.93,0:10:29.17,1080P-sgbd-42,,0,0,0,,And included a number of test maneuvers that were flown by hand by Joe Engle.
-Dialogue: 0,0:10:24.93,0:10:29.17,1080P-shss-90,,0,0,0,,并包括一些由Joe Engle手动飞行的测试动作
+Dialogue: 0,0:10:24.93,0:10:29.17,1080P-shss-90,,0,0,0,,并包括一些由约瑟夫·恩格手动飞行的测试动作
 Dialogue: 0,0:10:29.80,0:10:31.22,1080P-sgbd-42,,0,0,0,,And I know this is re-entry.
 Dialogue: 0,0:10:29.80,0:10:31.22,1080P-shss-90,,0,0,0,,而且我知道这是在再入阶段
 Dialogue: 0,0:10:31.44,0:10:34.38,1080P-sgbd-42,,0,0,0,,And the video started out talking about flying to space,
 Dialogue: 0,0:10:31.44,0:10:34.38,1080P-shss-90,,0,0,0,,而视频一开始就谈到了飞向太空
 Dialogue: 0,0:10:34.42,0:10:37.07,1080P-sgbd-42,,0,0,0,,but I felt it was important to highlight Joe Engle,
-Dialogue: 0,0:10:34.42,0:10:37.07,1080P-shss-90,,0,0,0,,但我觉得有必要强调一下Joe Engle
+Dialogue: 0,0:10:34.42,0:10:37.07,1080P-shss-90,,0,0,0,,但我觉得有必要强调一下约瑟夫·恩格
 Dialogue: 0,0:10:37.27,0:10:41.66,1080P-sgbd-42,,0,0,0,,because he's actually one of those pilots that flew his vehicle to space manually.
-Dialogue: 0,0:10:37.27,0:10:41.66,1080P-shss-90,,0,0,0,,因为他实际上是那些手动驾驶飞行器进入太空的飞行员之一
+Dialogue: 0,0:10:37.27,0:10:41.66,1080P-shss-90,,0,0,0,,因为他实际上是那些手动驾驶航天器进入太空的飞行员之一
 Dialogue: 0,0:10:41.69,0:10:43.70,1080P-sgbd-42,,0,0,0,,He was an X-15 pilot.
 Dialogue: 0,0:10:41.69,0:10:43.70,1080P-shss-90,,0,0,0,,他是一名X-15飞行员
 Dialogue: 0,0:10:44.36,0:10:49.45,1080P-sgbd-42,,0,0,0,,The X-15 program had 13 flights that reached altitudes of over 50 miles,
-Dialogue: 0,0:10:44.36,0:10:49.45,1080P-shss-90,,0,0,0,,X-15计划有13次飞行 达到50英里以上的高度
+Dialogue: 0,0:10:44.36,0:10:49.45,1080P-shss-90,,0,0,0,,X-15计划有13次飞行 达到80.47千米以上的高度
 Dialogue: 0,0:10:49.50,0:10:51.98,1080P-sgbd-42,,0,0,0,,and so were considered space flights in the US.
 Dialogue: 0,0:10:49.50,0:10:51.98,1080P-shss-90,,0,0,0,,因此在美国被认为是太空飞行
 Dialogue: 0,0:10:52.46,0:10:54.78,1080P-sgbd-42,,0,0,0,,The highest was 107 kilometers,
@@ -357,49 +356,49 @@ Dialogue: 0,0:10:52.46,0:10:54.78,1080P-shss-90,,0,0,0,,最高的一次是107千
 Dialogue: 0,0:10:55.04,0:10:58.66,1080P-sgbd-42,,0,0,0,,and it was also a space flight, by international definitions.
 Dialogue: 0,0:10:55.04,0:10:58.66,1080P-shss-90,,0,0,0,,而且根据国际定义 它也是一次太空飞行
 Dialogue: 0,0:10:59.46,0:11:03.03,1080P-sgbd-42,,0,0,0,,That flight was flown by Joseph Walker in 1963.
-Dialogue: 0,0:10:59.46,0:11:03.03,1080P-shss-90,,0,0,0,,这次飞行是由Joseph Walker在1963年进行的
+Dialogue: 0,0:10:59.46,0:11:03.03,1080P-shss-90,,0,0,0,,这次飞行是由约瑟夫·沃克在1963年进行的
 Dialogue: 0,0:11:03.53,0:11:06.22,1080P-sgbd-42,,0,0,0,,Other pilots who also flew the X-15 to space were
 Dialogue: 0,0:11:03.53,0:11:06.22,1080P-shss-90,,0,0,0,,其他也曾驾驶X-15进入太空的飞行员有
-Dialogue: 0,0:11:06.23,0:11:11.21,1080P-sgbd-42,,0,0,0,,Robert White  Bill Dana  john McKay  Robert Rushworth  Pete Knight
-Dialogue: 0,0:11:06.23,0:11:11.21,1080P-shss-90,,0,0,0,,Robert White Bill Dana john McKay Robert Rushworth Pete Knight
+Dialogue: 0,0:11:06.23,0:11:11.21,1080P-sgbd-42,,0,0,0,,Robert White  Bill Dana  John McKay  Robert Rushworth  Pete Knight
+Dialogue: 0,0:11:06.23,0:11:11.21,1080P-shss-90,,0,0,0,,罗伯特·怀特 比尔·戴纳 约翰·麦凯 罗伯特·拉什沃斯 皮特·奈特
 Dialogue: 0,0:11:11.23,0:11:14.06,1080P-sgbd-42,,0,0,0,,and Michael Adams, who unfortunately died in his flight.
-Dialogue: 0,0:11:11.23,0:11:14.06,1080P-shss-90,,0,0,0,,和Michael Adams 他不幸在飞行中死亡
+Dialogue: 0,0:11:11.23,0:11:14.06,1080P-shss-90,,0,0,0,,以及在飞行中不幸遇难的迈克尔·亚当斯
 Dialogue: 0,0:11:14.77,0:11:20.19,1080P-sgbd-42,,0,0,0,,All of these pilots, they flew the X-15 to space without the aid of an autopilot.
-Dialogue: 0,0:11:14.77,0:11:20.19,1080P-shss-90,,0,0,0,,所有这些飞行员 他们在没有自动驾驶仪的帮助下将X-15飞向太空
+Dialogue: 0,0:11:14.77,0:11:20.19,1080P-shss-90,,0,0,0,,这些飞行员都在没有自动驾驶仪的帮助下把X-15飞向太空
 Dialogue: 0,0:11:20.86,0:11:25.73,1080P-sgbd-42,,0,0,0,,Notably, one X-15 pilot who never took it to space was Neil Armstrong.
-Dialogue: 0,0:11:20.86,0:11:25.73,1080P-shss-90,,0,0,0,,值得注意的是 有一位X-15飞行员从未被X-15带到太空 他就是Neil Armstrong
+Dialogue: 0,0:11:20.86,0:11:25.73,1080P-shss-90,,0,0,0,,{\fs77}值得注意的是 有一位X-15飞行员从未被X-15带到太空 他就是尼尔·阿姆斯特朗
 Dialogue: 0,0:11:26.06,0:11:29.82,1080P-sgbd-42,,0,0,0,,I mean, the X-15 program was full of immensely talented pilots.
-Dialogue: 0,0:11:26.06,0:11:29.82,1080P-shss-90,,0,0,0,,我的意思是 X-15计划充满了极有才华的飞行员
+Dialogue: 0,0:11:26.06,0:11:29.82,1080P-shss-90,,0,0,0,,我是指 X-15计划充满了极有才华的飞行员
 Dialogue: 0,0:11:30.32,0:11:33.02,1080P-sgbd-42,,0,0,0,,So the X-15 program ended in 1963,
 Dialogue: 0,0:11:30.32,0:11:33.02,1080P-shss-90,,0,0,0,,然而 X-15计划于1963年结束
 Dialogue: 0,0:11:33.04,0:11:38.09,1080P-sgbd-42,,0,0,0,,but 40 years later, a new sub-orbital rocket plane would make flights to space too.
-Dialogue: 0,0:11:33.04,0:11:38.09,1080P-shss-90,,0,0,0,,但40年后 一个新的亚轨道火箭飞机也将飞向太空
+Dialogue: 0,0:11:33.04,0:11:38.09,1080P-shss-90,,0,0,0,,但40年后 一架新的亚轨道火箭飞机也将飞向太空
 Dialogue: 0,0:11:38.54,0:11:43.74,1080P-sgbd-42,,0,0,0,,SpaceShipOne, it was Burt Rutan's prize winning entry for the Ansari X Prize.
-Dialogue: 0,0:11:38.54,0:11:43.74,1080P-shss-90,,0,0,0,,SpaceShipOne 它是Burt Rutan参加Ansari X奖的获奖作品
+Dialogue: 0,0:11:38.54,0:11:43.74,1080P-shss-90,,0,0,0,,这就是太空船一号 它是获得安萨里X大奖的伯特·鲁坦的座机
 Dialogue: 0,0:11:44.19,0:11:46.98,1080P-sgbd-42,,0,0,0,,And its design was brilliant in its simplicity.
-Dialogue: 0,0:11:44.19,0:11:46.98,1080P-shss-90,,0,0,0,,它的设计在其简单性方面非常出色
-Dialogue: 0,0:11:47.06,0:11:52.10,1080P-sgbd-42,,0,0,0,,So simple that there were no flight computers operating, fly by wire controls or anything.
-Dialogue: 0,0:11:47.06,0:11:52.10,1080P-shss-90,,0,0,0,,如此简单 以至于没有飞行计算机操作、线控飞行或任何东西
+Dialogue: 0,0:11:44.19,0:11:46.98,1080P-shss-90,,0,0,0,,其设计出色在简单性方面
+Dialogue: 0,0:11:47.06,0:11:52.10,1080P-sgbd-42,,0,0,0,,So simple that there were no flight computers operating, fly-by-wire controls or anything.
+Dialogue: 0,0:11:47.06,0:11:52.10,1080P-shss-90,,0,0,0,,如此简单 以至于没有飞行计算机 电传飞控之类的东西
 Dialogue: 0,0:11:52.24,0:11:56.70,1080P-sgbd-42,,0,0,0,,Just old fashioned cables connected to the stick, pooling on control surfaces.
 Dialogue: 0,0:11:52.24,0:11:56.70,1080P-shss-90,,0,0,0,,只是老式的电缆连接到杆上 汇集到控制面上
-Dialogue: 0,0:11:57.47,0:12:03.12,1080P-sgbd-42,,0,0,0,,Two pilots would fly SpaceShipOne above a 100 kilometers Mike Mainville and Brian Binnie,
-Dialogue: 0,0:11:57.47,0:12:03.12,1080P-shss-90,,0,0,0,,两名飞行员将驾驶SpaceShipOne在100公里以上的地方飞行 Mike Mainville和Brian Binnie
+Dialogue: 0,0:11:57.47,0:12:03.12,1080P-sgbd-42,,0,0,0,,Two pilots would fly SpaceShipOne above a 100 kilometers Mike Melvill and Brian Binnie,
+Dialogue: 0,0:11:57.47,0:12:03.12,1080P-shss-90,,0,0,0,,两名飞行员将驾驶太空船一号在100公里以上的地方飞行 迈克·曼维尔和布莱恩·宾尼
 Dialogue: 0,0:12:03.14,0:12:08.79,1080P-sgbd-42,,0,0,0,,with Brian Binnie reaching an altitude of 112 kilometers on the final flight of SpaceShipOne.
-Dialogue: 0,0:12:03.14,0:12:08.79,1080P-shss-90,,0,0,0,,Brian Binnie在SpaceShipOne的最后一次飞行中达到了112公里的高度
+Dialogue: 0,0:12:03.14,0:12:08.79,1080P-shss-90,,0,0,0,,而布莱恩·宾尼在太空船一号的最后一次飞行中达到了112公里的高度
 Dialogue: 0,0:12:09.45,0:12:12.74,1080P-sgbd-42,,0,0,0,,And now SpaceShipTwo is following in the same mold,
-Dialogue: 0,0:12:09.45,0:12:12.74,1080P-shss-90,,0,0,0,,而现在 SpaceShipTwo也在沿用同样的模式
+Dialogue: 0,0:12:09.45,0:12:12.74,1080P-shss-90,,0,0,0,,而现在 太空船二号也在沿用同样的模式
 Dialogue: 0,0:12:12.75,0:12:15.62,1080P-sgbd-42,,0,0,0,,but with bigger room, more room for passengers.
-Dialogue: 0,0:12:12.75,0:12:15.62,1080P-shss-90,,0,0,0,,但有更大的空间 为乘客提供更多的空间
-Dialogue: 0,0:12:15.90,0:12:22.38,1080P-sgbd-42,,0,0,0,,So far it's flown three space flights with pilots Mark Stuckey, Frederick Sturckow, Dave Mackay,
-Dialogue: 0,0:12:15.90,0:12:22.38,1080P-shss-90,,0,0,0,,到目前为止 它已经进行了三次太空飞行 由飞行员Mark Stuckey  Frederick Sturckow  Dave Mackay
-Dialogue: 0,0:12:22.58,0:12:26.06,1080P-sgbd-42,,0,0,0,,and Michael Masucci at the controls.
-Dialogue: 0,0:12:22.58,0:12:26.06,1080P-shss-90,,0,0,0,,和Michael Masucci负责控制
+Dialogue: 0,0:12:12.75,0:12:15.62,1080P-shss-90,,0,0,0,,但能为乘客提供更多的空间
+Dialogue: 0,0:12:15.90,0:12:18.22,1080P-sgbd-42,,0,0,0,,So far it's flown three space flights
+Dialogue: 0,0:12:15.90,0:12:18.22,1080P-shss-90,,0,0,0,,到目前为止 它已经进行了三次太空飞行
+Dialogue: 0,0:12:18.25,0:12:26.06,1080P-sgbd-42,,0,0,0,,with pilots Mark Stuckey, Frederick Sturckow, Dave Mackay, and Michael Masucci at the controls.
+Dialogue: 0,0:12:18.25,0:12:26.06,1080P-shss-90,,0,0,0,,{\fs80}由飞行员马克·斯塔基 弗雷德里克·斯特考 戴夫·麦凯 和迈克尔·马苏奇负责控制
 Dialogue: 0,0:12:26.30,0:12:30.19,1080P-sgbd-42,,0,0,0,,So they're still using old fashioned the low tech reversible controls
-Dialogue: 0,0:12:26.30,0:12:30.19,1080P-shss-90,,0,0,0,,因此 他们仍在使用老式的、低技术含量的可逆式控制器
+Dialogue: 0,0:12:26.30,0:12:30.19,1080P-shss-90,,0,0,0,,因此 他们仍在使用老式的 低技术含量的可逆式操纵
 Dialogue: 0,0:12:30.22,0:12:34.14,1080P-sgbd-42,,0,0,0,,on a carbon fiber, supersonic rocket powered aircraft that goes to space.
-Dialogue: 0,0:12:30.22,0:12:34.14,1080P-shss-90,,0,0,0,,乘坐在一个碳纤维、超音速火箭动力的飞机上 去往太空
+Dialogue: 0,0:12:30.22,0:12:34.14,1080P-shss-90,,0,0,0,,乘坐在一个碳纤维 超音速火箭动力的飞机上 去往太空
 Dialogue: 0,0:12:34.46,0:12:40.50,1080P-sgbd-42,,0,0,0,,So while we gamers can fly our simulated rockets into space by intuition, and the seat of our pants
-Dialogue: 0,0:12:34.46,0:12:40.50,1080P-shss-90,,0,0,0,,因此 当我们这些游戏玩家可以通过直觉和裤子的座位来驾驶我们的模拟火箭进入太空时
+Dialogue: 0,0:12:34.46,0:12:40.50,1080P-shss-90,,0,0,0,,{\fs77}因此 当我们这些游戏玩家可以通过直觉和裤子的座位来驾驶模拟火箭进入太空时
 Dialogue: 0,0:12:40.89,0:12:45.50,1080P-sgbd-42,,0,0,0,,there hasn't been any astronauts manually flying their rockets to orbit,
 Dialogue: 0,0:12:40.89,0:12:45.50,1080P-shss-90,,0,0,0,,没有任何宇航员手动驾驶他们的火箭进入轨道
 Dialogue: 0,0:12:45.51,0:12:48.45,1080P-sgbd-42,,0,0,0,,because the computers have always done a better job.
@@ -407,4 +406,4 @@ Dialogue: 0,0:12:45.51,0:12:48.45,1080P-shss-90,,0,0,0,,因为计算机总是能
 Dialogue: 0,0:12:48.89,0:12:54.70,1080P-sgbd-42,,0,0,0,,But there's been over a dozen pilots who have flown an aircraft into space by hand.
 Dialogue: 0,0:12:48.89,0:12:54.70,1080P-shss-90,,0,0,0,,但已经有十几位飞行员用亲手将飞机开进了太空
 Dialogue: 0,0:12:55.10,0:12:57.32,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:12:55.10,0:12:57.32,1080P-shss-90,,0,0,0,,我是Scott Manley 飞行安全
+Dialogue: 0,0:12:55.10,0:12:57.32,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
