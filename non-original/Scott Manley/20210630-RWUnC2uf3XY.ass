@@ -213,7 +213,7 @@ Dialogue: 0,0:05:59.85,0:06:04.74,1080P-shss-90,,0,0,0,,{\blur4}例如 与支持
 Dialogue: 0,0:06:04.94,0:06:08.22,1080P-sgbd-42,,0,0,0,,{\blur4}whereas ground system commands would come up with 27 bits
 Dialogue: 0,0:06:04.94,0:06:08.22,1080P-shss-90,,0,0,0,,{\blur4}而地面系统的命令会有27位
 Dialogue: 0,0:06:08.24,0:06:13.05,1080P-sgbd-42,,0,0,0,,{\blur4}which is quite unnerving for someone that's been raised in powers of two.
-Dialogue: 0,0:06:08.24,0:06:13.05,1080P-shss-90,,0,0,0,,{\blur4}这样的位宽会让一个在2的权威中长大的人变得相当不知所措
+Dialogue: 0,0:06:08.24,0:06:13.05,1080P-shss-90,,0,0,0,,{\blur4}这样的位宽会让一个习惯了2的幂的人变得相当不知所措
 Dialogue: 0,0:06:13.70,0:06:17.44,1080P-sgbd-42,,0,0,0,,{\blur4}So this whole unit was bolted to one of the doors on the space telescope
 Dialogue: 0,0:06:13.70,0:06:17.44,1080P-shss-90,,0,0,0,,{\blur4}因此 这整个装置被栓在太空望远镜的一个门上
 Dialogue: 0,0:06:17.44,0:06:21.91,1080P-sgbd-42,,0,0,0,,{\blur4}and it operated fine from the telescope's launch right up until 2008
@@ -249,7 +249,7 @@ Dialogue: 0,0:07:16.33,0:07:21.71,1080P-shss-90,,0,0,0,,{\blur4}总之哈勃太�
 Dialogue: 0,0:07:22.16,0:07:26.80,1080P-sgbd-42,,0,0,0,,{\blur4}And at its core was originally launched with a DF-224
 Dialogue: 0,0:07:22.16,0:07:26.80,1080P-shss-90,,0,0,0,,{\blur4}而在最初发射的时候 其核心是DF-224
 Dialogue: 0,0:07:26.80,0:07:32.20,1080P-sgbd-42,,0,0,0,,{\blur4}which was a space hardened CPU that was slightly more advanced I think than the NSSC.
-Dialogue: 0,0:07:26.80,0:07:32.20,1080P-shss-90,,0,0,0,,{\blur4}这是一个辐射硬化CPU 我认为比NSSC稍微先进一些
+Dialogue: 0,0:07:26.80,0:07:32.20,1080P-shss-90,,0,0,0,,{\blur4}这是一个为辐射加固的CPU 我认为比NSSC稍微先进一些
 Dialogue: 0,0:07:32.70,0:07:38.44,1080P-sgbd-42,,0,0,0,,{\blur4}It was developed in the 1980s by Rockwell and with a clock speed of 1.25 megahertz.
 Dialogue: 0,0:07:32.70,0:07:38.44,1080P-shss-90,,0,0,0,,{\blur4}它是在20世纪80年代由洛克威尔开发的 时钟速度为1.25兆赫兹
 Dialogue: 0,0:07:38.64,0:07:42.08,1080P-sgbd-42,,0,0,0,,{\blur4}It wasn't impressing anyone when it was launched in 1990.
