@@ -21,27 +21,27 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.38,0:00:05.78,1080P-sgbd-42,,0,0,0,,Hello, it's Scott Manley here.
-Dialogue: 0,0:00:04.38,0:00:05.78,1080P-shss-90,,0,0,0,,你好 我是斯科特-曼利
+Dialogue: 0,0:00:04.38,0:00:05.78,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.92,0:00:10.66,1080P-sgbd-42,,0,0,0,,In 1969, Apollo 11 took Armstrong, Aldrin and Collins to the moon
-Dialogue: 0,0:00:05.92,0:00:10.66,1080P-shss-90,,0,0,0,,1969年 阿波罗11号将阿姆斯特朗、奥尔德林和柯林斯带到了月球
+Dialogue: 0,0:00:05.92,0:00:10.66,1080P-shss-90,,0,0,0,,1969年 阿波罗11号将阿姆斯特朗 奥尔德林和柯林斯带到了月球
 Dialogue: 0,0:00:10.70,0:00:13.50,1080P-sgbd-42,,0,0,0,,for one of the most important flights in human history.
-Dialogue: 0,0:00:10.70,0:00:13.50,1080P-shss-90,,0,0,0,,进行人类历史上最重要的飞行之一
+Dialogue: 0,0:00:10.70,0:00:13.50,1080P-shss-90,,0,0,0,,进行了人类历史上最重要的飞行之一
 Dialogue: 0,0:00:13.87,0:00:16.76,1080P-sgbd-42,,0,0,0,,The spacecraft at top were named Columbia and Eagle,
 Dialogue: 0,0:00:13.87,0:00:16.76,1080P-shss-90,,0,0,0,,顶部的航天器被命名为哥伦比亚号和鹰号
 Dialogue: 0,0:00:16.83,0:00:19.18,1080P-sgbd-42,,0,0,0,,and you know, we know where Columbia is.
-Dialogue: 0,0:00:16.83,0:00:19.18,1080P-shss-90,,0,0,0,,你知道 我们知道哥伦比亚号在哪里
+Dialogue: 0,0:00:16.83,0:00:19.18,1080P-shss-90,,0,0,0,,你看 我们都知道哥伦比亚号在哪里
 Dialogue: 0,0:00:19.22,0:00:22.22,1080P-sgbd-42,,0,0,0,,It returned to earth, and I actually saw it in a museum.
 Dialogue: 0,0:00:19.22,0:00:22.22,1080P-shss-90,,0,0,0,,它回到了地球 我实际上在一个博物馆里看到了它
 Dialogue: 0,0:00:22.56,0:00:26.86,1080P-sgbd-42,,0,0,0,,But Eagle, the lander that actually carried them to the surface.
-Dialogue: 0,0:00:22.56,0:00:26.86,1080P-shss-90,,0,0,0,,但是 "鹰 "号 是真正把他们带到地面的着陆器
+Dialogue: 0,0:00:22.56,0:00:26.86,1080P-shss-90,,0,0,0,,但是 "鹰 "号 那个真正把他们带到地面的着陆器
 Dialogue: 0,0:00:27.10,0:00:30.88,1080P-sgbd-42,,0,0,0,,We know the descent stages on the surface of the moon because that was left behind,
-Dialogue: 0,0:00:27.10,0:00:30.88,1080P-shss-90,,0,0,0,,我们知道月球表面的下降阶段 因为那是留下来的
+Dialogue: 0,0:00:27.10,0:00:30.88,1080P-shss-90,,0,0,0,,我们知道下降级还在月球表面 因为那部分是留下来的
 Dialogue: 0,0:00:30.99,0:00:34.50,1080P-sgbd-42,,0,0,0,,but the ascent stage was dropped into lunar orbit.
-Dialogue: 0,0:00:30.99,0:00:34.50,1080P-shss-90,,0,0,0,,但上升阶段被扔进了月球轨道
+Dialogue: 0,0:00:30.99,0:00:34.50,1080P-shss-90,,0,0,0,,但上升级进入了月球轨道
 Dialogue: 0,0:00:34.57,0:00:39.99,1080P-sgbd-42,,0,0,0,,And many people had presumed that this capsule had eventually crashed into the moon,
-Dialogue: 0,0:00:34.57,0:00:39.99,1080P-shss-90,,0,0,0,,许多人推测 这个太空舱最终坠入月球
+Dialogue: 0,0:00:34.57,0:00:39.99,1080P-shss-90,,0,0,0,,许多人推测 这个太空舱最终会坠入月球
 Dialogue: 0,0:00:40.07,0:00:44.23,1080P-sgbd-42,,0,0,0,,because the moon tends to do that to things left in lunar orbit.
-Dialogue: 0,0:00:40.07,0:00:44.23,1080P-shss-90,,0,0,0,,因为月球倾向于对留在月球轨道上的东西采取这种做法
+Dialogue: 0,0:00:40.07,0:00:44.23,1080P-shss-90,,0,0,0,,因为月球倾向于影响处在月球轨道上的东西让他们这样
 Dialogue: 0,0:00:44.65,0:00:47.51,1080P-sgbd-42,,0,0,0,,The lunar gravitational field is non spherical,
 Dialogue: 0,0:00:44.65,0:00:47.51,1080P-shss-90,,0,0,0,,月球的引力场是非球形的
 Dialogue: 0,0:00:47.53,0:00:52.30,1080P-sgbd-42,,0,0,0,,and if you put an object any random circular orbit lower around the moon,
@@ -49,47 +49,47 @@ Dialogue: 0,0:00:47.53,0:00:52.30,1080P-shss-90,,0,0,0,,如果你把一个物体
 Dialogue: 0,0:00:52.36,0:00:54.99,1080P-sgbd-42,,0,0,0,,what happens is the orbit gets more eccentric,
 Dialogue: 0,0:00:52.36,0:00:54.99,1080P-shss-90,,0,0,0,,发生的情况是轨道变得更加偏心
 Dialogue: 0,0:00:55.10,0:00:59.96,1080P-sgbd-42,,0,0,0,,and the perilune, the point of closest approach, tends to get lower and lower
-Dialogue: 0,0:00:55.10,0:00:59.96,1080P-shss-90,,0,0,0,,而最接近的点--月球周边 往往会越来越低
+Dialogue: 0,0:00:55.10,0:00:59.96,1080P-shss-90,,0,0,0,,而近月点 也就是接近过程中距离月球最近的点 往往会越来越低
 Dialogue: 0,0:01:00.17,0:01:03.75,1080P-sgbd-42,,0,0,0,,until it hits the surface of the moon and the spacecraft crashes.
 Dialogue: 0,0:01:00.17,0:01:03.75,1080P-shss-90,,0,0,0,,直到撞上月球表面 航天器坠毁
-Dialogue: 0,0:01:04.31,0:01:07.39,1080P-sgbd-42,,0,0,0,,This happened to all five of the lunar arbiter spacecraft,
-Dialogue: 0,0:01:04.31,0:01:07.39,1080P-shss-90,,0,0,0,,这发生在所有五个月球仲裁器的航天器上
+Dialogue: 0,0:01:04.31,0:01:07.39,1080P-sgbd-42,,0,0,0,,This happened to all five of the lunar orbiter spacecraft,
+Dialogue: 0,0:01:04.31,0:01:07.39,1080P-shss-90,,0,0,0,,这发生在所有五个月球轨道器上
 Dialogue: 0,0:01:07.43,0:01:09.73,1080P-sgbd-42,,0,0,0,,which were used to map the moon for the Apollo program.
 Dialogue: 0,0:01:07.43,0:01:09.73,1080P-shss-90,,0,0,0,,它们被用来为阿波罗计划绘制月球地图
 Dialogue: 0,0:01:09.77,0:01:14.54,1080P-sgbd-42,,0,0,0,,It happened to the two subsatellites deployed in Apollo 15 and 16.
-Dialogue: 0,0:01:09.77,0:01:14.54,1080P-shss-90,,0,0,0,,它发生在阿波罗15号和16号部署的两个子卫星上
+Dialogue: 0,0:01:09.77,0:01:14.54,1080P-shss-90,,0,0,0,,它同样发生在阿波罗15号和16号部署的两个子卫星上
 Dialogue: 0,0:01:14.96,0:01:19.90,1080P-sgbd-42,,0,0,0,,We know, however, that it didn't happen to the ascent modules for the later Apollo missions.
-Dialogue: 0,0:01:14.96,0:01:19.90,1080P-shss-90,,0,0,0,,然而 我们知道 它没有发生在后来的阿波罗任务的上升模块上
+Dialogue: 0,0:01:14.96,0:01:19.90,1080P-shss-90,,0,0,0,,然而 我们知道的是 它没有发生在后来的阿波罗任务的上升级上
 Dialogue: 0,0:01:20.31,0:01:22.94,1080P-sgbd-42,,0,0,0,,Because they were all intentionally crashed into the moon
-Dialogue: 0,0:01:20.31,0:01:22.94,1080P-shss-90,,0,0,0,,因为它们都是被故意撞入月球的
+Dialogue: 0,0:01:20.31,0:01:22.94,1080P-shss-90,,0,0,0,,因为它们都是被控制故意撞上月球的
 Dialogue: 0,0:01:23.15,0:01:26.31,1080P-sgbd-42,,0,0,0,,to provide data for the Seismonitors that were landed there.
 Dialogue: 0,0:01:23.15,0:01:26.31,1080P-shss-90,,0,0,0,,以便为降落在那里的地震监测仪提供数据
 Dialogue: 0,0:01:26.72,0:01:30.41,1080P-sgbd-42,,0,0,0,,In the case of Apollo 10, it's a sent module named Snoopy
-Dialogue: 0,0:01:26.72,0:01:30.41,1080P-shss-90,,0,0,0,,在阿波罗10号的案例中 它是一个名为史努比的发送模块
+Dialogue: 0,0:01:26.72,0:01:30.41,1080P-shss-90,,0,0,0,,在阿波罗10号的案例中 它是一个名为Snoopy的发送模块
 Dialogue: 0,0:01:30.60,0:01:33.19,1080P-sgbd-42,,0,0,0,,was ordered to burn its engine to depletion.
-Dialogue: 0,0:01:30.60,0:01:33.19,1080P-shss-90,,0,0,0,,被命令烧掉它的引擎 使其消耗殆尽
+Dialogue: 0,0:01:30.60,0:01:33.19,1080P-shss-90,,0,0,0,,被命令燃烧它的引擎 直到燃料消耗殆尽
 Dialogue: 0,0:01:33.24,0:01:37.13,1080P-sgbd-42,,0,0,0,,It pointed itself a deep space, and kept going until it ran out of fuel.
-Dialogue: 0,0:01:33.24,0:01:37.13,1080P-shss-90,,0,0,0,,它把自己对准了深空 一直走到燃料耗尽
+Dialogue: 0,0:01:33.24,0:01:37.13,1080P-shss-90,,0,0,0,,它把自己对准了深空 一直加速到燃料耗尽
 Dialogue: 0,0:01:37.41,0:01:38.83,1080P-sgbd-42,,0,0,0,,And it was then lost.
 Dialogue: 0,0:01:37.41,0:01:38.83,1080P-shss-90,,0,0,0,,然后它就消失了
 Dialogue: 0,0:01:39.17,0:01:42.99,1080P-sgbd-42,,0,0,0,,Until recently, when an asteroid named 2018 AV2
 Dialogue: 0,0:01:39.17,0:01:42.99,1080P-shss-90,,0,0,0,,直到最近 当一颗名为2018 AV2的小行星
 Dialogue: 0,0:01:43.48,0:01:47.02,1080P-sgbd-42,,0,0,0,,had an orbit, which brings it back to the right place and the right time,
-Dialogue: 0,0:01:43.48,0:01:47.02,1080P-shss-90,,0,0,0,,的轨道 这使它回到了正确的地点和正确的时间
+Dialogue: 0,0:01:43.48,0:01:47.02,1080P-shss-90,,0,0,0,,其拥有的轨道 可以将他在正确的时间带回正确的位置
 Dialogue: 0,0:01:47.05,0:01:51.71,1080P-sgbd-42,,0,0,0,,so we believe that Apollo 10's ascent module is still safe in deep space.
-Dialogue: 0,0:01:47.05,0:01:51.71,1080P-shss-90,,0,0,0,,所以我们相信 阿波罗10号的上升舱在深空仍然是安全的
+Dialogue: 0,0:01:47.05,0:01:51.71,1080P-shss-90,,0,0,0,,所以我们相信 阿波罗10号的上升级在深空中仍然是安全的
 Dialogue: 0,0:01:52.01,0:01:57.45,1080P-sgbd-42,,0,0,0,,But Apollo 11's ascent module is a far more important artifact for human history,
-Dialogue: 0,0:01:52.01,0:01:57.45,1080P-shss-90,,0,0,0,,但阿波罗11号的上升舱对人类历史来说是一个更重要的文物
+Dialogue: 0,0:01:52.01,0:01:57.45,1080P-shss-90,,0,0,0,,但阿波罗11号的上升级对人类历史来说是一个更重要的文物
 Dialogue: 0,0:01:57.49,0:02:01.97,1080P-sgbd-42,,0,0,0,,and there is a chance that it may in fact still be orbiting the moon today.
 Dialogue: 0,0:01:57.49,0:02:01.97,1080P-shss-90,,0,0,0,,而且有可能它今天仍然在月球轨道上运行
 Dialogue: 0,0:02:02.69,0:02:07.02,1080P-sgbd-42,,0,0,0,,A couple of years ago, an amateur space fan based in Silicon Valley
 Dialogue: 0,0:02:02.69,0:02:07.02,1080P-shss-90,,0,0,0,,几年前 一个位于硅谷的业余太空爱好者
 Dialogue: 0,0:02:07.40,0:02:11.94,1080P-sgbd-42,,0,0,0,,decided that he would go looking for the impact site of the Apollo 11 capsule,
-Dialogue: 0,0:02:07.40,0:02:11.94,1080P-shss-90,,0,0,0,,决定去寻找 "阿波罗11号 "太空舱的撞击地点
+Dialogue: 0,0:02:07.40,0:02:11.94,1080P-shss-90,,0,0,0,,他决定要去寻找 "阿波罗11号 "太空舱的撞击地点
 Dialogue: 0,0:02:11.95,0:02:15.28,1080P-sgbd-42,,0,0,0,,but to get an idea, but where it could land on the moon.
-Dialogue: 0,0:02:11.95,0:02:15.28,1080P-shss-90,,0,0,0,,但为了得到一个想法 但它可能在月球上降落
+Dialogue: 0,0:02:11.95,0:02:15.28,1080P-shss-90,,0,0,0,,但要有一个想法 就是它可能在月球的哪个位置降落
 Dialogue: 0,0:02:15.50,0:02:19.66,1080P-sgbd-42,,0,0,0,,First, he had to take the orbit of the spacecraft and model its through time
-Dialogue: 0,0:02:15.50,0:02:19.66,1080P-shss-90,,0,0,0,,首先 他必须采取航天器的轨道 并通过时间建立模型
+Dialogue: 0,0:02:15.50,0:02:19.66,1080P-shss-90,,0,0,0,,首先 他必须取得航天器的轨道 并根据时间建立模型
 Dialogue: 0,0:02:19.72,0:02:23.70,1080P-sgbd-42,,0,0,0,,to figure out what parts of the moon it could very likely end up hitting.
 Dialogue: 0,0:02:19.72,0:02:23.70,1080P-shss-90,,0,0,0,,来计算出它很可能最终会撞击到月球的哪些部分
 Dialogue: 0,0:02:24.49,0:02:27.71,1080P-sgbd-42,,0,0,0,,And so we started out with an application called GMAT.
@@ -114,14 +114,14 @@ Dialogue: 0,0:02:52.40,0:02:55.47,1080P-sgbd-42,,0,0,0,,If I double click on it 
 Dialogue: 0,0:02:52.40,0:02:55.47,1080P-shss-90,,0,0,0,,如果我双击它 你可以看到轨道元素
 Dialogue: 0,0:02:55.77,0:03:00.36,1080P-sgbd-42,,0,0,0,,Here you know the semi major axis, which is the radius of the orbit relative to the center.
 Dialogue: 0,0:02:55.77,0:03:00.36,1080P-shss-90,,0,0,0,,在这里你知道半主轴 也就是相对于中心的轨道半径
-Dialogue: 0,0:03:00.38,0:03:05.90,1080P-sgbd-42,,0,0,0,,You have rccentricity, which I've set to be actually extraordinarily lowly circular orbit,
-Dialogue: 0,0:03:00.38,0:03:05.90,1080P-shss-90,,0,0,0,,你有rccentricity 我把它设置为实际上是非常低的圆形轨道
+Dialogue: 0,0:03:00.38,0:03:05.90,1080P-sgbd-42,,0,0,0,,You have eccentricity, which I've set to be actually extraordinarily lowly circular orbit,
+Dialogue: 0,0:03:00.38,0:03:05.90,1080P-shss-90,,0,0,0,,这里有离心率 我把它设置为实际上是非常低的圆形轨道
 Dialogue: 0,0:03:06.18,0:03:07.78,1080P-sgbd-42,,0,0,0,,11 degree inclination.
 Dialogue: 0,0:03:06.18,0:03:07.78,1080P-shss-90,,0,0,0,,11度的倾角
 Dialogue: 0,0:03:07.82,0:03:10.81,1080P-sgbd-42,,0,0,0,,I've set the date to be like 1971.
-Dialogue: 0,0:03:07.82,0:03:10.81,1080P-shss-90,,0,0,0,,我把日期设定为1971年那样
+Dialogue: 0,0:03:07.82,0:03:10.81,1080P-shss-90,,0,0,0,,我把日期设定为1971年
 Dialogue: 0,0:03:11.01,0:03:11.88,1080P-sgbd-42,,0,0,0,,Because why not?
-Dialogue: 0,0:03:11.01,0:03:11.88,1080P-shss-90,,0,0,0,,因为为什么不呢？
+Dialogue: 0,0:03:11.01,0:03:11.88,1080P-shss-90,,0,0,0,,因为 为什么不呢？
 Dialogue: 0,0:03:13.11,0:03:15.08,1080P-sgbd-42,,0,0,0,,And then we have the propagator.
 Dialogue: 0,0:03:13.11,0:03:15.08,1080P-shss-90,,0,0,0,,然后我们有传播器
 Dialogue: 0,0:03:15.12,0:03:18.06,1080P-sgbd-42,,0,0,0,,Now the propagator is the thing that does the math.
@@ -159,25 +159,25 @@ Dialogue: 0,0:04:11.49,0:04:14.93,1080P-shss-90,,0,0,0,,但随着时间的推移
 Dialogue: 0,0:04:15.37,0:04:18.70,1080P-sgbd-42,,0,0,0,,And what you're seeing, of course, is the outside here.
 Dialogue: 0,0:04:15.37,0:04:18.70,1080P-shss-90,,0,0,0,,当然 你所看到的是这里的外面
 Dialogue: 0,0:04:18.75,0:04:21.54,1080P-sgbd-42,,0,0,0,,This is your apogee or apolune anyway,
-Dialogue: 0,0:04:18.75,0:04:21.54,1080P-shss-90,,0,0,0,,这是你的远地点或远地点
+Dialogue: 0,0:04:18.75,0:04:21.54,1080P-shss-90,,0,0,0,,这是你的远地点或远月点
 Dialogue: 0,0:04:21.59,0:04:23.77,1080P-sgbd-42,,0,0,0,,and this is your perilune down here.
-Dialogue: 0,0:04:21.59,0:04:23.77,1080P-shss-90,,0,0,0,,这是你的近地点 在这里
+Dialogue: 0,0:04:21.59,0:04:23.77,1080P-shss-90,,0,0,0,,这是你的近月点 在这里
 Dialogue: 0,0:04:23.79,0:04:25.11,1080P-sgbd-42,,0,0,0,,This is the closest point.
 Dialogue: 0,0:04:23.79,0:04:25.11,1080P-shss-90,,0,0,0,,这是最接近的点
 Dialogue: 0,0:04:25.21,0:04:27.18,1080P-sgbd-42,,0,0,0,,And you see where the zero point is here.
 Dialogue: 0,0:04:25.21,0:04:27.18,1080P-shss-90,,0,0,0,,你可以看到零点在这里
 Dialogue: 0,0:04:27.21,0:04:30.86,1080P-sgbd-42,,0,0,0,,If this perilune point gets down to the surface,
-Dialogue: 0,0:04:27.21,0:04:30.86,1080P-shss-90,,0,0,0,,如果这个危险点下降到表面
+Dialogue: 0,0:04:27.21,0:04:30.86,1080P-shss-90,,0,0,0,,如果这个近月点下降到这个面
 Dialogue: 0,0:04:31.02,0:04:34.60,1080P-sgbd-42,,0,0,0,,then we're pretty sure the spacecraft is going to actually have an interaction,
-Dialogue: 0,0:04:31.02,0:04:34.60,1080P-shss-90,,0,0,0,,那么我们就非常肯定航天器将真正有一个互动
+Dialogue: 0,0:04:31.02,0:04:34.60,1080P-shss-90,,0,0,0,,那么我们就非常肯定航天器将会撞击在月球表面
 Dialogue: 0,0:04:34.67,0:04:38.18,1080P-sgbd-42,,0,0,0,,although there aren't actually places on the moon below the sea level.
 Dialogue: 0,0:04:34.67,0:04:38.18,1080P-shss-90,,0,0,0,,虽然月球上没有低于海平面的地方
 Dialogue: 0,0:04:38.50,0:04:40.42,1080P-sgbd-42,,0,0,0,,But yes, bang, there you go.
-Dialogue: 0,0:04:38.50,0:04:40.42,1080P-shss-90,,0,0,0,,但是 是的 砰 你去那里
+Dialogue: 0,0:04:38.50,0:04:40.42,1080P-shss-90,,0,0,0,,但是 是的 砰 就像这样
 Dialogue: 0,0:04:40.44,0:04:42.26,1080P-sgbd-42,,0,0,0,,It's doing a bit of rendering here,
 Dialogue: 0,0:04:40.44,0:04:42.26,1080P-shss-90,,0,0,0,,它在这里做了一点渲染
 Dialogue: 0,0:04:42.33,0:04:45.72,1080P-sgbd-42,,0,0,0,,and it tells us that it probably hit in this region of the moon,
-Dialogue: 0,0:04:42.33,0:04:45.72,1080P-shss-90,,0,0,0,,它告诉我们 它可能在月球的这个区域被击中
+Dialogue: 0,0:04:42.33,0:04:45.72,1080P-shss-90,,0,0,0,,它告诉我们 它可能在这个区域撞击月球
 Dialogue: 0,0:04:45.76,0:04:50.72,1080P-sgbd-42,,0,0,0,,although I haven't gone and done all the detailed calculations for the altitude.
 Dialogue: 0,0:04:45.76,0:04:50.72,1080P-shss-90,,0,0,0,,尽管我还没有去做所有详细的高度计算
 Dialogue: 0,0:04:50.76,0:04:52.87,1080P-sgbd-42,,0,0,0,,I just want to show what this looks like.
@@ -193,7 +193,7 @@ Dialogue: 0,0:05:00.96,0:05:06.89,1080P-shss-90,,0,0,0,,我想进入这里 我�
 Dialogue: 0,0:05:07.17,0:05:10.14,1080P-sgbd-42,,0,0,0,,make sure it's central body of the moon,
 Dialogue: 0,0:05:07.17,0:05:10.14,1080P-shss-90,,0,0,0,,确保它是月球的中心体
 Dialogue: 0,0:05:10.16,0:05:12.43,1080P-sgbd-42,,0,0,0,,otherwise you'll get the distant relative to the earth.
-Dialogue: 0,0:05:10.16,0:05:12.43,1080P-shss-90,,0,0,0,,否则你就会得到相对于地球的遥远距离
+Dialogue: 0,0:05:10.16,0:05:12.43,1080P-shss-90,,0,0,0,,否则你就会得到相对于地球的距离
 Dialogue: 0,0:05:12.46,0:05:13.23,1080P-sgbd-42,,0,0,0,,Let's take this out.
 Dialogue: 0,0:05:12.46,0:05:13.23,1080P-shss-90,,0,0,0,,让我们把这个拿出来
 Dialogue: 0,0:05:13.67,0:05:19.66,1080P-sgbd-42,,0,0,0,,But also let's add in the altitude at which the the surface of the moon, right.
@@ -227,11 +227,11 @@ Dialogue: 0,0:05:54.34,0:05:57.62,1080P-shss-90,,0,0,0,,这东西仍然在同一
 Dialogue: 0,0:05:57.86,0:06:02.33,1080P-sgbd-42,,0,0,0,,but the the high latitude effects affect in different ways.
 Dialogue: 0,0:05:57.86,0:06:02.33,1080P-shss-90,,0,0,0,,但高纬度的影响方式不同
 Dialogue: 0,0:06:02.41,0:06:05.52,1080P-sgbd-42,,0,0,0,,And this one actually keeps going a lot longer.
-Dialogue: 0,0:06:02.41,0:06:05.52,1080P-shss-90,,0,0,0,,而这个人实际上持续的时间要长得多
+Dialogue: 0,0:06:02.41,0:06:05.52,1080P-shss-90,,0,0,0,,而这个轨道实际上持续的时间要长得多
 Dialogue: 0,0:06:05.58,0:06:09.50,1080P-sgbd-42,,0,0,0,,In fact, there are certain latitudes or certain inclinations.
 Dialogue: 0,0:06:05.58,0:06:09.50,1080P-shss-90,,0,0,0,,事实上 在某些纬度或某些倾斜度上
 Dialogue: 0,0:06:09.85,0:06:12.73,1080P-sgbd-42,,0,0,0,,where the orbits are much, much more stable.
-Dialogue: 0,0:06:09.85,0:06:12.73,1080P-shss-90,,0,0,0,,那里的轨道要稳定得多 多
+Dialogue: 0,0:06:09.85,0:06:12.73,1080P-shss-90,,0,0,0,,那里的轨道要稳定得多
 Dialogue: 0,0:06:12.82,0:06:16.08,1080P-sgbd-42,,0,0,0,,These are called frozen inclinations or frozen orbits.
 Dialogue: 0,0:06:12.82,0:06:16.08,1080P-shss-90,,0,0,0,,这些被称为冻结的倾角或冻结的轨道
 Dialogue: 0,0:06:16.34,0:06:18.64,1080P-sgbd-42,,0,0,0,,once you understand this about the moon,
@@ -243,9 +243,9 @@ Dialogue: 0,0:06:24.04,0:06:28.45,1080P-shss-90,,0,0,0,,这样你就不需要扩
 Dialogue: 0,0:06:28.49,0:06:31.20,1080P-sgbd-42,,0,0,0,,and this is what the Lunar Reconnaissance Orbiter does.
 Dialogue: 0,0:06:28.49,0:06:31.20,1080P-shss-90,,0,0,0,,这就是月球勘测轨道器所做的
 Dialogue: 0,0:06:31.22,0:06:36.95,1080P-sgbd-42,,0,0,0,,It tries to stay in an orbit which is never going to hit the moon even if you just let it go.
-Dialogue: 0,0:06:31.22,0:06:36.95,1080P-shss-90,,0,0,0,,它试图保持在一个即使你只是让它走也永远不会撞到月球的轨道上
+Dialogue: 0,0:06:31.22,0:06:36.95,1080P-shss-90,,0,0,0,,它试图保持在一个即使你只是让它自己运行也永远不会撞到月球的轨道上
 Dialogue: 0,0:06:37.66,0:06:40.79,1080P-sgbd-42,,0,0,0,,So now to figure out where Apollo 11's ascent module is,
-Dialogue: 0,0:06:37.66,0:06:40.79,1080P-shss-90,,0,0,0,,所以现在要想知道阿波罗11号的上升舱在哪里
+Dialogue: 0,0:06:37.66,0:06:40.79,1080P-shss-90,,0,0,0,,所以现在要想知道阿波罗11号的上升级在哪里
 Dialogue: 0,0:06:40.98,0:06:44.38,1080P-sgbd-42,,0,0,0,,you need to figure out the orbital elements at the time, the orbit it was in
 Dialogue: 0,0:06:40.98,0:06:44.38,1080P-shss-90,,0,0,0,,你需要弄清楚当时的轨道元素 它所处的轨道
 Dialogue: 0,0:06:44.32,0:06:47.94,1080P-sgbd-42,,0,0,0,,and we can see images from mission control in that era
@@ -259,7 +259,7 @@ Dialogue: 0,0:06:57.06,0:06:59.19,1080P-shss-90,,0,0,0,,其中包括这一行 �
 Dialogue: 0,0:06:59.24,0:07:04.95,1080P-sgbd-42,,0,0,0,,the latitude, longitude, altitude and the velocity vector of the Apollo spacecraft
 Dialogue: 0,0:06:59.24,0:07:04.95,1080P-shss-90,,0,0,0,,阿波罗飞船的纬度、经度、高度和速度矢量
 Dialogue: 0,0:07:04.98,0:07:07.46,1080P-sgbd-42,,0,0,0,,when they released the ascent stage.
-Dialogue: 0,0:07:04.98,0:07:07.46,1080P-shss-90,,0,0,0,,当他们释放上升阶段的时候
+Dialogue: 0,0:07:04.98,0:07:07.46,1080P-shss-90,,0,0,0,,当他们释放上升级的时候
 Dialogue: 0,0:07:07.75,0:07:10.71,1080P-sgbd-42,,0,0,0,,But he very quickly realized that there was a mistake in this table.
 Dialogue: 0,0:07:07.75,0:07:10.71,1080P-shss-90,,0,0,0,,但是他很快就意识到 这个表格里有一个错误
 Dialogue: 0,0:07:10.78,0:07:14.80,1080P-sgbd-42,,0,0,0,,The space-fixed heading angle. That's more or less the heading, the bearing.
@@ -299,7 +299,7 @@ Dialogue: 0,0:08:18.68,0:08:22.26,1080P-shss-90,,0,0,0,,因此 下一件事是�
 Dialogue: 0,0:08:22.46,0:08:25.15,1080P-sgbd-42,,0,0,0,,A lot longer, like 51 years,
 Dialogue: 0,0:08:22.46,0:08:25.15,1080P-shss-90,,0,0,0,,长得多 比如51年
 Dialogue: 0,0:08:25.18,0:08:29.53,1080P-sgbd-42,,0,0,0,,and he finds that it never gets close enough to the surface of the moon to hit it.
-Dialogue: 0,0:08:25.18,0:08:29.53,1080P-shss-90,,0,0,0,,他发现它从未接近过月球表面 以至于无法击中它
+Dialogue: 0,0:08:25.18,0:08:29.53,1080P-shss-90,,0,0,0,,他发现它从未接近过月球表面 以至于无法产生撞击
 Dialogue: 0,0:08:30.06,0:08:32.26,1080P-sgbd-42,,0,0,0,,But wait, we know orbits can be chaotic.
 Dialogue: 0,0:08:30.06,0:08:32.26,1080P-shss-90,,0,0,0,,但是等等 我们知道轨道可能是混乱的
 Dialogue: 0,0:08:32.30,0:08:34.96,1080P-sgbd-42,,0,0,0,,they can be highly sensitive to the initial conditions,
@@ -328,12 +328,12 @@ Dialogue: 0,0:09:10.97,0:09:15.01,1080P-sgbd-42,,0,0,0,,So this, to me, looks li
 Dialogue: 0,0:09:10.97,0:09:15.01,1080P-shss-90,,0,0,0,,因此 对我来说 这看起来像是他真的做了功课 测试了所有可能的东西
 Dialogue: 0,0:09:15.05,0:09:19.54,1080P-sgbd-42,,0,0,0,,but if you think of something else, he has all the code online on github.
 Dialogue: 0,0:09:15.05,0:09:19.54,1080P-shss-90,,0,0,0,,但是 如果你想到别的东西 他在github上有所有的代码
-Dialogue: 0,0:09:19.77,0:09:25.05,1080P-sgbd-42,,0,0,0,,So I'm prepared to believe that Apollo 11's lunar module is still arbiting the moon.
-Dialogue: 0,0:09:19.77,0:09:25.05,1080P-shss-90,,0,0,0,,所以我准备相信 阿波罗11号的登月舱仍然在月球上仲裁
+Dialogue: 0,0:09:19.77,0:09:25.05,1080P-sgbd-42,,0,0,0,,So I'm prepared to believe that Apollo 11's lunar module is still orbiting the moon.
+Dialogue: 0,0:09:19.77,0:09:25.05,1080P-shss-90,,0,0,0,,所以我准备相信 阿波罗11号的登月舱仍然在月球轨道上
 Dialogue: 0,0:09:25.10,0:09:26.43,1080P-sgbd-42,,0,0,0,,There's a pretty good chance of that.
 Dialogue: 0,0:09:25.10,0:09:26.43,1080P-shss-90,,0,0,0,,有一个相当好的机会
 Dialogue: 0,0:09:26.95,0:09:29.90,1080P-sgbd-42,,0,0,0,,I mean, there's things that we can't possibly model at this point.
-Dialogue: 0,0:09:26.95,0:09:29.90,1080P-shss-90,,0,0,0,,我的意思是 有一些事情我们不可能在这一点上建模
+Dialogue: 0,0:09:26.95,0:09:29.90,1080P-shss-90,,0,0,0,,我的意思是 有一些事情我们不可能模拟
 Dialogue: 0,0:09:29.95,0:09:32.26,1080P-sgbd-42,,0,0,0,,It might have just exploded right.
 Dialogue: 0,0:09:29.95,0:09:32.26,1080P-shss-90,,0,0,0,,它可能就这样爆炸了
 Dialogue: 0,0:09:32.30,0:09:33.92,1080P-sgbd-42,,0,0,0,,There was propellent in those tanks.
@@ -367,8 +367,8 @@ Dialogue: 0,0:10:23.29,0:10:30.96,1080P-shss-90,,0,0,0,,从 "朱诺 "号 从各�
 Dialogue: 0,0:10:31.10,0:10:37.26,1080P-sgbd-42,,0,0,0,,I know a space fan who started out by downloading and processing data and sharing on the Internet,
 Dialogue: 0,0:10:31.10,0:10:37.26,1080P-shss-90,,0,0,0,,我认识一个太空迷 他从下载和处理数据开始 并在互联网上分享
 Dialogue: 0,0:10:37.30,0:10:40.06,1080P-sgbd-42,,0,0,0,,and now he's a Mars Rover driver.
-Dialogue: 0,0:10:37.30,0:10:40.06,1080P-shss-90,,0,0,0,,现在他是一名火星车司机
+Dialogue: 0,0:10:37.30,0:10:40.06,1080P-shss-90,,0,0,0,,现在他是一名火星车驾驶者
 Dialogue: 0,0:10:40.36,0:10:45.51,1080P-sgbd-42,,0,0,0,,So the possibilities are there if you want to spend the time to answer questions like this.
 Dialogue: 0,0:10:40.36,0:10:45.51,1080P-shss-90,,0,0,0,,因此 如果你想花时间来回答这样的问题 可能性是存在的
 Dialogue: 0,0:10:45.69,0:10:48.20,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:10:45.69,0:10:48.20,1080P-shss-90,,0,0,0,,我是斯科特-曼利 飞行安全
+Dialogue: 0,0:10:45.69,0:10:48.20,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
