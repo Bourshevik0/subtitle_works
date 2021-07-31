@@ -9,14 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: 20210527-c-B3UVGVCmU.mp4
-Video File: 20210527-c-B3UVGVCmU.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.200000
-Video Position: 132
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -30,7 +22,7 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.40,0:00:11.40,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Natural Plutonium Discovered Beneath The Oceans Shows Cataclysmic History\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/c-B3UVGVCmU\N原视频发布日期：20210527\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:04.40,0:00:11.40,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}The Story of NASA's Space Tracking Ships\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/fQFZyHWy4Vs\N原视频发布日期：20210415\N字幕翻译：Ryan，校对：旋火
 Dialogue: 0,0:00:04.40,0:00:06.06,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.40,0:00:06.06,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
 Dialogue: 0,0:00:06.39,0:00:10.80,1080P-sgbd-42,,0,0,0,,{\blur4}When I was a science obsessed child growing up, I learned all about plutonium.
@@ -271,8 +263,8 @@ Dialogue: 0,0:08:15.73,0:08:17.78,1080P-sgbd-42,,0,0,0,,{\blur4}it decays in wit
 Dialogue: 0,0:08:15.73,0:08:17.78,1080P-shss-90,,0,0,0,,{\blur4}以至于它会与一个阿尔法粒子一起衰变
 Dialogue: 0,0:08:17.80,0:08:19.29,1080P-sgbd-42,,0,0,0,,{\blur4}and you've been set back.
 Dialogue: 0,0:08:17.80,0:08:19.29,1080P-shss-90,,0,0,0,,{\blur4}而这时你已经被挫败了
-Dialogue: 0,0:08:19.75,0:08:24.44,1080P-sgbd-42,,0,0,0,,{\blur4}So there's a whole bunch of elements you can easily produce
-Dialogue: 0,0:08:19.75,0:08:24.44,1080P-shss-90,,0,0,0,,{\blur4}所以 你可以很容易地制造一大堆的元素
+Dialogue: 0,0:08:19.75,0:08:24.44,1080P-sgbd-42,,0,0,0,,{\blur4}So there's a whole bunch of elements you can't easily produce
+Dialogue: 0,0:08:19.75,0:08:24.44,1080P-shss-90,,0,0,0,,{\blur4}所以 有很多元素是难以制造的
 Dialogue: 0,0:08:24.76,0:08:31.20,1080P-sgbd-42,,0,0,0,,{\blur4}unless you have atoms getting exposed to massive fluxes of neutrons.
 Dialogue: 0,0:08:24.76,0:08:31.20,1080P-shss-90,,0,0,0,,{\blur4}除非你让原子暴露在大量的中子通量下
 Dialogue: 0,0:08:31.46,0:08:36.66,1080P-sgbd-42,,0,0,0,,{\blur4}And it's thought that the plutoniums and the actinide elements are way up in that region.
