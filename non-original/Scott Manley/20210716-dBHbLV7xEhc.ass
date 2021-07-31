@@ -20,9 +20,11 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.38,0:00:11.38,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Is Apollo 11's Lunar Module Still In Orbit Around The Moon 52 Years Later\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/dBHbLV7xEhc\N原视频发布日期：20210716\N字幕翻译：WJIJKKH，Ryan
+Dialogue: 0,0:00:19.22,0:00:26.22,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}目前处在华盛顿特区的国家航空和航天博物馆(National Air and Space Museum)
+Dialogue: 0,0:09:37.69,0:09:44.69,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}亚尔科夫斯基效应是指当小行星吸收阳光和释放热量时对小行星产生的微小的推动力，\N当然这里是指在航天器上发生的相同效应
 Dialogue: 0,0:00:04.38,0:00:05.78,1080P-sgbd-42,,0,0,0,,Hello, it's Scott Manley here.
 Dialogue: 0,0:00:04.38,0:00:05.78,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:04.38,0:00:11.38,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Is Apollo 11's Lunar Module Still In Orbit Around The Moon 52 Years Later\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/dBHbLV7xEhc\N原视频发布日期：20210716\N字幕翻译：Ryan，校对：旋火
 Dialogue: 0,0:00:05.92,0:00:10.66,1080P-sgbd-42,,0,0,0,,In 1969, Apollo 11 took Armstrong, Aldrin and Collins to the moon
 Dialogue: 0,0:00:05.92,0:00:10.66,1080P-shss-90,,0,0,0,,1969年 阿波罗11号将阿姆斯特朗 奥尔德林和柯林斯带到了月球
 Dialogue: 0,0:00:10.70,0:00:13.50,1080P-sgbd-42,,0,0,0,,for one of the most important flights in human history.
@@ -33,7 +35,6 @@ Dialogue: 0,0:00:16.83,0:00:19.18,1080P-sgbd-42,,0,0,0,,and you know, we know wh
 Dialogue: 0,0:00:16.83,0:00:19.18,1080P-shss-90,,0,0,0,,并且你知道的 我们都知道哥伦比亚号目前在哪里
 Dialogue: 0,0:00:19.22,0:00:22.22,1080P-sgbd-42,,0,0,0,,It returned to earth, and I actually saw it in a museum.
 Dialogue: 0,0:00:19.22,0:00:22.22,1080P-shss-90,,0,0,0,,它回到了地球 并且我实际上还在一个博物馆里看到过它
-Dialogue: 0,0:00:19.22,0:00:22.22,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}目前处在华盛顿特区的国家航空和航天博物馆(National Air and Space Museum)
 Dialogue: 0,0:00:22.56,0:00:26.86,1080P-sgbd-42,,0,0,0,,But Eagle, the lander that actually carried them to the surface.
 Dialogue: 0,0:00:22.56,0:00:26.86,1080P-shss-90,,0,0,0,,但是鹰号 那个真正把他们带到月面的着陆器
 Dialogue: 0,0:00:27.10,0:00:30.88,1080P-sgbd-42,,0,0,0,,We know the descent stages on the surface of the moon because that was left behind
@@ -43,11 +44,11 @@ Dialogue: 0,0:00:30.99,0:00:34.50,1080P-shss-90,,0,0,0,,但上升级进入了月
 Dialogue: 0,0:00:34.57,0:00:39.99,1080P-sgbd-42,,0,0,0,,And many people had presumed that this capsule had eventually crashed into the moon
 Dialogue: 0,0:00:34.57,0:00:39.99,1080P-shss-90,,0,0,0,,并且许多人推测 这个登月舱最终会坠向月球
 Dialogue: 0,0:00:40.07,0:00:44.23,1080P-sgbd-42,,0,0,0,,because the moon tends to do that to things left in lunar orbit.
-Dialogue: 0,0:00:40.07,0:00:44.23,1080P-shss-90,,0,0,0,,因为留在月球轨道上的东西通常倾向于以这种方式结尾
+Dialogue: 0,0:00:40.07,0:00:44.23,1080P-shss-90,,0,0,0,,因为月球(的引力)倾向于把月球轨道上的物体以这种方式处理
 Dialogue: 0,0:00:44.65,0:00:47.51,1080P-sgbd-42,,0,0,0,,The lunar gravitational field is non spherical
 Dialogue: 0,0:00:44.65,0:00:47.51,1080P-shss-90,,0,0,0,,月球的引力场是非球形的
-Dialogue: 0,0:00:47.50,0:00:52.27,1080P-sgbd-42,,0,0,0,,and if you put an object any random circular orbit lower around the moon
-Dialogue: 0,0:00:47.50,0:00:52.27,1080P-shss-90,,0,0,0,,并且如果你把一个物体放在围绕月球的任何随机的圆形低轨道上
+Dialogue: 0,0:00:47.51,0:00:52.27,1080P-sgbd-42,,0,0,0,,and if you put an object any random circular orbit lower around the moon
+Dialogue: 0,0:00:47.51,0:00:52.27,1080P-shss-90,,0,0,0,,并且如果你把一个物体放在围绕月球的任何随机的圆形低轨道上
 Dialogue: 0,0:00:52.36,0:00:54.99,1080P-sgbd-42,,0,0,0,,what happens is the orbit gets more eccentric
 Dialogue: 0,0:00:52.36,0:00:54.99,1080P-shss-90,,0,0,0,,会发生的情况是轨道会变得更加偏心
 Dialogue: 0,0:00:55.10,0:00:59.96,1080P-sgbd-42,,0,0,0,,and the perilune, the point of closest approach, tends to get lower and lower
@@ -87,7 +88,7 @@ Dialogue: 0,0:01:57.49,0:02:01.97,1080P-shss-90,,0,0,0,,而且有可能它今天
 Dialogue: 0,0:02:02.69,0:02:07.02,1080P-sgbd-42,,0,0,0,,A couple of years ago, an amateur space fan based in Silicon Valley
 Dialogue: 0,0:02:02.69,0:02:07.02,1080P-shss-90,,0,0,0,,几年前 一个位于硅谷的业余太空爱好者
 Dialogue: 0,0:02:07.40,0:02:11.94,1080P-sgbd-42,,0,0,0,,decided that he would go looking for the impact site of the Apollo 11 capsule
-Dialogue: 0,0:02:07.40,0:02:11.94,1080P-shss-90,,0,0,0,,他决定要去寻找阿波罗11号太空舱的撞击地点
+Dialogue: 0,0:02:07.40,0:02:11.94,1080P-shss-90,,0,0,0,,决定要去寻找阿波罗11号太空舱的撞击地点
 Dialogue: 0,0:02:11.95,0:02:15.28,1080P-sgbd-42,,0,0,0,,but to get an idea, but where it could land on the moon.
 Dialogue: 0,0:02:11.95,0:02:15.28,1080P-shss-90,,0,0,0,,但要有一个想法 就是它可能在月球的哪个位置着陆
 Dialogue: 0,0:02:15.50,0:02:19.66,1080P-sgbd-42,,0,0,0,,First, he had to take the orbit of the spacecraft and model its through time
@@ -97,7 +98,7 @@ Dialogue: 0,0:02:19.72,0:02:23.70,1080P-shss-90,,0,0,0,,来找出月球上它很
 Dialogue: 0,0:02:24.49,0:02:27.71,1080P-sgbd-42,,0,0,0,,And so we started out with an application called GMAT.
 Dialogue: 0,0:02:24.49,0:02:27.71,1080P-shss-90,,0,0,0,,因此 我们先从一个名为GMAT的应用程序着手
 Dialogue: 0,0:02:27.73,0:02:33.65,1080P-sgbd-42,,0,0,0,,This is a an open source application developed by NASA called the General Mission Analysis tool.
-Dialogue: 0,0:02:27.73,0:02:33.65,1080P-shss-90,,0,0,0,,这是一个由美国宇航局(NASA)开发的开源的软件 其名为一般任务分析工具
+Dialogue: 0,0:02:27.73,0:02:33.65,1080P-shss-90,,0,0,0,,这是一个由NASA开发的开源的软件 其名为一般任务分析工具
 Dialogue: 0,0:02:33.69,0:02:35.99,1080P-sgbd-42,,0,0,0,,And it lets you design missions.
 Dialogue: 0,0:02:33.69,0:02:35.99,1080P-shss-90,,0,0,0,,并且它可以让你设计任务
 Dialogue: 0,0:02:36.11,0:02:39.96,1080P-sgbd-42,,0,0,0,,It has all sorts of tools for plotting orbits and calculating orbits
@@ -245,7 +246,7 @@ Dialogue: 0,0:06:24.04,0:06:28.45,1080P-shss-90,,0,0,0,,这样你就不需要增
 Dialogue: 0,0:06:28.49,0:06:31.20,1080P-sgbd-42,,0,0,0,,and this is what the Lunar Reconnaissance Orbiter does.
 Dialogue: 0,0:06:28.49,0:06:31.20,1080P-shss-90,,0,0,0,,这就是月球勘测轨道飞行器所做的
 Dialogue: 0,0:06:31.22,0:06:36.95,1080P-sgbd-42,,0,0,0,,It tries to stay in an orbit which is never going to hit the moon even if you just let it go.
-Dialogue: 0,0:06:31.22,0:06:36.95,1080P-shss-90,,0,0,0,,它试图保持在了一个即使你让它自己运行也永远不会撞到月球的轨道上
+Dialogue: 0,0:06:31.22,0:06:36.95,1080P-shss-90,,0,0,0,,{\fs85}它试图保持在了一个即使你让它自己运行也永远不会撞到月球的轨道上
 Dialogue: 0,0:06:37.66,0:06:40.79,1080P-sgbd-42,,0,0,0,,So now to figure out where Apollo 11's ascent module is
 Dialogue: 0,0:06:37.66,0:06:40.79,1080P-shss-90,,0,0,0,,所以现在要想知道阿波罗11号的上升级在哪里
 Dialogue: 0,0:06:40.98,0:06:44.38,1080P-sgbd-42,,0,0,0,,you need to figure out the orbital elements at the time, the orbit it was in
@@ -269,7 +270,7 @@ Dialogue: 0,0:07:10.78,0:07:14.80,1080P-shss-90,,0,0,0,,空间固定的航向角
 Dialogue: 0,0:07:15.07,0:07:23.25,1080P-sgbd-42,,0,0,0,,This was -97.81, and that meant, that it was 7.81 degrees away from a perfect, retro grade orbit.
 Dialogue: 0,0:07:15.07,0:07:23.25,1080P-shss-90,,0,0,0,,这是-97.81度 而这意味着 它离完美的逆行轨道有7.81度
 Dialogue: 0,0:07:23.74,0:07:28.94,1080P-sgbd-42,,0,0,0,,However, Apollo was on a retro grade orbit that was within two degrees of perfect.
-Dialogue: 0,0:07:23.74,0:07:28.94,1080P-shss-90,,0,0,0,,然而 阿波罗号是在一个离完美轨道不到两度的逆行轨道上
+Dialogue: 0,0:07:23.74,0:07:28.94,1080P-shss-90,,0,0,0,,然而 阿波罗11号是在一个离完美轨道不到两度的逆行轨道上
 Dialogue: 0,0:07:28.98,0:07:31.28,1080P-sgbd-42,,0,0,0,,Therefore that number was impossible.
 Dialogue: 0,0:07:28.98,0:07:31.28,1080P-shss-90,,0,0,0,,因此 这个数字是不可能的
 Dialogue: 0,0:07:31.51,0:07:35.18,1080P-sgbd-42,,0,0,0,,But digging through NASA's technical report server turned up this paper.
@@ -292,9 +293,9 @@ Dialogue: 0,0:08:01.82,0:08:06.80,1080P-sgbd-42,,0,0,0,,And it gets very close t
 Dialogue: 0,0:08:01.82,0:08:06.80,1080P-shss-90,,0,0,0,,并且它变得非常接近月球表面 然后又开始往上升
 Dialogue: 0,0:08:07.39,0:08:11.02,1080P-sgbd-42,,0,0,0,,So this is a kind of oscillation that you will see, a libration
 Dialogue: 0,0:08:07.39,0:08:11.02,1080P-shss-90,,0,0,0,,所以这是一种你会看到的振荡 一种天平动
-Dialogue: 0,0:08:11.07,0:08:15.44,1080P-sgbd-42,,0,0,0,,as the moon moves through its orbit, and the perturbing forces of the earth.
+Dialogue: 0,0:08:11.07,0:08:15.44,1080P-sgbd-42,,0,0,0,,as the moon moves through its orbit, and the perturbing forces of the earth
 Dialogue: 0,0:08:11.07,0:08:15.44,1080P-shss-90,,0,0,0,,就是随着月球在其轨道上的移动 地球的扰动力
-Dialogue: 0,0:08:15.63,0:08:18.16,1080P-sgbd-42,,0,0,0,,And the sun change positions over time.
+Dialogue: 0,0:08:15.63,0:08:18.16,1080P-sgbd-42,,0,0,0,,and the sun change positions over time.
 Dialogue: 0,0:08:15.63,0:08:18.16,1080P-shss-90,,0,0,0,,和太阳的位置随着时间的推移而改变
 Dialogue: 0,0:08:18.68,0:08:22.26,1080P-sgbd-42,,0,0,0,,So the next thing was let the simulation run longer.
 Dialogue: 0,0:08:18.68,0:08:22.26,1080P-shss-90,,0,0,0,,因此 下一件事是让模拟运行更长的时间
@@ -342,7 +343,6 @@ Dialogue: 0,0:09:32.30,0:09:33.92,1080P-sgbd-42,,0,0,0,,There was propellent in 
 Dialogue: 0,0:09:32.30,0:09:33.92,1080P-shss-90,,0,0,0,,那些燃料箱里有推进剂
 Dialogue: 0,0:09:33.95,0:09:37.69,1080P-sgbd-42,,0,0,0,,There might be some gas leak that has changed its orbit.
 Dialogue: 0,0:09:33.95,0:09:37.69,1080P-shss-90,,0,0,0,,也可能有一些气体泄漏 改变了它的轨道
-Dialogue: 0,0:09:37.69,0:09:41.45,1080P-sgsm-50,,0,0,0,,亚尔科夫斯基效应是指当小行星吸收阳光和释放热量时对小行星产生的微小的推动力
 Dialogue: 0,0:09:37.74,0:09:41.45,1080P-sgbd-42,,0,0,0,,It might be spinning in the Yarkovsky effect might actually be important
 Dialogue: 0,0:09:37.74,0:09:41.45,1080P-shss-90,,0,0,0,,它可能会由于亚尔科夫斯基效应产生旋转 这点可能真的很重要
 Dialogue: 0,0:09:41.54,0:09:44.06,1080P-sgbd-42,,0,0,0,,but there's a good chance that is there
