@@ -22,6 +22,16 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.16,0:00:11.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Why Keyholes Make It So Difficult To Predict Asteroid Impacts\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/oqPS5m9ShNo\N原视频发布日期：20210524\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:03:30.03,0:03:36.60,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,800)}阿波菲斯的副本，副本之间轨道差为10km
+Dialogue: 0,0:03:36.60,0:03:43.17,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,800)}在接近之后，它们(的位置)开始展开
+Dialogue: 0,0:03:43.17,0:03:49.75,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,800)}在一年之后，它们离得很远
+Dialogue: 0,0:03:59.69,0:04:06.26,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,800)}地球的重力放大了差异
+Dialogue: 0,0:05:36.03,0:05:43.03,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}33号小行星(司瑟星)是第33颗被人类发现的小行星 于1854年10月28日发现\N434号小行星(匈牙利)是在主带内侧 相对来说是颗较小的小行星 于1898年9月11日发现
+Dialogue: 0,0:08:21.52,0:08:28.52,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}戈德斯通观测站(Goldstone Observatory) 是位于美国南加州莫哈韦沙漠的卫星地面站\N是深空网络的三个地面终端设施之一 由喷气动力实验室(JPL)运营
+Dialogue: 0,0:08:39.91,0:08:46.91,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}盖亚任务(Gaia)是欧洲空间局的空间望远镜\N依巴谷卫星(Hipparcos)是欧洲空间局发射的一颗天体测量卫星
+Dialogue: 0,0:09:36.19,0:10:08.56,1080P-sgsm-50,,0,0,0,,{\an2\pos(1420,870)}轨道交点
+Dialogue: 0,0:13:37.26,0:13:44.26,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}小行星双星重定向测试(Double Asteroid Redirection Test) 该航天器预计于2021年11月发射
 Dialogue: 0,0:00:04.16,0:00:05.83,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.16,0:00:05.83,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.83,0:00:09.62,1080P-sgbd-42,,0,0,0,,A couple of months ago asteroid Apophis passed close to the earth
@@ -61,7 +71,7 @@ Dialogue: 0,0:01:09.43,0:01:11.68,1080P-shss-90,,0,0,0,,这意味着当阿波菲
 Dialogue: 0,0:01:11.86,0:01:15.53,1080P-sgbd-42,,0,0,0,,it would have to fly through a very narrow corridor of space
 Dialogue: 0,0:01:11.86,0:01:15.53,1080P-shss-90,,0,0,0,,它将不得不飞过一个非常狭窄的太空走廊
 Dialogue: 0,0:01:15.58,0:01:18.31,1080P-sgbd-42,,0,0,0,,to get exactly the right kick from the earth's gravity
-Dialogue: 0,0:01:15.58,0:01:18.31,1080P-shss-90,,0,0,0,,以获得来自地球引力正确的一踢
+Dialogue: 0,0:01:15.58,0:01:18.31,1080P-shss-90,,0,0,0,,以获得来自地球引力恰当的一踢
 Dialogue: 0,0:01:18.72,0:01:23.08,1080P-sgbd-42,,0,0,0,,so that this future orbit would ultimately carry it to an impact with the earth.
 Dialogue: 0,0:01:18.72,0:01:23.08,1080P-shss-90,,0,0,0,,这样 这个未来的轨道将最终带着它与地球撞击
 Dialogue: 0,0:01:23.98,0:01:26.98,1080P-sgbd-42,,0,0,0,,In astrodynamics we call this a keyhole
@@ -69,7 +79,7 @@ Dialogue: 0,0:01:23.98,0:01:26.98,1080P-shss-90,,0,0,0,,在天体动力学中 �
 Dialogue: 0,0:01:27.28,0:01:30.49,1080P-sgbd-42,,0,0,0,,and depending upon how far into the future the prediction is
 Dialogue: 0,0:01:27.28,0:01:30.49,1080P-shss-90,,0,0,0,,并且取决于预测的未来有多远
 Dialogue: 0,0:01:30.56,0:01:36.57,1080P-sgbd-42,,0,0,0,,a keyhole that leads to a future collision with the earth might only be a couple of hundred meters wide
-Dialogue: 0,0:01:30.56,0:01:36.57,1080P-shss-90,,0,0,0,,导致未来与地球碰撞的锁孔可能只有几百米宽
+Dialogue: 0,0:01:30.56,0:01:36.57,1080P-shss-90,,0,0,0,,一个导致未来与地球碰撞的锁孔可能只有几百米宽
 Dialogue: 0,0:01:37.52,0:01:40.86,1080P-sgbd-42,,0,0,0,,and this makes it exceptionally difficult to say for certain
 Dialogue: 0,0:01:37.52,0:01:40.86,1080P-shss-90,,0,0,0,,而这使得我们特别难以确定
 Dialogue: 0,0:01:41.14,0:01:45.66,1080P-sgbd-42,,0,0,0,,whether some of the near-earth asteroids out there could hit the earth in the future.
@@ -101,13 +111,13 @@ Dialogue: 0,0:02:34.23,0:02:39.28,1080P-shss-90,,0,0,0,,而在2029年 它将接�
 Dialogue: 0,0:02:39.31,0:02:42.28,1080P-sgbd-42,,0,0,0,,or about 31 000 kilometers from the surface.
 Dialogue: 0,0:02:39.31,0:02:42.28,1080P-shss-90,,0,0,0,,或者说距地表约31000公里
 Dialogue: 0,0:02:42.32,0:02:47.85,1080P-sgbd-42,,0,0,0,,That encounter is equivalent to a 26 degree turn in the asteroid orbit
-Dialogue: 0,0:02:42.32,0:02:47.85,1080P-shss-90,,0,0,0,,这次交汇相当于在小行星轨道上偏转了26度
+Dialogue: 0,0:02:42.32,0:02:47.85,1080P-shss-90,,0,0,0,,这次交会相当于在小行星轨道上偏转了26度
 Dialogue: 0,0:02:48.40,0:02:52.80,1080P-sgbd-42,,0,0,0,,and that changes the velocity by about 2.7 kilometers per second.
 Dialogue: 0,0:02:48.40,0:02:52.80,1080P-shss-90,,0,0,0,,而这将使速度改变约2.7公里每秒
 Dialogue: 0,0:02:53.00,0:02:57.05,1080P-sgbd-42,,0,0,0,,This is exactly like a space probe performing a gravity assist
-Dialogue: 0,0:02:53.00,0:02:57.05,1080P-shss-90,,0,0,0,,这完全就像一个太空探测器在进行引力辅助
+Dialogue: 0,0:02:53.00,0:02:57.05,1080P-shss-90,,0,0,0,,这完全就像一个太空探测器在进行重力助推
 Dialogue: 0,0:02:57.28,0:03:00.01,1080P-sgbd-42,,0,0,0,,where a carefully planned encounter with a planet
-Dialogue: 0,0:02:57.28,0:03:00.01,1080P-shss-90,,0,0,0,,这种引力辅助会精心策划的探测器与行星的交会
+Dialogue: 0,0:02:57.28,0:03:00.01,1080P-shss-90,,0,0,0,,这种重力助推一般是经过精心策划的探测器与行星的交会
 Dialogue: 0,0:03:00.15,0:03:03.44,1080P-sgbd-42,,0,0,0,,can be used to accelerate a space probe onto a new trajectory
 Dialogue: 0,0:03:00.15,0:03:03.44,1080P-shss-90,,0,0,0,,其可以用来加速太空探测器进入一个新的轨道
 Dialogue: 0,0:03:03.44,0:03:06.08,1080P-sgbd-42,,0,0,0,,and that can be used either to leave the solar system
@@ -129,7 +139,7 @@ Dialogue: 0,0:03:30.20,0:03:33.05,1080P-shss-90,,0,0,0,,所以现在想象一下
 Dialogue: 0,0:03:33.06,0:03:36.64,1080P-sgbd-42,,0,0,0,,but instead of 38 000 kilometers, we move it one kilometer closer
 Dialogue: 0,0:03:33.06,0:03:36.64,1080P-shss-90,,0,0,0,,但不是38000公里 而是把它移近1公里
 Dialogue: 0,0:03:36.68,0:03:38.92,1080P-sgbd-42,,0,0,0,,just to see what a difference one kilometer makes.
-Dialogue: 0,0:03:36.68,0:03:38.92,1080P-shss-90,,0,0,0,,只是想看看1公里会造成什么不同
+Dialogue: 0,0:03:36.68,0:03:38.92,1080P-shss-90,,0,0,0,,只是想看看1公里会造成多少不同
 Dialogue: 0,0:03:39.42,0:03:44.77,1080P-sgbd-42,,0,0,0,,Well in that case the gravity of the earth changes the orbit by an extra five centimeters per second
 Dialogue: 0,0:03:39.42,0:03:44.77,1080P-shss-90,,0,0,0,,那么在这种情况下 地球的引力使其轨道产生每秒多出五厘米的变化
 Dialogue: 0,0:03:44.77,0:03:46.72,1080P-sgbd-42,,0,0,0,,for being one kilometer closer
@@ -188,8 +198,6 @@ Dialogue: 0,0:05:32.71,0:05:35.87,1080P-sgbd-42,,0,0,0,,like a main belt asteroi
 Dialogue: 0,0:05:32.71,0:05:35.87,1080P-shss-90,,0,0,0,,像是小行星带中间位于主带的小行星
 Dialogue: 0,0:05:36.03,0:05:39.42,1080P-sgbd-42,,0,0,0,,Something dull like say asteroid 33 434.
 Dialogue: 0,0:05:36.03,0:05:39.42,1080P-shss-90,,0,0,0,,像33号 434号小行星这样枯燥的东西
-Dialogue: 0,0:05:36.03,0:05:39.42,1080P-sgsm-50,,0,0,0,,33号小行星(司瑟星)是第33颗被人类发现的小行星 于1854年10月28日发现
-Dialogue: 0,0:05:36.03,0:05:39.42,1080P-sgsm-50,,0,0,0,,434号小行星(匈牙利)是在主带内侧 相对来说是颗较小的小行星 于1898年9月11日发现
 Dialogue: 0,0:05:40.80,0:05:43.12,1080P-sgbd-42,,0,0,0,,So when we look at objects in deep space
 Dialogue: 0,0:05:40.80,0:05:43.12,1080P-shss-90,,0,0,0,,因此 当我们在观察深空的物体时
 Dialogue: 0,0:05:43.12,0:05:47.68,1080P-sgbd-42,,0,0,0,,we can use orbital mechanics to very accurately predict future motion.
@@ -201,13 +209,13 @@ Dialogue: 0,0:05:53.18,0:05:58.59,1080P-shss-90,,0,0,0,,并且对于第一近似
 Dialogue: 0,0:05:59.10,0:06:03.50,1080P-sgbd-42,,0,0,0,,but then there are perturbations due to things like gravity of the other planets
 Dialogue: 0,0:05:59.10,0:06:03.50,1080P-shss-90,,0,0,0,,但是 由于其他行星的引力等原因 会形成一些扰动
 Dialogue: 0,0:06:03.84,0:06:05.64,1080P-sgbd-42,,0,0,0,,radiation pressure from the sun
-Dialogue: 0,0:06:03.84,0:06:05.64,1080P-shss-90,,0,0,0,,例如来自太阳的辐射压
+Dialogue: 0,0:06:03.84,0:06:05.64,1080P-shss-90,,0,0,0,,这包括来自太阳的辐射压
 Dialogue: 0,0:06:06.00,0:06:10.63,1080P-sgbd-42,,0,0,0,,re-radiation from the surface of the asteroid
 Dialogue: 0,0:06:06.00,0:06:10.63,1080P-shss-90,,0,0,0,,来自小行星表面的再辐射
 Dialogue: 0,0:06:10.63,0:06:12.40,1080P-sgbd-42,,0,0,0,,and sometimes you get outgassing
 Dialogue: 0,0:06:10.63,0:06:12.40,1080P-shss-90,,0,0,0,,并且有时你会有放气现象
 Dialogue: 0,0:06:12.72,0:06:16.74,1080P-sgbd-42,,0,0,0,,which can push the asteroid around as volatile materials vaporize
-Dialogue: 0,0:06:12.72,0:06:16.74,1080P-shss-90,,0,0,0,,这可能随着挥发性物质的汽化推动小行星
+Dialogue: 0,0:06:12.72,0:06:16.74,1080P-shss-90,,0,0,0,,也就是小行星上的挥发性物质的汽化 从而推动小行星
 Dialogue: 0,0:06:17.74,0:06:20.62,1080P-sgbd-42,,0,0,0,,so all of these perturbations can change the orbit over time
 Dialogue: 0,0:06:17.74,0:06:20.62,1080P-shss-90,,0,0,0,,所以所有这些扰动都会随着时间改变轨道
 Dialogue: 0,0:06:20.63,0:06:24.08,1080P-sgbd-42,,0,0,0,,but most of them can actually be modeled and accounted for
@@ -237,7 +245,7 @@ Dialogue: 0,0:07:03.36,0:07:08.50,1080P-shss-90,,0,0,0,,就有可能尝试根据
 Dialogue: 0,0:07:09.09,0:07:12.40,1080P-sgbd-42,,0,0,0,,but the precision of this is going to be limited by lots of things.
 Dialogue: 0,0:07:09.09,0:07:12.40,1080P-shss-90,,0,0,0,,但这一方法的精确性将受到许多因素的限制
 Dialogue: 0,0:07:12.40,0:07:16.94,1080P-sgbd-42,,0,0,0,,First of all we don't have any direct measurements of the distance using a telescope.
-Dialogue: 0,0:07:12.40,0:07:16.94,1080P-shss-90,,0,0,0,,首先 我们无法用望远镜直接测量的距离
+Dialogue: 0,0:07:12.40,0:07:16.94,1080P-shss-90,,0,0,0,,首先 我们无法直接用望远镜测量距离
 Dialogue: 0,0:07:17.44,0:07:22.42,1080P-sgbd-42,,0,0,0,,That you have to infer by finding an orbit that matches the motion in two dimensions
 Dialogue: 0,0:07:17.44,0:07:22.42,1080P-shss-90,,0,0,0,,你必须通过找到一个在二维上与其运动相匹配的轨道
 Dialogue: 0,0:07:22.44,0:07:25.87,1080P-sgbd-42,,0,0,0,,and then using that to infer where it must have been in the third dimension.
@@ -245,7 +253,7 @@ Dialogue: 0,0:07:22.44,0:07:25.87,1080P-shss-90,,0,0,0,,然后用它来推断它
 Dialogue: 0,0:07:26.72,0:07:30.16,1080P-sgbd-42,,0,0,0,,The imaging system isn't going to have perfect positional data
 Dialogue: 0,0:07:26.72,0:07:30.16,1080P-shss-90,,0,0,0,,成像系统也不会得到完美的位置数据
 Dialogue: 0,0:07:30.16,0:07:34.80,1080P-sgbd-42,,0,0,0,,either because there are limitations in the optics or limitations in the sensors
-Dialogue: 0,0:07:30.16,0:07:34.80,1080P-shss-90,,0,0,0,,因为有光学的限制或传感器的限制
+Dialogue: 0,0:07:30.16,0:07:34.80,1080P-shss-90,,0,0,0,,因为有光学或传感器的限制
 Dialogue: 0,0:07:34.80,0:07:37.99,1080P-sgbd-42,,0,0,0,,or atmospheric turbulence causing everything to get blurry.
 Dialogue: 0,0:07:34.80,0:07:37.99,1080P-shss-90,,0,0,0,,或大气湍流导致一切都变得模糊不清
 Dialogue: 0,0:07:38.48,0:07:41.24,1080P-sgbd-42,,0,0,0,,If you have an image of an asteroid
@@ -274,8 +282,6 @@ Dialogue: 0,0:08:18.97,0:08:21.18,1080P-sgbd-42,,0,0,0,,when the Arecibo telesco
 Dialogue: 0,0:08:18.97,0:08:21.18,1080P-shss-90,,0,0,0,,由于阿雷西博望远镜的倒塌
 Dialogue: 0,0:08:21.52,0:08:24.57,1080P-sgbd-42,,0,0,0,,and the next best installation I believe is Goldstone
 Dialogue: 0,0:08:21.52,0:08:24.57,1080P-shss-90,,0,0,0,,而仅次于它最好的设施 我相信是戈德斯通观测站
-Dialogue: 0,0:08:21.52,0:08:24.57,1080P-sgsm-50,,0,0,0,,戈德斯通观测站(Goldstone Observatory) 是位于美国南加州莫哈韦沙漠的卫星地面站
-Dialogue: 0,0:08:21.52,0:08:24.57,1080P-sgsm-50,,0,0,0,,是深空网络的三个地面终端设施之一 由喷气动力实验室(JPL)运营
 Dialogue: 0,0:08:24.61,0:08:26.46,1080P-sgbd-42,,0,0,0,,and that only has half the range.
 Dialogue: 0,0:08:24.61,0:08:26.46,1080P-shss-90,,0,0,0,,而那只有阿雷西博望远镜一半的范围
 Dialogue: 0,0:08:27.36,0:08:32.78,1080P-sgbd-42,,0,0,0,,In the case of Apophis, observers also were able to look for stellar occultations
@@ -286,8 +292,6 @@ Dialogue: 0,0:08:36.77,0:08:39.91,1080P-sgbd-42,,0,0,0,,and for the stars you ha
 Dialogue: 0,0:08:36.77,0:08:39.91,1080P-shss-90,,0,0,0,,而对于恒星 你有它更好的位置信息
 Dialogue: 0,0:08:39.91,0:08:44.72,1080P-sgbd-42,,0,0,0,,because we've had missions like Gaia and Hipparcos that are measuring this
 Dialogue: 0,0:08:39.91,0:08:44.72,1080P-shss-90,,0,0,0,,因为我们已经有了像盖亚号和依巴谷号这样的任务 正在测量这些信息
-Dialogue: 0,0:08:39.91,0:08:44.72,1080P-sgsm-50,,0,0,0,,盖亚任务(Gaia)是欧洲空间局的空间望远镜
-Dialogue: 0,0:08:39.91,0:08:44.72,1080P-sgsm-50,,0,0,0,,依巴谷卫星(Hipparcos)是欧洲空间局发射的一颗天体测量卫星
 Dialogue: 0,0:08:44.72,0:08:48.56,1080P-sgbd-42,,0,0,0,,so by timing when these stars get eclipses
 Dialogue: 0,0:08:44.72,0:08:48.56,1080P-shss-90,,0,0,0,,所以通过计算这些恒星被遮挡的时间
 Dialogue: 0,0:08:48.56,0:08:52.25,1080P-sgbd-42,,0,0,0,,you can get very accurate positional measurements for an asteroid
@@ -295,7 +299,7 @@ Dialogue: 0,0:08:48.56,0:08:52.25,1080P-shss-90,,0,0,0,,你可以得到小行星
 Dialogue: 0,0:08:53.12,0:08:55.33,1080P-sgbd-42,,0,0,0,,The point that i'm getting at here is that
 Dialogue: 0,0:08:53.12,0:08:55.33,1080P-shss-90,,0,0,0,,我在这里想说的是
 Dialogue: 0,0:08:55.51,0:08:59.69,1080P-sgbd-42,,0,0,0,,while we know the equations of motion and we still have imperfect data
-Dialogue: 0,0:08:55.51,0:08:59.69,1080P-shss-90,,0,0,0,,尽管我们知道运动方程 我们仍有不完美的数据
+Dialogue: 0,0:08:55.51,0:08:59.69,1080P-shss-90,,0,0,0,,尽管我们知道运动方程 但数据仍然不完美
 Dialogue: 0,0:08:59.74,0:09:03.39,1080P-sgbd-42,,0,0,0,,and that means that we can't exactly pin down an object's current location.
 Dialogue: 0,0:08:59.74,0:09:03.39,1080P-shss-90,,0,0,0,,而这意味着我们不能准确地确定一个物体的当前位置
 Dialogue: 0,0:09:04.02,0:09:08.89,1080P-sgbd-42,,0,0,0,,And any predictions based on this will diverge even further over time
@@ -303,7 +307,7 @@ Dialogue: 0,0:09:04.02,0:09:08.89,1080P-shss-90,,0,0,0,,而任何基于此的预
 Dialogue: 0,0:09:09.28,0:09:13.89,1080P-sgbd-42,,0,0,0,,and this is fine for most objects that don't come anywhere near the earth or any other planet
 Dialogue: 0,0:09:09.28,0:09:13.89,1080P-shss-90,,0,0,0,,这对于大多数不靠近地球或任何其他星球的物体来说是没有影响的
 Dialogue: 0,0:09:14.15,0:09:18.34,1080P-sgbd-42,,0,0,0,,but for those that do the demand on the precision are so much greater
-Dialogue: 0,0:09:14.15,0:09:18.34,1080P-shss-90,,0,0,0,,但是对于那些接近星球的物体来说 其所要求的精度都要高得多
+Dialogue: 0,0:09:14.15,0:09:18.34,1080P-shss-90,,0,0,0,,但是对于那些接近地球的物体来说 其所要求的精度都要高得多
 Dialogue: 0,0:09:18.68,0:09:23.66,1080P-sgbd-42,,0,0,0,,because encounters with the earth are so important and have such a big effect on the future orbit
 Dialogue: 0,0:09:18.68,0:09:23.66,1080P-shss-90,,0,0,0,,因为与地球的交会十分重要 并且会对其未来的轨道有很大的影响
 Dialogue: 0,0:09:24.08,0:09:26.73,1080P-sgbd-42,,0,0,0,,and if an object has a chance to hit the earth
@@ -351,7 +355,7 @@ Dialogue: 0,0:10:41.83,0:10:43.17,1080P-shss-90,,0,0,0,,这些近距离的交会
 Dialogue: 0,0:10:43.17,0:10:47.53,1080P-sgbd-42,,0,0,0,,can't change the orbit by a way that stops them having a chance of coming back to the earth
 Dialogue: 0,0:10:43.17,0:10:47.53,1080P-shss-90,,0,0,0,,并不能以一种阻止它们有机会返回地球的方式影响其轨道
 Dialogue: 0,0:10:47.54,0:10:49.83,1080P-sgbd-42,,0,0,0,,that would require them encountering some other planet
-Dialogue: 0,0:10:47.54,0:10:49.83,1080P-shss-90,,0,0,0,,那会需要它们其他星球交会
+Dialogue: 0,0:10:47.54,0:10:49.83,1080P-shss-90,,0,0,0,,那会需要它们与其他星球交会
 Dialogue: 0,0:10:50.07,0:10:54.56,1080P-sgbd-42,,0,0,0,,but it does mean that each close encounter has a chance of knocking it onto a trajectory
 Dialogue: 0,0:10:50.07,0:10:54.56,1080P-shss-90,,0,0,0,,但这确实意味着 每次近距离交会都有机会将其打入一个轨道
 Dialogue: 0,0:10:54.56,0:10:56.28,1080P-sgbd-42,,0,0,0,,where it could hit the earth in the future.
@@ -419,7 +423,7 @@ Dialogue: 0,0:12:56.32,0:12:57.44,1080P-shss-90,,0,0,0,,不是非常多
 Dialogue: 0,0:12:57.63,0:13:01.38,1080P-sgbd-42,,0,0,0,,but that change will be amplified by the close encounter
 Dialogue: 0,0:12:57.63,0:13:01.38,1080P-shss-90,,0,0,0,,但这一变化将被贝努即将发生的近距离交会所放大
 Dialogue: 0,0:13:01.39,0:13:03.70,1080P-sgbd-42,,0,0,0,,that Bennu is going to have with the earth in 2060.
-Dialogue: 0,0:13:01.39,0:13:03.70,1080P-shss-90,,0,0,0,,贝努将在2060年与地球近距离交会
+Dialogue: 0,0:13:01.39,0:13:03.70,1080P-shss-90,,0,0,0,,也就是其将在2060年与地球发生的近距离交会
 Dialogue: 0,0:13:03.71,0:13:08.07,1080P-sgbd-42,,0,0,0,,And that might make the difference by hundreds of meters per year after that.
 Dialogue: 0,0:13:03.71,0:13:08.07,1080P-shss-90,,0,0,0,,而这可能会使之后的差异每年增加数百米
 Dialogue: 0,0:13:08.70,0:13:12.28,1080P-sgbd-42,,0,0,0,,And that was us trying to be sort of gentle as possible on
@@ -436,9 +440,8 @@ Dialogue: 0,0:13:28.48,0:13:32.09,1080P-sgbd-42,,0,0,0,,We have the technology t
 Dialogue: 0,0:13:28.48,0:13:32.09,1080P-shss-90,,0,0,0,,我们有技术来改变小行星的轨道
 Dialogue: 0,0:13:32.34,0:13:37.26,1080P-sgbd-42,,0,0,0,,and hopefully we'll see an even more definitive demonstration in the coming years
 Dialogue: 0,0:13:32.34,0:13:37.26,1080P-shss-90,,0,0,0,,并且希望我们能在未来几年里能看到一个更可靠的演示
-Dialogue: 0,0:13:37.26,0:13:42.04,1080P-sgsm-50,,0,0,0,,小行星双星重定向测试(Double Asteroid Redirection Test) 该航天器预计于2021年11月发射
+Dialogue: 0,0:13:37.28,0:13:42.04,1080P-sgbd-42,,0,0,0,,when the Double Asteroid Redirect Test or DART launches from Vandenberg
 Dialogue: 0,0:13:37.28,0:13:42.02,1080P-shss-90,,0,0,0,,当小行星双星重定向测试或飞镖任务从范登堡发射时
-Dialogue: 0,0:13:37.30,0:13:42.04,1080P-sgbd-42,,0,0,0,,when the Double Asteroid Redirect Test or DART launches from Vandenberg
 Dialogue: 0,0:13:42.04,0:13:46.83,1080P-sgbd-42,,0,0,0,,carrying a spacecraft with the mission of making a change to an asteroid orbit.
 Dialogue: 0,0:13:42.04,0:13:46.83,1080P-shss-90,,0,0,0,,将携带一个航天器 其任务是改变一个小行星的轨道
 Dialogue: 0,0:13:46.98,0:13:49.75,1080P-sgbd-42,,0,0,0,,One that can be measured by observers on the ground.
