@@ -22,6 +22,8 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.31,0:00:11.31,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}How Do Starlink Satellites Navigate To Their Final Operational Orbits\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/VIQr1UyhwWk\N原视频发布日期：20210803\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:02:05.46,0:02:12.46,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)\fs40}胖地球理论指的是，由于地球赤道隆起(地球质量不均匀)造成的引力变动，卫星轨道会随时间流逝而进动\NScott Manley于2018年6月6日视频中创造的词，玩梗地平说(Flat Earth Theory)，出处youtu.be/UCMSDvp-n74
 Dialogue: 0,0:00:04.31,0:00:05.92,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.31,0:00:05.92,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.92,0:00:09.51,1080P-sgbd-42,,0,0,0,,Over the last two years we've seen about 30 Starlink launches
@@ -86,8 +88,6 @@ Dialogue: 0,0:01:56.84,0:02:00.32,1080P-sgbd-42,,0,0,0,,You'll notice that we're
 Dialogue: 0,0:01:56.84,0:02:00.32,1080P-shss-90,,0,0,0,,你会注意到 我们一秒钟就代表好几天
 Dialogue: 0,0:02:00.46,0:02:05.46,1080P-sgbd-42,,0,0,0,,Well these orbits are being pulled around by earth's equatorial bulge right.
 Dialogue: 0,0:02:00.46,0:02:05.46,1080P-shss-90,,0,0,0,,这些轨道被地球的赤道隆起所拉动 对吗
-Dialogue: 0,0:02:05.45,0:02:07.60,1080P-sgsm-50,,0,0,0,, Scott Manley于2018年6月6日视频中创造的词，玩梗地平说(Flat Earth Theory)
-Dialogue: 0,0:02:05.46,0:02:07.60,1080P-sgsm-50,,0,0,0,,胖地球理论指的是，由于地球赤道隆起(地球质量不均匀)造成的引力变动，卫星轨道会随时间流逝而进动
 Dialogue: 0,0:02:05.49,0:02:07.61,1080P-sgbd-42,,0,0,0,,Again this is Fat Earth Theory.
 Dialogue: 0,0:02:05.49,0:02:07.61,1080P-shss-90,,0,0,0,,这又是胖地球理论
 Dialogue: 0,0:02:07.84,0:02:10.06,1080P-sgbd-42,,0,0,0,,At Starlink's operational altitude
@@ -107,7 +107,7 @@ Dialogue: 0,0:02:34.40,0:02:39.80,1080P-shss-90,,0,0,0,,可以让你更好地了
 Dialogue: 0,0:02:40.23,0:02:43.03,1080P-sgbd-42,,0,0,0,,What we've got now is we've changed the coordinates up.
 Dialogue: 0,0:02:40.23,0:02:43.03,1080P-shss-90,,0,0,0,, 我们现在有的是 我们已经改变了坐标
 Dialogue: 0,0:02:43.06,0:02:47.30,1080P-sgbd-42,,0,0,0,,Along the bottom you have the angle relative to like a start point
-Dialogue: 0,0:02:43.06,0:02:47.30,1080P-shss-90,,0,0,0,,沿着底部 你有一个相对于起始点的角度
+Dialogue: 0,0:02:43.06,0:02:47.30,1080P-shss-90,,0,0,0,,沿着底部 你有一个相对于起始点的角度(升交点经度)
 Dialogue: 0,0:02:47.51,0:02:51.28,1080P-sgbd-42,,0,0,0,,where the orbit plane crosses the equator.
 Dialogue: 0,0:02:47.51,0:02:51.28,1080P-shss-90,,0,0,0,,起始点也就是轨道平面穿过赤道的地方
 Dialogue: 0,0:02:51.62,0:02:54.44,1080P-sgbd-42,,0,0,0,,And the second one the vertical axis
@@ -115,19 +115,19 @@ Dialogue: 0,0:02:51.62,0:02:54.44,1080P-shss-90,,0,0,0,,而第二个是纵轴
 Dialogue: 0,0:02:54.73,0:02:59.34,1080P-sgbd-42,,0,0,0,,is how far along that the satellite is at a specific time.
 Dialogue: 0,0:02:54.73,0:02:59.34,1080P-shss-90,,0,0,0,,是卫星在一定时间内所运行的距离
 Dialogue: 0,0:02:59.38,0:03:05.42,1080P-sgbd-42,,0,0,0,,So you see these nice vertical lines with  about 20 satellites in each of these planes
-Dialogue: 0,0:02:59.38,0:03:05.42,1080P-shss-90,,0,0,0,,所以你可以看到这些漂亮的垂直线 每条直线上有大约20颗卫星
+Dialogue: 0,0:02:59.38,0:03:05.42,1080P-shss-90,,0,0,0,,所以你可以看到这些漂亮的垂直线 每条垂直线上有大约20颗卫星
 Dialogue: 0,0:03:05.43,0:03:08.49,1080P-sgbd-42,,0,0,0,,and then there's a few which are missing right now.
-Dialogue: 0,0:03:05.43,0:03:08.49,1080P-shss-90,,0,0,0,,然后现在还有一些卫星没有出现在表中
+Dialogue: 0,0:03:05.43,0:03:08.49,1080P-shss-90,,0,0,0,,然后现在还有一些卫星没有出现在图中
 Dialogue: 0,0:03:08.95,0:03:13.08,1080P-sgbd-42,,0,0,0,,So generally the Starlink launches have carried about 60 satellites.
 Dialogue: 0,0:03:08.95,0:03:13.08,1080P-shss-90,,0,0,0,,因此一般来说 星链的每次发射会携带大约60颗卫星
 Dialogue: 0,0:03:13.10,0:03:15.54,1080P-sgbd-42,,0,0,0,,Some have carried fewer because they have Rideshare
 Dialogue: 0,0:03:13.10,0:03:15.54,1080P-shss-90,,0,0,0,,有些发射中携带的星链卫星数量会较少 因为有别的卫星搭顺车
 Dialogue: 0,0:03:15.94,0:03:20.10,1080P-sgbd-42,,0,0,0,,but the way they're deployed is in one big batch.
-Dialogue: 0,0:03:15.94,0:03:20.10,1080P-shss-90,,0,0,0,,但它们的部署方式是一次部署大批
+Dialogue: 0,0:03:15.94,0:03:20.10,1080P-shss-90,,0,0,0,,但它们的部署方式是一次大批量部署
 Dialogue: 0,0:03:20.14,0:03:24.18,1080P-sgbd-42,,0,0,0,,In fact the whole spacecraft just rotates around horizontally
 Dialogue: 0,0:03:20.14,0:03:24.18,1080P-shss-90,,0,0,0,,事实上 整个航天器只是在水平方向上旋转
 Dialogue: 0,0:03:24.48,0:03:27.44,1080P-sgbd-42,,0,0,0,,and at one point they just let the clamps go
-Dialogue: 0,0:03:24.48,0:03:27.44,1080P-shss-90,,0,0,0,,而在一个点上 他们只是让夹子释放
+Dialogue: 0,0:03:24.48,0:03:27.44,1080P-shss-90,,0,0,0,,而在某个时刻 他们只是让夹子释放
 Dialogue: 0,0:03:27.49,0:03:34.00,1080P-sgbd-42,,0,0,0,,and these things fly off like sort of scattering a pack of cards around the room.
 Dialogue: 0,0:03:27.49,0:03:34.00,1080P-shss-90,,0,0,0,,然后这些东西就飞走了 就像在房间里散开一包纸牌一样
 Dialogue: 0,0:03:34.12,0:03:35.34,1080P-sgbd-42,,0,0,0,,They're not coordinated.
@@ -139,11 +139,11 @@ Dialogue: 0,0:03:40.06,0:03:42.48,1080P-shss-90,,0,0,0,,这些卫星相互碰撞
 Dialogue: 0,0:03:42.66,0:03:44.46,1080P-sgbd-42,,0,0,0,,They come out with random speeds
 Dialogue: 0,0:03:42.66,0:03:44.46,1080P-shss-90,,0,0,0,,它们以随机的速度被部署
 Dialogue: 0,0:03:44.50,0:03:49.66,1080P-sgbd-42,,0,0,0,,and then from there they have the job of getting to their final orbit.
-Dialogue: 0,0:03:44.50,0:03:49.66,1080P-shss-90,,0,0,0,,然后从那里 它们的工作是要到达其最终轨道
+Dialogue: 0,0:03:44.50,0:03:49.66,1080P-shss-90,,0,0,0,,然后从那里开始 它们的工作就是要到达其最终轨道
 Dialogue: 0,0:03:50.09,0:03:54.86,1080P-sgbd-42,,0,0,0,,So yeah the satellites themselves are about 260 kilograms in mass.
 Dialogue: 0,0:03:50.09,0:03:54.86,1080P-shss-90,,0,0,0,,所以 是的 星链卫星本身的质量约为260公斤
 Dialogue: 0,0:03:54.91,0:03:56.64,1080P-sgbd-42,,0,0,0,,They're flat packed.
-Dialogue: 0,0:03:54.91,0:03:56.64,1080P-shss-90,,0,0,0,,它们是扁平收纳的
+Dialogue: 0,0:03:54.91,0:03:56.64,1080P-shss-90,,0,0,0,,它们是以扁平的形状打包的
 Dialogue: 0,0:03:56.82,0:03:58.33,1080P-sgbd-42,,0,0,0,,They have solar panels.
 Dialogue: 0,0:03:56.82,0:03:58.33,1080P-shss-90,,0,0,0,,它们有太阳能电池板
 Dialogue: 0,0:03:58.37,0:03:59.64,1080P-sgbd-42,,0,0,0,,They have all the antenna.
@@ -177,13 +177,13 @@ Dialogue: 0,0:04:51.95,0:04:55.55,1080P-shss-90,,0,0,0,,以确保卫星被分离
 Dialogue: 0,0:04:55.94,0:05:00.75,1080P-sgbd-42,,0,0,0,,so first thing is as soon as they're released they're all sort of randomly floating there in space
 Dialogue: 0,0:04:55.94,0:05:00.75,1080P-shss-90,,0,0,0,,所以第一件事是 当它们被释放时 它们都是随机地漂浮在太空中的
 Dialogue: 0,0:05:00.77,0:05:07.44,1080P-sgbd-42,,0,0,0,,and as they go orbit they will get spread out just due to having slightly different orbits
-Dialogue: 0,0:05:00.77,0:05:07.44,1080P-shss-90,,0,0,0,,而当它们进入轨道时 它们会被分散开来 只是因为它们的轨道略有不同
+Dialogue: 0,0:05:00.77,0:05:07.44,1080P-shss-90,,0,0,0,,而当它们进入轨道时 会被分散开来 只因为它们的轨道略有不同
 Dialogue: 0,0:05:07.66,0:05:12.00,1080P-sgbd-42,,0,0,0,,and there's a bit of randomization that goes on in the sort of chaotic deployment process.
 Dialogue: 0,0:05:07.66,0:05:12.00,1080P-shss-90,,0,0,0,,并且在这种混乱的部署过程中会有一些随机性的变化
 Dialogue: 0,0:05:12.26,0:05:16.08,1080P-sgbd-42,,0,0,0,,It actually takes them a while to figure out which one is which
 Dialogue: 0,0:05:12.26,0:05:16.08,1080P-shss-90,,0,0,0,,实际上 他们需要一段时间来弄清楚哪一个卫星是哪一个
 Dialogue: 0,0:05:16.23,0:05:18.65,1080P-sgbd-42,,0,0,0,,so that they can start giving them commands
-Dialogue: 0,0:05:16.23,0:05:18.65,1080P-shss-90,,0,0,0,,这样他们才可以开始给它们下达命令
+Dialogue: 0,0:05:16.23,0:05:18.65,1080P-shss-90,,0,0,0,,这样他们才可以开始给它们发送指令
 Dialogue: 0,0:05:18.65,0:05:22.03,1080P-sgbd-42,,0,0,0,,in the certainty that they aren't going to crash into each other
 Dialogue: 0,0:05:18.65,0:05:22.03,1080P-shss-90,,0,0,0,,以确定 在当它们开始展开它们的天线并试图移动时
 Dialogue: 0,0:05:22.05,0:05:25.89,1080P-sgbd-42,,0,0,0,,when they start unfolding their antenna and trying to move.
@@ -191,11 +191,11 @@ Dialogue: 0,0:05:22.05,0:05:25.89,1080P-shss-90,,0,0,0,,它们不会互相碰撞
 Dialogue: 0,0:05:26.56,0:05:29.81,1080P-sgbd-42,,0,0,0,,Now once the engines start up and the satellites begin to maneuver
 Dialogue: 0,0:05:26.56,0:05:29.81,1080P-shss-90,,0,0,0,,现在 一旦发动机启动 并且卫星开始机动
 Dialogue: 0,0:05:29.85,0:05:33.54,1080P-sgbd-42,,0,0,0,,the first thing they do is raise their orbits from the initial insertion orbit
-Dialogue: 0,0:05:29.85,0:05:33.54,1080P-shss-90,,0,0,0,,它们做的第一件事 就是把它们的轨道从最初的入轨轨道提高到
+Dialogue: 0,0:05:29.85,0:05:33.54,1080P-shss-90,,0,0,0,,它们做的第一件事 就是把它们的轨道从最初的入轨轨道进行提升
 Dialogue: 0,0:05:33.58,0:05:35.38,1080P-sgbd-42,,0,0,0,,which is below 300 kilometers.
 Dialogue: 0,0:05:33.58,0:05:35.38,1080P-shss-90,,0,0,0,,入轨轨道也就是高度低于300公里的轨道
 Dialogue: 0,0:05:35.63,0:05:41.13,1080P-sgbd-42,,0,0,0,,And bring them to a sort of temporary parking orbit between about 350 400 kilometers
-Dialogue: 0,0:05:35.63,0:05:41.13,1080P-shss-90,,0,0,0,,并把它们带到大约在350到400公里之间的一种临时停泊轨道上
+Dialogue: 0,0:05:35.63,0:05:41.13,1080P-shss-90,,0,0,0,,并把轨道提升到大约在350到400公里之间的一种临时停泊轨道上
 Dialogue: 0,0:05:41.46,0:05:43.05,1080P-sgbd-42,,0,0,0,,and they will spend some time there
 Dialogue: 0,0:05:41.46,0:05:43.05,1080P-shss-90,,0,0,0,,而它们将在那里度过一些时间
 Dialogue: 0,0:05:43.28,0:05:51.49,1080P-sgbd-42,,0,0,0,,before then finally boosting up to about 550 kilometers which is their final operational orbit.
@@ -213,23 +213,23 @@ Dialogue: 0,0:06:04.88,0:06:07.04,1080P-shss-90,,0,0,0,,然后那些留在较低
 Dialogue: 0,0:06:07.09,0:06:08.98,1080P-sgbd-42,,0,0,0,,because they are closer to the earth
 Dialogue: 0,0:06:07.09,0:06:08.98,1080P-shss-90,,0,0,0,,因为它们离地球更近
 Dialogue: 0,0:06:09.12,0:06:14.08,1080P-sgbd-42,,0,0,0,,they get bigger effects due to the oblateness of the earth and their orbits twist around faster
-Dialogue: 0,0:06:09.12,0:06:14.08,1080P-shss-90,,0,0,0,,它们会受到地球倾斜度更大的影响 并且其轨道进动得更快
+Dialogue: 0,0:06:09.12,0:06:14.08,1080P-shss-90,,0,0,0,,它们会受到地球扁率更大的影响 并且其轨道进动得更快
 Dialogue: 0,0:06:14.14,0:06:19.19,1080P-sgbd-42,,0,0,0,,so you can see this the lower orbit is getting pulled around faster
 Dialogue: 0,0:06:14.14,0:06:19.19,1080P-shss-90,,0,0,0,,所以你可以看到 低轨道被拉动的速度更快
 Dialogue: 0,0:06:19.19,0:06:22.31,1080P-sgbd-42,,0,0,0,,and therefore it is being split into separate planes
 Dialogue: 0,0:06:19.19,0:06:22.31,1080P-shss-90,,0,0,0,,因此 它被分离到了不同的轨道平面
 Dialogue: 0,0:06:22.34,0:06:27.56,1080P-sgbd-42,,0,0,0,,by choosing when they want to fire their engines to bring them up to their operational orbit.
-Dialogue: 0,0:06:22.34,0:06:27.56,1080P-shss-90,,0,0,0,,通过选择它们想要启动发动机的时间 把它们带到其运行轨道上
+Dialogue: 0,0:06:22.34,0:06:27.56,1080P-shss-90,,0,0,0,,{\fs85}通过选择它们想要启动发动机的时间 可以把它们带到(不同的)运行轨道上
 Dialogue: 0,0:06:27.94,0:06:33.09,1080P-sgbd-42,,0,0,0,,So this is how you get multiple satellites from a single launch into different orbital planes.
 Dialogue: 0,0:06:27.94,0:06:33.09,1080P-shss-90,,0,0,0,,所以这就是你如何使一次发射中的多颗卫星进入不同的轨道平面
 Dialogue: 0,0:06:33.34,0:06:37.44,1080P-sgbd-42,,0,0,0,,Normally orbital plane changes are very expensive in terms of propellant.
 Dialogue: 0,0:06:33.34,0:06:37.44,1080P-shss-90,,0,0,0,,通常情况下 轨道平面变化所消耗的推进剂是非常昂贵的
 Dialogue: 0,0:06:37.58,0:06:43.32,1080P-sgbd-42,,0,0,0,,To go from one plane to the next takes about 500 meters per second of delta v at these altitudes.
-Dialogue: 0,0:06:37.58,0:06:43.32,1080P-shss-90,,0,0,0,,在这些高度上 从一个平面到下一个平面上需要大约500米每秒的DV
+Dialogue: 0,0:06:37.58,0:06:43.32,1080P-shss-90,,0,0,0,,在这些高度上 从一个平面到下一个平面上需要大约500米每秒的DV(速度增量)
 Dialogue: 0,0:06:43.68,0:06:46.96,1080P-sgbd-42,,0,0,0,,To raise the orbit takes about 170
 Dialogue: 0,0:06:43.68,0:06:46.96,1080P-shss-90,,0,0,0,,而提升轨道需要大约170米每秒的DV
 Dialogue: 0,0:06:47.02,0:06:51.19,1080P-sgbd-42,,0,0,0,,so this is three times more expensive to do this using propellant
-Dialogue: 0,0:06:47.02,0:06:51.19,1080P-shss-90,,0,0,0,,所以用推进剂进行轨道平面变化的成本 是提升轨道的成本的三倍
+Dialogue: 0,0:06:47.02,0:06:51.19,1080P-shss-90,,0,0,0,,{\fs85}所以在使用推进剂的情况下 改变轨道平面花费的量 是提升轨道的三倍
 Dialogue: 0,0:06:51.36,0:06:55.36,1080P-sgbd-42,,0,0,0,,but if you can use the earth's gravity and you can afford to wait that amount of time
 Dialogue: 0,0:06:51.36,0:06:55.36,1080P-shss-90,,0,0,0,,但如果你能利用地球的引力 并且你能等得起这么长的时间
 Dialogue: 0,0:06:55.36,0:06:57.28,1080P-sgbd-42,,0,0,0,,then you can do it more efficiently.
@@ -237,15 +237,15 @@ Dialogue: 0,0:06:55.36,0:06:57.28,1080P-shss-90,,0,0,0,,那么你就可以节约
 Dialogue: 0,0:06:57.46,0:07:02.16,1080P-sgbd-42,,0,0,0,,Another thing to notice by the way there's some rogue objects which after going up
 Dialogue: 0,0:06:57.46,0:07:02.16,1080P-shss-90,,0,0,0,,还有一点要注意的是 有一些反常的物体在上升之后
 Dialogue: 0,0:07:02.33,0:07:04.77,1080P-sgbd-42,,0,0,0,,they start to fall back down into lower orbits.
-Dialogue: 0,0:07:02.33,0:07:04.77,1080P-shss-90,,0,0,0,,它们会开始回落到较低的轨道上
+Dialogue: 0,0:07:02.33,0:07:04.77,1080P-shss-90,,0,0,0,,会开始回落到较低的轨道上
 Dialogue: 0,0:07:04.77,0:07:07.84,1080P-sgbd-42,,0,0,0,,Those are sometimes satellites which have had some problem
-Dialogue: 0,0:07:04.81,0:07:07.84,1080P-shss-90,,0,0,0,,那些有时是出现了一些问题的卫星
+Dialogue: 0,0:07:04.81,0:07:07.84,1080P-shss-90,,0,0,0,,那些有时是一些出现了问题的卫星
 Dialogue: 0,0:07:07.84,0:07:13.38,1080P-sgbd-42,,0,0,0,,and they're bringing them back down to either test them or sometimes dispose of them in the atmosphere.
 Dialogue: 0,0:07:07.84,0:07:13.38,1080P-shss-90,,0,0,0,,而他们会把它们的轨道降低 来测试它们或者让它们坠入大气层销毁
 Dialogue: 0,0:07:13.98,0:07:16.39,1080P-sgbd-42,,0,0,0,,And over the last two years of Starlink deployment
 Dialogue: 0,0:07:13.98,0:07:16.39,1080P-shss-90,,0,0,0,,并且在过去两年的星链部署中
-Dialogue: 0,0:07:16.42,0:07:19.68,1080P-sgbd-42,,0,0,0,,they've disposed off about five percent of their satellites
-Dialogue: 0,0:07:16.42,0:07:19.68,1080P-shss-90,,0,0,0,,他们已经处理掉了大约百分之五的卫星
+Dialogue: 0,0:07:16.42,0:07:19.68,1080P-sgbd-42,,0,0,0,,they've disposed of about five percent of their satellites
+Dialogue: 0,0:07:16.42,0:07:19.68,1080P-shss-90,,0,0,0,,他们已经丢弃了大约百分之五的卫星
 Dialogue: 0,0:07:19.89,0:07:25.02,1080P-sgbd-42,,0,0,0,,so this is like a whole animation showing all the launches and finishing in June of this year.
 Dialogue: 0,0:07:19.89,0:07:25.02,1080P-shss-90,,0,0,0,,现在展示的这整个动画 显示了直到今年6月结束以来的所有发射
 Dialogue: 0,0:07:25.34,0:07:28.49,1080P-sgbd-42,,0,0,0,,This is the very first batch that was launched in 2019.
@@ -321,15 +321,15 @@ Dialogue: 0,0:09:21.06,0:09:26.20,1080P-shss-90,,0,0,0,,所以 这是我在NASA�
 Dialogue: 0,0:09:26.95,0:09:28.83,1080P-sgbd-42,,0,0,0,,So again along the horizontal axis
 Dialogue: 0,0:09:26.95,0:09:28.83,1080P-shss-90,,0,0,0,,所以再次沿着横轴看
 Dialogue: 0,0:09:28.88,0:09:30.94,1080P-sgbd-42,,0,0,0,,you've got the longitude of the ascending node
-Dialogue: 0,0:09:28.88,0:09:30.94,1080P-shss-90,,0,0,0,,你在这里有上升节点的经度
+Dialogue: 0,0:09:28.88,0:09:30.94,1080P-shss-90,,0,0,0,,你在这里有升交点经度
 Dialogue: 0,0:09:30.97,0:09:35.92,1080P-sgbd-42,,0,0,0,,which is pretty much where the satellites cross the equator relative to the starts
-Dialogue: 0,0:09:30.97,0:09:35.92,1080P-shss-90,,0,0,0,,其差不多是卫星相对于起始点穿过赤道的位置
+Dialogue: 0,0:09:30.97,0:09:35.92,1080P-shss-90,,0,0,0,,其差不多是卫星经过赤道的位置 相对于经度原点(春分点)的角度
 Dialogue: 0,0:09:36.14,0:09:39.69,1080P-sgbd-42,,0,0,0,,and on the vertical axis you've got the angle along the orbit
-Dialogue: 0,0:09:36.14,0:09:39.69,1080P-shss-90,,0,0,0,,而在纵轴上 你有沿着轨道的角度
+Dialogue: 0,0:09:36.14,0:09:39.69,1080P-shss-90,,0,0,0,,而在纵轴上 则是轨道近点角(anomaly)
 Dialogue: 0,0:09:40.04,0:09:43.24,1080P-sgbd-42,,0,0,0,,and one important thing is that these are at different altitudes.
 Dialogue: 0,0:09:40.04,0:09:43.24,1080P-shss-90,,0,0,0,,并且有一件重要的事是 这些都是在不同的高度上
 Dialogue: 0,0:09:43.27,0:09:45.81,1080P-sgbd-42,,0,0,0,,Now there is an altitude scale on the right here
-Dialogue: 0,0:09:43.27,0:09:45.81,1080P-shss-90,,0,0,0,,现在 这里的右边有一个高度刻度
+Dialogue: 0,0:09:43.27,0:09:45.81,1080P-shss-90,,0,0,0,,那么 这里的右边有一个高度刻度
 Dialogue: 0,0:09:46.28,0:09:48.62,1080P-sgbd-42,,0,0,0,,but it's actually just easier to look and see that
 Dialogue: 0,0:09:46.28,0:09:48.62,1080P-shss-90,,0,0,0,,但实际上 更容易观察高度的是
 Dialogue: 0,0:09:48.65,0:09:52.54,1080P-sgbd-42,,0,0,0,,the ones moving fast downwards are in lower orbits
@@ -407,6 +407,6 @@ Dialogue: 0,0:12:04.05,0:12:07.60,1080P-shss-90,,0,0,0,,而还有随后的轨道
 Dialogue: 0,0:12:07.66,0:12:13.04,1080P-sgbd-42,,0,0,0,,that puts the satellites in the locations in the orbits where they need to be to perform their job.
 Dialogue: 0,0:12:07.66,0:12:13.04,1080P-shss-90,,0,0,0,,二者一同 把卫星送到了它们需要工作的轨道位置上
 Dialogue: 0,0:12:13.27,0:12:15.76,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:12:13.27,0:12:15.76,1080P-shss-90,,0,0,0,,我是Scott Manley 飞行安全
+Dialogue: 0,0:12:13.27,0:12:15.76,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
 Dialogue: 0,0:12:15.89,0:12:34.23,1080P-sgbd-4s,,0,0,0,,[Music]
 Dialogue: 0,0:12:15.89,0:12:34.23,1080P-sgsm-6s,,0,0,0,,[音乐]
