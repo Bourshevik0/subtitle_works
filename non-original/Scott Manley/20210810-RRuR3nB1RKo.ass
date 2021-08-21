@@ -23,51 +23,51 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.00,0:00:05.30,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.00,0:00:05.30,1080P-shss-90,,0,0,0,,你好 我是斯科特-曼利
+Dialogue: 0,0:00:04.00,0:00:05.30,1080P-shss-90,,0,0,0,,氦 我是Scott-Manley
 Dialogue: 0,0:00:05.35,0:00:09.20,1080P-sgbd-42,,0,0,0,,And I am standing in front of ʻAhuʻailāʻau
 Dialogue: 0,0:00:05.35,0:00:09.20,1080P-shss-90,,0,0,0,,我正站在阿胡埃拉乌的前面
 Dialogue: 0,0:00:09.20,0:00:12.55,1080P-sgbd-42,,0,0,0,,which used to be known as fissure eight three years ago
-Dialogue: 0,0:00:09.20,0:00:12.55,1080P-shss-90,,0,0,0,,三年前 它曾被称为第八裂缝
+Dialogue: 0,0:00:09.20,0:00:12.55,1080P-shss-90,,0,0,0,,三年前 它被称为8号裂缝 
 Dialogue: 0,0:00:12.55,0:00:16.96,1080P-sgbd-42,,0,0,0,,when it was spewing lava hundreds of feet into the air
 Dialogue: 0,0:00:12.55,0:00:16.96,1080P-shss-90,,0,0,0,,当它将熔岩喷到数百英尺高的空中时
 Dialogue: 0,0:00:17.01,0:00:21.19,1080P-sgbd-42,,0,0,0,,and basically laying waste to this whole neighborhood.
-Dialogue: 0,0:00:17.01,0:00:21.19,1080P-shss-90,,0,0,0,,基本上把整个街区都毁掉了
+Dialogue: 0,0:00:17.01,0:00:21.19,1080P-shss-90,,0,0,0,,基本上把整个区域都毁掉了
 Dialogue: 0,0:00:21.19,0:00:28.48,1080P-sgbd-42,,0,0,0,,It is an amazing and weird place to be with a wreckage
-Dialogue: 0,0:00:21.19,0:00:28.48,1080P-shss-90,,0,0,0,,这是一个令人惊奇和奇怪的地方 有一个残垣断壁
+Dialogue: 0,0:00:21.19,0:00:28.48,1080P-shss-90,,0,0,0,,这是一个令人惊奇和奇怪的地方 上面是残垣断壁
 Dialogue: 0,0:00:28.48,0:00:31.82,1080P-sgbd-42,,0,0,0,,and just new earth underneath it.
-Dialogue: 0,0:00:28.48,0:00:31.82,1080P-shss-90,,0,0,0,,和它下面的新土
+Dialogue: 0,0:00:28.48,0:00:31.82,1080P-shss-90,,0,0,0,,下面是新的土壤
 Dialogue: 0,0:00:31.84,0:00:35.04,1080P-sgbd-42,,0,0,0,,It's three years old this this rock that I'm standing on this.
-Dialogue: 0,0:00:31.84,0:00:35.04,1080P-shss-90,,0,0,0,,这是三年前的这块石头 我就站在这上面
+Dialogue: 0,0:00:31.84,0:00:35.04,1080P-shss-90,,0,0,0,,我现在就站在这块 三年前那次活动形成的岩石上
 Dialogue: 0,0:00:35.45,0:00:36.59,1080P-sgbd-42,,0,0,0,,Well it's not even rock.
-Dialogue: 0,0:00:35.45,0:00:36.59,1080P-shss-90,,0,0,0,,嗯 它甚至不是岩石
+Dialogue: 0,0:00:35.45,0:00:36.59,1080P-shss-90,,0,0,0,,其实 它甚至不是岩石
 Dialogue: 0,0:00:36.62,0:00:42.38,1080P-sgbd-42,,0,0,0,,It's just compressed spatter tephra is what they call it.
-Dialogue: 0,0:00:36.62,0:00:42.38,1080P-shss-90,,0,0,0,,这只是压缩的喷溅物 他们是这样称呼它的
+Dialogue: 0,0:00:36.62,0:00:42.38,1080P-shss-90,,0,0,0,,这只是压缩的火山喷溅物 他们是这样称呼它的
 Dialogue: 0,0:00:43.26,0:00:44.67,1080P-sgbd-42,,0,0,0,,Yeah let's explore.
-Dialogue: 0,0:00:43.26,0:00:44.67,1080P-shss-90,,0,0,0,,是的 让我们来探索
+Dialogue: 0,0:00:43.26,0:00:44.67,1080P-shss-90,,0,0,0,,好 让我们来探索一下
 Dialogue: 0,0:00:45.12,0:00:46.96,1080P-sgbd-42,,0,0,0,,When I was in Hawaii a couple of months ago
-Dialogue: 0,0:00:45.12,0:00:46.96,1080P-shss-90,,0,0,0,,几个月前我在夏威夷的时候
+Dialogue: 0,0:00:45.12,0:00:46.96,1080P-shss-90,,0,0,0,,几个月前 当我在夏威夷的时候
 Dialogue: 0,0:00:46.96,0:00:50.01,1080P-sgbd-42,,0,0,0,,one of the places I really wanted to explore was this.
 Dialogue: 0,0:00:46.96,0:00:50.01,1080P-shss-90,,0,0,0,,我最想探索的地方之一就是这个
 Dialogue: 0,0:00:50.02,0:00:51.76,1080P-sgbd-42,,0,0,0,,This is known as fissure eight.
-Dialogue: 0,0:00:50.02,0:00:51.76,1080P-shss-90,,0,0,0,,这就是所谓的八号裂缝
+Dialogue: 0,0:00:50.02,0:00:51.76,1080P-shss-90,,0,0,0,,这就是所谓的8号裂缝
 Dialogue: 0,0:00:51.76,0:00:58.39,1080P-sgbd-42,,0,0,0,,It is one of many lava fissures that opened up in the middle of the neighborhood of Leilani Estates.
-Dialogue: 0,0:00:51.76,0:00:58.39,1080P-shss-90,,0,0,0,,它是许多熔岩裂缝中的一个 在Leilani Estates社区的中间打开
+Dialogue: 0,0:00:51.76,0:00:58.39,1080P-shss-90,,0,0,0,,它是莱拉尼庄园区域附近众多熔岩裂缝中的一个
 Dialogue: 0,0:00:58.39,0:01:01.03,1080P-sgbd-42,,0,0,0,,A lot of those in those trees next to this area
-Dialogue: 0,0:00:58.39,0:01:01.03,1080P-shss-90,,0,0,0,,在这个区域旁边的那些树上有很多人
+Dialogue: 0,0:00:58.39,0:01:01.03,1080P-shss-90,,0,0,0,,这个区域旁边有许多树木
 Dialogue: 0,0:01:01.03,0:01:02.39,1080P-sgbd-42,,0,0,0,,you can see houses.
 Dialogue: 0,0:01:01.03,0:01:02.39,1080P-shss-90,,0,0,0,,你可以看到房屋
 Dialogue: 0,0:01:02.39,0:01:04.64,1080P-sgbd-42,,0,0,0,,Some of them butt up right against the lava field
 Dialogue: 0,0:01:02.39,0:01:04.64,1080P-shss-90,,0,0,0,,其中一些房子紧靠着熔岩区
 Dialogue: 0,0:01:04.64,0:01:07.92,1080P-sgbd-42,,0,0,0,,but fissure 8 was the largest of many.
-Dialogue: 0,0:01:04.64,0:01:07.92,1080P-shss-90,,0,0,0,,但8号裂缝是众多裂缝中最大的一个
+Dialogue: 0,0:01:04.64,0:01:07.92,1080P-shss-90,,0,0,0,,8号裂缝是众多熔岩裂缝中最大的一个
 Dialogue: 0,0:01:07.92,0:01:12.47,1080P-sgbd-42,,0,0,0,,It would ultimately throw out hundreds of thousands of tons of lava
-Dialogue: 0,0:01:07.92,0:01:12.47,1080P-shss-90,,0,0,0,,它最终将抛出数十万吨熔岩
+Dialogue: 0,0:01:07.92,0:01:12.47,1080P-shss-90,,0,0,0,,它最终抛出了数十万吨熔岩
 Dialogue: 0,0:01:12.47,0:01:17.23,1080P-sgbd-42,,0,0,0,,that would flow eight miles to the sea and create new areas of land.
-Dialogue: 0,0:01:12.47,0:01:17.23,1080P-shss-90,,0,0,0,,这些熔岩将流向大海8英里 形成新的土地区域
+Dialogue: 0,0:01:12.47,0:01:17.23,1080P-shss-90,,0,0,0,,这些熔岩在大海上流动了8英里 形成了新的土地区域
 Dialogue: 0,0:01:17.68,0:01:19.34,1080P-sgbd-42,,0,0,0,,During the two months it was active.
 Dialogue: 0,0:01:17.68,0:01:19.34,1080P-shss-90,,0,0,0,,在它活跃的两个月里
 Dialogue: 0,0:01:19.38,0:01:25.04,1080P-sgbd-42,,0,0,0,,This fissure emitted more lava than the rest of the mountain does in five years.
-Dialogue: 0,0:01:19.38,0:01:25.04,1080P-shss-90,,0,0,0,,这个裂缝喷出的熔岩比山里其他地方五年喷出的还要多
+Dialogue: 0,0:01:19.38,0:01:25.04,1080P-shss-90,,0,0,0,,这个裂缝喷出的熔岩比山脉里其他地方五年总共喷出的还要多
 Dialogue: 0,0:01:25.36,0:01:28.24,1080P-sgbd-42,,0,0,0,,And it drained so much lava out of the mountain
 Dialogue: 0,0:01:25.36,0:01:28.24,1080P-shss-90,,0,0,0,,它从山中排出了如此多的熔岩
 Dialogue: 0,0:01:28.24,0:01:30.47,1080P-sgbd-42,,0,0,0,,that the reserves were depleted to the extent
@@ -77,45 +77,45 @@ Dialogue: 0,0:01:30.47,0:01:35.70,1080P-shss-90,,0,0,0,,从本质上讲 它结�
 Dialogue: 0,0:01:36.15,0:01:38.92,1080P-sgbd-42,,0,0,0,,And now years after the activity has stopped
 Dialogue: 0,0:01:36.15,0:01:38.92,1080P-shss-90,,0,0,0,,而现在 在活动停止多年后
 Dialogue: 0,0:01:39.08,0:01:44.59,1080P-sgbd-42,,0,0,0,,it's possible for adventurous people to go and visit this area that was once a community.
-Dialogue: 0,0:01:39.08,0:01:44.59,1080P-shss-90,,0,0,0,,有冒险精神的人可以去参观这个曾经是一个社区的地区
+Dialogue: 0,0:01:39.08,0:01:44.59,1080P-shss-90,,0,0,0,,富有冒险精神的人们 可以去参观这个群落
 Dialogue: 0,0:01:44.88,0:01:52.29,1080P-sgbd-42,,0,0,0,,You can climb to the top of this fissure which was laid down and built up by the eruption from it.
-Dialogue: 0,0:01:44.88,0:01:52.29,1080P-shss-90,,0,0,0,,你可以爬到这个裂缝的顶部 这个裂缝是由它的喷发所奠定和建立的
+Dialogue: 0,0:01:44.88,0:01:52.29,1080P-shss-90,,0,0,0,,你可以爬到这个由它自身的喷发而形成的顶部 
 Dialogue: 0,0:01:52.73,0:01:54.72,1080P-sgbd-42,,0,0,0,,But first I want to rewind the clock
-Dialogue: 0,0:01:52.73,0:01:54.72,1080P-shss-90,,0,0,0,,但首先我想让时间倒流
+Dialogue: 0,0:01:52.73,0:01:54.72,1080P-shss-90,,0,0,0,,但首先我想讲讲历史
 Dialogue: 0,0:01:54.75,0:01:59.26,1080P-sgbd-42,,0,0,0,,and talk about the geology that drove this eruption.
-Dialogue: 0,0:01:54.75,0:01:59.26,1080P-shss-90,,0,0,0,,并谈谈推动这次火山爆发的地质学
+Dialogue: 0,0:01:54.75,0:01:59.26,1080P-shss-90,,0,0,0,,谈谈推动这次火山爆发的地质学原理
 Dialogue: 0,0:01:59.90,0:02:04.38,1080P-sgbd-42,,0,0,0,,I previously visited the big island of Hawaii in 2018
-Dialogue: 0,0:01:59.90,0:02:04.38,1080P-shss-90,,0,0,0,,我曾在2018年访问过夏威夷的大岛
+Dialogue: 0,0:01:59.90,0:02:04.38,1080P-shss-90,,0,0,0,,我曾在2018年访问过夏威夷火山大岛
 Dialogue: 0,0:02:04.57,0:02:08.39,1080P-sgbd-42,,0,0,0,,and there had been some significant changes to the way Kilauea was erupting.
-Dialogue: 0,0:02:04.57,0:02:08.39,1080P-shss-90,,0,0,0,,而基拉韦厄的喷发方式已经发生了一些重大变化
+Dialogue: 0,0:02:04.57,0:02:08.39,1080P-shss-90,,0,0,0,,当时 基拉韦厄的喷发方式已经发生了一些重大变化
 Dialogue: 0,0:02:08.39,0:02:13.17,1080P-sgbd-42,,0,0,0,,There was a lava lake at the top of the mountain Halemaʻumaʻu crater.
 Dialogue: 0,0:02:08.39,0:02:13.17,1080P-shss-90,,0,0,0,,在Halemaʻumaʻu火山口的山顶有一个熔岩湖
 Dialogue: 0,0:02:13.59,0:02:15.92,1080P-sgbd-42,,0,0,0,,This was unusual since 1983
-Dialogue: 0,0:02:13.59,0:02:15.92,1080P-shss-90,,0,0,0,,这是不寻常的 因为1983年
+Dialogue: 0,0:02:13.59,0:02:15.92,1080P-shss-90,,0,0,0,,这是不寻常的 因为自1983年后
 Dialogue: 0,0:02:15.92,0:02:22.18,1080P-sgbd-42,,0,0,0,,most of the eruption had occurred through event called Pu'u'ō'ō which was further down to the east
-Dialogue: 0,0:02:15.92,0:02:22.18,1080P-shss-90,,0,0,0,,大部分的喷发都发生在东面更远处的Pu'u'ō'ō事件中
+Dialogue: 0,0:02:15.92,0:02:22.18,1080P-shss-90,,0,0,0,,大部分的喷发都发生在东面更远处的Pu'u'ō'ō地区
 Dialogue: 0,0:02:22.40,0:02:27.44,1080P-sgbd-42,,0,0,0,,but something had changed and the lava was backing up and reaching the top of the mountain.
-Dialogue: 0,0:02:22.40,0:02:27.44,1080P-shss-90,,0,0,0,,但情况发生了变化 熔岩正在倒流 并到达山顶
+Dialogue: 0,0:02:22.40,0:02:27.44,1080P-shss-90,,0,0,0,,但情况发生了变化 熔岩正在倒流 到达山顶
 Dialogue: 0,0:02:27.44,0:02:31.51,1080P-sgbd-42,,0,0,0,,You have to understand underneath the volcano there are channels and reservoirs
-Dialogue: 0,0:02:27.44,0:02:31.51,1080P-shss-90,,0,0,0,,你必须了解在火山下面有一些渠道和水库
+Dialogue: 0,0:02:27.44,0:02:31.51,1080P-shss-90,,0,0,0,,你必须知道 在火山下面有一些渠道和熔岩室
 Dialogue: 0,0:02:31.51,0:02:34.64,1080P-sgbd-42,,0,0,0,,where molten magma collects and moves around.
-Dialogue: 0,0:02:31.51,0:02:34.64,1080P-shss-90,,0,0,0,,熔化的岩浆在那里聚集和移动
+Dialogue: 0,0:02:31.51,0:02:34.64,1080P-shss-90,,0,0,0,,熔化的岩浆在那里汇聚和移动
 Dialogue: 0,0:02:34.64,0:02:37.28,1080P-sgbd-42,,0,0,0,,So with magma being pushed up to the top of the mountain
 Dialogue: 0,0:02:34.64,0:02:37.28,1080P-shss-90,,0,0,0,,因此 随着岩浆被推上山顶
 Dialogue: 0,0:02:37.28,0:02:42.48,1080P-sgbd-42,,0,0,0,,that increased the pressure and that forces some of these channels around apart
-Dialogue: 0,0:02:37.28,0:02:42.48,1080P-shss-90,,0,0,0,,增加了压力 迫使周围的一些通道分开
+Dialogue: 0,0:02:37.28,0:02:42.48,1080P-shss-90,,0,0,0,,增加了压力 扩张周围的一些通道
 Dialogue: 0,0:02:42.48,0:02:47.28,1080P-sgbd-42,,0,0,0,,and you start getting cracks forming which cause earthquakes and eruptions.
 Dialogue: 0,0:02:42.48,0:02:47.28,1080P-shss-90,,0,0,0,,并开始形成裂缝 导致地震和喷发
 Dialogue: 0,0:02:47.28,0:02:53.62,1080P-sgbd-42,,0,0,0,,And there was a 6.9 magnitude earthquake which be seen to be the major trigger for everything.
-Dialogue: 0,0:02:47.28,0:02:53.62,1080P-shss-90,,0,0,0,,有一次6.9级的地震 被认为是一切的主要触发因素
+Dialogue: 0,0:02:47.28,0:02:53.62,1080P-shss-90,,0,0,0,,有一次6.9级的地震 被认为是一切事件的导火索
 Dialogue: 0,0:02:53.92,0:02:56.62,1080P-sgbd-42,,0,0,0,,To give you an idea of how big an effect this was
 Dialogue: 0,0:02:53.92,0:02:56.62,1080P-shss-90,,0,0,0,,为了让你知道这有多大的影响
 Dialogue: 0,0:02:56.62,0:03:00.54,1080P-sgbd-42,,0,0,0,,this diagram shows you how far the land moved on the surface
-Dialogue: 0,0:02:56.62,0:03:00.54,1080P-shss-90,,0,0,0,,这张图显示了土地在表面上移动了多远
+Dialogue: 0,0:02:56.62,0:03:00.54,1080P-shss-90,,0,0,0,,这张图显示了陆块移动了多远
 Dialogue: 0,0:03:00.80,0:03:08.00,1080P-sgbd-42,,0,0,0,,and in places the island moved several meters southwards in a time measured in seconds.
 Dialogue: 0,0:03:00.80,0:03:08.00,1080P-shss-90,,0,0,0,,在一些地方 岛屿在以秒计算的时间内向南移动了数米
 Dialogue: 0,0:03:08.48,0:03:12.08,1080P-sgbd-42,,0,0,0,,And that unblocked the channels the lava was using to move around
-Dialogue: 0,0:03:08.48,0:03:12.08,1080P-shss-90,,0,0,0,,这就疏通了熔岩用来移动的通道
+Dialogue: 0,0:03:08.48,0:03:12.08,1080P-shss-90,,0,0,0,,这就疏通了熔岩移动的通道
 Dialogue: 0,0:03:12.08,0:03:18.69,1080P-sgbd-42,,0,0,0,,and in the lower East Rift Zone cracks began to open emitting steam and then later lava.
 Dialogue: 0,0:03:12.08,0:03:18.69,1080P-shss-90,,0,0,0,,在东裂谷区的下部 裂缝开始打开 排放出蒸汽 然后是熔岩
 Dialogue: 0,0:03:19.06,0:03:23.92,1080P-sgbd-42,,0,0,0,,And interestingly the first lava that came out was very thick and sticky and slow moving
@@ -123,19 +123,19 @@ Dialogue: 0,0:03:19.06,0:03:23.92,1080P-shss-90,,0,0,0,,有趣的是 第一次�
 Dialogue: 0,0:03:23.92,0:03:28.98,1080P-sgbd-42,,0,0,0,,and this was because it was actually magma from a 1950s eruption.
 Dialogue: 0,0:03:23.92,0:03:28.98,1080P-shss-90,,0,0,0,,这是因为它实际上是20世纪50年代喷发的岩浆
 Dialogue: 0,0:03:29.05,0:03:31.52,1080P-sgbd-42,,0,0,0,,There had been an eruption in the area and it had stopped
-Dialogue: 0,0:03:29.05,0:03:31.52,1080P-shss-90,,0,0,0,,该地区曾有过一次喷发 它已经停止了
+Dialogue: 0,0:03:29.05,0:03:31.52,1080P-shss-90,,0,0,0,,该地区曾有过一次喷发 尽管已经停止了
 Dialogue: 0,0:03:31.53,0:03:35.34,1080P-sgbd-42,,0,0,0,,but some of the magma was still sitting underground slowly cooling
 Dialogue: 0,0:03:31.53,0:03:35.34,1080P-shss-90,,0,0,0,,但一些岩浆仍在地下慢慢冷却
 Dialogue: 0,0:03:35.68,0:03:39.28,1080P-sgbd-42,,0,0,0,,but now this new eruption was happening it was getting pushed out
-Dialogue: 0,0:03:35.68,0:03:39.28,1080P-shss-90,,0,0,0,,但现在新的喷发正在发生 它被推了出来
+Dialogue: 0,0:03:35.68,0:03:39.28,1080P-shss-90,,0,0,0,,但现在新的喷发正在发生 这些老的熔岩被推了出来
 Dialogue: 0,0:03:39.28,0:03:45.28,1080P-sgbd-42,,0,0,0,,and eventually the slow-moving lava would be replaced by fresh fast-moving lava
-Dialogue: 0,0:03:39.28,0:03:45.28,1080P-shss-90,,0,0,0,,最终 缓慢移动的熔岩将被快速移动的新熔岩所取代
+Dialogue: 0,0:03:39.28,0:03:45.28,1080P-shss-90,,0,0,0,,最终 缓慢移动的熔岩被快速移动的新熔岩所取代
 Dialogue: 0,0:03:45.28,0:03:48.40,1080P-sgbd-42,,0,0,0,,and that lava was actually being fed from the top of the mountain.
-Dialogue: 0,0:03:45.28,0:03:48.40,1080P-shss-90,,0,0,0,,而这些熔岩实际上是由山顶供给的
+Dialogue: 0,0:03:45.28,0:03:48.40,1080P-shss-90,,0,0,0,,而这些熔岩实际上是由山顶的熔岩湖供给的
 Dialogue: 0,0:03:48.40,0:03:53.20,1080P-sgbd-42,,0,0,0,,That lake that I had seen up there was sinking down into the mountain
-Dialogue: 0,0:03:48.40,0:03:53.20,1080P-shss-90,,0,0,0,,我在上面看到的那个湖泊正在向山下沉去
+Dialogue: 0,0:03:48.40,0:03:53.20,1080P-shss-90,,0,0,0,,这个湖泊正在向下沉去
 Dialogue: 0,0:03:53.20,0:03:57.47,1080P-sgbd-42,,0,0,0,,draining out through the location far to the east.
-Dialogue: 0,0:03:53.20,0:03:57.47,1080P-shss-90,,0,0,0,,通过远在东边的位置排出去
+Dialogue: 0,0:03:53.20,0:03:57.47,1080P-shss-90,,0,0,0,,从远东边的地方排出去
 Dialogue: 0,0:03:58.15,0:04:01.68,1080P-sgbd-42,,0,0,0,,And without the mass of that lava supporting the top of the mountain
 Dialogue: 0,0:03:58.15,0:04:01.68,1080P-shss-90,,0,0,0,,如果没有熔岩的质量支撑着山顶
 Dialogue: 0,0:04:01.68,0:04:05.99,1080P-sgbd-42,,0,0,0,,it then began to collapse in on itself and the crater got larger and larger
@@ -145,9 +145,9 @@ Dialogue: 0,0:04:06.31,0:04:08.23,1080P-shss-90,,0,0,0,,破坏了火山口室的
 Dialogue: 0,0:04:08.23,0:04:13.50,1080P-sgbd-42,,0,0,0,,and that meant that the Jaggar Museum and volcanic observatory which was on the rim is now closed.
 Dialogue: 0,0:04:08.23,0:04:13.50,1080P-shss-90,,0,0,0,,这意味着位于火山口上的Jaggar博物馆和火山观测站现在已经关闭
 Dialogue: 0,0:04:13.58,0:04:17.87,1080P-sgbd-42,,0,0,0,,This is a video I took in 2018 from the look out there.
-Dialogue: 0,0:04:13.58,0:04:17.87,1080P-shss-90,,0,0,0,,这是我在2018年从那里看出来的视频
+Dialogue: 0,0:04:13.58,0:04:17.87,1080P-shss-90,,0,0,0,,这是我2018年面朝那里拍摄的视频
 Dialogue: 0,0:04:18.17,0:04:19.26,1080P-sgbd-42,,0,0,0,,This is now closed
-Dialogue: 0,0:04:18.17,0:04:19.26,1080P-shss-90,,0,0,0,,这里现在已经关闭了
+Dialogue: 0,0:04:18.17,0:04:19.26,1080P-shss-90,,0,0,0,,现在 这里已经关闭了
 Dialogue: 0,0:04:19.30,0:04:23.70,1080P-sgbd-42,,0,0,0,,and actually that crater behind them would be completely collapsed in.
 Dialogue: 0,0:04:19.30,0:04:23.70,1080P-shss-90,,0,0,0,,而实际上他们身后的那个火山口会完全塌陷进去
 Dialogue: 0,0:04:23.84,0:04:25.84,1080P-sgbd-42,,0,0,0,,So I love Volcanoes National Park.
@@ -155,11 +155,11 @@ Dialogue: 0,0:04:23.84,0:04:25.84,1080P-shss-90,,0,0,0,,所以我喜欢火山国
 Dialogue: 0,0:04:25.84,0:04:26.56,1080P-sgbd-42,,0,0,0,,It is amazing.
 Dialogue: 0,0:04:25.84,0:04:26.56,1080P-shss-90,,0,0,0,,它是惊人的
 Dialogue: 0,0:04:26.56,0:04:30.72,1080P-sgbd-42,,0,0,0,,But I wanted to find a more raw and uncurated experience
-Dialogue: 0,0:04:26.56,0:04:30.72,1080P-shss-90,,0,0,0,,但我想找到一种更原始的、未被整理的体验
+Dialogue: 0,0:04:26.56,0:04:30.72,1080P-shss-90,,0,0,0,,但我想找到一种更原始的、未被探索的体验
 Dialogue: 0,0:04:30.72,0:04:33.84,1080P-sgbd-42,,0,0,0,,and so I drove down to Leilani estates.
-Dialogue: 0,0:04:30.72,0:04:33.84,1080P-shss-90,,0,0,0,,所以我开车去了Leilani庄园
+Dialogue: 0,0:04:30.72,0:04:33.84,1080P-shss-90,,0,0,0,,所以我开车去了莱拉尼庄园
 Dialogue: 0,0:04:33.84,0:04:36.72,1080P-sgbd-42,,0,0,0,,I found some locals who do give tours.
-Dialogue: 0,0:04:33.84,0:04:36.72,1080P-shss-90,,0,0,0,,我找到了一些做旅游的当地人
+Dialogue: 0,0:04:33.84,0:04:36.72,1080P-shss-90,,0,0,0,,我找到了一些从事旅游行业的当地人
 Dialogue: 0,0:04:36.72,0:04:39.12,1080P-sgbd-42,,0,0,0,,Actually there's several companies that give tours.
 Dialogue: 0,0:04:36.72,0:04:39.12,1080P-shss-90,,0,0,0,,事实上 有几家公司提供旅游服务
 Dialogue: 0,0:04:39.12,0:04:42.00,1080P-sgbd-42,,0,0,0,,There's like locals who will just like show you the stuff.
@@ -169,23 +169,23 @@ Dialogue: 0,0:04:42.10,0:04:45.02,1080P-shss-90,,0,0,0,,实际上 你可以在�
 Dialogue: 0,0:04:45.04,0:04:48.82,1080P-sgbd-42,,0,0,0,,and then there are the professional tour companies that charge people hundreds of dollars
 Dialogue: 0,0:04:45.04,0:04:48.82,1080P-shss-90,,0,0,0,,还有一些专业的旅游公司 向人们收取数百美元的费用
 Dialogue: 0,0:04:48.84,0:04:52.18,1080P-sgbd-42,,0,0,0,,and put up no trespassing signs to stop other people coming in.
-Dialogue: 0,0:04:48.84,0:04:52.18,1080P-shss-90,,0,0,0,,并挂上禁止侵入的牌子来阻止其他人进入
+Dialogue: 0,0:04:48.84,0:04:52.18,1080P-shss-90,,0,0,0,,并挂上禁止进入的牌子来阻止散客进入
 Dialogue: 0,0:04:52.72,0:04:57.28,1080P-sgbd-42,,0,0,0,,It is important to remember though that this is essentially a residential neighborhood.
-Dialogue: 0,0:04:52.72,0:04:57.28,1080P-shss-90,,0,0,0,,但重要的是要记住 这基本上是一个住宅区
+Dialogue: 0,0:04:52.72,0:04:57.28,1080P-shss-90,,0,0,0,,但重要的是 其本质上是一个住宅区
 Dialogue: 0,0:04:57.28,0:05:02.99,1080P-sgbd-42,,0,0,0,,Sure they were large one acre lots but people were living here when the fissure are opened up
-Dialogue: 0,0:04:57.28,0:05:02.99,1080P-shss-90,,0,0,0,,当然 他们是一英亩大的土地 但当裂缝被打开时 人们就住在这里
+Dialogue: 0,0:04:57.28,0:05:02.99,1080P-shss-90,,0,0,0,,在这片一英亩大的土地上 当裂缝被打开之前 人们就住在这里
 Dialogue: 0,0:05:03.36,0:05:08.76,1080P-sgbd-42,,0,0,0,,so it was a series of fissures actually that ran sort of south east away from the volcano.
-Dialogue: 0,0:05:03.36,0:05:08.76,1080P-shss-90,,0,0,0,,所以它是一系列的裂缝 实际上是向东南方向延伸 远离火山
+Dialogue: 0,0:05:03.36,0:05:08.76,1080P-shss-90,,0,0,0,,所以它是一系列的裂缝 向东南方向延伸 逐渐远离火山
 Dialogue: 0,0:05:08.79,0:05:10.73,1080P-sgbd-42,,0,0,0,,This was called the East Rift Zone.
 Dialogue: 0,0:05:08.79,0:05:10.73,1080P-shss-90,,0,0,0,,这被称为东裂谷区
 Dialogue: 0,0:05:11.12,0:05:15.61,1080P-sgbd-42,,0,0,0,,And in some areas they just start opening up and you have small patches
-Dialogue: 0,0:05:11.12,0:05:15.61,1080P-shss-90,,0,0,0,,在一些地区 它们刚刚开始开放 你有小块的地方
+Dialogue: 0,0:05:11.12,0:05:15.61,1080P-shss-90,,0,0,0,,在一些地区 裂缝刚刚开始打开 只是一些很小的地方
 Dialogue: 0,0:05:15.91,0:05:21.03,1080P-sgbd-42,,0,0,0,,and then you go down to fissure eight and it just turns into a giant lava field.
 Dialogue: 0,0:05:15.91,0:05:21.03,1080P-shss-90,,0,0,0,,然后你走到第八条裂缝 它就变成了一个巨大的熔岩区
 Dialogue: 0,0:05:21.03,0:05:24.36,1080P-sgbd-42,,0,0,0,,But there are people still living in some of these areas.
 Dialogue: 0,0:05:21.03,0:05:24.36,1080P-shss-90,,0,0,0,,但是有些地区仍然有人生活在那里
 Dialogue: 0,0:05:24.38,0:05:28.26,1080P-sgbd-42,,0,0,0,,Some of these houses that have been spared the most of the damage.
-Dialogue: 0,0:05:24.38,0:05:28.26,1080P-shss-90,,0,0,0,,这些房子中的一些已经幸免于难 受到了最大的破坏
+Dialogue: 0,0:05:24.38,0:05:28.26,1080P-shss-90,,0,0,0,,这些房子中的一些幸免于大部分伤害
 Dialogue: 0,0:05:28.47,0:05:33.19,1080P-sgbd-42,,0,0,0,,And if you walk around the neighborhood there are lots of signs for private property.
 Dialogue: 0,0:05:28.47,0:05:33.19,1080P-shss-90,,0,0,0,,而且如果你在附近走走 有很多私人财产的标志
 Dialogue: 0,0:05:33.19,0:05:35.39,1080P-sgbd-42,,0,0,0,,Even on the properties that are destroyed.
@@ -193,11 +193,11 @@ Dialogue: 0,0:05:33.19,0:05:35.39,1080P-shss-90,,0,0,0,,甚至在那些被破坏
 Dialogue: 0,0:05:35.41,0:05:37.70,1080P-sgbd-42,,0,0,0,,I mean yeah people still own this land
 Dialogue: 0,0:05:35.41,0:05:37.70,1080P-shss-90,,0,0,0,,我的意思是 人们仍然拥有这些土地
 Dialogue: 0,0:05:37.91,0:05:40.88,1080P-sgbd-42,,0,0,0,,although many have sold to government programs
-Dialogue: 0,0:05:37.91,0:05:40.88,1080P-shss-90,,0,0,0,,尽管许多人已经卖给了政府项目
+Dialogue: 0,0:05:37.91,0:05:40.88,1080P-shss-90,,0,0,0,,尽管许多人已经将土地卖给了政府项目
 Dialogue: 0,0:05:40.88,0:05:44.72,1080P-sgbd-42,,0,0,0,,designed to help people who have had a volcano open up underneath their house.
-Dialogue: 0,0:05:40.88,0:05:44.72,1080P-shss-90,,0,0,0,,旨在帮助那些在他们的房子下面有火山口的人
+Dialogue: 0,0:05:40.88,0:05:44.72,1080P-shss-90,,0,0,0,,项目旨在帮助那些在在火山口下面拥有房子的人们
 Dialogue: 0,0:05:46.10,0:05:51.12,1080P-sgbd-42,,0,0,0,,So this is basically going next door and this is one of the flows right.
-Dialogue: 0,0:05:46.10,0:05:51.12,1080P-shss-90,,0,0,0,,所以这基本上是去隔壁 这也是其中的一个流向吧
+Dialogue: 0,0:05:46.10,0:05:51.12,1080P-shss-90,,0,0,0,,所以这基本上是流向隔壁 属于其中的一个流向吧？
 Dialogue: 0,0:05:51.12,0:05:51.75,1080P-sgbd-42,,0,0,0,,Right.
 Dialogue: 0,0:05:51.12,0:05:51.75,1080P-shss-90,,0,0,0,,对
 Dialogue: 0,0:05:51.87,0:05:57.03,1080P-sgbd-42,,0,0,0,,So it was a chain of fissures running off in one direction and this is what we got.
@@ -233,7 +233,7 @@ Dialogue: 0,0:06:34.66,0:06:35.45,1080P-shss-90,,0,0,0,,一个漂亮的燃气烤
 Dialogue: 0,0:06:35.99,0:06:36.67,1080P-sgbd-42,,0,0,0,,Could be.
 Dialogue: 0,0:06:35.99,0:06:36.67,1080P-shss-90,,0,0,0,,可能是
 Dialogue: 0,0:06:36.94,0:06:40.16,1080P-sgbd-42,,0,0,0,,So yeah basically this road was had lava on it.
-Dialogue: 0,0:06:36.94,0:06:40.16,1080P-shss-90,,0,0,0,,所以 基本上这条路是有熔岩在上面的
+Dialogue: 0,0:06:36.94,0:06:40.16,1080P-shss-90,,0,0,0,,所以 实际上这条路是有些熔岩留在上面的
 Dialogue: 0,0:06:40.16,0:06:45.89,1080P-sgbd-42,,0,0,0,,And they just scraped it off broke it up and it's a road again.
 Dialogue: 0,0:06:40.16,0:06:45.89,1080P-shss-90,,0,0,0,,他们只是把它刮掉了 把它打碎了 又成了一条路
 Dialogue: 0,0:06:46.24,0:06:52.56,1080P-sgbd-42,,0,0,0,,One of the starkest examples of the sort of randomness with which this destruction was laid out
@@ -241,13 +241,13 @@ Dialogue: 0,0:06:46.24,0:06:52.56,1080P-shss-90,,0,0,0,,最明显的例子之一
 Dialogue: 0,0:06:52.56,0:06:55.03,1080P-sgbd-42,,0,0,0,,was this house which has somebody living in it
 Dialogue: 0,0:06:52.56,0:06:55.03,1080P-shss-90,,0,0,0,,这座房子里住着人
 Dialogue: 0,0:06:55.03,0:07:01.52,1080P-sgbd-42,,0,0,0,,and the neighbor where the house was basically destroyed by a fissure opening up underneath it
-Dialogue: 0,0:06:55.03,0:07:01.52,1080P-shss-90,,0,0,0,,邻居的房子基本上被它下面的裂缝摧毁了
+Dialogue: 0,0:06:55.03,0:07:01.52,1080P-shss-90,,0,0,0,,邻居的房子基本上被它下面的熔岩裂缝摧毁了
 Dialogue: 0,0:07:01.52,0:07:02.96,1080P-sgbd-42,,0,0,0,,and spewing lava.
 Dialogue: 0,0:07:01.52,0:07:02.96,1080P-shss-90,,0,0,0,,并喷出熔岩
 Dialogue: 0,0:07:03.01,0:07:06.31,1080P-sgbd-42,,0,0,0,,Now in this case the house was generally destroyed by the fire
 Dialogue: 0,0:07:03.01,0:07:06.31,1080P-shss-90,,0,0,0,,现在 在这种情况下 房子一般都被火烧毁了
 Dialogue: 0,0:07:06.31,0:07:10.69,1080P-sgbd-42,,0,0,0,,but they did have lava in their garage which destroyed their cars.
-Dialogue: 0,0:07:06.31,0:07:10.69,1080P-shss-90,,0,0,0,,但他们的车库里有熔岩 摧毁了他们的汽车
+Dialogue: 0,0:07:06.31,0:07:10.69,1080P-shss-90,,0,0,0,,他们的车库中也渗出了熔岩 摧毁了他们的汽车
 Dialogue: 0,0:07:11.02,0:07:14.72,1080P-sgbd-42,,0,0,0,,And while the rock in the surface has cooled down to manageable levels
 Dialogue: 0,0:07:11.02,0:07:14.72,1080P-shss-90,,0,0,0,,虽然表面的岩石已经冷却到可控水平
 Dialogue: 0,0:07:14.72,0:07:17.30,1080P-sgbd-42,,0,0,0,,there's still a lot of hot rock underneath the surface
@@ -255,7 +255,7 @@ Dialogue: 0,0:07:14.72,0:07:17.30,1080P-shss-90,,0,0,0,,但在地表下仍有大
 Dialogue: 0,0:07:17.32,0:07:19.28,1080P-sgbd-42,,0,0,0,,and that heat is spreading out sideways
 Dialogue: 0,0:07:17.32,0:07:19.28,1080P-shss-90,,0,0,0,,热量正在向侧面扩散
 Dialogue: 0,0:07:19.28,0:07:22.86,1080P-sgbd-42,,0,0,0,,and sterilizing the soil that is near to these areas.
-Dialogue: 0,0:07:19.28,0:07:22.86,1080P-shss-90,,0,0,0,,并使这些地区附近的土壤消毒
+Dialogue: 0,0:07:19.28,0:07:22.86,1080P-shss-90,,0,0,0,,并使这些地区附近的土壤变得贫瘠
 Dialogue: 0,0:07:23.36,0:07:27.03,1080P-sgbd-42,,0,0,0,,Around the back of the house though they still have a nice lawn there.
 Dialogue: 0,0:07:23.36,0:07:27.03,1080P-shss-90,,0,0,0,,不过在房子的后面 他们仍然有一个漂亮的草坪
 Dialogue: 0,0:07:27.03,0:07:29.52,1080P-sgbd-42,,0,0,0,,They do have some problems mowing the lawn
@@ -271,13 +271,13 @@ Dialogue: 0,0:07:37.68,0:07:40.06,1080P-shss-90,,0,0,0,,而且他们还在花园
 Dialogue: 0,0:07:40.31,0:07:43.59,1080P-sgbd-42,,0,0,0,,It just is a garden with some very interesting features in it.
 Dialogue: 0,0:07:40.31,0:07:43.59,1080P-shss-90,,0,0,0,,它只是一个花园 里面有一些非常有趣的特征
 Dialogue: 0,0:07:43.79,0:07:47.19,1080P-sgbd-42,,0,0,0,,But extreme gardening had a place here long before the eruption.
-Dialogue: 0,0:07:43.79,0:07:47.19,1080P-shss-90,,0,0,0,,但在火山爆发之前 这里就有了极端的园艺
+Dialogue: 0,0:07:43.79,0:07:47.19,1080P-shss-90,,0,0,0,,但在火山爆发之前 这里就有了很好的园艺
 Dialogue: 0,0:07:47.37,0:07:52.23,1080P-sgbd-42,,0,0,0,,There was a one nursery here which specialized in carnivorous plants.
 Dialogue: 0,0:07:47.37,0:07:52.23,1080P-shss-90,,0,0,0,,这里有一个苗圃 专门种植多肉植物
 Dialogue: 0,0:07:52.56,0:07:55.59,1080P-sgbd-42,,0,0,0,,And apparently it was world famous renowned
 Dialogue: 0,0:07:52.56,0:07:55.59,1080P-shss-90,,0,0,0,,显然 它是世界著名的
 Dialogue: 0,0:07:55.59,0:08:00.96,1080P-sgbd-42,,0,0,0,,but unfortunately it was right underneath or right on top of where fissure 8 opened up
-Dialogue: 0,0:07:55.59,0:08:00.96,1080P-shss-90,,0,0,0,,但不幸的是 它就在8号裂缝的下面或上面
+Dialogue: 0,0:07:55.59,0:08:00.96,1080P-shss-90,,0,0,0,,但不幸的是 它就在8号裂缝的上面
 Dialogue: 0,0:08:00.96,0:08:04.54,1080P-sgbd-42,,0,0,0,,and now it is completely buried by the eruption.
 Dialogue: 0,0:08:00.96,0:08:04.54,1080P-shss-90,,0,0,0,,现在它被火山爆发完全掩埋了
 Dialogue: 0,0:08:05.12,0:08:07.22,1080P-sgbd-42,,0,0,0,,But the owner still owns the property
@@ -285,29 +285,29 @@ Dialogue: 0,0:08:05.12,0:08:07.22,1080P-shss-90,,0,0,0,,但业主仍然拥有这
 Dialogue: 0,0:08:07.26,0:08:10.86,1080P-sgbd-42,,0,0,0,,and just last year at christmas he basically paid some people
 Dialogue: 0,0:08:07.26,0:08:10.86,1080P-shss-90,,0,0,0,,就在去年圣诞节 他花钱请了一些人
 Dialogue: 0,0:08:10.90,0:08:15.75,1080P-sgbd-42,,0,0,0,,to bulldoze a road along the original route that the street followed.
-Dialogue: 0,0:08:10.90,0:08:15.75,1080P-shss-90,,0,0,0,,沿着街道原来的路线推平了一条路
+Dialogue: 0,0:08:10.90,0:08:15.75,1080P-shss-90,,0,0,0,,沿着街道原来的路线铲除了一条路
 Dialogue: 0,0:08:15.85,0:08:19.01,1080P-sgbd-42,,0,0,0,,You can see in this photo here that was sent to me on twitter.
 Dialogue: 0,0:08:15.85,0:08:19.01,1080P-shss-90,,0,0,0,,你可以从这张照片中看到 这是在twitter上发给我的
 Dialogue: 0,0:08:19.01,0:08:23.76,1080P-sgbd-42,,0,0,0,,I mean seriously good luck to the person behind this because that's pretty badass.
-Dialogue: 0,0:08:19.01,0:08:23.76,1080P-shss-90,,0,0,0,,我的意思是说真的 祝这背后的人好运 因为那是非常坏的
+Dialogue: 0,0:08:19.01,0:08:23.76,1080P-shss-90,,0,0,0,,说真的 祝这背后的人好运 因为那里时常会有一些危险
 Dialogue: 0,0:08:24.47,0:08:29.59,1080P-sgbd-42,,0,0,0,,And conveniently this road also makes it quite easy to get close to fissure eight
-Dialogue: 0,0:08:24.47,0:08:29.59,1080P-shss-90,,0,0,0,,而且 这条道路也很方便 可以很容易地接近第八裂缝
+Dialogue: 0,0:08:24.47,0:08:29.59,1080P-shss-90,,0,0,0,,而且 这条道路也很方便 可以很容易地接近8号裂缝
 Dialogue: 0,0:08:29.59,0:08:35.38,1080P-sgbd-42,,0,0,0,,and because this is a hazardous area some of the places are collapsing.
 Dialogue: 0,0:08:29.59,0:08:35.38,1080P-shss-90,,0,0,0,,因为这是一个危险区域 有些地方正在坍塌
 Dialogue: 0,0:08:35.83,0:08:40.87,1080P-sgbd-42,,0,0,0,,On one side it was all lava flows and that stuff has its own texture
-Dialogue: 0,0:08:35.83,0:08:40.87,1080P-shss-90,,0,0,0,,一边是熔岩流 那东西有它自己的纹理
+Dialogue: 0,0:08:35.83,0:08:40.87,1080P-shss-90,,0,0,0,,一边是熔岩流 那东西有它自己的结构
 Dialogue: 0,0:08:40.90,0:08:45.14,1080P-sgbd-42,,0,0,0,,but on the side you tend to approach it from these are tephra fields.
-Dialogue: 0,0:08:40.90,0:08:45.14,1080P-shss-90,,0,0,0,,但在你倾向于接近它的那一面 这些都是头孢土场
+Dialogue: 0,0:08:40.90,0:08:45.14,1080P-shss-90,,0,0,0,,但在你接近它的那一面 这些都是火山灰土形成的区域
 Dialogue: 0,0:08:45.36,0:08:48.72,1080P-sgbd-42,,0,0,0,,This is where the lava has been fountaining up in the air
 Dialogue: 0,0:08:45.36,0:08:48.72,1080P-shss-90,,0,0,0,,这就是熔岩在空中喷涌的地方
 Dialogue: 0,0:08:48.72,0:08:53.92,1080P-sgbd-42,,0,0,0,,and then hardening and then falling back down and it falls like snow.
 Dialogue: 0,0:08:48.72,0:08:53.92,1080P-shss-90,,0,0,0,,然后变硬 再落下 像雪一样落下
 Dialogue: 0,0:08:54.24,0:08:57.27,1080P-sgbd-42,,0,0,0,,And if you go off of a trail that is well worn.
-Dialogue: 0,0:08:54.24,0:08:57.27,1080P-shss-90,,0,0,0,,如果你离开了一条磨得很好的小路 你很快就会发现自己被挖到
+Dialogue: 0,0:08:54.24,0:08:57.27,1080P-shss-90,,0,0,0,,如果你离开了一条铺得很好的小路
 Dialogue: 0,0:08:57.27,0:09:05.31,1080P-sgbd-42,,0,0,0,,You can very quickly find yourself digging into like two or three feet of basically loosely bound rock
-Dialogue: 0,0:08:57.27,0:09:05.31,1080P-shss-90,,0,0,0,,你很快就会发现自己挖到了两三英尺高的松散的岩石上
+Dialogue: 0,0:08:57.27,0:09:05.31,1080P-shss-90,,0,0,0,,你很快就会发现自己来到了两三英尺高的松散的岩石上
 Dialogue: 0,0:09:05.76,0:09:11.12,1080P-sgbd-42,,0,0,0,,so tephra is basically between volcanic ash which is very fine
-Dialogue: 0,0:09:05.76,0:09:11.12,1080P-shss-90,,0,0,0,,因此 头层岩基本上是介于火山灰和火山弹之间 前者非常细小
+Dialogue: 0,0:09:05.76,0:09:11.12,1080P-shss-90,,0,0,0,,火山灰土基本上是介于火山灰和火山弹之间 前者非常细小
 Dialogue: 0,0:09:11.12,0:09:14.80,1080P-sgbd-42,,0,0,0,,and volcanic bombs which are like things the size of your fist.
 Dialogue: 0,0:09:11.12,0:09:14.80,1080P-shss-90,,0,0,0,,和火山弹 就像你拳头大小的东西
 Dialogue: 0,0:09:14.80,0:09:18.39,1080P-sgbd-42,,0,0,0,,These are bits of gravel bits of other material.
@@ -329,13 +329,13 @@ Dialogue: 0,0:09:37.20,0:09:40.14,1080P-shss-90,,0,0,0,,值得庆幸的是 这�
 Dialogue: 0,0:09:40.15,0:09:43.89,1080P-sgbd-42,,0,0,0,,Just a lot of properties destroyed and carnivorous plants.
 Dialogue: 0,0:09:40.15,0:09:43.89,1080P-shss-90,,0,0,0,,只是有很多财产被毁 还有多肉植物
 Dialogue: 0,0:09:44.72,0:09:48.32,1080P-sgbd-42,,0,0,0,,Three years on from the eruption there's still a lot of heat here.
-Dialogue: 0,0:09:44.72,0:09:48.32,1080P-shss-90,,0,0,0,,喷发三年后 这里仍然有很多热量
+Dialogue: 0,0:09:44.72,0:09:48.32,1080P-shss-90,,0,0,0,,喷发三年后 这里仍然很热
 Dialogue: 0,0:09:48.38,0:09:51.97,1080P-sgbd-42,,0,0,0,,And a lot of that is visible because it's very wet.
-Dialogue: 0,0:09:48.38,0:09:51.97,1080P-shss-90,,0,0,0,,因为这里非常潮湿 所以很多都是可见的
+Dialogue: 0,0:09:48.38,0:09:51.97,1080P-shss-90,,0,0,0,,因为这里非常潮湿 所以可以清楚的看出来
 Dialogue: 0,0:09:52.00,0:09:55.29,1080P-sgbd-42,,0,0,0,,The rain comes and it seeps into the ground
 Dialogue: 0,0:09:52.00,0:09:55.29,1080P-shss-90,,0,0,0,,雨水来到这里 渗入地下
 Dialogue: 0,0:09:55.34,0:09:58.55,1080P-sgbd-42,,0,0,0,,and then comes out in steam vents all over the place.
-Dialogue: 0,0:09:55.34,0:09:58.55,1080P-shss-90,,0,0,0,,然后在各地的蒸汽口中冒出来
+Dialogue: 0,0:09:55.34,0:09:58.55,1080P-shss-90,,0,0,0,,然后从各处蒸汽口中冒出来
 Dialogue: 0,0:09:59.27,0:10:03.20,1080P-sgbd-42,,0,0,0,,This is a nice aerial video from the US geological survey.
 Dialogue: 0,0:09:59.27,0:10:03.20,1080P-shss-90,,0,0,0,,这是美国地质调查局提供的一个很好的航拍视频
 Dialogue: 0,0:10:03.20,0:10:04.56,1080P-sgbd-42,,0,0,0,,It's a little old now
@@ -351,7 +351,7 @@ Dialogue: 0,0:10:18.39,0:10:22.00,1080P-shss-90,,0,0,0,,你可以看到 它有�
 Dialogue: 0,0:10:22.00,0:10:23.83,1080P-sgbd-42,,0,0,0,,The lava would flow out one side
 Dialogue: 0,0:10:22.00,0:10:23.83,1080P-shss-90,,0,0,0,,熔岩会从一边流出来
 Dialogue: 0,0:10:23.83,0:10:29.76,1080P-sgbd-42,,0,0,0,,and on the other side it would just land and weld itself into a very large structure
-Dialogue: 0,0:10:23.83,0:10:29.76,1080P-shss-90,,0,0,0,,在另一边 熔岩会降落并焊接成一个非常大的结构
+Dialogue: 0,0:10:23.83,0:10:29.76,1080P-shss-90,,0,0,0,,在另一边 熔岩会触地并形成一个非常大的结构
 Dialogue: 0,0:10:29.81,0:10:33.62,1080P-sgbd-42,,0,0,0,,and that's what people are climbing up to get a look inside this.
 Dialogue: 0,0:10:29.81,0:10:33.62,1080P-shss-90,,0,0,0,,这就是人们爬上去看里面的东西
 Dialogue: 0,0:10:34.95,0:10:37.50,1080P-sgbd-42,,0,0,0,,This is absolutely wild.
@@ -361,13 +361,13 @@ Dialogue: 0,0:10:39.76,0:10:46.65,1080P-shss-90,,0,0,0,,我的意思是听着 �
 Dialogue: 0,0:10:49.04,0:10:53.44,1080P-sgbd-42,,0,0,0,,And I mean odds are national parks aren't going to let me on this.
 Dialogue: 0,0:10:49.04,0:10:53.44,1080P-shss-90,,0,0,0,,我的意思是 国家公园有可能不会让我进入这个地方
 Dialogue: 0,0:10:56.00,0:10:59.59,1080P-sgbd-42,,0,0,0,,This is probably wild.
-Dialogue: 0,0:10:56.00,0:10:59.59,1080P-shss-90,,0,0,0,,这可能是野生的
+Dialogue: 0,0:10:56.00,0:10:59.59,1080P-shss-90,,0,0,0,,这可能是原始的
 Dialogue: 0,0:11:04.88,0:11:05.87,1080P-sgbd-42,,0,0,0,,This is it.
-Dialogue: 0,0:11:04.88,0:11:05.87,1080P-shss-90,,0,0,0,,这就是它
+Dialogue: 0,0:11:04.88,0:11:05.87,1080P-shss-90,,0,0,0,,就是这儿
 Dialogue: 0,0:11:07.83,0:11:10.97,1080P-sgbd-42,,0,0,0,,That's the actual crater down there.
-Dialogue: 0,0:11:07.83,0:11:10.97,1080P-shss-90,,0,0,0,,这就是下面的实际火山口
+Dialogue: 0,0:11:07.83,0:11:10.97,1080P-shss-90,,0,0,0,,这就是下面的 实际的火山口
 Dialogue: 0,0:11:13.12,0:11:14.72,1080P-sgbd-42,,0,0,0,,They had lava in there.
-Dialogue: 0,0:11:13.12,0:11:14.72,1080P-shss-90,,0,0,0,,他们有熔岩在那里
+Dialogue: 0,0:11:13.12,0:11:14.72,1080P-shss-90,,0,0,0,,还有熔岩在那里
 Dialogue: 0,0:11:14.86,0:11:17.67,1080P-sgbd-42,,0,0,0,,As it happens we reached the top around sunset
 Dialogue: 0,0:11:14.86,0:11:17.67,1080P-shss-90,,0,0,0,,碰巧的是 我们在日落时分到达了山顶
 Dialogue: 0,0:11:18.08,0:11:21.60,1080P-sgbd-42,,0,0,0,,and the light was still good enough to see the structure inside.
@@ -377,7 +377,7 @@ Dialogue: 0,0:11:21.60,0:11:23.68,1080P-shss-90,,0,0,0,,看到所有不同的颜
 Dialogue: 0,0:11:23.68,0:11:28.80,1080P-sgbd-42,,0,0,0,,Also see that the the floor has originally it was liquid lava
 Dialogue: 0,0:11:23.68,0:11:28.80,1080P-shss-90,,0,0,0,,还可以看到 地板原本是液态熔岩
 Dialogue: 0,0:11:28.80,0:11:32.73,1080P-sgbd-42,,0,0,0,,but it had frozen up and it actually collapsed in the middle.
-Dialogue: 0,0:11:28.80,0:11:32.73,1080P-shss-90,,0,0,0,,但它已经冻结了 它实际上在中间塌陷了
+Dialogue: 0,0:11:28.80,0:11:32.73,1080P-shss-90,,0,0,0,,但它已经凝固了 它实际上在中间塌陷了
 Dialogue: 0,0:11:32.95,0:11:34.88,1080P-sgbd-42,,0,0,0,,That's quite common with lava lakes
 Dialogue: 0,0:11:32.95,0:11:34.88,1080P-shss-90,,0,0,0,,这在熔岩湖中是很常见的
 Dialogue: 0,0:11:34.91,0:11:37.20,1080P-sgbd-42,,0,0,0,,because as the lava drains out underneath
@@ -413,21 +413,21 @@ Dialogue: 0,0:12:31.58,0:12:37.27,1080P-shss-90,,0,0,0,,如果你往下游看 �
 Dialogue: 0,0:12:37.27,0:12:40.75,1080P-sgbd-42,,0,0,0,,It kind of looks like sheets that have been draped over the landscape
 Dialogue: 0,0:12:37.27,0:12:40.75,1080P-shss-90,,0,0,0,,它看起来就像被覆盖在景观上的片状物
 Dialogue: 0,0:12:41.20,0:12:43.90,1080P-sgbd-42,,0,0,0,,and that has flowed over the tephra fields.
-Dialogue: 0,0:12:41.20,0:12:43.90,1080P-shss-90,,0,0,0,,并流过了头绪区
+Dialogue: 0,0:12:41.20,0:12:43.90,1080P-shss-90,,0,0,0,,并流过了火山灰土区
 Dialogue: 0,0:12:43.94,0:12:49.79,1080P-sgbd-42,,0,0,0,,Now the tephra tends to only get formed when there's a lot of lava spraying up in the air
-Dialogue: 0,0:12:43.94,0:12:49.79,1080P-shss-90,,0,0,0,,现在 只有当大量的熔岩喷到空中时 才会形成头盖骨
+Dialogue: 0,0:12:43.94,0:12:49.79,1080P-shss-90,,0,0,0,,现在 只有当大量的熔岩喷到空中时 才会形成火山灰土
 Dialogue: 0,0:12:50.16,0:12:52.95,1080P-sgbd-42,,0,0,0,,and it can be laid out uphill against gravity
-Dialogue: 0,0:12:50.16,0:12:52.95,1080P-shss-90,,0,0,0,,而且它可以在上坡上逆着地心引力铺设
+Dialogue: 0,0:12:50.16,0:12:52.95,1080P-shss-90,,0,0,0,,而且它可以在上坡上逆着引力形成
 Dialogue: 0,0:12:52.95,0:12:56.48,1080P-sgbd-42,,0,0,0,,whereas the liquid lava it will flow downhill.
-Dialogue: 0,0:12:52.95,0:12:56.48,1080P-shss-90,,0,0,0,,而液态熔岩则会流向山下
+Dialogue: 0,0:12:52.95,0:12:56.48,1080P-shss-90,,0,0,0,, 液态熔岩则会流向山下
 Dialogue: 0,0:12:56.48,0:13:00.07,1080P-sgbd-42,,0,0,0,,It will cover any tephra that's been blown out early on
-Dialogue: 0,0:12:56.48,0:13:00.07,1080P-shss-90,,0,0,0,,它将覆盖任何早期被吹出的头绪
+Dialogue: 0,0:12:56.48,0:13:00.07,1080P-shss-90,,0,0,0,,它将覆盖所有早期被喷出的火山灰土
 Dialogue: 0,0:13:00.07,0:13:06.32,1080P-sgbd-42,,0,0,0,,and it will continue to flow long after the pressure drops below what's required to create lava fountains.
-Dialogue: 0,0:13:00.07,0:13:06.32,1080P-shss-90,,0,0,0,,而且在压力下降到创造熔岩喷泉所需的程度之后 它还会继续流动
+Dialogue: 0,0:13:00.07,0:13:06.32,1080P-shss-90,,0,0,0,,而且在压力下降到熔岩喷泉所需的程度之后  它还会继续流动
 Dialogue: 0,0:13:06.32,0:13:12.06,1080P-sgbd-42,,0,0,0,,So that's why you've got different geology on both sides of this structure
-Dialogue: 0,0:13:06.32,0:13:12.06,1080P-shss-90,,0,0,0,,所以这就是为什么你在这个结构的两边有不同的地质情况
+Dialogue: 0,0:13:06.32,0:13:12.06,1080P-shss-90,,0,0,0,,所以这就是为什么在这个结构 的两边有不同的地质情况
 Dialogue: 0,0:13:12.32,0:13:18.80,1080P-sgbd-42,,0,0,0,,and off to the west there was another group of fissures that were evidenced by their steam emissions.
-Dialogue: 0,0:13:12.32,0:13:18.80,1080P-shss-90,,0,0,0,,在西边 还有一组裂缝 它们的蒸汽排放可以证明这一点
+Dialogue: 0,0:13:12.32,0:13:18.80,1080P-shss-90,,0,0,0,,在西边 还有一组熔岩裂缝 它们滚滚排放出的蒸汽可以证明这一点
 Dialogue: 0,0:13:18.80,0:13:23.12,1080P-sgbd-42,,0,0,0,,Also thanks to careful planning when we got up to the top it was sunset.
 Dialogue: 0,0:13:18.80,0:13:23.12,1080P-shss-90,,0,0,0,,另外 由于精心策划 当我们登上山顶时 已是日落时分
 Dialogue: 0,0:13:23.12,0:13:25.60,1080P-sgbd-42,,0,0,0,,And it was a spectacular sunset.
@@ -441,7 +441,7 @@ Dialogue: 0,0:13:32.39,0:13:39.06,1080P-shss-90,,0,0,0,,一个最近形成的地
 Dialogue: 0,0:13:39.88,0:13:42.15,1080P-sgbd-42,,0,0,0,,Now returning to the top of Kilauea
 Dialogue: 0,0:13:39.88,0:13:42.15,1080P-shss-90,,0,0,0,,现在回到基拉韦厄的顶部
 Dialogue: 0,0:13:42.39,0:13:48.39,1080P-sgbd-42,,0,0,0,,as the eruption in 2018 drained most of the magma from the mountain the Caldera collapsed
-Dialogue: 0,0:13:42.39,0:13:48.39,1080P-shss-90,,0,0,0,,由于2018年的火山爆发耗尽了山上的大部分岩浆 破火山口坍塌了
+Dialogue: 0,0:13:42.39,0:13:48.39,1080P-shss-90,,0,0,0,,由于2018年的火山爆发耗尽了大部分岩浆 原先的火山口坍塌了
 Dialogue: 0,0:13:48.39,0:13:52.36,1080P-sgbd-42,,0,0,0,,and water began to come back in from leaking in through the ground
 Dialogue: 0,0:13:48.39,0:13:52.36,1080P-shss-90,,0,0,0,,水开始从地面渗入 重新流入
 Dialogue: 0,0:13:52.42,0:13:56.26,1080P-sgbd-42,,0,0,0,,and we had a lake farm which was very chemically rich.
@@ -451,7 +451,7 @@ Dialogue: 0,0:13:56.63,0:14:01.27,1080P-shss-90,,0,0,0,,而在2020年底 一个�
 Dialogue: 0,0:14:01.27,0:14:02.72,1080P-sgbd-42,,0,0,0,,This was actually quite surprising
 Dialogue: 0,0:14:01.27,0:14:02.72,1080P-shss-90,,0,0,0,,这实际上是相当令人惊讶的
 Dialogue: 0,0:14:02.76,0:14:07.63,1080P-sgbd-42,,0,0,0,,because having so much magma drain out of the mountain it wasn't clear there'd be any reserves
-Dialogue: 0,0:14:02.76,0:14:07.63,1080P-shss-90,,0,0,0,,因为有这么多的岩浆从山上流出来 并不清楚会有什么储备
+Dialogue: 0,0:14:02.76,0:14:07.63,1080P-shss-90,,0,0,0,,因为有这么多的岩浆从山上流出来 本以为并没有更多的储备
 Dialogue: 0,0:14:07.66,0:14:10.63,1080P-sgbd-42,,0,0,0,,and when my wife planned a vacation for June
 Dialogue: 0,0:14:07.66,0:14:10.63,1080P-shss-90,,0,0,0,,当我的妻子计划在6月休假时
 Dialogue: 0,0:14:10.63,0:14:14.95,1080P-sgbd-42,,0,0,0,,I was really hopeful that I was going to see some more lava flowing on the island
@@ -459,7 +459,7 @@ Dialogue: 0,0:14:10.63,0:14:14.95,1080P-shss-90,,0,0,0,,我真的希望能在岛
 Dialogue: 0,0:14:14.95,0:14:20.80,1080P-sgbd-42,,0,0,0,,and as luck would have it, yeah the magma basically stopped flowing
 Dialogue: 0,0:14:14.95,0:14:20.80,1080P-shss-90,,0,0,0,,但幸运的是 岩浆基本上停止了流动
 Dialogue: 0,0:14:20.80,0:14:23.92,1080P-sgbd-42,,0,0,0,,and the crater lake solidified in maze.
-Dialogue: 0,0:14:20.80,0:14:23.92,1080P-shss-90,,0,0,0,,和火山口湖在迷宫中凝固
+Dialogue: 0,0:14:20.80,0:14:23.92,1080P-shss-90,,0,0,0,,和火山口湖在不规则的情况下凝固
 Dialogue: 0,0:14:23.92,0:14:25.68,1080P-sgbd-42,,0,0,0,,I missed it by weeks.
 Dialogue: 0,0:14:23.92,0:14:25.68,1080P-shss-90,,0,0,0,,我错过了几个星期的时间
 Dialogue: 0,0:14:25.72,0:14:28.08,1080P-sgbd-42,,0,0,0,,it wasn't even looking that hot when I got there.
