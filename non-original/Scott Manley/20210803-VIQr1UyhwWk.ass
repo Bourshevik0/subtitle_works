@@ -167,7 +167,7 @@ Dialogue: 0,0:04:33.92,0:04:37.06,1080P-shss-90,,0,0,0,,那是世界氙气市场
 Dialogue: 0,0:04:37.10,0:04:40.38,1080P-sgbd-42,,0,0,0,,who would probably push the price even higher if they wanted to do that.
 Dialogue: 0,0:04:37.10,0:04:40.38,1080P-shss-90,,0,0,0,,如果他们想这样做 他们可能会把氙气的价格推得更高
 Dialogue: 0,0:04:40.78,0:04:44.37,1080P-sgbd-42,,0,0,0,,So the fact that they're working with krypton is critical.
-Dialogue: 0,0:04:40.78,0:04:44.37,1080P-shss-90,,0,0,0,,因此 他们在氪上的工作是至关重要的
+Dialogue: 0,0:04:40.78,0:04:44.37,1080P-shss-90,,0,0,0,,因此 对氪的使用是至关重要的
 Dialogue: 0,0:04:45.22,0:04:49.76,1080P-sgbd-42,,0,0,0,,Anyway those thrusters will be very important in bringing the satellites up to their final orbit
 Dialogue: 0,0:04:45.22,0:04:49.76,1080P-shss-90,,0,0,0,,总之 这些推进器对于将卫星带入其最终轨道非常重要
 Dialogue: 0,0:04:49.81,0:04:51.75,1080P-sgbd-42,,0,0,0,,but there's other tricks that they have to use
@@ -225,7 +225,7 @@ Dialogue: 0,0:06:27.94,0:06:33.09,1080P-shss-90,,0,0,0,,所以这就是你如何
 Dialogue: 0,0:06:33.34,0:06:37.44,1080P-sgbd-42,,0,0,0,,Normally orbital plane changes are very expensive in terms of propellant.
 Dialogue: 0,0:06:33.34,0:06:37.44,1080P-shss-90,,0,0,0,,通常情况下 轨道平面变化所消耗的推进剂是非常昂贵的
 Dialogue: 0,0:06:37.58,0:06:43.32,1080P-sgbd-42,,0,0,0,,To go from one plane to the next takes about 500 meters per second of delta v at these altitudes.
-Dialogue: 0,0:06:37.58,0:06:43.32,1080P-shss-90,,0,0,0,,在这些高度上 从一个平面到下一个平面上需要大约500米每秒的DV(速度增量)
+Dialogue: 0,0:06:37.58,0:06:43.32,1080P-shss-90,,0,0,0,,{\fs77}在这些高度上 从一个平面到下一个平面上需要大约500米每秒的DV(速度增量)
 Dialogue: 0,0:06:43.68,0:06:46.96,1080P-sgbd-42,,0,0,0,,To raise the orbit takes about 170
 Dialogue: 0,0:06:43.68,0:06:46.96,1080P-shss-90,,0,0,0,,而提升轨道需要大约170米每秒的DV
 Dialogue: 0,0:06:47.02,0:06:51.19,1080P-sgbd-42,,0,0,0,,so this is three times more expensive to do this using propellant
