@@ -22,6 +22,45 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.91,0:00:10.91,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Why The New Movie 'Stowaway' Uses A Very Clever Spacecraft Design To Go To Mars.\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/WCwXJMVVdck\N原视频发布日期：20210330\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:03:46.23,0:03:53.95,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}阿金纳目标飞行器(Agena Target Vehicle or ATV)\N是NASA在双子星计划期间基于阿金纳D火箭上面级开发的无人航天器
+Dialogue: 0,0:05:29.07,0:05:35.52,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}发现号(Discovery One) 电影《2001太空漫游》中虚构的飞船
+Dialogue: 0,0:10:09.39,0:10:13.43,1080P-sgsm-50,,0,0,0,,{\bord0\fn更纱黑体 SC\b1\fs75\an5\pos(960,580)}许珀里翁转移方案
+Dialogue: 0,0:10:09.39,0:10:14.39,1080P-sgsm-50,,0,0,0,,{\bord0\an8\pos(960,90)}这是我为概念艺术做的{\i1}宣传视频{\i0}
+Dialogue: 0,0:10:13.50,0:10:16.83,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\fs75\pos(1060,678)}火星循环轨道居住舱
+Dialogue: 0,0:10:16.95,0:10:23.95,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,70,10,70,0,500)}沃尔特·霍利斯特(Walter Hollister) 麻省理工航空航天系教授
+Dialogue: 0,0:10:16.90,0:10:20.84,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,850)}在深空 轨道对准地球
+Dialogue: 0,0:10:21.04,0:10:24.97,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}飞掠地球的双曲线轨道
+Dialogue: 0,0:10:26.34,0:10:30.28,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}翠鸟运载火箭
+Dialogue: 0,0:10:34.75,0:10:38.69,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}高速度增量的助推器系统
+Dialogue: 0,0:10:42.73,0:10:46.66,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}助推器分离
+Dialogue: 0,0:10:48.33,0:10:52.27,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}主发动机关机并级间分离
+Dialogue: 0,0:10:54.87,0:10:58.34,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}进入轨道
+Dialogue: 0,0:10:58.57,0:11:02.51,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}计算交会
+Dialogue: 0,0:11:02.78,0:11:05.92,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}交会点火
+Dialogue: 0,0:11:07.98,0:11:11.92,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}消除相对速度的点火
+Dialogue: 0,0:11:12.96,0:11:16.89,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}整流罩分离
+Dialogue: 0,0:11:23.83,0:11:27.77,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}调换方向并对接
+Dialogue: 0,0:11:28.30,0:11:32.18,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}取出模块
+Dialogue: 0,0:11:32.24,0:11:36.18,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}进近并消除相对速度
+Dialogue: 0,0:11:38.75,0:11:42.69,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}对接新模块
+Dialogue: 0,0:11:43.29,0:11:47.22,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}自旋并扩展
+Dialogue: 0,0:11:51.13,0:11:55.06,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}乘员开始承受旅程中的重力
+Dialogue: 0,0:11:55.70,0:11:59.64,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,850)}长时间任务中的重力是最好的奢侈品
+Dialogue: 0,0:12:03.17,0:12:07.11,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}推进段是平衡物
+Dialogue: 0,0:12:07.18,0:12:11.11,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,850)}能源和通信模块处在中心位置的稳定节点上
+Dialogue: 0,0:12:11.18,0:12:15.12,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}舒适的居住舱段
+Dialogue: 0,0:12:15.22,0:12:19.16,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}居住舱前往火星的轨道
+Dialogue: 0,0:12:19.42,0:12:24.73,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,850)}在100天的转移后 消旋居住舱并分离
+Dialogue: 0,0:12:26.73,0:12:30.67,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}进行轨道修正 前往火星
+Dialogue: 0,0:12:31.83,0:12:35.77,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}准备着陆火星
+Dialogue: 0,0:12:39.31,0:12:43.25,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}剧烈的空气刹车
+Dialogue: 0,0:12:48.08,0:12:52.02,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}展开着陆腿
+Dialogue: 0,0:12:52.66,0:12:56.59,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}动力下降段
+Dialogue: 0,0:12:58.73,0:13:02.67,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}前往你的基地
+Dialogue: 0,0:13:03.10,0:13:07.04,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,850)}抵达的乘员不需要受到长时间失重的影响
+Dialogue: 0,0:13:08.14,0:13:12.07,1080P-sgsm-50,,0,0,0,,{\fn更纱黑体 SC\b1\an9\fs75\pos(1610,680)}准备度过一个船新的火星日
+Dialogue: 0,0:13:13.94,0:13:17.71,1080P-sgsm-50,,0,0,0,,{\bord0\fn更纱黑体 SC\b1\fs75\an5\pos(960,580)}许珀里翁
 Dialogue: 0,0:00:03.91,0:00:05.60,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:03.91,0:00:05.60,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.60,0:00:09.01,1080P-sgbd-42,,0,0,0,,In a few weeks a science fiction movie is getting released
@@ -49,7 +88,7 @@ Dialogue: 0,0:00:39.12,0:00:40.78,1080P-shss-90,,0,0,0,,我只是在互联网上
 Dialogue: 0,0:00:41.64,0:00:46.19,1080P-sgbd-42,,0,0,0,,but I do frequently point out mistakes in science fiction movies
 Dialogue: 0,0:00:41.64,0:00:46.19,1080P-shss-90,,0,0,0,,但我确实经常指出科幻电影中的错误
 Dialogue: 0,0:00:46.22,0:00:51.03,1080P-sgbd-42,,0,0,0,,and yeah on my twitters I will suggest how they could have been fixed
-Dialogue: 0,0:00:46.22,0:00:51.03,1080P-shss-90,,0,0,0,,是的 在我的推特上 我将会建议如何修复这些错误
+Dialogue: 0,0:00:46.22,0:00:51.03,1080P-shss-90,,0,0,0,,是的 在我的推特上 我会建议如何修复这些错误
 Dialogue: 0,0:00:51.03,0:00:54.14,1080P-sgbd-42,,0,0,0,,if only the producers had gone and asked me.
 Dialogue: 0,0:00:51.03,0:00:54.14,1080P-shss-90,,0,0,0,,如果制片人去问我的话
 Dialogue: 0,0:00:54.18,0:00:56.38,1080P-sgbd-42,,0,0,0,,So now they asked me.
@@ -99,7 +138,7 @@ Dialogue: 0,0:02:08.17,0:02:13.28,1080P-shss-90,,0,0,0,,它有三个宇航员和
 Dialogue: 0,0:02:13.28,0:02:17.54,1080P-sgbd-42,,0,0,0,,and of course there's not enough oxygen to keep the extra passenger alive
 Dialogue: 0,0:02:13.28,0:02:17.54,1080P-shss-90,,0,0,0,,而当然 航天器没有足够的氧气来维持额外乘客的生命
 Dialogue: 0,0:02:17.83,0:02:22.40,1080P-sgbd-42,,0,0,0,,which means the crew is going to be faced with some really tough decisions
-Dialogue: 0,0:02:17.83,0:02:22.40,1080P-shss-90,,0,0,0,,这意味着船员们将面临一些非常艰难的决定
+Dialogue: 0,0:02:17.83,0:02:22.40,1080P-shss-90,,0,0,0,,这意味着乘员们将面临一些非常艰难的决定
 Dialogue: 0,0:02:22.40,0:02:24.94,1080P-sgbd-42,,0,0,0,,that will really stretch their acting skills.
 Dialogue: 0,0:02:22.40,0:02:24.94,1080P-shss-90,,0,0,0,,这将使演员们的演技得到真正的发挥
 Dialogue: 0,0:02:25.75,0:02:32.85,1080P-sgbd-42,,0,0,0,,Now anybody that knows science fiction will recognize the parallels with the classic story the cold equations.
@@ -142,16 +181,14 @@ Dialogue: 0,0:03:42.20,0:03:46.19,1080P-sgbd-42,,0,0,0,,and this idea of joining
 Dialogue: 0,0:03:42.20,0:03:46.19,1080P-shss-90,,0,0,0,,而像这样连接航天器 并使其旋转的想法是一个真实的概念
 Dialogue: 0,0:03:46.23,0:03:53.95,1080P-sgbd-42,,0,0,0,,In fact there was a test of tethers in orbit with a Gemini 11 and the Agena Target Vehicle.
 Dialogue: 0,0:03:46.23,0:03:53.95,1080P-shss-90,,0,0,0,,事实上 双子座11号和阿金纳目标飞行器曾在轨道上进行过系绳测试
-Dialogue: 0,0:03:46.23,0:03:53.95,1080P-sgsm-50,,0,0,0,,阿金纳目标飞行器(Agena Target Vehicle or ATV)
-Dialogue: 0,0:03:46.23,0:03:53.95,1080P-sgsm-50,,0,0,0,,是NASA在双子星计划期间基于阿金纳D火箭上面级开发的无人航天器
 Dialogue: 0,0:03:54.00,0:03:56.73,1080P-sgbd-42,,0,0,0,,They docked them together then they undocked and they were tethered.
-Dialogue: 0,0:03:54.00,0:03:56.73,1080P-shss-90,,0,0,0,,他们把它们对接在一起 然后解除对接 并且它们系绳被拴住了
+Dialogue: 0,0:03:54.00,0:03:56.73,1080P-shss-90,,0,0,0,,他们把它们对接在一起 然后解除对接 并且它们的系绳被拴住了
 Dialogue: 0,0:03:57.16,0:03:59.02,1080P-sgbd-42,,0,0,0,,Now originally what they wanted to show
 Dialogue: 0,0:03:57.16,0:03:59.02,1080P-shss-90,,0,0,0,,那么 他们最初想展示的是
 Dialogue: 0,0:03:59.06,0:04:01.28,1080P-sgbd-42,,0,0,0,,was that they could keep the Gemini passively stable
 Dialogue: 0,0:03:59.06,0:04:01.28,1080P-shss-90,,0,0,0,,是他们可以保持双子座号被动稳定
 Dialogue: 0,0:04:01.28,0:04:06.87,1080P-sgbd-42,,0,0,0,,by having the Agena down near the earth and the Gemini up here
-Dialogue: 0,0:04:01.28,0:04:06.87,1080P-shss-90,,0,0,0,,通过让阿吉娜号在下方靠近地球的一侧 并让双子座号在其上方
+Dialogue: 0,0:04:01.28,0:04:06.87,1080P-shss-90,,0,0,0,,通过让阿金纳在下方靠近地球的一侧 并让双子座号在其上方
 Dialogue: 0,0:04:06.87,0:04:11.89,1080P-sgbd-42,,0,0,0,,but orbital mechanics wouldn't cooperate with this idea and the tether kept on going slack.
 Dialogue: 0,0:04:06.87,0:04:11.89,1080P-shss-90,,0,0,0,,但轨道力学不会让这种想法实现 并且系绳一直在松弛
 Dialogue: 0,0:04:12.23,0:04:17.51,1080P-sgbd-42,,0,0,0,,So instead they showed that they could keep the tether taught by spinning the spacecraft
@@ -163,7 +200,7 @@ Dialogue: 0,0:04:20.38,0:04:23.49,1080P-shss-90,,0,0,0,,其产生的人造重力
 Dialogue: 0,0:04:23.71,0:04:25.73,1080P-sgbd-42,,0,0,0,,but it was enough to show the concept.
 Dialogue: 0,0:04:23.71,0:04:25.73,1080P-shss-90,,0,0,0,,但它足以展示这个概念
 Dialogue: 0,0:04:26.47,0:04:32.02,1080P-sgbd-42,,0,0,0,,So in stowaway this thing is scaled up to a multi-module space habitat
-Dialogue: 0,0:04:26.47,0:04:32.02,1080P-shss-90,,0,0,0,,因此 在《偷渡者》中 这个东西被放大为一个多模块的太空居留舱
+Dialogue: 0,0:04:26.47,0:04:32.02,1080P-shss-90,,0,0,0,,因此 在《偷渡者》中 这个东西被放大为一个多模块的太空居住舱
 Dialogue: 0,0:04:32.32,0:04:35.91,1080P-sgbd-42,,0,0,0,,with a booster as a counterweight hundreds of meters away
 Dialogue: 0,0:04:32.32,0:04:35.91,1080P-shss-90,,0,0,0,,其在数百米外有一个作为配重的助推器
 Dialogue: 0,0:04:36.80,0:04:39.88,1080P-sgbd-42,,0,0,0,,and the whole thing is rotating maybe a few times per minute.
@@ -198,7 +235,6 @@ Dialogue: 0,0:05:26.47,0:05:29.07,1080P-sgbd-42,,0,0,0,,Now for the movie 2001
 Dialogue: 0,0:05:26.47,0:05:29.07,1080P-shss-90,,0,0,0,,那么在电影《2001》中
 Dialogue: 0,0:05:29.07,0:05:35.52,1080P-sgbd-42,,0,0,0,,they actually built a 27 ton centrifuge set for the main bridge of the discovery
 Dialogue: 0,0:05:29.07,0:05:35.52,1080P-shss-90,,0,0,0,,他们实际上为发现号的主桥建造了一个27吨的离心机组
-Dialogue: 0,0:05:29.07,0:05:35.52,1080P-sgsm-50,,0,0,0,,发现号(Discovery One) 电影《2001太空漫游》中虚构的飞船
 Dialogue: 0,0:05:35.52,0:05:38.45,1080P-sgbd-42,,0,0,0,,which this whole thing could be rotated as they were shooting
 Dialogue: 0,0:05:35.52,0:05:38.45,1080P-shss-90,,0,0,0,,当他们拍摄时 这整个东西可以旋转
 Dialogue: 0,0:05:38.47,0:05:43.28,1080P-sgbd-42,,0,0,0,,and there's a couple of scenes in the movie where there's one actor walking around the bottom as it rotates
@@ -218,17 +254,17 @@ Dialogue: 0,0:06:01.02,0:06:03.66,1080P-shss-90,,0,0,0,,他一定会坚持要在
 Dialogue: 0,0:06:04.24,0:06:06.58,1080P-sgbd-42,,0,0,0,,But anyway yeah this costs a lot of money
 Dialogue: 0,0:06:04.24,0:06:06.58,1080P-shss-90,,0,0,0,,但无论如何 这要花很多钱
 Dialogue: 0,0:06:07.08,0:06:12.69,1080P-sgbd-42,,0,0,0,,but also from a scientific point of view the small ring also would need to rotate faster
-Dialogue: 0,0:06:07.08,0:06:12.69,1080P-shss-90,,0,0,0,,但从科学的角度来看 小环型装置也需要更快旋转
+Dialogue: 0,0:06:07.08,0:06:12.69,1080P-shss-90,,0,0,0,,但从科学的角度来看 小的环型装置也需要更快旋转
 Dialogue: 0,0:06:12.73,0:06:15.20,1080P-sgbd-42,,0,0,0,,and that actually causes problems with the crew.
-Dialogue: 0,0:06:12.73,0:06:15.20,1080P-shss-90,,0,0,0,,而这实际上会给船员带来问题
+Dialogue: 0,0:06:12.73,0:06:15.20,1080P-shss-90,,0,0,0,,而这实际上会给乘员带来问题
 Dialogue: 0,0:06:15.23,0:06:17.91,1080P-sgbd-42,,0,0,0,,They get dizzy because if they stand up and sit down
-Dialogue: 0,0:06:15.23,0:06:17.91,1080P-shss-90,,0,0,0,,因为如果他们站起来和坐下来 他们会感到头晕
+Dialogue: 0,0:06:15.23,0:06:17.91,1080P-shss-90,,0,0,0,,因为如果他们站起来和坐下去 他们会感到头晕
 Dialogue: 0,0:06:17.91,0:06:20.80,1080P-sgbd-42,,0,0,0,,the rotation actually changes between their heads and their feet
 Dialogue: 0,0:06:17.91,0:06:20.80,1080P-shss-90,,0,0,0,,旋转实际上在他们的头和他们的脚之间发生变化
 Dialogue: 0,0:06:20.84,0:06:23.05,1080P-sgbd-42,,0,0,0,,and that makes them gives them nausea.
 Dialogue: 0,0:06:20.84,0:06:23.05,1080P-shss-90,,0,0,0,,而这会让他们感到恶心
 Dialogue: 0,0:06:23.85,0:06:27.95,1080P-sgbd-42,,0,0,0,,So if you then said well why don't we scale up the radius of the habitat
-Dialogue: 0,0:06:23.85,0:06:27.95,1080P-shss-90,,0,0,0,,因此 如果你说 我们为什么不扩大居留舱的半径呢？
+Dialogue: 0,0:06:23.85,0:06:27.95,1080P-shss-90,,0,0,0,,因此 如果你说 我们为什么不扩大居住舱的半径呢？
 Dialogue: 0,0:06:27.97,0:06:30.23,1080P-sgbd-42,,0,0,0,,so you don't need to have curved sets and things like that
 Dialogue: 0,0:06:27.97,0:06:30.23,1080P-shss-90,,0,0,0,,这样你就不需要有弯曲的布景和类似的东西了
 Dialogue: 0,0:06:30.30,0:06:32.95,1080P-sgbd-42,,0,0,0,,and the rotation is slower and the human body is fine.
@@ -236,17 +272,17 @@ Dialogue: 0,0:06:30.30,0:06:32.95,1080P-shss-90,,0,0,0,,而且旋转的速度会
 Dialogue: 0,0:06:33.40,0:06:36.83,1080P-sgbd-42,,0,0,0,,That solves those problems but then you have the problem of explaining
 Dialogue: 0,0:06:33.40,0:06:36.83,1080P-shss-90,,0,0,0,,这就解决了这些问题 但是你又有一个问题 那就是如何解释
 Dialogue: 0,0:06:37.10,0:06:41.47,1080P-sgbd-42,,0,0,0,,why the crew is so small on this massive ring spacecraft
-Dialogue: 0,0:06:37.10,0:06:41.47,1080P-shss-90,,0,0,0,,为什么在这个巨大的环形航天器上 船员人数如此之少
+Dialogue: 0,0:06:37.10,0:06:41.47,1080P-shss-90,,0,0,0,,为什么在这个巨大的环形航天器上 乘员人数如此之少
 Dialogue: 0,0:06:41.86,0:06:45.73,1080P-sgbd-42,,0,0,0,,because having a small crew means a small number of cast members
-Dialogue: 0,0:06:41.86,0:06:45.73,1080P-shss-90,,0,0,0,,因为有少量的船员意味着有少量的演员
+Dialogue: 0,0:06:41.86,0:06:45.73,1080P-shss-90,,0,0,0,,因为有少量的乘员意味着有少量的演员
 Dialogue: 0,0:06:45.76,0:06:47.85,1080P-sgbd-42,,0,0,0,,but also from a storytelling perspective
 Dialogue: 0,0:06:45.76,0:06:47.85,1080P-shss-90,,0,0,0,,但从讲故事的角度来看
 Dialogue: 0,0:06:47.87,0:06:53.18,1080P-sgbd-42,,0,0,0,,it's much more plausible that if your crew is supposed to be three and you have one extra
-Dialogue: 0,0:06:47.87,0:06:53.18,1080P-shss-90,,0,0,0,,如果你的船员应该是三个人 而你却多了一个人 这就更有说服力了
+Dialogue: 0,0:06:47.87,0:06:53.18,1080P-shss-90,,0,0,0,,如果你的乘员应该是三个人 而你却多了一个人 这就更有说服力了
 Dialogue: 0,0:06:53.50,0:06:56.38,1080P-sgbd-42,,0,0,0,,that's a much bigger deal than if your crew is say 10.
-Dialogue: 0,0:06:53.50,0:06:56.38,1080P-shss-90,,0,0,0,,这比你的船员是10人 而你多了一个人的问题更大
+Dialogue: 0,0:06:53.50,0:06:56.38,1080P-shss-90,,0,0,0,,这比你的乘员是10人 而你多了一个人的问题更大
 Dialogue: 0,0:06:56.79,0:07:00.97,1080P-sgbd-42,,0,0,0,,I think an early version of the script actually had four crew members and a stowaway
-Dialogue: 0,0:06:56.79,0:07:00.97,1080P-shss-90,,0,0,0,,我记得实际上在剧本的早期版中 有四个船员和一个偷渡者
+Dialogue: 0,0:06:56.79,0:07:00.97,1080P-shss-90,,0,0,0,,我记得实际上在剧本的早期版中 有四个乘员和一个偷渡者
 Dialogue: 0,0:07:01.02,0:07:04.99,1080P-sgbd-42,,0,0,0,,and this was paired back to make the scenario more plausible.
 Dialogue: 0,0:07:01.02,0:07:04.99,1080P-shss-90,,0,0,0,,而为了使剧情更加合理 这部分配修改了
 Dialogue: 0,0:07:05.44,0:07:09.13,1080P-sgbd-42,,0,0,0,,So that's more or less how the writers came to this idea
@@ -260,7 +296,7 @@ Dialogue: 0,0:07:14.97,0:07:21.18,1080P-shss-90,,0,0,0,,此外 当这个设计�
 Dialogue: 0,0:07:21.35,0:07:25.03,1080P-sgbd-42,,0,0,0,,including a really cool set piece which we glimpse in the trailer
 Dialogue: 0,0:07:21.35,0:07:25.03,1080P-shss-90,,0,0,0,,包括我们在预告片中瞥见的一个非常酷的场景
 Dialogue: 0,0:07:25.25,0:07:29.59,1080P-sgbd-42,,0,0,0,,where the crew are in spacesuits climbing the cables between the modules.
-Dialogue: 0,0:07:25.25,0:07:29.59,1080P-shss-90,,0,0,0,,在片中 船员穿着宇航服在舱段之间的缆绳上攀爬
+Dialogue: 0,0:07:25.25,0:07:29.59,1080P-shss-90,,0,0,0,,在片中 乘员穿着宇航服在舱段之间的缆绳上攀爬
 Dialogue: 0,0:07:30.31,0:07:35.39,1080P-sgbd-42,,0,0,0,,Anyway I guess one contribution I can say that I did make was that
 Dialogue: 0,0:07:30.31,0:07:35.39,1080P-shss-90,,0,0,0,,总之 我想我可以说 有一个贡献确实是由我做出的
 Dialogue: 0,0:07:35.42,0:07:38.96,1080P-sgbd-42,,0,0,0,,I suggested in the design that they have a utility module in the middle
@@ -270,7 +306,7 @@ Dialogue: 0,0:07:38.96,0:07:42.80,1080P-shss-90,,0,0,0,,因为那里是旋转力
 Dialogue: 0,0:07:42.98,0:07:46.37,1080P-sgbd-42,,0,0,0,,so that's the best place to put your solar panels for your power generation.
 Dialogue: 0,0:07:42.98,0:07:46.37,1080P-shss-90,,0,0,0,,所以那里是放置太阳能板发电的最佳位置
 Dialogue: 0,0:07:47.03,0:07:53.31,1080P-sgbd-42,,0,0,0,,Anyway during my work on this I generated some of the first renderings of the design as a reference.
-Dialogue: 0,0:07:47.03,0:07:53.31,1080P-shss-90,,0,0,0,,总之 在我工作期间 我制作了一些设计的最初效果图作为参考
+Dialogue: 0,0:07:47.03,0:07:53.31,1080P-shss-90,,0,0,0,,总之 在我为此工作的期间 我制作了一些设计的最初效果图作为参考
 Dialogue: 0,0:07:53.33,0:07:56.08,1080P-sgbd-42,,0,0,0,,I used the power of Kerbal Space Program.
 Dialogue: 0,0:07:53.33,0:07:56.08,1080P-shss-90,,0,0,0,,我使用了坎巴拉太空计划的力量
 Dialogue: 0,0:07:56.08,0:08:00.71,1080P-sgbd-42,,0,0,0,,I literally threw a design together in a few minutes and sent it to Joe
@@ -292,7 +328,7 @@ Dialogue: 0,0:08:19.64,0:08:23.48,1080P-shss-90,,0,0,0,,而我写了一封很长
 Dialogue: 0,0:08:23.90,0:08:27.28,1080P-sgbd-42,,0,0,0,,We hear that they've just left Earth about 12 hours ago
 Dialogue: 0,0:08:23.90,0:08:27.28,1080P-shss-90,,0,0,0,,我们知道在故事中 他们在12小时前刚刚离开地球
 Dialogue: 0,0:08:27.34,0:08:33.60,1080P-sgbd-42,,0,0,0,,and with the crew in danger and the stowaway facing a two-year mission or death
-Dialogue: 0,0:08:27.34,0:08:33.60,1080P-shss-90,,0,0,0,,而船员处于危险之中 并且偷渡者面临两年的任务或死亡
+Dialogue: 0,0:08:27.34,0:08:33.60,1080P-shss-90,,0,0,0,,而乘员处于危险之中 并且偷渡者面临两年的任务或死亡
 Dialogue: 0,0:08:33.84,0:08:36.56,1080P-sgbd-42,,0,0,0,,surely it's better to just turn around and go home.
 Dialogue: 0,0:08:33.84,0:08:36.56,1080P-shss-90,,0,0,0,,理论上 肯定更好的办法是掉头回家
 Dialogue: 0,0:08:36.56,0:08:41.76,1080P-sgbd-42,,0,0,0,,And the simple answer to this is that they don't have the fuel to slow down and turn around.
@@ -310,19 +346,21 @@ Dialogue: 0,0:08:57.36,0:09:02.24,1080P-shss-90,,0,0,0,,但是一旦你到达火
 Dialogue: 0,0:09:02.26,0:09:05.46,1080P-sgbd-42,,0,0,0,,so a mission plan that was expecting to refuel at Mars
 Dialogue: 0,0:09:02.26,0:09:05.46,1080P-shss-90,,0,0,0,,所以一个期望在火星加油的任务计划
 Dialogue: 0,0:09:05.50,0:09:08.45,1080P-sgbd-42,,0,0,0,,might only have two kilometers per second  propellant on board.
-Dialogue: 0,0:09:05.50,0:09:08.45,1080P-shss-90,,0,0,0,,可能飞船上只有2公里每秒的推进剂
+Dialogue: 0,0:09:05.50,0:09:08.45,1080P-shss-90,,0,0,0,,飞船上可能只有2公里每秒的推进剂
 Dialogue: 0,0:09:08.71,0:09:10.49,1080P-sgbd-42,,0,0,0,,Therefore unable to turn around.
 Dialogue: 0,0:09:08.71,0:09:10.49,1080P-shss-90,,0,0,0,,因此它无法掉头
 Dialogue: 0,0:09:11.08,0:09:15.79,1080P-sgbd-42,,0,0,0,,As it happens the story ended up evolving to use a different type of transfer trajectory.
 Dialogue: 0,0:09:11.08,0:09:15.79,1080P-shss-90,,0,0,0,,碰巧的是 故事最后演变为使用不同类型的转移轨道
 Dialogue: 0,0:09:16.19,0:09:18.70,1080P-sgbd-42,,0,0,0,,The spacecraft is what's called a cycler
 Dialogue: 0,0:09:16.19,0:09:18.70,1080P-shss-90,,0,0,0,,该航天器是所谓的循环轨道太空船
-Dialogue: 0,0:09:18.95,0:09:25.35,1080P-sgbd-42,,0,0,0,,and that's a spacecraft which is on an orbit around the sun that regularly brings it past the earth and Mars.
-Dialogue: 0,0:09:18.95,0:09:25.35,1080P-shss-90,,0,0,0,,那是一个在围绕太阳的轨道上的航天器 其轨道会定期将它带过地球和火星
+Dialogue: 0,0:09:18.95,0:09:22.14,1080P-sgbd-42,,0,0,0,,and that's a spacecraft which is on an orbit around the sun
+Dialogue: 0,0:09:18.95,0:09:22.14,1080P-shss-90,,0,0,0,,那是一个在围绕太阳的轨道上的航天器
+Dialogue: 0,0:09:22.35,0:09:25.35,1080P-sgbd-42,,0,0,0,,that regularly brings it past the earth and Mars.
+Dialogue: 0,0:09:22.35,0:09:25.35,1080P-shss-90,,0,0,0,,其轨道会定期将它带过地球和火星
 Dialogue: 0,0:09:25.65,0:09:32.71,1080P-sgbd-42,,0,0,0,,The idea is that you have a large deep space accommodations in this big orbit and that thing never stops.
-Dialogue: 0,0:09:25.65,0:09:32.71,1080P-shss-90,,0,0,0,,该想法是 你在这个大轨道上有一个大型深空居住舱 而它永远不会停下
+Dialogue: 0,0:09:25.65,0:09:32.71,1080P-shss-90,,0,0,0,,该想法是 在这个大轨道上有一个大型深空居住舱 而它永远不会停下
 Dialogue: 0,0:09:33.07,0:09:37.60,1080P-sgbd-42,,0,0,0,,The crew who wants to travel from Earth to Mars they leave Earth on a very small spaceship
-Dialogue: 0,0:09:33.07,0:09:37.60,1080P-shss-90,,0,0,0,,想从地球前往火星的船员 他们会乘坐一个非常小的飞船离开地球
+Dialogue: 0,0:09:33.07,0:09:37.60,1080P-shss-90,,0,0,0,,想从地球前往火星的乘员 他们会乘坐一个非常小的飞船离开地球
 Dialogue: 0,0:09:37.60,0:09:43.25,1080P-sgbd-42,,0,0,0,,accelerate up to catch this dock with it and they live in comfort for a few months.
 Dialogue: 0,0:09:37.60,0:09:43.25,1080P-shss-90,,0,0,0,,加速追上这个居住舱并与之对接 然后他们在其中舒适地生活几个月
 Dialogue: 0,0:09:43.30,0:09:48.23,1080P-sgbd-42,,0,0,0,,And then when they get close to Mars they get back in their spaceship and leave and land on Mars
@@ -343,7 +381,6 @@ Dialogue: 0,0:10:12.74,0:10:16.95,1080P-sgbd-42,,0,0,0,,But the cycler concept i
 Dialogue: 0,0:10:12.74,0:10:16.95,1080P-shss-90,,0,0,0,,但一般来说 循环轨道的概念被认为起源于20世纪60年代
 Dialogue: 0,0:10:16.95,0:10:18.88,1080P-sgbd-42,,0,0,0,,with a guy called Walter Hollister
 Dialogue: 0,0:10:16.95,0:10:18.88,1080P-shss-90,,0,0,0,,由一个叫沃尔特·霍利斯特的人提出
-Dialogue: 0,0:10:16.95,0:10:18.88,1080P-sgsm-50,,0,0,0,,沃尔特-霍利斯特(Walter Hollister) 麻省理工航空航天系教授
 Dialogue: 0,0:10:19.18,0:10:22.23,1080P-sgbd-42,,0,0,0,,who looked at the cycler between Earth and Venus.
 Dialogue: 0,0:10:19.18,0:10:22.23,1080P-shss-90,,0,0,0,,他研究了地球和金星之间的循环轨道
 Dialogue: 0,0:10:22.52,0:10:26.22,1080P-sgbd-42,,0,0,0,,Now the downside to the cycler orbit is that it's more eccentric
@@ -355,7 +392,7 @@ Dialogue: 0,0:10:29.82,0:10:34.31,1080P-shss-90,,0,0,0,,但是 由于你只是�
 Dialogue: 0,0:10:34.51,0:10:38.54,1080P-sgbd-42,,0,0,0,,it actually turns out to be a net win in terms of the amount of mass you're moving around.
 Dialogue: 0,0:10:34.51,0:10:38.54,1080P-shss-90,,0,0,0,,就你所移动的质量而言 它实际上是划算的
 Dialogue: 0,0:10:38.87,0:10:43.60,1080P-sgbd-42,,0,0,0,,And of course this feeds into the reasons for why the crew can't just turn their ship around
-Dialogue: 0,0:10:38.87,0:10:43.60,1080P-shss-90,,0,0,0,,当然 这也是为什么船员不能把他们的飞船掉头
+Dialogue: 0,0:10:38.87,0:10:43.60,1080P-shss-90,,0,0,0,,当然 这也是为什么乘员不能把他们的飞船掉头
 Dialogue: 0,0:10:43.60,0:10:47.91,1080P-sgbd-42,,0,0,0,,and avoid making those literal life or death decisions.
 Dialogue: 0,0:10:43.60,0:10:47.91,1080P-shss-90,,0,0,0,,避免做出那些真正关乎生死决定的原因
 Dialogue: 0,0:10:48.48,0:10:54.53,1080P-sgbd-42,,0,0,0,,Now because the Earth-Mars transfer windows don't line up with the Mars-Earth windows
@@ -367,7 +404,7 @@ Dialogue: 0,0:10:58.72,0:11:01.52,1080P-shss-90,,0,0,0,,而另一个则是为返
 Dialogue: 0,0:11:02.00,0:11:06.41,1080P-sgbd-42,,0,0,0,,But two is actually just a lower limit for a fleet of cyclers.
 Dialogue: 0,0:11:02.00,0:11:06.41,1080P-shss-90,,0,0,0,,但两艘循环轨道太空船 实际上只是一个循环轨道船队的最小规模
 Dialogue: 0,0:11:06.45,0:11:09.46,1080P-sgbd-42,,0,0,0,,You might need even more if you need them.
-Dialogue: 0,0:11:06.45,0:11:09.46,1080P-shss-90,,0,0,0,,如果你需要的话 你可能还会需要更多
+Dialogue: 0,0:11:06.45,0:11:09.46,1080P-shss-90,,0,0,0,,如果你需要(更高频率)的话 你可能还会需要更多
 Dialogue: 0,0:11:10.31,0:11:13.53,1080P-sgbd-42,,0,0,0,,like one of the important features of a cycler orbit is that
 Dialogue: 0,0:11:10.31,0:11:13.53,1080P-shss-90,,0,0,0,,例如循环轨道的一个重要特点是
 Dialogue: 0,0:11:13.58,0:11:17.34,1080P-sgbd-42,,0,0,0,,they use gravity assists during close encounters with the earth
@@ -377,7 +414,7 @@ Dialogue: 0,0:11:17.73,0:11:23.46,1080P-shss-90,,0,0,0,,来扭转轨道 并确�
 Dialogue: 0,0:11:24.26,0:11:27.76,1080P-sgbd-42,,0,0,0,,And it needs to correct by a certain amount during this Earth encounter
 Dialogue: 0,0:11:24.26,0:11:27.76,1080P-shss-90,,0,0,0,,而在这个与地球的交会过程中 它需要进行一定的量修正
 Dialogue: 0,0:11:27.76,0:11:34.14,1080P-sgbd-42,,0,0,0,,and the closer to Earth you get, the more the correction is.
-Dialogue: 0,0:11:27.76,0:11:34.14,1080P-shss-90,,0,0,0,,而你离地球越近 需要修正量就越大
+Dialogue: 0,0:11:27.76,0:11:34.14,1080P-shss-90,,0,0,0,,而你离地球越近 需要的修正量就越大
 Dialogue: 0,0:11:34.75,0:11:37.83,1080P-sgbd-42,,0,0,0,,But sometimes the amount of correction you need is so big
 Dialogue: 0,0:11:34.75,0:11:37.83,1080P-shss-90,,0,0,0,,但有时你需要的修正量是如此之大
 Dialogue: 0,0:11:37.83,0:11:40.10,1080P-sgbd-42,,0,0,0,,that you you would actually end up inside the earth.
@@ -417,11 +454,11 @@ Dialogue: 0,0:12:38.96,0:12:41.38,1080P-shss-90,,0,0,0,,它大概已经服役几
 Dialogue: 0,0:12:41.43,0:12:42.62,1080P-sgbd-42,,0,0,0,,It's a lived-in vehicle.
 Dialogue: 0,0:12:41.43,0:12:42.62,1080P-shss-90,,0,0,0,,它是一个经过长期使用的载具
 Dialogue: 0,0:12:42.88,0:12:45.84,1080P-sgbd-42,,0,0,0,,It might even have started out as a zero-G habitat.
-Dialogue: 0,0:12:42.88,0:12:45.84,1080P-shss-90,,0,0,0,,它甚至可能一开始只是一个零重力的居留舱
+Dialogue: 0,0:12:42.88,0:12:45.84,1080P-shss-90,,0,0,0,,它甚至可能一开始只是一个零重力的居住舱
 Dialogue: 0,0:12:45.86,0:12:49.68,1080P-sgbd-42,,0,0,0,,And evolved over successive crews delivering new parts with each trip.
-Dialogue: 0,0:12:45.86,0:12:49.68,1080P-shss-90,,0,0,0,,然后连续有船员在每次任务中为它提供新的部件 使它不断发展
+Dialogue: 0,0:12:45.86,0:12:49.68,1080P-shss-90,,0,0,0,,然后连续有乘员在每次任务中为它提供新的部件 使它不断发展
 Dialogue: 0,0:12:50.05,0:12:52.21,1080P-sgbd-42,,0,0,0,,All these crews will have left their mark.
-Dialogue: 0,0:12:50.05,0:12:52.21,1080P-shss-90,,0,0,0,,所有这些船员都会留下他们的痕迹
+Dialogue: 0,0:12:50.05,0:12:52.21,1080P-shss-90,,0,0,0,,所有这些乘员都会留下他们的痕迹
 Dialogue: 0,0:12:52.26,0:12:54.07,1080P-sgbd-42,,0,0,0,,And if you look at the set design in the background
 Dialogue: 0,0:12:52.26,0:12:54.07,1080P-shss-90,,0,0,0,,如果你看一下预告片背景中的场景设计
 Dialogue: 0,0:12:54.10,0:12:59.26,1080P-sgbd-42,,0,0,0,,you can actually catch some clues as to these these cues I gave to them.
