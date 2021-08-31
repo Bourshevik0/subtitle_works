@@ -22,6 +22,15 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.00,0:00:11.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}What Does 'Weapons Grade' Mean\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/Cq1fGDWC3No\N原视频发布日期：20210129\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:00:17.17,0:00:24.17,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}比如Weapons Grade Waifus 一个专门卖各种二次元纸片人战术魔术贴 徽章之类的网站\Nwaifus 借自日语发音中的wife( ワイフ) 专指二次元制片人老婆
+Dialogue: 0,0:02:06.70,0:02:13.70,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}世界上第一个核反应堆 使用自然中未浓缩的铀
+Dialogue: 0,0:03:40.34,0:03:47.71,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}紧凑的海军反应堆
+Dialogue: 0,0:04:42.80,0:04:49.80,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}三位一体(Trinity），是人类史上首次核试验的代号，是曼哈顿计划的一部分。
+Dialogue: 0,0:06:21.30,0:06:31.23,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}被废弃的瘦子原子弹的外壳\N瘦子原子弹(Mark-2)是一种拟议的枪式钚原子弹，在美国进行曼哈顿计划时研制，项目最后夭折
+Dialogue: 0,0:10:01.25,0:10:14.16,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}茶壶行动——军事影响测试\N武器研发者也测试了铀-233核弹
+Dialogue: 0,0:11:16.97,0:11:23.97,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}镎(Neptunium 拼音：ná)其化学符号为Np，原子序数为93。\N锎(Californium 拼音：kāi)其化学符号为Cf，原子序数为98。\N镅(Americium 拼音：méi)其化学符号为Am，原子序数为95。
+Dialogue: 0,0:10:59.76,0:11:06.76,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}可能是因为偷材料的人都被照死了
 Dialogue: 0,0:00:04.00,0:00:05.68,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.00,0:00:05.68,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.84,0:00:09.36,1080P-sgbd-42,,0,0,0,,Today I want to talk to you about weapons grade stuff.
@@ -30,9 +39,8 @@ Dialogue: 0,0:00:09.36,0:00:13.84,1080P-sgbd-42,,0,0,0,,Now the term weapons gra
 Dialogue: 0,0:00:09.36,0:00:13.84,1080P-shss-90,,0,0,0,,现在“武器级”一词已经拥有了许多热门的同义 以至于
 Dialogue: 0,0:00:13.84,0:00:18.62,1080P-sgbd-42,,0,0,0,,that we are currently talking about weapons grade memes being deployed against Wall Street.
 Dialogue: 0,0:00:13.84,0:00:18.62,1080P-shss-90,,0,0,0,,我们目前正在讨论的是 那些热门针对华尔街部署的武器级备忘录
-Dialogue: 0,0:00:17.17,0:00:21.18,1080P-sgsm-50,,0,0,0,,Weapons Grade Waifus 一个专门卖各种二次元纸片人战术魔术贴 徽章之类的网站\nwaifus 借自日语发音中的wife( ワイフ) 专指二次元制片人老婆
 Dialogue: 0,0:00:19.03,0:00:23.27,1080P-sgbd-42,,0,0,0,,I'm gonna point out that you should not confuse this with military grade
-Dialogue: 0,0:00:19.03,0:00:23.27,1080P-shss-90,,0,0,0,,我想指出的是 你不应该将其与“军事级”相混淆
+Dialogue: 0,0:00:19.03,0:00:23.27,1080P-shss-90,,0,0,0,,我想指出的是 你不应该将其与“军工级”相混淆
 Dialogue: 0,0:00:23.27,0:00:25.34,1080P-sgbd-42,,0,0,0,,which is a completely meaningless term
 Dialogue: 0,0:00:23.27,0:00:25.34,1080P-shss-90,,0,0,0,,那是一个完全没有意义的术语
 Dialogue: 0,0:00:25.39,0:00:29.98,1080P-sgbd-42,,0,0,0,,generally added to Amazon listings to sell them to a certain type of person.
@@ -77,7 +85,6 @@ Dialogue: 0,0:02:03.96,0:02:07.46,1080P-sgbd-42,,0,0,0,,but you have to have a l
 Dialogue: 0,0:02:03.96,0:02:07.46,1080P-shss-90,,0,0,0,,但你必须有大量的慢化剂 来减缓中子的速度
 Dialogue: 0,0:02:07.50,0:02:13.27,1080P-sgbd-42,,0,0,0,,and get them to pay attention to the 235 and stop all those 238s from getting in the way.
 Dialogue: 0,0:02:07.50,0:02:13.27,1080P-shss-90,,0,0,0,,而让其专注与铀235发生裂变反应 并阻止铀238对反应的妨碍
-Dialogue: 0,0:02:06.70,0:02:13.27,1080P-sgsm-50,,0,0,0,,世界上第一个核反应堆 使用自然中未浓缩的铀
 Dialogue: 0,0:02:13.98,0:02:17.02,1080P-sgbd-42,,0,0,0,,But if you go through a process of enrichment
 Dialogue: 0,0:02:13.98,0:02:17.02,1080P-shss-90,,0,0,0,,但是 如果你通过一个浓缩的过程
 Dialogue: 0,0:02:17.03,0:02:21.72,1080P-sgbd-42,,0,0,0,,where you exploit the very small differences in mass between these two atoms
@@ -99,7 +106,7 @@ Dialogue: 0,0:02:48.39,0:02:52.67,1080P-shss-90,,0,0,0,,这些细节在某种程
 Dialogue: 0,0:02:53.44,0:02:58.48,1080P-sgbd-42,,0,0,0,,So it's relatively easy to make an atom bomb
 Dialogue: 0,0:02:53.44,0:02:58.48,1080P-shss-90,,0,0,0,,因此 制造原子弹相对来说是比较容易的
 Dialogue: 0,0:02:58.48,0:03:05.37,1080P-sgbd-42,,0,0,0,,if you have enough for uranium at 80 concentration enrichment, right.
-Dialogue: 0,0:02:58.48,0:03:05.37,1080P-shss-90,,0,0,0,,如果你有足够量的浓缩度为80%的浓缩铀 对吧
+Dialogue: 0,0:02:58.48,0:03:05.37,1080P-shss-90,,0,0,0,,如果你有足够量的浓度为80%的浓缩铀 对吧
 Dialogue: 0,0:03:06.50,0:03:12.33,1080P-sgbd-42,,0,0,0,,As you get to lower and lower levels of enrichment you need larger and larger critical masses.
 Dialogue: 0,0:03:06.50,0:03:12.33,1080P-shss-90,,0,0,0,,当你达到越来越低的浓缩水平时 你需要越来越大的临界质量
 Dialogue: 0,0:03:12.92,0:03:19.23,1080P-sgbd-42,,0,0,0,,And like in theory I believe you can make 20% low enriched uranium go off.
@@ -135,7 +142,7 @@ Dialogue: 0,0:04:08.78,0:04:13.28,1080P-shss-90,,0,0,0,,它实际上是在一个
 Dialogue: 0,0:04:13.41,0:04:16.29,1080P-sgbd-42,,0,0,0,,and that uranium-238 that isn't doing anything useful.
 Dialogue: 0,0:04:13.41,0:04:16.29,1080P-shss-90,,0,0,0,,而那没有做任何有用的事的铀238
 Dialogue: 0,0:04:16.52,0:04:20.83,1080P-sgbd-42,,0,0,0,,It will frequently absorb a neutron that will increase the mass to 239
-Dialogue: 0,0:04:16.52,0:04:20.83,1080P-shss-90,,0,0,0,,它将经常会吸收一个中子 将其质量增加到239
+Dialogue: 0,0:04:16.52,0:04:20.83,1080P-shss-90,,0,0,0,,它会经常吸收一个中子 将其质量增加到239
 Dialogue: 0,0:04:20.86,0:04:25.44,1080P-sgbd-42,,0,0,0,,and then it'll undergo a series of radioactive decays and you'll get plutonium-239.
 Dialogue: 0,0:04:20.86,0:04:25.44,1080P-shss-90,,0,0,0,,然后 它将经历一系列的放射性衰变 而你会得到钚239
 Dialogue: 0,0:04:25.97,0:04:29.29,1080P-sgbd-42,,0,0,0,,So this is how they made the plutonium for the first atom bomb.
@@ -152,7 +159,6 @@ Dialogue: 0,0:04:40.40,0:04:42.74,1080P-sgbd-42,,0,0,0,,reprocess them, extract 
 Dialogue: 0,0:04:40.40,0:04:42.74,1080P-shss-90,,0,0,0,,重新处理它们 提取出钚
 Dialogue: 0,0:04:42.80,0:04:46.07,1080P-sgbd-42,,0,0,0,,and that was the material was used to make the trinity device
 Dialogue: 0,0:04:42.80,0:04:46.07,1080P-shss-90,,0,0,0,,而这些材料被用来制造三位一体装置
-Dialogue: 0,0:04:42.80,0:04:46.07,1080P-sgsm-50,,0,0,0,,三位一体(Trinity），是人类史上首次核试验的代号，是曼哈顿计划的一部分。
 Dialogue: 0,0:04:46.10,0:04:48.46,1080P-sgbd-42,,0,0,0,,which was the first atom bomb ever detonated.
 Dialogue: 0,0:04:46.10,0:04:48.46,1080P-shss-90,,0,0,0,,也就是有史以来引爆的第一颗原子弹
 Dialogue: 0,0:04:48.90,0:04:52.78,1080P-sgbd-42,,0,0,0,,And of course later the fat man which was dropped over Nagasaki.
@@ -190,18 +196,17 @@ Dialogue: 0,0:05:55.97,0:05:58.18,1080P-shss-90,,0,0,0,,而这需要有限的时
 Dialogue: 0,0:05:58.71,0:06:01.19,1080P-sgbd-42,,0,0,0,,But if you've got too much plutonium-240 there
 Dialogue: 0,0:05:58.71,0:06:01.19,1080P-shss-90,,0,0,0,,但是 如果你有太多的钚240在那里
 Dialogue: 0,0:06:01.52,0:06:05.84,1080P-sgbd-42,,0,0,0,,it can actually trigger the reaction while you are still squeezing things down
-Dialogue: 0,0:06:01.52,0:06:05.84,1080P-shss-90,,0,0,0,,它实际上可以触发反应 而你仍然正在压缩东西
+Dialogue: 0,0:06:01.52,0:06:05.84,1080P-shss-90,,0,0,0,,它实际上可以在物质仍在压缩时触发反应
 Dialogue: 0,0:06:05.84,0:06:11.85,1080P-sgbd-42,,0,0,0,,and that means you never reach your peak density and the bomb explodes with less energy
 Dialogue: 0,0:06:05.84,0:06:11.85,1080P-shss-90,,0,0,0,,而这意味着你永远不会达到你的峰值密度 并且炸弹爆炸的能量较小
-Dialogue: 0,0:06:11.88,0:06:13.55,1080P-sgbd-42,,0,0,0,,because it has less new density.
-Dialogue: 0,0:06:11.88,0:06:13.55,1080P-shss-90,,0,0,0,,因为它的新密度较小
+Dialogue: 0,0:06:11.88,0:06:13.55,1080P-sgbd-42,,0,0,0,,because it has less density.
+Dialogue: 0,0:06:11.88,0:06:13.55,1080P-shss-90,,0,0,0,,因为它的密度较小
 Dialogue: 0,0:06:14.40,0:06:15.88,1080P-sgbd-42,,0,0,0,,So that's one problem.
 Dialogue: 0,0:06:14.40,0:06:15.88,1080P-shss-90,,0,0,0,,所以这就是一个问题
 Dialogue: 0,0:06:15.92,0:06:18.41,1080P-sgbd-42,,0,0,0,,The plutonium 240 by the way is the reason
 Dialogue: 0,0:06:15.92,0:06:18.41,1080P-shss-90,,0,0,0,,顺便说一下 钚240就是
 Dialogue: 0,0:06:18.49,0:06:21.64,1080P-sgbd-42,,0,0,0,,why they couldn't build a simple gun-type device
 Dialogue: 0,0:06:18.49,0:06:21.64,1080P-shss-90,,0,0,0,,为什么他们不能制作一个简单的枪式装置的原因
-Dialogue: 0,0:06:21.30,0:06:31.23,1080P-sgsm-50,,0,0,0,,被废弃的瘦子原子弹的外壳\n瘦子原子弹(Mark-2)是一种拟议的枪式钚原子弹，在美国进行曼哈顿计划时研制，项目最后夭折
 Dialogue: 0,0:06:21.67,0:06:26.24,1080P-sgbd-42,,0,0,0,,where you shoot one slug into another and that makes your critical mass.
 Dialogue: 0,0:06:21.67,0:06:26.24,1080P-shss-90,,0,0,0,,你把一个弹头射入另一个弹头 而这造就了你的临界质量
 Dialogue: 0,0:06:26.24,0:06:29.91,1080P-sgbd-42,,0,0,0,,With that they figured out the barrel needed to be way too long
@@ -211,7 +216,7 @@ Dialogue: 0,0:06:29.91,0:06:33.33,1080P-shss-90,,0,0,0,,因为钚的预爆几率
 Dialogue: 0,0:06:34.28,0:06:41.09,1080P-sgbd-42,,0,0,0,,So with weapons grades plutonium you make sure there's no more than 6.5% plutonium-240.
 Dialogue: 0,0:06:34.28,0:06:41.09,1080P-shss-90,,0,0,0,,因此 对于武器级钚 你要确保其中的钚240含量不超过6.5%
 Dialogue: 0,0:06:41.55,0:06:45.12,1080P-sgbd-42,,0,0,0,,The 238 as I said is used in spacecraft because it's radioactive.
-Dialogue: 0,0:06:41.55,0:06:45.12,1080P-shss-90,,0,0,0,,钚238 正如我所说 其被用于航天器 因为它具有放射性
+Dialogue: 0,0:06:41.55,0:06:45.12,1080P-shss-90,,0,0,0,,钚238 正如我所说 其被用于航天器 因为它具有放射性(α衰变)
 Dialogue: 0,0:06:45.12,0:06:46.25,1080P-sgbd-42,,0,0,0,,It generates a lot of heat.
 Dialogue: 0,0:06:45.12,0:06:46.25,1080P-shss-90,,0,0,0,,它会产生大量的热量
 Dialogue: 0,0:06:46.30,0:06:51.15,1080P-sgbd-42,,0,0,0,,So having too much heat in the device that you want to use is a problem.
@@ -271,13 +276,13 @@ Dialogue: 0,0:08:28.14,0:08:32.31,1080P-shss-90,,0,0,0,,通常只会将反应棒
 Dialogue: 0,0:08:32.34,0:08:34.43,1080P-sgbd-42,,0,0,0,,and then take them out for reprocessing.
 Dialogue: 0,0:08:32.34,0:08:34.43,1080P-shss-90,,0,0,0,,然后把它们拿出来进行再加工
 Dialogue: 0,0:08:34.82,0:08:38.76,1080P-sgbd-42,,0,0,0,,But that in many reactor designs pressurized water designs means
-Dialogue: 0,0:08:34.82,0:08:38.76,1080P-shss-90,,0,0,0,,但是 在许多反应堆的设计中 压水式反应堆的设计意味着
+Dialogue: 0,0:08:34.82,0:08:38.76,1080P-shss-90,,0,0,0,,但是 在许多反应堆的设计中 比如压水式反应堆的设计意味着
 Dialogue: 0,0:08:38.78,0:08:42.82,1080P-sgbd-42,,0,0,0,,shutting the entire reactor down letting it cool down and then taking the rods out.
 Dialogue: 0,0:08:38.78,0:08:42.82,1080P-shss-90,,0,0,0,,关闭整个反应堆 让它冷却下来 然后把反应棒取出
 Dialogue: 0,0:08:43.74,0:08:48.14,1080P-sgbd-42,,0,0,0,,Whereas the reactors that were used to generate the plutonium for the first weapons
 Dialogue: 0,0:08:43.74,0:08:48.14,1080P-shss-90,,0,0,0,,而用于生产第一批用于核武器的钚的反应堆
 Dialogue: 0,0:08:48.39,0:08:52.37,1080P-sgbd-42,,0,0,0,,they had this sort of continuous flow system where you pushed the rods in at one end
-Dialogue: 0,0:08:48.39,0:08:52.37,1080P-shss-90,,0,0,0,,他们有这种连续流通的系统 也就是你在一段将反应棒推入
+Dialogue: 0,0:08:48.39,0:08:52.37,1080P-shss-90,,0,0,0,,他们有这种连续流通的系统 也就是你在一端将反应棒推入
 Dialogue: 0,0:08:52.41,0:08:56.86,1080P-sgbd-42,,0,0,0,,it was horizontal and as you pushed it in it pushed the rods out the back
 Dialogue: 0,0:08:52.41,0:08:56.86,1080P-shss-90,,0,0,0,,它是水平的 当你把它推入时 它会把里面的反应棒从后面推出来
 Dialogue: 0,0:08:56.90,0:09:01.57,1080P-sgbd-42,,0,0,0,,so they could keep the fuel in the reactor for only a limited amount of time.
@@ -336,8 +341,10 @@ Dialogue: 0,0:10:33.95,0:10:40.30,1080P-sgbd-42,,0,0,0,,And so I believe anythin
 Dialogue: 0,0:10:33.95,0:10:40.30,1080P-shss-90,,0,0,0,,所以我相信 如果你的样品中铀232的含量超过百万分之五十
 Dialogue: 0,0:10:40.64,0:10:44.17,1080P-sgbd-42,,0,0,0,,makes it very hard to work with because of the amount of gamma radiation.
 Dialogue: 0,0:10:40.64,0:10:44.17,1080P-shss-90,,0,0,0,,它就会变得很难处理 因为它有大量的伽马辐射
-Dialogue: 0,0:10:44.20,0:10:50.22,1080P-sgbd-42,,0,0,0,,You have to move to like shielded glove box or remote manipulation rather than simply glove boxes.
-Dialogue: 0,0:10:44.20,0:10:50.22,1080P-shss-90,,0,0,0,,你会必须转而使用有防护罩的手套箱或者是进行遥控操作\n而不是使用普通的手套箱
+Dialogue: 0,0:10:44.20,0:10:48.44,1080P-sgbd-42,,0,0,0,,You have to move to like shielded glove box or remote manipulation
+Dialogue: 0,0:10:44.20,0:10:48.44,1080P-shss-90,,0,0,0,,你会必须转而使用有防护罩的手套箱或者是进行遥控操作
+Dialogue: 0,0:10:48.47,0:10:50.22,1080P-sgbd-42,,0,0,0,,rather than simply glove boxes.
+Dialogue: 0,0:10:48.47,0:10:50.22,1080P-shss-90,,0,0,0,,而不是使用普通的手套箱
 Dialogue: 0,0:10:50.54,0:10:54.53,1080P-sgbd-42,,0,0,0,,So this 50 parts per million requirement is really hard to achieve.
 Dialogue: 0,0:10:50.54,0:10:54.53,1080P-shss-90,,0,0,0,,所以这个百万分之五十的要求真的很难实现
 Dialogue: 0,0:10:54.85,0:10:59.59,1080P-sgbd-42,,0,0,0,,And it's one of the reasons why thorium reactors are usually cited by their proponents
@@ -351,7 +358,6 @@ Dialogue: 0,0:11:07.34,0:11:10.97,1080P-shss-90,,0,0,0,,这都是关于所有这
 Dialogue: 0,0:11:11.02,0:11:16.94,1080P-sgbd-42,,0,0,0,,There's probably other fissile materials where the concept of weapons grade has been considered.
 Dialogue: 0,0:11:11.02,0:11:16.94,1080P-shss-90,,0,0,0,,可能还有其他裂变材料也被认为是武器级的
 Dialogue: 0,0:11:16.97,0:11:23.27,1080P-sgbd-42,,0,0,0,,You can make a bomb with neptunium, californium, americium. I had never had to know how to pronounce that.
-Dialogue: 0,0:11:16.97,0:11:23.27,1080P-sgsm-50,,0,0,0,,镎(Neptunium 拼音：ná)其化学符号为Np，原子序数为93。\n锎(Californium 拼音：kāi)其化学符号为Cf，原子序数为98。\n镅(Americium 拼音：méi)其化学符号为Am，原子序数为95。
 Dialogue: 0,0:11:16.97,0:11:23.27,1080P-shss-90,,0,0,0,,你可以用镎 锎 镅制作炸弹 我从来没有想过要知道它们该如何发音
 Dialogue: 0,0:11:23.30,0:11:26.28,1080P-sgbd-42,,0,0,0,,But it's a thing that makes stuff explode.
 Dialogue: 0,0:11:23.30,0:11:26.28,1080P-shss-90,,0,0,0,,但它们是一种能让东西爆炸的东西
