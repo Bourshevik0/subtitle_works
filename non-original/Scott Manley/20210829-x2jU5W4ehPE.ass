@@ -121,8 +121,8 @@ Dialogue: 0,0:03:04.68,0:03:08.98,1080P-sgbd-42,,0,0,0,,{\blur4}even although th
 Dialogue: 0,0:03:04.68,0:03:08.98,1080P-shss-90,,0,0,0,,{\blur4}尽管那是在36公里的高空 也就是超过10万英尺
 Dialogue: 0,0:03:09.74,0:03:11.73,1080P-sgbd-42,,0,0,0,,{\blur4}I did the math based on the telemetry,
 Dialogue: 0,0:03:09.74,0:03:11.73,1080P-shss-90,,0,0,0,,{\blur4}我根据遥测数据做了计算
-Dialogue: 0,0:03:11.77,0:03:15.49,1080P-sgbd-42,,0,0,0,,{\blur4}and it looks like it was moving upwards, at 150 meters per second
-Dialogue: 0,0:03:11.77,0:03:15.49,1080P-shss-90,,0,0,0,,{\blur4}看起来它是以每秒150米的速度向上移动的
+Dialogue: 0,0:03:11.77,0:03:15.49,1080P-sgbd-42,,0,0,0,,{\blur4}and it looks like it was moving upwards, at 450 meters per second
+Dialogue: 0,0:03:11.77,0:03:15.49,1080P-shss-90,,0,0,0,,{\blur4}看起来它是以每秒450米的速度向上移动的
 Dialogue: 0,0:03:15.51,0:03:19.75,1080P-sgbd-42,,0,0,0,,{\blur4}and sideways or down range at 600 meters per second.
 Dialogue: 0,0:03:15.51,0:03:19.75,1080P-shss-90,,0,0,0,,{\blur4}并以每秒600米的速度向侧方或(弹道)下方(水平方向)移动
 Dialogue: 0,0:03:19.98,0:03:22.83,1080P-sgbd-42,,0,0,0,,{\blur4}So it looks based on the telemetry,
