@@ -22,16 +22,23 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.00,0:00:11.00,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Why Can We See a Yellow Glow Surrounding the Earth In Space\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/btr_hAiPHpU\N原视频发布日期：20201026\N字幕翻译：WJIJKKH，校对：旋火
+Dialogue: 0,0:03:10.72,0:03:17.72,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}钠层由美国天文学家维斯托·斯里弗在1929年首次发现
+Dialogue: 0,0:04:54.03,0:05:02.75,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,820)\fs60}大气层毁了我拍摄ISS的视频
+Dialogue: 0,0:05:39.89,0:05:43.79,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,920)\fs60\fad(0,1200)}未使用自适应光学仪器
+Dialogue: 0,0:05:42.59,0:05:50.23,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,920)\fs60\fad(1200,0)}使用自适应光学仪器
+Dialogue: 0,0:06:30.51,0:06:32.01,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,940)}未使用自适应光学设备
+Dialogue: 0,0:06:32.01,0:06:35.04,1080P-sgsm-50,,0,0,0,,{\an2\pos(960,940)}使用自适应光学设备
 Dialogue: 0,0:00:04.00,0:00:05.51,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
 Dialogue: 0,0:00:04.00,0:00:05.51,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
 Dialogue: 0,0:00:05.83,0:00:08.93,1080P-sgbd-42,,0,0,0,,Thanks to 20 years of continuous occupation of space
 Dialogue: 0,0:00:05.83,0:00:08.93,1080P-shss-90,,0,0,0,,得益于20年来在太空的持续居住
 Dialogue: 0,0:00:08.98,0:00:12.96,1080P-sgbd-42,,0,0,0,,we have a wealth of photographs and videos from low earth orbit.
-Dialogue: 0,0:00:08.98,0:00:12.96,1080P-shss-90,,0,0,0,,我们拥有大量来自低地球轨道(LEO)的照片和视频
+Dialogue: 0,0:00:08.98,0:00:12.96,1080P-shss-90,,0,0,0,,我们拥有大量来自近地轨道(LEO)的照片和视频
 Dialogue: 0,0:00:12.96,0:00:15.04,1080P-sgbd-42,,0,0,0,,And they are wonderful things to watch.
 Dialogue: 0,0:00:12.96,0:00:15.04,1080P-shss-90,,0,0,0,,并且 它们是值得一看的美妙事物
 Dialogue: 0,0:00:15.36,0:00:20.40,1080P-sgbd-42,,0,0,0,,Sometimes they show amazing things like this Soyuz launching towards the ISS
-Dialogue: 0,0:00:15.36,0:00:20.40,1080P-shss-90,,0,0,0,,它们有时会展示些令人惊奇的事情 比如这个联盟号向国际空间站发射的视频
+Dialogue: 0,0:00:15.36,0:00:20.40,1080P-shss-90,,0,0,0,,{\fs82}它们有时会展示些令人惊奇的事情 比如这个联盟号向国际空间站发射的视频
 Dialogue: 0,0:00:20.55,0:00:26.36,1080P-sgbd-42,,0,0,0,,but even the random everyday views from low earth orbit are compelling and hypnotic.
 Dialogue: 0,0:00:20.55,0:00:26.36,1080P-shss-90,,0,0,0,,但即使是来自LEO日常的随意景色 也是迷人的 令人沉醉的
 Dialogue: 0,0:00:26.71,0:00:31.09,1080P-sgbd-42,,0,0,0,,They show the world moving slowly below the observer, land and sea.
@@ -45,7 +52,7 @@ Dialogue: 0,0:00:41.66,0:00:43.52,1080P-shss-90,,0,0,0,,而当你意识到以下
 Dialogue: 0,0:00:43.52,0:00:45.28,1080P-sgbd-42,,0,0,0,,every human that's ever lived
 Dialogue: 0,0:00:43.52,0:00:45.28,1080P-shss-90,,0,0,0,,每一个曾经生活过的人类
 Dialogue: 0,0:00:45.49,0:00:50.89,1080P-sgbd-42,,0,0,0,,has done so in this thin skin of air that clings to the surface of the earth by gravity.
-Dialogue: 0,0:00:45.49,0:00:50.89,1080P-shss-90,,0,0,0,,都是在这层薄薄的空气中生活的 而这层空气在重力的作用下紧贴着地球表面
+Dialogue: 0,0:00:45.49,0:00:50.89,1080P-shss-90,,0,0,0,,{\fs82}都是在这层薄薄的空气中生活的 而这层空气在重力的作用下紧贴着地球表面
 Dialogue: 0,0:00:51.85,0:00:55.25,1080P-sgbd-42,,0,0,0,,The blue fades into black as the air gets thinner
 Dialogue: 0,0:00:51.85,0:00:55.25,1080P-shss-90,,0,0,0,,随着空气越来越稀薄 蓝色渐渐变成黑色
 Dialogue: 0,0:00:55.36,0:01:01.50,1080P-sgbd-42,,0,0,0,,but then something else appears a thin yellowish layer separate from the lower atmosphere.
@@ -83,15 +90,15 @@ Dialogue: 0,0:01:59.36,0:02:05.83,1080P-shss-90,,0,0,0,,所以这个可见的钠
 Dialogue: 0,0:02:06.18,0:02:11.07,1080P-sgbd-42,,0,0,0,,because the transition line that we see only comes from neutral atomic sodium.
 Dialogue: 0,0:02:06.18,0:02:11.07,1080P-shss-90,,0,0,0,,因为我们看到的黄色过渡线 只来自于中性原子钠
 Dialogue: 0,0:02:11.28,0:02:16.62,1080P-sgbd-42,,0,0,0,,As we go higher in the atmosphere the sodium atoms are more commonly found as ions
-Dialogue: 0,0:02:11.28,0:02:16.62,1080P-shss-90,,0,0,0,,当我们在大气层中的位置越高时 钠原子就越多地以离子形式存在
-Dialogue: 0,0:02:16.91,0:02:22.48,1080P-sgbd-42,,0,0,0,,and lower in the atmosphere the atoms are more formal or more commonly found in their molecular state
+Dialogue: 0,0:02:11.28,0:02:16.62,1080P-shss-90,,0,0,0,,当我们在大气层中的位置越高时 以离子形式存在的钠原子就越多
+Dialogue: 0,0:02:16.91,0:02:22.48,1080P-sgbd-42,,0,0,0,,and lower in the atmosphere the atoms are more commonly found in their molecular state
 Dialogue: 0,0:02:16.91,0:02:22.48,1080P-shss-90,,0,0,0,,而在大气层的低处 纳原子更普遍地以分子状态出现
 Dialogue: 0,0:02:23.52,0:02:28.84,1080P-sgbd-42,,0,0,0,,and so we see this yellow glowing layer standing out away from the surface of the earth
 Dialogue: 0,0:02:23.52,0:02:28.84,1080P-shss-90,,0,0,0,,所以我们看到 这个黄色的发光层十分远离地球的表面
 Dialogue: 0,0:02:29.27,0:02:33.54,1080P-sgbd-42,,0,0,0,,and as it happens this altitude is very close to that of the Karman line
 Dialogue: 0,0:02:29.27,0:02:33.54,1080P-shss-90,,0,0,0,,而碰巧的是 这个高度非常接近卡门线的高度
 Dialogue: 0,0:02:33.91,0:02:38.05,1080P-sgbd-42,,0,0,0,,so it's almost like a visual reference for where space begins.
-Dialogue: 0,0:02:33.91,0:02:38.05,1080P-shss-90,,0,0,0,,所以它几乎是哪里开始是太空的视觉参考
+Dialogue: 0,0:02:33.91,0:02:38.05,1080P-shss-90,,0,0,0,,所以它几乎是太空开始出现的视觉参考
 Dialogue: 0,0:02:38.80,0:02:42.16,1080P-sgbd-42,,0,0,0,,Now the meteors are arriving at earth don't just bring in sodium.
 Dialogue: 0,0:02:38.80,0:02:42.16,1080P-shss-90,,0,0,0,,那么 到达地球的流星不只是带来了钠
 Dialogue: 0,0:02:42.16,0:02:43.76,1080P-sgbd-42,,0,0,0,,They have many other minerals.
@@ -112,7 +119,6 @@ Dialogue: 0,0:03:07.20,0:03:10.05,1080P-sgbd-42,,0,0,0,,That's why we have low p
 Dialogue: 0,0:03:07.20,0:03:10.05,1080P-shss-90,,0,0,0,,这就是为什么我们有低压钠灯
 Dialogue: 0,0:03:10.72,0:03:16.18,1080P-sgbd-42,,0,0,0,,So the sodium layer was first discovered from the ground using spectroscopy back in 1929
 Dialogue: 0,0:03:10.72,0:03:16.18,1080P-shss-90,,0,0,0,,钠层是在1929年首次从地面通过光谱学发现的
-Dialogue: 0,0:03:10.72,0:03:16.18,1080P-sgsm-50,,0,0,0,,钠层由美国天文学家维斯托·斯里弗在1929年首次发现
 Dialogue: 0,0:03:16.40,0:03:21.65,1080P-sgbd-42,,0,0,0,,and since then it's been used by scientists as a way to probe atmospheric conditions in the mesosphere
 Dialogue: 0,0:03:16.40,0:03:21.65,1080P-shss-90,,0,0,0,,而从那时起 科学家们就用这种方法来探测中间层的大气状况
 Dialogue: 0,0:03:21.84,0:03:26.81,1080P-sgbd-42,,0,0,0,,which is actually our region in the atmosphere which is really hard to investigate directly
@@ -146,7 +152,7 @@ Dialogue: 0,0:04:25.28,0:04:27.84,1080P-shss-90,,0,0,0,,并且顺便说一下 �
 Dialogue: 0,0:04:27.84,0:04:29.84,1080P-sgbd-42,,0,0,0,,because it's only pointing straight up
 Dialogue: 0,0:04:27.84,0:04:29.84,1080P-shss-90,,0,0,0,,因为它只是直接指向上方的
 Dialogue: 0,0:04:29.88,0:04:33.70,1080P-sgbd-42,,0,0,0,,if the mirror had to turn then it would no longer be able to work like this.
-Dialogue: 0,0:04:29.88,0:04:33.70,1080P-shss-90,,0,0,0,,如果镜子必须转动 那么它将不再能够再像这样工作
+Dialogue: 0,0:04:29.88,0:04:33.70,1080P-shss-90,,0,0,0,,如果镜子必须转动 那么它将不能够再像这样工作
 Dialogue: 0,0:04:34.26,0:04:38.86,1080P-sgbd-42,,0,0,0,,But one of the coolest things that can be done with this sodium layer is that
 Dialogue: 0,0:04:34.26,0:04:38.86,1080P-shss-90,,0,0,0,,用这个钠层可以做的最酷的事情之一 就是
 Dialogue: 0,0:04:38.90,0:04:45.61,1080P-sgbd-42,,0,0,0,,it can be exploited by telescopes to help them see more detail in the sky than would normally be possible.
@@ -157,7 +163,6 @@ Dialogue: 0,0:04:50.28,0:04:52.74,1080P-sgbd-42,,0,0,0,,is limited by the turbul
 Dialogue: 0,0:04:50.28,0:04:52.74,1080P-shss-90,,0,0,0,,受限于大气层扰动
 Dialogue: 0,0:04:52.94,0:04:55.98,1080P-sgbd-42,,0,0,0,,which refracts the light from astronomical objects
 Dialogue: 0,0:04:52.94,0:04:55.98,1080P-shss-90,,0,0,0,,它会使来自天体的光线发生折射
-Dialogue: 0,0:04:54.03,0:05:01.75,1080P-sgsm-50,,0,0,0,,大气层毁了我拍摄ISS的视频
 Dialogue: 0,0:04:56.29,0:04:58.80,1080P-sgbd-42,,0,0,0,,and it's an effect that we can see with our naked eye.
 Dialogue: 0,0:04:56.29,0:04:58.80,1080P-shss-90,,0,0,0,,而这是一个我们可以用肉眼看到的效果
 Dialogue: 0,0:04:58.84,0:05:01.81,1080P-sgbd-42,,0,0,0,,It's what makes the stars twinkle in the sky.
@@ -169,7 +174,7 @@ Dialogue: 0,0:05:05.46,0:05:11.79,1080P-shss-90,,0,0,0,,这意味着镜子能够
 Dialogue: 0,0:05:12.16,0:05:15.36,1080P-sgbd-42,,0,0,0,,And so that it can actually undo the atmospheric distortion
 Dialogue: 0,0:05:12.16,0:05:15.36,1080P-shss-90,,0,0,0,,而这样 它实际上可以消除大气层带来的畸变
 Dialogue: 0,0:05:15.36,0:05:20.01,1080P-sgbd-42,,0,0,0,,and ultimately produce a much clearer image than would not otherwise be allowed.
-Dialogue: 0,0:05:15.36,0:05:20.01,1080P-shss-90,,0,0,0,,并最终产生一个只有这种方法能产生的更清晰的图像
+Dialogue: 0,0:05:15.36,0:05:20.01,1080P-shss-90,,0,0,0,,并最终产生出一个比别的方法更清晰的图像
 Dialogue: 0,0:05:20.61,0:05:24.08,1080P-sgbd-42,,0,0,0,,But to do this they need to know how the atmosphere is distorting the light
 Dialogue: 0,0:05:20.61,0:05:24.08,1080P-shss-90,,0,0,0,,但要做到这一点 他们需要知道大气层是如何扭曲光线的
 Dialogue: 0,0:05:24.08,0:05:28.66,1080P-sgbd-42,,0,0,0,,so they take a reference star which you can assume to be a perfect point source
@@ -182,10 +187,8 @@ Dialogue: 0,0:05:35.60,0:05:38.88,1080P-sgbd-42,,0,0,0,,and then feeding that ba
 Dialogue: 0,0:05:35.60,0:05:38.88,1080P-shss-90,,0,0,0,,然后将其反馈给光学系统
 Dialogue: 0,0:05:38.95,0:05:41.33,1080P-sgbd-42,,0,0,0,,so that it can undo the refraction.
 Dialogue: 0,0:05:38.95,0:05:41.33,1080P-shss-90,,0,0,0,,这样它就可以消除折射了
-Dialogue: 0,0:05:39.85,0:05:41.91,1080P-sgsm-50,,0,0,0,,未使用自适应光学仪器
 Dialogue: 0,0:05:41.74,0:05:44.86,1080P-sgbd-42,,0,0,0,,And it needs to be able to measure the star hundreds of times per second.
 Dialogue: 0,0:05:41.74,0:05:44.86,1080P-shss-90,,0,0,0,,它需要能够每秒测量数百次的恒星
-Dialogue: 0,0:05:43.79,0:05:49.49,1080P-sgsm-50,,0,0,0,,使用自适应光学仪器
 Dialogue: 0,0:05:45.44,0:05:48.85,1080P-sgbd-42,,0,0,0,,The problem then is that the star has to be bright enough
 Dialogue: 0,0:05:45.44,0:05:48.85,1080P-shss-90,,0,0,0,,但问题是 恒星必须足够的亮度
 Dialogue: 0,0:05:49.25,0:05:52.28,1080P-sgbd-42,,0,0,0,,so they can take the image fast enough and get enough detail.
@@ -193,9 +196,11 @@ Dialogue: 0,0:05:49.25,0:05:52.28,1080P-shss-90,,0,0,0,,以便他们能以足够
 Dialogue: 0,0:05:52.88,0:05:58.00,1080P-sgbd-42,,0,0,0,,And not all astronomical targets will have a bright star close enough to the target
 Dialogue: 0,0:05:52.88,0:05:58.00,1080P-shss-90,,0,0,0,,而不是所有的天文目标都有一颗足够接近目标的亮星
 Dialogue: 0,0:05:58.72,0:06:04.66,1080P-sgbd-42,,0,0,0,,so instead the sodium layer can be used to generate an artificial reference star.
-Dialogue: 0,0:05:58.72,0:06:04.66,1080P-shss-90,,0,0,0,,所以代替的是 钠层可以用来产生一个人工参考星
-Dialogue: 0,0:06:04.85,0:06:12.23,1080P-sgbd-42,,0,0,0,,What you do is you have a laser which is tuned to excite the 589 nanometer sodium emission lines
-Dialogue: 0,0:06:04.85,0:06:12.23,1080P-shss-90,,0,0,0,,你所做的是 你有一个激光器 它被调整到了激发波长为589纳米的钠发射线上
+Dialogue: 0,0:05:58.72,0:06:04.66,1080P-shss-90,,0,0,0,,那么替代方法是 钠层可以用来产生一个人工参考星
+Dialogue: 0,0:06:04.85,0:06:07.14,1080P-sgbd-42,,0,0,0,,What you do is you have a laser
+Dialogue: 0,0:06:04.85,0:06:07.14,1080P-shss-90,,0,0,0,,你所做的是 你有一个激光器
+Dialogue: 0,0:06:07.45,0:06:12.23,1080P-sgbd-42,,0,0,0,,which is tuned to excite the 589 nanometer sodium emission lines
+Dialogue: 0,0:06:07.45,0:06:12.23,1080P-shss-90,,0,0,0,,它被调整到了激发波长为589纳米的钠发射线上
 Dialogue: 0,0:06:12.56,0:06:14.86,1080P-sgbd-42,,0,0,0,,and you fire that up alongside the telescope
 Dialogue: 0,0:06:12.56,0:06:14.86,1080P-shss-90,,0,0,0,,然后你在望远镜旁边发射它
 Dialogue: 0,0:06:14.90,0:06:20.14,1080P-sgbd-42,,0,0,0,,and in the sodium layer it's generating light which is it essentially looks like a star.
@@ -207,8 +212,7 @@ Dialogue: 0,0:06:23.94,0:06:26.14,1080P-shss-90,,0,0,0,,但由于激光器被放
 Dialogue: 0,0:06:26.46,0:06:30.18,1080P-sgbd-42,,0,0,0,,it appears to be sufficiently point-like to act as a reference star
 Dialogue: 0,0:06:26.46,0:06:30.18,1080P-shss-90,,0,0,0,,它看起来足够像一个点 可以作为一个参考星
 Dialogue: 0,0:06:30.51,0:06:34.54,1080P-sgbd-42,,0,0,0,,and deliver image details that would normally be twinkled to death.
-Dialogue: 0,0:06:30.51,0:06:34.54,1080P-shss-90,,0,0,0,,并且使望远镜能提供通常会闪到看不清的图像细节
-Dialogue: 0,0:06:30.51,0:06:34.54,1080P-sgsm-50,,0,0,0,,未使用自适应光学设备\N使用自适应光学设备
+Dialogue: 0,0:06:30.51,0:06:34.54,1080P-shss-90,,0,0,0,,同时让望远镜得到通常会闪到看不清的图像细节
 Dialogue: 0,0:06:35.19,0:06:37.89,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
 Dialogue: 0,0:06:35.19,0:06:37.89,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
 Dialogue: 0,0:06:38.16,0:06:56.96,1080P-sgbd-4s,,0,0,0,,[Music]
