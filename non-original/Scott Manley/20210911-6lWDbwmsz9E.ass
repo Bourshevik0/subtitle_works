@@ -23,432 +23,432 @@ Style: 1080P-sgsm-6s,更纱黑体 SC Semibold,63,&H80FFFFFF,&HFF000000,&H8000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.13,0:00:11.13,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}原视频名：{\fs50}Nike-Hercules - US's Surface To Air Missile with Nuclear Warheads.\N{\fs50}原作者名：Scott Manley\N视频来源：youtu.be/6lWDbwmsz9E\N原视频发布日期：20210911\N字幕翻译：WJIJKKH，校对：旋火
-Dialogue: 0,0:00:10.08,0:00:17.08,1080P-sgsm-50,,0,0,0,,阿拉米达(Alameda)\N是一座位于美国加州旧金山湾区东部的城市 在同名县份阿拉米达县境内 邻接奥克兰市
-Dialogue: 0,0:00:43.14,0:00:50.14,1080P-sgsm-50,,0,0,0,,Nike 又译尼刻 希腊神话里的胜利女神 \N有相当多的版本将Nike译作“胜利女神”但本视频内还是使用“奈基”这一使用更广泛的译名
-Dialogue: 0,0:01:35.34,0:01:42.34,1080P-sgsm-50,,0,0,0,,瀑布防空火箭(德语：Wasserfall Ferngelenkte FlaRakete)\N是纳粹德国于第二次世界大战发明及生产的一种超音速地对空导弹\N其基于许多V2导弹的技术而开发 美苏在战后分别基于其开发了赫尔敏思A-1和S25防空导弹
-Dialogue: 0,0:05:11.54,0:05:18.54,1080P-sgsm-50,,0,0,0,,W9是一型美国核弹 使用一门特制的280mm榴弹炮发射1952年开始生产 1957年退役
-Dialogue: 0,0:10:50.42,0:10:57.42,1080P-sgsm-50,,0,0,0,,MGM-5下士弹道导弹(Corporal ballistic missile)\N是美国陆军和加州理工JPL于1952年开发的一型弹道导弹
-Dialogue: 0,0:11:35.36,0:11:42.36,1080P-sgsm-50,,0,0,0,,约翰斯顿环礁(Johnston Atoll)\N位于北太平洋中部 是波利尼西亚群岛的组成部分之一 属于美国无建制领土
-Dialogue: 0,0:11:47.53,0:11:54.53,1080P-sgsm-50,,0,0,0,,多明尼克行动(Operation Dominic)是美国在1962年于太平洋进行的核试行动\N此次核试行动共进行了31次核试 被视为是对苏联试验沙皇核弹的回应\N这次核试是美苏领导签署《部分禁止核试验条约》前的最后一次地面核试
-Dialogue: 0,0:11:52.90,0:11:59.90,1080P-sgsm-50,,0,0,0,,海星一号(Starfish Prime)是美国于1962年7月9日进行的一次核试验\N其是人类在外层空间进行的最大的一次核试验 也是美国进行的5次外层空间核试验之一
-Dialogue: 0,0:12:00.61,0:12:07.61,1080P-sgsm-50,,0,0,0,,限制战略武器谈判(Strategic Arms Limitation Talks, SALT)\N首度举行于1963年 谈判双方的美苏两个超级大国 目的在于减少双方毁灭性核武器
-Dialogue: 0,0:12:36.16,0:12:43.16,1080P-sgsm-50,,0,0,0,,奈基-阿帕奇(Nike Apache, Argo B-13)是美国空军与NASA于1961年到1978年间使用的\N一型两级探空火箭\N奈基-标枪(Nike Javelin)是美国空军 陆军和NASA于1963年到1978年间使用的一型两级探空火箭\N金牛座-奈基-战斧(Taurus Nike Tomahawk, TNT)是NASA于1983年设计的一型探空火箭\N
-Dialogue: 0,0:00:07.60,0:00:10.08,1080P-sgsm-50,,0,0,0,,恭喜SpaceY的运载火箭于2021年11月20号成功发射 并进入预定轨道
-Dialogue: 0,0:00:04.13,0:00:05.62,1080P-sgbd-42,,0,0,0,,Hello it's Scott Manley here.
-Dialogue: 0,0:00:04.13,0:00:05.62,1080P-shss-90,,0,0,0,,你好 我是Scott Manley
-Dialogue: 0,0:00:05.68,0:00:07.60,1080P-sgbd-42,,0,0,0,,Recently I talked about Astra
-Dialogue: 0,0:00:05.68,0:00:07.60,1080P-shss-90,,0,0,0,,最近我谈到了阿斯特拉
-Dialogue: 0,0:00:07.60,0:00:10.08,1080P-sgbd-42,,0,0,0,,and well their launch that went sideways.
-Dialogue: 0,0:00:07.60,0:00:10.08,1080P-shss-90,,0,0,0,,以及他们那次出了问题的侧移发射
-Dialogue: 0,0:00:10.08,0:00:14.08,1080P-sgbd-42,,0,0,0,,Now they actually build rockets across the bay from me in Alameda
-Dialogue: 0,0:00:10.08,0:00:14.08,1080P-shss-90,,0,0,0,,那么 他们实际是在我隔着湾区对面的阿拉米达制造火箭
-Dialogue: 0,0:00:14.08,0:00:16.51,1080P-sgbd-42,,0,0,0,,and actually they also test the engines there sometimes
-Dialogue: 0,0:00:14.08,0:00:16.51,1080P-shss-90,,0,0,0,,而且实际上 他们有时也在那里测试发动机
-Dialogue: 0,0:00:16.56,0:00:22.09,1080P-sgbd-42,,0,0,0,,which incidentally it's not far from where the mythbusters did some of their more spectacular experiments
-Dialogue: 0,0:00:16.56,0:00:22.09,1080P-shss-90,,0,0,0,,顺便一说 那里离《流言终结者》做一些更壮观实验的地方不远
-Dialogue: 0,0:00:22.37,0:00:25.38,1080P-sgbd-42,,0,0,0,,but we don't actually see rockets being launched in the bay area
-Dialogue: 0,0:00:22.37,0:00:25.38,1080P-shss-90,,0,0,0,,但我们实际上没有看到过有火箭在旧金山湾区发射
-Dialogue: 0,0:00:25.39,0:00:27.51,1080P-sgbd-42,,0,0,0,,because it's a heavily populated region
-Dialogue: 0,0:00:25.39,0:00:27.51,1080P-shss-90,,0,0,0,,因为它是一个人口稠密的地区
-Dialogue: 0,0:00:27.68,0:00:31.68,1080P-sgbd-42,,0,0,0,,but not far from my house there were some large missiles stationed
-Dialogue: 0,0:00:27.68,0:00:31.68,1080P-shss-90,,0,0,0,,但在离我家不远的地方 有一些大型导弹驻扎在那里
-Dialogue: 0,0:00:31.91,0:00:34.15,1080P-sgbd-42,,0,0,0,,that many people didn't know existed.
-Dialogue: 0,0:00:31.91,0:00:34.15,1080P-shss-90,,0,0,0,,很多人甚至都不知道它的存在
-Dialogue: 0,0:00:34.43,0:00:40.00,1080P-sgbd-42,,0,0,0,,For decades the US operated nuclear-tipped surface-to-air missiles around San Francisco
-Dialogue: 0,0:00:34.43,0:00:40.00,1080P-shss-90,,0,0,0,,几十年来 美国在旧金山周围运作着搭载核弹头的地对空导弹
-Dialogue: 0,0:00:40.00,0:00:42.96,1080P-sgbd-42,,0,0,0,,and indeed around many US cities.
-Dialogue: 0,0:00:40.00,0:00:42.96,1080P-shss-90,,0,0,0,,以及在许多美国城市周围
-Dialogue: 0,0:00:43.14,0:00:45.51,1080P-sgbd-42,,0,0,0,,This was a system known as Nike Hercules
-Dialogue: 0,0:00:43.14,0:00:45.51,1080P-shss-90,,0,0,0,,这是一个被称为 奈基-大力神的系统
-Dialogue: 0,0:00:45.54,0:00:48.19,1080P-sgbd-42,,0,0,0,,and it was the successor to Nike Ajax
-Dialogue: 0,0:00:45.54,0:00:48.19,1080P-shss-90,,0,0,0,,它是 奈基-阿基克斯的接替者
-Dialogue: 0,0:00:48.39,0:00:53.32,1080P-sgbd-42,,0,0,0,,which can actually lay claim to being the first widely deployed surface-to-air missile.
-Dialogue: 0,0:00:48.39,0:00:53.32,1080P-shss-90,,0,0,0,,后者实际上可以称得上是第一种广泛部署的地对空导弹
-Dialogue: 0,0:00:53.54,0:00:58.87,1080P-sgbd-42,,0,0,0,,Nike began development in 1945 while World War II was still in progress.
-Dialogue: 0,0:00:53.54,0:00:58.87,1080P-shss-90,,0,0,0,,奈基导弹于1945年开始研发 当时第二次世界大战仍在进行中
-Dialogue: 0,0:00:59.27,0:01:02.65,1080P-sgbd-42,,0,0,0,,At the time anti-aircraft guns were the main defensive system
-Dialogue: 0,0:00:59.27,0:01:02.65,1080P-shss-90,,0,0,0,,在当时 高射炮是主要的防御系统
-Dialogue: 0,0:01:02.69,0:01:04.18,1080P-sgbd-42,,0,0,0,,and they weren't very accurate.
-Dialogue: 0,0:01:02.69,0:01:04.18,1080P-shss-90,,0,0,0,,而它们并不十分精确
-Dialogue: 0,0:01:04.22,0:01:07.25,1080P-sgbd-42,,0,0,0,,They needed thousands of shells to score a kill
-Dialogue: 0,0:01:04.22,0:01:07.25,1080P-shss-90,,0,0,0,,它们需要数千发炮弹才能完成一次击杀
-Dialogue: 0,0:01:07.52,0:01:11.63,1080P-sgbd-42,,0,0,0,,and planes that were flying higher and faster were just going to make it harder.
-Dialogue: 0,0:01:07.52,0:01:11.63,1080P-shss-90,,0,0,0,,而那些飞得更高 更快的飞机 只会让这一切变得更为困难
-Dialogue: 0,0:01:11.82,0:01:14.38,1080P-sgbd-42,,0,0,0,,Even if you had computer-controlled gun batteries
-Dialogue: 0,0:01:11.82,0:01:14.38,1080P-shss-90,,0,0,0,,即使你有计算机控制的炮台
-Dialogue: 0,0:01:14.56,0:01:18.24,1080P-sgbd-42,,0,0,0,,there was still random dispersion just due to flex in the barrel
-Dialogue: 0,0:01:14.56,0:01:18.24,1080P-shss-90,,0,0,0,,它仍然会有随机的散布 由于枪管的弯曲
-Dialogue: 0,0:01:18.31,0:01:20.54,1080P-sgbd-42,,0,0,0,,and propellant in the shells
-Dialogue: 0,0:01:18.31,0:01:20.54,1080P-shss-90,,0,0,0,,和炮弹中的推进剂
-Dialogue: 0,0:01:20.92,0:01:27.79,1080P-sgbd-42,,0,0,0,,that it meant that the detonation point error was larger than the shell's kill radius.
-Dialogue: 0,0:01:20.92,0:01:27.79,1080P-shss-90,,0,0,0,,这意味着引爆点的误差 要大于炮弹的杀伤半径
-Dialogue: 0,0:01:28.17,0:01:32.79,1080P-sgbd-42,,0,0,0,,Now by the way I should also point out that the potential for guided surface-to-air missiles
-Dialogue: 0,0:01:28.17,0:01:32.79,1080P-shss-90,,0,0,0,,那么顺便一提 我还应该指出 制导地对空导弹的潜力
-Dialogue: 0,0:01:33.02,0:01:35.31,1080P-sgbd-42,,0,0,0,,was recognized by Germany before this
-Dialogue: 0,0:01:33.02,0:01:35.31,1080P-shss-90,,0,0,0,,在这之前 已经被德国认识到了
-Dialogue: 0,0:01:35.34,0:01:38.98,1080P-sgbd-42,,0,0,0,,and they had been developing something called the Wasserfall system.
-Dialogue: 0,0:01:35.34,0:01:38.98,1080P-shss-90,,0,0,0,,并且 他们一直在开发一种叫做瀑布防空火箭系统的东西
-Dialogue: 0,0:01:39.52,0:01:41.75,1080P-sgbd-42,,0,0,0,,That started development in 1941
-Dialogue: 0,0:01:39.52,0:01:41.75,1080P-shss-90,,0,0,0,,它于1941年开始开发
-Dialogue: 0,0:01:41.75,0:01:44.61,1080P-sgbd-42,,0,0,0,,but even with dozens of test launches during the war
-Dialogue: 0,0:01:41.75,0:01:44.61,1080P-shss-90,,0,0,0,,但即使在战争期间进行了几十次试射
-Dialogue: 0,0:01:44.66,0:01:46.50,1080P-sgbd-42,,0,0,0,,it never reached operational status.
-Dialogue: 0,0:01:44.66,0:01:46.50,1080P-shss-90,,0,0,0,,它从未达到可运作的状态
-Dialogue: 0,0:01:46.94,0:01:50.49,1080P-sgbd-42,,0,0,0,,Also Wasserfall was guided by human control
-Dialogue: 0,0:01:46.94,0:01:50.49,1080P-shss-90,,0,0,0,,另外 瀑布防空火箭是由人控制的
-Dialogue: 0,0:01:50.64,0:01:52.53,1080P-sgbd-42,,0,0,0,,initially by optical tracking
-Dialogue: 0,0:01:50.64,0:01:52.53,1080P-shss-90,,0,0,0,,最初是使用光学跟踪
-Dialogue: 0,0:01:52.56,0:01:55.42,1080P-sgbd-42,,0,0,0,,but later they would use a radar beam guidance system
-Dialogue: 0,0:01:52.56,0:01:55.42,1080P-shss-90,,0,0,0,,但后来他们使用了一个雷达驾束制导系统
-Dialogue: 0,0:01:55.45,0:01:57.42,1080P-sgbd-42,,0,0,0,,that was developed to help the operator.
-Dialogue: 0,0:01:55.45,0:01:57.42,1080P-shss-90,,0,0,0,,该系统是为了帮助操作者而开发的
-Dialogue: 0,0:01:58.02,0:02:02.46,1080P-sgbd-42,,0,0,0,,So anyway 1945 the US began developing the Nike system.
-Dialogue: 0,0:01:58.02,0:02:02.46,1080P-shss-90,,0,0,0,,总之 在1945年美国开始开发奈基系统
-Dialogue: 0,0:02:02.47,0:02:08.72,1080P-sgbd-42,,0,0,0,,And it would use multiple ground-based radars and an analog computer to guide the missile to its target
-Dialogue: 0,0:02:02.47,0:02:08.72,1080P-shss-90,,0,0,0,,并且它将使用多个地面雷达和一个模拟计算机来引导导弹到达其目标
-Dialogue: 0,0:02:08.86,0:02:12.44,1080P-sgbd-42,,0,0,0,,which was clearly a step up from what Germany had worked on
-Dialogue: 0,0:02:08.86,0:02:12.44,1080P-shss-90,,0,0,0,,这显然比德国研究的要好得多
-Dialogue: 0,0:02:12.93,0:02:15.84,1080P-sgbd-42,,0,0,0,,and I'll be honest I'm actually way more interested in
-Dialogue: 0,0:02:12.93,0:02:15.84,1080P-shss-90,,0,0,0,,但说实话 我对模拟计算机的运作方式更感兴趣
-Dialogue: 0,0:02:15.84,0:02:20.15,1080P-sgbd-42,,0,0,0,,how that analog computer operated compared to the actual rocket motors
-Dialogue: 0,0:02:15.84,0:02:20.15,1080P-shss-90,,0,0,0,,与实际的火箭发动机相比
-Dialogue: 0,0:02:20.22,0:02:21.54,1080P-sgbd-42,,0,0,0,,because I kind of know how they work.
-Dialogue: 0,0:02:20.22,0:02:21.54,1080P-shss-90,,0,0,0,,因为我大概知道发动机是如何工作的
-Dialogue: 0,0:02:21.57,0:02:24.99,1080P-sgbd-42,,0,0,0,,Analog computers are a black art as far as I'm concerned.
-Dialogue: 0,0:02:21.57,0:02:24.99,1080P-shss-90,,0,0,0,,在我看来 模拟计算机是一门黑科技
-Dialogue: 0,0:02:25.68,0:02:32.09,1080P-sgbd-42,,0,0,0,,They were wonderful assemblies of tuned electronics and bespoke mechanical parts
-Dialogue: 0,0:02:25.68,0:02:32.09,1080P-shss-90,,0,0,0,,它们是由经过调整的电子器件和定制的机械部件的美妙组合
-Dialogue: 0,0:02:32.48,0:02:34.73,1080P-sgbd-42,,0,0,0,,that were needed to do the math
-Dialogue: 0,0:02:32.48,0:02:34.73,1080P-shss-90,,0,0,0,,它们是做数学运算所需要的
-Dialogue: 0,0:02:34.80,0:02:39.01,1080P-sgbd-42,,0,0,0,,in the days before that you could have a compact digital computer in your pocket, right.
-Dialogue: 0,0:02:34.80,0:02:39.01,1080P-shss-90,,0,0,0,,在你可以在你的口袋里有一个紧凑的数字计算机之前的时候 对吧
-Dialogue: 0,0:02:39.87,0:02:43.68,1080P-sgbd-42,,0,0,0,,The first missile of the Nike system was just named Nike
-Dialogue: 0,0:02:39.87,0:02:43.68,1080P-shss-90,,0,0,0,,奈基系统的第一枚导弹 就叫奈基
-Dialogue: 0,0:02:43.68,0:02:48.45,1080P-sgbd-42,,0,0,0,,and it would later be known as Nike Ajax when Nike Hercules was developed.
-Dialogue: 0,0:02:43.68,0:02:48.45,1080P-shss-90,,0,0,0,,而后来在开发奈基-大力神时 把它被称为了奈基-阿基克斯
-Dialogue: 0,0:02:48.84,0:02:52.01,1080P-sgbd-42,,0,0,0,,So Nike was originally a two-stage system
-Dialogue: 0,0:02:48.84,0:02:52.01,1080P-shss-90,,0,0,0,,所以奈基最初是一个有两级系统
-Dialogue: 0,0:02:52.06,0:02:55.74,1080P-sgbd-42,,0,0,0,,with a simple high thrust solid first stage motor
-Dialogue: 0,0:02:52.06,0:02:55.74,1080P-shss-90,,0,0,0,,其有一个简单的高推力固体第一级发动机
-Dialogue: 0,0:02:55.78,0:02:59.67,1080P-sgbd-42,,0,0,0,,that would boost the guided second stage to the required altitude and speed.
-Dialogue: 0,0:02:55.78,0:02:59.67,1080P-shss-90,,0,0,0,,将引导的第二级推进到所需的高度和速度
-Dialogue: 0,0:02:59.90,0:03:04.98,1080P-sgbd-42,,0,0,0,,The whole missile was about 10 meters long and it masked about one metric ton.
-Dialogue: 0,0:02:59.90,0:03:04.98,1080P-shss-90,,0,0,0,,整个导弹大约有10米长 而它的重量约为1吨
-Dialogue: 0,0:03:05.45,0:03:09.61,1080P-sgbd-42,,0,0,0,,The first stage generated 20 tons of thrust for about three and a half seconds
-Dialogue: 0,0:03:05.45,0:03:09.61,1080P-shss-90,,0,0,0,,第一级能产生20吨的推力 并能持续约3.5秒
-Dialogue: 0,0:03:09.87,0:03:13.36,1080P-sgbd-42,,0,0,0,,pushing the missile to mach 2 in a near vertical trajectory
-Dialogue: 0,0:03:09.87,0:03:13.36,1080P-shss-90,,0,0,0,,在近乎垂直的弹道上 将导弹推到2马赫的速度
-Dialogue: 0,0:03:13.58,0:03:17.28,1080P-sgbd-42,,0,0,0,,before the second stage was released and it began heading towards the target
-Dialogue: 0,0:03:13.58,0:03:17.28,1080P-shss-90,,0,0,0,,之后 第二级被释放 并开始向目标前进
-Dialogue: 0,0:03:17.92,0:03:21.51,1080P-sgbd-42,,0,0,0,,so the second stage was the really complicated part of the system.
-Dialogue: 0,0:03:17.92,0:03:21.51,1080P-shss-90,,0,0,0,,所以第二级是该系统中真正复杂的部分
-Dialogue: 0,0:03:21.54,0:03:23.92,1080P-sgbd-42,,0,0,0,,It had aerodynamic controls for steering.
-Dialogue: 0,0:03:21.54,0:03:23.92,1080P-shss-90,,0,0,0,,它有用于转向的气动控制
-Dialogue: 0,0:03:23.92,0:03:30.05,1080P-sgbd-42,,0,0,0,,It had a rocket engine a sustainer engine that was burning jet fuel and red fuming nitric acid(RFNA).
-Dialogue: 0,0:03:23.92,0:03:30.05,1080P-shss-90,,0,0,0,,其主发动机燃料为航空煤油和红烟硝酸
-Dialogue: 0,0:03:30.72,0:03:37.04,1080P-sgbd-42,,0,0,0,,It had a warhead which was actually three different warheads massing about 140 kilograms in total
-Dialogue: 0,0:03:30.72,0:03:37.04,1080P-shss-90,,0,0,0,,它有一个弹头 实际上是三个不同的弹头 总重约140公斤
-Dialogue: 0,0:03:37.18,0:03:40.90,1080P-sgbd-42,,0,0,0,,and yes a lot of cutting-edge 1950s avionics
-Dialogue: 0,0:03:37.18,0:03:40.90,1080P-shss-90,,0,0,0,,并且还有很多1950年代最先进的航空电子设备
-Dialogue: 0,0:03:41.00,0:03:45.31,1080P-sgbd-42,,0,0,0,,to enable the bi-directional radio communications and control from the ground.
-Dialogue: 0,0:03:41.00,0:03:45.31,1080P-shss-90,,0,0,0,,以实现双向的无线电通信和地面控制
-Dialogue: 0,0:03:46.08,0:03:49.05,1080P-sgbd-42,,0,0,0,,The sustainer engine would burn for about 30 seconds
-Dialogue: 0,0:03:46.08,0:03:49.05,1080P-shss-90,,0,0,0,,主发动机将燃烧约30秒
-Dialogue: 0,0:03:49.09,0:03:52.95,1080P-sgbd-42,,0,0,0,,and in that time the missile would continue to steer towards its target
-Dialogue: 0,0:03:49.09,0:03:52.95,1080P-shss-90,,0,0,0,,而在这段时间内 导弹将继续转向其目标
-Dialogue: 0,0:03:53.12,0:03:54.76,1080P-sgbd-42,,0,0,0,,even after the engine had burned out.
-Dialogue: 0,0:03:53.12,0:03:54.76,1080P-shss-90,,0,0,0,,甚至在发动机燃烧完毕之后 它也可以继续转向
-Dialogue: 0,0:03:54.81,0:03:57.20,1080P-sgbd-42,,0,0,0,,So this could launch up to 70 000 feet
-Dialogue: 0,0:03:54.81,0:03:57.20,1080P-shss-90,,0,0,0,,因此 它可以发射到20公里的高度
-Dialogue: 0,0:03:57.28,0:04:02.94,1080P-sgbd-42,,0,0,0,,and be able to intercept targets out to about 45 kilometers depending upon the altitude.
-Dialogue: 0,0:03:57.28,0:04:02.94,1080P-shss-90,,0,0,0,,并能够拦截大约45公里以外的目标 这取决于目标的高度
-Dialogue: 0,0:04:03.72,0:04:05.59,1080P-sgbd-42,,0,0,0,,But partly through development
-Dialogue: 0,0:04:03.72,0:04:05.59,1080P-shss-90,,0,0,0,,但在开发过程中
-Dialogue: 0,0:04:05.59,0:04:09.34,1080P-sgbd-42,,0,0,0,,it was realized that this was just not going to be able to handle the scenarios
-Dialogue: 0,0:04:05.59,0:04:09.34,1080P-shss-90,,0,0,0,,它被意识到 其不能应对
-Dialogue: 0,0:04:09.41,0:04:11.02,1080P-sgbd-42,,0,0,0,,that the US was planning for.
-Dialogue: 0,0:04:09.41,0:04:11.02,1080P-shss-90,,0,0,0,,美国正在计划应对的场景
-Dialogue: 0,0:04:11.35,0:04:12.74,1080P-sgbd-42,,0,0,0,,The threat had evolved.
-Dialogue: 0,0:04:11.35,0:04:12.74,1080P-shss-90,,0,0,0,,威胁已经发生了变化
-Dialogue: 0,0:04:13.26,0:04:16.56,1080P-sgbd-42,,0,0,0,,Planners now anticipated massed squadrons of bombers
-Dialogue: 0,0:04:13.26,0:04:16.56,1080P-shss-90,,0,0,0,,规划者们现在预计会出现的是 大规模的轰炸机中队
-Dialogue: 0,0:04:16.56,0:04:18.80,1080P-sgbd-42,,0,0,0,,no longer carrying gravity bombs
-Dialogue: 0,0:04:16.56,0:04:18.80,1080P-shss-90,,0,0,0,,不再携带非导引炸弹
-Dialogue: 0,0:04:18.85,0:04:22.50,1080P-sgbd-42,,0,0,0,,but with missiles that could be fired for at targets miles away.
-Dialogue: 0,0:04:18.85,0:04:22.50,1080P-shss-90,,0,0,0,,而是携带可以向数公里外的目标发射的导弹
-Dialogue: 0,0:04:22.92,0:04:26.05,1080P-sgbd-42,,0,0,0,,One analysis pointed out that the target tracking radar
-Dialogue: 0,0:04:22.92,0:04:26.05,1080P-shss-90,,0,0,0,,一项分析指出 目标跟踪雷达
-Dialogue: 0,0:04:26.20,0:04:30.34,1080P-sgbd-42,,0,0,0,,didn't have sufficient resolution to distinguish targets that were close together
-Dialogue: 0,0:04:26.20,0:04:30.34,1080P-shss-90,,0,0,0,,没有足够的分辨率 来区相互紧挨着的目标
-Dialogue: 0,0:04:30.60,0:04:35.44,1080P-sgbd-42,,0,0,0,,and the resolution was worse than the effective kill radius of the warhead
-Dialogue: 0,0:04:30.60,0:04:35.44,1080P-shss-90,,0,0,0,,而分辨率比弹头的有效杀伤半径还低
-Dialogue: 0,0:04:35.44,0:04:39.36,1080P-sgbd-42,,0,0,0,,so a missile launched at a squadron of tightly packed aircraft
-Dialogue: 0,0:04:35.44,0:04:39.36,1080P-shss-90,,0,0,0,,因此 向一个密密麻麻的飞机中队发射的一枚导弹
-Dialogue: 0,0:04:39.36,0:04:43.78,1080P-sgbd-42,,0,0,0,,would likely fly through the middle and detonate and fail to kill a single target.
-Dialogue: 0,0:04:39.36,0:04:43.78,1080P-shss-90,,0,0,0,,导弹可能会从中间飞过 然后引爆 并且无法摧毁其中任何一个目标
-Dialogue: 0,0:04:44.32,0:04:47.19,1080P-sgbd-42,,0,0,0,,Now one might reasonably assume that in response to this
-Dialogue: 0,0:04:44.32,0:04:47.19,1080P-shss-90,,0,0,0,,那么 为了应对这种情况 一个合理的假设是
-Dialogue: 0,0:04:47.37,0:04:51.10,1080P-sgbd-42,,0,0,0,,they began improving the design of the radar to fix the shortcoming
-Dialogue: 0,0:04:47.37,0:04:51.10,1080P-shss-90,,0,0,0,,他们开始改进雷达的设计 以解决这个缺陷
-Dialogue: 0,0:04:51.19,0:04:53.48,1080P-sgbd-42,,0,0,0,,but no this was the 1950s.
-Dialogue: 0,0:04:51.19,0:04:53.48,1080P-shss-90,,0,0,0,,但不是这样的 那可是20世纪50年代
-Dialogue: 0,0:04:53.48,0:04:58.55,1080P-sgbd-42,,0,0,0,,And the solution was instead to increase the kill radius by using a nuclear warhead.
-Dialogue: 0,0:04:53.48,0:04:58.55,1080P-shss-90,,0,0,0,,而取而代之的解决方案是 通过使用核弹头来增加杀伤半径
-Dialogue: 0,0:04:58.91,0:05:02.47,1080P-sgbd-42,,0,0,0,,Yeah the Nike Ajax was narrow.
-Dialogue: 0,0:04:58.91,0:05:02.47,1080P-shss-90,,0,0,0,,是的 奈基-阿基克斯很细
-Dialogue: 0,0:05:02.47,0:05:05.06,1080P-sgbd-42,,0,0,0,,It was only 37 centimeters in diameter.
-Dialogue: 0,0:05:02.47,0:05:05.06,1080P-shss-90,,0,0,0,,它的直径只有37厘米
-Dialogue: 0,0:05:05.10,0:05:07.21,1080P-sgbd-42,,0,0,0,,That's about 15 inches.
-Dialogue: 0,0:05:05.10,0:05:07.21,1080P-shss-90,,0,0,0,,那大约是15英寸
-Dialogue: 0,0:05:07.43,0:05:11.48,1080P-sgbd-42,,0,0,0,,And this meant that most warheads of the time simply wouldn't fit in.
-Dialogue: 0,0:05:07.43,0:05:11.48,1080P-shss-90,,0,0,0,,这意味着当时的大多数弹头根本无法装入
-Dialogue: 0,0:05:11.54,0:05:16.62,1080P-sgbd-42,,0,0,0,,There was the W9 which is was designed to fit inside a 12-inch shell
-Dialogue: 0,0:05:11.54,0:05:16.62,1080P-shss-90,,0,0,0,,有一个W9 它被设计为能装进12英寸的炮弹内
-Dialogue: 0,0:05:16.62,0:05:18.01,1080P-sgbd-42,,0,0,0,,and be fired from a cannon
-Dialogue: 0,0:05:16.62,0:05:18.01,1080P-shss-90,,0,0,0,,并从大炮中发射
-Dialogue: 0,0:05:18.14,0:05:21.03,1080P-sgbd-42,,0,0,0,,but this was a really expensive and inefficient warhead.
-Dialogue: 0,0:05:18.14,0:05:21.03,1080P-shss-90,,0,0,0,,但这是一个非常昂贵和低效的弹头
-Dialogue: 0,0:05:21.03,0:05:25.27,1080P-sgbd-42,,0,0,0,,To make it skinny, it used a gun-type core assembly mechanism
-Dialogue: 0,0:05:21.03,0:05:25.27,1080P-shss-90,,0,0,0,,为了使它变细 它使用了一种枪式的核心装配机制
-Dialogue: 0,0:05:25.34,0:05:29.60,1080P-sgbd-42,,0,0,0,,where you would fire a subcritical mass of uranium into another mass of uranium
-Dialogue: 0,0:05:25.34,0:05:29.60,1080P-shss-90,,0,0,0,,在其中 你将发射一个亚临界质量的铀到另一个质量的铀中去
-Dialogue: 0,0:05:29.60,0:05:33.63,1080P-sgbd-42,,0,0,0,,and that meant that it needed about five times as much fissile material
-Dialogue: 0,0:05:29.60,0:05:33.63,1080P-shss-90,,0,0,0,,而这意味着它需要大约五倍的裂变材料
-Dialogue: 0,0:05:33.98,0:05:39.00,1080P-sgbd-42,,0,0,0,,compared to a more common more efficient spherical implosion device.
-Dialogue: 0,0:05:33.98,0:05:39.00,1080P-shss-90,,0,0,0,,与更常见的 更有效的球形内爆装置相比
-Dialogue: 0,0:05:39.49,0:05:41.66,1080P-sgbd-42,,0,0,0,,So that was never going to be viable.
-Dialogue: 0,0:05:39.49,0:05:41.66,1080P-shss-90,,0,0,0,,所以 这总是不可行的
-Dialogue: 0,0:05:41.86,0:05:46.56,1080P-sgbd-42,,0,0,0,,Instead they decided to build a much bigger rocket, the Nike Hercules
-Dialogue: 0,0:05:41.86,0:05:46.56,1080P-shss-90,,0,0,0,,相反 他们决定建造一个更大的火箭 即奈基-大力神
-Dialogue: 0,0:05:46.56,0:05:48.16,1080P-sgbd-42,,0,0,0,,and it began development
-Dialogue: 0,0:05:46.56,0:05:48.16,1080P-shss-90,,0,0,0,,而其开始研制
-Dialogue: 0,0:05:48.16,0:05:54.63,1080P-sgbd-42,,0,0,0,,it would be able to accommodate a 500 kilo warhead
-Dialogue: 0,0:05:48.16,0:05:54.63,1080P-shss-90,,0,0,0,,它将能够容纳500公斤的弹头
-Dialogue: 0,0:05:54.82,0:05:58.04,1080P-sgbd-42,,0,0,0,,and deliver it to targets about 150 kilometers away
-Dialogue: 0,0:05:54.82,0:05:58.04,1080P-shss-90,,0,0,0,,并将其运送到150公里以外的目标
-Dialogue: 0,0:05:58.58,0:06:01.36,1080P-sgbd-42,,0,0,0,,flying at an altitude of up to a hundred thousand feet
-Dialogue: 0,0:05:58.58,0:06:01.36,1080P-shss-90,,0,0,0,,它的飞行高度可达30公里
-Dialogue: 0,0:06:01.36,0:06:03.90,1080P-sgbd-42,,0,0,0,,and speeds in excess of mach 3.
-Dialogue: 0,0:06:01.36,0:06:03.90,1080P-shss-90,,0,0,0,,并且速度超过3马赫
-Dialogue: 0,0:06:04.47,0:06:06.52,1080P-sgbd-42,,0,0,0,,So for the first boost stage the design
-Dialogue: 0,0:06:04.47,0:06:06.52,1080P-shss-90,,0,0,0,,因此 对于第一推进级的设计
-Dialogue: 0,0:06:06.58,0:06:10.40,1080P-sgbd-42,,0,0,0,,they just clustered four of the previous boosters together
-Dialogue: 0,0:06:06.58,0:06:10.40,1080P-shss-90,,0,0,0,,他们只是把以前的四个助推器集中在一起
-Dialogue: 0,0:06:10.63,0:06:13.69,1080P-sgbd-42,,0,0,0,,added big fins to keep it straight during that boost.
-Dialogue: 0,0:06:10.63,0:06:13.69,1080P-shss-90,,0,0,0,,增加了大的翅片 以保持它加速的过程中保持直线
-Dialogue: 0,0:06:14.00,0:06:17.44,1080P-sgbd-42,,0,0,0,,The second stage they got rid of the liquid-fueled engine
-Dialogue: 0,0:06:14.00,0:06:17.44,1080P-shss-90,,0,0,0,,在第二级 他们去掉了液体发动机
-Dialogue: 0,0:06:17.52,0:06:19.34,1080P-sgbd-42,,0,0,0,,which had the really toxic propellants
-Dialogue: 0,0:06:17.52,0:06:19.34,1080P-shss-90,,0,0,0,,那其中有真正有毒的推进剂
-Dialogue: 0,0:06:19.62,0:06:23.09,1080P-sgbd-42,,0,0,0,,and just used a solid motor that burned for about 30 seconds.
-Dialogue: 0,0:06:19.62,0:06:23.09,1080P-shss-90,,0,0,0,,而只是使用了一个大约能燃烧30秒的固体发动机
-Dialogue: 0,0:06:23.79,0:06:27.93,1080P-sgbd-42,,0,0,0,,Though, they changed the layout of the control surfaces and the whole aerodynamic design.
-Dialogue: 0,0:06:23.79,0:06:27.93,1080P-shss-90,,0,0,0,,不过 他们改变了操纵面的布局和整体空气动力学设计
-Dialogue: 0,0:06:28.24,0:06:32.67,1080P-sgbd-42,,0,0,0,,It was a bit longer about 12 meters and it mass about 4.8 tons.
-Dialogue: 0,0:06:28.24,0:06:32.67,1080P-shss-90,,0,0,0,,它有点长 长大约为12米 质量大约为4.8吨
-Dialogue: 0,0:06:33.42,0:06:36.16,1080P-sgbd-42,,0,0,0,,So the warhead on that was the W31
-Dialogue: 0,0:06:33.42,0:06:36.16,1080P-shss-90,,0,0,0,,所以它使用的弹头是W31
-Dialogue: 0,0:06:36.16,0:06:39.45,1080P-sgbd-42,,0,0,0,,which was a high-tech boosted fission implosion device.
-Dialogue: 0,0:06:36.16,0:06:39.45,1080P-shss-90,,0,0,0,,这是一种高科技的助推分裂式内爆装置
-Dialogue: 0,0:06:39.68,0:06:41.98,1080P-sgbd-42,,0,0,0,,It probably had selectable yields.
-Dialogue: 0,0:06:39.68,0:06:41.98,1080P-shss-90,,0,0,0,,它的当量可能是可选择的
-Dialogue: 0,0:06:42.01,0:06:45.94,1080P-sgbd-42,,0,0,0,,I've seen that it could do 20 kilotons or 40 kilotons.
-Dialogue: 0,0:06:42.01,0:06:45.94,1080P-shss-90,,0,0,0,,我看到它可以达到2万吨或4万吨
-Dialogue: 0,0:06:46.38,0:06:50.91,1080P-sgbd-42,,0,0,0,,More commonly however there was a 500 kilogram conventional warhead.
-Dialogue: 0,0:06:46.38,0:06:50.91,1080P-shss-90,,0,0,0,,然而 更常见的是一个500公斤的常规弹头
-Dialogue: 0,0:06:51.27,0:06:56.66,1080P-sgbd-42,,0,0,0,,I hear the US batteries probably had three conventional warheads for every single nuclear warhead
-Dialogue: 0,0:06:51.27,0:06:56.66,1080P-shss-90,,0,0,0,,我听说美国的炮组 可能在每一个核弹头上都有三个常规弹头
-Dialogue: 0,0:06:56.93,0:07:01.73,1080P-sgbd-42,,0,0,0,,and obviously other countries that they sold it to didn't have the nuclear option available to them.
-Dialogue: 0,0:06:56.93,0:07:01.73,1080P-shss-90,,0,0,0,,而显然 他们卖给的其他国家 并没有核弹头可供选择
-Dialogue: 0,0:07:02.87,0:07:05.23,1080P-sgbd-42,,0,0,0,,Despite the radical redesign of the missile
-Dialogue: 0,0:07:02.87,0:07:05.23,1080P-shss-90,,0,0,0,,尽管对导弹进行了彻底的重新设计
-Dialogue: 0,0:07:05.36,0:07:08.62,1080P-sgbd-42,,0,0,0,,it actually kept the same ground control hardware for guidance
-Dialogue: 0,0:07:05.36,0:07:08.62,1080P-shss-90,,0,0,0,,它实际上保留了相同的地面控制设备用于制导
-Dialogue: 0,0:07:08.66,0:07:13.36,1080P-sgbd-42,,0,0,0,,so both missiles operated in basically the same manner with exactly the same computer
-Dialogue: 0,0:07:08.66,0:07:13.36,1080P-shss-90,,0,0,0,,所以两枚导弹的操作方式基本相同 使用的计算机也完全相同
-Dialogue: 0,0:07:13.36,0:07:15.13,1080P-sgbd-42,,0,0,0,,maybe with some variables tweaked.
-Dialogue: 0,0:07:13.36,0:07:15.13,1080P-shss-90,,0,0,0,,也许只进行了一些微小的调整
-Dialogue: 0,0:07:15.65,0:07:19.11,1080P-sgbd-42,,0,0,0,,Now you might have an idea of how a surface-to-air missile operates
-Dialogue: 0,0:07:15.65,0:07:19.11,1080P-shss-90,,0,0,0,,那么 你对地对空导弹的操作的概念可能是
-Dialogue: 0,0:07:19.36,0:07:22.67,1080P-sgbd-42,,0,0,0,,heading upwards from the launch site directly towards the target.
-Dialogue: 0,0:07:19.36,0:07:22.67,1080P-shss-90,,0,0,0,,从发射场向上直接射向目标
-Dialogue: 0,0:07:22.94,0:07:24.80,1080P-sgbd-42,,0,0,0,,But Nike didn't work like this.
-Dialogue: 0,0:07:22.94,0:07:24.80,1080P-shss-90,,0,0,0,,但奈基导弹并不是这样工作的
-Dialogue: 0,0:07:25.05,0:07:27.57,1080P-sgbd-42,,0,0,0,,It would initially boost upwards to its altitude
-Dialogue: 0,0:07:25.05,0:07:27.57,1080P-shss-90,,0,0,0,,它最初会向上推进到其高度
-Dialogue: 0,0:07:27.59,0:07:32.93,1080P-sgbd-42,,0,0,0,,and then it would arc over such that it would typically approach its targets from above.
-Dialogue: 0,0:07:27.59,0:07:32.93,1080P-shss-90,,0,0,0,,然后它将进行弧线运动 它通常会以这种方式从上方接近其目标
-Dialogue: 0,0:07:33.89,0:07:38.24,1080P-sgbd-42,,0,0,0,,So how the guidance works with Nike was that there was a target tracking radar
-Dialogue: 0,0:07:33.89,0:07:38.24,1080P-shss-90,,0,0,0,,所以 奈基的制导方式是 有一个目标跟踪雷达
-Dialogue: 0,0:07:38.24,0:07:39.82,1080P-sgbd-42,,0,0,0,,which would be pointed at the target
-Dialogue: 0,0:07:38.24,0:07:39.82,1080P-shss-90,,0,0,0,,会对准目标
-Dialogue: 0,0:07:39.84,0:07:42.80,1080P-sgbd-42,,0,0,0,,and they would find the target using other scanning radar systems
-Dialogue: 0,0:07:39.84,0:07:42.80,1080P-shss-90,,0,0,0,,而且 他们会用其他的扫描雷达系统找到目标
-Dialogue: 0,0:07:42.82,0:07:44.50,1080P-sgbd-42,,0,0,0,,but this one would fix on the target
-Dialogue: 0,0:07:42.82,0:07:44.50,1080P-shss-90,,0,0,0,,但这个雷达会固定在目标上
-Dialogue: 0,0:07:44.95,0:07:51.22,1080P-sgbd-42,,0,0,0,,and the mount, the azimuth and the altitude would be sent to the computer as well as the distance.
-Dialogue: 0,0:07:44.95,0:07:51.22,1080P-shss-90,,0,0,0,,而方位角和高度的大小会被发送到电脑上 同时其也会显示距离
-Dialogue: 0,0:07:51.66,0:07:54.39,1080P-sgbd-42,,0,0,0,,And similarly there was a a tracking antenna
-Dialogue: 0,0:07:51.66,0:07:54.39,1080P-shss-90,,0,0,0,,同样 也有一个跟踪天线
-Dialogue: 0,0:07:54.78,0:07:58.81,1080P-sgbd-42,,0,0,0,,and that wouldn't rely on radar because the missile actually had a transponder on it
-Dialogue: 0,0:07:54.78,0:07:58.81,1080P-shss-90,,0,0,0,,而那并不依赖于雷达 因为导弹实际上有一个应答机
-Dialogue: 0,0:07:59.03,0:08:03.07,1080P-sgbd-42,,0,0,0,,and it too would return the range and the direction the altitude and the azimuth
-Dialogue: 0,0:07:59.03,0:08:03.07,1080P-shss-90,,0,0,0,,而它也会返回距离 方向 高度以及方位角的信息
-Dialogue: 0,0:08:03.36,0:08:06.69,1080P-sgbd-42,,0,0,0,,but it would also send commands and receive data from the missile.
-Dialogue: 0,0:08:03.36,0:08:06.69,1080P-shss-90,,0,0,0,,但它也会用来发送指令 并接收来自导弹的数据
-Dialogue: 0,0:08:07.19,0:08:10.63,1080P-sgbd-42,,0,0,0,,The missile tracking antenna couldn't be too close to the launch site
-Dialogue: 0,0:08:07.19,0:08:10.63,1080P-shss-90,,0,0,0,,导弹的跟踪天线不能离发射地点太近
-Dialogue: 0,0:08:10.85,0:08:14.05,1080P-sgbd-42,,0,0,0,,because it had to be able to turn fast enough to track the missile
-Dialogue: 0,0:08:10.85,0:08:14.05,1080P-shss-90,,0,0,0,,因为它必须能够快速转向 以追踪导弹
-Dialogue: 0,0:08:14.48,0:08:18.54,1080P-sgbd-42,,0,0,0,,so if the missile went straight up and the radar was too close
-Dialogue: 0,0:08:14.48,0:08:18.54,1080P-shss-90,,0,0,0,,因此 如果导弹竖直升空 而雷达离得太近的话
-Dialogue: 0,0:08:18.72,0:08:19.90,1080P-sgbd-42,,0,0,0,,it wouldn't be able to track that.
-Dialogue: 0,0:08:18.72,0:08:19.90,1080P-shss-90,,0,0,0,,雷达就无法跟踪导弹
-Dialogue: 0,0:08:20.16,0:08:24.94,1080P-sgbd-42,,0,0,0,,Also if the trajectory would carry over this antenna
-Dialogue: 0,0:08:20.16,0:08:24.94,1080P-shss-90,,0,0,0,,此外 如果导弹的弹道会经过这个天线
-Dialogue: 0,0:08:24.96,0:08:28.08,1080P-sgbd-42,,0,0,0,,it wouldn't be able to twist around quickly enough near the zenith.
-Dialogue: 0,0:08:24.96,0:08:28.08,1080P-shss-90,,0,0,0,,雷达就无法在天顶点附近迅速转动
-Dialogue: 0,0:08:28.70,0:08:32.20,1080P-sgbd-42,,0,0,0,,So that constrained where they could situate these things and fire things.
-Dialogue: 0,0:08:28.70,0:08:32.20,1080P-shss-90,,0,0,0,,所以 这就限制了他们在哪里可以放置这些设备和发射导弹
-Dialogue: 0,0:08:32.85,0:08:38.36,1080P-sgbd-42,,0,0,0,,So anyway the guidance computer it would just send steering signals in pitch and yaw to the missile
-Dialogue: 0,0:08:32.85,0:08:38.36,1080P-shss-90,,0,0,0,,总之 制导计算机将只是向导弹发送俯仰和偏航的转向信号
-Dialogue: 0,0:08:38.58,0:08:39.92,1080P-sgbd-42,,0,0,0,,and the missile follows these
-Dialogue: 0,0:08:38.58,0:08:39.92,1080P-shss-90,,0,0,0,,而导弹跟着这些信号走
-Dialogue: 0,0:08:39.99,0:08:41.94,1080P-sgbd-42,,0,0,0,,but it had its on-board smarts.
-Dialogue: 0,0:08:39.99,0:08:41.94,1080P-shss-90,,0,0,0,,但它有它的机载智能
-Dialogue: 0,0:08:41.98,0:08:45.47,1080P-sgbd-42,,0,0,0,,It had accelerometers and gyroscopes that were all in the control loop.
-Dialogue: 0,0:08:41.98,0:08:45.47,1080P-shss-90,,0,0,0,,它有加速计和陀螺仪 这些都在控制回路中
-Dialogue: 0,0:08:46.15,0:08:48.40,1080P-sgbd-42,,0,0,0,,The role was cancelled out locally
-Dialogue: 0,0:08:46.15,0:08:48.40,1080P-shss-90,,0,0,0,,这个作用在本地被取消了
-Dialogue: 0,0:08:48.42,0:08:51.27,1080P-sgbd-42,,0,0,0,,and the control surfaces for pitch and yaw
-Dialogue: 0,0:08:48.42,0:08:51.27,1080P-shss-90,,0,0,0,,而俯仰和偏航的控制面
-Dialogue: 0,0:08:51.46,0:08:56.22,1080P-sgbd-42,,0,0,0,,were constrained by the gyroscopes and accelerometers to keep the turn at the commanded rates.
-Dialogue: 0,0:08:51.46,0:08:56.22,1080P-shss-90,,0,0,0,,被陀螺仪和加速计限制 以使转向保持在指令的速率
-Dialogue: 0,0:08:57.78,0:09:00.40,1080P-sgbd-42,,0,0,0,,So the detonation was controlled from the ground
-Dialogue: 0,0:08:57.78,0:09:00.40,1080P-shss-90,,0,0,0,,爆炸是在地面上控制的
-Dialogue: 0,0:09:00.45,0:09:04.90,1080P-sgbd-42,,0,0,0,,and a fraction of a second before the intercept the warhead would be commanded to detonate
-Dialogue: 0,0:09:00.45,0:09:04.90,1080P-shss-90,,0,0,0,,而在拦截前几分之一秒 弹头会被控制引爆
-Dialogue: 0,0:09:05.34,0:09:09.04,1080P-sgbd-42,,0,0,0,,ensuring optimal spread of shrapnel from the conventional warhead
-Dialogue: 0,0:09:05.34,0:09:09.04,1080P-shss-90,,0,0,0,,确保常规弹头的弹片能做到最佳的覆盖
-Dialogue: 0,0:09:09.04,0:09:14.83,1080P-sgbd-42,,0,0,0,,and I imagine that the nuclear warhead had a little more wiggle room for the detonation.
-Dialogue: 0,0:09:09.04,0:09:14.83,1080P-shss-90,,0,0,0,,而且我想 核弹头在引爆时有更多的回转余地
-Dialogue: 0,0:09:15.42,0:09:18.64,1080P-sgbd-42,,0,0,0,,The nuclear version also had a surface attack profile
-Dialogue: 0,0:09:15.42,0:09:18.64,1080P-shss-90,,0,0,0,,搭载核弹的版本还具有对地攻击的配置
-Dialogue: 0,0:09:18.96,0:09:24.01,1080P-sgbd-42,,0,0,0,,which was in theory a good and useful capability for many of the sites or on the coast
-Dialogue: 0,0:09:18.96,0:09:24.01,1080P-shss-90,,0,0,0,,其理论上 对许多地点或沿海地区来说有很好的实用性
-Dialogue: 0,0:09:24.16,0:09:26.10,1080P-sgbd-42,,0,0,0,,less so for those in the middle of the country
-Dialogue: 0,0:09:24.16,0:09:26.10,1080P-shss-90,,0,0,0,,而对于那些位于国家内部的地点来说 就不是那么回事了
-Dialogue: 0,0:09:26.98,0:09:31.81,1080P-sgbd-42,,0,0,0,,For safety reasons if contact was lost with the ground station for more than two seconds
-Dialogue: 0,0:09:26.98,0:09:31.81,1080P-shss-90,,0,0,0,,出于安全考虑 如果导弹与地面站失去联系的时间超过两秒
-Dialogue: 0,0:09:32.10,0:09:33.84,1080P-sgbd-42,,0,0,0,,the missile would destroy itself.
-Dialogue: 0,0:09:32.10,0:09:33.84,1080P-shss-90,,0,0,0,,导弹就会自毁
-Dialogue: 0,0:09:34.13,0:09:38.55,1080P-sgbd-42,,0,0,0,,It could either detonate the warhead if it was a conventional warhead
-Dialogue: 0,0:09:34.13,0:09:38.55,1080P-shss-90,,0,0,0,,如果是常规弹头 它可以引爆弹头
-Dialogue: 0,0:09:38.90,0:09:42.72,1080P-sgbd-42,,0,0,0,,or if it was a nuclear warhead they would use a one-point detonation
-Dialogue: 0,0:09:38.90,0:09:42.72,1080P-shss-90,,0,0,0,,或者如果是核弹头 他们会使用单点引爆的方式
-Dialogue: 0,0:09:42.72,0:09:47.10,1080P-sgbd-42,,0,0,0,,instead of imploding the device, they would just destroy the implosion system
-Dialogue: 0,0:09:42.72,0:09:47.10,1080P-shss-90,,0,0,0,,摧毁内爆系统 而不是让装置内爆
-Dialogue: 0,0:09:47.52,0:09:49.86,1080P-sgbd-42,,0,0,0,,and you would have a instead of a nuclear blast
-Dialogue: 0,0:09:47.52,0:09:49.86,1080P-shss-90,,0,0,0,,这样 不会发生核爆炸
-Dialogue: 0,0:09:49.88,0:09:52.58,1080P-sgbd-42,,0,0,0,,you would have a radiation rich pile of debris.
-Dialogue: 0,0:09:49.88,0:09:52.58,1080P-shss-90,,0,0,0,,而会得到一堆富含辐射的碎片
-Dialogue: 0,0:09:53.51,0:09:56.95,1080P-sgbd-42,,0,0,0,,There was another safety system that was important for the warhead.
-Dialogue: 0,0:09:53.51,0:09:56.95,1080P-shss-90,,0,0,0,,还有一个安全系统对弹头很重要
-Dialogue: 0,0:09:56.95,0:10:00.37,1080P-sgbd-42,,0,0,0,,It would control arming of the warhead based on atmospheric pressure
-Dialogue: 0,0:09:56.95,0:10:00.37,1080P-shss-90,,0,0,0,,它会根据大气压力来控制弹头解除保险
-Dialogue: 0,0:10:00.45,0:10:03.49,1080P-sgbd-42,,0,0,0,,to make sure that it wasn't armed when it was sitting at the base.
-Dialogue: 0,0:10:00.45,0:10:03.49,1080P-shss-90,,0,0,0,,以确保它在基地时不会被解除保险
-Dialogue: 0,0:10:03.92,0:10:08.57,1080P-sgbd-42,,0,0,0,,And included like a distinctive nose sensor that kind of resembled a harpoon.
-Dialogue: 0,0:10:03.92,0:10:08.57,1080P-shss-90,,0,0,0,,而这些还包括像一个独特的头部传感器 它长得有点像鱼叉
-Dialogue: 0,0:10:09.13,0:10:11.92,1080P-sgbd-42,,0,0,0,,The non-nuclear version wouldn't need this of course
-Dialogue: 0,0:10:09.13,0:10:11.92,1080P-shss-90,,0,0,0,,当然 非核版本不需要这个
-Dialogue: 0,0:10:12.22,0:10:16.07,1080P-sgbd-42,,0,0,0,,but they included dummy versions on all the missiles
-Dialogue: 0,0:10:12.22,0:10:16.07,1080P-shss-90,,0,0,0,,但他们在所有的导弹上都安装了假的版本
-Dialogue: 0,0:10:16.24,0:10:19.93,1080P-sgbd-42,,0,0,0,,so that casual inspection wouldn't be able to tell the difference between the missiles
-Dialogue: 0,0:10:16.24,0:10:19.93,1080P-shss-90,,0,0,0,,这样 随便一看是无法分辨出导弹之间的区别的
-Dialogue: 0,0:10:20.01,0:10:21.10,1080P-sgbd-42,,0,0,0,,if you were just looking at them.
-Dialogue: 0,0:10:20.01,0:10:21.10,1080P-shss-90,,0,0,0,,如果你只是(从外部)看着它们的话
-Dialogue: 0,0:10:22.05,0:10:25.85,1080P-sgbd-42,,0,0,0,,So Nike Hercules would have been a formidable defense
-Dialogue: 0,0:10:22.05,0:10:25.85,1080P-shss-90,,0,0,0,,因此 奈基-大力神将会是一个强大的力量
-Dialogue: 0,0:10:25.90,0:10:30.18,1080P-sgbd-42,,0,0,0,,against formations of bombers that were mounting an attack on the United States.
-Dialogue: 0,0:10:25.90,0:10:30.18,1080P-shss-90,,0,0,0,,在防御轰炸机编队对美国的攻击上
-Dialogue: 0,0:10:30.55,0:10:35.17,1080P-sgbd-42,,0,0,0,,However by the time that Nike Hercules was deployed in 1958
-Dialogue: 0,0:10:30.55,0:10:35.17,1080P-shss-90,,0,0,0,,然而 在1958年部署奈基-大力神时
-Dialogue: 0,0:10:35.42,0:10:40.41,1080P-sgbd-42,,0,0,0,,the Soviet Union had already demonstrated the ability to want launch warheads on rockets.
-Dialogue: 0,0:10:35.42,0:10:40.41,1080P-shss-90,,0,0,0,,苏联已经证明 其有能力在用火箭发射弹头
-Dialogue: 0,0:10:40.79,0:10:43.28,1080P-sgbd-42,,0,0,0,,And the equations changed again.
-Dialogue: 0,0:10:40.79,0:10:43.28,1080P-shss-90,,0,0,0,,于是 局面再次发生变化
-Dialogue: 0,0:10:44.06,0:10:46.24,1080P-sgbd-42,,0,0,0,,So they did actually demonstrate that
-Dialogue: 0,0:10:44.06,0:10:46.24,1080P-shss-90,,0,0,0,,所以他们确实证明了
-Dialogue: 0,0:10:46.26,0:10:50.40,1080P-sgbd-42,,0,0,0,,a Nike Hercules could in theory shoot down a ballistic missile
-Dialogue: 0,0:10:46.26,0:10:50.40,1080P-shss-90,,0,0,0,,奈基-大力神在理论上可以击落一枚弹道导弹
-Dialogue: 0,0:10:50.42,0:10:53.06,1080P-sgbd-42,,0,0,0,,by intercepting a Corporal ballistic missile
-Dialogue: 0,0:10:50.42,0:10:53.06,1080P-shss-90,,0,0,0,,通过拦截一枚下士弹道导弹
-Dialogue: 0,0:10:53.50,0:10:58.60,1080P-sgbd-42,,0,0,0,,but it really wasn't well designed or well suited for anti-ballistic missile work
-Dialogue: 0,0:10:53.50,0:10:58.60,1080P-shss-90,,0,0,0,,但它的设计并不完善 或者说不适合用于反弹道导弹工作
-Dialogue: 0,0:10:59.03,0:11:04.48,1080P-sgbd-42,,0,0,0,,and so the Nike Zeus was proposed which was bigger and faster still
-Dialogue: 0,0:10:59.03,0:11:04.48,1080P-shss-90,,0,0,0,,因此 他们提出了奈基-宙斯 它更大更快
-Dialogue: 0,0:11:04.48,0:11:07.13,1080P-sgbd-42,,0,0,0,,and it used a completely different guidance system.
-Dialogue: 0,0:11:04.48,0:11:07.13,1080P-shss-90,,0,0,0,,而且它使用了完全不同的制导系统
-Dialogue: 0,0:11:07.54,0:11:12.19,1080P-sgbd-42,,0,0,0,,It was tested but it never really made it to operational status.
-Dialogue: 0,0:11:07.54,0:11:12.19,1080P-shss-90,,0,0,0,,它被测试过 但它从未真正进入可运作状态
-Dialogue: 0,0:11:12.21,0:11:15.14,1080P-sgbd-42,,0,0,0,,They also promoted as a anti-satellite weapon.
-Dialogue: 0,0:11:12.21,0:11:15.14,1080P-shss-90,,0,0,0,,他们还将其作为一种反卫星武器来推广
-Dialogue: 0,0:11:15.44,0:11:17.32,1080P-sgbd-42,,0,0,0,,Never got deployed like that either.
-Dialogue: 0,0:11:15.44,0:11:17.32,1080P-shss-90,,0,0,0,,它也没有得到那样的部署
-Dialogue: 0,0:11:17.83,0:11:19.26,1080P-sgbd-42,,0,0,0,,And of course during the whole career
-Dialogue: 0,0:11:17.83,0:11:19.26,1080P-shss-90,,0,0,0,,当然 在其整个服役生涯中
-Dialogue: 0,0:11:19.28,0:11:23.40,1080P-sgbd-42,,0,0,0,,the US never actually fired any of its Nike missiles at live targets.
-Dialogue: 0,0:11:19.28,0:11:23.40,1080P-shss-90,,0,0,0,,美国从未真正向实战目标发射过任何奈基导弹
-Dialogue: 0,0:11:23.48,0:11:24.95,1080P-sgbd-42,,0,0,0,,It was never used in anger.
-Dialogue: 0,0:11:23.48,0:11:24.95,1080P-shss-90,,0,0,0,,它从未在愤怒中被使用过
-Dialogue: 0,0:11:25.17,0:11:31.43,1080P-sgbd-42,,0,0,0,,There was actually a demonstration of the Hercules with the nuclear warhead in november of 1962.
-Dialogue: 0,0:11:25.17,0:11:31.43,1080P-shss-90,,0,0,0,,实际上 在1962年11月搭载核弹头的大力神曾被试验过
-Dialogue: 0,0:11:31.85,0:11:35.36,1080P-sgbd-42,,0,0,0,,The US carried out what would be its last atmospheric test
-Dialogue: 0,0:11:31.85,0:11:35.36,1080P-shss-90,,0,0,0,,美国使用大力神 进行了其最后一次大气层核试验
-Dialogue: 0,0:11:35.36,0:11:38.94,1080P-sgbd-42,,0,0,0,,using a Hercules on Johnston Island in the south pacific.
-Dialogue: 0,0:11:35.36,0:11:38.94,1080P-shss-90,,0,0,0,,在南太平洋的约翰斯顿环礁
-Dialogue: 0,0:11:39.44,0:11:45.36,1080P-sgbd-42,,0,0,0,,It detonated the warhead at 69 000 feet practically over the island.
-Dialogue: 0,0:11:39.44,0:11:45.36,1080P-shss-90,,0,0,0,,它在21公里的高空引爆了弹头 很接近岛的上方
-Dialogue: 0,0:11:45.72,0:11:47.46,1080P-sgbd-42,,0,0,0,,The test was codenamed Tightrope
-Dialogue: 0,0:11:45.72,0:11:47.46,1080P-shss-90,,0,0,0,,这次试验的代号是钢丝
-Dialogue: 0,0:11:47.53,0:11:50.40,1080P-sgbd-42,,0,0,0,,and it was a final test of Operation Dominic
-Dialogue: 0,0:11:47.53,0:11:50.40,1080P-shss-90,,0,0,0,,它是多米尼克行动的最后一次测试
-Dialogue: 0,0:11:50.46,0:11:52.86,1080P-sgbd-42,,0,0,0,,that had many other high altitude tests
-Dialogue: 0,0:11:50.46,0:11:52.86,1080P-shss-90,,0,0,0,,其中还有许多其他的高空试验
-Dialogue: 0,0:11:52.90,0:11:59.58,1080P-sgbd-42,,0,0,0,,including the much more famous Starfish Prime shot that exploded at 400 kilometers altitude.
-Dialogue: 0,0:11:52.90,0:11:59.58,1080P-shss-90,,0,0,0,,包括于400千米高空进行的更有名的海星一号测试
-Dialogue: 0,0:12:00.61,0:12:06.01,1080P-sgbd-42,,0,0,0,,The US shut down most of the Nike sites by 1974 as part of the SALT treaty
-Dialogue: 0,0:12:00.61,0:12:06.01,1080P-shss-90,,0,0,0,,到1974年 美国关闭了大部分奈基导弹基地 作为SALT条约的一部分
-Dialogue: 0,0:12:06.32,0:12:09.38,1080P-sgbd-42,,0,0,0,,and that included the SF-88 site near me.
-Dialogue: 0,0:12:06.32,0:12:09.38,1080P-shss-90,,0,0,0,,而这其中包括我附近的SF-88基地
-Dialogue: 0,0:12:09.62,0:12:13.68,1080P-sgbd-42,,0,0,0,,Although there were a number of other coastal sites that remained active a little longer.
-Dialogue: 0,0:12:09.62,0:12:13.68,1080P-shss-90,,0,0,0,,虽然有一些其他沿海地区的发射场仍然运作了一段时间
-Dialogue: 0,0:12:13.85,0:12:17.60,1080P-sgbd-42,,0,0,0,,There's a couple of sites in Alaska that remained active until 1979
-Dialogue: 0,0:12:13.85,0:12:17.60,1080P-shss-90,,0,0,0,,在阿拉斯加有几个发射点一直运作到1979年
-Dialogue: 0,0:12:17.60,0:12:23.36,1080P-sgbd-42,,0,0,0,,and around the world there were other nations that kept their missiles running well into the 1990s
-Dialogue: 0,0:12:17.60,0:12:23.36,1080P-shss-90,,0,0,0,,而在世界范围内 还有其他国家的导弹一直运行到20世纪90年代
-Dialogue: 0,0:12:23.36,0:12:26.50,1080P-sgbd-42,,0,0,0,,obviously lacking the extra spicy warhead option.
-Dialogue: 0,0:12:23.36,0:12:26.50,1080P-shss-90,,0,0,0,,显然 他们缺乏额外的辛辣弹头选项
-Dialogue: 0,0:12:27.30,0:12:33.02,1080P-sgbd-42,,0,0,0,,The Nike booster stage also found use in a lot of different sounding rocket designs used for research
-Dialogue: 0,0:12:27.30,0:12:33.02,1080P-shss-90,,0,0,0,,奈基的助推器级 也被用于许多不同的研究用探空火箭的设计中
-Dialogue: 0,0:12:33.04,0:12:36.13,1080P-sgbd-42,,0,0,0,,and usually the names are based on the first and second stage
-Dialogue: 0,0:12:33.04,0:12:36.13,1080P-shss-90,,0,0,0,,而且 其通常名称是根据第一级和第二级命名的
-Dialogue: 0,0:12:36.16,0:12:42.51,1080P-sgbd-42,,0,0,0,,so you had things like Nike Apache, Nike Javelin, Nike Tomahawk and even Nike Nike.
-Dialogue: 0,0:12:36.16,0:12:42.51,1080P-shss-90,,0,0,0,,所以你会有像奈基-阿帕奇 奈基-标枪 奈基-战斧 甚至奈基-奈基的东西
-Dialogue: 0,0:12:43.04,0:12:46.32,1080P-sgbd-42,,0,0,0,,The most enduring model I can find is the Nike Tomahawk
-Dialogue: 0,0:12:43.04,0:12:46.32,1080P-shss-90,,0,0,0,,我可以找到使用最久的型号是奈基-战斧
-Dialogue: 0,0:12:46.32,0:12:49.76,1080P-sgbd-42,,0,0,0,,which continued to fly right up until 1995.
-Dialogue: 0,0:12:46.32,0:12:49.76,1080P-shss-90,,0,0,0,,它被一直使用到1995年
-Dialogue: 0,0:12:50.29,0:12:52.85,1080P-sgbd-42,,0,0,0,,So look I know this isn't my usual space content
-Dialogue: 0,0:12:50.29,0:12:52.85,1080P-shss-90,,0,0,0,,所以看 我知道这不是我通常讲的太空相关内容
-Dialogue: 0,0:12:52.87,0:12:54.66,1080P-sgbd-42,,0,0,0,,but it is something from rocket history
-Dialogue: 0,0:12:52.87,0:12:54.66,1080P-shss-90,,0,0,0,,但它是火箭历史上的东西
-Dialogue: 0,0:12:54.71,0:12:56.32,1080P-sgbd-42,,0,0,0,,and it's practically in my backyard.
-Dialogue: 0,0:12:54.71,0:12:56.32,1080P-shss-90,,0,0,0,,而且它几乎就在我的后院
-Dialogue: 0,0:12:56.32,0:12:57.86,1080P-sgbd-42,,0,0,0,,I wanted to share it with you.
-Dialogue: 0,0:12:56.32,0:12:57.86,1080P-shss-90,,0,0,0,,所以我想与你分享它
-Dialogue: 0,0:12:58.43,0:13:00.86,1080P-sgbd-42,,0,0,0,,I'm Scott Manley. Fly safe.
-Dialogue: 0,0:12:58.43,0:13:00.86,1080P-shss-90,,0,0,0,,我是Scott Manley 切记 注意飞行安全
-Dialogue: 0,0:13:00.88,0:13:22.72,1080P-sgbd-4s,,0,0,0,,[Music]
-Dialogue: 0,0:13:00.88,0:13:22.72,1080P-sgsm-6s,,0,0,0,,[音乐]
+Dialogue: 0,0:00:10.08,0:00:17.08,1080P-sgsm-50,,0,0,0,,{\blur4}阿拉米达(Alameda)\N是一座位于美国加州旧金山湾区东部的城市 在同名县份阿拉米达县境内 邻接奥克兰市
+Dialogue: 0,0:00:43.14,0:00:50.14,1080P-sgsm-50,,0,0,0,,{\blur4}Nike 又译尼刻 希腊神话里的胜利女神 \N有相当多的版本将Nike译作“胜利女神”但本视频内还是使用“奈基”这一使用更广泛的译名
+Dialogue: 0,0:01:35.34,0:01:42.34,1080P-sgsm-50,,0,0,0,,{\blur4}瀑布防空火箭(德语：Wasserfall Ferngelenkte FlaRakete)\N是纳粹德国于第二次世界大战发明及生产的一种超音速地对空导弹\N其基于许多V2导弹的技术而开发 美苏在战后分别基于其开发了赫尔敏思A-1和S25防空导弹
+Dialogue: 0,0:05:11.54,0:05:18.54,1080P-sgsm-50,,0,0,0,,{\blur4}W9是一型美国核弹 使用一门特制的280mm榴弹炮发射1952年开始生产 1957年退役
+Dialogue: 0,0:10:50.42,0:10:57.42,1080P-sgsm-50,,0,0,0,,{\blur4}MGM-5下士弹道导弹(Corporal ballistic missile)\N是美国陆军和加州理工JPL于1952年开发的一型弹道导弹
+Dialogue: 0,0:11:35.36,0:11:42.36,1080P-sgsm-50,,0,0,0,,{\blur4}约翰斯顿环礁(Johnston Atoll)\N位于北太平洋中部 是波利尼西亚群岛的组成部分之一 属于美国无建制领土
+Dialogue: 0,0:11:47.53,0:11:54.53,1080P-sgsm-50,,0,0,0,,{\blur4}多明尼克行动(Operation Dominic)是美国在1962年于太平洋进行的核试行动\N此次核试行动共进行了31次核试 被视为是对苏联试验沙皇核弹的回应\N这次核试是美苏领导签署《部分禁止核试验条约》前的最后一次地面核试
+Dialogue: 0,0:11:52.90,0:11:59.90,1080P-sgsm-50,,0,0,0,,{\blur4}海星一号(Starfish Prime)是美国于1962年7月9日进行的一次核试验\N其是人类在外层空间进行的最大的一次核试验 也是美国进行的5次外层空间核试验之一
+Dialogue: 0,0:12:00.61,0:12:07.61,1080P-sgsm-50,,0,0,0,,{\blur4}限制战略武器谈判(Strategic Arms Limitation Talks, SALT)\N首度举行于1963年 谈判双方的美苏两个超级大国 目的在于减少双方毁灭性核武器
+Dialogue: 0,0:12:36.16,0:12:43.16,1080P-sgsm-50,,0,0,0,,{\blur4}奈基-阿帕奇(Nike Apache, Argo B-13)是美国空军与NASA于1961年到1978年间使用的\N一型两级探空火箭\N奈基-标枪(Nike Javelin)是美国空军 陆军和NASA于1963年到1978年间使用的一型两级探空火箭\N金牛座-奈基-战斧(Taurus Nike Tomahawk, TNT)是NASA于1983年设计的一型探空火箭\N
+Dialogue: 0,0:00:07.60,0:00:10.08,1080P-sgsm-50,,0,0,0,,{\blur4}恭喜SpaceY的运载火箭于2021年11月20号成功发射 并进入预定轨道
+Dialogue: 0,0:00:04.13,0:00:05.62,1080P-sgbd-42,,0,0,0,,{\blur4}Hello it's Scott Manley here.
+Dialogue: 0,0:00:04.13,0:00:05.62,1080P-shss-90,,0,0,0,,{\blur4}你好 我是Scott Manley
+Dialogue: 0,0:00:05.68,0:00:07.60,1080P-sgbd-42,,0,0,0,,{\blur4}Recently I talked about Astra
+Dialogue: 0,0:00:05.68,0:00:07.60,1080P-shss-90,,0,0,0,,{\blur4}最近我谈到了阿斯特拉
+Dialogue: 0,0:00:07.60,0:00:10.08,1080P-sgbd-42,,0,0,0,,{\blur4}and well their launch that went sideways.
+Dialogue: 0,0:00:07.60,0:00:10.08,1080P-shss-90,,0,0,0,,{\blur4}以及他们那次出了问题的侧移发射
+Dialogue: 0,0:00:10.08,0:00:14.08,1080P-sgbd-42,,0,0,0,,{\blur4}Now they actually build rockets across the bay from me in Alameda
+Dialogue: 0,0:00:10.08,0:00:14.08,1080P-shss-90,,0,0,0,,{\blur4}那么 他们实际是在我隔着湾区对面的阿拉米达制造火箭
+Dialogue: 0,0:00:14.08,0:00:16.51,1080P-sgbd-42,,0,0,0,,{\blur4}and actually they also test the engines there sometimes
+Dialogue: 0,0:00:14.08,0:00:16.51,1080P-shss-90,,0,0,0,,{\blur4}而且实际上 他们有时也在那里测试发动机
+Dialogue: 0,0:00:16.56,0:00:22.09,1080P-sgbd-42,,0,0,0,,{\blur4}which incidentally it's not far from where the mythbusters did some of their more spectacular experiments
+Dialogue: 0,0:00:16.56,0:00:22.09,1080P-shss-90,,0,0,0,,{\blur4}顺便一说 那里离《流言终结者》做一些更壮观实验的地方不远
+Dialogue: 0,0:00:22.37,0:00:25.38,1080P-sgbd-42,,0,0,0,,{\blur4}but we don't actually see rockets being launched in the bay area
+Dialogue: 0,0:00:22.37,0:00:25.38,1080P-shss-90,,0,0,0,,{\blur4}但我们实际上没有看到过有火箭在旧金山湾区发射
+Dialogue: 0,0:00:25.39,0:00:27.51,1080P-sgbd-42,,0,0,0,,{\blur4}because it's a heavily populated region
+Dialogue: 0,0:00:25.39,0:00:27.51,1080P-shss-90,,0,0,0,,{\blur4}因为它是一个人口稠密的地区
+Dialogue: 0,0:00:27.68,0:00:31.68,1080P-sgbd-42,,0,0,0,,{\blur4}but not far from my house there were some large missiles stationed
+Dialogue: 0,0:00:27.68,0:00:31.68,1080P-shss-90,,0,0,0,,{\blur4}但在离我家不远的地方 有一些大型导弹驻扎在那里
+Dialogue: 0,0:00:31.91,0:00:34.15,1080P-sgbd-42,,0,0,0,,{\blur4}that many people didn't know existed.
+Dialogue: 0,0:00:31.91,0:00:34.15,1080P-shss-90,,0,0,0,,{\blur4}很多人甚至都不知道它的存在
+Dialogue: 0,0:00:34.43,0:00:40.00,1080P-sgbd-42,,0,0,0,,{\blur4}For decades the US operated nuclear-tipped surface-to-air missiles around San Francisco
+Dialogue: 0,0:00:34.43,0:00:40.00,1080P-shss-90,,0,0,0,,{\blur4}几十年来 美国在旧金山周围运作着搭载核弹头的地对空导弹
+Dialogue: 0,0:00:40.00,0:00:42.96,1080P-sgbd-42,,0,0,0,,{\blur4}and indeed around many US cities.
+Dialogue: 0,0:00:40.00,0:00:42.96,1080P-shss-90,,0,0,0,,{\blur4}以及在许多美国城市周围
+Dialogue: 0,0:00:43.14,0:00:45.51,1080P-sgbd-42,,0,0,0,,{\blur4}This was a system known as Nike Hercules
+Dialogue: 0,0:00:43.14,0:00:45.51,1080P-shss-90,,0,0,0,,{\blur4}这是一个被称为 奈基-大力神的系统
+Dialogue: 0,0:00:45.54,0:00:48.19,1080P-sgbd-42,,0,0,0,,{\blur4}and it was the successor to Nike Ajax
+Dialogue: 0,0:00:45.54,0:00:48.19,1080P-shss-90,,0,0,0,,{\blur4}它是 奈基-阿基克斯的接替者
+Dialogue: 0,0:00:48.39,0:00:53.32,1080P-sgbd-42,,0,0,0,,{\blur4}which can actually lay claim to being the first widely deployed surface-to-air missile.
+Dialogue: 0,0:00:48.39,0:00:53.32,1080P-shss-90,,0,0,0,,{\blur4}后者实际上可以称得上是第一种广泛部署的地对空导弹
+Dialogue: 0,0:00:53.54,0:00:58.87,1080P-sgbd-42,,0,0,0,,{\blur4}Nike began development in 1945 while World War II was still in progress.
+Dialogue: 0,0:00:53.54,0:00:58.87,1080P-shss-90,,0,0,0,,{\blur4}奈基导弹于1945年开始研发 当时第二次世界大战仍在进行中
+Dialogue: 0,0:00:59.27,0:01:02.65,1080P-sgbd-42,,0,0,0,,{\blur4}At the time anti-aircraft guns were the main defensive system
+Dialogue: 0,0:00:59.27,0:01:02.65,1080P-shss-90,,0,0,0,,{\blur4}在当时 高射炮是主要的防御系统
+Dialogue: 0,0:01:02.69,0:01:04.18,1080P-sgbd-42,,0,0,0,,{\blur4}and they weren't very accurate.
+Dialogue: 0,0:01:02.69,0:01:04.18,1080P-shss-90,,0,0,0,,{\blur4}而它们并不十分精确
+Dialogue: 0,0:01:04.22,0:01:07.25,1080P-sgbd-42,,0,0,0,,{\blur4}They needed thousands of shells to score a kill
+Dialogue: 0,0:01:04.22,0:01:07.25,1080P-shss-90,,0,0,0,,{\blur4}它们需要数千发炮弹才能完成一次击杀
+Dialogue: 0,0:01:07.52,0:01:11.63,1080P-sgbd-42,,0,0,0,,{\blur4}and planes that were flying higher and faster were just going to make it harder.
+Dialogue: 0,0:01:07.52,0:01:11.63,1080P-shss-90,,0,0,0,,{\blur4}而那些飞得更高 更快的飞机 只会让这一切变得更为困难
+Dialogue: 0,0:01:11.82,0:01:14.38,1080P-sgbd-42,,0,0,0,,{\blur4}Even if you had computer-controlled gun batteries
+Dialogue: 0,0:01:11.82,0:01:14.38,1080P-shss-90,,0,0,0,,{\blur4}即使你有计算机控制的炮台
+Dialogue: 0,0:01:14.56,0:01:18.24,1080P-sgbd-42,,0,0,0,,{\blur4}there was still random dispersion just due to flex in the barrel
+Dialogue: 0,0:01:14.56,0:01:18.24,1080P-shss-90,,0,0,0,,{\blur4}它仍然会有随机的散布 由于枪管的弯曲
+Dialogue: 0,0:01:18.31,0:01:20.54,1080P-sgbd-42,,0,0,0,,{\blur4}and propellant in the shells
+Dialogue: 0,0:01:18.31,0:01:20.54,1080P-shss-90,,0,0,0,,{\blur4}和炮弹中的推进剂
+Dialogue: 0,0:01:20.92,0:01:27.79,1080P-sgbd-42,,0,0,0,,{\blur4}that it meant that the detonation point error was larger than the shell's kill radius.
+Dialogue: 0,0:01:20.92,0:01:27.79,1080P-shss-90,,0,0,0,,{\blur4}这意味着引爆点的误差 要大于炮弹的杀伤半径
+Dialogue: 0,0:01:28.17,0:01:32.79,1080P-sgbd-42,,0,0,0,,{\blur4}Now by the way I should also point out that the potential for guided surface-to-air missiles
+Dialogue: 0,0:01:28.17,0:01:32.79,1080P-shss-90,,0,0,0,,{\blur4}那么顺便一提 我还应该指出 制导地对空导弹的潜力
+Dialogue: 0,0:01:33.02,0:01:35.31,1080P-sgbd-42,,0,0,0,,{\blur4}was recognized by Germany before this
+Dialogue: 0,0:01:33.02,0:01:35.31,1080P-shss-90,,0,0,0,,{\blur4}在这之前 已经被德国认识到了
+Dialogue: 0,0:01:35.34,0:01:38.98,1080P-sgbd-42,,0,0,0,,{\blur4}and they had been developing something called the Wasserfall system.
+Dialogue: 0,0:01:35.34,0:01:38.98,1080P-shss-90,,0,0,0,,{\blur4}并且 他们一直在开发一种叫做瀑布防空火箭系统的东西
+Dialogue: 0,0:01:39.52,0:01:41.75,1080P-sgbd-42,,0,0,0,,{\blur4}That started development in 1941
+Dialogue: 0,0:01:39.52,0:01:41.75,1080P-shss-90,,0,0,0,,{\blur4}它于1941年开始开发
+Dialogue: 0,0:01:41.75,0:01:44.61,1080P-sgbd-42,,0,0,0,,{\blur4}but even with dozens of test launches during the war
+Dialogue: 0,0:01:41.75,0:01:44.61,1080P-shss-90,,0,0,0,,{\blur4}但即使在战争期间进行了几十次试射
+Dialogue: 0,0:01:44.66,0:01:46.50,1080P-sgbd-42,,0,0,0,,{\blur4}it never reached operational status.
+Dialogue: 0,0:01:44.66,0:01:46.50,1080P-shss-90,,0,0,0,,{\blur4}它从未达到可运作的状态
+Dialogue: 0,0:01:46.94,0:01:50.49,1080P-sgbd-42,,0,0,0,,{\blur4}Also Wasserfall was guided by human control
+Dialogue: 0,0:01:46.94,0:01:50.49,1080P-shss-90,,0,0,0,,{\blur4}另外 瀑布防空火箭是由人控制的
+Dialogue: 0,0:01:50.64,0:01:52.53,1080P-sgbd-42,,0,0,0,,{\blur4}initially by optical tracking
+Dialogue: 0,0:01:50.64,0:01:52.53,1080P-shss-90,,0,0,0,,{\blur4}最初是使用光学跟踪
+Dialogue: 0,0:01:52.56,0:01:55.42,1080P-sgbd-42,,0,0,0,,{\blur4}but later they would use a radar beam guidance system
+Dialogue: 0,0:01:52.56,0:01:55.42,1080P-shss-90,,0,0,0,,{\blur4}但后来他们使用了一个雷达驾束制导系统
+Dialogue: 0,0:01:55.45,0:01:57.42,1080P-sgbd-42,,0,0,0,,{\blur4}that was developed to help the operator.
+Dialogue: 0,0:01:55.45,0:01:57.42,1080P-shss-90,,0,0,0,,{\blur4}该系统是为了帮助操作者而开发的
+Dialogue: 0,0:01:58.02,0:02:02.46,1080P-sgbd-42,,0,0,0,,{\blur4}So anyway 1945 the US began developing the Nike system.
+Dialogue: 0,0:01:58.02,0:02:02.46,1080P-shss-90,,0,0,0,,{\blur4}总之 在1945年美国开始开发奈基系统
+Dialogue: 0,0:02:02.47,0:02:08.72,1080P-sgbd-42,,0,0,0,,{\blur4}And it would use multiple ground-based radars and an analog computer to guide the missile to its target
+Dialogue: 0,0:02:02.47,0:02:08.72,1080P-shss-90,,0,0,0,,{\blur4}并且它将使用多个地面雷达和一个模拟计算机来引导导弹到达其目标
+Dialogue: 0,0:02:08.86,0:02:12.44,1080P-sgbd-42,,0,0,0,,{\blur4}which was clearly a step up from what Germany had worked on
+Dialogue: 0,0:02:08.86,0:02:12.44,1080P-shss-90,,0,0,0,,{\blur4}这显然比德国研究的要好得多
+Dialogue: 0,0:02:12.93,0:02:15.84,1080P-sgbd-42,,0,0,0,,{\blur4}and I'll be honest I'm actually way more interested in
+Dialogue: 0,0:02:12.93,0:02:15.84,1080P-shss-90,,0,0,0,,{\blur4}但说实话 我对模拟计算机的运作方式更感兴趣
+Dialogue: 0,0:02:15.84,0:02:20.15,1080P-sgbd-42,,0,0,0,,{\blur4}how that analog computer operated compared to the actual rocket motors
+Dialogue: 0,0:02:15.84,0:02:20.15,1080P-shss-90,,0,0,0,,{\blur4}与实际的火箭发动机相比
+Dialogue: 0,0:02:20.22,0:02:21.54,1080P-sgbd-42,,0,0,0,,{\blur4}because I kind of know how they work.
+Dialogue: 0,0:02:20.22,0:02:21.54,1080P-shss-90,,0,0,0,,{\blur4}因为我大概知道发动机是如何工作的
+Dialogue: 0,0:02:21.57,0:02:24.99,1080P-sgbd-42,,0,0,0,,{\blur4}Analog computers are a black art as far as I'm concerned.
+Dialogue: 0,0:02:21.57,0:02:24.99,1080P-shss-90,,0,0,0,,{\blur4}在我看来 模拟计算机是一门黑科技
+Dialogue: 0,0:02:25.68,0:02:32.09,1080P-sgbd-42,,0,0,0,,{\blur4}They were wonderful assemblies of tuned electronics and bespoke mechanical parts
+Dialogue: 0,0:02:25.68,0:02:32.09,1080P-shss-90,,0,0,0,,{\blur4}它们是由经过调整的电子器件和定制的机械部件的美妙组合
+Dialogue: 0,0:02:32.48,0:02:34.73,1080P-sgbd-42,,0,0,0,,{\blur4}that were needed to do the math
+Dialogue: 0,0:02:32.48,0:02:34.73,1080P-shss-90,,0,0,0,,{\blur4}它们是做数学运算所需要的
+Dialogue: 0,0:02:34.80,0:02:39.01,1080P-sgbd-42,,0,0,0,,{\blur4}in the days before that you could have a compact digital computer in your pocket, right.
+Dialogue: 0,0:02:34.80,0:02:39.01,1080P-shss-90,,0,0,0,,{\blur4}在你可以在你的口袋里有一个紧凑的数字计算机之前的时候 对吧
+Dialogue: 0,0:02:39.87,0:02:43.68,1080P-sgbd-42,,0,0,0,,{\blur4}The first missile of the Nike system was just named Nike
+Dialogue: 0,0:02:39.87,0:02:43.68,1080P-shss-90,,0,0,0,,{\blur4}奈基系统的第一枚导弹 就叫奈基
+Dialogue: 0,0:02:43.68,0:02:48.45,1080P-sgbd-42,,0,0,0,,{\blur4}and it would later be known as Nike Ajax when Nike Hercules was developed.
+Dialogue: 0,0:02:43.68,0:02:48.45,1080P-shss-90,,0,0,0,,{\blur4}而后来在开发奈基-大力神时 把它被称为了奈基-阿基克斯
+Dialogue: 0,0:02:48.84,0:02:52.01,1080P-sgbd-42,,0,0,0,,{\blur4}So Nike was originally a two-stage system
+Dialogue: 0,0:02:48.84,0:02:52.01,1080P-shss-90,,0,0,0,,{\blur4}所以奈基最初是一个有两级系统
+Dialogue: 0,0:02:52.06,0:02:55.74,1080P-sgbd-42,,0,0,0,,{\blur4}with a simple high thrust solid first stage motor
+Dialogue: 0,0:02:52.06,0:02:55.74,1080P-shss-90,,0,0,0,,{\blur4}其有一个简单的高推力固体第一级发动机
+Dialogue: 0,0:02:55.78,0:02:59.67,1080P-sgbd-42,,0,0,0,,{\blur4}that would boost the guided second stage to the required altitude and speed.
+Dialogue: 0,0:02:55.78,0:02:59.67,1080P-shss-90,,0,0,0,,{\blur4}将引导的第二级推进到所需的高度和速度
+Dialogue: 0,0:02:59.90,0:03:04.98,1080P-sgbd-42,,0,0,0,,{\blur4}The whole missile was about 10 meters long and it masked about one metric ton.
+Dialogue: 0,0:02:59.90,0:03:04.98,1080P-shss-90,,0,0,0,,{\blur4}整个导弹大约有10米长 而它的重量约为1吨
+Dialogue: 0,0:03:05.45,0:03:09.61,1080P-sgbd-42,,0,0,0,,{\blur4}The first stage generated 20 tons of thrust for about three and a half seconds
+Dialogue: 0,0:03:05.45,0:03:09.61,1080P-shss-90,,0,0,0,,{\blur4}第一级能产生20吨的推力 并能持续约3.5秒
+Dialogue: 0,0:03:09.87,0:03:13.36,1080P-sgbd-42,,0,0,0,,{\blur4}pushing the missile to mach 2 in a near vertical trajectory
+Dialogue: 0,0:03:09.87,0:03:13.36,1080P-shss-90,,0,0,0,,{\blur4}在近乎垂直的弹道上 将导弹推到2马赫的速度
+Dialogue: 0,0:03:13.58,0:03:17.28,1080P-sgbd-42,,0,0,0,,{\blur4}before the second stage was released and it began heading towards the target
+Dialogue: 0,0:03:13.58,0:03:17.28,1080P-shss-90,,0,0,0,,{\blur4}之后 第二级被释放 并开始向目标前进
+Dialogue: 0,0:03:17.92,0:03:21.51,1080P-sgbd-42,,0,0,0,,{\blur4}so the second stage was the really complicated part of the system.
+Dialogue: 0,0:03:17.92,0:03:21.51,1080P-shss-90,,0,0,0,,{\blur4}所以第二级是该系统中真正复杂的部分
+Dialogue: 0,0:03:21.54,0:03:23.92,1080P-sgbd-42,,0,0,0,,{\blur4}It had aerodynamic controls for steering.
+Dialogue: 0,0:03:21.54,0:03:23.92,1080P-shss-90,,0,0,0,,{\blur4}它有用于转向的气动控制
+Dialogue: 0,0:03:23.92,0:03:30.05,1080P-sgbd-42,,0,0,0,,{\blur4}It had a rocket engine a sustainer engine that was burning jet fuel and red fuming nitric acid(RFNA).
+Dialogue: 0,0:03:23.92,0:03:30.05,1080P-shss-90,,0,0,0,,{\blur4}其主发动机燃料为航空煤油和红烟硝酸
+Dialogue: 0,0:03:30.72,0:03:37.04,1080P-sgbd-42,,0,0,0,,{\blur4}It had a warhead which was actually three different warheads massing about 140 kilograms in total
+Dialogue: 0,0:03:30.72,0:03:37.04,1080P-shss-90,,0,0,0,,{\blur4}它有一个弹头 实际上是三个不同的弹头 总重约140公斤
+Dialogue: 0,0:03:37.18,0:03:40.90,1080P-sgbd-42,,0,0,0,,{\blur4}and yes a lot of cutting-edge 1950s avionics
+Dialogue: 0,0:03:37.18,0:03:40.90,1080P-shss-90,,0,0,0,,{\blur4}并且还有很多1950年代最先进的航空电子设备
+Dialogue: 0,0:03:41.00,0:03:45.31,1080P-sgbd-42,,0,0,0,,{\blur4}to enable the bi-directional radio communications and control from the ground.
+Dialogue: 0,0:03:41.00,0:03:45.31,1080P-shss-90,,0,0,0,,{\blur4}以实现双向的无线电通信和地面控制
+Dialogue: 0,0:03:46.08,0:03:49.05,1080P-sgbd-42,,0,0,0,,{\blur4}The sustainer engine would burn for about 30 seconds
+Dialogue: 0,0:03:46.08,0:03:49.05,1080P-shss-90,,0,0,0,,{\blur4}主发动机将燃烧约30秒
+Dialogue: 0,0:03:49.09,0:03:52.95,1080P-sgbd-42,,0,0,0,,{\blur4}and in that time the missile would continue to steer towards its target
+Dialogue: 0,0:03:49.09,0:03:52.95,1080P-shss-90,,0,0,0,,{\blur4}而在这段时间内 导弹将继续转向其目标
+Dialogue: 0,0:03:53.12,0:03:54.76,1080P-sgbd-42,,0,0,0,,{\blur4}even after the engine had burned out.
+Dialogue: 0,0:03:53.12,0:03:54.76,1080P-shss-90,,0,0,0,,{\blur4}甚至在发动机燃烧完毕之后 它也可以继续转向
+Dialogue: 0,0:03:54.81,0:03:57.20,1080P-sgbd-42,,0,0,0,,{\blur4}So this could launch up to 70 000 feet
+Dialogue: 0,0:03:54.81,0:03:57.20,1080P-shss-90,,0,0,0,,{\blur4}因此 它可以发射到20公里的高度
+Dialogue: 0,0:03:57.28,0:04:02.94,1080P-sgbd-42,,0,0,0,,{\blur4}and be able to intercept targets out to about 45 kilometers depending upon the altitude.
+Dialogue: 0,0:03:57.28,0:04:02.94,1080P-shss-90,,0,0,0,,{\blur4}并能够拦截大约45公里以外的目标 这取决于目标的高度
+Dialogue: 0,0:04:03.72,0:04:05.59,1080P-sgbd-42,,0,0,0,,{\blur4}But partly through development
+Dialogue: 0,0:04:03.72,0:04:05.59,1080P-shss-90,,0,0,0,,{\blur4}但在开发过程中
+Dialogue: 0,0:04:05.59,0:04:09.34,1080P-sgbd-42,,0,0,0,,{\blur4}it was realized that this was just not going to be able to handle the scenarios
+Dialogue: 0,0:04:05.59,0:04:09.34,1080P-shss-90,,0,0,0,,{\blur4}它被意识到 其不能应对
+Dialogue: 0,0:04:09.41,0:04:11.02,1080P-sgbd-42,,0,0,0,,{\blur4}that the US was planning for.
+Dialogue: 0,0:04:09.41,0:04:11.02,1080P-shss-90,,0,0,0,,{\blur4}美国正在计划应对的场景
+Dialogue: 0,0:04:11.35,0:04:12.74,1080P-sgbd-42,,0,0,0,,{\blur4}The threat had evolved.
+Dialogue: 0,0:04:11.35,0:04:12.74,1080P-shss-90,,0,0,0,,{\blur4}威胁已经发生了变化
+Dialogue: 0,0:04:13.26,0:04:16.56,1080P-sgbd-42,,0,0,0,,{\blur4}Planners now anticipated massed squadrons of bombers
+Dialogue: 0,0:04:13.26,0:04:16.56,1080P-shss-90,,0,0,0,,{\blur4}规划者们现在预计会出现的是 大规模的轰炸机中队
+Dialogue: 0,0:04:16.56,0:04:18.80,1080P-sgbd-42,,0,0,0,,{\blur4}no longer carrying gravity bombs
+Dialogue: 0,0:04:16.56,0:04:18.80,1080P-shss-90,,0,0,0,,{\blur4}不再携带非导引炸弹
+Dialogue: 0,0:04:18.85,0:04:22.50,1080P-sgbd-42,,0,0,0,,{\blur4}but with missiles that could be fired for at targets miles away.
+Dialogue: 0,0:04:18.85,0:04:22.50,1080P-shss-90,,0,0,0,,{\blur4}而是携带可以向数公里外的目标发射的导弹
+Dialogue: 0,0:04:22.92,0:04:26.05,1080P-sgbd-42,,0,0,0,,{\blur4}One analysis pointed out that the target tracking radar
+Dialogue: 0,0:04:22.92,0:04:26.05,1080P-shss-90,,0,0,0,,{\blur4}一项分析指出 目标跟踪雷达
+Dialogue: 0,0:04:26.20,0:04:30.34,1080P-sgbd-42,,0,0,0,,{\blur4}didn't have sufficient resolution to distinguish targets that were close together
+Dialogue: 0,0:04:26.20,0:04:30.34,1080P-shss-90,,0,0,0,,{\blur4}没有足够的分辨率 来区相互紧挨着的目标
+Dialogue: 0,0:04:30.60,0:04:35.44,1080P-sgbd-42,,0,0,0,,{\blur4}and the resolution was worse than the effective kill radius of the warhead
+Dialogue: 0,0:04:30.60,0:04:35.44,1080P-shss-90,,0,0,0,,{\blur4}而分辨率比弹头的有效杀伤半径还低
+Dialogue: 0,0:04:35.44,0:04:39.36,1080P-sgbd-42,,0,0,0,,{\blur4}so a missile launched at a squadron of tightly packed aircraft
+Dialogue: 0,0:04:35.44,0:04:39.36,1080P-shss-90,,0,0,0,,{\blur4}因此 向一个密密麻麻的飞机中队发射的一枚导弹
+Dialogue: 0,0:04:39.36,0:04:43.78,1080P-sgbd-42,,0,0,0,,{\blur4}would likely fly through the middle and detonate and fail to kill a single target.
+Dialogue: 0,0:04:39.36,0:04:43.78,1080P-shss-90,,0,0,0,,{\blur4}导弹可能会从中间飞过 然后引爆 并且无法摧毁其中任何一个目标
+Dialogue: 0,0:04:44.32,0:04:47.19,1080P-sgbd-42,,0,0,0,,{\blur4}Now one might reasonably assume that in response to this
+Dialogue: 0,0:04:44.32,0:04:47.19,1080P-shss-90,,0,0,0,,{\blur4}那么 为了应对这种情况 一个合理的假设是
+Dialogue: 0,0:04:47.37,0:04:51.10,1080P-sgbd-42,,0,0,0,,{\blur4}they began improving the design of the radar to fix the shortcoming
+Dialogue: 0,0:04:47.37,0:04:51.10,1080P-shss-90,,0,0,0,,{\blur4}他们开始改进雷达的设计 以解决这个缺陷
+Dialogue: 0,0:04:51.19,0:04:53.48,1080P-sgbd-42,,0,0,0,,{\blur4}but no this was the 1950s.
+Dialogue: 0,0:04:51.19,0:04:53.48,1080P-shss-90,,0,0,0,,{\blur4}但不是这样的 那可是20世纪50年代
+Dialogue: 0,0:04:53.48,0:04:58.55,1080P-sgbd-42,,0,0,0,,{\blur4}And the solution was instead to increase the kill radius by using a nuclear warhead.
+Dialogue: 0,0:04:53.48,0:04:58.55,1080P-shss-90,,0,0,0,,{\blur4}而取而代之的解决方案是 通过使用核弹头来增加杀伤半径
+Dialogue: 0,0:04:58.91,0:05:02.47,1080P-sgbd-42,,0,0,0,,{\blur4}Yeah the Nike Ajax was narrow.
+Dialogue: 0,0:04:58.91,0:05:02.47,1080P-shss-90,,0,0,0,,{\blur4}是的 奈基-阿基克斯很细
+Dialogue: 0,0:05:02.47,0:05:05.06,1080P-sgbd-42,,0,0,0,,{\blur4}It was only 37 centimeters in diameter.
+Dialogue: 0,0:05:02.47,0:05:05.06,1080P-shss-90,,0,0,0,,{\blur4}它的直径只有37厘米
+Dialogue: 0,0:05:05.10,0:05:07.21,1080P-sgbd-42,,0,0,0,,{\blur4}That's about 15 inches.
+Dialogue: 0,0:05:05.10,0:05:07.21,1080P-shss-90,,0,0,0,,{\blur4}那大约是15英寸
+Dialogue: 0,0:05:07.43,0:05:11.48,1080P-sgbd-42,,0,0,0,,{\blur4}And this meant that most warheads of the time simply wouldn't fit in.
+Dialogue: 0,0:05:07.43,0:05:11.48,1080P-shss-90,,0,0,0,,{\blur4}这意味着当时的大多数弹头根本无法装入
+Dialogue: 0,0:05:11.54,0:05:16.62,1080P-sgbd-42,,0,0,0,,{\blur4}There was the W9 which is was designed to fit inside a 12-inch shell
+Dialogue: 0,0:05:11.54,0:05:16.62,1080P-shss-90,,0,0,0,,{\blur4}有一个W9 它被设计为能装进12英寸的炮弹内
+Dialogue: 0,0:05:16.62,0:05:18.01,1080P-sgbd-42,,0,0,0,,{\blur4}and be fired from a cannon
+Dialogue: 0,0:05:16.62,0:05:18.01,1080P-shss-90,,0,0,0,,{\blur4}并从大炮中发射
+Dialogue: 0,0:05:18.14,0:05:21.03,1080P-sgbd-42,,0,0,0,,{\blur4}but this was a really expensive and inefficient warhead.
+Dialogue: 0,0:05:18.14,0:05:21.03,1080P-shss-90,,0,0,0,,{\blur4}但这是一个非常昂贵和低效的弹头
+Dialogue: 0,0:05:21.03,0:05:25.27,1080P-sgbd-42,,0,0,0,,{\blur4}To make it skinny, it used a gun-type core assembly mechanism
+Dialogue: 0,0:05:21.03,0:05:25.27,1080P-shss-90,,0,0,0,,{\blur4}为了使它变细 它使用了一种枪式的核心装配机制
+Dialogue: 0,0:05:25.34,0:05:29.60,1080P-sgbd-42,,0,0,0,,{\blur4}where you would fire a subcritical mass of uranium into another mass of uranium
+Dialogue: 0,0:05:25.34,0:05:29.60,1080P-shss-90,,0,0,0,,{\blur4}在其中 你将发射一个亚临界质量的铀到另一个质量的铀中去
+Dialogue: 0,0:05:29.60,0:05:33.63,1080P-sgbd-42,,0,0,0,,{\blur4}and that meant that it needed about five times as much fissile material
+Dialogue: 0,0:05:29.60,0:05:33.63,1080P-shss-90,,0,0,0,,{\blur4}而这意味着它需要大约五倍的裂变材料
+Dialogue: 0,0:05:33.98,0:05:39.00,1080P-sgbd-42,,0,0,0,,{\blur4}compared to a more common more efficient spherical implosion device.
+Dialogue: 0,0:05:33.98,0:05:39.00,1080P-shss-90,,0,0,0,,{\blur4}与更常见的 更有效的球形内爆装置相比
+Dialogue: 0,0:05:39.49,0:05:41.66,1080P-sgbd-42,,0,0,0,,{\blur4}So that was never going to be viable.
+Dialogue: 0,0:05:39.49,0:05:41.66,1080P-shss-90,,0,0,0,,{\blur4}所以 这总是不可行的
+Dialogue: 0,0:05:41.86,0:05:46.56,1080P-sgbd-42,,0,0,0,,{\blur4}Instead they decided to build a much bigger rocket, the Nike Hercules
+Dialogue: 0,0:05:41.86,0:05:46.56,1080P-shss-90,,0,0,0,,{\blur4}相反 他们决定建造一个更大的火箭 即奈基-大力神
+Dialogue: 0,0:05:46.56,0:05:48.16,1080P-sgbd-42,,0,0,0,,{\blur4}and it began development
+Dialogue: 0,0:05:46.56,0:05:48.16,1080P-shss-90,,0,0,0,,{\blur4}而其开始研制
+Dialogue: 0,0:05:48.16,0:05:54.63,1080P-sgbd-42,,0,0,0,,{\blur4}it would be able to accommodate a 500 kilo warhead
+Dialogue: 0,0:05:48.16,0:05:54.63,1080P-shss-90,,0,0,0,,{\blur4}它将能够容纳500公斤的弹头
+Dialogue: 0,0:05:54.82,0:05:58.04,1080P-sgbd-42,,0,0,0,,{\blur4}and deliver it to targets about 150 kilometers away
+Dialogue: 0,0:05:54.82,0:05:58.04,1080P-shss-90,,0,0,0,,{\blur4}并将其运送到150公里以外的目标
+Dialogue: 0,0:05:58.58,0:06:01.36,1080P-sgbd-42,,0,0,0,,{\blur4}flying at an altitude of up to a hundred thousand feet
+Dialogue: 0,0:05:58.58,0:06:01.36,1080P-shss-90,,0,0,0,,{\blur4}它的飞行高度可达30公里
+Dialogue: 0,0:06:01.36,0:06:03.90,1080P-sgbd-42,,0,0,0,,{\blur4}and speeds in excess of mach 3.
+Dialogue: 0,0:06:01.36,0:06:03.90,1080P-shss-90,,0,0,0,,{\blur4}并且速度超过3马赫
+Dialogue: 0,0:06:04.47,0:06:06.52,1080P-sgbd-42,,0,0,0,,{\blur4}So for the first boost stage the design
+Dialogue: 0,0:06:04.47,0:06:06.52,1080P-shss-90,,0,0,0,,{\blur4}因此 对于第一推进级的设计
+Dialogue: 0,0:06:06.58,0:06:10.40,1080P-sgbd-42,,0,0,0,,{\blur4}they just clustered four of the previous boosters together
+Dialogue: 0,0:06:06.58,0:06:10.40,1080P-shss-90,,0,0,0,,{\blur4}他们只是把以前的四个助推器集中在一起
+Dialogue: 0,0:06:10.63,0:06:13.69,1080P-sgbd-42,,0,0,0,,{\blur4}added big fins to keep it straight during that boost.
+Dialogue: 0,0:06:10.63,0:06:13.69,1080P-shss-90,,0,0,0,,{\blur4}增加了大的翅片 以保持它加速的过程中保持直线
+Dialogue: 0,0:06:14.00,0:06:17.44,1080P-sgbd-42,,0,0,0,,{\blur4}The second stage they got rid of the liquid-fueled engine
+Dialogue: 0,0:06:14.00,0:06:17.44,1080P-shss-90,,0,0,0,,{\blur4}在第二级 他们去掉了液体发动机
+Dialogue: 0,0:06:17.52,0:06:19.34,1080P-sgbd-42,,0,0,0,,{\blur4}which had the really toxic propellants
+Dialogue: 0,0:06:17.52,0:06:19.34,1080P-shss-90,,0,0,0,,{\blur4}那其中有真正有毒的推进剂
+Dialogue: 0,0:06:19.62,0:06:23.09,1080P-sgbd-42,,0,0,0,,{\blur4}and just used a solid motor that burned for about 30 seconds.
+Dialogue: 0,0:06:19.62,0:06:23.09,1080P-shss-90,,0,0,0,,{\blur4}而只是使用了一个大约能燃烧30秒的固体发动机
+Dialogue: 0,0:06:23.79,0:06:27.93,1080P-sgbd-42,,0,0,0,,{\blur4}Though, they changed the layout of the control surfaces and the whole aerodynamic design.
+Dialogue: 0,0:06:23.79,0:06:27.93,1080P-shss-90,,0,0,0,,{\blur4}不过 他们改变了操纵面的布局和整体空气动力学设计
+Dialogue: 0,0:06:28.24,0:06:32.67,1080P-sgbd-42,,0,0,0,,{\blur4}It was a bit longer about 12 meters and it mass about 4.8 tons.
+Dialogue: 0,0:06:28.24,0:06:32.67,1080P-shss-90,,0,0,0,,{\blur4}它有点长 长大约为12米 质量大约为4.8吨
+Dialogue: 0,0:06:33.42,0:06:36.16,1080P-sgbd-42,,0,0,0,,{\blur4}So the warhead on that was the W31
+Dialogue: 0,0:06:33.42,0:06:36.16,1080P-shss-90,,0,0,0,,{\blur4}所以它使用的弹头是W31
+Dialogue: 0,0:06:36.16,0:06:39.45,1080P-sgbd-42,,0,0,0,,{\blur4}which was a high-tech boosted fission implosion device.
+Dialogue: 0,0:06:36.16,0:06:39.45,1080P-shss-90,,0,0,0,,{\blur4}这是一种高科技的助推分裂式内爆装置
+Dialogue: 0,0:06:39.68,0:06:41.98,1080P-sgbd-42,,0,0,0,,{\blur4}It probably had selectable yields.
+Dialogue: 0,0:06:39.68,0:06:41.98,1080P-shss-90,,0,0,0,,{\blur4}它的当量可能是可选择的
+Dialogue: 0,0:06:42.01,0:06:45.94,1080P-sgbd-42,,0,0,0,,{\blur4}I've seen that it could do 20 kilotons or 40 kilotons.
+Dialogue: 0,0:06:42.01,0:06:45.94,1080P-shss-90,,0,0,0,,{\blur4}我看到它可以达到2万吨或4万吨
+Dialogue: 0,0:06:46.38,0:06:50.91,1080P-sgbd-42,,0,0,0,,{\blur4}More commonly however there was a 500 kilogram conventional warhead.
+Dialogue: 0,0:06:46.38,0:06:50.91,1080P-shss-90,,0,0,0,,{\blur4}然而 更常见的是一个500公斤的常规弹头
+Dialogue: 0,0:06:51.27,0:06:56.66,1080P-sgbd-42,,0,0,0,,{\blur4}I hear the US batteries probably had three conventional warheads for every single nuclear warhead
+Dialogue: 0,0:06:51.27,0:06:56.66,1080P-shss-90,,0,0,0,,{\blur4}我听说美国的炮组 可能在每一个核弹头上都有三个常规弹头
+Dialogue: 0,0:06:56.93,0:07:01.73,1080P-sgbd-42,,0,0,0,,{\blur4}and obviously other countries that they sold it to didn't have the nuclear option available to them.
+Dialogue: 0,0:06:56.93,0:07:01.73,1080P-shss-90,,0,0,0,,{\blur4}而显然 他们卖给的其他国家 并没有核弹头可供选择
+Dialogue: 0,0:07:02.87,0:07:05.23,1080P-sgbd-42,,0,0,0,,{\blur4}Despite the radical redesign of the missile
+Dialogue: 0,0:07:02.87,0:07:05.23,1080P-shss-90,,0,0,0,,{\blur4}尽管对导弹进行了彻底的重新设计
+Dialogue: 0,0:07:05.36,0:07:08.62,1080P-sgbd-42,,0,0,0,,{\blur4}it actually kept the same ground control hardware for guidance
+Dialogue: 0,0:07:05.36,0:07:08.62,1080P-shss-90,,0,0,0,,{\blur4}它实际上保留了相同的地面控制设备用于制导
+Dialogue: 0,0:07:08.66,0:07:13.36,1080P-sgbd-42,,0,0,0,,{\blur4}so both missiles operated in basically the same manner with exactly the same computer
+Dialogue: 0,0:07:08.66,0:07:13.36,1080P-shss-90,,0,0,0,,{\blur4}所以两枚导弹的操作方式基本相同 使用的计算机也完全相同
+Dialogue: 0,0:07:13.36,0:07:15.13,1080P-sgbd-42,,0,0,0,,{\blur4}maybe with some variables tweaked.
+Dialogue: 0,0:07:13.36,0:07:15.13,1080P-shss-90,,0,0,0,,{\blur4}也许只进行了一些微小的调整
+Dialogue: 0,0:07:15.65,0:07:19.11,1080P-sgbd-42,,0,0,0,,{\blur4}Now you might have an idea of how a surface-to-air missile operates
+Dialogue: 0,0:07:15.65,0:07:19.11,1080P-shss-90,,0,0,0,,{\blur4}那么 你对地对空导弹的操作的概念可能是
+Dialogue: 0,0:07:19.36,0:07:22.67,1080P-sgbd-42,,0,0,0,,{\blur4}heading upwards from the launch site directly towards the target.
+Dialogue: 0,0:07:19.36,0:07:22.67,1080P-shss-90,,0,0,0,,{\blur4}从发射场向上直接射向目标
+Dialogue: 0,0:07:22.94,0:07:24.80,1080P-sgbd-42,,0,0,0,,{\blur4}But Nike didn't work like this.
+Dialogue: 0,0:07:22.94,0:07:24.80,1080P-shss-90,,0,0,0,,{\blur4}但奈基导弹并不是这样工作的
+Dialogue: 0,0:07:25.05,0:07:27.57,1080P-sgbd-42,,0,0,0,,{\blur4}It would initially boost upwards to its altitude
+Dialogue: 0,0:07:25.05,0:07:27.57,1080P-shss-90,,0,0,0,,{\blur4}它最初会向上推进到其高度
+Dialogue: 0,0:07:27.59,0:07:32.93,1080P-sgbd-42,,0,0,0,,{\blur4}and then it would arc over such that it would typically approach its targets from above.
+Dialogue: 0,0:07:27.59,0:07:32.93,1080P-shss-90,,0,0,0,,{\blur4}然后它将进行弧线运动 它通常会以这种方式从上方接近其目标
+Dialogue: 0,0:07:33.89,0:07:38.24,1080P-sgbd-42,,0,0,0,,{\blur4}So how the guidance works with Nike was that there was a target tracking radar
+Dialogue: 0,0:07:33.89,0:07:38.24,1080P-shss-90,,0,0,0,,{\blur4}所以 奈基的制导方式是 有一个目标跟踪雷达
+Dialogue: 0,0:07:38.24,0:07:39.82,1080P-sgbd-42,,0,0,0,,{\blur4}which would be pointed at the target
+Dialogue: 0,0:07:38.24,0:07:39.82,1080P-shss-90,,0,0,0,,{\blur4}会对准目标
+Dialogue: 0,0:07:39.84,0:07:42.80,1080P-sgbd-42,,0,0,0,,{\blur4}and they would find the target using other scanning radar systems
+Dialogue: 0,0:07:39.84,0:07:42.80,1080P-shss-90,,0,0,0,,{\blur4}而且 他们会用其他的扫描雷达系统找到目标
+Dialogue: 0,0:07:42.82,0:07:44.50,1080P-sgbd-42,,0,0,0,,{\blur4}but this one would fix on the target
+Dialogue: 0,0:07:42.82,0:07:44.50,1080P-shss-90,,0,0,0,,{\blur4}但这个雷达会固定在目标上
+Dialogue: 0,0:07:44.95,0:07:51.22,1080P-sgbd-42,,0,0,0,,{\blur4}and the mount, the azimuth and the altitude would be sent to the computer as well as the distance.
+Dialogue: 0,0:07:44.95,0:07:51.22,1080P-shss-90,,0,0,0,,{\blur4}而方位角和高度的大小会被发送到电脑上 同时其也会显示距离
+Dialogue: 0,0:07:51.66,0:07:54.39,1080P-sgbd-42,,0,0,0,,{\blur4}And similarly there was a a tracking antenna
+Dialogue: 0,0:07:51.66,0:07:54.39,1080P-shss-90,,0,0,0,,{\blur4}同样 也有一个跟踪天线
+Dialogue: 0,0:07:54.78,0:07:58.81,1080P-sgbd-42,,0,0,0,,{\blur4}and that wouldn't rely on radar because the missile actually had a transponder on it
+Dialogue: 0,0:07:54.78,0:07:58.81,1080P-shss-90,,0,0,0,,{\blur4}而那并不依赖于雷达 因为导弹实际上有一个应答机
+Dialogue: 0,0:07:59.03,0:08:03.07,1080P-sgbd-42,,0,0,0,,{\blur4}and it too would return the range and the direction the altitude and the azimuth
+Dialogue: 0,0:07:59.03,0:08:03.07,1080P-shss-90,,0,0,0,,{\blur4}而它也会返回距离 方向 高度以及方位角的信息
+Dialogue: 0,0:08:03.36,0:08:06.69,1080P-sgbd-42,,0,0,0,,{\blur4}but it would also send commands and receive data from the missile.
+Dialogue: 0,0:08:03.36,0:08:06.69,1080P-shss-90,,0,0,0,,{\blur4}但它也会用来发送指令 并接收来自导弹的数据
+Dialogue: 0,0:08:07.19,0:08:10.63,1080P-sgbd-42,,0,0,0,,{\blur4}The missile tracking antenna couldn't be too close to the launch site
+Dialogue: 0,0:08:07.19,0:08:10.63,1080P-shss-90,,0,0,0,,{\blur4}导弹的跟踪天线不能离发射地点太近
+Dialogue: 0,0:08:10.85,0:08:14.05,1080P-sgbd-42,,0,0,0,,{\blur4}because it had to be able to turn fast enough to track the missile
+Dialogue: 0,0:08:10.85,0:08:14.05,1080P-shss-90,,0,0,0,,{\blur4}因为它必须能够快速转向 以追踪导弹
+Dialogue: 0,0:08:14.48,0:08:18.54,1080P-sgbd-42,,0,0,0,,{\blur4}so if the missile went straight up and the radar was too close
+Dialogue: 0,0:08:14.48,0:08:18.54,1080P-shss-90,,0,0,0,,{\blur4}因此 如果导弹竖直升空 而雷达离得太近的话
+Dialogue: 0,0:08:18.72,0:08:19.90,1080P-sgbd-42,,0,0,0,,{\blur4}it wouldn't be able to track that.
+Dialogue: 0,0:08:18.72,0:08:19.90,1080P-shss-90,,0,0,0,,{\blur4}雷达就无法跟踪导弹
+Dialogue: 0,0:08:20.16,0:08:24.94,1080P-sgbd-42,,0,0,0,,{\blur4}Also if the trajectory would carry over this antenna
+Dialogue: 0,0:08:20.16,0:08:24.94,1080P-shss-90,,0,0,0,,{\blur4}此外 如果导弹的弹道会经过这个天线
+Dialogue: 0,0:08:24.96,0:08:28.08,1080P-sgbd-42,,0,0,0,,{\blur4}it wouldn't be able to twist around quickly enough near the zenith.
+Dialogue: 0,0:08:24.96,0:08:28.08,1080P-shss-90,,0,0,0,,{\blur4}雷达就无法在天顶点附近迅速转动
+Dialogue: 0,0:08:28.70,0:08:32.20,1080P-sgbd-42,,0,0,0,,{\blur4}So that constrained where they could situate these things and fire things.
+Dialogue: 0,0:08:28.70,0:08:32.20,1080P-shss-90,,0,0,0,,{\blur4}所以 这就限制了他们在哪里可以放置这些设备和发射导弹
+Dialogue: 0,0:08:32.85,0:08:38.36,1080P-sgbd-42,,0,0,0,,{\blur4}So anyway the guidance computer it would just send steering signals in pitch and yaw to the missile
+Dialogue: 0,0:08:32.85,0:08:38.36,1080P-shss-90,,0,0,0,,{\blur4}总之 制导计算机将只是向导弹发送俯仰和偏航的转向信号
+Dialogue: 0,0:08:38.58,0:08:39.92,1080P-sgbd-42,,0,0,0,,{\blur4}and the missile follows these
+Dialogue: 0,0:08:38.58,0:08:39.92,1080P-shss-90,,0,0,0,,{\blur4}而导弹跟着这些信号走
+Dialogue: 0,0:08:39.99,0:08:41.94,1080P-sgbd-42,,0,0,0,,{\blur4}but it had its on-board smarts.
+Dialogue: 0,0:08:39.99,0:08:41.94,1080P-shss-90,,0,0,0,,{\blur4}但它有它的机载智能
+Dialogue: 0,0:08:41.98,0:08:45.47,1080P-sgbd-42,,0,0,0,,{\blur4}It had accelerometers and gyroscopes that were all in the control loop.
+Dialogue: 0,0:08:41.98,0:08:45.47,1080P-shss-90,,0,0,0,,{\blur4}它有加速计和陀螺仪 这些都在控制回路中
+Dialogue: 0,0:08:46.15,0:08:48.40,1080P-sgbd-42,,0,0,0,,{\blur4}The role was cancelled out locally
+Dialogue: 0,0:08:46.15,0:08:48.40,1080P-shss-90,,0,0,0,,{\blur4}这个作用在本地被取消了
+Dialogue: 0,0:08:48.42,0:08:51.27,1080P-sgbd-42,,0,0,0,,{\blur4}and the control surfaces for pitch and yaw
+Dialogue: 0,0:08:48.42,0:08:51.27,1080P-shss-90,,0,0,0,,{\blur4}而俯仰和偏航的控制面
+Dialogue: 0,0:08:51.46,0:08:56.22,1080P-sgbd-42,,0,0,0,,{\blur4}were constrained by the gyroscopes and accelerometers to keep the turn at the commanded rates.
+Dialogue: 0,0:08:51.46,0:08:56.22,1080P-shss-90,,0,0,0,,{\blur4}被陀螺仪和加速计限制 以使转向保持在指令的速率
+Dialogue: 0,0:08:57.78,0:09:00.40,1080P-sgbd-42,,0,0,0,,{\blur4}So the detonation was controlled from the ground
+Dialogue: 0,0:08:57.78,0:09:00.40,1080P-shss-90,,0,0,0,,{\blur4}爆炸是在地面上控制的
+Dialogue: 0,0:09:00.45,0:09:04.90,1080P-sgbd-42,,0,0,0,,{\blur4}and a fraction of a second before the intercept the warhead would be commanded to detonate
+Dialogue: 0,0:09:00.45,0:09:04.90,1080P-shss-90,,0,0,0,,{\blur4}而在拦截前几分之一秒 弹头会被控制引爆
+Dialogue: 0,0:09:05.34,0:09:09.04,1080P-sgbd-42,,0,0,0,,{\blur4}ensuring optimal spread of shrapnel from the conventional warhead
+Dialogue: 0,0:09:05.34,0:09:09.04,1080P-shss-90,,0,0,0,,{\blur4}确保常规弹头的弹片能做到最佳的覆盖
+Dialogue: 0,0:09:09.04,0:09:14.83,1080P-sgbd-42,,0,0,0,,{\blur4}and I imagine that the nuclear warhead had a little more wiggle room for the detonation.
+Dialogue: 0,0:09:09.04,0:09:14.83,1080P-shss-90,,0,0,0,,{\blur4}而且我想 核弹头在引爆时有更多的回转余地
+Dialogue: 0,0:09:15.42,0:09:18.64,1080P-sgbd-42,,0,0,0,,{\blur4}The nuclear version also had a surface attack profile
+Dialogue: 0,0:09:15.42,0:09:18.64,1080P-shss-90,,0,0,0,,{\blur4}搭载核弹的版本还具有对地攻击的配置
+Dialogue: 0,0:09:18.96,0:09:24.01,1080P-sgbd-42,,0,0,0,,{\blur4}which was in theory a good and useful capability for many of the sites or on the coast
+Dialogue: 0,0:09:18.96,0:09:24.01,1080P-shss-90,,0,0,0,,{\blur4}其理论上 对许多地点或沿海地区来说有很好的实用性
+Dialogue: 0,0:09:24.16,0:09:26.10,1080P-sgbd-42,,0,0,0,,{\blur4}less so for those in the middle of the country
+Dialogue: 0,0:09:24.16,0:09:26.10,1080P-shss-90,,0,0,0,,{\blur4}而对于那些位于国家内部的地点来说 就不是那么回事了
+Dialogue: 0,0:09:26.98,0:09:31.81,1080P-sgbd-42,,0,0,0,,{\blur4}For safety reasons if contact was lost with the ground station for more than two seconds
+Dialogue: 0,0:09:26.98,0:09:31.81,1080P-shss-90,,0,0,0,,{\blur4}出于安全考虑 如果导弹与地面站失去联系的时间超过两秒
+Dialogue: 0,0:09:32.10,0:09:33.84,1080P-sgbd-42,,0,0,0,,{\blur4}the missile would destroy itself.
+Dialogue: 0,0:09:32.10,0:09:33.84,1080P-shss-90,,0,0,0,,{\blur4}导弹就会自毁
+Dialogue: 0,0:09:34.13,0:09:38.55,1080P-sgbd-42,,0,0,0,,{\blur4}It could either detonate the warhead if it was a conventional warhead
+Dialogue: 0,0:09:34.13,0:09:38.55,1080P-shss-90,,0,0,0,,{\blur4}如果是常规弹头 它可以引爆弹头
+Dialogue: 0,0:09:38.90,0:09:42.72,1080P-sgbd-42,,0,0,0,,{\blur4}or if it was a nuclear warhead they would use a one-point detonation
+Dialogue: 0,0:09:38.90,0:09:42.72,1080P-shss-90,,0,0,0,,{\blur4}或者如果是核弹头 他们会使用单点引爆的方式
+Dialogue: 0,0:09:42.72,0:09:47.10,1080P-sgbd-42,,0,0,0,,{\blur4}instead of imploding the device, they would just destroy the implosion system
+Dialogue: 0,0:09:42.72,0:09:47.10,1080P-shss-90,,0,0,0,,{\blur4}摧毁内爆系统 而不是让装置内爆
+Dialogue: 0,0:09:47.52,0:09:49.86,1080P-sgbd-42,,0,0,0,,{\blur4}and you would have a instead of a nuclear blast
+Dialogue: 0,0:09:47.52,0:09:49.86,1080P-shss-90,,0,0,0,,{\blur4}这样 不会发生核爆炸
+Dialogue: 0,0:09:49.88,0:09:52.58,1080P-sgbd-42,,0,0,0,,{\blur4}you would have a radiation rich pile of debris.
+Dialogue: 0,0:09:49.88,0:09:52.58,1080P-shss-90,,0,0,0,,{\blur4}而会得到一堆富含辐射的碎片
+Dialogue: 0,0:09:53.51,0:09:56.95,1080P-sgbd-42,,0,0,0,,{\blur4}There was another safety system that was important for the warhead.
+Dialogue: 0,0:09:53.51,0:09:56.95,1080P-shss-90,,0,0,0,,{\blur4}还有一个安全系统对弹头很重要
+Dialogue: 0,0:09:56.95,0:10:00.37,1080P-sgbd-42,,0,0,0,,{\blur4}It would control arming of the warhead based on atmospheric pressure
+Dialogue: 0,0:09:56.95,0:10:00.37,1080P-shss-90,,0,0,0,,{\blur4}它会根据大气压力来控制弹头解除保险
+Dialogue: 0,0:10:00.45,0:10:03.49,1080P-sgbd-42,,0,0,0,,{\blur4}to make sure that it wasn't armed when it was sitting at the base.
+Dialogue: 0,0:10:00.45,0:10:03.49,1080P-shss-90,,0,0,0,,{\blur4}以确保它在基地时不会被解除保险
+Dialogue: 0,0:10:03.92,0:10:08.57,1080P-sgbd-42,,0,0,0,,{\blur4}And included like a distinctive nose sensor that kind of resembled a harpoon.
+Dialogue: 0,0:10:03.92,0:10:08.57,1080P-shss-90,,0,0,0,,{\blur4}而这些还包括像一个独特的头部传感器 它长得有点像鱼叉
+Dialogue: 0,0:10:09.13,0:10:11.92,1080P-sgbd-42,,0,0,0,,{\blur4}The non-nuclear version wouldn't need this of course
+Dialogue: 0,0:10:09.13,0:10:11.92,1080P-shss-90,,0,0,0,,{\blur4}当然 非核版本不需要这个
+Dialogue: 0,0:10:12.22,0:10:16.07,1080P-sgbd-42,,0,0,0,,{\blur4}but they included dummy versions on all the missiles
+Dialogue: 0,0:10:12.22,0:10:16.07,1080P-shss-90,,0,0,0,,{\blur4}但他们在所有的导弹上都安装了假的版本
+Dialogue: 0,0:10:16.24,0:10:19.93,1080P-sgbd-42,,0,0,0,,{\blur4}so that casual inspection wouldn't be able to tell the difference between the missiles
+Dialogue: 0,0:10:16.24,0:10:19.93,1080P-shss-90,,0,0,0,,{\blur4}这样 随便一看是无法分辨出导弹之间的区别的
+Dialogue: 0,0:10:20.01,0:10:21.10,1080P-sgbd-42,,0,0,0,,{\blur4}if you were just looking at them.
+Dialogue: 0,0:10:20.01,0:10:21.10,1080P-shss-90,,0,0,0,,{\blur4}如果你只是(从外部)看着它们的话
+Dialogue: 0,0:10:22.05,0:10:25.85,1080P-sgbd-42,,0,0,0,,{\blur4}So Nike Hercules would have been a formidable defense
+Dialogue: 0,0:10:22.05,0:10:25.85,1080P-shss-90,,0,0,0,,{\blur4}因此 奈基-大力神将会是一个强大的力量
+Dialogue: 0,0:10:25.90,0:10:30.18,1080P-sgbd-42,,0,0,0,,{\blur4}against formations of bombers that were mounting an attack on the United States.
+Dialogue: 0,0:10:25.90,0:10:30.18,1080P-shss-90,,0,0,0,,{\blur4}在防御轰炸机编队对美国的攻击上
+Dialogue: 0,0:10:30.55,0:10:35.17,1080P-sgbd-42,,0,0,0,,{\blur4}However by the time that Nike Hercules was deployed in 1958
+Dialogue: 0,0:10:30.55,0:10:35.17,1080P-shss-90,,0,0,0,,{\blur4}然而 在1958年部署奈基-大力神时
+Dialogue: 0,0:10:35.42,0:10:40.41,1080P-sgbd-42,,0,0,0,,{\blur4}the Soviet Union had already demonstrated the ability to want launch warheads on rockets.
+Dialogue: 0,0:10:35.42,0:10:40.41,1080P-shss-90,,0,0,0,,{\blur4}苏联已经证明 其有能力在用火箭发射弹头
+Dialogue: 0,0:10:40.79,0:10:43.28,1080P-sgbd-42,,0,0,0,,{\blur4}And the equations changed again.
+Dialogue: 0,0:10:40.79,0:10:43.28,1080P-shss-90,,0,0,0,,{\blur4}于是 局面再次发生变化
+Dialogue: 0,0:10:44.06,0:10:46.24,1080P-sgbd-42,,0,0,0,,{\blur4}So they did actually demonstrate that
+Dialogue: 0,0:10:44.06,0:10:46.24,1080P-shss-90,,0,0,0,,{\blur4}所以他们确实证明了
+Dialogue: 0,0:10:46.26,0:10:50.40,1080P-sgbd-42,,0,0,0,,{\blur4}a Nike Hercules could in theory shoot down a ballistic missile
+Dialogue: 0,0:10:46.26,0:10:50.40,1080P-shss-90,,0,0,0,,{\blur4}奈基-大力神在理论上可以击落一枚弹道导弹
+Dialogue: 0,0:10:50.42,0:10:53.06,1080P-sgbd-42,,0,0,0,,{\blur4}by intercepting a Corporal ballistic missile
+Dialogue: 0,0:10:50.42,0:10:53.06,1080P-shss-90,,0,0,0,,{\blur4}通过拦截一枚下士弹道导弹
+Dialogue: 0,0:10:53.50,0:10:58.60,1080P-sgbd-42,,0,0,0,,{\blur4}but it really wasn't well designed or well suited for anti-ballistic missile work
+Dialogue: 0,0:10:53.50,0:10:58.60,1080P-shss-90,,0,0,0,,{\blur4}但它的设计并不完善 或者说不适合用于反弹道导弹工作
+Dialogue: 0,0:10:59.03,0:11:04.48,1080P-sgbd-42,,0,0,0,,{\blur4}and so the Nike Zeus was proposed which was bigger and faster still
+Dialogue: 0,0:10:59.03,0:11:04.48,1080P-shss-90,,0,0,0,,{\blur4}因此 他们提出了奈基-宙斯 它更大更快
+Dialogue: 0,0:11:04.48,0:11:07.13,1080P-sgbd-42,,0,0,0,,{\blur4}and it used a completely different guidance system.
+Dialogue: 0,0:11:04.48,0:11:07.13,1080P-shss-90,,0,0,0,,{\blur4}而且它使用了完全不同的制导系统
+Dialogue: 0,0:11:07.54,0:11:12.19,1080P-sgbd-42,,0,0,0,,{\blur4}It was tested but it never really made it to operational status.
+Dialogue: 0,0:11:07.54,0:11:12.19,1080P-shss-90,,0,0,0,,{\blur4}它被测试过 但它从未真正进入可运作状态
+Dialogue: 0,0:11:12.21,0:11:15.14,1080P-sgbd-42,,0,0,0,,{\blur4}They also promoted as a anti-satellite weapon.
+Dialogue: 0,0:11:12.21,0:11:15.14,1080P-shss-90,,0,0,0,,{\blur4}他们还将其作为一种反卫星武器来推广
+Dialogue: 0,0:11:15.44,0:11:17.32,1080P-sgbd-42,,0,0,0,,{\blur4}Never got deployed like that either.
+Dialogue: 0,0:11:15.44,0:11:17.32,1080P-shss-90,,0,0,0,,{\blur4}它也没有得到那样的部署
+Dialogue: 0,0:11:17.83,0:11:19.26,1080P-sgbd-42,,0,0,0,,{\blur4}And of course during the whole career
+Dialogue: 0,0:11:17.83,0:11:19.26,1080P-shss-90,,0,0,0,,{\blur4}当然 在其整个服役生涯中
+Dialogue: 0,0:11:19.28,0:11:23.40,1080P-sgbd-42,,0,0,0,,{\blur4}the US never actually fired any of its Nike missiles at live targets.
+Dialogue: 0,0:11:19.28,0:11:23.40,1080P-shss-90,,0,0,0,,{\blur4}美国从未真正向实战目标发射过任何奈基导弹
+Dialogue: 0,0:11:23.48,0:11:24.95,1080P-sgbd-42,,0,0,0,,{\blur4}It was never used in anger.
+Dialogue: 0,0:11:23.48,0:11:24.95,1080P-shss-90,,0,0,0,,{\blur4}它从未在愤怒中被使用过
+Dialogue: 0,0:11:25.17,0:11:31.43,1080P-sgbd-42,,0,0,0,,{\blur4}There was actually a demonstration of the Hercules with the nuclear warhead in november of 1962.
+Dialogue: 0,0:11:25.17,0:11:31.43,1080P-shss-90,,0,0,0,,{\blur4}实际上 在1962年11月搭载核弹头的大力神曾被试验过
+Dialogue: 0,0:11:31.85,0:11:35.36,1080P-sgbd-42,,0,0,0,,{\blur4}The US carried out what would be its last atmospheric test
+Dialogue: 0,0:11:31.85,0:11:35.36,1080P-shss-90,,0,0,0,,{\blur4}美国使用大力神 进行了其最后一次大气层核试验
+Dialogue: 0,0:11:35.36,0:11:38.94,1080P-sgbd-42,,0,0,0,,{\blur4}using a Hercules on Johnston Island in the south pacific.
+Dialogue: 0,0:11:35.36,0:11:38.94,1080P-shss-90,,0,0,0,,{\blur4}在南太平洋的约翰斯顿环礁
+Dialogue: 0,0:11:39.44,0:11:45.36,1080P-sgbd-42,,0,0,0,,{\blur4}It detonated the warhead at 69 000 feet practically over the island.
+Dialogue: 0,0:11:39.44,0:11:45.36,1080P-shss-90,,0,0,0,,{\blur4}它在21公里的高空引爆了弹头 很接近岛的上方
+Dialogue: 0,0:11:45.72,0:11:47.46,1080P-sgbd-42,,0,0,0,,{\blur4}The test was codenamed Tightrope
+Dialogue: 0,0:11:45.72,0:11:47.46,1080P-shss-90,,0,0,0,,{\blur4}这次试验的代号是钢丝
+Dialogue: 0,0:11:47.53,0:11:50.40,1080P-sgbd-42,,0,0,0,,{\blur4}and it was a final test of Operation Dominic
+Dialogue: 0,0:11:47.53,0:11:50.40,1080P-shss-90,,0,0,0,,{\blur4}它是多米尼克行动的最后一次测试
+Dialogue: 0,0:11:50.46,0:11:52.86,1080P-sgbd-42,,0,0,0,,{\blur4}that had many other high altitude tests
+Dialogue: 0,0:11:50.46,0:11:52.86,1080P-shss-90,,0,0,0,,{\blur4}其中还有许多其他的高空试验
+Dialogue: 0,0:11:52.90,0:11:59.58,1080P-sgbd-42,,0,0,0,,{\blur4}including the much more famous Starfish Prime shot that exploded at 400 kilometers altitude.
+Dialogue: 0,0:11:52.90,0:11:59.58,1080P-shss-90,,0,0,0,,{\blur4}包括于400千米高空进行的更有名的海星一号测试
+Dialogue: 0,0:12:00.61,0:12:06.01,1080P-sgbd-42,,0,0,0,,{\blur4}The US shut down most of the Nike sites by 1974 as part of the SALT treaty
+Dialogue: 0,0:12:00.61,0:12:06.01,1080P-shss-90,,0,0,0,,{\blur4}到1974年 美国关闭了大部分奈基导弹基地 作为SALT条约的一部分
+Dialogue: 0,0:12:06.32,0:12:09.38,1080P-sgbd-42,,0,0,0,,{\blur4}and that included the SF-88 site near me.
+Dialogue: 0,0:12:06.32,0:12:09.38,1080P-shss-90,,0,0,0,,{\blur4}而这其中包括我附近的SF-88基地
+Dialogue: 0,0:12:09.62,0:12:13.68,1080P-sgbd-42,,0,0,0,,{\blur4}Although there were a number of other coastal sites that remained active a little longer.
+Dialogue: 0,0:12:09.62,0:12:13.68,1080P-shss-90,,0,0,0,,{\blur4}虽然有一些其他沿海地区的发射场仍然运作了一段时间
+Dialogue: 0,0:12:13.85,0:12:17.60,1080P-sgbd-42,,0,0,0,,{\blur4}There's a couple of sites in Alaska that remained active until 1979
+Dialogue: 0,0:12:13.85,0:12:17.60,1080P-shss-90,,0,0,0,,{\blur4}在阿拉斯加有几个发射点一直运作到1979年
+Dialogue: 0,0:12:17.60,0:12:23.36,1080P-sgbd-42,,0,0,0,,{\blur4}and around the world there were other nations that kept their missiles running well into the 1990s
+Dialogue: 0,0:12:17.60,0:12:23.36,1080P-shss-90,,0,0,0,,{\blur4}而在世界范围内 还有其他国家的导弹一直运行到20世纪90年代
+Dialogue: 0,0:12:23.36,0:12:26.50,1080P-sgbd-42,,0,0,0,,{\blur4}obviously lacking the extra spicy warhead option.
+Dialogue: 0,0:12:23.36,0:12:26.50,1080P-shss-90,,0,0,0,,{\blur4}显然 他们缺乏额外的辛辣弹头选项
+Dialogue: 0,0:12:27.30,0:12:33.02,1080P-sgbd-42,,0,0,0,,{\blur4}The Nike booster stage also found use in a lot of different sounding rocket designs used for research
+Dialogue: 0,0:12:27.30,0:12:33.02,1080P-shss-90,,0,0,0,,{\blur4}奈基的助推器级 也被用于许多不同的研究用探空火箭的设计中
+Dialogue: 0,0:12:33.04,0:12:36.13,1080P-sgbd-42,,0,0,0,,{\blur4}and usually the names are based on the first and second stage
+Dialogue: 0,0:12:33.04,0:12:36.13,1080P-shss-90,,0,0,0,,{\blur4}而且 其通常名称是根据第一级和第二级命名的
+Dialogue: 0,0:12:36.16,0:12:42.51,1080P-sgbd-42,,0,0,0,,{\blur4}so you had things like Nike Apache, Nike Javelin, Nike Tomahawk and even Nike Nike.
+Dialogue: 0,0:12:36.16,0:12:42.51,1080P-shss-90,,0,0,0,,{\blur4}所以你会有像奈基-阿帕奇 奈基-标枪 奈基-战斧 甚至奈基-奈基的东西
+Dialogue: 0,0:12:43.04,0:12:46.32,1080P-sgbd-42,,0,0,0,,{\blur4}The most enduring model I can find is the Nike Tomahawk
+Dialogue: 0,0:12:43.04,0:12:46.32,1080P-shss-90,,0,0,0,,{\blur4}我可以找到使用最久的型号是奈基-战斧
+Dialogue: 0,0:12:46.32,0:12:49.76,1080P-sgbd-42,,0,0,0,,{\blur4}which continued to fly right up until 1995.
+Dialogue: 0,0:12:46.32,0:12:49.76,1080P-shss-90,,0,0,0,,{\blur4}它被一直使用到1995年
+Dialogue: 0,0:12:50.29,0:12:52.85,1080P-sgbd-42,,0,0,0,,{\blur4}So look I know this isn't my usual space content
+Dialogue: 0,0:12:50.29,0:12:52.85,1080P-shss-90,,0,0,0,,{\blur4}所以看 我知道这不是我通常讲的太空相关内容
+Dialogue: 0,0:12:52.87,0:12:54.66,1080P-sgbd-42,,0,0,0,,{\blur4}but it is something from rocket history
+Dialogue: 0,0:12:52.87,0:12:54.66,1080P-shss-90,,0,0,0,,{\blur4}但它是火箭历史上的东西
+Dialogue: 0,0:12:54.71,0:12:56.32,1080P-sgbd-42,,0,0,0,,{\blur4}and it's practically in my backyard.
+Dialogue: 0,0:12:54.71,0:12:56.32,1080P-shss-90,,0,0,0,,{\blur4}而且它几乎就在我的后院
+Dialogue: 0,0:12:56.32,0:12:57.86,1080P-sgbd-42,,0,0,0,,{\blur4}I wanted to share it with you.
+Dialogue: 0,0:12:56.32,0:12:57.86,1080P-shss-90,,0,0,0,,{\blur4}所以我想与你分享它
+Dialogue: 0,0:12:58.43,0:13:00.86,1080P-sgbd-42,,0,0,0,,{\blur4}I'm Scott Manley. Fly safe.
+Dialogue: 0,0:12:58.43,0:13:00.86,1080P-shss-90,,0,0,0,,{\blur4}我是Scott Manley 切记 注意飞行安全
+Dialogue: 0,0:13:00.88,0:13:22.72,1080P-sgbd-4s,,0,0,0,,{\blur4}[Music]
+Dialogue: 0,0:13:00.88,0:13:22.72,1080P-sgsm-6s,,0,0,0,,{\blur4}[音乐]
