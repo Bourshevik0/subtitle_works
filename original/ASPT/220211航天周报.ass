@@ -8,11 +8,22 @@ PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Last Style Storage: a_sarasa_gothic_common
+Audio File: 【62】220211航天周报.mp4
+Video File: 【62】220211航天周报.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.450000
+Scroll Position: 24
+Active Line: 27
+Video Position: 5608
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
 Style: 1080P-sgsm-50,更纱黑体 SC Semibold,50,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,7,10,10,10,134
-Style: 1080P-sgsm-6a,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,25,134
+Style: 1080P-sgsm-6a,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,55,134
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
