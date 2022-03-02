@@ -37,7 +37,7 @@ Style: 1080P-sgbd-48,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:18.96,0:01:28.96,shsm-7-60,,0,0,0,,注释
 Dialogue: 0,0:00:04.01,0:00:10.74,shsm-5-100,,0,0,0,,{\pos(750,120)\fad(1000,1000)\blur4\fs60}\N\N感谢以下大佬于2022年2月份的赞助：
-Dialogue: 0,0:00:04.01,0:00:15.64,shsm-1-50s,,0,0,0,,{\fad(1000,1000)\blur4\fs45}所有素材及数据出处见 github.com/Bourshevik0/launchinfo，本视频许可CC BY-NC-SA 4.0\N时间索引：00:15 发射统计，02:19 NROL-87，02:34 Starlink G4-7，03:07 中子一号星，03:19 VS27，03:43 Rocket 3 LV0008，\N04:05 EOS-04，04:17 进步MS-19，05:12 进步MS-19，05:54 Starlink G4-8，06:40 Starlink G4-11，07:30 陆地探测一号01组A星，\N07:52 长征八号遥二，08:05 StriX-β
+Dialogue: 0,0:00:04.01,0:00:15.64,shsm-1-50s,,0,0,0,,{\fad(1000,1000)\blur4\fs45}所有素材及数据出处见 github.com/Bourshevik0/launchinfo，本视频许可CC BY-NC-SA 4.0\N时间索引：00:15 发射统计，00:47 NROL-87，02:19 Starlink G4-7，03:07 中子一号星，03:19 VS27，03:43 Rocket 3 LV0008，\N04:05 EOS-04，04:17 进步MS-19，05:12 CRS NG-17，05:54 Starlink G4-8，06:40 Starlink G4-11，07:30 陆地探测一号01组B星，\N07:52 长征八号遥二，08:05 StriX-β
 Dialogue: 0,0:00:09.74,0:00:15.64,shsm-5-100,,0,0,0,,{\pos(750,120)\fad(1000,1000)\blur4\fs60}\N\N感谢以下大佬于2022年2月份的校对：
 Dialogue: 0,0:00:47.21,0:00:57.21,shsm-7-60,,0,0,0,,{\an8\pos(1640,10)\fad(1000,1000)\blur4}任务徽章\N{\fs20}\N{\r\p1\bord0\shad0\1img(F:/Videos/旋火/航天发射记录-2202/mission patch/NROL-87_Patch.0.png)}m 0 0 l 0 500 l 500 500 l 500 0{\p0}
 Dialogue: 0,0:02:19.59,0:02:24.59,shsm-7-60,,0,0,0,,{\an8\pos(1640,10)\fad(1000,1000)\blur4}任务徽章\N{\fs20}\N{\r\p1\bord0\shad0\1img(F:/Videos/旋火/archived/航天发射记录-2101/mission patch/Starlink_FINAL.0.png)}m 0 0 l 0 500 l 500 500 l 500 0{\p0}
