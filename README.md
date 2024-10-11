@@ -35,7 +35,7 @@ title-uploader-upload_date-youtube_id
 标题-原上传者-上传时间-youtube视频ID
 ```
 
-Some name may be too long to be the filename so it may only have youtube_id.
+Some name may be too long to be the filename so it may only has youtube_id.
 
 有些名称过长无法用于文件名，可能只有youtube视频ID。
 
@@ -43,7 +43,7 @@ Some name may be too long to be the filename so it may only have youtube_id.
 
 Add the id after the url (https://www.youtube.com/watch?v=) to browse the youtube video. If you want to download the youtube videos, you can use [youtube-dl](https://github.com/rg3/youtube-dl/releases)(commandline program), [youtube-dlg](https://github.com/MrS0m30n3/youtube-dl-gui/releases)(GUI program), [Internet download manager](https://www.internetdownloadmanager.com/)(Browser plugin needed) etc.
 
-在该网址 ("https://www.youtube.com/watch?v=") 后面输入id来打开视频。如果你需要下载youtube视频的工具，可以使用[youtube-dl](https://github.com/rg3/youtube-dl/releases)(命令行程序), [youtube-dlg](https://github.com/MrS0m30n3/youtube-dl-gui/releases)(图形界面程序), [Internet download manager](https://www.internetdownloadmanager.com/)(需要借助浏览器插件)等等。
+在该网址 ("https://www.youtube.com/watch?v=") 后面输入id来打开视频。如果你需要下载youtube视频的工具，可以使用[yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)(命令行程序), [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui/releases)(图形界面程序), [Internet download manager](https://www.internetdownloadmanager.com/)(需要借助浏览器插件)等等。
 
 ```html
 https://www.youtube.com/watch?v=DdSbbG2uhxg
