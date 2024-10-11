@@ -66,7 +66,7 @@ Dialogue: 0,0:01:04.51,0:01:06.56,1080P-shss-90-nb,,0,0,0,,这将迫使液体加
 Dialogue: 0,0:01:06.56,0:01:08.52,1080P-sgbd-42-nb,,0,0,0,,Once the gas reaches the throat of the nozzle
 Dialogue: 0,0:01:06.56,0:01:08.52,1080P-shss-90-nb,,0,0,0,,一旦气体到达喷嘴的喉部
 Dialogue: 0,0:01:08.52,0:01:11.92,1080P-sgbd-42-nb,,0,0,0,,it's forced to sonic speed where physics changes a little bit.
-Dialogue: 0,0:01:08.52,0:01:11.92,1080P-shss-90-nb,,0,0,0,,它就会被迫加速到超音速 此时物理学会发生一些变化
+Dialogue: 0,0:01:08.52,0:01:11.92,1080P-shss-90-nb,,0,0,0,,它就会被迫加速到音速 此时物理学会发生一些变化
 Dialogue: 0,0:01:11.92,0:01:16.04,1080P-sgbd-42-nb,,0,0,0,,Once it's at supersonic speeds, any expansion is going to drop pressure further
 Dialogue: 0,0:01:11.92,0:01:16.04,1080P-shss-90-nb,,0,0,0,,一旦达到超音速 任何膨胀都会进一步降低压力
 Dialogue: 0,0:01:16.04,0:01:18.04,1080P-sgbd-42-nb,,0,0,0,,but continue increasing velocity.
@@ -286,7 +286,7 @@ Dialogue: 0,0:06:41.75,0:06:44.08,1080P-shss-90-nb,,0,0,0,,很轴的发动机 �
 Dialogue: 0,0:06:49.47,0:06:52.52,1080P-sgbd-42-nb,,0,0,0,,This is a classic failure mode, a tale as old as time.
 Dialogue: 0,0:06:49.47,0:06:52.52,1080P-shss-90-nb,,0,0,0,,这是一个经典的故障模式 {\i1}和岁月一样古老的故事{\i0}
 Dialogue: 0,0:06:52.52,0:06:56.86,1080P-sgbd-42-nb,,0,0,0,,Someone drops the rocket motor and processing and your GPS satellite becomes confetti.
-Dialogue: 0,0:06:52.52,0:06:56.86,1080P-shss-90-nb,,0,0,0,,有人的火箭发动机和航电都掉落在地上 而GPS卫星变成了纸屑
+Dialogue: 0,0:06:52.52,0:06:56.86,1080P-shss-90-nb,,0,0,0,,有人扔掉了火箭发动机和航电 而你的GPS卫星就变成了纸屑
 Dialogue: 0,0:06:58.68,0:07:00.87,1080P-sgbd-42-nb,,0,0,0,,We have had an anomaly.
 Dialogue: 0,0:06:58.68,0:07:00.87,1080P-shss-90-nb,,0,0,0,,我们已经遇到了异常情况
 Dialogue: 0,0:07:00.87,0:07:04.80,1080P-sgbd-42-nb,,0,0,0,,The only safe bet with solid rocket motors is to ditch the nozzle.
@@ -320,7 +320,7 @@ Dialogue: 0,0:07:41.28,0:07:45.08,1080P-shss-90-nb,,0,0,0,,如果你想确保喷
 Dialogue: 0,0:07:45.08,0:07:48.02,1080P-sgbd-42-nb,,0,0,0,,Even if you're flying a high power rocket stabilized by fins
 Dialogue: 0,0:07:45.08,0:07:48.02,1080P-shss-90-nb,,0,0,0,,即使是用翼面稳定的大功率火箭
 Dialogue: 0,0:07:48.06,0:07:50.52,1080P-sgbd-42-nb,,0,0,0,,the nozzle is still the best thing that can fail.
-Dialogue: 0,0:07:48.06,0:07:50.52,1080P-shss-90-nb,,0,0,0,,喷嘴仍然是最容易发生故障的部件
+Dialogue: 0,0:07:48.06,0:07:50.52,1080P-shss-90-nb,,0,0,0,,喷嘴故障仍然是最好的失效模式
 Dialogue: 0,0:07:50.52,0:07:52.91,1080P-sgbd-42-nb,,0,0,0,,If your nozzle falls out, the Rocket won't go as high
 Dialogue: 0,0:07:50.52,0:07:52.91,1080P-shss-90-nb,,0,0,0,,如果喷嘴脱落 火箭的飞行高度会降低
 Dialogue: 0,0:07:52.91,0:07:55.02,1080P-sgbd-42-nb,,0,0,0,,but everything forward of the motor is safe.
