@@ -18,6 +18,7 @@ Style: 1080P-shss-90-nb,思源宋体,90,&H00FFFFFF,&HFF000000,&H5A000000,&HFF000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.12,0:00:05.04,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(1070,10,1040,10,0,500)}原视频名：{\fs40}Northrop Grumman has a nozzle problem\N{\fs50}原作者名：BPS.space\N视频来源：youtu.be/uS3sPPp5Iu0\N原视频发布日期：20241008\N字幕翻译：旋火
 Dialogue: 0,0:02:57.12,0:03:04.23,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}SRB喷嘴其实不是锥面喷嘴 只是长得像\N{\fs30}https://space.stackexchange.com/questions/61416/for-shuttle-srb-solid-fuel-perforations-what-is-the-shape-of-the-double-truncat
+Dialogue: 0,0:04:21.88,0:04:27.44,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}这一段屏幕上的数值标错了，一台BE-4的推力就是550000磅
 Dialogue: 0,0:06:58.68,0:07:04.80,1080P-sgsm-50,,0,0,0,,{\fad(500,500)\blur4\move(-20,10,10,10,0,500)}19970117 Delta II 7925-9.5 GPS IIR-1 https://youtu.be/mTmb3Cqb2qw
 Dialogue: 0,0:00:00.12,0:00:01.31,1080P-sgbd-42-nb,,0,0,0,,Sponsored by Brilliant.
 Dialogue: 0,0:00:00.12,0:00:01.31,1080P-shss-90-nb,,0,0,0,,本视频由Brilliant赞助
@@ -98,7 +99,7 @@ Dialogue: 0,0:01:50.37,0:01:54.42,1080P-shss-90-nb,,0,0,0,,你现在看到的是
 Dialogue: 0,0:01:54.43,0:01:58.96,1080P-sgbd-42-nb,,0,0,0,,According to the simulation, the total impulse delivered is about 42,000 newton-seconds(Ns)
 Dialogue: 0,0:01:54.43,0:01:58.96,1080P-shss-90-nb,,0,0,0,,模拟结果显示 总冲量约为42000牛顿秒(后简称Ns)
 Dialogue: 0,0:01:58.96,0:02:03.00,1080P-sgbd-42-nb,,0,0,0,,but if I make some changes to the nozzle, we can effectively remove the exit cone.
-Dialogue: 0,0:01:58.96,0:02:03.00,1080P-shss-90-nb,,0,0,0,,但如果我对喷嘴做一些改动 就可以有效地去除尾锥口
+Dialogue: 0,0:01:58.96,0:02:03.00,1080P-shss-90-nb,,0,0,0,,但如果我对喷嘴做一些改动 就可以等同于去除尾锥口
 Dialogue: 0,0:02:03.00,0:02:06.52,1080P-sgbd-42-nb,,0,0,0,,This drops the total impulse to 34,500 Ns
 Dialogue: 0,0:02:03.00,0:02:06.52,1080P-shss-90-nb,,0,0,0,,这样 总冲量就降到了34500Ns
 Dialogue: 0,0:02:06.52,0:02:09.14,1080P-sgbd-42-nb,,0,0,0,,so the total impulse dropped by about 18%
@@ -192,7 +193,7 @@ Dialogue: 0,0:04:17.07,0:04:18.72,1080P-shss-90-nb,,0,0,0,,但我也会在屏幕
 Dialogue: 0,0:04:18.72,0:04:21.88,1080P-sgbd-42-nb,,0,0,0,,Because sometimes people get unreasonably upset about that.
 Dialogue: 0,0:04:18.72,0:04:21.88,1080P-shss-90-nb,,0,0,0,,因为有时人们会无理取闹
 Dialogue: 0,0:04:21.88,0:04:25.51,1080P-sgbd-42-nb,,0,0,0,,Each BE-4 engine produces 550,000 lb of thrust.
-Dialogue: 0,0:04:21.88,0:04:25.51,1080P-shss-90-nb,,0,0,0,,每台BE-4发动机可产生226.796吨推力
+Dialogue: 0,0:04:21.88,0:04:25.51,1080P-shss-90-nb,,0,0,0,,每台BE-4发动机可产生249.475吨推力
 Dialogue: 0,0:04:25.58,0:04:27.44,1080P-sgbd-42-nb,,0,0,0,,Times 2, it's 1.1 million.
 Dialogue: 0,0:04:25.58,0:04:27.44,1080P-shss-90-nb,,0,0,0,,乘以2 就是498.951吨推力
 Dialogue: 0,0:04:27.44,0:04:30.84,1080P-sgbd-42-nb,,0,0,0,,Each SRB at liftoff is providing about 400,000 lb of thrust
