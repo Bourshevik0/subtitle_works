@@ -9,6 +9,9 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Active Line: 20
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -39,7 +42,7 @@ Dialogue: 0,0:02:05.69,0:02:16.16,1080P-sgsm-63b0,,0,0,0,,{\blur4\bord2\fs60\pos
 Dialogue: 0,0:02:56.28,0:03:01.58,1080P-sgsm-63b0,,0,0,0,,{\fs80\pos(138,60)}超级八 - Q11000固体火箭
 Dialogue: 0,0:02:56.28,0:03:01.58,1080P-sgsm-63b0,,0,0,0,,{\blur4\bord2\fs60\pos(138,580)}推进剂质量  {\c&H02F1FD&}54.4 kg\N{\c&HFFFFFF&}最大推力  {\c&H02F1FD&}14.871 kN\N{\c&HFFFFFF&}最大室压  {\c&H02F1FD&}6.57 MPa\N{\c&HFFFFFF&}总冲量  {\c&H02F1FD&}111.507 kN᛫s
 Comment: 0,0:00:02.44,0:00:07.24,1080P-sgsm-63,,0,0,0,,底部字幕
-Dialogue: 0,0:00:02.11,0:00:07.24,1080P-sgsm-63,,0,0,0,,{\blur4}我们做这个 不是因为它简单 而是因为我们认为它简单
+Dialogue: 0,0:00:02.11,0:00:07.24,1080P-sgsm-63,,0,0,0,,{\blur4}我们做这个 不是因为它简单 而是因为以前我们认为它简单
 Dialogue: 0,0:00:07.24,0:00:09.78,1080P-sgsm-63,,0,0,0,,{\blur4}卡门线火箭推进系统研发
 Dialogue: 0,0:00:14.91,0:00:17.91,1080P-sgsm-63,,0,0,0,,{\blur4}2023年1月
 Dialogue: 0,0:00:50.15,0:00:53.12,1080P-sgsm-63,,0,0,0,,{\blur4}点火器研发
